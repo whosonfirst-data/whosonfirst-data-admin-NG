@@ -1,0 +1,67 @@
+{
+  "id": 1209744955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01004,9.25502,7.01004,9.25502",
+    "geom:latitude":9.25502,
+    "geom:longitude":7.01004,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Tahiri",
+    "gn:country_code":"NG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322610,
+    "gn:latitude":9.25502,
+    "gn:longitude":7.01004,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Tahiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108562901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322610
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0167f81ae1c616540bc6fadf9d1e3ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562901,
+            "locality_id":1209744955,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1209744955,
+    "wof:lastmodified":1536395423,
+    "wof:name":"Tahiri",
+    "wof:parent_id":1108562901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01004,
+    9.25502,
+    7.01004,
+    9.25502
+],
+  "geometry": {"coordinates":[7.01004,9.25502],"type":"Point"}
+}

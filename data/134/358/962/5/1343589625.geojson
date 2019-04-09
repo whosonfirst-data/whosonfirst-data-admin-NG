@@ -1,0 +1,68 @@
+{
+  "id": 1343589625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11778,4.93167,7.11778,4.93167",
+    "geom:latitude":4.93167,
+    "geom:longitude":7.11778,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33011.0",
+    "gn:asciiname":"Rukwangwo",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591703,
+    "gn:latitude":4.93167,
+    "gn:longitude":7.11778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rukwangwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591703
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"340cf34e8b9dca7f720f83273cd8fa93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563331,
+            "locality_id":1343589625,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343589625,
+    "wof:lastmodified":1537055082,
+    "wof:name":"Rukwangwo",
+    "wof:parent_id":1108563331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11778,
+    4.93167,
+    7.11778,
+    4.93167
+],
+  "geometry": {"coordinates":[7.11778,4.93167],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209134425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5,8.4,8.5,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":8.5,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26003.0",
+    "gn:asciiname":"Gidan Ausa",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341156,
+    "gn:latitude":8.4,
+    "gn:longitude":8.5,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Ausa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341156
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd7fcbe8778fbff0f39f48ee3375cc14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134425
+        }
+    ],
+    "wof:id":1209134425,
+    "wof:lastmodified":1536296707,
+    "wof:name":"Gidan Ausa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5,
+    8.4,
+    8.5,
+    8.4
+],
+  "geometry": {"coordinates":[8.5,8.4],"type":"Point"}
+}

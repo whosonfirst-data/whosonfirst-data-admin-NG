@@ -1,0 +1,75 @@
+{
+  "id": 1309671727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.39264,8.08747,4.39264,8.08747",
+    "geom:latitude":8.08747,
+    "geom:longitude":4.39264,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31033.0",
+    "gn:asciiname":"Iresa-Adu",
+    "gn:country_code":"NG",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2337319,
+    "gn:latitude":8.08747,
+    "gn:longitude":4.39264,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iresa-Adu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iressa",
+        "Iresa",
+        "Iresa-Du",
+        "Iresa-Adu",
+        "Iresadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337319
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e5124a16faba90deca699d25cd955686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564385,
+            "locality_id":1309671727,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1309671727,
+    "wof:lastmodified":1537675182,
+    "wof:name":"Iresa-Adu",
+    "wof:parent_id":1108564385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.39264,
+    8.08747,
+    4.39264,
+    8.08747
+],
+  "geometry": {"coordinates":[4.39264,8.08747],"type":"Point"}
+}

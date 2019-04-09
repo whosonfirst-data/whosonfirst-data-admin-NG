@@ -1,0 +1,68 @@
+{
+  "id": 1242903167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55485,8.89438,11.55485,8.89438",
+    "geom:latitude":8.89438,
+    "geom:longitude":11.55485,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015",
+    "gn:asciiname":"Bajadaku",
+    "gn:country_code":"NG",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861718,
+    "gn:latitude":8.89438,
+    "gn:longitude":11.55485,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bajadaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861718
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4a53f8708e3dec4cb86086bf7d3f7038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1242903167,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1242903167,
+    "wof:lastmodified":1537088640,
+    "wof:name":"Bajadaku",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55485,
+    8.89438,
+    11.55485,
+    8.89438
+],
+  "geometry": {"coordinates":[11.55485,8.89438],"type":"Point"}
+}

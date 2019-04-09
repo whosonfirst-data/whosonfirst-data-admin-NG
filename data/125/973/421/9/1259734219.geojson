@@ -1,0 +1,67 @@
+{
+  "id": 1259734219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73707,5.49222,6.73707,5.49222",
+    "geom:latitude":5.49222,
+    "geom:longitude":6.73707,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Abaezi",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101294,
+    "gn:latitude":5.49222,
+    "gn:longitude":6.73707,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Abaezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101294
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"11c598d96a370c923a5458dc36ed4a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564105,
+            "locality_id":1259734219,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1259734219,
+    "wof:lastmodified":1536993338,
+    "wof:name":"Abaezi",
+    "wof:parent_id":1108564105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73707,
+    5.49222,
+    6.73707,
+    5.49222
+],
+  "geometry": {"coordinates":[6.73707,5.49222],"type":"Point"}
+}

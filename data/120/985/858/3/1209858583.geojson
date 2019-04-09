@@ -1,0 +1,71 @@
+{
+  "id": 1209858583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31835,6.67873,6.31835,6.67873",
+    "geom:latitude":6.67873,
+    "geom:longitude":6.31835,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Uwalor",
+    "gn:country_code":"NG",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319497,
+    "gn:latitude":6.67873,
+    "gn:longitude":6.31835,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uwalor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uwalor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319497
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c1ec9fb6eca7bd171127fa14d58495c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1209858583,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1209858583,
+    "wof:lastmodified":1537674917,
+    "wof:name":"Uwalor",
+    "wof:parent_id":1108563317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31835,
+    6.67873,
+    6.31835,
+    6.67873
+],
+  "geometry": {"coordinates":[6.31835,6.67873],"type":"Point"}
+}

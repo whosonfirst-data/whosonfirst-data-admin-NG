@@ -1,0 +1,68 @@
+{
+  "id": 1243582297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.82688,10.83368,5.82688,10.83368",
+    "geom:latitude":10.83368,
+    "geom:longitude":5.82688,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27015",
+    "gn:asciiname":"Bangi",
+    "gn:country_code":"NG",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10182318,
+    "gn:latitude":10.83368,
+    "gn:longitude":5.82688,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182318
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7012b678784e1f4fedc8e67eb5bb8324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563947,
+            "locality_id":1243582297,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243582297,
+    "wof:lastmodified":1536607069,
+    "wof:name":"Bangi",
+    "wof:parent_id":1108563947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.82688,
+    10.83368,
+    5.82688,
+    10.83368
+],
+  "geometry": {"coordinates":[5.82688,10.83368],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259410625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.70927,10.73393,4.70927,10.73393",
+    "geom:latitude":10.73393,
+    "geom:longitude":4.70927,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Buka",
+    "gn:country_code":"NG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014613,
+    "gn:latitude":10.73393,
+    "gn:longitude":4.70927,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Buka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014613
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a53d4394b0f57a2c41d2cffbc3b735e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564537,
+            "locality_id":1259410625,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1259410625,
+    "wof:lastmodified":1536963439,
+    "wof:name":"Buka",
+    "wof:parent_id":1108564537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.70927,
+    10.73393,
+    4.70927,
+    10.73393
+],
+  "geometry": {"coordinates":[4.70927,10.73393],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260213365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44259,9.54166,9.44259,9.54166",
+    "geom:latitude":9.54166,
+    "geom:longitude":9.44259,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5017.0",
+    "gn:admin3_code":"BA1705",
+    "gn:asciiname":"Bijim",
+    "gn:country_code":"NG",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347185,
+    "gn:latitude":9.54166,
+    "gn:longitude":9.44259,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bijim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bijim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347185
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e3e4ce3de8398cc15c2350a074532e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563139,
+            "locality_id":1260213365,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1260213365,
+    "wof:lastmodified":1537675331,
+    "wof:name":"Bijim",
+    "wof:parent_id":1108563139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44259,
+    9.54166,
+    9.44259,
+    9.54166
+],
+  "geometry": {"coordinates":[9.44259,9.54166],"type":"Point"}
+}

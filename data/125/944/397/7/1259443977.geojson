@@ -1,0 +1,73 @@
+{
+  "id": 1259443977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.18478,11.42577,8.18478,11.42577",
+    "geom:latitude":11.42577,
+    "geom:longitude":8.18478,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20034.0",
+    "gn:admin3_code":"KN2414",
+    "gn:asciiname":"Gidan Maishinkafa",
+    "gn:country_code":"NG",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340873,
+    "gn:latitude":11.42577,
+    "gn:longitude":8.18478,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Maishinkafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maishinkafa",
+        "Gidan Maishinkafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340873
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"07e1aafe3e16b5fbc5d0c82793d0f734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563823,
+            "locality_id":1259443977,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1259443977,
+    "wof:lastmodified":1537675235,
+    "wof:name":"Gidan Maishinkafa",
+    "wof:parent_id":1108563823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.18478,
+    11.42577,
+    8.18478,
+    11.42577
+],
+  "geometry": {"coordinates":[8.18478,11.42577],"type":"Point"}
+}

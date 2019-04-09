@@ -1,0 +1,74 @@
+{
+  "id": 1343897135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.71204,5.74024,5.71204,5.74024",
+    "geom:latitude":5.74024,
+    "geom:longitude":5.71204,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10017.0",
+    "gn:asciiname":"Ogirisen",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027929,
+    "gn:latitude":5.74024,
+    "gn:longitude":5.71204,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ogirisen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ogirisen"
+    ],
+    "name:eng_x_variant":[
+        "Odjedi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027929
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6f10e0a058ac32eb7dce9c0294e3713e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564337,
+            "locality_id":1343897135,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1343897135,
+    "wof:lastmodified":1537675421,
+    "wof:name":"Ogirisen",
+    "wof:parent_id":1108564337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.71204,
+    5.74024,
+    5.71204,
+    5.74024
+],
+  "geometry": {"coordinates":[5.71204,5.74024],"type":"Point"}
+}

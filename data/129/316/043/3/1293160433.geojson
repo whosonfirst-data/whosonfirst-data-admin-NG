@@ -1,0 +1,73 @@
+{
+  "id": 1293160433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.76583,7.50083,3.76583,7.50083",
+    "geom:latitude":7.50083,
+    "geom:longitude":3.76583,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Okuno",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326840,
+    "gn:latitude":7.50083,
+    "gn:longitude":3.76583,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okuno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okuna",
+        "Okuno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326840
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b8a1648df67cb1ee4b810023666dbb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1293160433,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293160433,
+    "wof:lastmodified":1537675035,
+    "wof:name":"Okuno",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.76583,
+    7.50083,
+    3.76583,
+    7.50083
+],
+  "geometry": {"coordinates":[3.76583,7.50083],"type":"Point"}
+}

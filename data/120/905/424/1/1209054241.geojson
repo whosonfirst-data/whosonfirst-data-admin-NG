@@ -1,0 +1,62 @@
+{
+  "id": 1209054241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.09782,7.65324,8.09782,7.65324",
+    "geom:latitude":7.65324,
+    "geom:longitude":8.09782,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7008",
+    "gn:asciiname":"Tsengor",
+    "gn:country_code":"NG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9507255,
+    "gn:latitude":7.65324,
+    "gn:longitude":8.09782,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsengor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9507255
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"19be50034dceda84d10596f49f922be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209054241
+        }
+    ],
+    "wof:id":1209054241,
+    "wof:lastmodified":1536299154,
+    "wof:name":"Tsengor",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.09782,
+    7.6532399999999985,
+    8.09782,
+    7.6532399999999985
+],
+  "geometry": {"coordinates":[8.09782,7.65324],"type":"Point"}
+}

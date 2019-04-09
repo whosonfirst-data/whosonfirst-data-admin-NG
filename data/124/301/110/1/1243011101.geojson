@@ -1,0 +1,72 @@
+{
+  "id": 1243011101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02724,5.96322,6.02724,5.96322",
+    "geom:latitude":5.96322,
+    "geom:longitude":6.02724,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Ewusse",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342958,
+    "gn:latitude":5.96322,
+    "gn:longitude":6.02724,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ewusse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ewussa",
+        "Ewusse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342958
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"925898a4ac084c1d520fb8475d50c82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1243011101,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243011101,
+    "wof:lastmodified":1537675269,
+    "wof:name":"Ewusse",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02724,
+    5.96322,
+    6.02724,
+    5.96322
+],
+  "geometry": {"coordinates":[6.02724,5.96322],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225897741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.87567,9.26662,11.87567,9.26662",
+    "geom:latitude":9.26662,
+    "geom:longitude":11.87567,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tasimi",
+    "gn:country_code":"NG",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209978,
+    "gn:latitude":9.26662,
+    "gn:longitude":11.87567,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Tasimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tasimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209978
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b87ded897c4558f420506d2b9f1a5fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1225897741,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1225897741,
+    "wof:lastmodified":1537675504,
+    "wof:name":"Tasimi",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.87567,
+    9.26662,
+    11.87567,
+    9.26662
+],
+  "geometry": {"coordinates":[11.87567,9.26662],"type":"Point"}
+}

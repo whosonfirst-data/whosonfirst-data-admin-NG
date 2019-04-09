@@ -1,0 +1,68 @@
+{
+  "id": 1242807383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.42671,6.08441,7.42671,6.08441",
+    "geom:latitude":6.08441,
+    "geom:longitude":7.42671,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14002.0",
+    "gn:asciiname":"Nkwe",
+    "gn:country_code":"NG",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328794,
+    "gn:latitude":6.08441,
+    "gn:longitude":7.42671,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nkwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328794
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b49f0dbd78f921567a9ac17dd57722e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563055,
+            "locality_id":1242807383,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1242807383,
+    "wof:lastmodified":1536733067,
+    "wof:name":"Nkwe",
+    "wof:parent_id":1108563055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.42671,
+    6.08441,
+    7.42671,
+    6.08441
+],
+  "geometry": {"coordinates":[7.42671,6.08441],"type":"Point"}
+}

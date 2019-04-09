@@ -1,0 +1,70 @@
+{
+  "id": 1276270179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75292,9.30048,11.75292,9.30048",
+    "geom:latitude":9.30048,
+    "geom:longitude":11.75292,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Zwangni",
+    "gn:country_code":"NG",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210732,
+    "gn:latitude":9.30048,
+    "gn:longitude":11.75292,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Zwangni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zwangni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210732
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa6a6a4fad349f5d45ddbf6509736da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564061,
+            "locality_id":1276270179,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1276270179,
+    "wof:lastmodified":1537675511,
+    "wof:name":"Zwangni",
+    "wof:parent_id":1108564061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75292,
+    9.30048,
+    11.75292,
+    9.30048
+],
+  "geometry": {"coordinates":[11.75292,9.30048],"type":"Point"}
+}

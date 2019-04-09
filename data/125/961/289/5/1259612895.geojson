@@ -1,0 +1,67 @@
+{
+  "id": 1259612895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3923,8.81659,9.3923,8.81659",
+    "geom:latitude":8.81659,
+    "geom:longitude":9.3923,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"River Names",
+    "gn:country_code":"NG",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057439,
+    "gn:latitude":8.81659,
+    "gn:longitude":9.3923,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"River Names",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057439
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb7d59cbf8a01fdcf5e91d99f2483273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1259612895,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259612895,
+    "wof:lastmodified":1536672502,
+    "wof:name":"River Names",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3923,
+    8.81659,
+    9.3923,
+    8.81659
+],
+  "geometry": {"coordinates":[9.3923,8.81659],"type":"Point"}
+}

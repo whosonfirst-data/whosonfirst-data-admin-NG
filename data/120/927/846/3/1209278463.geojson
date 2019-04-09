@@ -1,0 +1,62 @@
+{
+  "id": 1209278463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.74388,4.77667,7.74388,4.77667",
+    "geom:latitude":4.77667,
+    "geom:longitude":7.74388,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3018.0",
+    "gn:asciiname":"Ikot Ebak",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7054353,
+    "gn:latitude":4.77667,
+    "gn:longitude":7.74388,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Ebak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7054353
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc2155d8afa77e5657338c1700f93596",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209278463
+        }
+    ],
+    "wof:id":1209278463,
+    "wof:lastmodified":1536292109,
+    "wof:name":"Ikot Ebak",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.74388,
+    4.776669999999998,
+    7.74388,
+    4.776669999999998
+],
+  "geometry": {"coordinates":[7.74388,4.77667],"type":"Point"}
+}

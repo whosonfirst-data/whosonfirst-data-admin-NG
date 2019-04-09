@@ -1,0 +1,62 @@
+{
+  "id": 1209055307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.03333,8.31667,4.03333,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":4.03333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31028.0",
+    "gn:asciiname":"Elesun Aiyetoro",
+    "gn:country_code":"NG",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343431,
+    "gn:latitude":8.31667,
+    "gn:longitude":4.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Elesun Aiyetoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343431
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2fe73c8008b34225f9fd84459a53eab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209055307
+        }
+    ],
+    "wof:id":1209055307,
+    "wof:lastmodified":1536299128,
+    "wof:name":"Elesun Aiyetoro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03333,
+    8.31667,
+    4.03333,
+    8.31667
+],
+  "geometry": {"coordinates":[4.03333,8.31667],"type":"Point"}
+}

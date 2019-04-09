@@ -1,0 +1,68 @@
+{
+  "id": 1226470895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41623,8.76234,11.41623,8.76234",
+    "geom:latitude":8.76234,
+    "geom:longitude":11.41623,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001",
+    "gn:asciiname":"Mashonbo",
+    "gn:country_code":"NG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10878835,
+    "gn:latitude":8.76234,
+    "gn:longitude":11.41623,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mashonbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10878835
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6cfd9bcd3207529205e0bc4e5e835359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1226470895,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226470895,
+    "wof:lastmodified":1536606473,
+    "wof:name":"Mashonbo",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41623,
+    8.76234,
+    11.41623,
+    8.76234
+],
+  "geometry": {"coordinates":[11.41623,8.76234],"type":"Point"}
+}

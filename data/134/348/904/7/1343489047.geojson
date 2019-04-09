@@ -1,0 +1,73 @@
+{
+  "id": 1343489047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.60454,12.39681,6.60454,12.39681",
+    "geom:latitude":12.39681,
+    "geom:longitude":6.60454,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80501",
+    "gn:asciiname":"Akuzo",
+    "gn:country_code":"NG",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350823,
+    "gn:latitude":12.39681,
+    "gn:longitude":6.60454,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Akuzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akuza",
+        "Akuzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350823
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1f82138f5c139441cd0cb5706253c384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563799,
+            "locality_id":1343489047,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1343489047,
+    "wof:lastmodified":1537675373,
+    "wof:name":"Akuzo",
+    "wof:parent_id":1108563799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.60454,
+    12.39681,
+    6.60454,
+    12.39681
+],
+  "geometry": {"coordinates":[6.60454,12.39681],"type":"Point"}
+}

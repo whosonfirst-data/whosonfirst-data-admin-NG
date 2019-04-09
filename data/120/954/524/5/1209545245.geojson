@@ -1,0 +1,63 @@
+{
+  "id": 1209545245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.55169,13.35473,5.55169,13.35473",
+    "geom:latitude":13.35473,
+    "geom:longitude":5.55169,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60502",
+    "gn:asciiname":"Dole",
+    "gn:country_code":"NG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344606,
+    "gn:latitude":13.35473,
+    "gn:longitude":5.55169,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344606
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e2f822dfa1c55befe3afe6aad6daa738",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545245
+        }
+    ],
+    "wof:id":1209545245,
+    "wof:lastmodified":1536283863,
+    "wof:name":"Dole",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.55169,
+    13.354729999999998,
+    5.55169,
+    13.354729999999998
+],
+  "geometry": {"coordinates":[5.55169,13.35473],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209644891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.05405,9.64105,7.05405,9.64105",
+    "geom:latitude":9.64105,
+    "geom:longitude":7.05405,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018",
+    "gn:asciiname":"Finugbon",
+    "gn:country_code":"NG",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10440390,
+    "gn:latitude":9.64105,
+    "gn:longitude":7.05405,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Finugbon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10440390
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e7c7101a76d791a9c087a21e73c01495",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644891
+        }
+    ],
+    "wof:id":1209644891,
+    "wof:lastmodified":1536280767,
+    "wof:name":"Finugbon",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.05405,
+    9.64105,
+    7.05405,
+    9.64105
+],
+  "geometry": {"coordinates":[7.05405,9.64105],"type":"Point"}
+}

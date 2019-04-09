@@ -1,0 +1,69 @@
+{
+  "id": 1343612675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.17363,11.52555,5.17363,11.52555",
+    "geom:latitude":11.52555,
+    "geom:longitude":5.17363,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"521.0",
+    "gn:admin3_code":"52103",
+    "gn:asciiname":"Daban Dutse",
+    "gn:country_code":"NG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345867,
+    "gn:latitude":11.52555,
+    "gn:longitude":5.17363,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Daban Dutse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345867
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5ca6ec278825130d7610dbad9c65dd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564565,
+            "locality_id":1343612675,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1343612675,
+    "wof:lastmodified":1537023049,
+    "wof:name":"Daban Dutse",
+    "wof:parent_id":1108564565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.17363,
+    11.52555,
+    5.17363,
+    11.52555
+],
+  "geometry": {"coordinates":[5.17363,11.52555],"type":"Point"}
+}

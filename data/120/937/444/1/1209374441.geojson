@@ -1,0 +1,62 @@
+{
+  "id": 1209374441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.0,8.63333,4.0,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":4.0,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31024.0",
+    "gn:asciiname":"Alagutan Oniya",
+    "gn:country_code":"NG",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350653,
+    "gn:latitude":8.63333,
+    "gn:longitude":4.0,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alagutan Oniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350653
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"93f1981df569ec1ea75d34857cca805c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209374441
+        }
+    ],
+    "wof:id":1209374441,
+    "wof:lastmodified":1536288999,
+    "wof:name":"Alagutan Oniya",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.0,
+    8.63333,
+    4.0,
+    8.63333
+],
+  "geometry": {"coordinates":[4.0,8.63333],"type":"Point"}
+}

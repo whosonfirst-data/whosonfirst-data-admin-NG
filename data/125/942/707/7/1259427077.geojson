@@ -1,0 +1,70 @@
+{
+  "id": 1259427077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.4812,9.35718,12.4812,9.35718",
+    "geom:latitude":9.35718,
+    "geom:longitude":12.4812,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bagalchi",
+    "gn:country_code":"NG",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189634,
+    "gn:latitude":9.35718,
+    "gn:longitude":12.4812,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bagalchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bagalchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189634
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7fa89749c13de92d94250655b17d9ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563431,
+            "locality_id":1259427077,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259427077,
+    "wof:lastmodified":1537675484,
+    "wof:name":"Bagalchi",
+    "wof:parent_id":1108563431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4812,
+    9.35718,
+    12.4812,
+    9.35718
+],
+  "geometry": {"coordinates":[12.4812,9.35718],"type":"Point"}
+}

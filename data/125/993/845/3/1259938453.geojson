@@ -1,0 +1,68 @@
+{
+  "id": 1259938453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4335,6.66226,8.4335,6.66226",
+    "geom:latitude":6.66226,
+    "geom:longitude":8.4335,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9018.0",
+    "gn:asciiname":"Benta",
+    "gn:country_code":"NG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347274,
+    "gn:latitude":6.66226,
+    "gn:longitude":8.4335,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Benta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347274
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b960b5ab02b713726d495b04fec7523f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564529,
+            "locality_id":1259938453,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1259938453,
+    "wof:lastmodified":1536700453,
+    "wof:name":"Benta",
+    "wof:parent_id":1108564529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4335,
+    6.66226,
+    8.4335,
+    6.66226
+],
+  "geometry": {"coordinates":[8.4335,6.66226],"type":"Point"}
+}

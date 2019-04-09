@@ -1,0 +1,68 @@
+{
+  "id": 1343914267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.46059,6.40471,8.46059,6.40471",
+    "geom:latitude":6.40471,
+    "geom:longitude":8.46059,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9018.0",
+    "gn:asciiname":"Oshen",
+    "gn:country_code":"NG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914614,
+    "gn:latitude":6.40471,
+    "gn:longitude":8.46059,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oshen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914614
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e354bd8f3ba1edfee277652e30dfc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564529,
+            "locality_id":1343914267,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343914267,
+    "wof:lastmodified":1537083618,
+    "wof:name":"Oshen",
+    "wof:parent_id":1108564529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.46059,
+    6.40471,
+    8.46059,
+    6.40471
+],
+  "geometry": {"coordinates":[8.46059,6.40471],"type":"Point"}
+}

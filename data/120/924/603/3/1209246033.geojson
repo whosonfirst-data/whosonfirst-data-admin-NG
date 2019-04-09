@@ -1,0 +1,61 @@
+{
+  "id": 1209246033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2745,7.3595,6.2745,7.3595",
+    "geom:latitude":7.3595,
+    "geom:longitude":6.2745,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Megori",
+    "gn:country_code":"NG",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6834188,
+    "gn:latitude":7.3595,
+    "gn:longitude":6.2745,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Megori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6834188
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0097285fedc6f383b4036474b3db1a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209246033
+        }
+    ],
+    "wof:id":1209246033,
+    "wof:lastmodified":1536293162,
+    "wof:name":"Megori",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2745,
+    7.3595,
+    6.2745,
+    7.3595
+],
+  "geometry": {"coordinates":[6.2745,7.3595],"type":"Point"}
+}

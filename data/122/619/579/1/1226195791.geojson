@@ -1,0 +1,68 @@
+{
+  "id": 1226195791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.15,8.45,12.15,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":12.15,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Peshi",
+    "gn:country_code":"NG",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324890,
+    "gn:latitude":8.45,
+    "gn:longitude":12.15,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Peshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324890
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4a1f4e48d0addcf10b6dcd46fe816f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563389,
+            "locality_id":1226195791,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226195791,
+    "wof:lastmodified":1537004971,
+    "wof:name":"Peshi",
+    "wof:parent_id":1108563389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.15,
+    8.45,
+    12.15,
+    8.45
+],
+  "geometry": {"coordinates":[12.15,8.45],"type":"Point"}
+}

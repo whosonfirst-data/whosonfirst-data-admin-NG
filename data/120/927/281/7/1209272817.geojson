@@ -1,0 +1,65 @@
+{
+  "id": 1209272817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53609,6.05186,8.53609,6.05186",
+    "geom:latitude":6.05186,
+    "geom:longitude":8.53609,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Efan Fon",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343991,
+    "gn:latitude":6.05186,
+    "gn:longitude":8.53609,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Efan Fon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Efanfon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343991
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"08dbddc13f4a85d1e8b5713208c35c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209272817
+        }
+    ],
+    "wof:id":1209272817,
+    "wof:lastmodified":1537675288,
+    "wof:name":"Efan Fon",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53609,
+    6.05186,
+    8.53609,
+    6.05186
+],
+  "geometry": {"coordinates":[8.53609,6.05186],"type":"Point"}
+}

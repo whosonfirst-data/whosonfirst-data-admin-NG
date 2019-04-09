@@ -1,0 +1,64 @@
+{
+  "id": 1209037819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.02297,9.48978,11.02297,9.48978",
+    "geom:latitude":9.48978,
+    "geom:longitude":11.02297,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ungwar Abo",
+    "gn:country_code":"NG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307703,
+    "gn:latitude":9.48978,
+    "gn:longitude":11.02297,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ungwar Abo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ungwar Abo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307703
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"19a43d41e26b44919e00d42ec845f16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209037819
+        }
+    ],
+    "wof:id":1209037819,
+    "wof:lastmodified":1537675521,
+    "wof:name":"Ungwar Abo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.02297,
+    9.48978,
+    11.02297,
+    9.48978
+],
+  "geometry": {"coordinates":[11.02297,9.48978],"type":"Point"}
+}

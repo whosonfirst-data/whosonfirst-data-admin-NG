@@ -1,0 +1,68 @@
+{
+  "id": 1226172181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.83331,4.40271,6.83331,4.40271",
+    "geom:latitude":4.40271,
+    "geom:longitude":6.83331,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33004.0",
+    "gn:asciiname":"Sanikiri",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826124,
+    "gn:latitude":4.40271,
+    "gn:longitude":6.83331,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sanikiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826124
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"073c63ac96bc6b678de39bafad459847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1226172181,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1226172181,
+    "wof:lastmodified":1537038038,
+    "wof:name":"Sanikiri",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.83331,
+    4.40271,
+    6.83331,
+    4.40271
+],
+  "geometry": {"coordinates":[6.83331,4.40271],"type":"Point"}
+}

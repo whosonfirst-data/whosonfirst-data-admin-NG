@@ -1,0 +1,73 @@
+{
+  "id": 1293048447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.59547,10.54223,11.59547,10.54223",
+    "geom:latitude":10.54223,
+    "geom:longitude":11.59547,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10403",
+    "gn:asciiname":"Damboma",
+    "gn:country_code":"NG",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345497,
+    "gn:latitude":10.54223,
+    "gn:longitude":11.59547,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Damboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumboa",
+        "Damboma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345497
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79f1aec89adc0b9c70b2c379e1df48e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564531,
+            "locality_id":1293048447,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1293048447,
+    "wof:lastmodified":1537675310,
+    "wof:name":"Damboma",
+    "wof:parent_id":1108564531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.59547,
+    10.54223,
+    11.59547,
+    10.54223
+],
+  "geometry": {"coordinates":[11.59547,10.54223],"type":"Point"}
+}

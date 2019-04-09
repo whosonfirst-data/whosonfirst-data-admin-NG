@@ -1,0 +1,73 @@
+{
+  "id": 1243319557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.30467,11.08406,8.30467,11.08406",
+    "geom:latitude":11.08406,
+    "geom:longitude":8.30467,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19015.0",
+    "gn:admin3_code":"KD1506",
+    "gn:asciiname":"Ungwan Dare Biyar",
+    "gn:country_code":"NG",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320042,
+    "gn:latitude":11.08406,
+    "gn:longitude":8.30467,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Dare Biyar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dare Biyar",
+        "Ungwan Dare Biyar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320042
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"554f81c0f2c8183924dfe7fac8edd20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563845,
+            "locality_id":1243319557,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1243319557,
+    "wof:lastmodified":1537674932,
+    "wof:name":"Ungwan Dare Biyar",
+    "wof:parent_id":1108563845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.30467,
+    11.08406,
+    8.30467,
+    11.08406
+],
+  "geometry": {"coordinates":[8.30467,11.08406],"type":"Point"}
+}

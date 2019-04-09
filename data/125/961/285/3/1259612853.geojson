@@ -1,0 +1,71 @@
+{
+  "id": 1259612853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.60297,12.59265,8.60297,12.59265",
+    "geom:latitude":12.59265,
+    "geom:longitude":8.60297,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Mantau",
+    "gn:country_code":"NG",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329741,
+    "gn:latitude":12.59265,
+    "gn:longitude":8.60297,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mantau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muma",
+        "Mantau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329741
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"31fb48cfe929deba4e114c88aa46d523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563199,
+            "locality_id":1259612853,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1259612853,
+    "wof:lastmodified":1537675086,
+    "wof:name":"Mantau",
+    "wof:parent_id":1108563199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.60297,
+    12.59265,
+    8.60297,
+    12.59265
+],
+  "geometry": {"coordinates":[8.60297,12.59265],"type":"Point"}
+}

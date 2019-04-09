@@ -1,0 +1,68 @@
+{
+  "id": 1259736635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.86667,9.7,11.86667,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":11.86667,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Dumna",
+    "gn:country_code":"NG",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344355,
+    "gn:latitude":9.7,
+    "gn:longitude":11.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dumna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344355
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb57619229206ec50105b087d0c59b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563457,
+            "locality_id":1259736635,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259736635,
+    "wof:lastmodified":1536989846,
+    "wof:name":"Dumna",
+    "wof:parent_id":1108563457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86667,
+    9.7,
+    11.86667,
+    9.7
+],
+  "geometry": {"coordinates":[11.86667,9.7],"type":"Point"}
+}

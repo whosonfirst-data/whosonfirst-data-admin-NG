@@ -1,0 +1,69 @@
+{
+  "id": 1343730593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.44969,11.13785,8.44969,11.13785",
+    "geom:latitude":11.13785,
+    "geom:longitude":8.44969,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19005.0",
+    "gn:admin3_code":"KD0507",
+    "gn:asciiname":"Pala",
+    "gn:country_code":"NG",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325100,
+    "gn:latitude":11.13785,
+    "gn:longitude":8.44969,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325100
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e116dd506a080f14975af49a16550bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563845,
+            "locality_id":1343730593,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1343730593,
+    "wof:lastmodified":1536852938,
+    "wof:name":"Pala",
+    "wof:parent_id":1108563845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.44969,
+    11.13785,
+    8.44969,
+    11.13785
+],
+  "geometry": {"coordinates":[8.44969,11.13785],"type":"Point"}
+}

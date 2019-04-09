@@ -1,0 +1,70 @@
+{
+  "id": 1310163707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.02111,9.49024,8.02111,9.49024",
+    "geom:latitude":9.49024,
+    "geom:longitude":8.02111,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19006.0",
+    "gn:admin3_code":"KD0607",
+    "gn:asciiname":"Nok",
+    "gn:country_code":"NG",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328757,
+    "gn:latitude":9.49024,
+    "gn:longitude":8.02111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328757,
+        "wk:page":"Nok"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b66ca19957df22891ad51f9fbf6116c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563711,
+            "locality_id":1310163707,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1310163707,
+    "wof:lastmodified":1537569991,
+    "wof:name":"Nok",
+    "wof:parent_id":1108563711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.02111,
+    9.49024,
+    8.02111,
+    9.49024
+],
+  "geometry": {"coordinates":[8.02111,9.49024],"type":"Point"}
+}

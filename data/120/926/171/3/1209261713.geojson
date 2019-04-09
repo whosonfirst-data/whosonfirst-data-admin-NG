@@ -1,0 +1,62 @@
+{
+  "id": 1209261713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.07809,5.34364,7.07809,5.34364",
+    "geom:latitude":5.34364,
+    "geom:longitude":7.07809,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17012.0",
+    "gn:asciiname":"Amafor",
+    "gn:country_code":"NG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350270,
+    "gn:latitude":5.34364,
+    "gn:longitude":7.07809,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amafor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350270
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba818cb958286b46f537227a1c5077f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209261713
+        }
+    ],
+    "wof:id":1209261713,
+    "wof:lastmodified":1536292667,
+    "wof:name":"Amafor",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07809,
+    5.34364,
+    7.07809,
+    5.34364
+],
+  "geometry": {"coordinates":[7.07809,5.34364],"type":"Point"}
+}

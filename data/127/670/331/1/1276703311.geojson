@@ -1,0 +1,71 @@
+{
+  "id": 1276703311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33333,5.31667,6.33333,5.31667",
+    "geom:latitude":5.31667,
+    "geom:longitude":6.33333,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ikpidiar",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337847,
+    "gn:latitude":5.31667,
+    "gn:longitude":6.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ikpidiar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikpede",
+        "Ikpidiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337847
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a4c1cb57d29e8d317537229860e35d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564323,
+            "locality_id":1276703311,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1276703311,
+    "wof:lastmodified":1537675191,
+    "wof:name":"Ikpidiar",
+    "wof:parent_id":1108564323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33333,
+    5.31667,
+    6.33333,
+    5.31667
+],
+  "geometry": {"coordinates":[6.33333,5.31667],"type":"Point"}
+}

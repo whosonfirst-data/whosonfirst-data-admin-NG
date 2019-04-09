@@ -1,0 +1,66 @@
+{
+  "id": 1209643739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.52046,9.32152,6.52046,9.32152",
+    "geom:latitude":9.32152,
+    "geom:longitude":6.52046,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Ndayama",
+    "gn:country_code":"NG",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329341,
+    "gn:latitude":9.32152,
+    "gn:longitude":6.52046,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndayama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurmin Marke",
+        "Ndayama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329341
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36a89bfc8cdbeab630baea472c59a727",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209643739
+        }
+    ],
+    "wof:id":1209643739,
+    "wof:lastmodified":1537675080,
+    "wof:name":"Ndayama",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.52046,
+    9.32152,
+    6.52046,
+    9.32152
+],
+  "geometry": {"coordinates":[6.52046,9.32152],"type":"Point"}
+}

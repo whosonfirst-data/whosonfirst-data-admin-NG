@@ -1,0 +1,62 @@
+{
+  "id": 1209347419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9959,9.3347,5.9959,9.3347",
+    "geom:latitude":9.3347,
+    "geom:longitude":5.9959,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Tsadu",
+    "gn:country_code":"NG",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308385,
+    "gn:latitude":9.3347,
+    "gn:longitude":5.9959,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308385
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8473a6d7bada4f74d283a52293a1c8a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347419
+        }
+    ],
+    "wof:id":1209347419,
+    "wof:lastmodified":1536289866,
+    "wof:name":"Tsadu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9959,
+    9.3347,
+    5.9959,
+    9.3347
+],
+  "geometry": {"coordinates":[5.9959,9.3347],"type":"Point"}
+}

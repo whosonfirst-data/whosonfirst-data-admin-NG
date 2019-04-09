@@ -1,0 +1,90 @@
+{
+  "id": 1108564373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003416,
+    "geom:area_square_m":41149562.610205,
+    "geom:bbox":"5.18926633973,12.9896713683,5.28076633973,13.0628713683",
+    "geom:latitude":13.02654,
+    "geom:longitude":5.239275,
+    "iso:country":"NG",
+    "lbl:latitude":13.025199,
+    "lbl:longitude":5.238581,
+    "meso:adm1_name":"Sokoto",
+    "meso:diss_me":"Sokoto SouthSokoto",
+    "meso:gadm_admin":"Wamakko",
+    "meso:gaul_admin":"Sokoto",
+    "meso:hasc_id":"NG.SO.SS",
+    "meso:mps_x":5.238581,
+    "meso:mps_y":13.025199,
+    "meso:name_local":"Sokoto South",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":13.025199,
+    "mps:longitude":5.238581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sokoto South"
+    ],
+    "name:eng_x_variant":[
+        "Sokoto",
+        "Wamakko"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"41.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Sarkin Zamfara",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.SO",
+    "statoids:name":"Sokoto South",
+    "statoids:population":"194914",
+    "statoids:statoid":"NG.SO.SS",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.SO.SS"
+    },
+    "wof:country":"NG",
+    "wof:created":1474058102,
+    "wof:geomhash":"629acdac400fae06515392208ff2a6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564373,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1108564373,
+    "wof:lastmodified":1536615216,
+    "wof:name":"Sokoto South",
+    "wof:parent_id":85675433,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":194914,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"SS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18926633973261,
+    12.98967136831218,
+    5.28076633973262,
+    13.06287136831211
+],
+  "geometry": {"coordinates":[[[5.27086633973265,13.06287136831211],[5.2711663397326,13.05897136831218],[5.27326633973263,13.05247136831216],[5.27506633973262,13.0450713683121],[5.27766633973263,13.03937136831211],[5.27766633973263,13.03237136831211],[5.28076633973262,13.02847136831218],[5.28016633973262,13.02207136831218],[5.27636633973262,13.02107136831212],[5.26936633973262,13.01667136831213],[5.26326633973257,13.01187136831217],[5.25806633973264,13.0075713683121],[5.25196633973258,13.00667136831215],[5.2431663397326,13.00367136831218],[5.23886633973262,12.99617136831211],[5.23626633973261,12.99317136831213],[5.22926633973261,12.99317136831213],[5.22506633973264,12.98967136831218],[5.22186633973264,12.99057136831212],[5.21796633973263,12.9948713683121],[5.21616633973264,13.00187136831211],[5.21356633973264,13.00447136831211],[5.21006633973259,13.00837136831213],[5.20746633973258,13.01367136831216],[5.20436633973259,13.02277136831218],[5.19606633973259,13.03157136831217],[5.1904663397326,13.03847136831216],[5.18926633973261,13.04107136831217],[5.19396633973265,13.04157136831215],[5.20396633973262,13.04157136831215],[5.21096633973263,13.04327136831212],[5.22406633973259,13.04287136831215],[5.23186633973262,13.04547136831216],[5.23976633973257,13.04637136831211],[5.24846633973263,13.05117136831216],[5.25626633973256,13.05417136831213],[5.2641663397326,13.05897136831218],[5.27086633973265,13.06287136831211]]],"type":"Polygon"}
+}

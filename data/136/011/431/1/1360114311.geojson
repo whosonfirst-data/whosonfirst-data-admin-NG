@@ -1,0 +1,73 @@
+{
+  "id": 1360114311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05637,10.80829,6.05637,10.80829",
+    "geom:latitude":10.80829,
+    "geom:longitude":6.05637,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27015.0",
+    "gn:asciiname":"Kurugin Mardowa",
+    "gn:country_code":"NG",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333136,
+    "gn:latitude":10.80829,
+    "gn:longitude":6.05637,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kurugin Mardowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurigin Maidowa",
+        "Kurugin Maidowa",
+        "Kurugin Mardowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333136
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"025312c7da7ecbbbfd73193e9da6e491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563947,
+            "locality_id":1360114311,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360114311,
+    "wof:lastmodified":1537675126,
+    "wof:name":"Kurugin Mardowa",
+    "wof:parent_id":1108563947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05637,
+    10.80829,
+    6.05637,
+    10.80829
+],
+  "geometry": {"coordinates":[6.05637,10.80829],"type":"Point"}
+}

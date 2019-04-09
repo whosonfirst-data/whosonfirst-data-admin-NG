@@ -1,0 +1,125 @@
+{
+  "id": 421189471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001456,
+    "geom:area_square_m":17854321.534459,
+    "geom:bbox":"3.90956633973,7.32957136831,3.95046633973,7.39347136831",
+    "geom:latitude":7.360661,
+    "geom:longitude":3.934737,
+    "iso:country":"NG",
+    "lbl:latitude":7.359727,
+    "lbl:longitude":3.934427,
+    "meso:adm1_name":"Oyo",
+    "meso:diss_me":"Ibadan North EastOyo",
+    "meso:gadm_admin":"IbadanNorth-East",
+    "meso:gaul_admin":"Ibadannorth-east",
+    "meso:hasc_id":"NG.OY.IN",
+    "meso:mps_x":3.934427,
+    "meso:mps_y":7.359727,
+    "meso:name_local":"Ibadan North East",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":7.359727,
+    "mps:longitude":3.934427,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ibadan North East"
+    ],
+    "name:eng_x_variant":[
+        "Ibadannorth-east",
+        "IbadanNorth-East"
+    ],
+    "name:ita_x_preferred":[
+        "Ibadan North-West"
+    ],
+    "name:yor_x_preferred":[
+        "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 \u00c0r\u00edw\u00e1-\u00ccw\u1ecd\u00f2r\u00f9n \u00ccb\u00e0d\u00e0n"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Sai-pak Ibadan"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ibadan North West",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Oyo",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1346,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1113220,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":56057936,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"18.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Iwo Road",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.OY",
+    "statoids:name":"Ibadan North East",
+    "statoids:population":"330399",
+    "statoids:statoid":"NG.OY.IN",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56057936,
+        "hasc:id":"NG.OY.IN",
+        "qs:id":1113220,
+        "wd:id":"Q5983588"
+    },
+    "wof:country":"NG",
+    "wof:created":1459009626,
+    "wof:geomhash":"ea8b023bbfd9af9439dd6df370d6b6b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421189471,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":421189471,
+    "wof:lastmodified":1536616076,
+    "wof:name":"Ibadan North East",
+    "wof:parent_id":85675371,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":330399,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"IN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.90956633973262,
+    7.32957136831212,
+    3.95046633973265,
+    7.39347136831217
+],
+  "geometry": {"coordinates":[[[3.91646633973261,7.37107136831215],[3.92156633973261,7.37247136831217],[3.92566633973265,7.37357136831214],[3.92896633973257,7.37627136831216],[3.93496633973262,7.38257136831216],[3.93766633973264,7.38697136831215],[3.94016633973263,7.3891713683121],[3.94296633973258,7.39187136831212],[3.94776633973263,7.39347136831217],[3.94846633973264,7.38667136831211],[3.95046633973265,7.37307136831216],[3.95046633973265,7.35817136831212],[3.94996633973258,7.35457136831215],[3.94936633973259,7.35067136831214],[3.94776633973263,7.3459713683121],[3.94606633973257,7.33877136831216],[3.94326633973262,7.33497136831216],[3.9392663397326,7.3319713683121],[3.93606633973259,7.32957136831212],[3.93476633973259,7.33337136831212],[3.92636633973257,7.34227136831212],[3.9221663397326,7.34617136831213],[3.91786633973263,7.34877136831214],[3.91456633973261,7.35067136831214],[3.90956633973262,7.35467136831217],[3.91316633973259,7.35937136831211],[3.91556633973257,7.36587136831213],[3.91646633973261,7.37107136831215]]],"type":"Polygon"}
+}

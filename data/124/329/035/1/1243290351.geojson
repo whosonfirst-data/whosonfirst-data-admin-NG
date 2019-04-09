@@ -1,0 +1,73 @@
+{
+  "id": 1243290351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.72532,6.59683,7.72532,6.59683",
+    "geom:latitude":6.59683,
+    "geom:longitude":7.72532,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11008.0",
+    "gn:asciiname":"Obogu",
+    "gn:country_code":"NG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328209,
+    "gn:latitude":6.59683,
+    "gn:longitude":7.72532,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obego",
+        "Obeagu",
+        "Obogu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328209
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f3f88d01ca1b69429964b015dc116c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563671,
+            "locality_id":1243290351,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1243290351,
+    "wof:lastmodified":1537675063,
+    "wof:name":"Obogu",
+    "wof:parent_id":1108563671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.72532,
+    6.59683,
+    7.72532,
+    6.59683
+],
+  "geometry": {"coordinates":[7.72532,6.59683],"type":"Point"}
+}

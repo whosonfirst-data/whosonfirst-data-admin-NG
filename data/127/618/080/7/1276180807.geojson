@@ -1,0 +1,68 @@
+{
+  "id": 1276180807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92479,6.68506,8.92479,6.68506",
+    "geom:latitude":6.68506,
+    "geom:longitude":8.92479,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9005.0",
+    "gn:asciiname":"Etikpa",
+    "gn:country_code":"NG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914659,
+    "gn:latitude":6.68506,
+    "gn:longitude":8.92479,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Etikpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914659
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bcd7fee6ccc16d1f90a34119598c9d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563109,
+            "locality_id":1276180807,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1276180807,
+    "wof:lastmodified":1536982650,
+    "wof:name":"Etikpa",
+    "wof:parent_id":1108563109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92479,
+    6.68506,
+    8.92479,
+    6.68506
+],
+  "geometry": {"coordinates":[8.92479,6.68506],"type":"Point"}
+}

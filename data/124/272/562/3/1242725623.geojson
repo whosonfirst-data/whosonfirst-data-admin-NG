@@ -1,0 +1,68 @@
+{
+  "id": 1242725623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.34768,7.16208,9.34768,7.16208",
+    "geom:latitude":7.16208,
+    "geom:longitude":9.34768,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Kpirakaa",
+    "gn:country_code":"NG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639653,
+    "gn:latitude":7.16208,
+    "gn:longitude":9.34768,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kpirakaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639653
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dfac92623b0f41c0ddf14e12199506ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1242725623,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1242725623,
+    "wof:lastmodified":1536849532,
+    "wof:name":"Kpirakaa",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.34768,
+    7.16208,
+    9.34768,
+    7.16208
+],
+  "geometry": {"coordinates":[9.34768,7.16208],"type":"Point"}
+}

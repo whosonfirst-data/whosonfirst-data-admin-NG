@@ -1,0 +1,68 @@
+{
+  "id": 1226691461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.36667,7.58333,3.36667,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":3.36667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31012.0",
+    "gn:asciiname":"Ayankunle",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348677,
+    "gn:latitude":7.58333,
+    "gn:longitude":3.36667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ayankunle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348677
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"65fd2edf39c3efb399aed412cb4dbb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563501,
+            "locality_id":1226691461,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1226691461,
+    "wof:lastmodified":1536794037,
+    "wof:name":"Ayankunle",
+    "wof:parent_id":1108563501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.36667,
+    7.58333,
+    3.36667,
+    7.58333
+],
+  "geometry": {"coordinates":[3.36667,7.58333],"type":"Point"}
+}

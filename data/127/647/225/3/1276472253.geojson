@@ -1,0 +1,72 @@
+{
+  "id": 1276472253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81721,5.75543,7.81721,5.75543",
+    "geom:latitude":5.75543,
+    "geom:longitude":7.81721,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11003.0",
+    "gn:asciiname":"Nguzu Edda",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2328948,
+    "gn:latitude":5.75543,
+    "gn:longitude":7.81721,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nguzu Edda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngusu",
+        "Nguzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108562929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328948
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9f355a87455025bb50f2aba783e8745e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562929,
+            "locality_id":1276472253,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1276472253,
+    "wof:lastmodified":1537675074,
+    "wof:name":"Nguzu Edda",
+    "wof:parent_id":1108562929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81721,
+    5.75543,
+    7.81721,
+    5.75543
+],
+  "geometry": {"coordinates":[7.81721,5.75543],"type":"Point"}
+}

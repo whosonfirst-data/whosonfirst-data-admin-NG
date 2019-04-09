@@ -1,0 +1,70 @@
+{
+  "id": 1209743817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.12713,9.10711,11.12713,9.10711",
+    "geom:latitude":9.10711,
+    "geom:longitude":11.12713,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Laze",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307838,
+    "gn:latitude":9.10711,
+    "gn:longitude":11.12713,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Laze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Laze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307838
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f346aeb552a6c0636edfbd8d77d28f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":1209743817,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1209743817,
+    "wof:lastmodified":1537675526,
+    "wof:name":"Laze",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.12713,
+    9.10711,
+    11.12713,
+    9.10711
+],
+  "geometry": {"coordinates":[11.12713,9.10711],"type":"Point"}
+}

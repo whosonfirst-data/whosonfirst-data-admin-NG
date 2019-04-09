@@ -1,0 +1,68 @@
+{
+  "id": 1293477695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.71148,9.3262,7.71148,9.3262",
+    "geom:latitude":9.3262,
+    "geom:longitude":7.71148,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15002",
+    "gn:asciiname":"Padan-Gwari",
+    "gn:country_code":"NG",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642962,
+    "gn:latitude":9.3262,
+    "gn:longitude":7.71148,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Padan-Gwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642962
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"86b4cfe2be12ff4df3afe648050996b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1293477695,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1293477695,
+    "wof:lastmodified":1536801267,
+    "wof:name":"Padan-Gwari",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.71148,
+    9.3262,
+    7.71148,
+    9.3262
+],
+  "geometry": {"coordinates":[7.71148,9.3262],"type":"Point"}
+}

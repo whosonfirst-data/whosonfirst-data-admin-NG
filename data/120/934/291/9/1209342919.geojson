@@ -1,0 +1,63 @@
+{
+  "id": 1209342919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2672,13.3262,11.2672,13.3262",
+    "geom:latitude":13.3262,
+    "geom:longitude":11.2672,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717.0",
+    "gn:admin3_code":"71711",
+    "gn:asciiname":"Kilboa",
+    "gn:country_code":"NG",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334459,
+    "gn:latitude":13.3262,
+    "gn:longitude":11.2672,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kilboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334459
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0094f295e61c2512b15b4583c61fb436",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342919
+        }
+    ],
+    "wof:id":1209342919,
+    "wof:lastmodified":1536290006,
+    "wof:name":"Kilboa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2672,
+    13.3262,
+    11.2672,
+    13.3262
+],
+  "geometry": {"coordinates":[11.2672,13.3262],"type":"Point"}
+}

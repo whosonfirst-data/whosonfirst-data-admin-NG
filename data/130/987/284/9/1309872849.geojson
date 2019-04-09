@@ -1,0 +1,68 @@
+{
+  "id": 1309872849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.1828,7.34318,9.1828,7.34318",
+    "geom:latitude":7.34318,
+    "geom:longitude":9.1828,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Tivsongu",
+    "gn:country_code":"NG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634048,
+    "gn:latitude":7.34318,
+    "gn:longitude":9.1828,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tivsongu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634048
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"657a2f3562e3a9bd673fbdd78b4885ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1309872849,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1309872849,
+    "wof:lastmodified":1536833564,
+    "wof:name":"Tivsongu",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.1828,
+    7.34318,
+    9.1828,
+    7.34318
+],
+  "geometry": {"coordinates":[9.1828,7.34318],"type":"Point"}
+}

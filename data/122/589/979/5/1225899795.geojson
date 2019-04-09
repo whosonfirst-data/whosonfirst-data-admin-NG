@@ -1,0 +1,73 @@
+{
+  "id": 1225899795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96368,11.73705,6.96368,11.73705",
+    "geom:latitude":11.73705,
+    "geom:longitude":6.96368,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41302",
+    "gn:asciiname":"Unguwar Galadima Wakaso",
+    "gn:country_code":"NG",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320240,
+    "gn:latitude":11.73705,
+    "gn:longitude":6.96368,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Unguwar Galadima Wakaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungwan Galadima Wakaso",
+        "Unguwar Galadima Wakaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320240
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c0c857520fceb077738bd347124732e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563367,
+            "locality_id":1225899795,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1225899795,
+    "wof:lastmodified":1537674942,
+    "wof:name":"Unguwar Galadima Wakaso",
+    "wof:parent_id":1108563367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96368,
+    11.73705,
+    6.96368,
+    11.73705
+],
+  "geometry": {"coordinates":[6.96368,11.73705],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293334653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.45194,9.00233,12.45194,9.00233",
+    "geom:latitude":9.00233,
+    "geom:longitude":12.45194,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Markadi",
+    "gn:country_code":"NG",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189969,
+    "gn:latitude":9.00233,
+    "gn:longitude":12.45194,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Markadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Markadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189969
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"be45fa7d39c7a813ea2c183c8bb4c1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1293334653,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293334653,
+    "wof:lastmodified":1537675496,
+    "wof:name":"Markadi",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45194,
+    9.00233,
+    12.45194,
+    9.00233
+],
+  "geometry": {"coordinates":[12.45194,9.00233],"type":"Point"}
+}

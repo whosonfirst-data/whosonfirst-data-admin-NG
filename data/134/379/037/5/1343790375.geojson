@@ -1,0 +1,67 @@
+{
+  "id": 1343790375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59553,9.49464,8.59553,9.49464",
+    "geom:latitude":9.49464,
+    "geom:longitude":8.59553,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Nimbia Bissa",
+    "gn:country_code":"NG",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055181,
+    "gn:latitude":9.49464,
+    "gn:longitude":8.59553,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Nimbia Bissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055181
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ebeaf517b6e7f14867743e5841a04c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564307,
+            "locality_id":1343790375,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1343790375,
+    "wof:lastmodified":1536768389,
+    "wof:name":"Nimbia Bissa",
+    "wof:parent_id":1108564307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59553,
+    9.49464,
+    8.59553,
+    9.49464
+],
+  "geometry": {"coordinates":[8.59553,9.49464],"type":"Point"}
+}

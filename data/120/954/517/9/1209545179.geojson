@@ -1,0 +1,68 @@
+{
+  "id": 1209545179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64475,4.97927,5.64475,4.97927",
+    "geom:latitude":4.97927,
+    "geom:longitude":5.64475,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Macus Camp",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040758,
+    "gn:latitude":4.97927,
+    "gn:longitude":5.64475,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Macus Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Macus Camp"
+    ],
+    "name:eng_x_variant":[
+        "Macus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040758
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9ef6fcd1db18715f4d791ba59fcfc7ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545179
+        }
+    ],
+    "wof:id":1209545179,
+    "wof:lastmodified":1537675439,
+    "wof:name":"Macus Camp",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64475,
+    4.97927,
+    5.64475,
+    4.97927
+],
+  "geometry": {"coordinates":[5.64475,4.97927],"type":"Point"}
+}

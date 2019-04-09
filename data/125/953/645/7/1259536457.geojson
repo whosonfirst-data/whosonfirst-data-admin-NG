@@ -1,0 +1,72 @@
+{
+  "id": 1259536457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59846,5.53015,5.59846,5.53015",
+    "geom:latitude":5.53015,
+    "geom:longitude":5.59846,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Olomogbene",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028013,
+    "gn:latitude":5.53015,
+    "gn:longitude":5.59846,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Olomogbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otomogbene",
+        "Olomogbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028013
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4356909d173f0377d019b46a9b99fce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":1259536457,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1259536457,
+    "wof:lastmodified":1537675424,
+    "wof:name":"Olomogbene",
+    "wof:parent_id":1108564503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59846,
+    5.53015,
+    5.59846,
+    5.53015
+],
+  "geometry": {"coordinates":[5.59846,5.53015],"type":"Point"}
+}

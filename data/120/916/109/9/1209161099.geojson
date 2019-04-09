@@ -1,0 +1,63 @@
+{
+  "id": 1209161099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7358,12.36782,8.7358,12.36782",
+    "geom:latitude":12.36782,
+    "geom:longitude":8.7358,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20023.0",
+    "gn:admin3_code":"KN0808",
+    "gn:asciiname":"Kadane",
+    "gn:country_code":"NG",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335771,
+    "gn:latitude":12.36782,
+    "gn:longitude":8.7358,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kadane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335771
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3ac10adda6335eb7bb02d088548de342",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209161099
+        }
+    ],
+    "wof:id":1209161099,
+    "wof:lastmodified":1536295895,
+    "wof:name":"Kadane",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7358,
+    12.36782,
+    8.7358,
+    12.36782
+],
+  "geometry": {"coordinates":[8.7358,12.36782],"type":"Point"}
+}

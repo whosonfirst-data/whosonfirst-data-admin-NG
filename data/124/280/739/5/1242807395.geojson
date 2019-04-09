@@ -1,0 +1,71 @@
+{
+  "id": 1242807395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.00572,9.88413,9.00572,9.88413",
+    "geom:latitude":9.88413,
+    "geom:longitude":9.00572,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32004.0",
+    "gn:asciiname":"Iyam",
+    "gn:country_code":"NG",
+    "gn:dem":1328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336846,
+    "gn:latitude":9.88413,
+    "gn:longitude":9.00572,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Iyam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Iyam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336846
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"469af3ebdc094e32a6a361f2681179ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563729,
+            "locality_id":1242807395,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1242807395,
+    "wof:lastmodified":1537675172,
+    "wof:name":"Iyam",
+    "wof:parent_id":1108563729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.00572,
+    9.88413,
+    9.00572,
+    9.88413
+],
+  "geometry": {"coordinates":[9.00572,9.88413],"type":"Point"}
+}

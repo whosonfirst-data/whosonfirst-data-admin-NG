@@ -1,0 +1,65 @@
+{
+  "id": 1209154703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25861,10.33582,13.25861,10.33582",
+    "geom:latitude":10.33582,
+    "geom:longitude":13.25861,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014",
+    "gn:asciiname":"Miskiti",
+    "gn:country_code":"NG",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742778,
+    "gn:latitude":10.33582,
+    "gn:longitude":13.25861,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Miskiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Miskiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742778
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8491f3ec38c63a2c7a78850922e7572b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209154703
+        }
+    ],
+    "wof:id":1209154703,
+    "wof:lastmodified":1537675462,
+    "wof:name":"Miskiti",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25861,
+    10.33582,
+    13.25861,
+    10.33582
+],
+  "geometry": {"coordinates":[13.25861,10.33582],"type":"Point"}
+}

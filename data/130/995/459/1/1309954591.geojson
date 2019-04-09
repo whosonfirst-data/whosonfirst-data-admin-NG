@@ -1,0 +1,68 @@
+{
+  "id": 1309954591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.03333,8.76667,4.03333,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":4.03333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31024.0",
+    "gn:asciiname":"Alagbon",
+    "gn:country_code":"NG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350667,
+    "gn:latitude":8.76667,
+    "gn:longitude":4.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alagbon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350667
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c5003aa12aa3fca70a4ba36d90ed4e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564175,
+            "locality_id":1309954591,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1309954591,
+    "wof:lastmodified":1536717177,
+    "wof:name":"Alagbon",
+    "wof:parent_id":1108564175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03333,
+    8.76667,
+    4.03333,
+    8.76667
+],
+  "geometry": {"coordinates":[4.03333,8.76667],"type":"Point"}
+}

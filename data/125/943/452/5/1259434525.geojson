@@ -1,0 +1,71 @@
+{
+  "id": 1259434525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.27222,6.4225,6.27222,6.4225",
+    "geom:latitude":6.4225,
+    "geom:longitude":6.27222,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12010.0",
+    "gn:asciiname":"Igeduma",
+    "gn:country_code":"NG",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504991,
+    "gn:latitude":6.4225,
+    "gn:longitude":6.27222,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igeduma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Igeduma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504991
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"49fa7c32f13e1034a7a111e8b84affee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563563,
+            "locality_id":1259434525,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1259434525,
+    "wof:lastmodified":1537675455,
+    "wof:name":"Igeduma",
+    "wof:parent_id":1108563563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.27222,
+    6.4225,
+    6.27222,
+    6.4225
+],
+  "geometry": {"coordinates":[6.27222,6.4225],"type":"Point"}
+}

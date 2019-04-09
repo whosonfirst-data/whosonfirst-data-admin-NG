@@ -1,0 +1,91 @@
+{
+  "id": 421169461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26667,6.7,11.26667,6.7",
+    "geom:latitude":6.7,
+    "geom:longitude":11.26667,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043c\u0431\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Gembu"
+    ],
+    "name:eng_x_preferred":[
+        "Gembu"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2341275,
+    "qs:gn_pop":19881,
+    "qs:name":"Gembu",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Taraba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":183545,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1392194,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1119,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341275,
+        "gp:id":1392194,
+        "qs:id":183545,
+        "wd:id":"Q5530585",
+        "wk:page":"Gembu, Nigeria"
+    },
+    "wof:country":"NG",
+    "wof:created":1459008811,
+    "wof:geomhash":"79f4a7192658ba249bbf9e3f494b22fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564339,
+            "locality_id":421169461,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":421169461,
+    "wof:lastmodified":1527716175,
+    "wof:name":"Gembu",
+    "wof:parent_id":1108564339,
+    "wof:placetype":"locality",
+    "wof:population":19881,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26667,
+    6.7,
+    11.26667,
+    6.7
+],
+  "geometry": {"coordinates":[11.26667,6.7],"type":"Point"}
+}

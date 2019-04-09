@@ -1,0 +1,72 @@
+{
+  "id": 1343986315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16748,10.18239,10.16748,10.18239",
+    "geom:latitude":10.18239,
+    "geom:longitude":10.16748,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5002.0",
+    "gn:admin3_code":"BA0210",
+    "gn:asciiname":"Samunaki",
+    "gn:country_code":"NG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323807,
+    "gn:latitude":10.18239,
+    "gn:longitude":10.16748,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Samunaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Samunaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323807
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f17e34cddb502546f4b17cb06e1ea226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563101,
+            "locality_id":1343986315,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1343986315,
+    "wof:lastmodified":1537674993,
+    "wof:name":"Samunaki",
+    "wof:parent_id":1108563101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16748,
+    10.18239,
+    10.16748,
+    10.18239
+],
+  "geometry": {"coordinates":[10.16748,10.18239],"type":"Point"}
+}

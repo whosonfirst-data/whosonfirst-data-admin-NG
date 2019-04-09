@@ -1,0 +1,73 @@
+{
+  "id": 1344196371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.67888,5.04455,5.67888,5.04455",
+    "geom:latitude":5.04455,
+    "geom:longitude":5.67888,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10004.0",
+    "gn:asciiname":"Bulou-Ozobo",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346473,
+    "gn:latitude":5.04455,
+    "gn:longitude":5.67888,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bulou-Ozobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulou-Ojobo",
+        "Bulou-Camp",
+        "Bulou-Ozobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346473
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0cd97e8e9e895cd69588b88b1c89b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563177,
+            "locality_id":1344196371,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1344196371,
+    "wof:lastmodified":1537675321,
+    "wof:name":"Bulou-Ozobo",
+    "wof:parent_id":1108563177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67888,
+    5.04455,
+    5.67888,
+    5.04455
+],
+  "geometry": {"coordinates":[5.67888,5.04455],"type":"Point"}
+}

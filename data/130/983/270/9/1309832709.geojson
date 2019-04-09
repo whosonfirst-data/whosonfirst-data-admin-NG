@@ -1,0 +1,73 @@
+{
+  "id": 1309832709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.91736,12.67986,4.91736,12.67986",
+    "geom:latitude":12.67986,
+    "geom:longitude":4.91736,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62305",
+    "gn:asciiname":"Faka",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342798,
+    "gn:latitude":12.67986,
+    "gn:longitude":4.91736,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Faka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fakka",
+        "Faka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342798
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ebfea88de6bfc218a26363cd90e7c41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564519,
+            "locality_id":1309832709,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1309832709,
+    "wof:lastmodified":1537675267,
+    "wof:name":"Faka",
+    "wof:parent_id":1108564519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.91736,
+    12.67986,
+    4.91736,
+    12.67986
+],
+  "geometry": {"coordinates":[4.91736,12.67986],"type":"Point"}
+}

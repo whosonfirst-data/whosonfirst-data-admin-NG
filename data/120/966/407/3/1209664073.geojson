@@ -1,0 +1,62 @@
+{
+  "id": 1209664073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.96667,7.75,3.96667,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":3.96667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31001.0",
+    "gn:asciiname":"Kosomomu",
+    "gn:country_code":"NG",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333898,
+    "gn:latitude":7.75,
+    "gn:longitude":3.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kosomomu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333898
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a52122015dfe8b63ede9b7518d0b0908",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209664073
+        }
+    ],
+    "wof:id":1209664073,
+    "wof:lastmodified":1536280159,
+    "wof:name":"Kosomomu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.96667,
+    7.75,
+    3.96667,
+    7.75
+],
+  "geometry": {"coordinates":[3.96667,7.75],"type":"Point"}
+}

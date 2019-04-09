@@ -1,0 +1,68 @@
+{
+  "id": 1343429705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.67865,6.53319,8.67865,6.53319",
+    "geom:latitude":6.53319,
+    "geom:longitude":8.67865,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9016.0",
+    "gn:asciiname":"Ikandang",
+    "gn:country_code":"NG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338336,
+    "gn:latitude":6.53319,
+    "gn:longitude":8.67865,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikandang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338336
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c198fa4cef5d37f6cd4724064d578961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564121,
+            "locality_id":1343429705,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343429705,
+    "wof:lastmodified":1536791129,
+    "wof:name":"Ikandang",
+    "wof:parent_id":1108564121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.67865,
+    6.53319,
+    8.67865,
+    6.53319
+],
+  "geometry": {"coordinates":[8.67865,6.53319],"type":"Point"}
+}

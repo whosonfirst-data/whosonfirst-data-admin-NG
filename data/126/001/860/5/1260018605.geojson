@@ -1,0 +1,71 @@
+{
+  "id": 1260018605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33728,6.17163,6.33728,6.17163",
+    "geom:latitude":6.17163,
+    "geom:longitude":6.33728,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10007.0",
+    "gn:asciiname":"Uteh-Enugu",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319555,
+    "gn:latitude":6.17163,
+    "gn:longitude":6.33728,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uteh-Enugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uteh-Enugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319555
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f009753ef9bb1bb3c380236a0216f15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563583,
+            "locality_id":1260018605,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1260018605,
+    "wof:lastmodified":1537674918,
+    "wof:name":"Uteh-Enugu",
+    "wof:parent_id":1108563583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33728,
+    6.17163,
+    6.33728,
+    6.17163
+],
+  "geometry": {"coordinates":[6.33728,6.17163],"type":"Point"}
+}

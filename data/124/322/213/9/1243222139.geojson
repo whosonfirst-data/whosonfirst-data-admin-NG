@@ -1,0 +1,72 @@
+{
+  "id": 1243222139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0308,5.99886,8.0308,5.99886",
+    "geom:latitude":5.99886,
+    "geom:longitude":8.0308,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9001.0",
+    "gn:asciiname":"Ekwereku",
+    "gn:country_code":"NG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343598,
+    "gn:latitude":5.99886,
+    "gn:longitude":8.0308,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekwereku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekwere Kunta",
+        "Ekwerekunta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343598
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c62473d224a92fe5768fc1638c9eb36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562909,
+            "locality_id":1243222139,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1243222139,
+    "wof:lastmodified":1537675280,
+    "wof:name":"Ekwereku",
+    "wof:parent_id":1108562909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0308,
+    5.99886,
+    8.0308,
+    5.99886
+],
+  "geometry": {"coordinates":[8.0308,5.99886],"type":"Point"}
+}

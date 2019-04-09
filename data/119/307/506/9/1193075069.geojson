@@ -1,0 +1,69 @@
+{
+  "id": 1193075069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01605,11.57408,4.01605,11.57408",
+    "geom:latitude":11.57408,
+    "geom:longitude":4.01605,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"518.0",
+    "gn:admin3_code":"51803",
+    "gn:asciiname":"Goakwara",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340548,
+    "gn:latitude":11.57408,
+    "gn:longitude":4.01605,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Goakwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340548
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc7e6c11765c7674a5229e12b93205bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563069,
+            "locality_id":1193075069,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1193075069,
+    "wof:lastmodified":1536364878,
+    "wof:name":"Goakwara",
+    "wof:parent_id":1108563069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01605,
+    11.57408,
+    4.01605,
+    11.57408
+],
+  "geometry": {"coordinates":[4.01605,11.57408],"type":"Point"}
+}

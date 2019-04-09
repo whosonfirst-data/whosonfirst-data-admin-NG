@@ -1,0 +1,62 @@
+{
+  "id": 1209266193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.48082,6.41798,5.48082,6.41798",
+    "geom:latitude":6.41798,
+    "geom:longitude":5.48082,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12014.0",
+    "gn:asciiname":"Iguzama",
+    "gn:country_code":"NG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338522,
+    "gn:latitude":6.41798,
+    "gn:longitude":5.48082,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iguzama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338522
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"77cd9a676389d94aa82f17a31480dbb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209266193
+        }
+    ],
+    "wof:id":1209266193,
+    "wof:lastmodified":1536292522,
+    "wof:name":"Iguzama",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.48082,
+    6.41798,
+    5.48082,
+    6.41798
+],
+  "geometry": {"coordinates":[5.48082,6.41798],"type":"Point"}
+}

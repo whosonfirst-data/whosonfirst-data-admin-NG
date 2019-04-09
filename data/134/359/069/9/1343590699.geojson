@@ -1,0 +1,68 @@
+{
+  "id": 1343590699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.39984,7.89422,10.39984,7.89422",
+    "geom:latitude":7.89422,
+    "geom:longitude":10.39984,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Dangari",
+    "gn:country_code":"NG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345351,
+    "gn:latitude":7.89422,
+    "gn:longitude":10.39984,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dangari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345351
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6b2df68433370633548149819e150696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563083,
+            "locality_id":1343590699,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343590699,
+    "wof:lastmodified":1537053610,
+    "wof:name":"Dangari",
+    "wof:parent_id":1108563083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.39984,
+    7.89422,
+    10.39984,
+    7.89422
+],
+  "geometry": {"coordinates":[10.39984,7.89422],"type":"Point"}
+}

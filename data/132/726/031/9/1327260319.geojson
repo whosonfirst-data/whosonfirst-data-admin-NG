@@ -1,0 +1,68 @@
+{
+  "id": 1327260319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.36667,7.1,11.36667,7.1",
+    "geom:latitude":7.1,
+    "geom:longitude":11.36667,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35004.0",
+    "gn:asciiname":"Garba",
+    "gn:country_code":"NG",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341907,
+    "gn:latitude":7.1,
+    "gn:longitude":11.36667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341907
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"852f8c92e003671e0dce1364a78e4b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563401,
+            "locality_id":1327260319,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1327260319,
+    "wof:lastmodified":1536930158,
+    "wof:name":"Garba",
+    "wof:parent_id":1108563401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.36667,
+    7.1,
+    11.36667,
+    7.1
+],
+  "geometry": {"coordinates":[11.36667,7.1],"type":"Point"}
+}

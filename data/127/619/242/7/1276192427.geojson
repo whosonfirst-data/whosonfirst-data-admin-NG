@@ -1,0 +1,68 @@
+{
+  "id": 1276192427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.95262,7.17699,8.95262,7.17699",
+    "geom:latitude":7.17699,
+    "geom:longitude":8.95262,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Asen",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852268,
+    "gn:latitude":7.17699,
+    "gn:longitude":8.95262,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Asen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852268
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79e8198f7263cbee760ea8c8454fd78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1276192427,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276192427,
+    "wof:lastmodified":1536967563,
+    "wof:name":"Asen",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.95262,
+    7.17699,
+    8.95262,
+    7.17699
+],
+  "geometry": {"coordinates":[8.95262,7.17699],"type":"Point"}
+}

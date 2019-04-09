@@ -1,0 +1,69 @@
+{
+  "id": 1293156807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5277,11.01195,7.5277,11.01195",
+    "geom:latitude":11.01195,
+    "geom:longitude":7.5277,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19023.0",
+    "gn:admin3_code":"KD2301",
+    "gn:asciiname":"Kwaba",
+    "gn:country_code":"NG",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332989,
+    "gn:latitude":11.01195,
+    "gn:longitude":7.5277,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332989
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e14d5abd3854b23b9e2ee7c971c4d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563425,
+            "locality_id":1293156807,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1293156807,
+    "wof:lastmodified":1536767400,
+    "wof:name":"Kwaba",
+    "wof:parent_id":1108563425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5277,
+    11.01195,
+    7.5277,
+    11.01195
+],
+  "geometry": {"coordinates":[7.5277,11.01195],"type":"Point"}
+}

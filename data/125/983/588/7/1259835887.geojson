@@ -1,0 +1,68 @@
+{
+  "id": 1259835887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.45292,6.02613,8.45292,6.02613",
+    "geom:latitude":6.02613,
+    "geom:longitude":8.45292,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9013.0",
+    "gn:asciiname":"Onyen",
+    "gn:country_code":"NG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325947,
+    "gn:latitude":6.02613,
+    "gn:longitude":8.45292,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onyen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325947
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3636f8d155acfb2b4b8a484a4ba0b01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564085,
+            "locality_id":1259835887,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1259835887,
+    "wof:lastmodified":1536846790,
+    "wof:name":"Onyen",
+    "wof:parent_id":1108564085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.45292,
+    6.02613,
+    8.45292,
+    6.02613
+],
+  "geometry": {"coordinates":[8.45292,6.02613],"type":"Point"}
+}

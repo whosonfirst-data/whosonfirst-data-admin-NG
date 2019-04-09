@@ -1,0 +1,68 @@
+{
+  "id": 1259432139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75,8.16667,4.75,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":4.75,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24015.0",
+    "gn:asciiname":"Ipee",
+    "gn:country_code":"NG",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337388,
+    "gn:latitude":8.16667,
+    "gn:longitude":4.75,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Ipee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108564271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337388
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc29f52a1ac2810944168825f9717451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564271,
+            "locality_id":1259432139,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1259432139,
+    "wof:lastmodified":1536933509,
+    "wof:name":"Ipee",
+    "wof:parent_id":1108564271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75,
+    8.16667,
+    4.75,
+    8.16667
+],
+  "geometry": {"coordinates":[4.75,8.16667],"type":"Point"}
+}

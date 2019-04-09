@@ -1,0 +1,68 @@
+{
+  "id": 1310044417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53333,6.45,5.53333,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":5.53333,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12014.0",
+    "gn:asciiname":"Iguoshodi Nebudin",
+    "gn:country_code":"NG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338533,
+    "gn:latitude":6.45,
+    "gn:longitude":5.53333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iguoshodi Nebudin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338533
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cffe6175dbf694026a3296e68c584e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564241,
+            "locality_id":1310044417,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1310044417,
+    "wof:lastmodified":1537081382,
+    "wof:name":"Iguoshodi Nebudin",
+    "wof:parent_id":1108564241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53333,
+    6.45,
+    5.53333,
+    6.45
+],
+  "geometry": {"coordinates":[5.53333,6.45],"type":"Point"}
+}

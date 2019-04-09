@@ -1,0 +1,71 @@
+{
+  "id": 1309837195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34067,9.12454,11.34067,9.12454",
+    "geom:latitude":9.12454,
+    "geom:longitude":11.34067,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35010.0",
+    "gn:asciiname":"Serakye",
+    "gn:country_code":"NG",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323484,
+    "gn:latitude":9.12454,
+    "gn:longitude":11.34067,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Serakye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Serakye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323484
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cb3a509596822de3cd0c6026c42f7281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":1309837195,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1309837195,
+    "wof:lastmodified":1537674989,
+    "wof:name":"Serakye",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34067,
+    9.12454,
+    11.34067,
+    9.12454
+],
+  "geometry": {"coordinates":[11.34067,9.12454],"type":"Point"}
+}

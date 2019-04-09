@@ -1,0 +1,68 @@
+{
+  "id": 1226196673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59388,7.07432,8.59388,7.07432",
+    "geom:latitude":7.07432,
+    "geom:longitude":8.59388,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Akaa",
+    "gn:country_code":"NG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351268,
+    "gn:latitude":7.07432,
+    "gn:longitude":8.59388,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351268
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1c1073254c927462b22cf51b4775408b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1226196673,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226196673,
+    "wof:lastmodified":1537003693,
+    "wof:name":"Akaa",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59388,
+    7.07432,
+    8.59388,
+    7.07432
+],
+  "geometry": {"coordinates":[8.59388,7.07432],"type":"Point"}
+}

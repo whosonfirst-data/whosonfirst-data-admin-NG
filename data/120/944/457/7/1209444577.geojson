@@ -1,0 +1,65 @@
+{
+  "id": 1209444577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.54041,4.89484,5.54041,4.89484",
+    "geom:latitude":4.89484,
+    "geom:longitude":5.54041,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Kpominegbene",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040804,
+    "gn:latitude":4.89484,
+    "gn:longitude":5.54041,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Kpominegbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpominegbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040804
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"546ef5f0a81a98a08679593511558782",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444577
+        }
+    ],
+    "wof:id":1209444577,
+    "wof:lastmodified":1537675441,
+    "wof:name":"Kpominegbene",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.54041,
+    4.89484,
+    5.54041,
+    4.89484
+],
+  "geometry": {"coordinates":[5.54041,4.89484],"type":"Point"}
+}

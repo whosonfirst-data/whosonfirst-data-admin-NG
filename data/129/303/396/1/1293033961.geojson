@@ -1,0 +1,73 @@
+{
+  "id": 1293033961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.80918,6.23395,4.80918,6.23395",
+    "geom:latitude":6.23395,
+    "geom:longitude":4.80918,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Kurawe",
+    "gn:country_code":"NG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333273,
+    "gn:latitude":6.23395,
+    "gn:longitude":4.80918,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kurawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perawe",
+        "Rawe",
+        "Kurawe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333273
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa67ead95fd6e2c094666403d11ca9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1293033961,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1293033961,
+    "wof:lastmodified":1537675128,
+    "wof:name":"Kurawe",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.80918,
+    6.23395,
+    4.80918,
+    6.23395
+],
+  "geometry": {"coordinates":[4.80918,6.23395],"type":"Point"}
+}

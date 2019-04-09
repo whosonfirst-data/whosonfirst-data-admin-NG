@@ -1,0 +1,68 @@
+{
+  "id": 1243302531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.34711,6.88831,6.34711,6.88831",
+    "geom:latitude":6.88831,
+    "geom:longitude":6.34711,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12009",
+    "gn:asciiname":"Oran",
+    "gn:country_code":"NG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636366,
+    "gn:latitude":6.88831,
+    "gn:longitude":6.34711,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636366
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a82c1239cea2c054d3da98f779e96c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563347,
+            "locality_id":1243302531,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243302531,
+    "wof:lastmodified":1537012267,
+    "wof:name":"Oran",
+    "wof:parent_id":1108563347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.34711,
+    6.88831,
+    6.34711,
+    6.88831
+],
+  "geometry": {"coordinates":[6.34711,6.88831],"type":"Point"}
+}

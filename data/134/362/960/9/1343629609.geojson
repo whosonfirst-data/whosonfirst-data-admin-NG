@@ -1,0 +1,67 @@
+{
+  "id": 1343629609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.69673,11.52816,7.69673,11.52816",
+    "geom:latitude":11.52816,
+    "geom:longitude":7.69673,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kurkudawa",
+    "gn:country_code":"NG",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333214,
+    "gn:latitude":11.52816,
+    "gn:longitude":7.69673,
+    "gn:modification_date":"2009-05-04",
+    "gn:name":"Kurkudawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333214
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7eba1c6a9ba5448a530909291efefd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564309,
+            "locality_id":1343629609,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1343629609,
+    "wof:lastmodified":1536998886,
+    "wof:name":"Kurkudawa",
+    "wof:parent_id":1108564309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.69673,
+    11.52816,
+    7.69673,
+    11.52816
+],
+  "geometry": {"coordinates":[7.69673,11.52816],"type":"Point"}
+}

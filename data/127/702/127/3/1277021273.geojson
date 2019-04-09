@@ -1,0 +1,68 @@
+{
+  "id": 1277021273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5847,6.67895,9.5847,6.67895",
+    "geom:latitude":6.67895,
+    "geom:longitude":9.5847,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011.0",
+    "gn:asciiname":"Kyemtu",
+    "gn:country_code":"NG",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332601,
+    "gn:latitude":6.67895,
+    "gn:longitude":9.5847,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kyemtu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332601
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a132c2ff485c9d776d72612154436baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1277021273,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1277021273,
+    "wof:lastmodified":1536850368,
+    "wof:name":"Kyemtu",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5847,
+    6.67895,
+    9.5847,
+    6.67895
+],
+  "geometry": {"coordinates":[9.5847,6.67895],"type":"Point"}
+}

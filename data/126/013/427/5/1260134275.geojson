@@ -1,0 +1,68 @@
+{
+  "id": 1260134275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.53983,6.95439,9.53983,6.95439",
+    "geom:latitude":6.95439,
+    "geom:longitude":9.53983,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011.0",
+    "gn:asciiname":"Chiha",
+    "gn:country_code":"NG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346055,
+    "gn:latitude":6.95439,
+    "gn:longitude":9.53983,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346055
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a4929f06a07939a8fca79b98c92c4d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1260134275,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1260134275,
+    "wof:lastmodified":1536915802,
+    "wof:name":"Chiha",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.53983,
+    6.95439,
+    9.53983,
+    6.95439
+],
+  "geometry": {"coordinates":[9.53983,6.95439],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243582285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.47528,10.23083,4.47528,10.23083",
+    "geom:latitude":10.23083,
+    "geom:longitude":4.47528,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27004.0",
+    "gn:asciiname":"Bussa",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346299,
+    "gn:latitude":10.23083,
+    "gn:longitude":4.47528,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "New-Bussa",
+        "Bussa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346299
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5c132e09929e35271a887000f443e54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563153,
+            "locality_id":1243582285,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243582285,
+    "wof:lastmodified":1537675319,
+    "wof:name":"Bussa",
+    "wof:parent_id":1108563153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.47528,
+    10.23083,
+    4.47528,
+    10.23083
+],
+  "geometry": {"coordinates":[4.47528,10.23083],"type":"Point"}
+}

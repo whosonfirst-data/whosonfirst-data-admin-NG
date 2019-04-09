@@ -1,0 +1,68 @@
+{
+  "id": 1242625111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.67657,7.84074,8.67657,7.84074",
+    "geom:latitude":7.84074,
+    "geom:longitude":8.67657,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7006.0",
+    "gn:asciiname":"Hindan",
+    "gn:country_code":"NG",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339488,
+    "gn:latitude":7.84074,
+    "gn:longitude":8.67657,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hindan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339488
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e116539a55959d20945c8ae03fffe87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563445,
+            "locality_id":1242625111,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1242625111,
+    "wof:lastmodified":1536994589,
+    "wof:name":"Hindan",
+    "wof:parent_id":1108563445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.67657,
+    7.84074,
+    8.67657,
+    7.84074
+],
+  "geometry": {"coordinates":[8.67657,7.84074],"type":"Point"}
+}

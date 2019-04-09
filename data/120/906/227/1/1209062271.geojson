@@ -1,0 +1,63 @@
+{
+  "id": 1209062271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.44435,11.19024,8.44435,11.19024",
+    "geom:latitude":11.19024,
+    "geom:longitude":8.44435,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19005.0",
+    "gn:admin3_code":"KD0507",
+    "gn:asciiname":"Kawuri",
+    "gn:country_code":"NG",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334699,
+    "gn:latitude":11.19024,
+    "gn:longitude":8.44435,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kawuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334699
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f77778513043ecc8b387e58d626c3f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209062271
+        }
+    ],
+    "wof:id":1209062271,
+    "wof:lastmodified":1536298914,
+    "wof:name":"Kawuri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.44435,
+    11.19024,
+    8.44435,
+    11.19024
+],
+  "geometry": {"coordinates":[8.44435,11.19024],"type":"Point"}
+}

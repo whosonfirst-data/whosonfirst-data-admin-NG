@@ -1,0 +1,62 @@
+{
+  "id": 1209347533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.8,8.23333,6.8,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":6.8,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23011.0",
+    "gn:asciiname":"Iraki",
+    "gn:country_code":"NG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337339,
+    "gn:latitude":8.23333,
+    "gn:longitude":6.8,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iraki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337339
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1dcea8148f67e6221a7cc2c58ab92d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347533
+        }
+    ],
+    "wof:id":1209347533,
+    "wof:lastmodified":1536289862,
+    "wof:name":"Iraki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8,
+    8.23333,
+    6.8,
+    8.23333
+],
+  "geometry": {"coordinates":[6.8,8.23333],"type":"Point"}
+}

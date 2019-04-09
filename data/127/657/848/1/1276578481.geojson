@@ -1,0 +1,71 @@
+{
+  "id": 1276578481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70281,10.00922,8.70281,10.00922",
+    "geom:latitude":10.00922,
+    "geom:longitude":8.70281,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32002.0",
+    "gn:asciiname":"Binch",
+    "gn:country_code":"NG",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347135,
+    "gn:latitude":10.00922,
+    "gn:longitude":8.70281,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Binch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347135
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"29fc08b45ae057d34b6370cf68591c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563095,
+            "locality_id":1276578481,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1276578481,
+    "wof:lastmodified":1537675330,
+    "wof:name":"Binch",
+    "wof:parent_id":1108563095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70281,
+    10.00922,
+    8.70281,
+    10.00922
+],
+  "geometry": {"coordinates":[8.70281,10.00922],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226471939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.70172,10.44336,11.70172,10.44336",
+    "geom:latitude":10.44336,
+    "geom:longitude":11.70172,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Teli",
+    "gn:country_code":"NG",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322251,
+    "gn:latitude":10.44336,
+    "gn:longitude":11.70172,
+    "gn:modification_date":"2009-09-08",
+    "gn:name":"Teli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322251
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76e10a59b3e377694de59d93f07eda9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563105,
+            "locality_id":1226471939,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226471939,
+    "wof:lastmodified":1536604844,
+    "wof:name":"Teli",
+    "wof:parent_id":1108563105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.70172,
+    10.44336,
+    11.70172,
+    10.44336
+],
+  "geometry": {"coordinates":[11.70172,10.44336],"type":"Point"}
+}

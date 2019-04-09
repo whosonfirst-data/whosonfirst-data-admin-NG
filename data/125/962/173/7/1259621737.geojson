@@ -1,0 +1,73 @@
+{
+  "id": 1259621737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38256,11.18094,5.38256,11.18094",
+    "geom:latitude":11.18094,
+    "geom:longitude":5.38256,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"516.0",
+    "gn:admin3_code":"51603",
+    "gn:asciiname":"Aliu",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321426,
+    "gn:latitude":11.18094,
+    "gn:longitude":5.38256,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aliu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tungan Aliu",
+        "Aliu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321426
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"67d7f25386ef0745b5e3272c23780d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564297,
+            "locality_id":1259621737,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1259621737,
+    "wof:lastmodified":1537674966,
+    "wof:name":"Aliu",
+    "wof:parent_id":1108564297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38256,
+    11.18094,
+    5.38256,
+    11.18094
+],
+  "geometry": {"coordinates":[5.38256,11.18094],"type":"Point"}
+}

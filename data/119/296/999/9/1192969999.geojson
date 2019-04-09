@@ -1,0 +1,77 @@
+{
+  "id": 1192969999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.10606,6.77944,6.10606,6.77944",
+    "geom:latitude":6.77944,
+    "geom:longitude":6.10606,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006.0",
+    "gn:asciiname":"Egoro-Amede",
+    "gn:country_code":"NG",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343860,
+    "gn:latitude":6.77944,
+    "gn:longitude":6.10606,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egoro-Amede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Egoro-Amede"
+    ],
+    "name:eng_x_variant":[
+        "Amede"
+    ],
+    "name:und_x_variant":[
+        "Amede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343860
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"039f2853e514b8b35ea9d08f8813a42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563321,
+            "locality_id":1192969999,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1192969999,
+    "wof:lastmodified":1537675286,
+    "wof:name":"Egoro-Amede",
+    "wof:parent_id":1108563321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.10606,
+    6.77944,
+    6.10606,
+    6.77944
+],
+  "geometry": {"coordinates":[6.10606,6.77944],"type":"Point"}
+}

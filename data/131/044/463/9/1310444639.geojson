@@ -1,0 +1,73 @@
+{
+  "id": 1310444639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11174,5.14151,6.11174,5.14151",
+    "geom:latitude":5.14151,
+    "geom:longitude":6.11174,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10016.0",
+    "gn:asciiname":"Owumbiri",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100973,
+    "gn:latitude":5.14151,
+    "gn:longitude":6.11174,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Owumbiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angiama II",
+        "Ange",
+        "Owumbiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100973
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3834db5558e7cc5f92d54f0541e3850a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564277,
+            "locality_id":1310444639,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1310444639,
+    "wof:lastmodified":1537675453,
+    "wof:name":"Owumbiri",
+    "wof:parent_id":1108564277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11174,
+    5.14151,
+    6.11174,
+    5.14151
+],
+  "geometry": {"coordinates":[6.11174,5.14151],"type":"Point"}
+}

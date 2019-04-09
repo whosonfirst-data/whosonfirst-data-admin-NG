@@ -1,0 +1,72 @@
+{
+  "id": 1209745007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3966,7.73885,5.3966,7.73885",
+    "geom:latitude":7.73885,
+    "geom:longitude":5.3966,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13011.0",
+    "gn:asciiname":"Ire-Ekiti",
+    "gn:country_code":"NG",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337329,
+    "gn:latitude":7.73885,
+    "gn:longitude":5.3966,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ire-Ekiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ire",
+        "Ire-Ekiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337329
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"80476795d7d9b75ccf1f5be9eb9b5644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563595,
+            "locality_id":1209745007,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1209745007,
+    "wof:lastmodified":1537675182,
+    "wof:name":"Ire-Ekiti",
+    "wof:parent_id":1108563595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3966,
+    7.73885,
+    5.3966,
+    7.73885
+],
+  "geometry": {"coordinates":[5.3966,7.73885],"type":"Point"}
+}

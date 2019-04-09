@@ -1,0 +1,73 @@
+{
+  "id": 1225873185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.80737,10.44909,6.80737,10.44909",
+    "geom:latitude":10.44909,
+    "geom:longitude":6.80737,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Gidan Tsofon Sariki",
+    "gn:country_code":"NG",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340754,
+    "gn:latitude":10.44909,
+    "gn:longitude":6.80737,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Tsofon Sariki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serikin Kutusu",
+        "Sarkin Kutusu",
+        "Gidan Tsofon Sariki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340754
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"261be1dd9cd421342b31bc525efdd020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1225873185,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1225873185,
+    "wof:lastmodified":1537675231,
+    "wof:name":"Gidan Tsofon Sariki",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.80737,
+    10.44909,
+    6.80737,
+    10.44909
+],
+  "geometry": {"coordinates":[6.80737,10.44909],"type":"Point"}
+}

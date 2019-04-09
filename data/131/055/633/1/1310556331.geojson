@@ -1,0 +1,71 @@
+{
+  "id": 1310556331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86124,6.05842,6.86124,6.05842",
+    "geom:latitude":6.05842,
+    "geom:longitude":6.86124,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4011.0",
+    "gn:asciiname":"Ojoto",
+    "gn:country_code":"NG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2327356,
+    "gn:latitude":6.05842,
+    "gn:longitude":6.86124,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ojoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ojoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327356
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"52b7cf48148006a9d26957b3df616750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563527,
+            "locality_id":1310556331,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1310556331,
+    "wof:lastmodified":1537675045,
+    "wof:name":"Ojoto",
+    "wof:parent_id":1108563527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86124,
+    6.05842,
+    6.86124,
+    6.05842
+],
+  "geometry": {"coordinates":[6.86124,6.05842],"type":"Point"}
+}

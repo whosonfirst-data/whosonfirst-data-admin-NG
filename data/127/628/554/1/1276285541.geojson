@@ -1,0 +1,72 @@
+{
+  "id": 1276285541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.94725,7.24881,8.94725,7.24881",
+    "geom:latitude":7.24881,
+    "geom:longitude":8.94725,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Abayon",
+    "gn:country_code":"NG",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352995,
+    "gn:latitude":7.24881,
+    "gn:longitude":8.94725,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abayon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abayo",
+        "Abayon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352995
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7f79a2ea52acebb88e6fa6d038f0bc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1276285541,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276285541,
+    "wof:lastmodified":1537675397,
+    "wof:name":"Abayon",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.94725,
+    7.24881,
+    8.94725,
+    7.24881
+],
+  "geometry": {"coordinates":[8.94725,7.24881],"type":"Point"}
+}

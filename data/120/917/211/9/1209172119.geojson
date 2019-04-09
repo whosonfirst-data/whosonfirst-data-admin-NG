@@ -1,0 +1,63 @@
+{
+  "id": 1209172119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.54755,11.12593,7.54755,11.12593",
+    "geom:latitude":11.12593,
+    "geom:longitude":7.54755,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19003.0",
+    "gn:admin3_code":"KD0308",
+    "gn:asciiname":"Ungwan Rafin",
+    "gn:country_code":"NG",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319822,
+    "gn:latitude":11.12593,
+    "gn:longitude":7.54755,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Rafin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319822
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8636ebd26ee9de2caa58bfd7fb28b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209172119
+        }
+    ],
+    "wof:id":1209172119,
+    "wof:lastmodified":1536295544,
+    "wof:name":"Ungwan Rafin",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.54755,
+    11.12593,
+    7.54755,
+    11.12593
+],
+  "geometry": {"coordinates":[7.54755,11.12593],"type":"Point"}
+}

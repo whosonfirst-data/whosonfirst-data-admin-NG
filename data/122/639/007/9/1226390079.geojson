@@ -1,0 +1,68 @@
+{
+  "id": 1226390079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.51304,7.81083,8.51304,7.81083",
+    "geom:latitude":7.81083,
+    "geom:longitude":8.51304,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013.0",
+    "gn:asciiname":"Gever",
+    "gn:country_code":"NG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341220,
+    "gn:latitude":7.81083,
+    "gn:longitude":8.51304,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gever",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341220
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c5a419c0b78a274f7821655b11eff58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":1226390079,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226390079,
+    "wof:lastmodified":1536726134,
+    "wof:name":"Gever",
+    "wof:parent_id":1108563933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.51304,
+    7.81083,
+    8.51304,
+    7.81083
+],
+  "geometry": {"coordinates":[8.51304,7.81083],"type":"Point"}
+}

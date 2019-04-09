@@ -1,0 +1,68 @@
+{
+  "id": 1343824941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.72762,7.10965,8.72762,7.10965",
+    "geom:latitude":7.10965,
+    "geom:longitude":8.72762,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Atengel",
+    "gn:country_code":"NG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348989,
+    "gn:latitude":7.10965,
+    "gn:longitude":8.72762,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atengel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348989
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"14b9d0f6e1e2669f34da377be7157b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1343824941,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343824941,
+    "wof:lastmodified":1536718337,
+    "wof:name":"Atengel",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.72762,
+    7.10965,
+    8.72762,
+    7.10965
+],
+  "geometry": {"coordinates":[8.72762,7.10965],"type":"Point"}
+}

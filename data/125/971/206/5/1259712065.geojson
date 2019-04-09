@@ -1,0 +1,68 @@
+{
+  "id": 1259712065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.42572,10.75604,11.42572,10.75604",
+    "geom:latitude":10.75604,
+    "geom:longitude":11.42572,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16005.0",
+    "gn:asciiname":"Busum",
+    "gn:country_code":"NG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346293,
+    "gn:latitude":10.75604,
+    "gn:longitude":11.42572,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Busum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346293
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"06b8ff8d5ce7d6e7664b1c8a2fa31638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563373,
+            "locality_id":1259712065,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1259712065,
+    "wof:lastmodified":1537024919,
+    "wof:name":"Busum",
+    "wof:parent_id":1108563373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.42572,
+    10.75604,
+    11.42572,
+    10.75604
+],
+  "geometry": {"coordinates":[11.42572,10.75604],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309938899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75052,9.11993,5.75052,9.11993",
+    "geom:latitude":9.11993,
+    "geom:longitude":5.75052,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007",
+    "gn:asciiname":"Sonlawo",
+    "gn:country_code":"NG",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10308807,
+    "gn:latitude":9.11993,
+    "gn:longitude":5.75052,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sonlawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308807
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a9a0aa5fd550a0766579b7c6163a7235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1309938899,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1309938899,
+    "wof:lastmodified":1536739272,
+    "wof:name":"Sonlawo",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75052,
+    9.11993,
+    5.75052,
+    9.11993
+],
+  "geometry": {"coordinates":[5.75052,9.11993],"type":"Point"}
+}

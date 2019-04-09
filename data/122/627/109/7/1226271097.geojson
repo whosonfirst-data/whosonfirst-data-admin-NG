@@ -1,0 +1,71 @@
+{
+  "id": 1226271097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3323,9.13828,11.3323,9.13828",
+    "geom:latitude":9.13828,
+    "geom:longitude":11.3323,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35010.0",
+    "gn:asciiname":"Kuka",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333598,
+    "gn:latitude":9.13828,
+    "gn:longitude":11.3323,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333598
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"23490e75629651d1d617080428bb8fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":1226271097,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226271097,
+    "wof:lastmodified":1537675131,
+    "wof:name":"Kuka",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3323,
+    9.13828,
+    11.3323,
+    9.13828
+],
+  "geometry": {"coordinates":[11.3323,9.13828],"type":"Point"}
+}

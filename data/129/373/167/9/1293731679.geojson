@@ -1,0 +1,68 @@
+{
+  "id": 1293731679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.41155,7.63646,8.41155,7.63646",
+    "geom:latitude":7.63646,
+    "geom:longitude":8.41155,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007",
+    "gn:asciiname":"Adagume",
+    "gn:country_code":"NG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9509099,
+    "gn:latitude":7.63646,
+    "gn:longitude":8.41155,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adagume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9509099
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b4a31e83a579f5c4f995cf2376a71158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563473,
+            "locality_id":1293731679,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293731679,
+    "wof:lastmodified":1536932961,
+    "wof:name":"Adagume",
+    "wof:parent_id":1108563473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.41155,
+    7.63646,
+    8.41155,
+    7.63646
+],
+  "geometry": {"coordinates":[8.41155,7.63646],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326773609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.67568,5.52835,5.67568,5.52835",
+    "geom:latitude":5.52835,
+    "geom:longitude":5.67568,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Inorin",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028006,
+    "gn:latitude":5.52835,
+    "gn:longitude":5.67568,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Inorin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Inorin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028006
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad1d2795d876fe6fe783bc14c0d192f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":1326773609,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1326773609,
+    "wof:lastmodified":1537675424,
+    "wof:name":"Inorin",
+    "wof:parent_id":1108564503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67568,
+    5.52835,
+    5.67568,
+    5.52835
+],
+  "geometry": {"coordinates":[5.67568,5.52835],"type":"Point"}
+}

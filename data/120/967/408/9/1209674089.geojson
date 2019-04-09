@@ -1,0 +1,62 @@
+{
+  "id": 1209674089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.77334,5.12427,7.77334,5.12427",
+    "geom:latitude":5.12427,
+    "geom:longitude":7.77334,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Ukana",
+    "gn:country_code":"NG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073404,
+    "gn:latitude":5.12427,
+    "gn:longitude":7.77334,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ukana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073404
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8ef40e4edd6beef480c011bc50d45454",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209674089
+        }
+    ],
+    "wof:id":1209674089,
+    "wof:lastmodified":1536279817,
+    "wof:name":"Ukana",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.773339999999999,
+    5.12427,
+    7.773339999999999,
+    5.12427
+],
+  "geometry": {"coordinates":[7.77334,5.12427],"type":"Point"}
+}

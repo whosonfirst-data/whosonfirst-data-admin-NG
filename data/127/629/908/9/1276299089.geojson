@@ -1,0 +1,68 @@
+{
+  "id": 1276299089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.88987,7.20601,8.88987,7.20601",
+    "geom:latitude":7.20601,
+    "geom:longitude":8.88987,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Ivavgbe",
+    "gn:country_code":"NG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336964,
+    "gn:latitude":7.20601,
+    "gn:longitude":8.88987,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ivavgbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336964
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a6cdcdbf36cd0feb8f9cb83c12069a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1276299089,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276299089,
+    "wof:lastmodified":1536823822,
+    "wof:name":"Ivavgbe",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.88987,
+    7.20601,
+    8.88987,
+    7.20601
+],
+  "geometry": {"coordinates":[8.88987,7.20601],"type":"Point"}
+}

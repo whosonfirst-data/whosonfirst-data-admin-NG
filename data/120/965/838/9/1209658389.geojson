@@ -1,0 +1,62 @@
+{
+  "id": 1209658389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13423,5.18356,6.13423,5.18356",
+    "geom:latitude":5.18356,
+    "geom:longitude":6.13423,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10016.0",
+    "gn:asciiname":"Obagbagha",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100803,
+    "gn:latitude":5.18356,
+    "gn:longitude":6.13423,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obagbagha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100803
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6f820a68f404fede661d1c7b8ae02528",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209658389
+        }
+    ],
+    "wof:id":1209658389,
+    "wof:lastmodified":1536280350,
+    "wof:name":"Obagbagha",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.1342300000000005,
+    5.18356,
+    6.1342300000000005,
+    5.18356
+],
+  "geometry": {"coordinates":[6.13423,5.18356],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293731677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79542,7.26018,8.79542,7.26018",
+    "geom:latitude":7.26018,
+    "geom:longitude":8.79542,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Yua",
+    "gn:country_code":"NG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974869,
+    "gn:latitude":7.26018,
+    "gn:longitude":8.79542,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974869
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ac23d6da9695ed0615a2021c7c3eb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1293731677,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293731677,
+    "wof:lastmodified":1536932965,
+    "wof:name":"Yua",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79542,
+    7.26018,
+    8.79542,
+    7.26018
+],
+  "geometry": {"coordinates":[8.79542,7.26018],"type":"Point"}
+}

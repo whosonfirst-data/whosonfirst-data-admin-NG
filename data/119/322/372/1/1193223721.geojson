@@ -1,0 +1,73 @@
+{
+  "id": 1193223721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.06667,8.08333,5.06667,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":5.06667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24009.0",
+    "gn:asciiname":"Aran Orin",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349527,
+    "gn:latitude":8.08333,
+    "gn:longitude":5.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aran Orin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ara-Orin",
+        "Aran Orin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349527
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"db00754996c7609567923bdb33f9e8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563655,
+            "locality_id":1193223721,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1193223721,
+    "wof:lastmodified":1537675358,
+    "wof:name":"Aran Orin",
+    "wof:parent_id":1108563655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.06667,
+    8.08333,
+    5.06667,
+    8.08333
+],
+  "geometry": {"coordinates":[5.06667,8.08333],"type":"Point"}
+}

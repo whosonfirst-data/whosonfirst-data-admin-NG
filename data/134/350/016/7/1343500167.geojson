@@ -1,0 +1,68 @@
+{
+  "id": 1343500167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.07477,5.53468,6.07477,5.53468",
+    "geom:latitude":5.53468,
+    "geom:longitude":6.07477,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Agbarha-Otor",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098482,
+    "gn:latitude":5.53468,
+    "gn:longitude":6.07477,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agbarha-Otor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098482
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1239fe085a606dc34322bdd22aa19288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1343500167,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1343500167,
+    "wof:lastmodified":1536688949,
+    "wof:name":"Agbarha-Otor",
+    "wof:parent_id":1108564439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07477,
+    5.53468,
+    6.07477,
+    5.53468
+],
+  "geometry": {"coordinates":[6.07477,5.53468],"type":"Point"}
+}

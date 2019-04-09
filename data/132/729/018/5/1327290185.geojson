@@ -1,0 +1,68 @@
+{
+  "id": 1327290185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.41574,6.35471,8.41574,6.35471",
+    "geom:latitude":6.35471,
+    "geom:longitude":8.41574,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9018.0",
+    "gn:asciiname":"Ntrigom",
+    "gn:country_code":"NG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328641,
+    "gn:latitude":6.35471,
+    "gn:longitude":8.41574,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ntrigom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328641
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a1339db93f370f66c468aec49ba6b126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564529,
+            "locality_id":1327290185,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1327290185,
+    "wof:lastmodified":1536885852,
+    "wof:name":"Ntrigom",
+    "wof:parent_id":1108564529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.41574,
+    6.35471,
+    8.41574,
+    6.35471
+],
+  "geometry": {"coordinates":[8.41574,6.35471],"type":"Point"}
+}

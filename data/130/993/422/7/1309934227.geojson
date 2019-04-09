@@ -1,0 +1,68 @@
+{
+  "id": 1309934227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96964,9.98919,8.96964,9.98919",
+    "geom:latitude":9.98919,
+    "geom:longitude":8.96964,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005.0",
+    "gn:asciiname":"Gusti",
+    "gn:country_code":"NG",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339932,
+    "gn:latitude":9.98919,
+    "gn:longitude":8.96964,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gusti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339932
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e9abd89a9f06d6d0f089454c03d715f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563731,
+            "locality_id":1309934227,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1309934227,
+    "wof:lastmodified":1536745862,
+    "wof:name":"Gusti",
+    "wof:parent_id":1108563731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96964,
+    9.98919,
+    8.96964,
+    9.98919
+],
+  "geometry": {"coordinates":[8.96964,9.98919],"type":"Point"}
+}

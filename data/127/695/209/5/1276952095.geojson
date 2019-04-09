@@ -1,0 +1,68 @@
+{
+  "id": 1276952095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7005,4.79103,7.7005,4.79103",
+    "geom:latitude":4.79103,
+    "geom:longitude":7.7005,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3026.0",
+    "gn:asciiname":"Eteben",
+    "gn:country_code":"NG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343071,
+    "gn:latitude":4.79103,
+    "gn:longitude":7.7005,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eteben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343071
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4140c0db8c372545b660af9905812ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564221,
+            "locality_id":1276952095,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1276952095,
+    "wof:lastmodified":1536945049,
+    "wof:name":"Eteben",
+    "wof:parent_id":1108564221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7005,
+    4.79103,
+    7.7005,
+    4.79103
+],
+  "geometry": {"coordinates":[7.7005,4.79103],"type":"Point"}
+}

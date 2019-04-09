@@ -1,0 +1,68 @@
+{
+  "id": 1243522093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92117,5.90931,6.92117,5.90931",
+    "geom:latitude":5.90931,
+    "geom:longitude":6.92117,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4012.0",
+    "gn:asciiname":"Umuruko",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098540,
+    "gn:latitude":5.90931,
+    "gn:longitude":6.92117,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umuruko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098540
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bc249a92d86a0442aa2fad7750e90233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563565,
+            "locality_id":1243522093,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1243522093,
+    "wof:lastmodified":1536696777,
+    "wof:name":"Umuruko",
+    "wof:parent_id":1108563565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92117,
+    5.90931,
+    6.92117,
+    5.90931
+],
+  "geometry": {"coordinates":[6.92117,5.90931],"type":"Point"}
+}

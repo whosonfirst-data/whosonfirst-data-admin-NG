@@ -1,0 +1,68 @@
+{
+  "id": 1326790199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.1,7.35,4.1,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":4.1,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31005.0",
+    "gn:asciiname":"Agunlodo",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351722,
+    "gn:latitude":7.35,
+    "gn:longitude":4.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agunlodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351722
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3bfdf6363a9d07aeb64e9481389d11c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563275,
+            "locality_id":1326790199,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1326790199,
+    "wof:lastmodified":1536609644,
+    "wof:name":"Agunlodo",
+    "wof:parent_id":1108563275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.1,
+    7.35,
+    4.1,
+    7.35
+],
+  "geometry": {"coordinates":[4.1,7.35],"type":"Point"}
+}

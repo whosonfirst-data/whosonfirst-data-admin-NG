@@ -1,0 +1,64 @@
+{
+  "id": 1309743119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.31659,4.43592,7.31659,4.43592",
+    "geom:latitude":4.43592,
+    "geom:longitude":7.31659,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Epelematubo",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7053235,
+    "gn:latitude":4.43592,
+    "gn:longitude":7.31659,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Epelematubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7053235
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8613435d1fe70594fa61d795fa39639c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "locality_id":1309743119,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309743119,
+    "wof:lastmodified":1537020671,
+    "wof:name":"Epelematubo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.31659,
+    4.43592,
+    7.31659,
+    4.43592
+],
+  "geometry": {"coordinates":[7.31659,4.43592],"type":"Point"}
+}

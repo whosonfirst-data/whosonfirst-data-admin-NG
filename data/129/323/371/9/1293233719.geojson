@@ -1,0 +1,71 @@
+{
+  "id": 1293233719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.30334,9.59726,9.30334,9.59726",
+    "geom:latitude":9.59726,
+    "geom:longitude":9.30334,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32011.0",
+    "gn:asciiname":"Badni",
+    "gn:country_code":"NG",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348343,
+    "gn:latitude":9.59726,
+    "gn:longitude":9.30334,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Badni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Badni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348343
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a76f12cae88a66e18df1d5e94fccd557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563941,
+            "locality_id":1293233719,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1293233719,
+    "wof:lastmodified":1537675344,
+    "wof:name":"Badni",
+    "wof:parent_id":1108563941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.30334,
+    9.59726,
+    9.30334,
+    9.59726
+],
+  "geometry": {"coordinates":[9.30334,9.59726],"type":"Point"}
+}

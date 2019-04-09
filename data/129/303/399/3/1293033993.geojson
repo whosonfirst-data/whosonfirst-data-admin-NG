@@ -1,0 +1,69 @@
+{
+  "id": 1293033993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9784,13.37468,5.9784,13.37468",
+    "geom:latitude":13.37468,
+    "geom:longitude":5.9784,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60508",
+    "gn:asciiname":"Kumazo",
+    "gn:country_code":"NG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012717,
+    "gn:latitude":13.37468,
+    "gn:longitude":5.9784,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kumazo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012717
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"422bcfcb80d1b93f9266545a110b5cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563433,
+            "locality_id":1293033993,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293033993,
+    "wof:lastmodified":1536944430,
+    "wof:name":"Kumazo",
+    "wof:parent_id":1108563433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9784,
+    13.37468,
+    5.9784,
+    13.37468
+],
+  "geometry": {"coordinates":[5.9784,13.37468],"type":"Point"}
+}

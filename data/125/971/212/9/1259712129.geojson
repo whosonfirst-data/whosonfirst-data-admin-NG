@@ -1,0 +1,68 @@
+{
+  "id": 1259712129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70986,9.76392,8.70986,9.76392",
+    "geom:latitude":9.76392,
+    "geom:longitude":8.70986,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32002.0",
+    "gn:asciiname":"Barakin Dogon Gaba",
+    "gn:country_code":"NG",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347724,
+    "gn:latitude":9.76392,
+    "gn:longitude":8.70986,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barakin Dogon Gaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347724
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"df7309d25af601076dfe84a44580954d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563095,
+            "locality_id":1259712129,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259712129,
+    "wof:lastmodified":1537024825,
+    "wof:name":"Barakin Dogon Gaba",
+    "wof:parent_id":1108563095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70986,
+    9.76392,
+    8.70986,
+    9.76392
+],
+  "geometry": {"coordinates":[8.70986,9.76392],"type":"Point"}
+}

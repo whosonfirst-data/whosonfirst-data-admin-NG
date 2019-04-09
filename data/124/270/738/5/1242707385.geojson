@@ -1,0 +1,71 @@
+{
+  "id": 1242707385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95788,10.35244,10.95788,10.35244",
+    "geom:latitude":10.35244,
+    "geom:longitude":10.95788,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16001.0",
+    "gn:asciiname":"Garin Nallam Bura",
+    "gn:country_code":"NG",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028345,
+    "gn:latitude":10.35244,
+    "gn:longitude":10.95788,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garin Nallam Bura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Garin Nallam Bura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028345
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e8f09b78c85945ff6d0230f5bf5c0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1242707385,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1242707385,
+    "wof:lastmodified":1537675428,
+    "wof:name":"Garin Nallam Bura",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95788,
+    10.35244,
+    10.95788,
+    10.35244
+],
+  "geometry": {"coordinates":[10.95788,10.35244],"type":"Point"}
+}

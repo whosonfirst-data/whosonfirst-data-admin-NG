@@ -1,0 +1,67 @@
+{
+  "id": 1310628547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.51788,12.58771,8.51788,12.58771",
+    "geom:latitude":12.58771,
+    "geom:longitude":8.51788,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Katsere",
+    "gn:country_code":"NG",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974406,
+    "gn:latitude":12.58771,
+    "gn:longitude":8.51788,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Katsere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974406
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d2b9d5df106881f9bda47262b10739fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563931,
+            "locality_id":1310628547,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1310628547,
+    "wof:lastmodified":1536739442,
+    "wof:name":"Katsere",
+    "wof:parent_id":1108563931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.51788,
+    12.58771,
+    8.51788,
+    12.58771
+],
+  "geometry": {"coordinates":[8.51788,12.58771],"type":"Point"}
+}

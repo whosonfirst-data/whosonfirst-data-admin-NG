@@ -1,0 +1,71 @@
+{
+  "id": 1277103221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.77875,7.68048,9.77875,7.68048",
+    "geom:latitude":7.68048,
+    "geom:longitude":9.77875,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Liiam",
+    "gn:country_code":"NG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532286,
+    "gn:latitude":7.68048,
+    "gn:longitude":9.77875,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Liiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lijam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532286
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b733a9c2c6b5506935287e0eae1d07cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1277103221,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1277103221,
+    "wof:lastmodified":1537675465,
+    "wof:name":"Liiam",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.77875,
+    7.68048,
+    9.77875,
+    7.68048
+],
+  "geometry": {"coordinates":[9.77875,7.68048],"type":"Point"}
+}

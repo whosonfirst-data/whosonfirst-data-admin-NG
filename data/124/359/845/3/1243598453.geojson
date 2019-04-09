@@ -1,0 +1,67 @@
+{
+  "id": 1243598453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29654,10.09233,13.29654,10.09233",
+    "geom:latitude":10.09233,
+    "geom:longitude":13.29654,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kinga",
+    "gn:country_code":"NG",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760203,
+    "gn:latitude":10.09233,
+    "gn:longitude":13.29654,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760203
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a42fdfaa30a99d22ee4cc5f320c29097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1243598453,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243598453,
+    "wof:lastmodified":1537080290,
+    "wof:name":"Kinga",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29654,
+    10.09233,
+    13.29654,
+    10.09233
+],
+  "geometry": {"coordinates":[13.29654,10.09233],"type":"Point"}
+}

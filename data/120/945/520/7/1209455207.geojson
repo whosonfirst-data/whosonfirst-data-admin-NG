@@ -1,0 +1,62 @@
+{
+  "id": 1209455207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.32654,8.74329,12.32654,8.74329",
+    "geom:latitude":8.74329,
+    "geom:longitude":12.32654,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Wuro Gidou",
+    "gn:country_code":"NG",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10419962,
+    "gn:latitude":8.74329,
+    "gn:longitude":12.32654,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Gidou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10419962
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6b5752a15c4167fb42e691cf9bb2a66b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209455207
+        }
+    ],
+    "wof:id":1209455207,
+    "wof:lastmodified":1536286553,
+    "wof:name":"Wuro Gidou",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.32654,
+    8.74329,
+    12.32654,
+    8.74329
+],
+  "geometry": {"coordinates":[12.32654,8.74329],"type":"Point"}
+}

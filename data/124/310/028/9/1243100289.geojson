@@ -1,0 +1,74 @@
+{
+  "id": 1243100289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61921,5.29902,6.61921,5.29902",
+    "geom:latitude":5.29902,
+    "geom:longitude":6.61921,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33016.0",
+    "gn:asciiname":"Kpigeni",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333775,
+    "gn:latitude":5.29902,
+    "gn:longitude":6.61921,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kpigeni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kreigana",
+        "Kreigam",
+        "Kreigani",
+        "Kpigeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333775
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e7364363a96f6e50ef7ad563a3b806ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564105,
+            "locality_id":1243100289,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1243100289,
+    "wof:lastmodified":1537675133,
+    "wof:name":"Kpigeni",
+    "wof:parent_id":1108564105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61921,
+    5.29902,
+    6.61921,
+    5.29902
+],
+  "geometry": {"coordinates":[6.61921,5.29902],"type":"Point"}
+}

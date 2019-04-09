@@ -1,0 +1,62 @@
+{
+  "id": 1209055301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97361,7.39083,3.97361,7.39083",
+    "geom:latitude":7.39083,
+    "geom:longitude":3.97361,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31005.0",
+    "gn:asciiname":"Alaka",
+    "gn:country_code":"NG",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350635,
+    "gn:latitude":7.39083,
+    "gn:longitude":3.97361,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350635
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3950bbefba65f75a03b6859029d98050",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209055301
+        }
+    ],
+    "wof:id":1209055301,
+    "wof:lastmodified":1536299129,
+    "wof:name":"Alaka",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97361,
+    7.39083,
+    3.97361,
+    7.39083
+],
+  "geometry": {"coordinates":[3.97361,7.39083],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226284955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97327,11.60341,3.97327,11.60341",
+    "geom:latitude":11.60341,
+    "geom:longitude":3.97327,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"518.0",
+    "gn:admin3_code":"51803",
+    "gn:asciiname":"Issa",
+    "gn:country_code":"NG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337108,
+    "gn:latitude":11.60341,
+    "gn:longitude":3.97327,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Issa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Issaferma",
+        "Issa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337108
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a4925645625a65694a83da3940237a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564383,
+            "locality_id":1226284955,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1226284955,
+    "wof:lastmodified":1537675177,
+    "wof:name":"Issa",
+    "wof:parent_id":1108564383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97327,
+    11.60341,
+    3.97327,
+    11.60341
+],
+  "geometry": {"coordinates":[3.97327,11.60341],"type":"Point"}
+}

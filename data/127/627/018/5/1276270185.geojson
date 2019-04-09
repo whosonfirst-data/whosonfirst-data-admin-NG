@@ -1,0 +1,68 @@
+{
+  "id": 1276270185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36908,10.22429,12.36908,10.22429",
+    "geom:latitude":10.22429,
+    "geom:longitude":12.36908,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Kantabata",
+    "gn:country_code":"NG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837062,
+    "gn:latitude":10.22429,
+    "gn:longitude":12.36908,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kantabata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837062
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe849fa5df6d7e3232f2fc9e7d85749a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1276270185,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1276270185,
+    "wof:lastmodified":1536861863,
+    "wof:name":"Kantabata",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36908,
+    10.22429,
+    12.36908,
+    10.22429
+],
+  "geometry": {"coordinates":[12.36908,10.22429],"type":"Point"}
+}

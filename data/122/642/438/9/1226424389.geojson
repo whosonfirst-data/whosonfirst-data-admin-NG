@@ -1,0 +1,68 @@
+{
+  "id": 1226424389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23333,7.1,3.23333,7.1",
+    "geom:latitude":7.1,
+    "geom:longitude":3.23333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28001.0",
+    "gn:asciiname":"Kiriji",
+    "gn:country_code":"NG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334352,
+    "gn:latitude":7.1,
+    "gn:longitude":3.23333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kiriji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        421187947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334352
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eacbc2b271d10f2d67e11b0009fc6733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421187947,
+            "locality_id":1226424389,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1226424389,
+    "wof:lastmodified":1536676276,
+    "wof:name":"Kiriji",
+    "wof:parent_id":421187947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23333,
+    7.1,
+    3.23333,
+    7.1
+],
+  "geometry": {"coordinates":[3.23333,7.1],"type":"Point"}
+}

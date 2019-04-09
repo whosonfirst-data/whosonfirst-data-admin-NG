@@ -1,0 +1,62 @@
+{
+  "id": 1209268879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28883,7.13239,9.28883,7.13239",
+    "geom:latitude":7.13239,
+    "geom:longitude":9.28883,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022",
+    "gn:asciiname":"Kpra",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639670,
+    "gn:latitude":7.13239,
+    "gn:longitude":9.28883,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kpra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639670
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"29118005cfeba677110a8cc9bf98dc11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209268879
+        }
+    ],
+    "wof:id":1209268879,
+    "wof:lastmodified":1536292430,
+    "wof:name":"Kpra",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28883,
+    7.132389999999999,
+    9.28883,
+    7.132389999999999
+],
+  "geometry": {"coordinates":[9.28883,7.13239],"type":"Point"}
+}

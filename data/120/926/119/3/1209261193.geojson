@@ -1,0 +1,65 @@
+{
+  "id": 1209261193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93597,11.40459,7.93597,11.40459",
+    "geom:latitude":11.40459,
+    "geom:longitude":7.93597,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ungwan Alabo",
+    "gn:country_code":"NG",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320125,
+    "gn:latitude":11.40459,
+    "gn:longitude":7.93597,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ungwan Alabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alabo",
+        "Ungwan Alabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320125
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"660c4476fdb502f4aeb8b6ef1dcc8115",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209261193
+        }
+    ],
+    "wof:id":1209261193,
+    "wof:lastmodified":1537674935,
+    "wof:name":"Ungwan Alabo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93597,
+    11.40459,
+    7.93597,
+    11.40459
+],
+  "geometry": {"coordinates":[7.93597,11.40459],"type":"Point"}
+}

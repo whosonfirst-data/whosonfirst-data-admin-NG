@@ -1,0 +1,68 @@
+{
+  "id": 1243201735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.04222,8.23583,7.04222,8.23583",
+    "geom:latitude":8.23583,
+    "geom:longitude":7.04222,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26012.0",
+    "gn:asciiname":"Matani",
+    "gn:country_code":"NG",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330617,
+    "gn:latitude":8.23583,
+    "gn:longitude":7.04222,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Matani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330617
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c4c537d5cf1fff5b75c15b3e811175e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564417,
+            "locality_id":1243201735,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1243201735,
+    "wof:lastmodified":1536661557,
+    "wof:name":"Matani",
+    "wof:parent_id":1108564417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.04222,
+    8.23583,
+    7.04222,
+    8.23583
+],
+  "geometry": {"coordinates":[7.04222,8.23583],"type":"Point"}
+}

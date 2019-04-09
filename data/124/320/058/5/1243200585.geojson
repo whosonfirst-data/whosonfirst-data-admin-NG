@@ -1,0 +1,72 @@
+{
+  "id": 1243200585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.17589,6.38003,7.17589,6.38003",
+    "geom:latitude":6.38003,
+    "geom:longitude":7.17589,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14006.0",
+    "gn:asciiname":"Eziama-Owa",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342901,
+    "gn:latitude":6.38003,
+    "gn:longitude":7.17589,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eziama-Owa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eziama-Awwa",
+        "Eziama-Owa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342901
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"19b34e1d286161669a17c14400e7e4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563353,
+            "locality_id":1243200585,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1243200585,
+    "wof:lastmodified":1537675268,
+    "wof:name":"Eziama-Owa",
+    "wof:parent_id":1108563353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.17589,
+    6.38003,
+    7.17589,
+    6.38003
+],
+  "geometry": {"coordinates":[7.17589,6.38003],"type":"Point"}
+}

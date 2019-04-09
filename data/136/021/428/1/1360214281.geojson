@@ -1,0 +1,72 @@
+{
+  "id": 1360214281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01279,11.75804,11.01279,11.75804",
+    "geom:latitude":11.75804,
+    "geom:longitude":11.01279,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"71215",
+    "gn:asciiname":"Ngawa",
+    "gn:country_code":"NG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319084,
+    "gn:latitude":11.75804,
+    "gn:longitude":11.01279,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Watinani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319084
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"be599a8bbc00febac8fe6267d732b925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564007,
+            "locality_id":1360214281,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1360214281,
+    "wof:lastmodified":1537674913,
+    "wof:name":"Ngawa",
+    "wof:parent_id":1108564007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01279,
+    11.75804,
+    11.01279,
+    11.75804
+],
+  "geometry": {"coordinates":[11.01279,11.75804],"type":"Point"}
+}

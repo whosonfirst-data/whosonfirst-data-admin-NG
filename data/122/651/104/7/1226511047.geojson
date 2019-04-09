@@ -1,0 +1,71 @@
+{
+  "id": 1226511047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6735,6.35942,8.6735,6.35942",
+    "geom:latitude":6.35942,
+    "geom:longitude":8.6735,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9016.0",
+    "gn:asciiname":"Nkomfap",
+    "gn:country_code":"NG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328825,
+    "gn:latitude":6.35942,
+    "gn:longitude":8.6735,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nkomfap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkonfap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"022141d87e8777f90912d6d3e89c6f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564121,
+            "locality_id":1226511047,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226511047,
+    "wof:lastmodified":1537675072,
+    "wof:name":"Nkomfap",
+    "wof:parent_id":1108564121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6735,
+    6.35942,
+    8.6735,
+    6.35942
+],
+  "geometry": {"coordinates":[8.6735,6.35942],"type":"Point"}
+}

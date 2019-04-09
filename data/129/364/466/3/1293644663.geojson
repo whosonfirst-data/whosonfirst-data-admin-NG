@@ -1,0 +1,67 @@
+{
+  "id": 1293644663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.78557,11.57696,7.78557,11.57696",
+    "geom:latitude":11.57696,
+    "geom:longitude":7.78557,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kadafa",
+    "gn:country_code":"NG",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019354,
+    "gn:latitude":11.57696,
+    "gn:longitude":7.78557,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kadafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019354
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d22122c093a6a3cecb6dbb644f589db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564309,
+            "locality_id":1293644663,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1293644663,
+    "wof:lastmodified":1537055415,
+    "wof:name":"Kadafa",
+    "wof:parent_id":1108564309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.78557,
+    11.57696,
+    7.78557,
+    11.57696
+],
+  "geometry": {"coordinates":[7.78557,11.57696],"type":"Point"}
+}

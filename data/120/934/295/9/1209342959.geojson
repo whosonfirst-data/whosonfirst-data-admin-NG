@@ -1,0 +1,67 @@
+{
+  "id": 1209342959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.65,8.03333,4.65,8.03333",
+    "geom:latitude":8.03333,
+    "geom:longitude":4.65,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30025.0",
+    "gn:asciiname":"Igbaye",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338802,
+    "gn:latitude":8.03333,
+    "gn:longitude":4.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igbaje",
+        "Igbaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338802
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd9c6eeeb7f272e456ef34b75886b854",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342959
+        }
+    ],
+    "wof:id":1209342959,
+    "wof:lastmodified":1537675204,
+    "wof:name":"Igbaye",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.65,
+    8.03333,
+    4.65,
+    8.03333
+],
+  "geometry": {"coordinates":[4.65,8.03333],"type":"Point"}
+}

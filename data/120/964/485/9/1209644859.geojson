@@ -1,0 +1,63 @@
+{
+  "id": 1209644859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.47748,12.41645,6.47748,12.41645",
+    "geom:latitude":12.41645,
+    "geom:longitude":6.47748,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80506",
+    "gn:asciiname":"Nahutie",
+    "gn:country_code":"NG",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329524,
+    "gn:latitude":12.41645,
+    "gn:longitude":6.47748,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nahutie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329524
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c2ba1c6cb6a772d11a2410fa0d6eaca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644859
+        }
+    ],
+    "wof:id":1209644859,
+    "wof:lastmodified":1536280768,
+    "wof:name":"Nahutie",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.47748,
+    12.41645,
+    6.47748,
+    12.41645
+],
+  "geometry": {"coordinates":[6.47748,12.41645],"type":"Point"}
+}

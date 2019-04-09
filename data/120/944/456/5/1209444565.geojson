@@ -1,0 +1,63 @@
+{
+  "id": 1209444565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.76945,10.50976,9.76945,10.50976",
+    "geom:latitude":10.50976,
+    "geom:longitude":9.76945,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5002.0",
+    "gn:admin3_code":"BA0208",
+    "gn:asciiname":"Durum",
+    "gn:country_code":"NG",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344271,
+    "gn:latitude":10.50976,
+    "gn:longitude":9.76945,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Durum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344271
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4bc716c06c6ebb5dd5ed5cc646ce6e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444565
+        }
+    ],
+    "wof:id":1209444565,
+    "wof:lastmodified":1536286858,
+    "wof:name":"Durum",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.76945,
+    10.50976,
+    9.76945,
+    10.50976
+],
+  "geometry": {"coordinates":[9.76945,10.50976],"type":"Point"}
+}

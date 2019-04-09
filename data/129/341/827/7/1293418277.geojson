@@ -1,0 +1,71 @@
+{
+  "id": 1293418277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.60541,4.78367,6.60541,4.78367",
+    "geom:latitude":4.78367,
+    "geom:longitude":6.60541,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33001.0",
+    "gn:asciiname":"Kambio",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826155,
+    "gn:latitude":4.78367,
+    "gn:longitude":6.60541,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kambio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kambia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826155
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bf115a5e6c9b00701868a762372916db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562915,
+            "locality_id":1293418277,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293418277,
+    "wof:lastmodified":1537675406,
+    "wof:name":"Kambio",
+    "wof:parent_id":1108562915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.60541,
+    4.78367,
+    6.60541,
+    4.78367
+],
+  "geometry": {"coordinates":[6.60541,4.78367],"type":"Point"}
+}

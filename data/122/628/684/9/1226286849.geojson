@@ -1,0 +1,67 @@
+{
+  "id": 1226286849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17233,10.17667,12.17233,10.17667",
+    "geom:latitude":10.17667,
+    "geom:longitude":12.17233,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tafe",
+    "gn:country_code":"NG",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322647,
+    "gn:latitude":10.17667,
+    "gn:longitude":12.17233,
+    "gn:modification_date":"2008-09-11",
+    "gn:name":"Tafe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108564349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322647
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f7688b82149eacfd51253390414f6cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564349,
+            "locality_id":1226286849,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226286849,
+    "wof:lastmodified":1536873477,
+    "wof:name":"Tafe",
+    "wof:parent_id":1108564349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17233,
+    10.17667,
+    12.17233,
+    10.17667
+],
+  "geometry": {"coordinates":[12.17233,10.17667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276946027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.50843,11.22817,8.50843,11.22817",
+    "geom:latitude":11.22817,
+    "geom:longitude":8.50843,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kadaja",
+    "gn:country_code":"NG",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067154,
+    "gn:latitude":11.22817,
+    "gn:longitude":8.50843,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kadaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067154
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1cde91a6cbe78017d7a06cb06e5b7a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564427,
+            "locality_id":1276946027,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1276946027,
+    "wof:lastmodified":1536952858,
+    "wof:name":"Kadaja",
+    "wof:parent_id":1108564427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.50843,
+    11.22817,
+    8.50843,
+    11.22817
+],
+  "geometry": {"coordinates":[8.50843,11.22817],"type":"Point"}
+}

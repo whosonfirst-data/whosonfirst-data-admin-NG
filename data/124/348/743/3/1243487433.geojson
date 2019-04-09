@@ -1,0 +1,67 @@
+{
+  "id": 1243487433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.98528,8.06556,6.98528,8.06556",
+    "geom:latitude":8.06556,
+    "geom:longitude":6.98528,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Gbugbudu",
+    "gn:country_code":"NG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341334,
+    "gn:latitude":8.06556,
+    "gn:longitude":6.98528,
+    "gn:modification_date":"2001-05-04",
+    "gn:name":"Gbugbudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341334
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4c1e739cbc254386486306830e95112a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564417,
+            "locality_id":1243487433,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1243487433,
+    "wof:lastmodified":1536746200,
+    "wof:name":"Gbugbudu",
+    "wof:parent_id":1108564417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.98528,
+    8.06556,
+    6.98528,
+    8.06556
+],
+  "geometry": {"coordinates":[6.98528,8.06556],"type":"Point"}
+}

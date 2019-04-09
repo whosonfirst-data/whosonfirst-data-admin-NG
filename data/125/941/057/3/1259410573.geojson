@@ -1,0 +1,71 @@
+{
+  "id": 1259410573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.93501,9.24704,10.93501,9.24704",
+    "geom:latitude":9.24704,
+    "geom:longitude":10.93501,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Materum",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330598,
+    "gn:latitude":9.24704,
+    "gn:longitude":10.93501,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Materum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Materum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330598
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5031675ab1896a0082efdcf9798414aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1259410573,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259410573,
+    "wof:lastmodified":1537675097,
+    "wof:name":"Materum",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.93501,
+    9.24704,
+    10.93501,
+    9.24704
+],
+  "geometry": {"coordinates":[10.93501,9.24704],"type":"Point"}
+}

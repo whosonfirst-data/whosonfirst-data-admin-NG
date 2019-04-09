@@ -1,0 +1,72 @@
+{
+  "id": 1209947739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.44497,10.43104,10.44497,10.43104",
+    "geom:latitude":10.43104,
+    "geom:longitude":10.44497,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1310",
+    "gn:asciiname":"Taure",
+    "gn:country_code":"NG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322303,
+    "gn:latitude":10.43104,
+    "gn:longitude":10.44497,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Taure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Taure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322303
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b9b27ece421322f44ed95397f2308549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563819,
+            "locality_id":1209947739,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1209947739,
+    "wof:lastmodified":1537674975,
+    "wof:name":"Taure",
+    "wof:parent_id":1108563819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.44497,
+    10.43104,
+    10.44497,
+    10.43104
+],
+  "geometry": {"coordinates":[10.44497,10.43104],"type":"Point"}
+}

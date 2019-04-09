@@ -1,0 +1,62 @@
+{
+  "id": 1209673843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.95071,5.55595,7.95071,5.55595",
+    "geom:latitude":5.55595,
+    "geom:longitude":7.95071,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Ndiro",
+    "gn:country_code":"NG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329222,
+    "gn:latitude":5.55595,
+    "gn:longitude":7.95071,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329222
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"29a36de901e1ed69b93c7ad7e14cbe4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209673843
+        }
+    ],
+    "wof:id":1209673843,
+    "wof:lastmodified":1536279825,
+    "wof:name":"Ndiro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.950710000000001,
+    5.55595,
+    7.950710000000001,
+    5.55595
+],
+  "geometry": {"coordinates":[7.95071,5.55595],"type":"Point"}
+}

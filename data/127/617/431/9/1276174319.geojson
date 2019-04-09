@@ -1,0 +1,69 @@
+{
+  "id": 1276174319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.19166,11.5853,8.19166,11.5853",
+    "geom:latitude":11.5853,
+    "geom:longitude":8.19166,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20034.0",
+    "gn:admin3_code":"KN2403",
+    "gn:asciiname":"Bauda",
+    "gn:country_code":"NG",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347465,
+    "gn:latitude":11.5853,
+    "gn:longitude":8.19166,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bauda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347465
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8bf71bcc2939d260a4f8ed78d60b06de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563823,
+            "locality_id":1276174319,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1276174319,
+    "wof:lastmodified":1536991242,
+    "wof:name":"Bauda",
+    "wof:parent_id":1108563823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.19166,
+    11.5853,
+    8.19166,
+    11.5853
+],
+  "geometry": {"coordinates":[8.19166,11.5853],"type":"Point"}
+}

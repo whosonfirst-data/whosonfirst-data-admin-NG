@@ -1,0 +1,72 @@
+{
+  "id": 1343713593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.94476,6.02341,5.94476,6.02341",
+    "geom:latitude":6.02341,
+    "geom:longitude":5.94476,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Ebazogbenugu",
+    "gn:country_code":"NG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344146,
+    "gn:latitude":6.02341,
+    "gn:longitude":5.94476,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ebazogbenugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ubazogbe",
+        "Ebazogbenugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344146
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"992d273bd9cb7eb3fed6319de8ad3061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1343713593,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343713593,
+    "wof:lastmodified":1537675291,
+    "wof:name":"Ebazogbenugu",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.94476,
+    6.02341,
+    5.94476,
+    6.02341
+],
+  "geometry": {"coordinates":[5.94476,6.02341],"type":"Point"}
+}

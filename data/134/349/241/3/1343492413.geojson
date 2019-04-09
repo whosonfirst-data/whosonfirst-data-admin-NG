@@ -1,0 +1,68 @@
+{
+  "id": 1343492413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.33785,6.8998,7.33785,6.8998",
+    "geom:latitude":6.8998,
+    "geom:longitude":7.33785,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14013.0",
+    "gn:asciiname":"Ibegwa-Ani",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339316,
+    "gn:latitude":6.8998,
+    "gn:longitude":7.33785,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibegwa-Ani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339316
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f68b2063964f15ffdc713dd3fe82f2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564059,
+            "locality_id":1343492413,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1343492413,
+    "wof:lastmodified":1536700378,
+    "wof:name":"Ibegwa-Ani",
+    "wof:parent_id":1108564059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.33785,
+    6.8998,
+    7.33785,
+    6.8998
+],
+  "geometry": {"coordinates":[7.33785,6.8998],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226486549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47654,10.69789,13.47654,10.69789",
+    "geom:latitude":10.69789,
+    "geom:longitude":13.47654,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Hilemi",
+    "gn:country_code":"NG",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8722212,
+    "gn:latitude":10.69789,
+    "gn:longitude":13.47654,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hilemi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hilemi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8722212
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cfb1c245dcfea08b0170729a8985bdd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563969,
+            "locality_id":1226486549,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226486549,
+    "wof:lastmodified":1537675459,
+    "wof:name":"Hilemi",
+    "wof:parent_id":1108563969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47654,
+    10.69789,
+    13.47654,
+    10.69789
+],
+  "geometry": {"coordinates":[13.47654,10.69789],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243605233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.42438,11.34753,4.42438,11.34753",
+    "geom:latitude":11.34753,
+    "geom:longitude":4.42438,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"513.0",
+    "gn:admin3_code":"51312",
+    "gn:asciiname":"Bakoci",
+    "gn:country_code":"NG",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348117,
+    "gn:latitude":11.34753,
+    "gn:longitude":4.42438,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakoci",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakoshi",
+        "Bakoci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348117
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d419d0a6318f5f33cc57d4a9eaa92142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563829,
+            "locality_id":1243605233,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1243605233,
+    "wof:lastmodified":1537675341,
+    "wof:name":"Bakoci",
+    "wof:parent_id":1108563829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.42438,
+    11.34753,
+    4.42438,
+    11.34753
+],
+  "geometry": {"coordinates":[4.42438,11.34753],"type":"Point"}
+}

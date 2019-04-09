@@ -1,0 +1,73 @@
+{
+  "id": 1192956569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.41894,13.02516,4.41894,13.02516",
+    "geom:latitude":13.02516,
+    "geom:longitude":4.41894,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50210",
+    "gn:asciiname":"Rosa Mori",
+    "gn:country_code":"NG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7007378,
+    "gn:latitude":13.02516,
+    "gn:longitude":4.41894,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rosa Mori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Old Rosa Mori",
+        "Rosa Mori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007378
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2d66880cdbf80ac5f42895169a83ab2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563027,
+            "locality_id":1192956569,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1192956569,
+    "wof:lastmodified":1537675412,
+    "wof:name":"Rosa Mori",
+    "wof:parent_id":1108563027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.41894,
+    13.02516,
+    4.41894,
+    13.02516
+],
+  "geometry": {"coordinates":[4.41894,13.02516],"type":"Point"}
+}

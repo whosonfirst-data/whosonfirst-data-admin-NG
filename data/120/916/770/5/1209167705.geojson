@@ -1,0 +1,62 @@
+{
+  "id": 1209167705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46238,8.71672,12.46238,8.71672",
+    "geom:latitude":8.71672,
+    "geom:longitude":12.46238,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Tajiri Kila",
+    "gn:country_code":"NG",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322596,
+    "gn:latitude":8.71672,
+    "gn:longitude":12.46238,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tajiri Kila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322596
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc63b58c845f39b8224bc61f8eebb573",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209167705
+        }
+    ],
+    "wof:id":1209167705,
+    "wof:lastmodified":1536295687,
+    "wof:name":"Tajiri Kila",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46238,
+    8.71672,
+    12.46238,
+    8.71672
+],
+  "geometry": {"coordinates":[12.46238,8.71672],"type":"Point"}
+}

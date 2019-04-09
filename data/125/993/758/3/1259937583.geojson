@@ -1,0 +1,69 @@
+{
+  "id": 1259937583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.04257,12.84216,8.04257,12.84216",
+    "geom:latitude":12.84216,
+    "geom:longitude":8.04257,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"426.0",
+    "gn:admin3_code":"42602",
+    "gn:asciiname":"Randama",
+    "gn:country_code":"NG",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974984,
+    "gn:latitude":12.84216,
+    "gn:longitude":8.04257,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Randama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974984
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5258f1e2b7b370697a070c3a6176c4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563943,
+            "locality_id":1259937583,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1259937583,
+    "wof:lastmodified":1536701691,
+    "wof:name":"Randama",
+    "wof:parent_id":1108563943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.04257,
+    12.84216,
+    8.04257,
+    12.84216
+],
+  "geometry": {"coordinates":[8.04257,12.84216],"type":"Point"}
+}

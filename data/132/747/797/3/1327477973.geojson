@@ -1,0 +1,68 @@
+{
+  "id": 1327477973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41339,10.02577,12.41339,10.02577",
+    "geom:latitude":10.02577,
+    "geom:longitude":12.41339,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Banmanma",
+    "gn:country_code":"NG",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836878,
+    "gn:latitude":10.02577,
+    "gn:longitude":12.41339,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Banmanma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836878
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"edb8f8c4a388609d0d997398ce88f15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564375,
+            "locality_id":1327477973,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1327477973,
+    "wof:lastmodified":1536612475,
+    "wof:name":"Banmanma",
+    "wof:parent_id":1108564375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41339,
+    10.02577,
+    12.41339,
+    10.02577
+],
+  "geometry": {"coordinates":[12.41339,10.02577],"type":"Point"}
+}

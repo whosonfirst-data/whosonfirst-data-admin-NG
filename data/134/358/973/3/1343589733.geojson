@@ -1,0 +1,74 @@
+{
+  "id": 1343589733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.59865,4.87211,6.59865,4.87211",
+    "geom:latitude":4.87211,
+    "geom:longitude":6.59865,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33001.0",
+    "gn:asciiname":"Arukwa",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349308,
+    "gn:latitude":4.87211,
+    "gn:longitude":6.59865,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arukwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Water-Side",
+        "Arukwa Waterside",
+        "Arukwa",
+        "Water Side"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349308
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ae78f3ee828b17c69b0521f367c8cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562915,
+            "locality_id":1343589733,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343589733,
+    "wof:lastmodified":1537675355,
+    "wof:name":"Arukwa",
+    "wof:parent_id":1108562915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.59865,
+    4.87211,
+    6.59865,
+    4.87211
+],
+  "geometry": {"coordinates":[6.59865,4.87211],"type":"Point"}
+}

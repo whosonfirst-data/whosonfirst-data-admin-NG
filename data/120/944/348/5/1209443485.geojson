@@ -1,0 +1,66 @@
+{
+  "id": 1209443485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.68688,9.47456,8.68688,9.47456",
+    "geom:latitude":9.47456,
+    "geom:longitude":8.68688,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32015.0",
+    "gn:asciiname":"Afang",
+    "gn:country_code":"NG",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352273,
+    "gn:latitude":9.47456,
+    "gn:longitude":8.68688,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Afang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afam",
+        "Afang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352273
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6e414f84bf33514d39e818fba5c07d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443485
+        }
+    ],
+    "wof:id":1209443485,
+    "wof:lastmodified":1537675390,
+    "wof:name":"Afang",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.68688,
+    9.47456,
+    8.68688,
+    9.47456
+],
+  "geometry": {"coordinates":[8.68688,9.47456],"type":"Point"}
+}

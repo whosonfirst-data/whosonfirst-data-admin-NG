@@ -1,0 +1,65 @@
+{
+  "id": 1209342885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37017,9.50861,9.37017,9.50861",
+    "geom:latitude":9.50861,
+    "geom:longitude":9.37017,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32013.0",
+    "gn:asciiname":"Kwanka",
+    "gn:country_code":"NG",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332817,
+    "gn:latitude":9.50861,
+    "gn:longitude":9.37017,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Kwanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kwanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332817
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b2191c7b9125fd6c89f2bc5f9a7dd14a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342885
+        }
+    ],
+    "wof:id":1209342885,
+    "wof:lastmodified":1537675122,
+    "wof:name":"Kwanka",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37017,
+    9.50861,
+    9.37017,
+    9.50861
+],
+  "geometry": {"coordinates":[9.37017,9.50861],"type":"Point"}
+}

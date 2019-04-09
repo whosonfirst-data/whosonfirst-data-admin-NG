@@ -1,0 +1,72 @@
+{
+  "id": 1243396365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7716,9.45205,8.7716,9.45205",
+    "geom:latitude":9.45205,
+    "geom:longitude":8.7716,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32001.0",
+    "gn:asciiname":"Gashish",
+    "gn:country_code":"NG",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341658,
+    "gn:latitude":9.45205,
+    "gn:longitude":8.7716,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Gashish",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gashit",
+        "Gashish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341658
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a99f22ab12939d07016883d70b55bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563087,
+            "locality_id":1243396365,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1243396365,
+    "wof:lastmodified":1537675254,
+    "wof:name":"Gashish",
+    "wof:parent_id":1108563087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7716,
+    9.45205,
+    8.7716,
+    9.45205
+],
+  "geometry": {"coordinates":[8.7716,9.45205],"type":"Point"}
+}

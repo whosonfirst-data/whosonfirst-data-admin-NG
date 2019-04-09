@@ -1,0 +1,68 @@
+{
+  "id": 1242806295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5979,7.1378,5.5979,7.1378",
+    "geom:latitude":7.1378,
+    "geom:longitude":5.5979,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29018.0",
+    "gn:asciiname":"Ijegunmo",
+    "gn:country_code":"NG",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338394,
+    "gn:latitude":7.1378,
+    "gn:longitude":5.5979,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijegunmo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338394
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1328710d40f784fadf8778f45b35f560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564257,
+            "locality_id":1242806295,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1242806295,
+    "wof:lastmodified":1536734544,
+    "wof:name":"Ijegunmo",
+    "wof:parent_id":1108564257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5979,
+    7.1378,
+    5.5979,
+    7.1378
+],
+  "geometry": {"coordinates":[5.5979,7.1378],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890421451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.3167,6.7081,7.3167,6.7081",
+    "geom:latitude":6.7081,
+    "geom:longitude":7.3167,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":73742,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Aku"
+    ],
+    "name:eng_x_preferred":[
+        "Aku"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06a9\u0648\u060c \u0627\u06cc\u0646\u0648\u06af\u0648"
+    ],
+    "qs:name":"Aku",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350886,
+        "gp:id":1402294,
+        "qs:id":91326,
+        "wd:id":"Q4701898",
+        "wk:page":"Aku"
+    },
+    "wof:country":"NG",
+    "wof:created":1469051393,
+    "wof:geomhash":"32b2455f6231700c312846d36bd4e80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563555,
+            "locality_id":890421451,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":890421451,
+    "wof:lastmodified":1527782113,
+    "wof:name":"Aku",
+    "wof:parent_id":1108563555,
+    "wof:placetype":"locality",
+    "wof:population":73742,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.3167,
+    6.7081,
+    7.3167,
+    6.7081
+],
+  "geometry": {"coordinates":[7.3167,6.7081],"type":"Point"}
+}

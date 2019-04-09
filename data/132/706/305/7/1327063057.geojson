@@ -1,0 +1,68 @@
+{
+  "id": 1327063057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.52375,7.62652,10.52375,7.62652",
+    "geom:latitude":7.62652,
+    "geom:longitude":10.52375,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Kwasan Bariki",
+    "gn:country_code":"NG",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332757,
+    "gn:latitude":7.62652,
+    "gn:longitude":10.52375,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwasan Bariki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332757
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c874ff579b055fc3090e5432d23f8a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563083,
+            "locality_id":1327063057,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1327063057,
+    "wof:lastmodified":1536716618,
+    "wof:name":"Kwasan Bariki",
+    "wof:parent_id":1108563083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.52375,
+    7.62652,
+    10.52375,
+    7.62652
+],
+  "geometry": {"coordinates":[10.52375,7.62652],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343694677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.59165,6.39679,4.59165,6.39679",
+    "geom:latitude":6.39679,
+    "geom:longitude":4.59165,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Ilu-Alaso",
+    "gn:country_code":"NG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969528,
+    "gn:latitude":6.39679,
+    "gn:longitude":4.59165,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ilu-Alaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969528
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"507ea0538536ff6bdab5f52a7a115f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1343694677,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1343694677,
+    "wof:lastmodified":1536906004,
+    "wof:name":"Ilu-Alaso",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.59165,
+    6.39679,
+    4.59165,
+    6.39679
+],
+  "geometry": {"coordinates":[4.59165,6.39679],"type":"Point"}
+}

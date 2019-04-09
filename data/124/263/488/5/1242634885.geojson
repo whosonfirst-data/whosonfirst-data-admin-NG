@@ -1,0 +1,73 @@
+{
+  "id": 1242634885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.38258,12.89552,8.38258,12.89552",
+    "geom:latitude":12.89552,
+    "geom:longitude":8.38258,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"433.0",
+    "gn:admin3_code":"43303",
+    "gn:asciiname":"Fago",
+    "gn:country_code":"NG",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342658,
+    "gn:latitude":12.89552,
+    "gn:longitude":8.38258,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fego",
+        "Fago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108564321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342658
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d124fd62c3bbbfb0d9433afa8542033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564321,
+            "locality_id":1242634885,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1242634885,
+    "wof:lastmodified":1537675265,
+    "wof:name":"Fago",
+    "wof:parent_id":1108564321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.38258,
+    12.89552,
+    8.38258,
+    12.89552
+],
+  "geometry": {"coordinates":[8.38258,12.89552],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293437515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.23636,7.34074,9.23636,7.34074",
+    "geom:latitude":7.34074,
+    "geom:longitude":9.23636,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Anyorba",
+    "gn:country_code":"NG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634268,
+    "gn:latitude":7.34074,
+    "gn:longitude":9.23636,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anyorba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634268
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7691e9d7cf93aecc1501331bd131d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1293437515,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293437515,
+    "wof:lastmodified":1536857864,
+    "wof:name":"Anyorba",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.23636,
+    7.34074,
+    9.23636,
+    7.34074
+],
+  "geometry": {"coordinates":[9.23636,7.34074],"type":"Point"}
+}

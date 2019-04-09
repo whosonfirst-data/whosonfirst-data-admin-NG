@@ -1,0 +1,73 @@
+{
+  "id": 1343517487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3163,10.11521,8.3163,10.11521",
+    "geom:latitude":10.11521,
+    "geom:longitude":8.3163,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19014.0",
+    "gn:admin3_code":"KD1402",
+    "gn:asciiname":"Ktisna",
+    "gn:country_code":"NG",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333770,
+    "gn:latitude":10.11521,
+    "gn:longitude":8.3163,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ktisna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ktisha",
+        "Ktisna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333770
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"26687aa9d83716bd24cdbedc95c16cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563757,
+            "locality_id":1343517487,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1343517487,
+    "wof:lastmodified":1537675133,
+    "wof:name":"Ktisna",
+    "wof:parent_id":1108563757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3163,
+    10.11521,
+    8.3163,
+    10.11521
+],
+  "geometry": {"coordinates":[8.3163,10.11521],"type":"Point"}
+}

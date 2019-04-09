@@ -1,0 +1,73 @@
+{
+  "id": 1327363293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75,8.98333,5.75,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":5.75,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007.0",
+    "gn:asciiname":"Lamfa",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332336,
+    "gn:latitude":8.98333,
+    "gn:longitude":5.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lamfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemfa",
+        "Lamfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332336
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8dd1fc94d62790bd49ece481b737208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1327363293,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1327363293,
+    "wof:lastmodified":1537675118,
+    "wof:name":"Lamfa",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75,
+    8.98333,
+    5.75,
+    8.98333
+],
+  "geometry": {"coordinates":[5.75,8.98333],"type":"Point"}
+}

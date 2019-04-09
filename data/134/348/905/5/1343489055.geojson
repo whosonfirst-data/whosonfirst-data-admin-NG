@@ -1,0 +1,73 @@
+{
+  "id": 1343489055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.92417,7.08366,10.92417,7.08366",
+    "geom:latitude":7.08366,
+    "geom:longitude":10.92417,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Ndombo Kasa",
+    "gn:country_code":"NG",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329204,
+    "gn:latitude":7.08366,
+    "gn:longitude":10.92417,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndombo Kasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dombo",
+        "Ndombo",
+        "Ndombo Kasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329204
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a3742d91332d3a6a547b6599fce1c253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1343489055,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343489055,
+    "wof:lastmodified":1537675078,
+    "wof:name":"Ndombo Kasa",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.92417,
+    7.08366,
+    10.92417,
+    7.08366
+],
+  "geometry": {"coordinates":[10.92417,7.08366],"type":"Point"}
+}

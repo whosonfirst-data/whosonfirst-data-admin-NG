@@ -1,0 +1,72 @@
+{
+  "id": 1293752423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53356,6.03873,8.53356,6.03873",
+    "geom:latitude":6.03873,
+    "geom:longitude":8.53356,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Okosora",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327010,
+    "gn:latitude":6.03873,
+    "gn:longitude":8.53356,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okosora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekosaro",
+        "Okosora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327010
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f052c0db82d1d915eff19c3353e3ade6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":1293752423,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293752423,
+    "wof:lastmodified":1537675038,
+    "wof:name":"Okosora",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53356,
+    6.03873,
+    8.53356,
+    6.03873
+],
+  "geometry": {"coordinates":[8.53356,6.03873],"type":"Point"}
+}

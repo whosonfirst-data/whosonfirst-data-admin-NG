@@ -1,0 +1,68 @@
+{
+  "id": 1327163813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.57358,8.97542,9.57358,8.97542",
+    "geom:latitude":8.97542,
+    "geom:longitude":9.57358,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32012",
+    "gn:asciiname":"Zuakan",
+    "gn:country_code":"NG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922008,
+    "gn:latitude":8.97542,
+    "gn:longitude":9.57358,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zuakan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922008
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0a7c0aa07af6f64e1e7e2be8431aa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563973,
+            "locality_id":1327163813,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1327163813,
+    "wof:lastmodified":1537065850,
+    "wof:name":"Zuakan",
+    "wof:parent_id":1108563973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.57358,
+    8.97542,
+    9.57358,
+    8.97542
+],
+  "geometry": {"coordinates":[9.57358,8.97542],"type":"Point"}
+}

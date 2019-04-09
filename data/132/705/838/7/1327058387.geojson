@@ -1,0 +1,67 @@
+{
+  "id": 1327058387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.04719,11.7676,7.04719,11.7676",
+    "geom:latitude":11.7676,
+    "geom:longitude":7.04719,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ruachiwa",
+    "gn:country_code":"NG",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019090,
+    "gn:latitude":11.7676,
+    "gn:longitude":7.04719,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ruachiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019090
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"813cacc3b34481bea11a4c3c61634f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563367,
+            "locality_id":1327058387,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1327058387,
+    "wof:lastmodified":1536723412,
+    "wof:name":"Ruachiwa",
+    "wof:parent_id":1108563367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.04719,
+    11.7676,
+    7.04719,
+    11.7676
+],
+  "geometry": {"coordinates":[7.04719,11.7676],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259826971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47496,13.01618,13.47496,13.01618",
+    "geom:latitude":13.01618,
+    "geom:longitude":13.47496,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"110",
+    "gn:admin3_code":"11008",
+    "gn:asciiname":"Abba-Burari",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8708629,
+    "gn:latitude":13.01618,
+    "gn:longitude":13.47496,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abba-Burari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8708629
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bba0b3eb2c41431573a6740cc15c840f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563853,
+            "locality_id":1259826971,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259826971,
+    "wof:lastmodified":1536859309,
+    "wof:name":"Abba-Burari",
+    "wof:parent_id":1108563853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47496,
+    13.01618,
+    13.47496,
+    13.01618
+],
+  "geometry": {"coordinates":[13.47496,13.01618],"type":"Point"}
+}

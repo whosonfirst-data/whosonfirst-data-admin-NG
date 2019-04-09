@@ -1,0 +1,68 @@
+{
+  "id": 1209748575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.76157,4.86225,6.76157,4.86225",
+    "geom:latitude":4.86225,
+    "geom:longitude":6.76157,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33010.0",
+    "gn:asciiname":"Rumuafo",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591118,
+    "gn:latitude":4.86225,
+    "gn:longitude":6.76157,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rumuafo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591118
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bf422d82df526e63721f81482d61b5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563303,
+            "locality_id":1209748575,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1209748575,
+    "wof:lastmodified":1536393845,
+    "wof:name":"Rumuafo",
+    "wof:parent_id":1108563303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76157,
+    4.86225,
+    6.76157,
+    4.86225
+],
+  "geometry": {"coordinates":[6.76157,4.86225],"type":"Point"}
+}

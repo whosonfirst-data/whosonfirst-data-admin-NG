@@ -1,0 +1,72 @@
+{
+  "id": 1259716589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31974,9.14657,6.31974,9.14657",
+    "geom:latitude":9.14657,
+    "geom:longitude":6.31974,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27001.0",
+    "gn:asciiname":"Maiyari",
+    "gn:country_code":"NG",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331269,
+    "gn:latitude":9.14657,
+    "gn:longitude":6.31974,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Maiyari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maiyaki",
+        "Maiyari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331269
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1361034b9f032e776e580f88e15313e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562933,
+            "locality_id":1259716589,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1259716589,
+    "wof:lastmodified":1537675105,
+    "wof:name":"Maiyari",
+    "wof:parent_id":1108562933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31974,
+    9.14657,
+    6.31974,
+    9.14657
+],
+  "geometry": {"coordinates":[6.31974,9.14657],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293250781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.72301,5.85926,8.72301,5.85926",
+    "geom:latitude":5.85926,
+    "geom:longitude":8.72301,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9010.0",
+    "gn:asciiname":"Effraya",
+    "gn:country_code":"NG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2343986,
+    "gn:latitude":5.85926,
+    "gn:longitude":8.72301,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Effraya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Efferaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343986
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0b28f3b2f5504893d6c2b96b3dbe6f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563349,
+            "locality_id":1293250781,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293250781,
+    "wof:lastmodified":1537675288,
+    "wof:name":"Effraya",
+    "wof:parent_id":1108563349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.72301,
+    5.85926,
+    8.72301,
+    5.85926
+],
+  "geometry": {"coordinates":[8.72301,5.85926],"type":"Point"}
+}

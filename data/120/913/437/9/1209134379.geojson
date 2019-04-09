@@ -1,0 +1,61 @@
+{
+  "id": 1209134379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55558,10.34469,11.55558,10.34469",
+    "geom:latitude":10.34469,
+    "geom:longitude":11.55558,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Maisaje",
+    "gn:country_code":"NG",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331324,
+    "gn:latitude":10.34469,
+    "gn:longitude":11.55558,
+    "gn:modification_date":"2009-05-14",
+    "gn:name":"Maisaje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331324
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7faa76fb783c57c17f978590a4a682ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134379
+        }
+    ],
+    "wof:id":1209134379,
+    "wof:lastmodified":1536296709,
+    "wof:name":"Maisaje",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55558,
+    10.34469,
+    11.55558,
+    10.34469
+],
+  "geometry": {"coordinates":[11.55558,10.34469],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360139007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47094,7.15821,9.47094,7.15821",
+    "geom:latitude":7.15821,
+    "geom:longitude":9.47094,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Orahii",
+    "gn:country_code":"NG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639906,
+    "gn:latitude":7.15821,
+    "gn:longitude":9.47094,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orahii",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639906
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0afe507e1ba8744e2cf8f681b29b50f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1360139007,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1360139007,
+    "wof:lastmodified":1536866736,
+    "wof:name":"Orahii",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47094,
+    7.15821,
+    9.47094,
+    7.15821
+],
+  "geometry": {"coordinates":[9.47094,7.15821],"type":"Point"}
+}

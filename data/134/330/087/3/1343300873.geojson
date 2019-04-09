@@ -1,0 +1,74 @@
+{
+  "id": 1343300873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.42101,6.32161,6.42101,6.32161",
+    "geom:latitude":6.32161,
+    "geom:longitude":6.42101,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10001.0",
+    "gn:asciiname":"Onicha-Ugbo",
+    "gn:country_code":"NG",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326015,
+    "gn:latitude":6.32161,
+    "gn:longitude":6.42101,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onicha-Ugbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Onicha-Ugbo"
+    ],
+    "name:eng_x_variant":[
+        "Onitsha-Ugbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326015
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"51d538a1a318c55665f2aeb2ab208cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563011,
+            "locality_id":1343300873,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1343300873,
+    "wof:lastmodified":1537675025,
+    "wof:name":"Onicha-Ugbo",
+    "wof:parent_id":1108563011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.42101,
+    6.32161,
+    6.42101,
+    6.32161
+],
+  "geometry": {"coordinates":[6.42101,6.32161],"type":"Point"}
+}

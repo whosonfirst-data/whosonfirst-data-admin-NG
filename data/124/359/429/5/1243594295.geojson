@@ -1,0 +1,64 @@
+{
+  "id": 1243594295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54512,10.60684,13.54512,10.60684",
+    "geom:latitude":10.60684,
+    "geom:longitude":13.54512,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013.0",
+    "gn:asciiname":"Vedile",
+    "gn:country_code":"NG",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760284,
+    "gn:latitude":10.60684,
+    "gn:longitude":13.54512,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Vedile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760284
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a032174b797d70fdfea5abb1066b61e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1243594295,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243594295,
+    "wof:lastmodified":1537086117,
+    "wof:name":"Vedile",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54512,
+    10.60684,
+    13.54512,
+    10.60684
+],
+  "geometry": {"coordinates":[13.54512,10.60684],"type":"Point"}
+}

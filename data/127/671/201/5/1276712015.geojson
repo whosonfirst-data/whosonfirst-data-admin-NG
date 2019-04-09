@@ -1,0 +1,73 @@
+{
+  "id": 1276712015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92474,10.41913,11.92474,10.41913",
+    "geom:latitude":10.41913,
+    "geom:longitude":11.92474,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"118.0",
+    "gn:admin3_code":"11804",
+    "gn:asciiname":"Kubuku Garu",
+    "gn:country_code":"NG",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333549,
+    "gn:latitude":10.41913,
+    "gn:longitude":11.92474,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kubuku Garu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kukuku Garu",
+        "Kubuku Garu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333549
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a46f3d037562b1b6ac4a5d78483a253c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563877,
+            "locality_id":1276712015,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1276712015,
+    "wof:lastmodified":1537675131,
+    "wof:name":"Kubuku Garu",
+    "wof:parent_id":1108563877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92474,
+    10.41913,
+    11.92474,
+    10.41913
+],
+  "geometry": {"coordinates":[11.92474,10.41913],"type":"Point"}
+}

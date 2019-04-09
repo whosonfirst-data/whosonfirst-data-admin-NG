@@ -1,0 +1,70 @@
+{
+  "id": 1293520533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.85957,4.40444,6.85957,4.40444",
+    "geom:latitude":4.40444,
+    "geom:longitude":6.85957,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Okpojo",
+    "gn:country_code":"NG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826093,
+    "gn:latitude":4.40444,
+    "gn:longitude":6.85957,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Okpojo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opokolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826093
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba6acd9f9b446f51a286f35ad030e5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563227,
+            "locality_id":1293520533,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293520533,
+    "wof:lastmodified":1537675405,
+    "wof:name":"Okpojo",
+    "wof:parent_id":1108563227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.85957,
+    4.40444,
+    6.85957,
+    4.40444
+],
+  "geometry": {"coordinates":[6.85957,4.40444],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259713211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.82986,11.85639,6.82986,11.85639",
+    "geom:latitude":11.85639,
+    "geom:longitude":6.82986,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81305",
+    "gn:asciiname":"Tobani",
+    "gn:country_code":"NG",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7034158,
+    "gn:latitude":11.85639,
+    "gn:longitude":6.82986,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tobani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabani",
+        "Tobani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108564421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7034158
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0decf32a45f51c3aae7646ec10f45a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564421,
+            "locality_id":1259713211,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1259713211,
+    "wof:lastmodified":1537675431,
+    "wof:name":"Tobani",
+    "wof:parent_id":1108564421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.82986,
+    11.85639,
+    6.82986,
+    11.85639
+],
+  "geometry": {"coordinates":[6.82986,11.85639],"type":"Point"}
+}

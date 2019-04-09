@@ -1,0 +1,70 @@
+{
+  "id": 1226703547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.73841,9.09055,11.73841,9.09055",
+    "geom:latitude":9.09055,
+    "geom:longitude":11.73841,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sandan",
+    "gn:country_code":"NG",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209463,
+    "gn:latitude":9.09055,
+    "gn:longitude":11.73841,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Sandan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sandan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209463
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9d1c5fdc026516485d91684f0f6fbdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1226703547,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226703547,
+    "wof:lastmodified":1537675501,
+    "wof:name":"Sandan",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73841,
+    9.09055,
+    11.73841,
+    9.09055
+],
+  "geometry": {"coordinates":[11.73841,9.09055],"type":"Point"}
+}

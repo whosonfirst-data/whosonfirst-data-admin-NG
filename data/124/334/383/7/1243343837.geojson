@@ -1,0 +1,68 @@
+{
+  "id": 1243343837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.38865,9.05677,7.38865,9.05677",
+    "geom:latitude":9.05677,
+    "geom:longitude":7.38865,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Gidan Nbora",
+    "gn:country_code":"NG",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340820,
+    "gn:latitude":9.05677,
+    "gn:longitude":7.38865,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Nbora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        421178395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340820
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a8137b04a9d6319831d9932661d10fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":1243343837,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1243343837,
+    "wof:lastmodified":1536953658,
+    "wof:name":"Gidan Nbora",
+    "wof:parent_id":421178395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.38865,
+    9.05677,
+    7.38865,
+    9.05677
+],
+  "geometry": {"coordinates":[7.38865,9.05677],"type":"Point"}
+}

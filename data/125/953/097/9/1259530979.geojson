@@ -1,0 +1,73 @@
+{
+  "id": 1259530979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09124,11.98611,14.09124,11.98611",
+    "geom:latitude":11.98611,
+    "geom:longitude":14.09124,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"108.0",
+    "gn:admin3_code":"10806",
+    "gn:asciiname":"Malum Maja",
+    "gn:country_code":"NG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331002,
+    "gn:latitude":11.98611,
+    "gn:longitude":14.09124,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Malum Maja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallam Maja",
+        "Malum Maja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331002
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"168776518b6d5a8be47c4051356b4469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563233,
+            "locality_id":1259530979,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259530979,
+    "wof:lastmodified":1537675102,
+    "wof:name":"Malum Maja",
+    "wof:parent_id":1108563233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09124,
+    11.98611,
+    14.09124,
+    11.98611
+],
+  "geometry": {"coordinates":[14.09124,11.98611],"type":"Point"}
+}

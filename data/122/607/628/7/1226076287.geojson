@@ -1,0 +1,68 @@
+{
+  "id": 1226076287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.43065,7.87876,9.43065,7.87876",
+    "geom:latitude":7.87876,
+    "geom:longitude":9.43065,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Tsongun",
+    "gn:country_code":"NG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525361,
+    "gn:latitude":7.87876,
+    "gn:longitude":9.43065,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsongun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525361
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba17298df6cced8f9902caa0118636bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1226076287,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226076287,
+    "wof:lastmodified":1536681229,
+    "wof:name":"Tsongun",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.43065,
+    7.87876,
+    9.43065,
+    7.87876
+],
+  "geometry": {"coordinates":[9.43065,7.87876],"type":"Point"}
+}

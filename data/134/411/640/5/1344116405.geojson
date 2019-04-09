@@ -1,0 +1,68 @@
+{
+  "id": 1344116405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.86194,7.44306,3.86194,7.44306",
+    "geom:latitude":7.44306,
+    "geom:longitude":3.86194,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Awotan",
+    "gn:country_code":"NG",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348740,
+    "gn:latitude":7.44306,
+    "gn:longitude":3.86194,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awotan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348740
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dcfb895f08a734c9c64aeffe7e32dd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1344116405,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1344116405,
+    "wof:lastmodified":1536795284,
+    "wof:name":"Awotan",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.86194,
+    7.44306,
+    3.86194,
+    7.44306
+],
+  "geometry": {"coordinates":[3.86194,7.44306],"type":"Point"}
+}

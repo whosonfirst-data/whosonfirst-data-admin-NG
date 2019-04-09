@@ -1,0 +1,67 @@
+{
+  "id": 1344190265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.20373,4.59431,7.20373,4.59431",
+    "geom:latitude":4.59431,
+    "geom:longitude":7.20373,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Gbolobiri",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2597346,
+    "gn:latitude":4.59431,
+    "gn:longitude":7.20373,
+    "gn:modification_date":"2009-07-20",
+    "gn:name":"Gbolobiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2597346
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4f615fd64d2413afd514203b87e9fe0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563151,
+            "locality_id":1344190265,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1344190265,
+    "wof:lastmodified":1536688493,
+    "wof:name":"Gbolobiri",
+    "wof:parent_id":1108563151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.20373,
+    4.59431,
+    7.20373,
+    4.59431
+],
+  "geometry": {"coordinates":[7.20373,4.59431],"type":"Point"}
+}

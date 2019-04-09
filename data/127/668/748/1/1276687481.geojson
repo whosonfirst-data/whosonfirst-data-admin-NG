@@ -1,0 +1,72 @@
+{
+  "id": 1276687481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.60565,5.70668,7.60565,5.70668",
+    "geom:latitude":5.70668,
+    "geom:longitude":7.60565,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Amakalu",
+    "gn:country_code":"NG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350213,
+    "gn:latitude":5.70668,
+    "gn:longitude":7.60565,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amakalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amankalu",
+        "Amakalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        421183311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350213
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"644c8cd8fc19933d6ff5419a832035b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183311,
+            "locality_id":1276687481,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1276687481,
+    "wof:lastmodified":1537675366,
+    "wof:name":"Amakalu",
+    "wof:parent_id":421183311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.60565,
+    5.70668,
+    7.60565,
+    5.70668
+],
+  "geometry": {"coordinates":[7.60565,5.70668],"type":"Point"}
+}

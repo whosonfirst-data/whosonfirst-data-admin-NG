@@ -1,0 +1,62 @@
+{
+  "id": 1209548695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58682,9.31734,6.58682,9.31734",
+    "geom:latitude":9.31734,
+    "geom:longitude":6.58682,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Jedna",
+    "gn:country_code":"NG",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336241,
+    "gn:latitude":9.31734,
+    "gn:longitude":6.58682,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jedna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336241
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0112c557ec05e740a83fc6330fa63695",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209548695
+        }
+    ],
+    "wof:id":1209548695,
+    "wof:lastmodified":1536283763,
+    "wof:name":"Jedna",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58682,
+    9.31734,
+    6.58682,
+    9.31734
+],
+  "geometry": {"coordinates":[6.58682,9.31734],"type":"Point"}
+}

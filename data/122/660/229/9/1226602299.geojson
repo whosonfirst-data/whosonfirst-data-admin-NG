@@ -1,0 +1,73 @@
+{
+  "id": 1226602299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.3594,11.53379,7.3594,11.53379",
+    "geom:latitude":11.53379,
+    "geom:longitude":7.3594,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40110",
+    "gn:asciiname":"Kurani",
+    "gn:country_code":"NG",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333277,
+    "gn:latitude":11.53379,
+    "gn:longitude":7.3594,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kurani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kworami",
+        "Kurani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333277
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"766b3fb602634800260482c6ab08b75c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563077,
+            "locality_id":1226602299,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1226602299,
+    "wof:lastmodified":1537675128,
+    "wof:name":"Kurani",
+    "wof:parent_id":1108563077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.3594,
+    11.53379,
+    7.3594,
+    11.53379
+],
+  "geometry": {"coordinates":[7.3594,11.53379],"type":"Point"}
+}

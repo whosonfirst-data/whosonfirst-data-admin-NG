@@ -1,0 +1,68 @@
+{
+  "id": 1309965465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.44638,8.55625,3.44638,8.55625",
+    "geom:latitude":8.55625,
+    "geom:longitude":3.44638,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31004.0",
+    "gn:asciiname":"Tede",
+    "gn:country_code":"NG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2322269,
+    "gn:latitude":8.55625,
+    "gn:longitude":3.44638,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322269
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"719f8eefb5e0bd0d6dd4148a8df1ccba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563047,
+            "locality_id":1309965465,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1309965465,
+    "wof:lastmodified":1536701416,
+    "wof:name":"Tede",
+    "wof:parent_id":1108563047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.44638,
+    8.55625,
+    3.44638,
+    8.55625
+],
+  "geometry": {"coordinates":[3.44638,8.55625],"type":"Point"}
+}

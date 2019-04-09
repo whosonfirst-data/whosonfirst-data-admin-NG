@@ -1,0 +1,68 @@
+{
+  "id": 1259341327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49795,6.22572,8.49795,6.22572",
+    "geom:latitude":6.22572,
+    "geom:longitude":8.49795,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Olakidung",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914623,
+    "gn:latitude":6.22572,
+    "gn:longitude":8.49795,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olakidung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914623
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f179159da1eaa8869311d83839d86b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":1259341327,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1259341327,
+    "wof:lastmodified":1537060393,
+    "wof:name":"Olakidung",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49795,
+    6.22572,
+    8.49795,
+    6.22572
+],
+  "geometry": {"coordinates":[8.49795,6.22572],"type":"Point"}
+}

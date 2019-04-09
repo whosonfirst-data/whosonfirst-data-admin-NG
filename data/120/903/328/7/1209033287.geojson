@@ -1,0 +1,66 @@
+{
+  "id": 1209033287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2475,11.36945,11.2475,11.36945",
+    "geom:latitude":11.36945,
+    "geom:longitude":11.2475,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70403",
+    "gn:asciiname":"Kukawa",
+    "gn:country_code":"NG",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333565,
+    "gn:latitude":11.36945,
+    "gn:longitude":11.2475,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kukawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kukuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333565
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d8fff1a4cb1327783e050460d5fd6b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209033287
+        }
+    ],
+    "wof:id":1209033287,
+    "wof:lastmodified":1537675131,
+    "wof:name":"Kukawa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2475,
+    11.36945,
+    11.2475,
+    11.36945
+],
+  "geometry": {"coordinates":[11.2475,11.36945],"type":"Point"}
+}

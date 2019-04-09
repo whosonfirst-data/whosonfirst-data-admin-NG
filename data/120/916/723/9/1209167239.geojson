@@ -1,0 +1,67 @@
+{
+  "id": 1209167239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.604,5.15391,5.604,5.15391",
+    "geom:latitude":5.15391,
+    "geom:longitude":5.604,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10004.0",
+    "gn:asciiname":"Kalafiogbene",
+    "gn:country_code":"NG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335437,
+    "gn:latitude":5.15391,
+    "gn:longitude":5.604,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kalafiogbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adekagbene",
+        "Kalafigbene",
+        "Kalafiogbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335437
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5a77c25368993d8e5783580e1e64019",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209167239
+        }
+    ],
+    "wof:id":1209167239,
+    "wof:lastmodified":1537675156,
+    "wof:name":"Kalafiogbene",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.604,
+    5.15391,
+    5.604,
+    5.15391
+],
+  "geometry": {"coordinates":[5.604,5.15391],"type":"Point"}
+}

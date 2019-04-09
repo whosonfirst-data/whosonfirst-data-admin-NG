@@ -1,0 +1,68 @@
+{
+  "id": 1343914261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4651,5.1067,8.4651,5.1067",
+    "geom:latitude":5.1067,
+    "geom:longitude":8.4651,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9002.0",
+    "gn:asciiname":"Asuk Arim",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854691,
+    "gn:latitude":5.1067,
+    "gn:longitude":8.4651,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Asuk Arim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854691
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"21d65f62a6489aeeda19089e1832c7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562961,
+            "locality_id":1343914261,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343914261,
+    "wof:lastmodified":1537083625,
+    "wof:name":"Asuk Arim",
+    "wof:parent_id":1108562961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4651,
+    5.1067,
+    8.4651,
+    5.1067
+],
+  "geometry": {"coordinates":[8.4651,5.1067],"type":"Point"}
+}

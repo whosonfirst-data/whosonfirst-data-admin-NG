@@ -1,0 +1,68 @@
+{
+  "id": 1242902123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37381,8.99428,11.37381,8.99428",
+    "geom:latitude":8.99428,
+    "geom:longitude":11.37381,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015.0",
+    "gn:asciiname":"Kporva",
+    "gn:country_code":"NG",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333789,
+    "gn:latitude":8.99428,
+    "gn:longitude":11.37381,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kporva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333789
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"81d6e804104c88fb48d8a1198a7e679c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1242902123,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1242902123,
+    "wof:lastmodified":1537090154,
+    "wof:name":"Kporva",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37381,
+    8.99428,
+    11.37381,
+    8.99428
+],
+  "geometry": {"coordinates":[11.37381,8.99428],"type":"Point"}
+}

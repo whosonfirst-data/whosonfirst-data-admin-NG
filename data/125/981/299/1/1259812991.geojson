@@ -1,0 +1,68 @@
+{
+  "id": 1259812991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.13333,10.01667,9.13333,10.01667",
+    "geom:latitude":10.01667,
+    "geom:longitude":9.13333,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32004.0",
+    "gn:asciiname":"Jarawan Kogi",
+    "gn:country_code":"NG",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336422,
+    "gn:latitude":10.01667,
+    "gn:longitude":9.13333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jarawan Kogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336422
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"13a28c582440f145b1e965ae8349a735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563729,
+            "locality_id":1259812991,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259812991,
+    "wof:lastmodified":1536880156,
+    "wof:name":"Jarawan Kogi",
+    "wof:parent_id":1108563729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.13333,
+    10.01667,
+    9.13333,
+    10.01667
+],
+  "geometry": {"coordinates":[9.13333,10.01667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226198411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.83097,10.93415,7.83097,10.93415",
+    "geom:latitude":10.93415,
+    "geom:longitude":7.83097,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19021.0",
+    "gn:admin3_code":"KD2107",
+    "gn:asciiname":"Matari",
+    "gn:country_code":"NG",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330606,
+    "gn:latitude":10.93415,
+    "gn:longitude":7.83097,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Matari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330606
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"34e7e08bf8505a5050222bf5a5c03844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564367,
+            "locality_id":1226198411,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1226198411,
+    "wof:lastmodified":1537001212,
+    "wof:name":"Matari",
+    "wof:parent_id":1108564367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.83097,
+    10.93415,
+    7.83097,
+    10.93415
+],
+  "geometry": {"coordinates":[7.83097,10.93415],"type":"Point"}
+}

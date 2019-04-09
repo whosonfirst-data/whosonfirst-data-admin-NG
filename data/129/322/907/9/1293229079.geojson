@@ -1,0 +1,68 @@
+{
+  "id": 1293229079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.2837,7.1761,5.2837,7.1761",
+    "geom:latitude":7.1761,
+    "geom:longitude":5.2837,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29006.0",
+    "gn:asciiname":"Adejubu",
+    "gn:country_code":"NG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832891,
+    "gn:latitude":7.1761,
+    "gn:longitude":5.2837,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adejubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832891
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4d85636a28c475ff2e6386163881ceba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562987,
+            "locality_id":1293229079,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1293229079,
+    "wof:lastmodified":1536662742,
+    "wof:name":"Adejubu",
+    "wof:parent_id":1108562987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2837,
+    7.1761,
+    5.2837,
+    7.1761
+],
+  "geometry": {"coordinates":[5.2837,7.1761],"type":"Point"}
+}

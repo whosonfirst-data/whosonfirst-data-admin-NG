@@ -1,0 +1,72 @@
+{
+  "id": 1344225495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5479,9.47909,8.5479,9.47909",
+    "geom:latitude":9.47909,
+    "geom:longitude":8.5479,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19020.0",
+    "gn:admin3_code":"KD2006",
+    "gn:asciiname":"Goro",
+    "gn:country_code":"NG",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333186,
+    "gn:latitude":9.47909,
+    "gn:longitude":8.5479,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Goro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurmin Goro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333186
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"367397e96c8dee0df17ee4aee07579e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563721,
+            "locality_id":1344225495,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1344225495,
+    "wof:lastmodified":1537675127,
+    "wof:name":"Goro",
+    "wof:parent_id":1108563721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5479,
+    9.47909,
+    8.5479,
+    9.47909
+],
+  "geometry": {"coordinates":[8.5479,9.47909],"type":"Point"}
+}

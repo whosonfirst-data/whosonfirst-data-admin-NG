@@ -1,0 +1,78 @@
+{
+  "id": 1125988005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61667,7.91667,9.61667,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":9.61667,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6875,
+    "gn:population":6875,
+    "iso:country":"NG",
+    "lbl:latitude":7.91667,
+    "lbl:longitude":9.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2324439,
+    "qs_pg:gn_pop":6875,
+    "qs_pg:name":"Riti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":278487,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324439,
+        "qs_pg:id":278487
+    },
+    "wof:country":"NG",
+    "wof:created":1497298905,
+    "wof:geomhash":"520077ca95c37c9fd941a5b96da119f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1125988005,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1125988005,
+    "wof:lastmodified":1509405199,
+    "wof:name":"Riti",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:population":6875,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61667,
+    7.91667,
+    9.61667,
+    7.91667
+],
+  "geometry": {"coordinates":[9.61667,7.91667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259908293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.49951,10.42041,11.49951,10.42041",
+    "geom:latitude":10.42041,
+    "geom:longitude":11.49951,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16011.0",
+    "gn:asciiname":"Gwani",
+    "gn:country_code":"NG",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339802,
+    "gn:latitude":10.42041,
+    "gn:longitude":11.49951,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gwani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339802
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ab27a1f5a1175d4b141752be52ec68f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564531,
+            "locality_id":1259908293,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1259908293,
+    "wof:lastmodified":1536743266,
+    "wof:name":"Gwani",
+    "wof:parent_id":1108564531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.49951,
+    10.42041,
+    11.49951,
+    10.42041
+],
+  "geometry": {"coordinates":[11.49951,10.42041],"type":"Point"}
+}

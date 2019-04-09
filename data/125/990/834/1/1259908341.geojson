@@ -1,0 +1,68 @@
+{
+  "id": 1259908341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.54263,8.74983,9.54263,8.74983",
+    "geom:latitude":8.74983,
+    "geom:longitude":9.54263,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Lamba-Kalong",
+    "gn:country_code":"NG",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922003,
+    "gn:latitude":8.74983,
+    "gn:longitude":9.54263,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lamba-Kalong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922003
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5458c6efd70d8abf055fb04001f56b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1259908341,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259908341,
+    "wof:lastmodified":1536743205,
+    "wof:name":"Lamba-Kalong",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.54263,
+    8.74983,
+    9.54263,
+    8.74983
+],
+  "geometry": {"coordinates":[9.54263,8.74983],"type":"Point"}
+}

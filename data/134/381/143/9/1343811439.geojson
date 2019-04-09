@@ -1,0 +1,71 @@
+{
+  "id": 1343811439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28802,10.23889,13.28802,10.23889",
+    "geom:latitude":10.23889,
+    "geom:longitude":13.28802,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Kakieba",
+    "gn:country_code":"NG",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742786,
+    "gn:latitude":10.23889,
+    "gn:longitude":13.28802,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kakieba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kakieba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742786
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"baab36573b2aa8c4bd0c3c7f6c259e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1343811439,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343811439,
+    "wof:lastmodified":1537675462,
+    "wof:name":"Kakieba",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28802,
+    10.23889,
+    13.28802,
+    10.23889
+],
+  "geometry": {"coordinates":[13.28802,10.23889],"type":"Point"}
+}

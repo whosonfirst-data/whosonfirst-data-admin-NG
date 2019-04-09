@@ -1,0 +1,68 @@
+{
+  "id": 1226090633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4,8.33333,3.4,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":3.4,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31004.0",
+    "gn:asciiname":"Yakubu",
+    "gn:country_code":"NG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318455,
+    "gn:latitude":8.33333,
+    "gn:longitude":3.4,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yakubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318455
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7c0526805810874915f31f6bcd20d9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563047,
+            "locality_id":1226090633,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1226090633,
+    "wof:lastmodified":1536660522,
+    "wof:name":"Yakubu",
+    "wof:parent_id":1108563047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4,
+    8.33333,
+    3.4,
+    8.33333
+],
+  "geometry": {"coordinates":[3.4,8.33333],"type":"Point"}
+}

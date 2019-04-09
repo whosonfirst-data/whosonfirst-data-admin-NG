@@ -1,0 +1,68 @@
+{
+  "id": 1310458979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97869,6.21808,6.97869,6.21808",
+    "geom:latitude":6.21808,
+    "geom:longitude":6.97869,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4013",
+    "gn:asciiname":"Abba",
+    "gn:country_code":"NG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420777,
+    "gn:latitude":6.21808,
+    "gn:longitude":6.97869,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420777
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2edb1e49861e2501c9b4beb7d34c619c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564039,
+            "locality_id":1310458979,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1310458979,
+    "wof:lastmodified":1536983411,
+    "wof:name":"Abba",
+    "wof:parent_id":1108564039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97869,
+    6.21808,
+    6.97869,
+    6.21808
+],
+  "geometry": {"coordinates":[6.97869,6.21808],"type":"Point"}
+}

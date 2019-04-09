@@ -1,0 +1,62 @@
+{
+  "id": 1209648397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.51413,9.91698,6.51413,9.91698",
+    "geom:latitude":9.91698,
+    "geom:longitude":6.51413,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Guwa",
+    "gn:country_code":"NG",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339920,
+    "gn:latitude":9.91698,
+    "gn:longitude":6.51413,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Guwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339920
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ee87e6df073391aea607a4855d374950",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648397
+        }
+    ],
+    "wof:id":1209648397,
+    "wof:lastmodified":1536280660,
+    "wof:name":"Guwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5141300000000015,
+    9.91698,
+    6.5141300000000015,
+    9.91698
+],
+  "geometry": {"coordinates":[6.51413,9.91698],"type":"Point"}
+}

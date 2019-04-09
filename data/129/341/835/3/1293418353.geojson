@@ -1,0 +1,72 @@
+{
+  "id": 1293418353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.48646,4.64142,7.48646,4.64142",
+    "geom:latitude":4.64142,
+    "geom:longitude":7.48646,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33014.0",
+    "gn:asciiname":"Ewon",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342992,
+    "gn:latitude":4.64142,
+    "gn:longitude":7.48646,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ewon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ewen",
+        "Ewon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342992
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"201a9c71ed0331c62474afdaa377ef85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563815,
+            "locality_id":1293418353,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293418353,
+    "wof:lastmodified":1537675270,
+    "wof:name":"Ewon",
+    "wof:parent_id":1108563815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.48646,
+    4.64142,
+    7.48646,
+    4.64142
+],
+  "geometry": {"coordinates":[7.48646,4.64142],"type":"Point"}
+}

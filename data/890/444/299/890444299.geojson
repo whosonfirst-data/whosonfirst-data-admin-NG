@@ -1,0 +1,78 @@
+{
+  "id": 890444299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75,8.73333,5.75,8.73333",
+    "geom:latitude":8.73333,
+    "geom:longitude":5.75,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":28285,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pategi"
+    ],
+    "name:fre_x_preferred":[
+        "Pategi"
+    ],
+    "name:unk_x_variant":[
+        "Patigi"
+    ],
+    "qs:name":"Pategi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":474,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108564279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324960,
+        "gp:id":1404326,
+        "qs:id":1034988,
+        "wd:id":"Q7144399",
+        "wk:page":"Pategi"
+    },
+    "wof:country":"NG",
+    "wof:created":1469052464,
+    "wof:geomhash":"bffb0e2305148222721359835e220175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564279,
+            "locality_id":890444299,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":890444299,
+    "wof:lastmodified":1527787055,
+    "wof:name":"Pategi",
+    "wof:parent_id":1108564279,
+    "wof:placetype":"locality",
+    "wof:population":28285,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75,
+    8.73333,
+    5.75,
+    8.73333
+],
+  "geometry": {"coordinates":[5.75,8.73333],"type":"Point"}
+}

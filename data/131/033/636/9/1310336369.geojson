@@ -1,0 +1,78 @@
+{
+  "id": 1310336369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16879,10.85943,10.16879,10.85943",
+    "geom:latitude":10.85943,
+    "geom:longitude":10.16879,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5008.0",
+    "gn:admin3_code":"BA0801",
+    "gn:asciiname":"Ganjuwa",
+    "gn:country_code":"NG",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341998,
+    "gn:latitude":10.85943,
+    "gn:longitude":10.16879,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ganjuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ganjuwa"
+    ],
+    "name:eng_x_variant":[
+        "Ganjua"
+    ],
+    "name:und_x_variant":[
+        "Ganjua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341998
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6e0e02c70a76a5a6a723185c8f9740f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563391,
+            "locality_id":1310336369,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1310336369,
+    "wof:lastmodified":1537675258,
+    "wof:name":"Ganjuwa",
+    "wof:parent_id":1108563391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16879,
+    10.85943,
+    10.16879,
+    10.85943
+],
+  "geometry": {"coordinates":[10.16879,10.85943],"type":"Point"}
+}

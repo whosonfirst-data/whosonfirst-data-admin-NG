@@ -1,0 +1,72 @@
+{
+  "id": 1360232247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62917,12.80301,13.62917,12.80301",
+    "geom:latitude":12.80301,
+    "geom:longitude":13.62917,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"117.0",
+    "gn:admin3_code":"11710",
+    "gn:asciiname":"Kobchi",
+    "gn:country_code":"NG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334285,
+    "gn:latitude":12.80301,
+    "gn:longitude":13.62917,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kobchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334285
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36461db2ea5b4eb3c29917e1737b7cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563853,
+            "locality_id":1360232247,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1360232247,
+    "wof:lastmodified":1537675139,
+    "wof:name":"Kobchi",
+    "wof:parent_id":1108563853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62917,
+    12.80301,
+    13.62917,
+    12.80301
+],
+  "geometry": {"coordinates":[13.62917,12.80301],"type":"Point"}
+}

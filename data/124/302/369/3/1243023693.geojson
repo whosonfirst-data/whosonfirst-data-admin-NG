@@ -1,0 +1,74 @@
+{
+  "id": 1243023693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.33409,12.26157,7.33409,12.26157",
+    "geom:latitude":12.26157,
+    "geom:longitude":7.33409,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"409.0",
+    "gn:admin3_code":"40904",
+    "gn:asciiname":"Dan Musa",
+    "gn:country_code":"NG",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2345219,
+    "gn:latitude":12.26157,
+    "gn:longitude":7.33409,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dan Musa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Runka",
+        "Dan Musa",
+        "Danimusa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345219
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c662c5d724bd71adec6e78bebd4c539e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563205,
+            "locality_id":1243023693,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1243023693,
+    "wof:lastmodified":1537675307,
+    "wof:name":"Dan Musa",
+    "wof:parent_id":1108563205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.33409,
+    12.26157,
+    7.33409,
+    12.26157
+],
+  "geometry": {"coordinates":[7.33409,12.26157],"type":"Point"}
+}

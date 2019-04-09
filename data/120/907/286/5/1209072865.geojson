@@ -1,0 +1,63 @@
+{
+  "id": 1209072865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.68657,11.85273,13.68657,11.85273",
+    "geom:latitude":11.85273,
+    "geom:longitude":13.68657,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"119",
+    "gn:admin3_code":"11901",
+    "gn:asciiname":"Talwari",
+    "gn:country_code":"NG",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8739495,
+    "gn:latitude":11.85273,
+    "gn:longitude":13.68657,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Talwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8739495
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"311b35daf802ff82531963cf81b2cd80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209072865
+        }
+    ],
+    "wof:id":1209072865,
+    "wof:lastmodified":1536298591,
+    "wof:name":"Talwari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.68657,
+    11.85273,
+    13.68657,
+    11.85273
+],
+  "geometry": {"coordinates":[13.68657,11.85273],"type":"Point"}
+}

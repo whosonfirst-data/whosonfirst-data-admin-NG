@@ -1,0 +1,68 @@
+{
+  "id": 1242758155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01778,8.77333,7.01778,8.77333",
+    "geom:latitude":8.77333,
+    "geom:longitude":7.01778,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15005.0",
+    "gn:asciiname":"Dafa",
+    "gn:country_code":"NG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593804,
+    "gn:latitude":8.77333,
+    "gn:longitude":7.01778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593804
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb027d110a2d4a88b47091c1dba84098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563869,
+            "locality_id":1242758155,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1242758155,
+    "wof:lastmodified":1536803574,
+    "wof:name":"Dafa",
+    "wof:parent_id":1108563869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01778,
+    8.77333,
+    7.01778,
+    8.77333
+],
+  "geometry": {"coordinates":[7.01778,8.77333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309832657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.20039,6.34007,7.20039,6.34007",
+    "geom:latitude":6.34007,
+    "geom:longitude":7.20039,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14006.0",
+    "gn:asciiname":"Mgbagbu-Umumba-Owa",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330181,
+    "gn:latitude":6.34007,
+    "gn:longitude":7.20039,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mgbagbu-Umumba-Owa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umuaji-Owa",
+        "Mgbagbu-Umuaji-Owa",
+        "Mgbagbu-Umumba-Owa",
+        "Mgbabu-Umuaji-Owa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330181
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0fd10fe477359e662ea8953169ef358a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563353,
+            "locality_id":1309832657,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1309832657,
+    "wof:lastmodified":1537675092,
+    "wof:name":"Mgbagbu-Umumba-Owa",
+    "wof:parent_id":1108563353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.20039,
+    6.34007,
+    7.20039,
+    6.34007
+],
+  "geometry": {"coordinates":[7.20039,6.34007],"type":"Point"}
+}

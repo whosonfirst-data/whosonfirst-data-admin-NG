@@ -1,0 +1,69 @@
+{
+  "id": 1293148209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70429,10.8856,12.70429,10.8856",
+    "geom:latitude":10.8856,
+    "geom:longitude":12.70429,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10605",
+    "gn:asciiname":"Kwada",
+    "gn:country_code":"NG",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332972,
+    "gn:latitude":10.8856,
+    "gn:longitude":12.70429,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332972
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f2da22aff49d9117894f751796e8dcac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563189,
+            "locality_id":1293148209,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1293148209,
+    "wof:lastmodified":1536779810,
+    "wof:name":"Kwada",
+    "wof:parent_id":1108563189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70429,
+    10.8856,
+    12.70429,
+    10.8856
+],
+  "geometry": {"coordinates":[12.70429,10.8856],"type":"Point"}
+}

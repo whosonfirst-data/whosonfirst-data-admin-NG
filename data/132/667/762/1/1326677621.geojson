@@ -1,0 +1,68 @@
+{
+  "id": 1326677621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99265,7.2948,8.99265,7.2948",
+    "geom:latitude":7.2948,
+    "geom:longitude":8.99265,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Aornam",
+    "gn:country_code":"NG",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974681,
+    "gn:latitude":7.2948,
+    "gn:longitude":8.99265,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aornam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974681
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fca281cccc728cc83518cc93290649cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1326677621,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326677621,
+    "wof:lastmodified":1536775185,
+    "wof:name":"Aornam",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99265,
+    7.2948,
+    8.99265,
+    7.2948
+],
+  "geometry": {"coordinates":[8.99265,7.2948],"type":"Point"}
+}

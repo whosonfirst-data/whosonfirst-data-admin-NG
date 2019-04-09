@@ -1,0 +1,71 @@
+{
+  "id": 1343528471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.14573,7.36282,9.14573,7.36282",
+    "geom:latitude":7.36282,
+    "geom:longitude":9.14573,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Korkyaa",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633984,
+    "gn:latitude":7.36282,
+    "gn:longitude":9.14573,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Korkyaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633984
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed8641705dd5dee562ecda745a767b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1343528471,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343528471,
+    "wof:lastmodified":1537675466,
+    "wof:name":"Korkyaa",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.14573,
+    7.36282,
+    9.14573,
+    7.36282
+],
+  "geometry": {"coordinates":[9.14573,7.36282],"type":"Point"}
+}

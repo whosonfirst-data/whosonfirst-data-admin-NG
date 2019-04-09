@@ -1,0 +1,78 @@
+{
+  "id": 1125860039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.69678,10.38522,11.69678,10.38522",
+    "geom:latitude":10.38522,
+    "geom:longitude":11.69678,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9189,
+    "gn:population":9189,
+    "iso:country":"NG",
+    "lbl:latitude":10.38522,
+    "lbl:longitude":11.69678,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2318534,
+    "qs_pg:gn_pop":9189,
+    "qs_pg:name":"Wuyo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":91229,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318534,
+        "qs_pg:id":91229
+    },
+    "wof:country":"NG",
+    "wof:created":1497293790,
+    "wof:geomhash":"87822da89a9cebc1eacdc01ebd4ec18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563105,
+            "locality_id":1125860039,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1125860039,
+    "wof:lastmodified":1509396532,
+    "wof:name":"Wuyo",
+    "wof:parent_id":1108563105,
+    "wof:placetype":"locality",
+    "wof:population":9189,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.69678,
+    10.38522,
+    11.69678,
+    10.38522
+],
+  "geometry": {"coordinates":[11.69678,10.38522],"type":"Point"}
+}

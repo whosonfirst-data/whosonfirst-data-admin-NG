@@ -1,0 +1,68 @@
+{
+  "id": 1259550529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44481,7.19413,9.44481,7.19413",
+    "geom:latitude":7.19413,
+    "geom:longitude":9.44481,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Iko",
+    "gn:country_code":"NG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639770,
+    "gn:latitude":7.19413,
+    "gn:longitude":9.44481,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639770
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"176213086ad979e5a9b057dd3806d34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1259550529,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259550529,
+    "wof:lastmodified":1536762740,
+    "wof:name":"Iko",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44481,
+    7.19413,
+    9.44481,
+    7.19413
+],
+  "geometry": {"coordinates":[9.44481,7.19413],"type":"Point"}
+}

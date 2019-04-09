@@ -1,0 +1,68 @@
+{
+  "id": 1242999615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78227,9.81075,6.78227,9.81075",
+    "geom:latitude":9.81075,
+    "geom:longitude":6.78227,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Nadwi",
+    "gn:country_code":"NG",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409365,
+    "gn:latitude":9.81075,
+    "gn:longitude":6.78227,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nadwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409365
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bcb5949425ae62ed0cb1248c1a03c757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1242999615,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1242999615,
+    "wof:lastmodified":1536953016,
+    "wof:name":"Nadwi",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78227,
+    9.81075,
+    6.78227,
+    9.81075
+],
+  "geometry": {"coordinates":[6.78227,9.81075],"type":"Point"}
+}

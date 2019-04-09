@@ -1,0 +1,62 @@
+{
+  "id": 1209347489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.23315,8.99011,11.23315,8.99011",
+    "geom:latitude":8.99011,
+    "geom:longitude":11.23315,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007",
+    "gn:asciiname":"Dogari Shonti",
+    "gn:country_code":"NG",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10869739,
+    "gn:latitude":8.99011,
+    "gn:longitude":11.23315,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dogari Shonti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10869739
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a56e3e26a94b8b02a0b2818d0e10aada",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347489
+        }
+    ],
+    "wof:id":1209347489,
+    "wof:lastmodified":1536289863,
+    "wof:name":"Dogari Shonti",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.23315,
+    8.990110000000003,
+    11.23315,
+    8.990110000000003
+],
+  "geometry": {"coordinates":[11.23315,8.99011],"type":"Point"}
+}

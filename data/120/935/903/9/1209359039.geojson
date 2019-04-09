@@ -1,0 +1,64 @@
+{
+  "id": 1209359039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6817,9.41534,11.6817,9.41534",
+    "geom:latitude":9.41534,
+    "geom:longitude":11.6817,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hagbokin",
+    "gn:country_code":"NG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209315,
+    "gn:latitude":9.41534,
+    "gn:longitude":11.6817,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Hagbokin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hagbokin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209315
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"69fdb44f68e6dbbdba44b66cd4ef1b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209359039
+        }
+    ],
+    "wof:id":1209359039,
+    "wof:lastmodified":1537675498,
+    "wof:name":"Hagbokin",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6817,
+    9.41534,
+    11.6817,
+    9.41534
+],
+  "geometry": {"coordinates":[11.6817,9.41534],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243503181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.80889,7.72778,3.80889,7.72778",
+    "geom:latitude":7.72778,
+    "geom:longitude":3.80889,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31001.0",
+    "gn:asciiname":"Agboye Loko",
+    "gn:country_code":"NG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591385,
+    "gn:latitude":7.72778,
+    "gn:longitude":3.80889,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agboye Loko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591385
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1eedc935f35780582187e8e00e5c37e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562925,
+            "locality_id":1243503181,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1243503181,
+    "wof:lastmodified":1536724239,
+    "wof:name":"Agboye Loko",
+    "wof:parent_id":1108562925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.80889,
+    7.72778,
+    3.80889,
+    7.72778
+],
+  "geometry": {"coordinates":[3.80889,7.72778],"type":"Point"}
+}

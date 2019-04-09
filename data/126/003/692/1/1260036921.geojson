@@ -1,0 +1,67 @@
+{
+  "id": 1260036921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.28838,5.92587,7.28838,5.92587",
+    "geom:latitude":5.92587,
+    "geom:longitude":7.28838,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Akawa",
+    "gn:country_code":"NG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351167,
+    "gn:latitude":5.92587,
+    "gn:longitude":7.28838,
+    "gn:modification_date":"2009-08-19",
+    "gn:name":"Akawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351167
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"45ad99eff25c36f587230f169645586b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564459,
+            "locality_id":1260036921,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1260036921,
+    "wof:lastmodified":1537052968,
+    "wof:name":"Akawa",
+    "wof:parent_id":1108564459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.28838,
+    5.92587,
+    7.28838,
+    5.92587
+],
+  "geometry": {"coordinates":[7.28838,5.92587],"type":"Point"}
+}

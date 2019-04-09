@@ -1,0 +1,69 @@
+{
+  "id": 1276719749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2708,9.73503,8.2708,9.73503",
+    "geom:latitude":9.73503,
+    "geom:longitude":8.2708,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19022",
+    "gn:admin3_code":"KD2210",
+    "gn:asciiname":"Rabuan",
+    "gn:country_code":"NG",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003182,
+    "gn:latitude":9.73503,
+    "gn:longitude":8.2708,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rabuan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003182
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4016250bb64c279f80ced21a050c3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564555,
+            "locality_id":1276719749,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276719749,
+    "wof:lastmodified":1536758315,
+    "wof:name":"Rabuan",
+    "wof:parent_id":1108564555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2708,
+    9.73503,
+    8.2708,
+    9.73503
+],
+  "geometry": {"coordinates":[8.2708,9.73503],"type":"Point"}
+}

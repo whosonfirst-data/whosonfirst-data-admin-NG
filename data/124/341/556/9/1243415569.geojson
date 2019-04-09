@@ -1,0 +1,72 @@
+{
+  "id": 1243415569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11061,5.90878,7.11061,5.90878",
+    "geom:latitude":5.90878,
+    "geom:longitude":7.11061,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17005.0",
+    "gn:asciiname":"Akokwa",
+    "gn:country_code":"NG",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351006,
+    "gn:latitude":5.90878,
+    "gn:longitude":7.11061,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akokwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akukwa",
+        "Akokwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351006
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd71902e0b8d499ebd68782b2476c799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563519,
+            "locality_id":1243415569,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1243415569,
+    "wof:lastmodified":1537675375,
+    "wof:name":"Akokwa",
+    "wof:parent_id":1108563519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11061,
+    5.90878,
+    7.11061,
+    5.90878
+],
+  "geometry": {"coordinates":[7.11061,5.90878],"type":"Point"}
+}

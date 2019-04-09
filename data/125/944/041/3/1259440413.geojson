@@ -1,0 +1,69 @@
+{
+  "id": 1259440413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.54842,12.171,7.54842,12.171",
+    "geom:latitude":12.171,
+    "geom:longitude":7.54842,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"428.0",
+    "gn:admin3_code":"42802",
+    "gn:asciiname":"Ilali",
+    "gn:country_code":"NG",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999144,
+    "gn:latitude":12.171,
+    "gn:longitude":7.54842,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ilali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999144
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e1bdc7dd9e39873617a7bb4f71192be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563961,
+            "locality_id":1259440413,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1259440413,
+    "wof:lastmodified":1536921508,
+    "wof:name":"Ilali",
+    "wof:parent_id":1108563961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.54842,
+    12.171,
+    7.54842,
+    12.171
+],
+  "geometry": {"coordinates":[7.54842,12.171],"type":"Point"}
+}

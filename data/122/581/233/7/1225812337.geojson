@@ -1,0 +1,68 @@
+{
+  "id": 1225812337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.13861,7.10342,9.13861,7.10342",
+    "geom:latitude":7.10342,
+    "geom:longitude":9.13861,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022",
+    "gn:asciiname":"Gai",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638248,
+    "gn:latitude":7.10342,
+    "gn:longitude":9.13861,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638248
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bfe5aff512a46e672f16a16112b0924c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1225812337,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1225812337,
+    "wof:lastmodified":1537059376,
+    "wof:name":"Gai",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.13861,
+    7.10342,
+    9.13861,
+    7.10342
+],
+  "geometry": {"coordinates":[9.13861,7.10342],"type":"Point"}
+}

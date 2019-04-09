@@ -1,0 +1,71 @@
+{
+  "id": 1226597239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.40152,6.0543,6.40152,6.0543",
+    "geom:latitude":6.0543,
+    "geom:longitude":6.40152,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Emefune",
+    "gn:country_code":"NG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505046,
+    "gn:latitude":6.0543,
+    "gn:longitude":6.40152,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emefune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Emefune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505046
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a636c557ae2d7b9b44072104b371c16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1226597239,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226597239,
+    "wof:lastmodified":1537675457,
+    "wof:name":"Emefune",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.40152,
+    6.0543,
+    6.40152,
+    6.0543
+],
+  "geometry": {"coordinates":[6.40152,6.0543],"type":"Point"}
+}

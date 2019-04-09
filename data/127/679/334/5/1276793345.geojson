@@ -1,0 +1,68 @@
+{
+  "id": 1276793345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73811,7.93201,6.73811,7.93201",
+    "geom:latitude":7.93201,
+    "geom:longitude":6.73811,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23012.0",
+    "gn:asciiname":"Otuba",
+    "gn:country_code":"NG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325443,
+    "gn:latitude":7.93201,
+    "gn:longitude":6.73811,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Otuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325443
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad6f958df0c76a4ac9362cb74d3a2fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563907,
+            "locality_id":1276793345,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1276793345,
+    "wof:lastmodified":1536659753,
+    "wof:name":"Otuba",
+    "wof:parent_id":1108563907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73811,
+    7.93201,
+    6.73811,
+    7.93201
+],
+  "geometry": {"coordinates":[6.73811,7.93201],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209272813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.29407,5.20842,8.29407,5.20842",
+    "geom:latitude":5.20842,
+    "geom:longitude":8.29407,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9002.0",
+    "gn:asciiname":"Njahasang",
+    "gn:country_code":"NG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328880,
+    "gn:latitude":5.20842,
+    "gn:longitude":8.29407,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Njahasang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nya Asang",
+        "Njakasang",
+        "Njahasang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328880
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8fd51c9c5f11cff154a0926a8672c3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209272813
+        }
+    ],
+    "wof:id":1209272813,
+    "wof:lastmodified":1537675073,
+    "wof:name":"Njahasang",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.29407,
+    5.20842,
+    8.29407,
+    5.20842
+],
+  "geometry": {"coordinates":[8.29407,5.20842],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259621759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.09022,12.01756,4.09022,12.01756",
+    "geom:latitude":12.01756,
+    "geom:longitude":4.09022,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"518.0",
+    "gn:admin3_code":"51807",
+    "gn:asciiname":"Dania",
+    "gn:country_code":"NG",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040295,
+    "gn:latitude":12.01756,
+    "gn:longitude":4.09022,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040295
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8ed8cbcf7f1819287d3cd7c3d80e2cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564383,
+            "locality_id":1259621759,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1259621759,
+    "wof:lastmodified":1536659596,
+    "wof:name":"Dania",
+    "wof:parent_id":1108564383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.09022,
+    12.01756,
+    4.09022,
+    12.01756
+],
+  "geometry": {"coordinates":[4.09022,12.01756],"type":"Point"}
+}

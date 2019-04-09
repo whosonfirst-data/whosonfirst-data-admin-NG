@@ -1,0 +1,70 @@
+{
+  "id": 1327059687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.11663,9.16331,11.11663,9.16331",
+    "geom:latitude":9.16331,
+    "geom:longitude":11.11663,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Kabawa",
+    "gn:country_code":"NG",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307827,
+    "gn:latitude":9.16331,
+    "gn:longitude":11.11663,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kabawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kabawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307827
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b98db3e7ba820cd9375f5a4a93e9136d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1327059687,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1327059687,
+    "wof:lastmodified":1537675525,
+    "wof:name":"Kabawa",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.11663,
+    9.16331,
+    11.11663,
+    9.16331
+],
+  "geometry": {"coordinates":[11.11663,9.16331],"type":"Point"}
+}

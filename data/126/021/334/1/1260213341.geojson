@@ -1,0 +1,68 @@
+{
+  "id": 1260213341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58585,9.96312,6.58585,9.96312",
+    "geom:latitude":9.96312,
+    "geom:longitude":6.58585,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Jabki",
+    "gn:country_code":"NG",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10402892,
+    "gn:latitude":9.96312,
+    "gn:longitude":6.58585,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jabki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10402892
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"23c3cbae2b068d5c84b1480113c7bb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1260213341,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1260213341,
+    "wof:lastmodified":1536806967,
+    "wof:name":"Jabki",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58585,
+    9.96312,
+    6.58585,
+    9.96312
+],
+  "geometry": {"coordinates":[6.58585,9.96312],"type":"Point"}
+}

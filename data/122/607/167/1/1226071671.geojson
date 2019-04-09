@@ -1,0 +1,71 @@
+{
+  "id": 1226071671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78631,4.78922,6.78631,4.78922",
+    "geom:latitude":4.78922,
+    "geom:longitude":6.78631,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Iwoama",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336901,
+    "gn:latitude":4.78922,
+    "gn:longitude":6.78631,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iwoama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ewoama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336901
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"af6149525538546ad22d357928b1b2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563227,
+            "locality_id":1226071671,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1226071671,
+    "wof:lastmodified":1537675173,
+    "wof:name":"Iwoama",
+    "wof:parent_id":1108563227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78631,
+    4.78922,
+    6.78631,
+    4.78922
+],
+  "geometry": {"coordinates":[6.78631,4.78922],"type":"Point"}
+}

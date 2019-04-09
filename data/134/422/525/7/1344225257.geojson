@@ -1,0 +1,71 @@
+{
+  "id": 1344225257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.70231,11.27793,7.70231,11.27793",
+    "geom:latitude":11.27793,
+    "geom:longitude":7.70231,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ungwan Dumuga",
+    "gn:country_code":"NG",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320027,
+    "gn:latitude":11.27793,
+    "gn:longitude":7.70231,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ungwan Dumuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumuga",
+        "Ungwan Dumuga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320027
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d2ace93b48ceead7c469cedfacf9a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563847,
+            "locality_id":1344225257,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1344225257,
+    "wof:lastmodified":1537674931,
+    "wof:name":"Ungwan Dumuga",
+    "wof:parent_id":1108563847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.70231,
+    11.27793,
+    7.70231,
+    11.27793
+],
+  "geometry": {"coordinates":[7.70231,11.27793],"type":"Point"}
+}

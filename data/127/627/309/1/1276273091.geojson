@@ -1,0 +1,71 @@
+{
+  "id": 1276273091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3247,6.48209,6.3247,6.48209",
+    "geom:latitude":6.48209,
+    "geom:longitude":6.3247,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12005.0",
+    "gn:asciiname":"Ewohimi",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342984,
+    "gn:latitude":6.48209,
+    "gn:longitude":6.3247,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ewohimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ewohimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342984
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2bd5a3d2172b49fdb48fe3d1c910f86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563319,
+            "locality_id":1276273091,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1276273091,
+    "wof:lastmodified":1537675270,
+    "wof:name":"Ewohimi",
+    "wof:parent_id":1108563319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3247,
+    6.48209,
+    6.3247,
+    6.48209
+],
+  "geometry": {"coordinates":[6.3247,6.48209],"type":"Point"}
+}

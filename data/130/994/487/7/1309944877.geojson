@@ -1,0 +1,72 @@
+{
+  "id": 1309944877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.74465,5.64691,5.74465,5.64691",
+    "geom:latitude":5.64691,
+    "geom:longitude":5.74465,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10013.0",
+    "gn:asciiname":"Egborode",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343897,
+    "gn:latitude":5.64691,
+    "gn:longitude":5.74465,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Egborode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogborode",
+        "Egborode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343897
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1bab899ec3b335fea0b01b8a78db9e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564161,
+            "locality_id":1309944877,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1309944877,
+    "wof:lastmodified":1537675286,
+    "wof:name":"Egborode",
+    "wof:parent_id":1108564161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.74465,
+    5.64691,
+    5.74465,
+    5.64691
+],
+  "geometry": {"coordinates":[5.74465,5.64691],"type":"Point"}
+}

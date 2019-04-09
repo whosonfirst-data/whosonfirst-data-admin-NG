@@ -1,0 +1,63 @@
+{
+  "id": 1209381437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.9824,11.47689,13.9824,11.47689",
+    "geom:latitude":11.47689,
+    "geom:longitude":13.9824,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10306",
+    "gn:asciiname":"Chachile",
+    "gn:country_code":"NG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346204,
+    "gn:latitude":11.47689,
+    "gn:longitude":13.9824,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chachile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346204
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"11e483adc20f3cffc551b08b7e5268e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209381437
+        }
+    ],
+    "wof:id":1209381437,
+    "wof:lastmodified":1536288769,
+    "wof:name":"Chachile",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.9824,
+    11.47689,
+    13.9824,
+    11.47689
+],
+  "geometry": {"coordinates":[13.9824,11.47689],"type":"Point"}
+}

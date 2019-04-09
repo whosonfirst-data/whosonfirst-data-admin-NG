@@ -1,0 +1,74 @@
+{
+  "id": 1293154177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88079,9.40196,11.88079,9.40196",
+    "geom:latitude":9.40196,
+    "geom:longitude":11.88079,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Njendure",
+    "gn:country_code":"NG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348157,
+    "gn:latitude":9.40196,
+    "gn:longitude":11.88079,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Njendure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Njendure"
+    ],
+    "name:eng_x_variant":[
+        "Bakin Diwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348157
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1d8b81e9182a4af0936d2022a6e1f4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1293154177,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293154177,
+    "wof:lastmodified":1537675342,
+    "wof:name":"Njendure",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88079,
+    9.40196,
+    11.88079,
+    9.40196
+],
+  "geometry": {"coordinates":[11.88079,9.40196],"type":"Point"}
+}

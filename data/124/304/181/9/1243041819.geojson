@@ -1,0 +1,71 @@
+{
+  "id": 1243041819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.23504,4.82171,8.23504,4.82171",
+    "geom:latitude":4.82171,
+    "geom:longitude":8.23504,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3025.0",
+    "gn:asciiname":"Oron",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2325688,
+    "gn:latitude":4.82171,
+    "gn:longitude":8.23504,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oron Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325688
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e6aebc0eeee7e4906bd82fa5e975c3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564213,
+            "locality_id":1243041819,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1243041819,
+    "wof:lastmodified":1537675019,
+    "wof:name":"Oron",
+    "wof:parent_id":1108564213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.23504,
+    4.82171,
+    8.23504,
+    4.82171
+],
+  "geometry": {"coordinates":[8.23504,4.82171],"type":"Point"}
+}

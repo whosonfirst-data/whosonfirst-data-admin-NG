@@ -1,0 +1,62 @@
+{
+  "id": 1209664667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48333,8.21667,4.48333,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":4.48333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Abidiore",
+    "gn:country_code":"NG",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352904,
+    "gn:latitude":8.21667,
+    "gn:longitude":4.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abidiore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352904
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4563cc9f2f183f92b44823db2d00922",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209664667
+        }
+    ],
+    "wof:id":1209664667,
+    "wof:lastmodified":1536280139,
+    "wof:name":"Abidiore",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4833300000000005,
+    8.21667,
+    4.4833300000000005,
+    8.21667
+],
+  "geometry": {"coordinates":[4.48333,8.21667],"type":"Point"}
+}

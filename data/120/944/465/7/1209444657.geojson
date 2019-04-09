@@ -1,0 +1,62 @@
+{
+  "id": 1209444657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21667,8.08333,11.21667,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":11.21667,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Dogo",
+    "gn:country_code":"NG",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344716,
+    "gn:latitude":8.08333,
+    "gn:longitude":11.21667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344716
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b17780581706720010bab78a0f518b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444657
+        }
+    ],
+    "wof:id":1209444657,
+    "wof:lastmodified":1536286855,
+    "wof:name":"Dogo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21667,
+    8.08333,
+    11.21667,
+    8.08333
+],
+  "geometry": {"coordinates":[11.21667,8.08333],"type":"Point"}
+}

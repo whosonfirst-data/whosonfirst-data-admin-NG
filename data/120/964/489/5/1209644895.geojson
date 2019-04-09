@@ -1,0 +1,62 @@
+{
+  "id": 1209644895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.30138,10.29685,11.30138,10.29685",
+    "geom:latitude":10.29685,
+    "geom:longitude":11.30138,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16011.0",
+    "gn:asciiname":"Galawo",
+    "gn:country_code":"NG",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342261,
+    "gn:latitude":10.29685,
+    "gn:longitude":11.30138,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Galawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342261
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1735627393c0dd379297109840233687",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644895
+        }
+    ],
+    "wof:id":1209644895,
+    "wof:lastmodified":1536280767,
+    "wof:name":"Galawo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.30138,
+    10.29685,
+    11.30138,
+    10.29685
+],
+  "geometry": {"coordinates":[11.30138,10.29685],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209644751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.14408,7.42617,10.14408,7.42617",
+    "geom:latitude":7.42617,
+    "geom:longitude":10.14408,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012.0",
+    "gn:asciiname":"Usaa",
+    "gn:country_code":"NG",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319638,
+    "gn:latitude":7.42617,
+    "gn:longitude":10.14408,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Usaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319638
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c51cf2b03e6700467c3ab1578e2add91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644751
+        }
+    ],
+    "wof:id":1209644751,
+    "wof:lastmodified":1536280772,
+    "wof:name":"Usaa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.14408,
+    7.42617,
+    10.14408,
+    7.42617
+],
+  "geometry": {"coordinates":[10.14408,7.42617],"type":"Point"}
+}

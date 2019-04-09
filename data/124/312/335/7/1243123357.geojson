@@ -1,0 +1,67 @@
+{
+  "id": 1243123357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02135,10.00745,12.02135,10.00745",
+    "geom:latitude":10.00745,
+    "geom:longitude":12.02135,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Sabongari Jahadi",
+    "gn:country_code":"NG",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324115,
+    "gn:latitude":10.00745,
+    "gn:longitude":12.02135,
+    "gn:modification_date":"2009-03-05",
+    "gn:name":"Sabongari Jahadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324115
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e2aeb984703305f3562ca555d8f30c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564351,
+            "locality_id":1243123357,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243123357,
+    "wof:lastmodified":1536775131,
+    "wof:name":"Sabongari Jahadi",
+    "wof:parent_id":1108564351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02135,
+    10.00745,
+    12.02135,
+    10.00745
+],
+  "geometry": {"coordinates":[12.02135,10.00745],"type":"Point"}
+}

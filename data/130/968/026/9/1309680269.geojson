@@ -1,0 +1,73 @@
+{
+  "id": 1309680269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4569,12.82895,8.4569,12.82895",
+    "geom:latitude":12.82895,
+    "geom:longitude":8.4569,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"433.0",
+    "gn:admin3_code":"43304",
+    "gn:asciiname":"Kwandage",
+    "gn:country_code":"NG",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344291,
+    "gn:latitude":12.82895,
+    "gn:longitude":8.4569,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwandage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durbe",
+        "Kwandage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344291
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"30f6e6d4532e37ea05d1f3da37dae0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564535,
+            "locality_id":1309680269,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1309680269,
+    "wof:lastmodified":1537675294,
+    "wof:name":"Kwandage",
+    "wof:parent_id":1108564535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4569,
+    12.82895,
+    8.4569,
+    12.82895
+],
+  "geometry": {"coordinates":[8.4569,12.82895],"type":"Point"}
+}

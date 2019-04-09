@@ -1,0 +1,70 @@
+{
+  "id": 1243391855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.80693,4.61765,5.80693,4.61765",
+    "geom:latitude":4.61765,
+    "geom:longitude":5.80693,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Sesumogbene",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109765,
+    "gn:latitude":4.61765,
+    "gn:longitude":5.80693,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Sesumogbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sesumogbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109765
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1fb3d060b8cfe7e9fac633ed549c0d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564377,
+            "locality_id":1243391855,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1243391855,
+    "wof:lastmodified":1537675475,
+    "wof:name":"Sesumogbene",
+    "wof:parent_id":1108564377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.80693,
+    4.61765,
+    5.80693,
+    4.61765
+],
+  "geometry": {"coordinates":[5.80693,4.61765],"type":"Point"}
+}

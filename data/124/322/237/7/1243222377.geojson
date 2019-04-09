@@ -1,0 +1,68 @@
+{
+  "id": 1243222377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0262,4.9723,8.0262,4.9723",
+    "geom:latitude":4.9723,
+    "geom:longitude":8.0262,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3029.0",
+    "gn:asciiname":"Ekim Enen",
+    "gn:country_code":"NG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343705,
+    "gn:latitude":4.9723,
+    "gn:longitude":8.0262,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekim Enen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343705
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"788804fdba9495ee0991c2346000127e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564471,
+            "locality_id":1243222377,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1243222377,
+    "wof:lastmodified":1536630049,
+    "wof:name":"Ekim Enen",
+    "wof:parent_id":1108564471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0262,
+    4.9723,
+    8.0262,
+    4.9723
+],
+  "geometry": {"coordinates":[8.0262,4.9723],"type":"Point"}
+}

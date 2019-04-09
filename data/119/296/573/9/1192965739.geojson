@@ -1,0 +1,69 @@
+{
+  "id": 1192965739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30923,10.42496,12.30923,10.42496",
+    "geom:latitude":10.42496,
+    "geom:longitude":12.30923,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11210",
+    "gn:asciiname":"Timpir",
+    "gn:country_code":"NG",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322109,
+    "gn:latitude":10.42496,
+    "gn:longitude":12.30923,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Timpir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322109
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0e85437163e4c32dd0571ed4b2b26876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1192965739,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1192965739,
+    "wof:lastmodified":1536383579,
+    "wof:name":"Timpir",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30923,
+    10.42496,
+    12.30923,
+    10.42496
+],
+  "geometry": {"coordinates":[12.30923,10.42496],"type":"Point"}
+}

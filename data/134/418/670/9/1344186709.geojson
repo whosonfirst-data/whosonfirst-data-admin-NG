@@ -1,0 +1,68 @@
+{
+  "id": 1344186709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.21699,9.97101,7.21699,9.97101",
+    "geom:latitude":9.97101,
+    "geom:longitude":7.21699,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018.0",
+    "gn:asciiname":"Showa",
+    "gn:country_code":"NG",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323076,
+    "gn:latitude":9.97101,
+    "gn:longitude":7.21699,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Showa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323076
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3ebd08577707b9f18466c34d5eee6be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564003,
+            "locality_id":1344186709,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1344186709,
+    "wof:lastmodified":1536693762,
+    "wof:name":"Showa",
+    "wof:parent_id":1108564003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.21699,
+    9.97101,
+    7.21699,
+    9.97101
+],
+  "geometry": {"coordinates":[7.21699,9.97101],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 421196759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16458,10.17506,11.16458,10.17506",
+    "geom:latitude":10.17506,
+    "geom:longitude":11.16458,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Garko"
+    ],
+    "name:fra_x_preferred":[
+        "Garko"
+    ],
+    "name:ita_x_preferred":[
+        "Garko"
+    ],
+    "name:pol_x_preferred":[
+        "Garko"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2341758,
+    "qs:gn_pop":21141,
+    "qs:name":"Garko",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Gombe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1297976,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1391814,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341758,
+        "gp:id":1391814,
+        "qs:id":1297976
+    },
+    "wof:country":"NG",
+    "wof:created":1459009892,
+    "wof:geomhash":"deb7fe9f58b41034535cea287f047b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":421196759,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":421196759,
+    "wof:lastmodified":1527716366,
+    "wof:name":"Garko",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:population":21141,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16458,
+    10.17506,
+    11.16458,
+    10.17506
+],
+  "geometry": {"coordinates":[11.16458,10.17506],"type":"Point"}
+}

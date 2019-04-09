@@ -1,0 +1,62 @@
+{
+  "id": 1209459353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40056,10.12717,13.40056,10.12717",
+    "geom:latitude":10.12717,
+    "geom:longitude":13.40056,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Girimburum",
+    "gn:country_code":"NG",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760296,
+    "gn:latitude":10.12717,
+    "gn:longitude":13.40056,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Girimburum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760296
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ce9acb2e5e3843292de0698bf936e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209459353
+        }
+    ],
+    "wof:id":1209459353,
+    "wof:lastmodified":1536286433,
+    "wof:name":"Girimburum",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40056,
+    10.12717,
+    13.40056,
+    10.12717
+],
+  "geometry": {"coordinates":[13.40056,10.12717],"type":"Point"}
+}

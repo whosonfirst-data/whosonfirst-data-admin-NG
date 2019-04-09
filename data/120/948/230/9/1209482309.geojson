@@ -1,0 +1,62 @@
+{
+  "id": 1209482309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79008,7.43209,8.79008,7.43209",
+    "geom:latitude":7.43209,
+    "geom:longitude":8.79008,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Iorehor",
+    "gn:country_code":"NG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973983,
+    "gn:latitude":7.43209,
+    "gn:longitude":8.79008,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iorehor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973983
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b9f099aa3980c47c1680bac4d364396b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209482309
+        }
+    ],
+    "wof:id":1209482309,
+    "wof:lastmodified":1536285744,
+    "wof:name":"Iorehor",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79008,
+    7.43209,
+    8.79008,
+    7.43209
+],
+  "geometry": {"coordinates":[8.79008,7.43209],"type":"Point"}
+}

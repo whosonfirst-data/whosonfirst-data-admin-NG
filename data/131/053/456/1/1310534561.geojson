@@ -1,0 +1,68 @@
+{
+  "id": 1310534561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.323,10.5144,11.323,10.5144",
+    "geom:latitude":10.5144,
+    "geom:longitude":11.323,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16008.0",
+    "gn:asciiname":"Geji Bauchi",
+    "gn:country_code":"NG",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341289,
+    "gn:latitude":10.5144,
+    "gn:longitude":11.323,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Geji Bauchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341289
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9e9ec810bec799bd82be4178f9c8d05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563871,
+            "locality_id":1310534561,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1310534561,
+    "wof:lastmodified":1536874075,
+    "wof:name":"Geji Bauchi",
+    "wof:parent_id":1108563871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.323,
+    10.5144,
+    11.323,
+    10.5144
+],
+  "geometry": {"coordinates":[11.323,10.5144],"type":"Point"}
+}

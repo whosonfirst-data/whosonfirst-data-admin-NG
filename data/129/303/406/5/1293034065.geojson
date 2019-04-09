@@ -1,0 +1,68 @@
+{
+  "id": 1293034065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05559,7.41033,10.05559,7.41033",
+    "geom:latitude":7.41033,
+    "geom:longitude":10.05559,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012.0",
+    "gn:asciiname":"Jimen",
+    "gn:country_code":"NG",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336059,
+    "gn:latitude":7.41033,
+    "gn:longitude":10.05559,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jimen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336059
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e89124ea8d957edfbf43f532857658fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1293034065,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293034065,
+    "wof:lastmodified":1536944330,
+    "wof:name":"Jimen",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05559,
+    7.41033,
+    10.05559,
+    7.41033
+],
+  "geometry": {"coordinates":[10.05559,7.41033],"type":"Point"}
+}

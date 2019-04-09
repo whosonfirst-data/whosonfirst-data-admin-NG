@@ -1,0 +1,69 @@
+{
+  "id": 1344104317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.23333,11.31667,14.23333,11.31667",
+    "geom:latitude":11.31667,
+    "geom:longitude":14.23333,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10303",
+    "gn:asciiname":"Janrua",
+    "gn:country_code":"NG",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336444,
+    "gn:latitude":11.31667,
+    "gn:longitude":14.23333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Janrua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336444
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"387fd155423b7db9df81eb49893aca13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563085,
+            "locality_id":1344104317,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1344104317,
+    "wof:lastmodified":1536811792,
+    "wof:name":"Janrua",
+    "wof:parent_id":1108563085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.23333,
+    11.31667,
+    14.23333,
+    11.31667
+],
+  "geometry": {"coordinates":[14.23333,11.31667],"type":"Point"}
+}

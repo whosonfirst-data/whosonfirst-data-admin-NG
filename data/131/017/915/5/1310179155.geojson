@@ -1,0 +1,73 @@
+{
+  "id": 1310179155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5987,4.72837,7.5987,4.72837",
+    "geom:latitude":4.72837,
+    "geom:longitude":7.5987,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3026.0",
+    "gn:asciiname":"Utu Ikot Obio Ekpe",
+    "gn:country_code":"NG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319518,
+    "gn:latitude":4.72837,
+    "gn:longitude":7.5987,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Utu Ikot Obio Ekpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utu Ikot Obio Ekp",
+        "Utu Ikot Obio Ekpo",
+        "Utu Ikot Obio Ekpe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319518
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d2d06a9c8f2424875f6d73677d0c889a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564221,
+            "locality_id":1310179155,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1310179155,
+    "wof:lastmodified":1537674917,
+    "wof:name":"Utu Ikot Obio Ekpe",
+    "wof:parent_id":1108564221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5987,
+    4.72837,
+    7.5987,
+    4.72837
+],
+  "geometry": {"coordinates":[7.5987,4.72837],"type":"Point"}
+}

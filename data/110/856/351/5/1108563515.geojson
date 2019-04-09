@@ -1,0 +1,90 @@
+{
+  "id": 1108563515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002932,
+    "geom:area_square_m":35981749.414577,
+    "geom:bbox":"6.68386633973,7.03937136831,6.74776633973,7.12377136831",
+    "geom:latitude":7.080681,
+    "geom:longitude":6.718459,
+    "iso:country":"NG",
+    "lbl:latitude":7.079248,
+    "lbl:longitude":6.716281,
+    "meso:adm1_name":"Kogi",
+    "meso:diss_me":"IdahKogi",
+    "meso:gadm_admin":"Idah",
+    "meso:gaul_admin":"Etsakoea",
+    "meso:hasc_id":"NG.KO.ID",
+    "meso:mps_x":6.716281,
+    "meso:mps_y":7.079248,
+    "meso:name_local":"Idah",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":7.079248,
+    "mps:longitude":6.716281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Idah"
+    ],
+    "name:eng_x_variant":[
+        "Etsakoea",
+        "Idah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"36.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Idah",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.KO",
+    "statoids:name":"Idah",
+    "statoids:population":"79815",
+    "statoids:statoid":"NG.KO.ID",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.KO.ID"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057659,
+    "wof:geomhash":"b3bf5926fbae1e6817acd422b4487220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563515,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1108563515,
+    "wof:lastmodified":1536615202,
+    "wof:name":"Idah",
+    "wof:parent_id":85675407,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":79815,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"ID",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68386633973262,
+    7.03937136831215,
+    6.74776633973259,
+    7.12377136831213
+],
+  "geometry": {"coordinates":[[[6.71576633973265,7.12197136831215],[6.72006633973263,7.12377136831213],[6.72896633973262,7.12177136831212],[6.7414663397326,7.11947136831215],[6.74446633973257,7.11547136831213],[6.74746633973263,7.10987136831214],[6.74776633973259,7.10567136831218],[6.74706633973258,7.10137136831211],[6.74446633973257,7.09677136831218],[6.74046633973264,7.09377136831211],[6.73596633973263,7.08707136831215],[6.73526633973262,7.0809713683121],[6.73226633973264,7.07237136831214],[6.73226633973264,7.06907136831212],[6.73356633973265,7.0631713683121],[6.73226633973264,7.05857136831217],[6.73426633973256,7.05227136831217],[6.73296633973265,7.04737136831211],[6.73156633973263,7.03937136831215],[6.72146633973264,7.04277136831218],[6.71386633973265,7.04607136831211],[6.70986633973262,7.04767136831215],[6.7059663397326,7.04837136831216],[6.69276633973263,7.04897136831216],[6.6868663397326,7.04997136831212],[6.68386633973262,7.05157136831216],[6.6900663397326,7.0682713683121],[6.71146633973257,7.10467136831213],[6.71576633973265,7.12197136831215]]],"type":"Polygon"}
+}

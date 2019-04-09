@@ -1,0 +1,68 @@
+{
+  "id": 1193260345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.99129,6.86281,3.99129,6.86281",
+    "geom:latitude":6.86281,
+    "geom:longitude":3.99129,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28010.0",
+    "gn:asciiname":"Oke-Olowu",
+    "gn:country_code":"NG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826417,
+    "gn:latitude":6.86281,
+    "gn:longitude":3.99129,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oke-Olowu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826417
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2a82e13979ce488308ec2f0350b98337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563571,
+            "locality_id":1193260345,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1193260345,
+    "wof:lastmodified":1536381559,
+    "wof:name":"Oke-Olowu",
+    "wof:parent_id":1108563571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.99129,
+    6.86281,
+    3.99129,
+    6.86281
+],
+  "geometry": {"coordinates":[3.99129,6.86281],"type":"Point"}
+}

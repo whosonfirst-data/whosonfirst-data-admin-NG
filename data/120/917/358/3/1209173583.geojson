@@ -1,0 +1,62 @@
+{
+  "id": 1209173583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2,7.91667,3.2,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":3.2,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31018.0",
+    "gn:asciiname":"Alagbagba",
+    "gn:country_code":"NG",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350700,
+    "gn:latitude":7.91667,
+    "gn:longitude":3.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alagbagba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350700
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0753efa384c2b46ab9d30629a5bd3ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209173583
+        }
+    ],
+    "wof:id":1209173583,
+    "wof:lastmodified":1536295499,
+    "wof:name":"Alagbagba",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2,
+    7.91667,
+    3.2,
+    7.91667
+],
+  "geometry": {"coordinates":[3.2,7.91667],"type":"Point"}
+}

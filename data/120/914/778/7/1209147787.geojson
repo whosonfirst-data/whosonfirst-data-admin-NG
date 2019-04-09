@@ -1,0 +1,62 @@
+{
+  "id": 1209147787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6932,7.1337,6.6932,7.1337",
+    "geom:latitude":7.1337,
+    "geom:longitude":6.6932,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12008.0",
+    "gn:asciiname":"Agor",
+    "gn:country_code":"NG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351783,
+    "gn:latitude":7.1337,
+    "gn:longitude":6.6932,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351783
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72aab42d2035f111c082ee060691d2d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209147787
+        }
+    ],
+    "wof:id":1209147787,
+    "wof:lastmodified":1536296303,
+    "wof:name":"Agor",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6932,
+    7.1337,
+    6.6932,
+    7.1337
+],
+  "geometry": {"coordinates":[6.6932,7.1337],"type":"Point"}
+}

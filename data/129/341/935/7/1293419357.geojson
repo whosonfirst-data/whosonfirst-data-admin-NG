@@ -1,0 +1,71 @@
+{
+  "id": 1293419357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67506,4.97659,6.67506,4.97659",
+    "geom:latitude":4.97659,
+    "geom:longitude":6.67506,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33002.0",
+    "gn:asciiname":"Ihuama",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826163,
+    "gn:latitude":4.97659,
+    "gn:longitude":6.67506,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ihuama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ehuama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826163
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"63cc27f9bddb0e0c7aeb987433534fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562945,
+            "locality_id":1293419357,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293419357,
+    "wof:lastmodified":1537675406,
+    "wof:name":"Ihuama",
+    "wof:parent_id":1108562945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67506,
+    4.97659,
+    6.67506,
+    4.97659
+],
+  "geometry": {"coordinates":[6.67506,4.97659],"type":"Point"}
+}

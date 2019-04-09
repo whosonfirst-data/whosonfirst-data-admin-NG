@@ -1,0 +1,62 @@
+{
+  "id": 1209258987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.96667,8.46667,11.96667,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":11.96667,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Numvan",
+    "gn:country_code":"NG",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328606,
+    "gn:latitude":8.46667,
+    "gn:longitude":11.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Numvan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328606
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"127a96c09e43721eaa9599a3b8c297e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209258987
+        }
+    ],
+    "wof:id":1209258987,
+    "wof:lastmodified":1536292757,
+    "wof:name":"Numvan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.96667,
+    8.46667,
+    11.96667,
+    8.46667
+],
+  "geometry": {"coordinates":[11.96667,8.46667],"type":"Point"}
+}

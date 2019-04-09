@@ -1,0 +1,71 @@
+{
+  "id": 1243096921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.54339,4.49757,7.54339,4.49757",
+    "geom:latitude":4.49757,
+    "geom:longitude":7.54339,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Minima",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330104,
+    "gn:latitude":4.49757,
+    "gn:longitude":7.54339,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Minima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oku Minima",
+        "Minima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330104
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"70171389094151cf7c66fb0a2189bcab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564199,
+            "locality_id":1243096921,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1243096921,
+    "wof:lastmodified":1537675091,
+    "wof:name":"Minima",
+    "wof:parent_id":1108564199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.54339,
+    4.49757,
+    7.54339,
+    4.49757
+],
+  "geometry": {"coordinates":[7.54339,4.49757],"type":"Point"}
+}

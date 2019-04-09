@@ -1,0 +1,63 @@
+{
+  "id": 1209662827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.32878,11.72981,13.32878,11.72981",
+    "geom:latitude":11.72981,
+    "geom:longitude":13.32878,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"113",
+    "gn:admin3_code":"11302",
+    "gn:asciiname":"Kambari",
+    "gn:country_code":"NG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10298385,
+    "gn:latitude":11.72981,
+    "gn:longitude":13.32878,
+    "gn:modification_date":"2015-06-01",
+    "gn:name":"Kambari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10298385
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cafcc7ff2c99421e559213f06df9eb5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209662827
+        }
+    ],
+    "wof:id":1209662827,
+    "wof:lastmodified":1536280194,
+    "wof:name":"Kambari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.328779999999998,
+    11.72981,
+    13.328779999999998,
+    11.72981
+],
+  "geometry": {"coordinates":[13.32878,11.72981],"type":"Point"}
+}

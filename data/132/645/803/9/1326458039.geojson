@@ -1,0 +1,68 @@
+{
+  "id": 1326458039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.54492,8.94814,11.54492,8.94814",
+    "geom:latitude":8.94814,
+    "geom:longitude":11.54492,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015.0",
+    "gn:asciiname":"Nyamadi",
+    "gn:country_code":"NG",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328527,
+    "gn:latitude":8.94814,
+    "gn:longitude":11.54492,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nyamadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328527
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f6696ed1e98f193fa808d434852ba6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1326458039,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1326458039,
+    "wof:lastmodified":1537087846,
+    "wof:name":"Nyamadi",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.54492,
+    8.94814,
+    11.54492,
+    8.94814
+],
+  "geometry": {"coordinates":[11.54492,8.94814],"type":"Point"}
+}

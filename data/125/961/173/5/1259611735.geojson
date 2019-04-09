@@ -1,0 +1,71 @@
+{
+  "id": 1259611735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50238,5.73432,7.50238,5.73432",
+    "geom:latitude":5.73432,
+    "geom:longitude":7.50238,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1008.0",
+    "gn:asciiname":"Mbalano",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2330429,
+    "gn:latitude":5.73432,
+    "gn:longitude":7.50238,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbalano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nbalano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108563691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330429
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36669695e97f0682f5d2c5aa70f74d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563691,
+            "locality_id":1259611735,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1259611735,
+    "wof:lastmodified":1537675095,
+    "wof:name":"Mbalano",
+    "wof:parent_id":1108563691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50238,
+    5.73432,
+    7.50238,
+    5.73432
+],
+  "geometry": {"coordinates":[7.50238,5.73432],"type":"Point"}
+}

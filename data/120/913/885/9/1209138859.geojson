@@ -1,0 +1,62 @@
+{
+  "id": 1209138859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.07229,9.94533,7.07229,9.94533",
+    "geom:latitude":9.94533,
+    "geom:longitude":7.07229,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018",
+    "gn:asciiname":"Paiko",
+    "gn:country_code":"NG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10452534,
+    "gn:latitude":9.94533,
+    "gn:longitude":7.07229,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paiko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10452534
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0b25fba566864b131353d3fbc7f6c0b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138859
+        }
+    ],
+    "wof:id":1209138859,
+    "wof:lastmodified":1536296571,
+    "wof:name":"Paiko",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07229,
+    9.94533,
+    7.07229,
+    9.94533
+],
+  "geometry": {"coordinates":[7.07229,9.94533],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242906601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.89099,12.93936,10.89099,12.93936",
+    "geom:latitude":12.93936,
+    "geom:longitude":10.89099,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"710.0",
+    "gn:admin3_code":"71001",
+    "gn:asciiname":"Adamri",
+    "gn:country_code":"NG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352601,
+    "gn:latitude":12.93936,
+    "gn:longitude":10.89099,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adamri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352601
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e9e86fd81101468b09b6f303b6295e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563779,
+            "locality_id":1242906601,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1242906601,
+    "wof:lastmodified":1537083700,
+    "wof:name":"Adamri",
+    "wof:parent_id":1108563779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.89099,
+    12.93936,
+    10.89099,
+    12.93936
+],
+  "geometry": {"coordinates":[10.89099,12.93936],"type":"Point"}
+}

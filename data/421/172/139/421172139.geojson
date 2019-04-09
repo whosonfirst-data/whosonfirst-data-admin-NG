@@ -1,0 +1,82 @@
+{
+  "id": 421172139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31161,6.26374,6.31161,6.26374",
+    "geom:latitude":6.26374,
+    "geom:longitude":6.31161,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Umunede"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2320417,
+    "qs:gn_pop":8331,
+    "qs:name":"Umunede",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Delta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1298103,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1407812,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320417,
+        "gp:id":1407812,
+        "qs:id":1298103
+    },
+    "wof:country":"NG",
+    "wof:created":1459008921,
+    "wof:geomhash":"bfe57c01f2e4236c23cb474686478cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563583,
+            "locality_id":421172139,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":421172139,
+    "wof:lastmodified":1505340609,
+    "wof:name":"Umunede",
+    "wof:parent_id":1108563583,
+    "wof:placetype":"locality",
+    "wof:population":8331,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31161,
+    6.26374,
+    6.31161,
+    6.26374
+],
+  "geometry": {"coordinates":[6.31161,6.26374],"type":"Point"}
+}

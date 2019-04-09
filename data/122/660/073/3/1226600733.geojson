@@ -1,0 +1,73 @@
+{
+  "id": 1226600733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26875,11.20055,8.26875,11.20055",
+    "geom:latitude":11.20055,
+    "geom:longitude":8.26875,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19005.0",
+    "gn:admin3_code":"KD0502",
+    "gn:asciiname":"Gidan Galadima",
+    "gn:country_code":"NG",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341032,
+    "gn:latitude":11.20055,
+    "gn:longitude":8.26875,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Galadima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galadima",
+        "Gidan Galadima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341032
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"015c0464f5e314bdcc5016f270d27959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563589,
+            "locality_id":1226600733,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1226600733,
+    "wof:lastmodified":1537675241,
+    "wof:name":"Gidan Galadima",
+    "wof:parent_id":1108563589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26875,
+    11.20055,
+    8.26875,
+    11.20055
+],
+  "geometry": {"coordinates":[8.26875,11.20055],"type":"Point"}
+}

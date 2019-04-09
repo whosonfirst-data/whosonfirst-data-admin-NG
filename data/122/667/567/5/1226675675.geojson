@@ -1,0 +1,72 @@
+{
+  "id": 1226675675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.42664,10.1091,5.42664,10.1091",
+    "geom:latitude":10.1091,
+    "geom:longitude":5.42664,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27016.0",
+    "gn:asciiname":"Kabogi",
+    "gn:country_code":"NG",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335825,
+    "gn:latitude":10.1091,
+    "gn:longitude":5.42664,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kabogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaboji",
+        "Kabogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5271a2ce002e23e78c1446059a839ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563955,
+            "locality_id":1226675675,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226675675,
+    "wof:lastmodified":1537675161,
+    "wof:name":"Kabogi",
+    "wof:parent_id":1108563955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42664,
+    10.1091,
+    5.42664,
+    10.1091
+],
+  "geometry": {"coordinates":[5.42664,10.1091],"type":"Point"}
+}

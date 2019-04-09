@@ -1,0 +1,68 @@
+{
+  "id": 1226501071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.62681,5.00559,7.62681,5.00559",
+    "geom:latitude":5.00559,
+    "geom:longitude":7.62681,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3006.0",
+    "gn:asciiname":"Ikot Isemin",
+    "gn:country_code":"NG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075276,
+    "gn:latitude":5.00559,
+    "gn:longitude":7.62681,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Isemin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075276
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a75c38e915f9794a94681acf414ad378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563337,
+            "locality_id":1226501071,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1226501071,
+    "wof:lastmodified":1537059944,
+    "wof:name":"Ikot Isemin",
+    "wof:parent_id":1108563337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.62681,
+    5.00559,
+    7.62681,
+    5.00559
+],
+  "geometry": {"coordinates":[7.62681,5.00559],"type":"Point"}
+}

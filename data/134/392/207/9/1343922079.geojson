@@ -1,0 +1,68 @@
+{
+  "id": 1343922079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.627,5.19149,7.627,5.19149",
+    "geom:latitude":5.19149,
+    "geom:longitude":7.627,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3022.0",
+    "gn:asciiname":"Ikot Mboho",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074058,
+    "gn:latitude":5.19149,
+    "gn:longitude":7.627,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Mboho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074058
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"35933ff2323e5f93c1d7a5e12321f6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564079,
+            "locality_id":1343922079,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1343922079,
+    "wof:lastmodified":1537072405,
+    "wof:name":"Ikot Mboho",
+    "wof:parent_id":1108564079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.627,
+    5.19149,
+    7.627,
+    5.19149
+],
+  "geometry": {"coordinates":[7.627,5.19149],"type":"Point"}
+}

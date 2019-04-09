@@ -1,0 +1,72 @@
+{
+  "id": 1226471873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38764,12.18399,10.38764,12.18399",
+    "geom:latitude":12.18399,
+    "geom:longitude":10.38764,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5007.0",
+    "gn:admin3_code":"BA0715",
+    "gn:asciiname":"Karganemi",
+    "gn:country_code":"NG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352714,
+    "gn:latitude":12.18399,
+    "gn:longitude":10.38764,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karganemi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abusta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352714
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"50b111ba861597384ecffb289b073959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564553,
+            "locality_id":1226471873,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1226471873,
+    "wof:lastmodified":1537675394,
+    "wof:name":"Karganemi",
+    "wof:parent_id":1108564553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38764,
+    12.18399,
+    10.38764,
+    12.18399
+],
+  "geometry": {"coordinates":[10.38764,12.18399],"type":"Point"}
+}

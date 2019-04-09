@@ -1,0 +1,70 @@
+{
+  "id": 1242630857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.06034,9.13365,12.06034,9.13365",
+    "geom:latitude":9.13365,
+    "geom:longitude":12.06034,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Gowoi",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189858,
+    "gn:latitude":9.13365,
+    "gn:longitude":12.06034,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gowoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gowoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189858
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e710428b2dfe4c37bc0a7d71ec4cc0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1242630857,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1242630857,
+    "wof:lastmodified":1537675491,
+    "wof:name":"Gowoi",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.06034,
+    9.13365,
+    12.06034,
+    9.13365
+],
+  "geometry": {"coordinates":[12.06034,9.13365],"type":"Point"}
+}

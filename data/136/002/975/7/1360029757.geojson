@@ -1,0 +1,70 @@
+{
+  "id": 1360029757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20275,9.25083,12.20275,9.25083",
+    "geom:latitude":9.25083,
+    "geom:longitude":12.20275,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kalanjanga",
+    "gn:country_code":"NG",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189755,
+    "gn:latitude":9.25083,
+    "gn:longitude":12.20275,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kalanjanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalanjanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189755
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"702482b883698d1075281fb138a11f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1360029757,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1360029757,
+    "wof:lastmodified":1537675487,
+    "wof:name":"Kalanjanga",
+    "wof:parent_id":1108564541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20275,
+    9.25083,
+    12.20275,
+    9.25083
+],
+  "geometry": {"coordinates":[12.20275,9.25083],"type":"Point"}
+}

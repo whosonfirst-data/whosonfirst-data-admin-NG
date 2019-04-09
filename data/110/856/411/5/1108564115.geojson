@@ -1,0 +1,87 @@
+{
+  "id": 1108564115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005565,
+    "geom:area_square_m":68128947.197885,
+    "geom:bbox":"4.18196633973,8.04307136831,4.30736633973,8.11727136831",
+    "geom:latitude":8.077246,
+    "geom:longitude":4.235396,
+    "iso:country":"NG",
+    "lbl:latitude":8.082699,
+    "lbl:longitude":4.222856,
+    "meso:adm1_name":"Oyo",
+    "meso:diss_me":"Ogbomosho SouthOyo",
+    "meso:gadm_admin":"Ogbomosho South",
+    "meso:gaul_admin":"Ogbomoso",
+    "meso:hasc_id":"NO DATA",
+    "meso:mps_x":4.222856,
+    "meso:mps_y":8.082699,
+    "meso:name_local":"Ogbomosho South",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":8.082699,
+    "mps:longitude":4.222856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ogbmosho South"
+    ],
+    "name:eng_x_variant":[
+        "Ogbomoso",
+        "Ogbomosho South"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"68.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Arowomole",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.OY",
+    "statoids:name":"Ogbmosho South",
+    "statoids:population":"100815",
+    "statoids:statoid":"NG.OY.OS",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"NG",
+    "wof:created":1474057969,
+    "wof:geomhash":"fddc1359d6287a32a7341c02978612d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564115,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1108564115,
+    "wof:lastmodified":1505431412,
+    "wof:name":"Ogbomosho South",
+    "wof:parent_id":85675371,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":100815,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.18196633973259,
+    8.04307136831211,
+    4.30736633973262,
+    8.11727136831218
+],
+  "geometry": {"coordinates":[[[4.18686633973257,8.11727136831218],[4.19576633973256,8.11577136831215],[4.21206633973262,8.11367136831212],[4.23246633973263,8.11237136831211],[4.23926633973261,8.10757136831215],[4.24876633973261,8.09397136831212],[4.25556633973257,8.08857136831216],[4.26986633973262,8.08587136831214],[4.28006633973263,8.08107136831218],[4.30046633973264,8.06817136831215],[4.30736633973262,8.06377136831216],[4.29296633973265,8.04987136831217],[4.28476633973257,8.04647136831214],[4.2779663397326,8.0436713683121],[4.26306633973265,8.04307136831211],[4.24066633973263,8.04777136831214],[4.21956633973261,8.05327136831211],[4.18436633973257,8.06837136831218],[4.18316633973258,8.08487136831218],[4.18196633973259,8.10607136831212],[4.18686633973257,8.11727136831218]]],"type":"Polygon"}
+}

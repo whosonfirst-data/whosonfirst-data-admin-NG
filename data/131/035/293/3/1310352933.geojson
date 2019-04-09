@@ -1,0 +1,68 @@
+{
+  "id": 1310352933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57441,7.95468,8.57441,7.95468",
+    "geom:latitude":7.95468,
+    "geom:longitude":8.57441,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7006.0",
+    "gn:asciiname":"Chivir",
+    "gn:country_code":"NG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345978,
+    "gn:latitude":7.95468,
+    "gn:longitude":8.57441,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chivir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345978
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aacf55c7a3b93fa38b49ac63d71c5518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563445,
+            "locality_id":1310352933,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1310352933,
+    "wof:lastmodified":1536638581,
+    "wof:name":"Chivir",
+    "wof:parent_id":1108563445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57441,
+    7.95468,
+    8.57441,
+    7.95468
+],
+  "geometry": {"coordinates":[8.57441,7.95468],"type":"Point"}
+}

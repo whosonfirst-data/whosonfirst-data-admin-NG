@@ -1,0 +1,62 @@
+{
+  "id": 1209135397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4871,8.76355,11.4871,8.76355",
+    "geom:latitude":8.76355,
+    "geom:longitude":11.4871,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015.0",
+    "gn:asciiname":"Tazarang",
+    "gn:country_code":"NG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322281,
+    "gn:latitude":8.76355,
+    "gn:longitude":11.4871,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tazarang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322281
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba772ed5b893408843005f73b22867d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209135397
+        }
+    ],
+    "wof:id":1209135397,
+    "wof:lastmodified":1536296676,
+    "wof:name":"Tazarang",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4871,
+    8.76355,
+    11.4871,
+    8.76355
+],
+  "geometry": {"coordinates":[11.4871,8.76355],"type":"Point"}
+}

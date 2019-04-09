@@ -1,0 +1,74 @@
+{
+  "id": 1310148821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.50253,6.45347,6.50253,6.45347",
+    "geom:latitude":6.45347,
+    "geom:longitude":6.50253,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10001.0",
+    "gn:asciiname":"Ubulubu",
+    "gn:country_code":"NG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321009,
+    "gn:latitude":6.45347,
+    "gn:longitude":6.50253,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ubulubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ubulubu"
+    ],
+    "name:eng_x_variant":[
+        "Uburubu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321009
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8b1dff4f5e1a971a862392745cc2a192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563011,
+            "locality_id":1310148821,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1310148821,
+    "wof:lastmodified":1537674960,
+    "wof:name":"Ubulubu",
+    "wof:parent_id":1108563011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.50253,
+    6.45347,
+    6.50253,
+    6.45347
+],
+  "geometry": {"coordinates":[6.50253,6.45347],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276692407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.09878,9.03841,6.09878,9.03841",
+    "geom:latitude":9.03841,
+    "geom:longitude":6.09878,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007.0",
+    "gn:asciiname":"Mana",
+    "gn:country_code":"NG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330967,
+    "gn:latitude":9.03841,
+    "gn:longitude":6.09878,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330967
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b4abf25bb789f0208f6c51ce14c36915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1276692407,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276692407,
+    "wof:lastmodified":1536794815,
+    "wof:name":"Mana",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.09878,
+    9.03841,
+    6.09878,
+    9.03841
+],
+  "geometry": {"coordinates":[6.09878,9.03841],"type":"Point"}
+}

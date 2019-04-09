@@ -1,0 +1,66 @@
+{
+  "id": 1209443447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2472,4.30641,6.2472,4.30641",
+    "geom:latitude":4.30641,
+    "geom:longitude":6.2472,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6001.0",
+    "gn:asciiname":"Spiff's Town",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322840,
+    "gn:latitude":4.30641,
+    "gn:longitude":6.2472,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Spiff\u2019s Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbobokiri",
+        "Spiff\u2019s Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322840
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"966ea330676e9f8e9b63d1cf520f63a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443447
+        }
+    ],
+    "wof:id":1209443447,
+    "wof:lastmodified":1537674982,
+    "wof:name":"Spiff's Town",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2472,
+    4.30641,
+    6.2472,
+    4.30641
+],
+  "geometry": {"coordinates":[6.2472,4.30641],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360217659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58685,10.85439,10.58685,10.85439",
+    "geom:latitude":10.85439,
+    "geom:longitude":10.58685,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Bogurum",
+    "gn:country_code":"NG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346910,
+    "gn:latitude":10.85439,
+    "gn:longitude":10.58685,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bogurum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bogurum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346910
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"381148dd663fa360ca88a6f6634838a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1360217659,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1360217659,
+    "wof:lastmodified":1537675327,
+    "wof:name":"Bogurum",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58685,
+    10.85439,
+    10.58685,
+    10.85439
+],
+  "geometry": {"coordinates":[10.58685,10.85439],"type":"Point"}
+}

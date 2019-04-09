@@ -1,0 +1,68 @@
+{
+  "id": 1209545141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.53163,9.06927,11.53163,9.06927",
+    "geom:latitude":9.06927,
+    "geom:longitude":11.53163,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015.0",
+    "gn:asciiname":"Gada",
+    "gn:country_code":"NG",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341825,
+    "gn:latitude":9.06927,
+    "gn:longitude":11.53163,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Gada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gada"
+    ],
+    "name:eng_x_variant":[
+        "Garin Kunini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"88a25c4516ecff2e613db61d25f44d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545141
+        }
+    ],
+    "wof:id":1209545141,
+    "wof:lastmodified":1537675255,
+    "wof:name":"Gada",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.53163,
+    9.06927,
+    11.53163,
+    9.06927
+],
+  "geometry": {"coordinates":[11.53163,9.06927],"type":"Point"}
+}

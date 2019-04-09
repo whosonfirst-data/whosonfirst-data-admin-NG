@@ -1,0 +1,72 @@
+{
+  "id": 1310332953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38151,13.0851,5.38151,13.0851",
+    "geom:latitude":13.0851,
+    "geom:longitude":5.38151,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61208",
+    "gn:asciiname":"Raba",
+    "gn:country_code":"NG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7016089,
+    "gn:latitude":13.0851,
+    "gn:longitude":5.38151,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Raba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:sah_x_preferred":[
+        "Raba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016089
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cb2b0461baf3fe1b84ed24ace0700bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564289,
+            "locality_id":1310332953,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1310332953,
+    "wof:lastmodified":1537675414,
+    "wof:name":"Raba",
+    "wof:parent_id":1108564289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38151,
+    13.0851,
+    5.38151,
+    13.0851
+],
+  "geometry": {"coordinates":[5.38151,13.0851],"type":"Point"}
+}

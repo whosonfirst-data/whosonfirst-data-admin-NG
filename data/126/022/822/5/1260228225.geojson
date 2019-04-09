@@ -1,0 +1,73 @@
+{
+  "id": 1260228225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16538,10.56474,12.16538,10.56474",
+    "geom:latitude":10.56474,
+    "geom:longitude":12.16538,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11211",
+    "gn:asciiname":"Hyama",
+    "gn:country_code":"NG",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339378,
+    "gn:latitude":10.56474,
+    "gn:longitude":12.16538,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hayama",
+        "Hyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339378
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"06db3b44046a72166b490e63c280e0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1260228225,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1260228225,
+    "wof:lastmodified":1537675214,
+    "wof:name":"Hyama",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16538,
+    10.56474,
+    12.16538,
+    10.56474
+],
+  "geometry": {"coordinates":[12.16538,10.56474],"type":"Point"}
+}

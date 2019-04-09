@@ -1,0 +1,67 @@
+{
+  "id": 1225974021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.79106,12.13178,4.79106,12.13178",
+    "geom:latitude":12.13178,
+    "geom:longitude":4.79106,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Kunkuru",
+    "gn:country_code":"NG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040258,
+    "gn:latitude":12.13178,
+    "gn:longitude":4.79106,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kunkuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040258
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5007eacd92770e713d1e3d2b2b1fdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563809,
+            "locality_id":1225974021,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1225974021,
+    "wof:lastmodified":1536827713,
+    "wof:name":"Kunkuru",
+    "wof:parent_id":1108563809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.79106,
+    12.13178,
+    4.79106,
+    12.13178
+],
+  "geometry": {"coordinates":[4.79106,12.13178],"type":"Point"}
+}

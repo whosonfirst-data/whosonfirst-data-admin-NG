@@ -1,0 +1,68 @@
+{
+  "id": 1343407045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83333,8.45,4.83333,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":4.83333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24005.0",
+    "gn:asciiname":"Okenijo",
+    "gn:country_code":"NG",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327219,
+    "gn:latitude":8.45,
+    "gn:longitude":4.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okenijo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327219
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa1722d00c49bee56925bd8fd26adba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563545,
+            "locality_id":1343407045,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1343407045,
+    "wof:lastmodified":1536822472,
+    "wof:name":"Okenijo",
+    "wof:parent_id":1108563545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83333,
+    8.45,
+    4.83333,
+    8.45
+],
+  "geometry": {"coordinates":[4.83333,8.45],"type":"Point"}
+}

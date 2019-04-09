@@ -1,0 +1,68 @@
+{
+  "id": 1310445935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.95891,8.68447,11.95891,8.68447",
+    "geom:latitude":8.68447,
+    "geom:longitude":11.95891,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Mbagari",
+    "gn:country_code":"NG",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330450,
+    "gn:latitude":8.68447,
+    "gn:longitude":11.95891,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbagari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330450
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd899363cdde9bc86cad9e64148ecc9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1310445935,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310445935,
+    "wof:lastmodified":1537002124,
+    "wof:name":"Mbagari",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.95891,
+    8.68447,
+    11.95891,
+    8.68447
+],
+  "geometry": {"coordinates":[11.95891,8.68447],"type":"Point"}
+}

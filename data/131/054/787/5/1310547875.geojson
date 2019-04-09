@@ -1,0 +1,67 @@
+{
+  "id": 1310547875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71143,12.50992,8.71143,12.50992",
+    "geom:latitude":12.50992,
+    "geom:longitude":8.71143,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kundo",
+    "gn:country_code":"NG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333389,
+    "gn:latitude":12.50992,
+    "gn:longitude":8.71143,
+    "gn:modification_date":"2009-02-02",
+    "gn:name":"Kundo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333389
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7d202e705efb5f62b0d179e90961e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1310547875,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1310547875,
+    "wof:lastmodified":1536854722,
+    "wof:name":"Kundo",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71143,
+    12.50992,
+    8.71143,
+    12.50992
+],
+  "geometry": {"coordinates":[8.71143,12.50992],"type":"Point"}
+}

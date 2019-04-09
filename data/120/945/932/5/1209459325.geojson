@@ -1,0 +1,63 @@
+{
+  "id": 1209459325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.54621,9.36526,12.54621,9.36526",
+    "geom:latitude":9.36526,
+    "geom:longitude":12.54621,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Girei",
+    "gn:country_code":"NG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2340618,
+    "gn:latitude":9.36526,
+    "gn:longitude":12.54621,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Girei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340618,
+        "wk:page":"Girei"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"18de52f61449189ae6a400c20206b6c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209459325
+        }
+    ],
+    "wof:id":1209459325,
+    "wof:lastmodified":1537570008,
+    "wof:name":"Girei",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54621,
+    9.36526,
+    12.54621,
+    9.36526
+],
+  "geometry": {"coordinates":[12.54621,9.36526],"type":"Point"}
+}

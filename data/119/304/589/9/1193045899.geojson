@@ -1,0 +1,67 @@
+{
+  "id": 1193045899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01807,11.25845,6.01807,11.25845",
+    "geom:latitude":11.25845,
+    "geom:longitude":6.01807,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Jampali",
+    "gn:country_code":"NG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040097,
+    "gn:latitude":11.25845,
+    "gn:longitude":6.01807,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Jampali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040097
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"539de40d12341b029ce140cea2f199f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563953,
+            "locality_id":1193045899,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1193045899,
+    "wof:lastmodified":1536371004,
+    "wof:name":"Jampali",
+    "wof:parent_id":1108563953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01807,
+    11.25845,
+    6.01807,
+    11.25845
+],
+  "geometry": {"coordinates":[6.01807,11.25845],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243306627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9554,5.87958,5.9554,5.87958",
+    "geom:latitude":5.87958,
+    "geom:longitude":5.9554,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Orogho",
+    "gn:country_code":"NG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325708,
+    "gn:latitude":5.87958,
+    "gn:longitude":5.9554,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Orogho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Orogho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325708
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c5514be97d6310c21a467a330bce8ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1243306627,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243306627,
+    "wof:lastmodified":1537675020,
+    "wof:name":"Orogho",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9554,
+    5.87958,
+    5.9554,
+    5.87958
+],
+  "geometry": {"coordinates":[5.9554,5.87958],"type":"Point"}
+}

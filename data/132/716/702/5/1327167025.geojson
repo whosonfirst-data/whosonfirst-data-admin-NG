@@ -1,0 +1,69 @@
+{
+  "id": 1327167025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20053,12.47908,6.20053,12.47908",
+    "geom:latitude":12.47908,
+    "geom:longitude":6.20053,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80902",
+    "gn:asciiname":"Gidan Biza",
+    "gn:country_code":"NG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341105,
+    "gn:latitude":12.47908,
+    "gn:longitude":6.20053,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Biza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341105
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"625f72cff0d08dd940ded2451135a15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563945,
+            "locality_id":1327167025,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1327167025,
+    "wof:lastmodified":1537061329,
+    "wof:name":"Gidan Biza",
+    "wof:parent_id":1108563945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20053,
+    12.47908,
+    6.20053,
+    12.47908
+],
+  "geometry": {"coordinates":[6.20053,12.47908],"type":"Point"}
+}

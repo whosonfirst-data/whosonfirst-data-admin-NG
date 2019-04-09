@@ -1,0 +1,68 @@
+{
+  "id": 1226076299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58548,9.51701,6.58548,9.51701",
+    "geom:latitude":9.51701,
+    "geom:longitude":6.58548,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019",
+    "gn:asciiname":"Shamasu",
+    "gn:country_code":"NG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410413,
+    "gn:latitude":9.51701,
+    "gn:longitude":6.58548,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shamasu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410413
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4d61fdae37e2759dbace04136e4ccd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1226076299,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226076299,
+    "wof:lastmodified":1536681212,
+    "wof:name":"Shamasu",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58548,
+    9.51701,
+    6.58548,
+    9.51701
+],
+  "geometry": {"coordinates":[6.58548,9.51701],"type":"Point"}
+}

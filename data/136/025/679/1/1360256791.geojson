@@ -1,0 +1,68 @@
+{
+  "id": 1360256791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.94144,6.95463,3.94144,6.95463",
+    "geom:latitude":6.95463,
+    "geom:longitude":3.94144,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28009.0",
+    "gn:asciiname":"Ilaporu",
+    "gn:country_code":"NG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826424,
+    "gn:latitude":6.95463,
+    "gn:longitude":3.94144,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ilaporu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826424
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2a0321cf242d863a4d979d07b0e6d0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563573,
+            "locality_id":1360256791,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1360256791,
+    "wof:lastmodified":1536698276,
+    "wof:name":"Ilaporu",
+    "wof:parent_id":1108563573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.94144,
+    6.95463,
+    3.94144,
+    6.95463
+],
+  "geometry": {"coordinates":[3.94144,6.95463],"type":"Point"}
+}

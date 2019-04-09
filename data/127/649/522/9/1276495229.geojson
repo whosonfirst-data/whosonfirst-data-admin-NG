@@ -1,0 +1,73 @@
+{
+  "id": 1276495229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31667,8.78333,5.31667,8.78333",
+    "geom:latitude":8.78333,
+    "geom:longitude":5.31667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24003.0",
+    "gn:asciiname":"Warihu",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319145,
+    "gn:latitude":8.78333,
+    "gn:longitude":5.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Warihu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wareku",
+        "Warihu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319145
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"97e9bbd384378bd406a2e8bcf51cc16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563265,
+            "locality_id":1276495229,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1276495229,
+    "wof:lastmodified":1537674914,
+    "wof:name":"Warihu",
+    "wof:parent_id":1108563265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31667,
+    8.78333,
+    5.31667,
+    8.78333
+],
+  "geometry": {"coordinates":[5.31667,8.78333],"type":"Point"}
+}

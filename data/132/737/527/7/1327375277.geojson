@@ -1,0 +1,68 @@
+{
+  "id": 1327375277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.83417,7.72,3.83417,7.72",
+    "geom:latitude":7.72,
+    "geom:longitude":3.83417,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31001.0",
+    "gn:asciiname":"Lakanpo",
+    "gn:country_code":"NG",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591389,
+    "gn:latitude":7.72,
+    "gn:longitude":3.83417,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lakanpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591389
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e7fee3813a0cf642b8da906bf2c70631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562925,
+            "locality_id":1327375277,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1327375277,
+    "wof:lastmodified":1536763558,
+    "wof:name":"Lakanpo",
+    "wof:parent_id":1108562925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.83417,
+    7.72,
+    3.83417,
+    7.72
+],
+  "geometry": {"coordinates":[3.83417,7.72],"type":"Point"}
+}

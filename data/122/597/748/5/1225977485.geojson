@@ -1,0 +1,73 @@
+{
+  "id": 1225977485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.38923,11.26203,6.38923,11.26203",
+    "geom:latitude":11.26203,
+    "geom:longitude":6.38923,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81007",
+    "gn:asciiname":"Sabongari",
+    "gn:country_code":"NG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324107,
+    "gn:latitude":11.26203,
+    "gn:longitude":6.38923,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sabongari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabongeri",
+        "Sabongari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324107
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d6360a3d68c52049bd3b824eb3426254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563953,
+            "locality_id":1225977485,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1225977485,
+    "wof:lastmodified":1537674997,
+    "wof:name":"Sabongari",
+    "wof:parent_id":1108563953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.38923,
+    11.26203,
+    6.38923,
+    11.26203
+],
+  "geometry": {"coordinates":[6.38923,11.26203],"type":"Point"}
+}

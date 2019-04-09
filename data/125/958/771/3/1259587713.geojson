@@ -1,0 +1,73 @@
+{
+  "id": 1259587713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.79532,6.65628,3.79532,6.65628",
+    "geom:latitude":6.65628,
+    "geom:longitude":3.79532,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25007.0",
+    "gn:asciiname":"Itokin",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337008,
+    "gn:latitude":6.65628,
+    "gn:longitude":3.79532,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Itokin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itawikin",
+        "Itoikin",
+        "Itokin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        1108563313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337008
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fbb66d2f0f0b74f94979bea61e68c07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563313,
+            "locality_id":1259587713,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1259587713,
+    "wof:lastmodified":1537675175,
+    "wof:name":"Itokin",
+    "wof:parent_id":1108563313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.79532,
+    6.65628,
+    3.79532,
+    6.65628
+],
+  "geometry": {"coordinates":[3.79532,6.65628],"type":"Point"}
+}

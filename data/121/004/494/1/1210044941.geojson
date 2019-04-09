@@ -1,0 +1,72 @@
+{
+  "id": 1210044941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68442,10.42571,10.68442,10.42571",
+    "geom:latitude":10.42571,
+    "geom:longitude":10.68442,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1309",
+    "gn:asciiname":"Garin Yolo",
+    "gn:country_code":"NG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028331,
+    "gn:latitude":10.42571,
+    "gn:longitude":10.68442,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garin Yolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Garin Yolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028331
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eddc7977fd9d4321b6e0ef1b09b43295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563819,
+            "locality_id":1210044941,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1210044941,
+    "wof:lastmodified":1537675427,
+    "wof:name":"Garin Yolo",
+    "wof:parent_id":1108563819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68442,
+    10.42571,
+    10.68442,
+    10.42571
+],
+  "geometry": {"coordinates":[10.68442,10.42571],"type":"Point"}
+}

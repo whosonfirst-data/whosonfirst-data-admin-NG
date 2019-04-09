@@ -1,0 +1,68 @@
+{
+  "id": 1293149579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.86152,7.23292,3.86152,7.23292",
+    "geom:latitude":7.23292,
+    "geom:longitude":3.86152,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31025.0",
+    "gn:asciiname":"Idi-Ayunre",
+    "gn:country_code":"NG",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2339082,
+    "gn:latitude":7.23292,
+    "gn:longitude":3.86152,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idi-Ayunre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339082
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7a98bfa9cc11b75ddb930d7e288915bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564177,
+            "locality_id":1293149579,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293149579,
+    "wof:lastmodified":1536777928,
+    "wof:name":"Idi-Ayunre",
+    "wof:parent_id":1108564177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.86152,
+    7.23292,
+    3.86152,
+    7.23292
+],
+  "geometry": {"coordinates":[3.86152,7.23292],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276583395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59134,12.73152,8.59134,12.73152",
+    "geom:latitude":12.73152,
+    "geom:longitude":8.59134,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18019.0",
+    "gn:admin3_code":"JI2704",
+    "gn:asciiname":"Gidan Sabuwa",
+    "gn:country_code":"NG",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340808,
+    "gn:latitude":12.73152,
+    "gn:longitude":8.59134,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Sabuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabuwa",
+        "Gidan Sabuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340808
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8cf3c2838da71e671395b0864d6c82e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564535,
+            "locality_id":1276583395,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1276583395,
+    "wof:lastmodified":1537675233,
+    "wof:name":"Gidan Sabuwa",
+    "wof:parent_id":1108564535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59134,
+    12.73152,
+    8.59134,
+    12.73152
+],
+  "geometry": {"coordinates":[8.59134,12.73152],"type":"Point"}
+}

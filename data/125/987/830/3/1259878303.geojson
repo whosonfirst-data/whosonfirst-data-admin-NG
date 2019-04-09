@@ -1,0 +1,72 @@
+{
+  "id": 1259878303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.00055,6.48665,4.00055,6.48665",
+    "geom:latitude":6.48665,
+    "geom:longitude":4.00055,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25009.0",
+    "gn:asciiname":"Ilumofin",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337615,
+    "gn:latitude":6.48665,
+    "gn:longitude":4.00055,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ilumofin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilumawfin",
+        "Ilumofin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421171305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337615
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ea3ec13dbe4efbda8eec7710cad84b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421171305,
+            "locality_id":1259878303,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1259878303,
+    "wof:lastmodified":1537675186,
+    "wof:name":"Ilumofin",
+    "wof:parent_id":421171305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.00055,
+    6.48665,
+    4.00055,
+    6.48665
+],
+  "geometry": {"coordinates":[4.00055,6.48665],"type":"Point"}
+}

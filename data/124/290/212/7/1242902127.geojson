@@ -1,0 +1,68 @@
+{
+  "id": 1242902127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.62052,10.35188,5.62052,10.35188",
+    "geom:latitude":10.35188,
+    "geom:longitude":5.62052,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27011.0",
+    "gn:asciiname":"Tadali",
+    "gn:country_code":"NG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322666,
+    "gn:latitude":10.35188,
+    "gn:longitude":5.62052,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tadali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322666
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b5e2ea921c4c07b4485f3bdb9c6b47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563841,
+            "locality_id":1242902127,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1242902127,
+    "wof:lastmodified":1537090149,
+    "wof:name":"Tadali",
+    "wof:parent_id":1108563841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.62052,
+    10.35188,
+    5.62052,
+    10.35188
+],
+  "geometry": {"coordinates":[5.62052,10.35188],"type":"Point"}
+}

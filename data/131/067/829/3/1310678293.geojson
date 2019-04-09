@@ -1,0 +1,67 @@
+{
+  "id": 1310678293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.29478,9.2438,7.29478,9.2438",
+    "geom:latitude":9.2438,
+    "geom:longitude":7.29478,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jakoro",
+    "gn:country_code":"NG",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336604,
+    "gn:latitude":9.2438,
+    "gn:longitude":7.29478,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Jakoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336604
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dcbc0311df112938bf57dc987b8d3f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564387,
+            "locality_id":1310678293,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310678293,
+    "wof:lastmodified":1536667719,
+    "wof:name":"Jakoro",
+    "wof:parent_id":1108564387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.29478,
+    9.2438,
+    7.29478,
+    9.2438
+],
+  "geometry": {"coordinates":[7.29478,9.2438],"type":"Point"}
+}

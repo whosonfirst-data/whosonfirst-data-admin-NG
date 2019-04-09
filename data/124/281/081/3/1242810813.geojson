@@ -1,0 +1,67 @@
+{
+  "id": 1242810813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.21761,8.93244,9.21761,8.93244",
+    "geom:latitude":8.93244,
+    "geom:longitude":9.21761,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kopdangloe",
+    "gn:country_code":"NG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11057434,
+    "gn:latitude":8.93244,
+    "gn:longitude":9.21761,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kopdangloe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11057434
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2312075ec77dee388faa693037d72ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564287,
+            "locality_id":1242810813,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1242810813,
+    "wof:lastmodified":1536728240,
+    "wof:name":"Kopdangloe",
+    "wof:parent_id":1108564287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.21761,
+    8.93244,
+    9.21761,
+    8.93244
+],
+  "geometry": {"coordinates":[9.21761,8.93244],"type":"Point"}
+}

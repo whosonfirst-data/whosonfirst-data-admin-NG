@@ -1,0 +1,72 @@
+{
+  "id": 1226175613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64714,9.55346,6.64714,9.55346",
+    "geom:latitude":9.55346,
+    "geom:longitude":6.64714,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27005.0",
+    "gn:asciiname":"Marikishi",
+    "gn:country_code":"NG",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330768,
+    "gn:latitude":9.55346,
+    "gn:longitude":6.64714,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Marikishi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabon Gida",
+        "Marikishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330768
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"449842ff3f7083549bd324e78a4f4fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563157,
+            "locality_id":1226175613,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226175613,
+    "wof:lastmodified":1537675099,
+    "wof:name":"Marikishi",
+    "wof:parent_id":1108563157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64714,
+    9.55346,
+    6.64714,
+    9.55346
+],
+  "geometry": {"coordinates":[6.64714,9.55346],"type":"Point"}
+}

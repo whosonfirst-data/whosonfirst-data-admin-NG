@@ -1,0 +1,62 @@
+{
+  "id": 1209241227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32222,8.11,7.32222,8.11",
+    "geom:latitude":8.11,
+    "geom:longitude":7.32222,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26012.0",
+    "gn:asciiname":"Shege",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323281,
+    "gn:latitude":8.11,
+    "gn:longitude":7.32222,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323281
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a0760039e3148a0f9b82773b3062f4b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241227
+        }
+    ],
+    "wof:id":1209241227,
+    "wof:lastmodified":1536293314,
+    "wof:name":"Shege",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32222,
+    8.11,
+    7.32222,
+    8.11
+],
+  "geometry": {"coordinates":[7.32222,8.11],"type":"Point"}
+}

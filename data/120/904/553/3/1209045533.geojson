@@ -1,0 +1,64 @@
+{
+  "id": 1209045533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3107,5.92434,5.3107,5.92434",
+    "geom:latitude":5.92434,
+    "geom:longitude":5.3107,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Uba Upasibaba",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121922,
+    "gn:latitude":5.92434,
+    "gn:longitude":5.3107,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Uba Upasibaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uba Upasibaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121922
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7978417667c6768a8a82b6fb43aae0ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209045533
+        }
+    ],
+    "wof:id":1209045533,
+    "wof:lastmodified":1537675476,
+    "wof:name":"Uba Upasibaba",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3107,
+    5.92434,
+    5.3107,
+    5.92434
+],
+  "geometry": {"coordinates":[5.3107,5.92434],"type":"Point"}
+}

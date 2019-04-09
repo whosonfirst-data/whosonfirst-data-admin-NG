@@ -1,0 +1,67 @@
+{
+  "id": 1276913505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.66233,10.91034,4.66233,10.91034",
+    "geom:latitude":10.91034,
+    "geom:longitude":4.66233,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Uzo",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319470,
+    "gn:latitude":10.91034,
+    "gn:longitude":4.66233,
+    "gn:modification_date":"2009-04-20",
+    "gn:name":"Uzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319470
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e5a634d7bcd8d073748c378c03c07a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562941,
+            "locality_id":1276913505,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276913505,
+    "wof:lastmodified":1536995313,
+    "wof:name":"Uzo",
+    "wof:parent_id":1108562941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.66233,
+    10.91034,
+    4.66233,
+    10.91034
+],
+  "geometry": {"coordinates":[4.66233,10.91034],"type":"Point"}
+}

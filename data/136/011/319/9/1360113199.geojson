@@ -1,0 +1,71 @@
+{
+  "id": 1360113199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.27079,9.50233,9.27079,9.50233",
+    "geom:latitude":9.50233,
+    "geom:longitude":9.27079,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32011.0",
+    "gn:asciiname":"Gennaret",
+    "gn:country_code":"NG",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341268,
+    "gn:latitude":9.50233,
+    "gn:longitude":9.27079,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Gennaret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gennaret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341268
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d3bee471edd771f564dc13122f64ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563941,
+            "locality_id":1360113199,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1360113199,
+    "wof:lastmodified":1537675248,
+    "wof:name":"Gennaret",
+    "wof:parent_id":1108563941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.27079,
+    9.50233,
+    9.27079,
+    9.50233
+],
+  "geometry": {"coordinates":[9.27079,9.50233],"type":"Point"}
+}

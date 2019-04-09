@@ -1,0 +1,68 @@
+{
+  "id": 1360117779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69172,8.83511,9.69172,8.83511",
+    "geom:latitude":8.83511,
+    "geom:longitude":9.69172,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Bugata",
+    "gn:country_code":"NG",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10923396,
+    "gn:latitude":8.83511,
+    "gn:longitude":9.69172,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bugata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10923396
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f362025a75d1eb3f3f49a69cb485b788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1360117779,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1360117779,
+    "wof:lastmodified":1536898504,
+    "wof:name":"Bugata",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69172,
+    8.83511,
+    9.69172,
+    8.83511
+],
+  "geometry": {"coordinates":[9.69172,8.83511],"type":"Point"}
+}

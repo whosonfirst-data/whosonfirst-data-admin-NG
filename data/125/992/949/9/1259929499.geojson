@@ -1,0 +1,68 @@
+{
+  "id": 1259929499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3,8.63333,4.3,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":4.3,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Olumo",
+    "gn:country_code":"NG",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326315,
+    "gn:latitude":8.63333,
+    "gn:longitude":4.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326315
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"21c353f600f0acec2d04b4f811bd0e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563033,
+            "locality_id":1259929499,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1259929499,
+    "wof:lastmodified":1536713361,
+    "wof:name":"Olumo",
+    "wof:parent_id":1108563033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3,
+    8.63333,
+    4.3,
+    8.63333
+],
+  "geometry": {"coordinates":[4.3,8.63333],"type":"Point"}
+}

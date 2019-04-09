@@ -1,0 +1,71 @@
+{
+  "id": 1310628515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86768,9.1974,7.86768,9.1974",
+    "geom:latitude":9.1974,
+    "geom:longitude":7.86768,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004",
+    "gn:asciiname":"Rafin",
+    "gn:country_code":"NG",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641568,
+    "gn:latitude":9.1974,
+    "gn:longitude":7.86768,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rafin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rafin-Pa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641568
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2e164ed92bb06dbefcdd357c0ad524ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563785,
+            "locality_id":1310628515,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1310628515,
+    "wof:lastmodified":1537675471,
+    "wof:name":"Rafin",
+    "wof:parent_id":1108563785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86768,
+    9.1974,
+    7.86768,
+    9.1974
+],
+  "geometry": {"coordinates":[7.86768,9.1974],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242835015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25,8.83333,5.25,8.83333",
+    "geom:latitude":8.83333,
+    "geom:longitude":5.25,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24003.0",
+    "gn:asciiname":"Aruna Kata",
+    "gn:country_code":"NG",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349295,
+    "gn:latitude":8.83333,
+    "gn:longitude":5.25,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aruna Kata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349295
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fab0f00dbb7fe5e9a1fc207cb2445a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563265,
+            "locality_id":1242835015,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1242835015,
+    "wof:lastmodified":1536693248,
+    "wof:name":"Aruna Kata",
+    "wof:parent_id":1108563265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25,
+    8.83333,
+    5.25,
+    8.83333
+],
+  "geometry": {"coordinates":[5.25,8.83333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243330201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.32487,13.13584,13.32487,13.13584",
+    "geom:latitude":13.13584,
+    "geom:longitude":13.32487,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10102",
+    "gn:asciiname":"Kuske",
+    "gn:country_code":"NG",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2333090,
+    "gn:latitude":13.13584,
+    "gn:longitude":13.32487,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuske",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuski"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333090
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"270db692f607a034104fb8a08b44d4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563459,
+            "locality_id":1243330201,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1243330201,
+    "wof:lastmodified":1537675125,
+    "wof:name":"Kuske",
+    "wof:parent_id":1108563459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.32487,
+    13.13584,
+    13.32487,
+    13.13584
+],
+  "geometry": {"coordinates":[13.32487,13.13584],"type":"Point"}
+}

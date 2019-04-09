@@ -1,0 +1,68 @@
+{
+  "id": 1310628655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.72245,7.54029,6.72245,7.54029",
+    "geom:latitude":7.54029,
+    "geom:longitude":6.72245,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23004.0",
+    "gn:asciiname":"Takumena",
+    "gn:country_code":"NG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322550,
+    "gn:latitude":7.54029,
+    "gn:longitude":6.72245,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Takumena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322550
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"047f8299a580eb60f94978e3641a222d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563091,
+            "locality_id":1310628655,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1310628655,
+    "wof:lastmodified":1536739288,
+    "wof:name":"Takumena",
+    "wof:parent_id":1108563091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.72245,
+    7.54029,
+    6.72245,
+    7.54029
+],
+  "geometry": {"coordinates":[6.72245,7.54029],"type":"Point"}
+}

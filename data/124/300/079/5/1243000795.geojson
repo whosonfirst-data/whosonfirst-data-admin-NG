@@ -1,0 +1,68 @@
+{
+  "id": 1243000795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3729,9.67936,6.3729,9.67936",
+    "geom:latitude":9.67936,
+    "geom:longitude":6.3729,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27005",
+    "gn:asciiname":"Kwaiyi",
+    "gn:country_code":"NG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10336952,
+    "gn:latitude":9.67936,
+    "gn:longitude":6.3729,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwaiyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10336952
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"17135c0d65378648f266c275cf729690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563157,
+            "locality_id":1243000795,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243000795,
+    "wof:lastmodified":1536951398,
+    "wof:name":"Kwaiyi",
+    "wof:parent_id":1108563157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3729,
+    9.67936,
+    6.3729,
+    9.67936
+],
+  "geometry": {"coordinates":[6.3729,9.67936],"type":"Point"}
+}

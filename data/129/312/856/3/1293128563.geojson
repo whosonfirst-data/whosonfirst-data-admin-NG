@@ -1,0 +1,72 @@
+{
+  "id": 1293128563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.11789,4.79162,7.11789,4.79162",
+    "geom:latitude":4.79162,
+    "geom:longitude":7.11789,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33009.0",
+    "gn:asciiname":"Aletu",
+    "gn:country_code":"NG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350454,
+    "gn:latitude":4.79162,
+    "gn:longitude":7.11789,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aletu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbolli",
+        "Aletu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350454
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"68fa0db9240fa00b649481bc64546170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563301,
+            "locality_id":1293128563,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293128563,
+    "wof:lastmodified":1537675370,
+    "wof:name":"Aletu",
+    "wof:parent_id":1108563301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.11789,
+    4.79162,
+    7.11789,
+    4.79162
+],
+  "geometry": {"coordinates":[7.11789,4.79162],"type":"Point"}
+}

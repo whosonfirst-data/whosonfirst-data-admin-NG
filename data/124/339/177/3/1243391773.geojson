@@ -1,0 +1,71 @@
+{
+  "id": 1243391773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.68381,9.07079,9.68381,9.07079",
+    "geom:latitude":9.07079,
+    "geom:longitude":9.68381,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32012.0",
+    "gn:asciiname":"Lalin",
+    "gn:country_code":"NG",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332363,
+    "gn:latitude":9.07079,
+    "gn:longitude":9.68381,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Lalin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lalin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332363
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72beccc0172a9dfc9ee5c8028b5bc5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563973,
+            "locality_id":1243391773,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1243391773,
+    "wof:lastmodified":1537675118,
+    "wof:name":"Lalin",
+    "wof:parent_id":1108563973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.68381,
+    9.07079,
+    9.68381,
+    9.07079
+],
+  "geometry": {"coordinates":[9.68381,9.07079],"type":"Point"}
+}

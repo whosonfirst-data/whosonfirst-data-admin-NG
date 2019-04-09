@@ -1,0 +1,67 @@
+{
+  "id": 1209149245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.14378,9.8448,13.14378,9.8448",
+    "geom:latitude":9.8448,
+    "geom:longitude":13.14378,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Budda",
+    "gn:country_code":"NG",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346688,
+    "gn:latitude":9.8448,
+    "gn:longitude":13.14378,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Budda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leinde",
+        "Buda Leinde",
+        "Budda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346688
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7fd1769cc0870227041af220c17aa786",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209149245
+        }
+    ],
+    "wof:id":1209149245,
+    "wof:lastmodified":1537675324,
+    "wof:name":"Budda",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.14378,
+    9.8448,
+    13.14378,
+    9.8448
+],
+  "geometry": {"coordinates":[13.14378,9.8448],"type":"Point"}
+}

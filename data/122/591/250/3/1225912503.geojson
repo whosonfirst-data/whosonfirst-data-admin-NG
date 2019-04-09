@@ -1,0 +1,69 @@
+{
+  "id": 1225912503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.28021,12.93369,8.28021,12.93369",
+    "geom:latitude":12.93369,
+    "geom:longitude":8.28021,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"410.0",
+    "gn:admin3_code":"41002",
+    "gn:asciiname":"Madobi",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974949,
+    "gn:latitude":12.93369,
+    "gn:longitude":8.28021,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Madobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974949
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"adbe0490e635a86372342de541714b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563221,
+            "locality_id":1225912503,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1225912503,
+    "wof:lastmodified":1536918126,
+    "wof:name":"Madobi",
+    "wof:parent_id":1108563221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.28021,
+    12.93369,
+    8.28021,
+    12.93369
+],
+  "geometry": {"coordinates":[8.28021,12.93369],"type":"Point"}
+}

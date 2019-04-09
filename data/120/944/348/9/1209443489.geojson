@@ -1,0 +1,62 @@
+{
+  "id": 1209443489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31667,7.51667,4.31667,7.51667",
+    "geom:latitude":7.51667,
+    "geom:longitude":4.31667,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30001.0",
+    "gn:asciiname":"Majapa",
+    "gn:country_code":"NG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331257,
+    "gn:latitude":7.51667,
+    "gn:longitude":4.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Majapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331257
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"300051e1c99e6d7442dbb7ca8d8401a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443489
+        }
+    ],
+    "wof:id":1209443489,
+    "wof:lastmodified":1536286889,
+    "wof:name":"Majapa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3166699999999985,
+    7.516669999999999,
+    4.3166699999999985,
+    7.516669999999999
+],
+  "geometry": {"coordinates":[4.31667,7.51667],"type":"Point"}
+}

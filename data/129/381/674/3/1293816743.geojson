@@ -1,0 +1,68 @@
+{
+  "id": 1293816743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.90468,7.58036,9.90468,7.58036",
+    "geom:latitude":7.58036,
+    "geom:longitude":9.90468,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012",
+    "gn:asciiname":"Kpande",
+    "gn:country_code":"NG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532392,
+    "gn:latitude":7.58036,
+    "gn:longitude":9.90468,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kpande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532392
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b6d5081f61f46c65f5748845a45b4e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1293816743,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293816743,
+    "wof:lastmodified":1536809138,
+    "wof:name":"Kpande",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.90468,
+    7.58036,
+    9.90468,
+    7.58036
+],
+  "geometry": {"coordinates":[9.90468,7.58036],"type":"Point"}
+}

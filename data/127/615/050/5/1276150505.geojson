@@ -1,0 +1,73 @@
+{
+  "id": 1276150505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.24691,12.58769,5.24691,12.58769",
+    "geom:latitude":12.58769,
+    "geom:longitude":5.24691,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"614.0",
+    "gn:admin3_code":"61406",
+    "gn:asciiname":"Rinaye",
+    "gn:country_code":"NG",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324468,
+    "gn:latitude":12.58769,
+    "gn:longitude":5.24691,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rinaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinai",
+        "Rinaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324468
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a217a4ecba7b9a86459f924c3d2af6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564343,
+            "locality_id":1276150505,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1276150505,
+    "wof:lastmodified":1537675002,
+    "wof:name":"Rinaye",
+    "wof:parent_id":1108564343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.24691,
+    12.58769,
+    5.24691,
+    12.58769
+],
+  "geometry": {"coordinates":[5.24691,12.58769],"type":"Point"}
+}

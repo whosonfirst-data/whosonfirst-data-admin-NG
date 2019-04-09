@@ -1,0 +1,68 @@
+{
+  "id": 1260144051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9,7.51667,2.9,7.51667",
+    "geom:latitude":7.51667,
+    "geom:longitude":2.9,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28013.0",
+    "gn:asciiname":"Kogo Isaba",
+    "gn:country_code":"NG",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334201,
+    "gn:latitude":7.51667,
+    "gn:longitude":2.9,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kogo Isaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334201
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cbbf34d2230987cef24b2783bcdf7aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563641,
+            "locality_id":1260144051,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1260144051,
+    "wof:lastmodified":1536902164,
+    "wof:name":"Kogo Isaba",
+    "wof:parent_id":1108563641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9,
+    7.51667,
+    2.9,
+    7.51667
+],
+  "geometry": {"coordinates":[2.9,7.51667],"type":"Point"}
+}

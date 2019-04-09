@@ -1,0 +1,69 @@
+{
+  "id": 1293640247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.09073,11.27763,13.09073,11.27763",
+    "geom:latitude":11.27763,
+    "geom:longitude":13.09073,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10705",
+    "gn:asciiname":"Kamari",
+    "gn:country_code":"NG",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335340,
+    "gn:latitude":11.27763,
+    "gn:longitude":13.09073,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kamari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335340
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9be04736c0225e8a1cd5e39922caba5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1293640247,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1293640247,
+    "wof:lastmodified":1537061451,
+    "wof:name":"Kamari",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.09073,
+    11.27763,
+    13.09073,
+    11.27763
+],
+  "geometry": {"coordinates":[13.09073,11.27763],"type":"Point"}
+}

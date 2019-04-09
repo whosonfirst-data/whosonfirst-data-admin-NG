@@ -1,0 +1,72 @@
+{
+  "id": 1343388719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.33343,10.05732,10.33343,10.05732",
+    "geom:latitude":10.05732,
+    "geom:longitude":10.33343,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5001.0",
+    "gn:admin3_code":"BA0115",
+    "gn:asciiname":"Sangar",
+    "gn:country_code":"NG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323767,
+    "gn:latitude":10.05732,
+    "gn:longitude":10.33343,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sangar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sangar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323767
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dac702c4b99316ffc9c8cede4d529538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1343388719,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1343388719,
+    "wof:lastmodified":1537674993,
+    "wof:name":"Sangar",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.33343,
+    10.05732,
+    10.33343,
+    10.05732
+],
+  "geometry": {"coordinates":[10.33343,10.05732],"type":"Point"}
+}

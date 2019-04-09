@@ -1,0 +1,68 @@
+{
+  "id": 1225793879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.81667,7.23333,3.81667,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":3.81667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31025.0",
+    "gn:asciiname":"Ajanla",
+    "gn:country_code":"NG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351475,
+    "gn:latitude":7.23333,
+    "gn:longitude":3.81667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ajanla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351475
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0d3df34aad8bf1bdf2e69542f6758c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564177,
+            "locality_id":1225793879,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1225793879,
+    "wof:lastmodified":1537085449,
+    "wof:name":"Ajanla",
+    "wof:parent_id":1108564177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.81667,
+    7.23333,
+    3.81667,
+    7.23333
+],
+  "geometry": {"coordinates":[3.81667,7.23333],"type":"Point"}
+}

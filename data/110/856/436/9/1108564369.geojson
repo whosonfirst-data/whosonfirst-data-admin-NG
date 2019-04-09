@@ -1,0 +1,90 @@
+{
+  "id": 1108564369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004232,
+    "geom:area_square_m":50969849.222869,
+    "geom:bbox":"5.18606633973,13.0410713683,5.27086633973,13.1074713683",
+    "geom:latitude":13.07321,
+    "geom:longitude":5.224325,
+    "iso:country":"NG",
+    "lbl:latitude":13.075015,
+    "lbl:longitude":5.224325,
+    "meso:adm1_name":"Sokoto",
+    "meso:diss_me":"Sokoto NorthSokoto",
+    "meso:gadm_admin":"Wamakko",
+    "meso:gaul_admin":"Sokoto",
+    "meso:hasc_id":"NG.SO.SN",
+    "meso:mps_x":5.224325,
+    "meso:mps_y":13.075015,
+    "meso:name_local":"Sokoto North",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":13.075015,
+    "mps:longitude":5.224325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sokoto North"
+    ],
+    "name:eng_x_variant":[
+        "Sokoto",
+        "Wamakko"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"51.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Sokoto",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.SO",
+    "statoids:name":"Sokoto North",
+    "statoids:population":"232846",
+    "statoids:statoid":"NG.SO.SN",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.SO.SN"
+    },
+    "wof:country":"NG",
+    "wof:created":1474058101,
+    "wof:geomhash":"f640e3968773210cbf5ae55538106118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564369,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1108564369,
+    "wof:lastmodified":1536615216,
+    "wof:name":"Sokoto North",
+    "wof:parent_id":85675433,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":232846,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"SN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18606633973261,
+    13.04107136831217,
+    5.27086633973265,
+    13.10747136831212
+],
+  "geometry": {"coordinates":[[[5.24936633973257,13.10107136831212],[5.25456633973259,13.09347136831212],[5.26106633973261,13.08647136831212],[5.26506633973264,13.07907136831215],[5.26806633973261,13.07207136831215],[5.27066633973262,13.06557136831213],[5.27086633973265,13.06287136831211],[5.2641663397326,13.05897136831218],[5.25626633973256,13.05417136831213],[5.24846633973263,13.05117136831216],[5.23976633973257,13.04637136831211],[5.23186633973262,13.04547136831216],[5.22406633973259,13.04287136831215],[5.21096633973263,13.04327136831212],[5.20396633973262,13.04157136831215],[5.19396633973265,13.04157136831215],[5.18926633973261,13.04107136831217],[5.18696633973265,13.04637136831211],[5.18736633973261,13.05597136831212],[5.18606633973261,13.06377136831214],[5.18826633973265,13.07257136831213],[5.18956633973256,13.07817136831211],[5.18866633973262,13.08517136831211],[5.18866633973262,13.09047136831214],[5.19176633973261,13.09657136831211],[5.19656633973257,13.09917136831212],[5.20566633973259,13.10087136831218],[5.21176633973265,13.10307136831213],[5.21926633973263,13.10567136831214],[5.22576633973265,13.10747136831212],[5.23096633973258,13.10747136831212],[5.23926633973259,13.1047713683121],[5.24586633973262,13.10177136831213],[5.24936633973257,13.10107136831212]]],"type":"Polygon"}
+}

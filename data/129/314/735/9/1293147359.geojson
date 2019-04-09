@@ -1,0 +1,73 @@
+{
+  "id": 1293147359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56657,12.37447,8.56657,12.37447",
+    "geom:latitude":12.37447,
+    "geom:longitude":8.56657,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20023.0",
+    "gn:admin3_code":"KN0807",
+    "gn:asciiname":"Shiddar",
+    "gn:country_code":"NG",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323206,
+    "gn:latitude":12.37447,
+    "gn:longitude":8.56657,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shiddar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shidar",
+        "Shiddar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323206
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e9fbcfa96699e3ebe610449c2c015f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563199,
+            "locality_id":1293147359,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1293147359,
+    "wof:lastmodified":1537674986,
+    "wof:name":"Shiddar",
+    "wof:parent_id":1108563199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56657,
+    12.37447,
+    8.56657,
+    12.37447
+],
+  "geometry": {"coordinates":[8.56657,12.37447],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259451257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69426,12.8876,8.69426,12.8876",
+    "geom:latitude":12.8876,
+    "geom:longitude":8.69426,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"434.0",
+    "gn:admin3_code":"43404",
+    "gn:asciiname":"Kaweri",
+    "gn:country_code":"NG",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334749,
+    "gn:latitude":12.8876,
+    "gn:longitude":8.69426,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaweri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kauri",
+        "Kaweri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108564557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334749
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed0b63b03e1c9b0a592e2703fa5f9ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564557,
+            "locality_id":1259451257,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1259451257,
+    "wof:lastmodified":1537675145,
+    "wof:name":"Kaweri",
+    "wof:parent_id":1108564557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69426,
+    12.8876,
+    8.69426,
+    12.8876
+],
+  "geometry": {"coordinates":[8.69426,12.8876],"type":"Point"}
+}

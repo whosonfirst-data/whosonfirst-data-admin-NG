@@ -1,0 +1,68 @@
+{
+  "id": 1209854609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73807,5.26018,5.73807,5.26018",
+    "geom:latitude":5.26018,
+    "geom:longitude":5.73807,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10020.0",
+    "gn:asciiname":"Akparemogbene",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028194,
+    "gn:latitude":5.26018,
+    "gn:longitude":5.73807,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akparemogbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028194
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd208cf268b88ee844725d3721a4e1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564441,
+            "locality_id":1209854609,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1209854609,
+    "wof:lastmodified":1536386892,
+    "wof:name":"Akparemogbene",
+    "wof:parent_id":1108564441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73807,
+    5.26018,
+    5.73807,
+    5.26018
+],
+  "geometry": {"coordinates":[5.73807,5.26018],"type":"Point"}
+}

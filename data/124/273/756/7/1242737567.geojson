@@ -1,0 +1,73 @@
+{
+  "id": 1242737567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2,8.23333,3.2,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":3.2,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31017.0",
+    "gn:asciiname":"Ikomu",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338240,
+    "gn:latitude":8.23333,
+    "gn:longitude":3.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikomu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikawmu",
+        "Ikomu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338240
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eaace70e391345e05259f4bf80bfc51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563697,
+            "locality_id":1242737567,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1242737567,
+    "wof:lastmodified":1537675195,
+    "wof:name":"Ikomu",
+    "wof:parent_id":1108563697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2,
+    8.23333,
+    3.2,
+    8.23333
+],
+  "geometry": {"coordinates":[3.2,8.23333],"type":"Point"}
+}

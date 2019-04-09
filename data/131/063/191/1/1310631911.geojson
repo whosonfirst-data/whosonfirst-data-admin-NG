@@ -1,0 +1,71 @@
+{
+  "id": 1310631911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.93751,9.45969,9.93751,9.45969",
+    "geom:latitude":9.45969,
+    "geom:longitude":9.93751,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32007.0",
+    "gn:asciiname":"Jambari",
+    "gn:country_code":"NG",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336538,
+    "gn:latitude":9.45969,
+    "gn:longitude":9.93751,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Jambari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jambari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336538
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"206534c4bae66bbfb422c0e1331147a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563767,
+            "locality_id":1310631911,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1310631911,
+    "wof:lastmodified":1537675168,
+    "wof:name":"Jambari",
+    "wof:parent_id":1108563767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.93751,
+    9.45969,
+    9.93751,
+    9.45969
+],
+  "geometry": {"coordinates":[9.93751,9.45969],"type":"Point"}
+}

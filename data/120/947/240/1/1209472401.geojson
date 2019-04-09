@@ -1,0 +1,67 @@
+{
+  "id": 1209472401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50563,11.40868,7.50563,11.40868",
+    "geom:latitude":11.40868,
+    "geom:longitude":7.50563,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40802",
+    "gn:asciiname":"Ungwan Gwari",
+    "gn:country_code":"NG",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319990,
+    "gn:latitude":11.40868,
+    "gn:longitude":7.50563,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Gwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gwari",
+        "Ungwan Gwari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319990
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cbf12f11fe16390fba636be1f4b72221",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209472401
+        }
+    ],
+    "wof:id":1209472401,
+    "wof:lastmodified":1537674930,
+    "wof:name":"Ungwan Gwari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50563,
+    11.40868,
+    7.50563,
+    11.40868
+],
+  "geometry": {"coordinates":[7.50563,11.40868],"type":"Point"}
+}

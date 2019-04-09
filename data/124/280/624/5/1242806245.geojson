@@ -1,0 +1,73 @@
+{
+  "id": 1242806245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.81151,4.44981,6.81151,4.44981",
+    "geom:latitude":4.44981,
+    "geom:longitude":6.81151,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33004.0",
+    "gn:asciiname":"Bolo",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345716,
+    "gn:latitude":4.44981,
+    "gn:longitude":6.81151,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dagogokiri",
+        "Balo",
+        "Bolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345716
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b77fd22bd1f9b919536c5e3ef8d83711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1242806245,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1242806245,
+    "wof:lastmodified":1537675312,
+    "wof:name":"Bolo",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.81151,
+    4.44981,
+    6.81151,
+    4.44981
+],
+  "geometry": {"coordinates":[6.81151,4.44981],"type":"Point"}
+}

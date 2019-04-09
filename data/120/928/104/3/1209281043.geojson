@@ -1,0 +1,67 @@
+{
+  "id": 1209281043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2058,10.73647,12.2058,10.73647",
+    "geom:latitude":10.73647,
+    "geom:longitude":12.2058,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10506",
+    "gn:asciiname":"Mapadi",
+    "gn:country_code":"NG",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330870,
+    "gn:latitude":10.73647,
+    "gn:longitude":12.2058,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mapadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mafadi",
+        "Mapadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330870
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c1301f8eeb81bce9f901091783831bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209281043
+        }
+    ],
+    "wof:id":1209281043,
+    "wof:lastmodified":1537675100,
+    "wof:name":"Mapadi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2058,
+    10.73647,
+    12.2058,
+    10.73647
+],
+  "geometry": {"coordinates":[12.2058,10.73647],"type":"Point"}
+}

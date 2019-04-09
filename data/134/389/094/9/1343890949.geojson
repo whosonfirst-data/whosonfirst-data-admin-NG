@@ -1,0 +1,73 @@
+{
+  "id": 1343890949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.0162,4.95478,7.0162,4.95478",
+    "geom:latitude":4.95478,
+    "geom:longitude":7.0162,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33013.0",
+    "gn:asciiname":"Igwuruta",
+    "gn:country_code":"NG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338582,
+    "gn:latitude":4.95478,
+    "gn:longitude":7.0162,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igwuruta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agrita",
+        "Igrita",
+        "Igwuruta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338582
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f52e9c233ed645008f1b6d8412aa0f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563611,
+            "locality_id":1343890949,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343890949,
+    "wof:lastmodified":1537675201,
+    "wof:name":"Igwuruta",
+    "wof:parent_id":1108563611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.0162,
+    4.95478,
+    7.0162,
+    4.95478
+],
+  "geometry": {"coordinates":[7.0162,4.95478],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226089591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70969,7.27462,8.70969,7.27462",
+    "geom:latitude":7.27462,
+    "geom:longitude":8.70969,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Chia",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346086,
+    "gn:latitude":7.27462,
+    "gn:longitude":8.70969,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346086
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eae83c335d9f43eafcec5a7466b8f787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1226089591,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226089591,
+    "wof:lastmodified":1536661921,
+    "wof:name":"Chia",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70969,
+    7.27462,
+    8.70969,
+    7.27462
+],
+  "geometry": {"coordinates":[8.70969,7.27462],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226275597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5878,9.1167,6.5878,9.1167",
+    "geom:latitude":9.1167,
+    "geom:longitude":6.5878,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27012.0",
+    "gn:asciiname":"Mukugi",
+    "gn:country_code":"NG",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329767,
+    "gn:latitude":9.1167,
+    "gn:longitude":6.5878,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mukugi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maikwogi",
+        "Mukugi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329767
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e9664e03548d45fb9b3646a58f648982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563895,
+            "locality_id":1226275597,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226275597,
+    "wof:lastmodified":1537675086,
+    "wof:name":"Mukugi",
+    "wof:parent_id":1108563895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5878,
+    9.1167,
+    6.5878,
+    9.1167
+],
+  "geometry": {"coordinates":[6.5878,9.1167],"type":"Point"}
+}

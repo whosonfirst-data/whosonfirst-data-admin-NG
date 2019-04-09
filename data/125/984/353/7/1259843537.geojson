@@ -1,0 +1,68 @@
+{
+  "id": 1259843537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79435,4.72062,7.79435,4.72062",
+    "geom:latitude":4.72062,
+    "geom:longitude":7.79435,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3018.0",
+    "gn:asciiname":"Iton",
+    "gn:country_code":"NG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336995,
+    "gn:latitude":4.72062,
+    "gn:longitude":7.79435,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336995
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2cb3f4c3bfa2057f1f5f22ce204cb6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563981,
+            "locality_id":1259843537,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1259843537,
+    "wof:lastmodified":1536835774,
+    "wof:name":"Iton",
+    "wof:parent_id":1108563981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.79435,
+    4.72062,
+    7.79435,
+    4.72062
+],
+  "geometry": {"coordinates":[7.79435,4.72062],"type":"Point"}
+}

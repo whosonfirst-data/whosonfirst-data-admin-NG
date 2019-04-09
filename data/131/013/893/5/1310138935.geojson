@@ -1,0 +1,69 @@
+{
+  "id": 1310138935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.93184,12.13592,6.93184,12.13592",
+    "geom:latitude":12.13592,
+    "geom:longitude":6.93184,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80702",
+    "gn:asciiname":"Mada",
+    "gn:country_code":"NG",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331730,
+    "gn:latitude":12.13592,
+    "gn:longitude":6.93184,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331730
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"773ce3ac731e9830bbcc486f6d5d85b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563455,
+            "locality_id":1310138935,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1310138935,
+    "wof:lastmodified":1536948642,
+    "wof:name":"Mada",
+    "wof:parent_id":1108563455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.93184,
+    12.13592,
+    6.93184,
+    12.13592
+],
+  "geometry": {"coordinates":[6.93184,12.13592],"type":"Point"}
+}

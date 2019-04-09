@@ -1,0 +1,66 @@
+{
+  "id": 1209347417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.02095,9.86847,7.02095,9.86847",
+    "geom:latitude":9.86847,
+    "geom:longitude":7.02095,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018.0",
+    "gn:asciiname":"Gidan-Barde",
+    "gn:country_code":"NG",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341127,
+    "gn:latitude":9.86847,
+    "gn:longitude":7.02095,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan-Barde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Barde Chibiani",
+        "Gidan-Barde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341127
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7f77c4874d31773744d88c47e297b4db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347417
+        }
+    ],
+    "wof:id":1209347417,
+    "wof:lastmodified":1537675244,
+    "wof:name":"Gidan-Barde",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.02095,
+    9.86847,
+    7.02095,
+    9.86847
+],
+  "geometry": {"coordinates":[7.02095,9.86847],"type":"Point"}
+}

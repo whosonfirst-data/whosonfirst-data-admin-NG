@@ -1,0 +1,73 @@
+{
+  "id": 1225994745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6753,12.02134,8.6753,12.02134",
+    "geom:latitude":12.02134,
+    "geom:longitude":8.6753,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20010.0",
+    "gn:admin3_code":"KN1704",
+    "gn:asciiname":"Danzaki",
+    "gn:country_code":"NG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320288,
+    "gn:latitude":12.02134,
+    "gn:longitude":8.6753,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Danzaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungua Zaki",
+        "Danzaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320288
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c16f99384fe20b0967f5bfde5da2cacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563419,
+            "locality_id":1225994745,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1225994745,
+    "wof:lastmodified":1537674945,
+    "wof:name":"Danzaki",
+    "wof:parent_id":1108563419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6753,
+    12.02134,
+    8.6753,
+    12.02134
+],
+  "geometry": {"coordinates":[8.6753,12.02134],"type":"Point"}
+}

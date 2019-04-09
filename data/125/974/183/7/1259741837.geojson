@@ -1,0 +1,68 @@
+{
+  "id": 1259741837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.53322,4.8156,7.53322,4.8156",
+    "geom:latitude":4.8156,
+    "geom:longitude":7.53322,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3028.0",
+    "gn:asciiname":"Ukwa",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320669,
+    "gn:latitude":4.8156,
+    "gn:longitude":7.53322,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ukwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320669
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3bf7ad2ff05bca213dcacb9161ae0a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564449,
+            "locality_id":1259741837,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1259741837,
+    "wof:lastmodified":1536982518,
+    "wof:name":"Ukwa",
+    "wof:parent_id":1108564449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.53322,
+    4.8156,
+    7.53322,
+    4.8156
+],
+  "geometry": {"coordinates":[7.53322,4.8156],"type":"Point"}
+}

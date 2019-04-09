@@ -1,0 +1,73 @@
+{
+  "id": 1343295051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41897,12.00351,6.41897,12.00351",
+    "geom:latitude":12.00351,
+    "geom:longitude":6.41897,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81002",
+    "gn:asciiname":"Maje",
+    "gn:country_code":"NG",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331247,
+    "gn:latitude":12.00351,
+    "gn:longitude":6.41897,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maje (2)",
+        "Maje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331247
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5048487331b0ba03b9e850ad17b34fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1343295051,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1343295051,
+    "wof:lastmodified":1537675105,
+    "wof:name":"Maje",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41897,
+    12.00351,
+    6.41897,
+    12.00351
+],
+  "geometry": {"coordinates":[6.41897,12.00351],"type":"Point"}
+}

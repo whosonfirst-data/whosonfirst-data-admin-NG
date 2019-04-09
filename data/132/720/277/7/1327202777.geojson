@@ -1,0 +1,68 @@
+{
+  "id": 1327202777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.51602,6.35155,8.51602,6.35155",
+    "geom:latitude":6.35155,
+    "geom:longitude":8.51602,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Egumgum",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343848,
+    "gn:latitude":6.35155,
+    "gn:longitude":8.51602,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egumgum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343848
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b8fd8ad102ed72b9a0c40d07ca60379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":1327202777,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1327202777,
+    "wof:lastmodified":1537011782,
+    "wof:name":"Egumgum",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.51602,
+    6.35155,
+    8.51602,
+    6.35155
+],
+  "geometry": {"coordinates":[8.51602,6.35155],"type":"Point"}
+}

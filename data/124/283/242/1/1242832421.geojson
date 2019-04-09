@@ -1,0 +1,74 @@
+{
+  "id": 1242832421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.03077,9.37268,8.03077,9.37268",
+    "geom:latitude":9.37268,
+    "geom:longitude":8.03077,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19006.0",
+    "gn:admin3_code":"KD0610",
+    "gn:asciiname":"Angwan Dauda",
+    "gn:country_code":"NG",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320252,
+    "gn:latitude":9.37268,
+    "gn:longitude":8.03077,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Angwan Dauda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauda",
+        "Unguwar Dauda",
+        "Angwan Dauda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320252
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2c2f54ab2fc822ed3a7db31606b5f399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563711,
+            "locality_id":1242832421,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1242832421,
+    "wof:lastmodified":1537674943,
+    "wof:name":"Angwan Dauda",
+    "wof:parent_id":1108563711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.03077,
+    9.37268,
+    8.03077,
+    9.37268
+],
+  "geometry": {"coordinates":[8.03077,9.37268],"type":"Point"}
+}

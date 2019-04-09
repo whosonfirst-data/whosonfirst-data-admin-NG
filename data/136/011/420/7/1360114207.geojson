@@ -1,0 +1,72 @@
+{
+  "id": 1360114207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1422,10.54015,10.1422,10.54015",
+    "geom:latitude":10.54015,
+    "geom:longitude":10.1422,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5008.0",
+    "gn:admin3_code":"BA0805",
+    "gn:asciiname":"Yaga",
+    "gn:country_code":"NG",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318495,
+    "gn:latitude":10.54015,
+    "gn:longitude":10.1422,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318495
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b01bdb5fa6ca36e17202e8dc3dd744f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563391,
+            "locality_id":1360114207,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1360114207,
+    "wof:lastmodified":1537674907,
+    "wof:name":"Yaga",
+    "wof:parent_id":1108563391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1422,
+    10.54015,
+    10.1422,
+    10.54015
+],
+  "geometry": {"coordinates":[10.1422,10.54015],"type":"Point"}
+}

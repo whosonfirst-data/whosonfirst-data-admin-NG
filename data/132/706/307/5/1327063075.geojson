@@ -1,0 +1,74 @@
+{
+  "id": 1327063075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98953,12.78177,8.98953,12.78177",
+    "geom:latitude":12.78177,
+    "geom:longitude":8.98953,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0206",
+    "gn:asciiname":"Aduari Duna",
+    "gn:country_code":"NG",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349864,
+    "gn:latitude":12.78177,
+    "gn:longitude":8.98953,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aduari Duna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duna",
+        "Anguwar Duna",
+        "Aduari Duna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349864
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2891cf830603b9d85828e7a286afc57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1327063075,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1327063075,
+    "wof:lastmodified":1537675362,
+    "wof:name":"Aduari Duna",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98953,
+    12.78177,
+    8.98953,
+    12.78177
+],
+  "geometry": {"coordinates":[8.98953,12.78177],"type":"Point"}
+}

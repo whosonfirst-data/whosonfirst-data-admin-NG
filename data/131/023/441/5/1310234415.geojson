@@ -1,0 +1,72 @@
+{
+  "id": 1310234415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.80475,8.27239,5.80475,8.27239",
+    "geom:latitude":8.27239,
+    "geom:longitude":5.80475,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23020.0",
+    "gn:asciiname":"Isanlu-Makutu",
+    "gn:country_code":"NG",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337233,
+    "gn:latitude":8.27239,
+    "gn:longitude":5.80475,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isanlu-Makutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isanlu Makatu",
+        "Isanlu-Makutu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337233
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f0a4043c772f3d9884a0206af632c49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564521,
+            "locality_id":1310234415,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1310234415,
+    "wof:lastmodified":1537675180,
+    "wof:name":"Isanlu-Makutu",
+    "wof:parent_id":1108564521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.80475,
+    8.27239,
+    5.80475,
+    8.27239
+],
+  "geometry": {"coordinates":[5.80475,8.27239],"type":"Point"}
+}

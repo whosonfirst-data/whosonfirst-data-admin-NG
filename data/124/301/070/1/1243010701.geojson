@@ -1,0 +1,73 @@
+{
+  "id": 1243010701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.47139,12.28835,4.47139,12.28835",
+    "geom:latitude":12.28835,
+    "geom:longitude":4.47139,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50101",
+    "gn:asciiname":"Aliero",
+    "gn:country_code":"NG",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2350428,
+    "gn:latitude":12.28835,
+    "gn:longitude":4.47139,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aliero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aleiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108562993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350428,
+        "wk:page":"Aliero"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"21a11dcc718b1af6f3990c30694b7eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562993,
+            "locality_id":1243010701,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1243010701,
+    "wof:lastmodified":1537675369,
+    "wof:name":"Aliero",
+    "wof:parent_id":1108562993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.47139,
+    12.28835,
+    4.47139,
+    12.28835
+],
+  "geometry": {"coordinates":[4.47139,12.28835],"type":"Point"}
+}

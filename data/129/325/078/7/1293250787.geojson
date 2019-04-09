@@ -1,0 +1,72 @@
+{
+  "id": 1293250787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.199,5.2412,8.199,5.2412",
+    "geom:latitude":5.2412,
+    "geom:longitude":8.199,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9002.0",
+    "gn:asciiname":"Okopedi",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327041,
+    "gn:latitude":5.2412,
+    "gn:longitude":8.199,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okopedi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okapedi",
+        "Okopedi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327041
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1bb79899ce1f395b4f936a38edc6b145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562961,
+            "locality_id":1293250787,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293250787,
+    "wof:lastmodified":1537675039,
+    "wof:name":"Okopedi",
+    "wof:parent_id":1108562961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.199,
+    5.2412,
+    8.199,
+    5.2412
+],
+  "geometry": {"coordinates":[8.199,5.2412],"type":"Point"}
+}

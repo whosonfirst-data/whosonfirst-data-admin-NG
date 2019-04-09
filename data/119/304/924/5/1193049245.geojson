@@ -1,0 +1,71 @@
+{
+  "id": 1193049245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23135,4.93783,6.23135,4.93783",
+    "geom:latitude":4.93783,
+    "geom:longitude":6.23135,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6008.0",
+    "gn:asciiname":"Ikolo",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338245,
+    "gn:latitude":4.93783,
+    "gn:longitude":6.23135,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikodu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338245
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9ee1180e0c6aad96f480b81e53985d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564539,
+            "locality_id":1193049245,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1193049245,
+    "wof:lastmodified":1537675195,
+    "wof:name":"Ikolo",
+    "wof:parent_id":1108564539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23135,
+    4.93783,
+    6.23135,
+    4.93783
+],
+  "geometry": {"coordinates":[6.23135,4.93783],"type":"Point"}
+}

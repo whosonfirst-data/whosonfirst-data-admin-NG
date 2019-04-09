@@ -1,0 +1,68 @@
+{
+  "id": 1360034589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.97342,8.82086,4.97342,8.82086",
+    "geom:latitude":8.82086,
+    "geom:longitude":4.97342,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24005.0",
+    "gn:asciiname":"Share",
+    "gn:country_code":"NG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2323324,
+    "gn:latitude":8.82086,
+    "gn:longitude":4.97342,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Share",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323324
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca77db717333cc2dac86703c25ac621b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563545,
+            "locality_id":1360034589,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1360034589,
+    "wof:lastmodified":1537017906,
+    "wof:name":"Share",
+    "wof:parent_id":1108563545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.97342,
+    8.82086,
+    4.97342,
+    8.82086
+],
+  "geometry": {"coordinates":[4.97342,8.82086],"type":"Point"}
+}

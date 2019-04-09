@@ -1,0 +1,62 @@
+{
+  "id": 1209154701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26216,10.61914,13.26216,10.61914",
+    "geom:latitude":10.61914,
+    "geom:longitude":13.26216,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013.0",
+    "gn:asciiname":"Kankila",
+    "gn:country_code":"NG",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760331,
+    "gn:latitude":10.61914,
+    "gn:longitude":13.26216,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kankila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760331
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"42c373cd774589565f0738eb2d2db7f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209154701
+        }
+    ],
+    "wof:id":1209154701,
+    "wof:lastmodified":1536296092,
+    "wof:name":"Kankila",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26216,
+    10.61914,
+    13.26216,
+    10.61914
+],
+  "geometry": {"coordinates":[13.26216,10.61914],"type":"Point"}
+}

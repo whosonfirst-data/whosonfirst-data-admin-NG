@@ -1,0 +1,65 @@
+{
+  "id": 1209643775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.84499,9.47794,9.84499,9.47794",
+    "geom:latitude":9.47794,
+    "geom:longitude":9.84499,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32007.0",
+    "gn:asciiname":"Gidgid",
+    "gn:country_code":"NG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340716,
+    "gn:latitude":9.47794,
+    "gn:longitude":9.84499,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Gidgid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gidgid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340716
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8d347d676b6e01c2777f7b8e00328521",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209643775
+        }
+    ],
+    "wof:id":1209643775,
+    "wof:lastmodified":1537675229,
+    "wof:name":"Gidgid",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.84499,
+    9.47794,
+    9.84499,
+    9.47794
+],
+  "geometry": {"coordinates":[9.84499,9.47794],"type":"Point"}
+}

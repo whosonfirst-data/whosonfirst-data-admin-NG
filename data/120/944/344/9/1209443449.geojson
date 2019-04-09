@@ -1,0 +1,62 @@
+{
+  "id": 1209443449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16503,7.65807,10.16503,7.65807",
+    "geom:latitude":7.65807,
+    "geom:longitude":10.16503,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35003.0",
+    "gn:asciiname":"Ayabagir",
+    "gn:country_code":"NG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348705,
+    "gn:latitude":7.65807,
+    "gn:longitude":10.16503,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ayabagir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348705
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aee2f9924d21e5344ac0ddd9fc6e2dea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443449
+        }
+    ],
+    "wof:id":1209443449,
+    "wof:lastmodified":1536286891,
+    "wof:name":"Ayabagir",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16503,
+    7.658069999999999,
+    10.16503,
+    7.658069999999999
+],
+  "geometry": {"coordinates":[10.16503,7.65807],"type":"Point"}
+}

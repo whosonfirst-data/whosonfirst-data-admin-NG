@@ -1,0 +1,75 @@
+{
+  "id": 1225987507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6661,5.93554,5.6661,5.93554",
+    "geom:latitude":5.93554,
+    "geom:longitude":5.6661,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10006.0",
+    "gn:asciiname":"Oghara",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7027846,
+    "gn:latitude":5.93554,
+    "gn:longitude":5.6661,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Oghara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oghara"
+    ],
+    "name:eng_x_variant":[
+        "Ogharefe",
+        "Oghara Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027846
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"84803a67d157bb5b3cc9f76833531d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563335,
+            "locality_id":1225987507,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1225987507,
+    "wof:lastmodified":1537675417,
+    "wof:name":"Oghara",
+    "wof:parent_id":1108563335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6661,
+    5.93554,
+    5.6661,
+    5.93554
+],
+  "geometry": {"coordinates":[5.6661,5.93554],"type":"Point"}
+}

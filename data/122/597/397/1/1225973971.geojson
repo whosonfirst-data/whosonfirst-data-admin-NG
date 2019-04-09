@@ -1,0 +1,73 @@
+{
+  "id": 1225973971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.88333,7.56667,4.88333,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":4.88333,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30028.0",
+    "gn:asciiname":"Erin Oke",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343184,
+    "gn:latitude":7.56667,
+    "gn:longitude":4.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Erin Oke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erin",
+        "Erin Oke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108564207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343184
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0a46eacd2e1035dad338d2d3442d7241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564207,
+            "locality_id":1225973971,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1225973971,
+    "wof:lastmodified":1537675274,
+    "wof:name":"Erin Oke",
+    "wof:parent_id":1108564207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88333,
+    7.56667,
+    4.88333,
+    7.56667
+],
+  "geometry": {"coordinates":[4.88333,7.56667],"type":"Point"}
+}

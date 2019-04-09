@@ -1,0 +1,71 @@
+{
+  "id": 1226181387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73515,5.0555,5.73515,5.0555",
+    "geom:latitude":5.0555,
+    "geom:longitude":5.73515,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Torugbene",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321941,
+    "gn:latitude":5.0555,
+    "gn:longitude":5.73515,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Torugbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tukama",
+        "Torugbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321941
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf16aa01177f2f44cf515385f857f801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563285,
+            "locality_id":1226181387,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1226181387,
+    "wof:lastmodified":1537674972,
+    "wof:name":"Torugbene",
+    "wof:parent_id":1108563285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73515,
+    5.0555,
+    5.73515,
+    5.0555
+],
+  "geometry": {"coordinates":[5.73515,5.0555],"type":"Point"}
+}

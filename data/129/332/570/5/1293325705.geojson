@@ -1,0 +1,67 @@
+{
+  "id": 1293325705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76761,10.47824,8.76761,10.47824",
+    "geom:latitude":10.47824,
+    "geom:longitude":8.76761,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Maresu",
+    "gn:country_code":"NG",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330789,
+    "gn:latitude":10.47824,
+    "gn:longitude":8.76761,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Maresu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330789
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c5ba625a8dfefa05a4835ce5e6cd06e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564415,
+            "locality_id":1293325705,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1293325705,
+    "wof:lastmodified":1537019496,
+    "wof:name":"Maresu",
+    "wof:parent_id":1108564415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76761,
+    10.47824,
+    8.76761,
+    10.47824
+],
+  "geometry": {"coordinates":[8.76761,10.47824],"type":"Point"}
+}

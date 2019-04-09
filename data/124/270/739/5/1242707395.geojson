@@ -1,0 +1,68 @@
+{
+  "id": 1242707395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69833,4.7376,6.69833,4.7376",
+    "geom:latitude":4.7376,
+    "geom:longitude":6.69833,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33004.0",
+    "gn:asciiname":"Okpotuboh",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826193,
+    "gn:latitude":4.7376,
+    "gn:longitude":6.69833,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpotuboh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826193
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d3fc526cbd2823ff74dab95548d76100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1242707395,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1242707395,
+    "wof:lastmodified":1536876030,
+    "wof:name":"Okpotuboh",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69833,
+    4.7376,
+    6.69833,
+    4.7376
+],
+  "geometry": {"coordinates":[6.69833,4.7376],"type":"Point"}
+}

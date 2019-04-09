@@ -1,0 +1,71 @@
+{
+  "id": 1226072735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97413,6.92284,6.97413,6.92284",
+    "geom:latitude":6.92284,
+    "geom:longitude":6.97413,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23008.0",
+    "gn:asciiname":"Okpongi",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7079886,
+    "gn:latitude":6.92284,
+    "gn:longitude":6.97413,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okpongi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7079886
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2ca78d302625a5e6a8b2298cdd012de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563553,
+            "locality_id":1226072735,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1226072735,
+    "wof:lastmodified":1537675449,
+    "wof:name":"Okpongi",
+    "wof:parent_id":1108563553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97413,
+    6.92284,
+    6.97413,
+    6.92284
+],
+  "geometry": {"coordinates":[6.97413,6.92284],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310551639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77688,11.25453,8.77688,11.25453",
+    "geom:latitude":11.25453,
+    "geom:longitude":8.77688,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20011.0",
+    "gn:admin3_code":"KN3610",
+    "gn:asciiname":"Matugwai",
+    "gn:country_code":"NG",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330579,
+    "gn:latitude":11.25453,
+    "gn:longitude":8.77688,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Matugwai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330579
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aa74a209956e59872958d67254e5bf80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564381,
+            "locality_id":1310551639,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1310551639,
+    "wof:lastmodified":1536849449,
+    "wof:name":"Matugwai",
+    "wof:parent_id":1108564381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77688,
+    11.25453,
+    8.77688,
+    11.25453
+],
+  "geometry": {"coordinates":[8.77688,11.25453],"type":"Point"}
+}

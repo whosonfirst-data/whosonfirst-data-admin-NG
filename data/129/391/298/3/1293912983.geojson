@@ -1,0 +1,73 @@
+{
+  "id": 1293912983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.1,7.83333,4.1,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":4.1,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30010.0",
+    "gn:asciiname":"Owu",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325267,
+    "gn:latitude":7.83333,
+    "gn:longitude":4.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Owu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ile-owo",
+        "Owu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108563283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325267
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8056ccc6d252127154bf021cfd5a003e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563283,
+            "locality_id":1293912983,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1293912983,
+    "wof:lastmodified":1537675011,
+    "wof:name":"Owu",
+    "wof:parent_id":1108563283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.1,
+    7.83333,
+    4.1,
+    7.83333
+],
+  "geometry": {"coordinates":[4.1,7.83333],"type":"Point"}
+}

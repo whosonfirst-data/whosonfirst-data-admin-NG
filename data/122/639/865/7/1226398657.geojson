@@ -1,0 +1,68 @@
+{
+  "id": 1226398657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.33715,5.00341,8.33715,5.00341",
+    "geom:latitude":5.00341,
+    "geom:longitude":8.33715,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9008.0",
+    "gn:asciiname":"Ikot Ansa",
+    "gn:country_code":"NG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338160,
+    "gn:latitude":5.00341,
+    "gn:longitude":8.33715,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Ansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        421204119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338160
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f68e3d53dc4cba9875d42cbd51edb343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421204119,
+            "locality_id":1226398657,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226398657,
+    "wof:lastmodified":1536713765,
+    "wof:name":"Ikot Ansa",
+    "wof:parent_id":421204119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.33715,
+    5.00341,
+    8.33715,
+    5.00341
+],
+  "geometry": {"coordinates":[8.33715,5.00341],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209278117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.83333,6.78333,2.83333,6.78333",
+    "geom:latitude":6.78333,
+    "geom:longitude":2.83333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28005.0",
+    "gn:asciiname":"Itoro",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336989,
+    "gn:latitude":6.78333,
+    "gn:longitude":2.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Itoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itawraw",
+        "Itoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336989
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6a5d361d1671485a905026a43f2c4fa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209278117
+        }
+    ],
+    "wof:id":1209278117,
+    "wof:lastmodified":1537675174,
+    "wof:name":"Itoro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.83333,
+    6.78333,
+    2.83333,
+    6.78333
+],
+  "geometry": {"coordinates":[2.83333,6.78333],"type":"Point"}
+}

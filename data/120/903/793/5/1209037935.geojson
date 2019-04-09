@@ -1,0 +1,66 @@
+{
+  "id": 1209037935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.42627,5.22141,7.42627,5.22141",
+    "geom:latitude":5.22141,
+    "geom:longitude":7.42627,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1006.0",
+    "gn:asciiname":"Nditi",
+    "gn:country_code":"NG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329223,
+    "gn:latitude":5.22141,
+    "gn:longitude":7.42627,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nditi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndiri",
+        "Nditi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329223
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c1ea968785f4be3ac4fbef05ebdbd01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209037935
+        }
+    ],
+    "wof:id":1209037935,
+    "wof:lastmodified":1537675078,
+    "wof:name":"Nditi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.42627,
+    5.22141,
+    7.42627,
+    5.22141
+],
+  "geometry": {"coordinates":[7.42627,5.22141],"type":"Point"}
+}

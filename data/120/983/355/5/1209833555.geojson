@@ -1,0 +1,67 @@
+{
+  "id": 1209833555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.60984,9.01046,8.60984,9.01046",
+    "geom:latitude":9.01046,
+    "geom:longitude":8.60984,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Safiyo",
+    "gn:country_code":"NG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258894,
+    "gn:latitude":9.01046,
+    "gn:longitude":8.60984,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Safiyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258894
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d067e9ed801f4a524b9a1a1ef85538b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564491,
+            "locality_id":1209833555,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1209833555,
+    "wof:lastmodified":1536395905,
+    "wof:name":"Safiyo",
+    "wof:parent_id":1108564491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.60984,
+    9.01046,
+    8.60984,
+    9.01046
+],
+  "geometry": {"coordinates":[8.60984,9.01046],"type":"Point"}
+}

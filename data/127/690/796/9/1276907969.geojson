@@ -1,0 +1,70 @@
+{
+  "id": 1276907969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55535,9.19359,11.55535,9.19359",
+    "geom:latitude":9.19359,
+    "geom:longitude":11.55535,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Alkali",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209482,
+    "gn:latitude":9.19359,
+    "gn:longitude":11.55535,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Alkali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alkali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209482
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc0c533f517d2aa53624086c5febf58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":1276907969,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276907969,
+    "wof:lastmodified":1537675502,
+    "wof:name":"Alkali",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55535,
+    9.19359,
+    11.55535,
+    9.19359
+],
+  "geometry": {"coordinates":[11.55535,9.19359],"type":"Point"}
+}

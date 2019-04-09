@@ -1,0 +1,68 @@
+{
+  "id": 1260109859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.27829,9.04885,8.27829,9.04885",
+    "geom:latitude":9.04885,
+    "geom:longitude":8.27829,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26001",
+    "gn:asciiname":"Agam",
+    "gn:country_code":"NG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943394,
+    "gn:latitude":9.04885,
+    "gn:longitude":8.27829,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108562989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943394
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a4490319845ff340f10122137b345022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562989,
+            "locality_id":1260109859,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1260109859,
+    "wof:lastmodified":1536950463,
+    "wof:name":"Agam",
+    "wof:parent_id":1108562989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.27829,
+    9.04885,
+    8.27829,
+    9.04885
+],
+  "geometry": {"coordinates":[8.27829,9.04885],"type":"Point"}
+}

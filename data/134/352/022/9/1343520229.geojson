@@ -1,0 +1,68 @@
+{
+  "id": 1343520229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.84973,4.8022,7.84973,4.8022",
+    "geom:latitude":4.8022,
+    "geom:longitude":7.84973,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3007.0",
+    "gn:asciiname":"Ikot Eba",
+    "gn:country_code":"NG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7054464,
+    "gn:latitude":4.8022,
+    "gn:longitude":7.84973,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Eba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7054464
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c5cd31cdc4570eaf59054f3b082b3dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563339,
+            "locality_id":1343520229,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1343520229,
+    "wof:lastmodified":1536660184,
+    "wof:name":"Ikot Eba",
+    "wof:parent_id":1108563339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.84973,
+    4.8022,
+    7.84973,
+    4.8022
+],
+  "geometry": {"coordinates":[7.84973,4.8022],"type":"Point"}
+}

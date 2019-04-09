@@ -1,0 +1,62 @@
+{
+  "id": 1209058139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85765,6.86098,5.85765,6.86098",
+    "geom:latitude":6.86098,
+    "geom:longitude":5.85765,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12017.0",
+    "gn:asciiname":"Atoruru",
+    "gn:country_code":"NG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348942,
+    "gn:latitude":6.86098,
+    "gn:longitude":5.85765,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atoruru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348942
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47231a7fed0f190dddabfb055426a681",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209058139
+        }
+    ],
+    "wof:id":1209058139,
+    "wof:lastmodified":1536299044,
+    "wof:name":"Atoruru",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85765,
+    6.8609800000000005,
+    5.85765,
+    6.8609800000000005
+],
+  "geometry": {"coordinates":[5.85765,6.86098],"type":"Point"}
+}

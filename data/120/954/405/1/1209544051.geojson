@@ -1,0 +1,62 @@
+{
+  "id": 1209544051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.37137,4.85325,7.37137,4.85325",
+    "geom:latitude":4.85325,
+    "geom:longitude":7.37137,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33021.0",
+    "gn:asciiname":"Umu Agbai",
+    "gn:country_code":"NG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7052784,
+    "gn:latitude":4.85325,
+    "gn:longitude":7.37137,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umu Agbai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7052784
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b06c804dd4b58b8d51df0afa94325607",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544051
+        }
+    ],
+    "wof:id":1209544051,
+    "wof:lastmodified":1536283899,
+    "wof:name":"Umu Agbai",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.37137,
+    4.85325,
+    7.37137,
+    4.85325
+],
+  "geometry": {"coordinates":[7.37137,4.85325],"type":"Point"}
+}

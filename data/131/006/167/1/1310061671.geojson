@@ -1,0 +1,67 @@
+{
+  "id": 1310061671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77075,10.78951,8.77075,10.78951",
+    "geom:latitude":10.78951,
+    "geom:longitude":8.77075,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Zenabi",
+    "gn:country_code":"NG",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317710,
+    "gn:latitude":10.78951,
+    "gn:longitude":8.77075,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Zenabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317710
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8de35920baff34056e4ebb063e03abdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563235,
+            "locality_id":1310061671,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1310061671,
+    "wof:lastmodified":1537057329,
+    "wof:name":"Zenabi",
+    "wof:parent_id":1108563235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77075,
+    10.78951,
+    8.77075,
+    10.78951
+],
+  "geometry": {"coordinates":[8.77075,10.78951],"type":"Point"}
+}

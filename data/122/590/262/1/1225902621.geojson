@@ -1,0 +1,68 @@
+{
+  "id": 1225902621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1513,5.4351,8.1513,5.4351",
+    "geom:latitude":5.4351,
+    "geom:longitude":8.1513,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Orira",
+    "gn:country_code":"NG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854816,
+    "gn:latitude":5.4351,
+    "gn:longitude":8.1513,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854816
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b66238e123b7a9847c1c71f04b31b1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1225902621,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1225902621,
+    "wof:lastmodified":1536932614,
+    "wof:name":"Orira",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1513,
+    5.4351,
+    8.1513,
+    5.4351
+],
+  "geometry": {"coordinates":[8.1513,5.4351],"type":"Point"}
+}

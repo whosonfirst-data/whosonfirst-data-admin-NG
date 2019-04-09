@@ -1,0 +1,71 @@
+{
+  "id": 1309950181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.357,9.45861,12.357,9.45861",
+    "geom:latitude":9.45861,
+    "geom:longitude":12.357,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Kwo",
+    "gn:country_code":"NG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334186,
+    "gn:latitude":9.45861,
+    "gn:longitude":12.357,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Kwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334186
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a348ead2bcb607d4e97981ca16f154d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563431,
+            "locality_id":1309950181,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1309950181,
+    "wof:lastmodified":1537675137,
+    "wof:name":"Kwo",
+    "wof:parent_id":1108563431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.357,
+    9.45861,
+    12.357,
+    9.45861
+],
+  "geometry": {"coordinates":[12.357,9.45861],"type":"Point"}
+}

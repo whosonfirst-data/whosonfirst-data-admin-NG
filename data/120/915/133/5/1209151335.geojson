@@ -1,0 +1,65 @@
+{
+  "id": 1209151335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.97471,5.672,5.97471,5.672",
+    "geom:latitude":5.672,
+    "geom:longitude":5.97471,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10005.0",
+    "gn:asciiname":"Ekpagha",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027957,
+    "gn:latitude":5.672,
+    "gn:longitude":5.97471,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ekpagha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ekpagha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027957
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"157e677b24fe72fdb437b4ea7327b06b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209151335
+        }
+    ],
+    "wof:id":1209151335,
+    "wof:lastmodified":1537675422,
+    "wof:name":"Ekpagha",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.97471,
+    5.672,
+    5.97471,
+    5.672
+],
+  "geometry": {"coordinates":[5.97471,5.672],"type":"Point"}
+}

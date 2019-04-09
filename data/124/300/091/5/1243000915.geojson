@@ -1,0 +1,71 @@
+{
+  "id": 1243000915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.85091,4.5228,6.85091,4.5228",
+    "geom:latitude":4.5228,
+    "geom:longitude":6.85091,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Temakiri",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593225,
+    "gn:latitude":4.5228,
+    "gn:longitude":6.85091,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Temakiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Temokiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593225
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ab11e2ed6b3f787a287c494f1fc37552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563227,
+            "locality_id":1243000915,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1243000915,
+    "wof:lastmodified":1537675402,
+    "wof:name":"Temakiri",
+    "wof:parent_id":1108563227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.85091,
+    4.5228,
+    6.85091,
+    4.5228
+],
+  "geometry": {"coordinates":[6.85091,4.5228],"type":"Point"}
+}

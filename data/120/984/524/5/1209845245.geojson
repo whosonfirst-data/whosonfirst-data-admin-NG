@@ -1,0 +1,68 @@
+{
+  "id": 1209845245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37513,10.60187,11.37513,10.60187",
+    "geom:latitude":10.60187,
+    "geom:longitude":11.37513,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16008.0",
+    "gn:asciiname":"Dukul",
+    "gn:country_code":"NG",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344408,
+    "gn:latitude":10.60187,
+    "gn:longitude":11.37513,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dukul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344408
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e600530481961d5d2a520957987e0f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563871,
+            "locality_id":1209845245,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1209845245,
+    "wof:lastmodified":1536390954,
+    "wof:name":"Dukul",
+    "wof:parent_id":1108563871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37513,
+    10.60187,
+    11.37513,
+    10.60187
+],
+  "geometry": {"coordinates":[11.37513,10.60187],"type":"Point"}
+}

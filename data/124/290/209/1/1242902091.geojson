@@ -1,0 +1,72 @@
+{
+  "id": 1242902091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.44476,6.42336,7.44476,6.42336",
+    "geom:latitude":6.42336,
+    "geom:longitude":7.44476,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14016.0",
+    "gn:asciiname":"Enugu-Ngwo",
+    "gn:country_code":"NG",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343272,
+    "gn:latitude":6.42336,
+    "gn:longitude":7.44476,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Enugu-Ngwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngwo",
+        "Enugu-Ngwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343272
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9d795c76b980b6d15ff5cdca53fc634b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564433,
+            "locality_id":1242902091,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1242902091,
+    "wof:lastmodified":1537675276,
+    "wof:name":"Enugu-Ngwo",
+    "wof:parent_id":1108564433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.44476,
+    6.42336,
+    7.44476,
+    6.42336
+],
+  "geometry": {"coordinates":[7.44476,6.42336],"type":"Point"}
+}

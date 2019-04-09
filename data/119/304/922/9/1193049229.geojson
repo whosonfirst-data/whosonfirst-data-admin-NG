@@ -1,0 +1,68 @@
+{
+  "id": 1193049229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1028,7.1865,5.1028,7.1865",
+    "geom:latitude":7.1865,
+    "geom:longitude":5.1028,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29008.0",
+    "gn:asciiname":"Ago-Bale",
+    "gn:country_code":"NG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832904,
+    "gn:latitude":7.1865,
+    "gn:longitude":5.1028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago-Bale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832904
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"42f6d520f8ff2f1ff4ce0275d0cf8370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563517,
+            "locality_id":1193049229,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1193049229,
+    "wof:lastmodified":1536367342,
+    "wof:name":"Ago-Bale",
+    "wof:parent_id":1108563517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1028,
+    7.1865,
+    5.1028,
+    7.1865
+],
+  "geometry": {"coordinates":[5.1028,7.1865],"type":"Point"}
+}

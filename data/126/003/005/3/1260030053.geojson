@@ -1,0 +1,71 @@
+{
+  "id": 1260030053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97508,12.15519,8.97508,12.15519",
+    "geom:latitude":12.15519,
+    "geom:longitude":8.97508,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shangel",
+    "gn:country_code":"NG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345850,
+    "gn:latitude":12.15519,
+    "gn:longitude":8.97508,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shangel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dabigel",
+        "Shangel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345850
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"393bfd8c47cf4ebe95bc1438afc0ab95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564305,
+            "locality_id":1260030053,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1260030053,
+    "wof:lastmodified":1537675313,
+    "wof:name":"Shangel",
+    "wof:parent_id":1108564305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97508,
+    12.15519,
+    8.97508,
+    12.15519
+],
+  "geometry": {"coordinates":[8.97508,12.15519],"type":"Point"}
+}

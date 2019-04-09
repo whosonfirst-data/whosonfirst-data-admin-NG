@@ -1,0 +1,71 @@
+{
+  "id": 1327486431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35259,5.35699,5.35259,5.35699",
+    "geom:latitude":5.35699,
+    "geom:longitude":5.35259,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ogula",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327610,
+    "gn:latitude":5.35699,
+    "gn:longitude":5.35259,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ogula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogulagha I",
+        "Ogula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327610
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a5afdfd250ae55f02a5219cb979d53e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563177,
+            "locality_id":1327486431,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1327486431,
+    "wof:lastmodified":1537675049,
+    "wof:name":"Ogula",
+    "wof:parent_id":1108563177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35259,
+    5.35699,
+    5.35259,
+    5.35699
+],
+  "geometry": {"coordinates":[5.35259,5.35699],"type":"Point"}
+}

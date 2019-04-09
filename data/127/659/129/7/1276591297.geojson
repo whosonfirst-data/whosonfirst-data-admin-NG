@@ -1,0 +1,68 @@
+{
+  "id": 1276591297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.32206,5.40852,6.32206,5.40852",
+    "geom:latitude":5.40852,
+    "geom:longitude":6.32206,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10010.0",
+    "gn:asciiname":"Ukpude",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100147,
+    "gn:latitude":5.40852,
+    "gn:longitude":6.32206,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ukpude",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100147
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad9b442e211438c21d69b825e90494c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563689,
+            "locality_id":1276591297,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1276591297,
+    "wof:lastmodified":1536931199,
+    "wof:name":"Ukpude",
+    "wof:parent_id":1108563689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.32206,
+    5.40852,
+    6.32206,
+    5.40852
+],
+  "geometry": {"coordinates":[6.32206,5.40852],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310233281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.09983,7.96524,7.09983,7.96524",
+    "geom:latitude":7.96524,
+    "geom:longitude":7.09983,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26012.0",
+    "gn:asciiname":"Adausu",
+    "gn:country_code":"NG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352569,
+    "gn:latitude":7.96524,
+    "gn:longitude":7.09983,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adausu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addusu",
+        "Adausu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352569
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6caa8f0fcf176a953a501f52ee49eee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564417,
+            "locality_id":1310233281,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1310233281,
+    "wof:lastmodified":1537675392,
+    "wof:name":"Adausu",
+    "wof:parent_id":1108564417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.09983,
+    7.96524,
+    7.09983,
+    7.96524
+],
+  "geometry": {"coordinates":[7.09983,7.96524],"type":"Point"}
+}

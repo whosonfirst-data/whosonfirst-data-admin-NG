@@ -1,0 +1,73 @@
+{
+  "id": 1209984863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.23295,11.26015,8.23295,11.26015",
+    "geom:latitude":11.26015,
+    "geom:longitude":8.23295,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19005.0",
+    "gn:admin3_code":"KD0504",
+    "gn:asciiname":"Ungwan Sarkin Pada",
+    "gn:country_code":"NG",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319782,
+    "gn:latitude":11.26015,
+    "gn:longitude":8.23295,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Sarkin Pada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarkin Pada",
+        "Ungwan Sarkin Pada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319782
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f812b5ef1d5ac7dc277667a89dc7e02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563589,
+            "locality_id":1209984863,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1209984863,
+    "wof:lastmodified":1537674923,
+    "wof:name":"Ungwan Sarkin Pada",
+    "wof:parent_id":1108563589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.23295,
+    11.26015,
+    8.23295,
+    11.26015
+],
+  "geometry": {"coordinates":[8.23295,11.26015],"type":"Point"}
+}

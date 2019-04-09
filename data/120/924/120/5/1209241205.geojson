@@ -1,0 +1,62 @@
+{
+  "id": 1209241205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61866,9.51442,6.61866,9.51442",
+    "geom:latitude":9.51442,
+    "geom:longitude":6.61866,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Bali",
+    "gn:country_code":"NG",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348021,
+    "gn:latitude":9.51442,
+    "gn:longitude":6.61866,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348021
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d1fcf8cab5a8d12d79f063823a242602",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241205
+        }
+    ],
+    "wof:id":1209241205,
+    "wof:lastmodified":1536293314,
+    "wof:name":"Bali",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61866,
+    9.51442,
+    6.61866,
+    9.51442
+],
+  "geometry": {"coordinates":[6.61866,9.51442],"type":"Point"}
+}

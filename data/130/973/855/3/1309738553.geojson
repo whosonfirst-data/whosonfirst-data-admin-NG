@@ -1,0 +1,68 @@
+{
+  "id": 1309738553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1,8.21667,11.1,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":11.1,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Mafindi Daka",
+    "gn:country_code":"NG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331622,
+    "gn:latitude":8.21667,
+    "gn:longitude":11.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mafindi Daka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331622
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b884f6ccb70d69823a2104c16cfcbcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563083,
+            "locality_id":1309738553,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1309738553,
+    "wof:lastmodified":1537026974,
+    "wof:name":"Mafindi Daka",
+    "wof:parent_id":1108563083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1,
+    8.21667,
+    11.1,
+    8.21667
+],
+  "geometry": {"coordinates":[11.1,8.21667],"type":"Point"}
+}

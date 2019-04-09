@@ -1,0 +1,68 @@
+{
+  "id": 1310659071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.33467,6.32467,9.33467,6.32467",
+    "geom:latitude":6.32467,
+    "geom:longitude":9.33467,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9012.0",
+    "gn:asciiname":"Matene",
+    "gn:country_code":"NG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6855322,
+    "gn:latitude":6.32467,
+    "gn:longitude":9.33467,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Matene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6855322
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0acaf6568cecb8b5d941c91c3c6a0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564067,
+            "locality_id":1310659071,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1310659071,
+    "wof:lastmodified":1536695705,
+    "wof:name":"Matene",
+    "wof:parent_id":1108564067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.33467,
+    6.32467,
+    9.33467,
+    6.32467
+],
+  "geometry": {"coordinates":[9.33467,6.32467],"type":"Point"}
+}

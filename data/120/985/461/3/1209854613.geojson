@@ -1,0 +1,74 @@
+{
+  "id": 1209854613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73141,5.90757,5.73141,5.90757",
+    "geom:latitude":5.90757,
+    "geom:longitude":5.73141,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10006.0",
+    "gn:asciiname":"Mosagon",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330161,
+    "gn:latitude":5.90757,
+    "gn:longitude":5.73141,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mosagon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mosagon"
+    ],
+    "name:eng_x_variant":[
+        "Michaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330161
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e4cd96c5e0a192c8a7ce72670aa71bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563335,
+            "locality_id":1209854613,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1209854613,
+    "wof:lastmodified":1537675092,
+    "wof:name":"Mosagon",
+    "wof:parent_id":1108563335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73141,
+    5.90757,
+    5.73141,
+    5.90757
+],
+  "geometry": {"coordinates":[5.73141,5.90757],"type":"Point"}
+}

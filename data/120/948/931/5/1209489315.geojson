@@ -1,0 +1,62 @@
+{
+  "id": 1209489315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.63324,5.26139,7.63324,5.26139",
+    "geom:latitude":5.26139,
+    "geom:longitude":7.63324,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3022.0",
+    "gn:asciiname":"Oku-Obom",
+    "gn:country_code":"NG",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073390,
+    "gn:latitude":5.26139,
+    "gn:longitude":7.63324,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oku-Obom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073390
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9943312e9abbf7130bebf692a3f2c24d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209489315
+        }
+    ],
+    "wof:id":1209489315,
+    "wof:lastmodified":1536285536,
+    "wof:name":"Oku-Obom",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.63324,
+    5.2613900000000005,
+    7.63324,
+    5.2613900000000005
+],
+  "geometry": {"coordinates":[7.63324,5.26139],"type":"Point"}
+}

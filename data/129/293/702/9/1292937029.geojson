@@ -1,0 +1,68 @@
+{
+  "id": 1292937029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.07065,7.39779,10.07065,7.39779",
+    "geom:latitude":7.39779,
+    "geom:longitude":10.07065,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012.0",
+    "gn:asciiname":"Nbaume",
+    "gn:country_code":"NG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329390,
+    "gn:latitude":7.39779,
+    "gn:longitude":10.07065,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nbaume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329390
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a544300e782d9066c92af7edf7834abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1292937029,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1292937029,
+    "wof:lastmodified":1537080614,
+    "wof:name":"Nbaume",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.07065,
+    7.39779,
+    10.07065,
+    7.39779
+],
+  "geometry": {"coordinates":[10.07065,7.39779],"type":"Point"}
+}

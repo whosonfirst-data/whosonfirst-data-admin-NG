@@ -1,0 +1,71 @@
+{
+  "id": 1242806335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5408,4.9654,5.5408,4.9654",
+    "geom:latitude":4.9654,
+    "geom:longitude":5.5408,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Mamwatagbene",
+    "gn:country_code":"NG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040507,
+    "gn:latitude":4.9654,
+    "gn:longitude":5.5408,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Mamwatagbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mamwatagbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040507
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5aacd6004b030048756f7a110b1ebf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563285,
+            "locality_id":1242806335,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1242806335,
+    "wof:lastmodified":1537675434,
+    "wof:name":"Mamwatagbene",
+    "wof:parent_id":1108563285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5408,
+    4.9654,
+    5.5408,
+    4.9654
+],
+  "geometry": {"coordinates":[5.5408,4.9654],"type":"Point"}
+}

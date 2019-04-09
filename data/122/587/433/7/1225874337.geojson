@@ -1,0 +1,68 @@
+{
+  "id": 1225874337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4461,5.04954,6.4461,5.04954",
+    "geom:latitude":5.04954,
+    "geom:longitude":6.4461,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33003.0",
+    "gn:asciiname":"Agbo",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101244,
+    "gn:latitude":5.04954,
+    "gn:longitude":6.4461,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101244
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"583f7c22e74ab3b97711d3cdaf06c6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562947,
+            "locality_id":1225874337,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1225874337,
+    "wof:lastmodified":1536972196,
+    "wof:name":"Agbo",
+    "wof:parent_id":1108562947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4461,
+    5.04954,
+    6.4461,
+    5.04954
+],
+  "geometry": {"coordinates":[6.4461,5.04954],"type":"Point"}
+}

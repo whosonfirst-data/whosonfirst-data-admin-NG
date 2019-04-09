@@ -1,0 +1,63 @@
+{
+  "id": 1209344009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.03016,10.22567,9.03016,10.22567",
+    "geom:latitude":10.22567,
+    "geom:longitude":9.03016,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5018.0",
+    "gn:admin3_code":"BA1815",
+    "gn:asciiname":"Laru",
+    "gn:country_code":"NG",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332223,
+    "gn:latitude":10.22567,
+    "gn:longitude":9.03016,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Laru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332223
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6560b5ec7e4aa11e3ca21b98d4e1cf3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344009
+        }
+    ],
+    "wof:id":1209344009,
+    "wof:lastmodified":1536289972,
+    "wof:name":"Laru",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.03016,
+    10.22567,
+    9.03016,
+    10.22567
+],
+  "geometry": {"coordinates":[9.03016,10.22567],"type":"Point"}
+}

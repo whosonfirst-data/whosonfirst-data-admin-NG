@@ -1,0 +1,65 @@
+{
+  "id": 1209241295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.58023,9.21471,9.58023,9.21471",
+    "geom:latitude":9.21471,
+    "geom:longitude":9.58023,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32013.0",
+    "gn:asciiname":"Kup",
+    "gn:country_code":"NG",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333323,
+    "gn:latitude":9.21471,
+    "gn:longitude":9.58023,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kup",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333323
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2e3fe38399e07e98e887a5ccfdb152e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241295
+        }
+    ],
+    "wof:id":1209241295,
+    "wof:lastmodified":1537675128,
+    "wof:name":"Kup",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.58023,
+    9.21471,
+    9.58023,
+    9.21471
+],
+  "geometry": {"coordinates":[9.58023,9.21471],"type":"Point"}
+}

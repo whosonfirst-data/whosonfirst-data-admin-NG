@@ -1,0 +1,73 @@
+{
+  "id": 1226470803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45418,12.91839,5.45418,12.91839",
+    "geom:latitude":12.91839,
+    "geom:longitude":5.45418,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60304",
+    "gn:asciiname":"Hammari",
+    "gn:country_code":"NG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339508,
+    "gn:latitude":12.91839,
+    "gn:longitude":5.45418,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hammari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hetereti",
+        "Hammari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339508
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b58381e1ce7f811670acb6006f819835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563211,
+            "locality_id":1226470803,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1226470803,
+    "wof:lastmodified":1537675215,
+    "wof:name":"Hammari",
+    "wof:parent_id":1108563211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45418,
+    12.91839,
+    5.45418,
+    12.91839
+],
+  "geometry": {"coordinates":[5.45418,12.91839],"type":"Point"}
+}

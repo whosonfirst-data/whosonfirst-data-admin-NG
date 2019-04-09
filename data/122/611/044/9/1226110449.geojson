@@ -1,0 +1,67 @@
+{
+  "id": 1226110449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75663,12.65126,8.75663,12.65126",
+    "geom:latitude":12.65126,
+    "geom:longitude":8.75663,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Yan Tuba",
+    "gn:country_code":"NG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974166,
+    "gn:latitude":12.65126,
+    "gn:longitude":8.75663,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Yan Tuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974166
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7f0e72dfc96e482e2417efedba268026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1226110449,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1226110449,
+    "wof:lastmodified":1536630195,
+    "wof:name":"Yan Tuba",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75663,
+    12.65126,
+    8.75663,
+    12.65126
+],
+  "geometry": {"coordinates":[8.75663,12.65126],"type":"Point"}
+}

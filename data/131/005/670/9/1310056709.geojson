@@ -1,0 +1,69 @@
+{
+  "id": 1310056709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.19041,12.82356,13.19041,12.82356",
+    "geom:latitude":12.82356,
+    "geom:longitude":13.19041,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"110.0",
+    "gn:admin3_code":"11001",
+    "gn:asciiname":"Aduba",
+    "gn:country_code":"NG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352345,
+    "gn:latitude":12.82356,
+    "gn:longitude":13.19041,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aduba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352345
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7bedbad4606098b927782e4c4d74b87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563459,
+            "locality_id":1310056709,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1310056709,
+    "wof:lastmodified":1537064169,
+    "wof:name":"Aduba",
+    "wof:parent_id":1108563459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.19041,
+    12.82356,
+    13.19041,
+    12.82356
+],
+  "geometry": {"coordinates":[13.19041,12.82356],"type":"Point"}
+}

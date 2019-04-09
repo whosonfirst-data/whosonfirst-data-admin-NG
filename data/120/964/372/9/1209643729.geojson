@@ -1,0 +1,62 @@
+{
+  "id": 1209643729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45779,5.15212,7.45779,5.15212",
+    "geom:latitude":5.15212,
+    "geom:longitude":7.45779,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Umu Obiakwa",
+    "gn:country_code":"NG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320403,
+    "gn:latitude":5.15212,
+    "gn:longitude":7.45779,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umu Obiakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320403
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b8bcb9b78e607fea15c70e7a290048d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209643729
+        }
+    ],
+    "wof:id":1209643729,
+    "wof:lastmodified":1536280803,
+    "wof:name":"Umu Obiakwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.457789999999998,
+    5.15212,
+    7.457789999999998,
+    5.15212
+],
+  "geometry": {"coordinates":[7.45779,5.15212],"type":"Point"}
+}

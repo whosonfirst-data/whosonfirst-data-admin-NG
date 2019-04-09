@@ -1,0 +1,68 @@
+{
+  "id": 1259750265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.03443,7.07584,8.03443,7.07584",
+    "geom:latitude":7.07584,
+    "geom:longitude":8.03443,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7019.0",
+    "gn:asciiname":"Upper Atito",
+    "gn:country_code":"NG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852216,
+    "gn:latitude":7.07584,
+    "gn:longitude":8.03443,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Upper Atito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852216
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4b414a07bb4472dfb4b83d3703ea868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564239,
+            "locality_id":1259750265,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259750265,
+    "wof:lastmodified":1536970738,
+    "wof:name":"Upper Atito",
+    "wof:parent_id":1108564239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.03443,
+    7.07584,
+    8.03443,
+    7.07584
+],
+  "geometry": {"coordinates":[8.03443,7.07584],"type":"Point"}
+}

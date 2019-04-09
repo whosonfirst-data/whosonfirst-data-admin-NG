@@ -1,0 +1,68 @@
+{
+  "id": 1193045815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.10904,9.40012,9.10904,9.40012",
+    "geom:latitude":9.40012,
+    "geom:longitude":9.10904,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32011.0",
+    "gn:asciiname":"Ruf",
+    "gn:country_code":"NG",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324372,
+    "gn:latitude":9.40012,
+    "gn:longitude":9.10904,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Ruf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324372
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5bfa53fdf1c93d290be6b0cdb7b1ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563941,
+            "locality_id":1193045815,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1193045815,
+    "wof:lastmodified":1536371088,
+    "wof:name":"Ruf",
+    "wof:parent_id":1108563941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.10904,
+    9.40012,
+    9.10904,
+    9.40012
+],
+  "geometry": {"coordinates":[9.10904,9.40012],"type":"Point"}
+}

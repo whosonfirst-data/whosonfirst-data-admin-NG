@@ -1,0 +1,68 @@
+{
+  "id": 1344120667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06379,6.96244,4.06379,6.96244",
+    "geom:latitude":6.96244,
+    "geom:longitude":4.06379,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28009.0",
+    "gn:asciiname":"Egan-Imoro",
+    "gn:country_code":"NG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969492,
+    "gn:latitude":6.96244,
+    "gn:longitude":4.06379,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egan-Imoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969492
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"81750db883245a7986ca3a66740136c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563573,
+            "locality_id":1344120667,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1344120667,
+    "wof:lastmodified":1536789292,
+    "wof:name":"Egan-Imoro",
+    "wof:parent_id":1108563573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06379,
+    6.96244,
+    4.06379,
+    6.96244
+],
+  "geometry": {"coordinates":[4.06379,6.96244],"type":"Point"}
+}

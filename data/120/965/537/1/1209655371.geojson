@@ -1,0 +1,62 @@
+{
+  "id": 1209655371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.32353,10.02483,12.32353,10.02483",
+    "geom:latitude":10.02483,
+    "geom:longitude":12.32353,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Korokom",
+    "gn:country_code":"NG",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836874,
+    "gn:latitude":10.02483,
+    "gn:longitude":12.32353,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Korokom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836874
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f249c9101e08b146c680717058dc6f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209655371
+        }
+    ],
+    "wof:id":1209655371,
+    "wof:lastmodified":1536280446,
+    "wof:name":"Korokom",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.32353,
+    10.02483,
+    12.32353,
+    10.02483
+],
+  "geometry": {"coordinates":[12.32353,10.02483],"type":"Point"}
+}

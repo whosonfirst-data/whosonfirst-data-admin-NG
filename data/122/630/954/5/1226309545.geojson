@@ -1,0 +1,69 @@
+{
+  "id": 1226309545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2224,11.22088,13.2224,11.22088",
+    "geom:latitude":11.22088,
+    "geom:longitude":13.2224,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111",
+    "gn:admin3_code":"11102",
+    "gn:asciiname":"Mulgwe",
+    "gn:country_code":"NG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8991756,
+    "gn:latitude":11.22088,
+    "gn:longitude":13.2224,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mulgwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991756
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c4e712ca477e67cdd0df68c5a682d934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1226309545,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226309545,
+    "wof:lastmodified":1536840771,
+    "wof:name":"Mulgwe",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2224,
+    11.22088,
+    13.2224,
+    11.22088
+],
+  "geometry": {"coordinates":[13.2224,11.22088],"type":"Point"}
+}

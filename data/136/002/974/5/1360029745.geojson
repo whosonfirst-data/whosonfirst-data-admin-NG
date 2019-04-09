@@ -1,0 +1,68 @@
+{
+  "id": 1360029745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.16296,9.96735,13.16296,9.96735",
+    "geom:latitude":9.96735,
+    "geom:longitude":13.16296,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Kowagol Boshe",
+    "gn:country_code":"NG",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8675589,
+    "gn:latitude":9.96735,
+    "gn:longitude":13.16296,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kowagol Boshe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8675589
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1a533fa0341afea2dc4d5e994ab7c8de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563927,
+            "locality_id":1360029745,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1360029745,
+    "wof:lastmodified":1537024455,
+    "wof:name":"Kowagol Boshe",
+    "wof:parent_id":1108563927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.16296,
+    9.96735,
+    13.16296,
+    9.96735
+],
+  "geometry": {"coordinates":[13.16296,9.96735],"type":"Point"}
+}

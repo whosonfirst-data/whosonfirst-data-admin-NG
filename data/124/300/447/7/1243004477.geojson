@@ -1,0 +1,74 @@
+{
+  "id": 1243004477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94274,9.49282,10.94274,9.49282",
+    "geom:latitude":9.49282,
+    "geom:longitude":10.94274,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Senge",
+    "gn:country_code":"NG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323494,
+    "gn:latitude":9.49282,
+    "gn:longitude":10.94274,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Senge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Senge"
+    ],
+    "name:eng_x_variant":[
+        "Anjodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323494
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ee3e2a445af1613879b7aa5cbace1016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1243004477,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1243004477,
+    "wof:lastmodified":1537674989,
+    "wof:name":"Senge",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94274,
+    9.49282,
+    10.94274,
+    9.49282
+],
+  "geometry": {"coordinates":[10.94274,9.49282],"type":"Point"}
+}

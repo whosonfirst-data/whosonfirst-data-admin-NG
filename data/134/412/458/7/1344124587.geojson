@@ -1,0 +1,68 @@
+{
+  "id": 1344124587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.13002,6.05166,7.13002,6.05166",
+    "geom:latitude":6.05166,
+    "geom:longitude":7.13002,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4019.0",
+    "gn:asciiname":"Ndiowu",
+    "gn:country_code":"NG",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329224,
+    "gn:latitude":6.05166,
+    "gn:longitude":7.13002,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndiowu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329224
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"533b07c3358dd31301f7ff692f04d5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564223,
+            "locality_id":1344124587,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1344124587,
+    "wof:lastmodified":1536783650,
+    "wof:name":"Ndiowu",
+    "wof:parent_id":1108564223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.13002,
+    6.05166,
+    7.13002,
+    6.05166
+],
+  "geometry": {"coordinates":[7.13002,6.05166],"type":"Point"}
+}

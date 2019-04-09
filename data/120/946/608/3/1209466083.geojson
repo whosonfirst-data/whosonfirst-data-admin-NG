@@ -1,0 +1,63 @@
+{
+  "id": 1209466083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22282,12.13251,14.22282,12.13251",
+    "geom:latitude":12.13251,
+    "geom:longitude":14.22282,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"12506",
+    "gn:asciiname":"Gamboro",
+    "gn:country_code":"NG",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783196,
+    "gn:latitude":12.13251,
+    "gn:longitude":14.22282,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gamboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783196
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0588467902ecd612b6928710cbbd895d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209466083
+        }
+    ],
+    "wof:id":1209466083,
+    "wof:lastmodified":1536286230,
+    "wof:name":"Gamboro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22282,
+    12.13251,
+    14.22282,
+    12.13251
+],
+  "geometry": {"coordinates":[14.22282,12.13251],"type":"Point"}
+}

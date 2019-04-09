@@ -1,0 +1,71 @@
+{
+  "id": 1260327463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.26791,9.49413,12.26791,9.49413",
+    "geom:latitude":9.49413,
+    "geom:longitude":12.26791,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Kpakmiagi",
+    "gn:country_code":"NG",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333851,
+    "gn:latitude":9.49413,
+    "gn:longitude":12.26791,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Kpakmiagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpakmiagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333851
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8f2d5a39648da6409d3e675cfdd1f51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563431,
+            "locality_id":1260327463,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1260327463,
+    "wof:lastmodified":1537675134,
+    "wof:name":"Kpakmiagi",
+    "wof:parent_id":1108563431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.26791,
+    9.49413,
+    12.26791,
+    9.49413
+],
+  "geometry": {"coordinates":[12.26791,9.49413],"type":"Point"}
+}

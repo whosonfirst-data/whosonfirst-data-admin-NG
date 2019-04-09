@@ -1,0 +1,73 @@
+{
+  "id": 1343909033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.77379,10.3352,11.77379,10.3352",
+    "geom:latitude":10.3352,
+    "geom:longitude":11.77379,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10409",
+    "gn:asciiname":"Guberundi",
+    "gn:country_code":"NG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340253,
+    "gn:latitude":10.3352,
+    "gn:longitude":11.77379,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guberundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guburunde",
+        "Guberundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340253
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d345491516d51781c6e5351fcbc82ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563105,
+            "locality_id":1343909033,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1343909033,
+    "wof:lastmodified":1537675224,
+    "wof:name":"Guberundi",
+    "wof:parent_id":1108563105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.77379,
+    10.3352,
+    11.77379,
+    10.3352
+],
+  "geometry": {"coordinates":[11.77379,10.3352],"type":"Point"}
+}

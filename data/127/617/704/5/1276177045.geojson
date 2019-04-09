@@ -1,0 +1,75 @@
+{
+  "id": 1276177045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90601,5.59943,5.90601,5.59943",
+    "geom:latitude":5.59943,
+    "geom:longitude":5.90601,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Oghwrughelli",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027986,
+    "gn:latitude":5.59943,
+    "gn:longitude":5.90601,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Oghwrughelli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uvwrughelli"
+    ],
+    "name:und_x_variant":[
+        "Ughwrughelli",
+        "Oghwrughelli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027986
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"703afa04c897bcb670be5a8c31820117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1276177045,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1276177045,
+    "wof:lastmodified":1537675423,
+    "wof:name":"Oghwrughelli",
+    "wof:parent_id":1108564439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90601,
+    5.59943,
+    5.90601,
+    5.59943
+],
+  "geometry": {"coordinates":[5.90601,5.59943],"type":"Point"}
+}

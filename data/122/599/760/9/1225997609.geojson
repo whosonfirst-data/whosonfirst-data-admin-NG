@@ -1,0 +1,71 @@
+{
+  "id": 1225997609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.82706,5.86444,5.82706,5.86444",
+    "geom:latitude":5.86444,
+    "geom:longitude":5.82706,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10006.0",
+    "gn:asciiname":"Irhodo",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027867,
+    "gn:latitude":5.86444,
+    "gn:longitude":5.82706,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Irhodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Irhodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027867
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f7d14ec0fe9296d3eccdd1f50cc18e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563335,
+            "locality_id":1225997609,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1225997609,
+    "wof:lastmodified":1537675418,
+    "wof:name":"Irhodo",
+    "wof:parent_id":1108563335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.82706,
+    5.86444,
+    5.82706,
+    5.86444
+],
+  "geometry": {"coordinates":[5.82706,5.86444],"type":"Point"}
+}

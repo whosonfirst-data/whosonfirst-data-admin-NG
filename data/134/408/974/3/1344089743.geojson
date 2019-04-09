@@ -1,0 +1,71 @@
+{
+  "id": 1344089743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.81713,9.46442,5.81713,9.46442",
+    "geom:latitude":9.46442,
+    "geom:longitude":5.81713,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27013.0",
+    "gn:asciiname":"Ezhingi",
+    "gn:country_code":"NG",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2342916,
+    "gn:latitude":9.46442,
+    "gn:longitude":5.81713,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ezhingi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ezhigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342916
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5f1699cf2eb3dc75618db4da534abcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563899,
+            "locality_id":1344089743,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1344089743,
+    "wof:lastmodified":1537675268,
+    "wof:name":"Ezhingi",
+    "wof:parent_id":1108563899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81713,
+    9.46442,
+    5.81713,
+    9.46442
+],
+  "geometry": {"coordinates":[5.81713,9.46442],"type":"Point"}
+}

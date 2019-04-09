@@ -1,0 +1,68 @@
+{
+  "id": 1327162685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.82111,8.43556,7.82111,8.43556",
+    "geom:latitude":8.43556,
+    "geom:longitude":7.82111,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26009.0",
+    "gn:asciiname":"Ombi",
+    "gn:country_code":"NG",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326267,
+    "gn:latitude":8.43556,
+    "gn:longitude":7.82111,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326267
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"53c8ecb006858faccc8909df0d343c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564015,
+            "locality_id":1327162685,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1327162685,
+    "wof:lastmodified":1537067445,
+    "wof:name":"Ombi",
+    "wof:parent_id":1108564015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.82111,
+    8.43556,
+    7.82111,
+    8.43556
+],
+  "geometry": {"coordinates":[7.82111,8.43556],"type":"Point"}
+}

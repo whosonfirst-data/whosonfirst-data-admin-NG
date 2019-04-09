@@ -1,0 +1,73 @@
+{
+  "id": 1343987557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85029,9.77748,10.85029,9.77748",
+    "geom:latitude":9.77748,
+    "geom:longitude":10.85029,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Jubajo",
+    "gn:country_code":"NG",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258911,
+    "gn:latitude":9.77748,
+    "gn:longitude":10.85029,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Jubajo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jubajo"
+    ],
+    "name:eng_x_variant":[
+        "Yolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258911
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"05ee2d3d09c111fc42ab965c265f5ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1343987557,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1343987557,
+    "wof:lastmodified":1537675512,
+    "wof:name":"Jubajo",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85029,
+    9.77748,
+    10.85029,
+    9.77748
+],
+  "geometry": {"coordinates":[10.85029,9.77748],"type":"Point"}
+}

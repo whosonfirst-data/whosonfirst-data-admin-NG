@@ -1,0 +1,69 @@
+{
+  "id": 1343691403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30424,11.555,12.30424,11.555",
+    "geom:latitude":11.555,
+    "geom:longitude":12.30424,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"707.0",
+    "gn:admin3_code":"70705",
+    "gn:asciiname":"Gotala",
+    "gn:country_code":"NG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340304,
+    "gn:latitude":11.555,
+    "gn:longitude":12.30424,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gotala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340304
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3c7acee1d772ba74851416b8fa9aa9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563441,
+            "locality_id":1343691403,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1343691403,
+    "wof:lastmodified":1536910934,
+    "wof:name":"Gotala",
+    "wof:parent_id":1108563441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30424,
+    11.555,
+    12.30424,
+    11.555
+],
+  "geometry": {"coordinates":[12.30424,11.555],"type":"Point"}
+}

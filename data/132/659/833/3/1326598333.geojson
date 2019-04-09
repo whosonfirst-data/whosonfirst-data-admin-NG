@@ -1,0 +1,69 @@
+{
+  "id": 1326598333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81244,9.54228,7.81244,9.54228",
+    "geom:latitude":9.54228,
+    "geom:longitude":7.81244,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19011.0",
+    "gn:admin3_code":"KD1110",
+    "gn:asciiname":"Kadan",
+    "gn:country_code":"NG",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335775,
+    "gn:latitude":9.54228,
+    "gn:longitude":7.81244,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kadan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335775
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"53e9f5ab5ab8225e364d8567fcbdb97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563749,
+            "locality_id":1326598333,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1326598333,
+    "wof:lastmodified":1536888390,
+    "wof:name":"Kadan",
+    "wof:parent_id":1108563749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81244,
+    9.54228,
+    7.81244,
+    9.54228
+],
+  "geometry": {"coordinates":[7.81244,9.54228],"type":"Point"}
+}

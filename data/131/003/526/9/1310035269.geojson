@@ -1,0 +1,72 @@
+{
+  "id": 1310035269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68961,7.16862,10.68961,7.16862",
+    "geom:latitude":7.16862,
+    "geom:longitude":10.68961,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Gidan Adaji",
+    "gn:country_code":"NG",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341200,
+    "gn:latitude":7.16862,
+    "gn:longitude":10.68961,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Adaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adaji",
+        "Gidan Adaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341200
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bbe2bd49b4cfff9cad549e574cd3d2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1310035269,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1310035269,
+    "wof:lastmodified":1537675247,
+    "wof:name":"Gidan Adaji",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68961,
+    7.16862,
+    10.68961,
+    7.16862
+],
+  "geometry": {"coordinates":[10.68961,7.16862],"type":"Point"}
+}

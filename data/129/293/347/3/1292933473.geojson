@@ -1,0 +1,68 @@
+{
+  "id": 1292933473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.47323,6.05138,7.47323,6.05138",
+    "geom:latitude":6.05138,
+    "geom:longitude":7.47323,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14002.0",
+    "gn:asciiname":"Onoli",
+    "gn:country_code":"NG",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325982,
+    "gn:latitude":6.05138,
+    "gn:longitude":7.47323,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325982
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"01ec0f7cee3e05ae78261eac75c0b950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563055,
+            "locality_id":1292933473,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1292933473,
+    "wof:lastmodified":1537085774,
+    "wof:name":"Onoli",
+    "wof:parent_id":1108563055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.47323,
+    6.05138,
+    7.47323,
+    6.05138
+],
+  "geometry": {"coordinates":[7.47323,6.05138],"type":"Point"}
+}

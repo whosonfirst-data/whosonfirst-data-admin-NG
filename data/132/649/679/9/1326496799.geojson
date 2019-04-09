@@ -1,0 +1,73 @@
+{
+  "id": 1326496799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.6099,10.34764,11.6099,10.34764",
+    "geom:latitude":10.34764,
+    "geom:longitude":11.6099,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10402",
+    "gn:asciiname":"Briyel",
+    "gn:country_code":"NG",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2346719,
+    "gn:latitude":10.34764,
+    "gn:longitude":11.6099,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Briyel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bryel",
+        "Biriyel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346719
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6c365079b2acb69c86422040838377be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563105,
+            "locality_id":1326496799,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1326496799,
+    "wof:lastmodified":1537675324,
+    "wof:name":"Briyel",
+    "wof:parent_id":1108563105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.6099,
+    10.34764,
+    11.6099,
+    10.34764
+],
+  "geometry": {"coordinates":[11.6099,10.34764],"type":"Point"}
+}

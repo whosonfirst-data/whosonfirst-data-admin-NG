@@ -1,0 +1,72 @@
+{
+  "id": 1260113329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.051,9.56053,7.051,9.56053",
+    "geom:latitude":9.56053,
+    "geom:longitude":7.051,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Jibigida",
+    "gn:country_code":"NG",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336140,
+    "gn:latitude":9.56053,
+    "gn:longitude":7.051,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jibigida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jibidiga",
+        "Jibigida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336140
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b2454904388f88d48248962f48c04312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1260113329,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1260113329,
+    "wof:lastmodified":1537675164,
+    "wof:name":"Jibigida",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.051,
+    9.56053,
+    7.051,
+    9.56053
+],
+  "geometry": {"coordinates":[7.051,9.56053],"type":"Point"}
+}

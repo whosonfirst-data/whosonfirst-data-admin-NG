@@ -1,0 +1,63 @@
+{
+  "id": 1209033305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.39345,11.40917,6.39345,11.40917",
+    "geom:latitude":11.40917,
+    "geom:longitude":6.39345,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81005",
+    "gn:asciiname":"Majara",
+    "gn:country_code":"NG",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040075,
+    "gn:latitude":11.40917,
+    "gn:longitude":6.39345,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Majara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040075
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"952f774e5d15c87a023a524ff93ec432",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209033305
+        }
+    ],
+    "wof:id":1209033305,
+    "wof:lastmodified":1536299782,
+    "wof:name":"Majara",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.39345,
+    11.40917,
+    6.39345,
+    11.40917
+],
+  "geometry": {"coordinates":[6.39345,11.40917],"type":"Point"}
+}

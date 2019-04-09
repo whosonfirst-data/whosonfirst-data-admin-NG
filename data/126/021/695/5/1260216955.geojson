@@ -1,0 +1,73 @@
+{
+  "id": 1260216955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.89366,12.20861,6.89366,12.20861",
+    "geom:latitude":12.20861,
+    "geom:longitude":6.89366,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80711",
+    "gn:asciiname":"Tangali",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320159,
+    "gn:latitude":12.20861,
+    "gn:longitude":6.89366,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tangali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unguwar Tangali",
+        "Tangali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320159
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d761fb92b3cc3609823df3317d5230d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563455,
+            "locality_id":1260216955,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1260216955,
+    "wof:lastmodified":1537674936,
+    "wof:name":"Tangali",
+    "wof:parent_id":1108563455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.89366,
+    12.20861,
+    6.89366,
+    12.20861
+],
+  "geometry": {"coordinates":[6.89366,12.20861],"type":"Point"}
+}

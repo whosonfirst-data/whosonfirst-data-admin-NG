@@ -1,0 +1,71 @@
+{
+  "id": 1327261501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.892,4.79461,5.892,4.79461",
+    "geom:latitude":4.79461,
+    "geom:longitude":5.892,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Gbaran",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341461,
+    "gn:latitude":4.79461,
+    "gn:longitude":5.892,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Gbaran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341461
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c41acb13d666dec56af117a2f81ddb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564377,
+            "locality_id":1327261501,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1327261501,
+    "wof:lastmodified":1537675251,
+    "wof:name":"Gbaran",
+    "wof:parent_id":1108564377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.892,
+    4.79461,
+    5.892,
+    4.79461
+],
+  "geometry": {"coordinates":[5.892,4.79461],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209182909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9642,5.34079,7.9642,5.34079",
+    "geom:latitude":5.34079,
+    "geom:longitude":7.9642,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9015.0",
+    "gn:asciiname":"Akpabio",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073336,
+    "gn:latitude":5.34079,
+    "gn:longitude":7.9642,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akpabio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073336
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5104166cfc11d8701dbeef9baa4e7842",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209182909
+        }
+    ],
+    "wof:id":1209182909,
+    "wof:lastmodified":1536295197,
+    "wof:name":"Akpabio",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9642,
+    5.34079,
+    7.9642,
+    5.34079
+],
+  "geometry": {"coordinates":[7.9642,5.34079],"type":"Point"}
+}

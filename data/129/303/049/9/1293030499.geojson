@@ -1,0 +1,72 @@
+{
+  "id": 1293030499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80743,13.07138,10.80743,13.07138",
+    "geom:latitude":13.07138,
+    "geom:longitude":10.80743,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"710.0",
+    "gn:admin3_code":"71008",
+    "gn:asciiname":"Garin Mallam Arube",
+    "gn:country_code":"NG",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331107,
+    "gn:latitude":13.07138,
+    "gn:longitude":10.80743,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garin Mallam Arube",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malamabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331107
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f91c3082c761f69ca3b3c878638e6ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563779,
+            "locality_id":1293030499,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1293030499,
+    "wof:lastmodified":1537675103,
+    "wof:name":"Garin Mallam Arube",
+    "wof:parent_id":1108563779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80743,
+    13.07138,
+    10.80743,
+    13.07138
+],
+  "geometry": {"coordinates":[10.80743,13.07138],"type":"Point"}
+}

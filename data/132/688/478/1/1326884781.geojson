@@ -1,0 +1,68 @@
+{
+  "id": 1326884781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.07434,7.00242,8.07434,7.00242",
+    "geom:latitude":7.00242,
+    "geom:longitude":8.07434,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7001.0",
+    "gn:asciiname":"Adum",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852173,
+    "gn:latitude":7.00242,
+    "gn:longitude":8.07434,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108562923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852173
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d9af3abac8a8fee82e9ad03c54da684d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562923,
+            "locality_id":1326884781,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326884781,
+    "wof:lastmodified":1536972837,
+    "wof:name":"Adum",
+    "wof:parent_id":1108562923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.07434,
+    7.00242,
+    8.07434,
+    7.00242
+],
+  "geometry": {"coordinates":[8.07434,7.00242],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344007481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.93333,8.18333,4.93333,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":4.93333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24009.0",
+    "gn:asciiname":"Ijan",
+    "gn:country_code":"NG",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338429,
+    "gn:latitude":8.18333,
+    "gn:longitude":4.93333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338429
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f53d6785fe34d1265897e922ea84824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563655,
+            "locality_id":1344007481,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1344007481,
+    "wof:lastmodified":1536952383,
+    "wof:name":"Ijan",
+    "wof:parent_id":1108563655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.93333,
+    8.18333,
+    4.93333,
+    8.18333
+],
+  "geometry": {"coordinates":[4.93333,8.18333],"type":"Point"}
+}

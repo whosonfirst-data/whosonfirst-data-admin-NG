@@ -1,0 +1,64 @@
+{
+  "id": 1209046759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.89598,9.15561,11.89598,9.15561",
+    "geom:latitude":9.15561,
+    "geom:longitude":11.89598,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Gongoshi",
+    "gn:country_code":"NG",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210543,
+    "gn:latitude":9.15561,
+    "gn:longitude":11.89598,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Gongoshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gongoshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210543
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b6dfff28a0340ef551d84ada2dadb6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209046759
+        }
+    ],
+    "wof:id":1209046759,
+    "wof:lastmodified":1537675509,
+    "wof:name":"Gongoshi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.89598,
+    9.15561,
+    11.89598,
+    9.15561
+],
+  "geometry": {"coordinates":[11.89598,9.15561],"type":"Point"}
+}

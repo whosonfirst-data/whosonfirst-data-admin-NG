@@ -1,0 +1,68 @@
+{
+  "id": 1260242097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9,8.63333,4.9,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":4.9,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24006.0",
+    "gn:asciiname":"Marafa",
+    "gn:country_code":"NG",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330837,
+    "gn:latitude":8.63333,
+    "gn:longitude":4.9,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Marafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330837
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ab3b64c39f2fbd7e59af5910788e7c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563635,
+            "locality_id":1260242097,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1260242097,
+    "wof:lastmodified":1536768574,
+    "wof:name":"Marafa",
+    "wof:parent_id":1108563635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9,
+    8.63333,
+    4.9,
+    8.63333
+],
+  "geometry": {"coordinates":[4.9,8.63333],"type":"Point"}
+}

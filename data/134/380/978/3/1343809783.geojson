@@ -1,0 +1,72 @@
+{
+  "id": 1343809783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5909,7.137,6.5909,7.137",
+    "geom:latitude":7.137,
+    "geom:longitude":6.5909,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12008.0",
+    "gn:asciiname":"Ivianopodi",
+    "gn:country_code":"NG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336962,
+    "gn:latitude":7.137,
+    "gn:longitude":6.5909,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ivianopodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iyanipodi",
+        "Ivianopodi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336962
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2f073d55878b80133c07ca6339257056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563343,
+            "locality_id":1343809783,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343809783,
+    "wof:lastmodified":1537675174,
+    "wof:name":"Ivianopodi",
+    "wof:parent_id":1108563343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5909,
+    7.137,
+    6.5909,
+    7.137
+],
+  "geometry": {"coordinates":[6.5909,7.137],"type":"Point"}
+}

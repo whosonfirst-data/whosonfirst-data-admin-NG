@@ -1,0 +1,68 @@
+{
+  "id": 1360078115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.36417,6.50278,3.36417,6.50278",
+    "geom:latitude":6.50278,
+    "geom:longitude":3.36417,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25018.0",
+    "gn:asciiname":"New Lagos",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566649,
+    "gn:latitude":6.50278,
+    "gn:longitude":3.36417,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"New Lagos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421175165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566649
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c607d3e40f0b7b4122605feb8fe7bf71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421175165,
+            "locality_id":1360078115,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1360078115,
+    "wof:lastmodified":1536955848,
+    "wof:name":"New Lagos",
+    "wof:parent_id":421175165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.36417,
+    6.50278,
+    3.36417,
+    6.50278
+],
+  "geometry": {"coordinates":[3.36417,6.50278],"type":"Point"}
+}

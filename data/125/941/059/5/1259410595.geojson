@@ -1,0 +1,67 @@
+{
+  "id": 1259410595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.10879,9.18917,7.10879,9.18917",
+    "geom:latitude":9.18917,
+    "geom:longitude":7.10879,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Abuchi",
+    "gn:country_code":"NG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352793,
+    "gn:latitude":9.18917,
+    "gn:longitude":7.10879,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Abuchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352793
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7fa6b003ba21e41fbd2b7d1c9721ec3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563461,
+            "locality_id":1259410595,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1259410595,
+    "wof:lastmodified":1536963479,
+    "wof:name":"Abuchi",
+    "wof:parent_id":1108563461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.10879,
+    9.18917,
+    7.10879,
+    9.18917
+],
+  "geometry": {"coordinates":[7.10879,9.18917],"type":"Point"}
+}

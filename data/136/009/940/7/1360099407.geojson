@@ -1,0 +1,63 @@
+{
+  "id": 1360099407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78333,6.96667,10.78333,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":10.78333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Abong Yeri",
+    "gn:country_code":"NG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352826,
+    "gn:latitude":6.96667,
+    "gn:longitude":10.78333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Abong Yeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352826
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eeec4db153d4bbaab9a7dbff56be4194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1360099407,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360099407,
+    "wof:lastmodified":1536925609,
+    "wof:name":"Abong Yeri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78333,
+    6.96667,
+    10.78333,
+    6.96667
+],
+  "geometry": {"coordinates":[10.78333,6.96667],"type":"Point"}
+}

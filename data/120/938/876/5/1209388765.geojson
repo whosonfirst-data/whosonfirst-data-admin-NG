@@ -1,0 +1,62 @@
+{
+  "id": 1209388765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0526,5.1573,8.0526,5.1573",
+    "geom:latitude":5.1573,
+    "geom:longitude":8.0526,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3016.0",
+    "gn:asciiname":"Ikot Adakpan",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854712,
+    "gn:latitude":5.1573,
+    "gn:longitude":8.0526,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Adakpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854712
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ec9009e4fd6cc32674db4ec9c78155d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209388765
+        }
+    ],
+    "wof:id":1209388765,
+    "wof:lastmodified":1536288533,
+    "wof:name":"Ikot Adakpan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0526,
+    5.1573,
+    8.0526,
+    5.1573
+],
+  "geometry": {"coordinates":[8.0526,5.1573],"type":"Point"}
+}

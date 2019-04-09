@@ -1,0 +1,64 @@
+{
+  "id": 1209444553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.87066,9.06591,10.87066,9.06591",
+    "geom:latitude":9.06591,
+    "geom:longitude":10.87066,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Wuro Shoful",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274537,
+    "gn:latitude":9.06591,
+    "gn:longitude":10.87066,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Wuro Shoful",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wuro Shoful"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274537
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4c320c39f48dba09d36f72509b9a12a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444553
+        }
+    ],
+    "wof:id":1209444553,
+    "wof:lastmodified":1537675520,
+    "wof:name":"Wuro Shoful",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.87066,
+    9.06591,
+    10.87066,
+    9.06591
+],
+  "geometry": {"coordinates":[10.87066,9.06591],"type":"Point"}
+}

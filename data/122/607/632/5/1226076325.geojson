@@ -1,0 +1,68 @@
+{
+  "id": 1226076325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.30003,9.14347,6.30003,9.14347",
+    "geom:latitude":9.14347,
+    "geom:longitude":6.30003,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010",
+    "gn:asciiname":"Engulali",
+    "gn:country_code":"NG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317465,
+    "gn:latitude":9.14347,
+    "gn:longitude":6.30003,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Engulali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317465
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"25090faa43e0abd5c6a54b034a205656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1226076325,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226076325,
+    "wof:lastmodified":1536681176,
+    "wof:name":"Engulali",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.30003,
+    9.14347,
+    6.30003,
+    9.14347
+],
+  "geometry": {"coordinates":[6.30003,9.14347],"type":"Point"}
+}

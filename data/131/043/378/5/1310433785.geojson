@@ -1,0 +1,69 @@
+{
+  "id": 1310433785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.71362,12.2388,9.71362,12.2388",
+    "geom:latitude":12.2388,
+    "geom:longitude":9.71362,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18014.0",
+    "gn:admin3_code":"JI2206",
+    "gn:asciiname":"Miga",
+    "gn:country_code":"NG",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2330146,
+    "gn:latitude":12.2388,
+    "gn:longitude":9.71362,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Miga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330146
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b0393c1e5420ed80153596625865143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563971,
+            "locality_id":1310433785,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1310433785,
+    "wof:lastmodified":1537019679,
+    "wof:name":"Miga",
+    "wof:parent_id":1108563971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.71362,
+    12.2388,
+    9.71362,
+    12.2388
+],
+  "geometry": {"coordinates":[9.71362,12.2388],"type":"Point"}
+}

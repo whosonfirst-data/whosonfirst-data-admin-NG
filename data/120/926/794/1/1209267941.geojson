@@ -1,0 +1,62 @@
+{
+  "id": 1209267941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.12281,9.98854,13.12281,9.98854",
+    "geom:latitude":9.98854,
+    "geom:longitude":13.12281,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Wuro Kari",
+    "gn:country_code":"NG",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8675581,
+    "gn:latitude":9.98854,
+    "gn:longitude":13.12281,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Kari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8675581
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"adcc56ae7e4b20a26016b9c015802ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209267941
+        }
+    ],
+    "wof:id":1209267941,
+    "wof:lastmodified":1536292461,
+    "wof:name":"Wuro Kari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.12281,
+    9.98854,
+    13.12281,
+    9.98854
+],
+  "geometry": {"coordinates":[13.12281,9.98854],"type":"Point"}
+}

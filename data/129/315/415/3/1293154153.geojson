@@ -1,0 +1,71 @@
+{
+  "id": 1293154153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.45499,8.99849,12.45499,8.99849",
+    "geom:latitude":8.99849,
+    "geom:longitude":12.45499,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Temrashi",
+    "gn:country_code":"NG",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322235,
+    "gn:latitude":8.99849,
+    "gn:longitude":12.45499,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Temrashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Temrashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322235
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"153e88ea61b63f430d13f9c1f393342f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1293154153,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293154153,
+    "wof:lastmodified":1537674974,
+    "wof:name":"Temrashi",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45499,
+    8.99849,
+    12.45499,
+    8.99849
+],
+  "geometry": {"coordinates":[12.45499,8.99849],"type":"Point"}
+}

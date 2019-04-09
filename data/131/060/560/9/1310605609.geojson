@@ -1,0 +1,73 @@
+{
+  "id": 1310605609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96667,6.48333,2.96667,6.48333",
+    "geom:latitude":6.48333,
+    "geom:longitude":2.96667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25006.0",
+    "gn:asciiname":"Ipota",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337353,
+    "gn:latitude":6.48333,
+    "gn:longitude":2.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ipota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pota",
+        "Ipota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421183285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337353
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"04c63cd5c036aaedd2b797a339b6309d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183285,
+            "locality_id":1310605609,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1310605609,
+    "wof:lastmodified":1537675182,
+    "wof:name":"Ipota",
+    "wof:parent_id":421183285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96667,
+    6.48333,
+    2.96667,
+    6.48333
+],
+  "geometry": {"coordinates":[2.96667,6.48333],"type":"Point"}
+}

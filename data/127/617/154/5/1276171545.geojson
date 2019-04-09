@@ -1,0 +1,68 @@
+{
+  "id": 1276171545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.12902,7.5664,8.12902,7.5664",
+    "geom:latitude":7.5664,
+    "geom:longitude":8.12902,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7008",
+    "gn:asciiname":"Acha",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9507296,
+    "gn:latitude":7.5664,
+    "gn:longitude":8.12902,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Acha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9507296
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"598400b7acb6acb7c10af08ac592ac3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563475,
+            "locality_id":1276171545,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276171545,
+    "wof:lastmodified":1536994824,
+    "wof:name":"Acha",
+    "wof:parent_id":1108563475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.12902,
+    7.5664,
+    8.12902,
+    7.5664
+],
+  "geometry": {"coordinates":[8.12902,7.5664],"type":"Point"}
+}

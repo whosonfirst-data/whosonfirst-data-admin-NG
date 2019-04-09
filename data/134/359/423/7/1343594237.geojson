@@ -1,0 +1,72 @@
+{
+  "id": 1343594237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.06667,7.1,7.06667,7.1",
+    "geom:latitude":7.1,
+    "geom:longitude":7.06667,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23008.0",
+    "gn:asciiname":"Okokete",
+    "gn:country_code":"NG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327085,
+    "gn:latitude":7.1,
+    "gn:longitude":7.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okokete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okoketti",
+        "Okokete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327085
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9c2331a19ba35d0286653654c390a76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563553,
+            "locality_id":1343594237,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1343594237,
+    "wof:lastmodified":1537675040,
+    "wof:name":"Okokete",
+    "wof:parent_id":1108563553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06667,
+    7.1,
+    7.06667,
+    7.1
+],
+  "geometry": {"coordinates":[7.06667,7.1],"type":"Point"}
+}

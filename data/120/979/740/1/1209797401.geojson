@@ -1,0 +1,68 @@
+{
+  "id": 1209797401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01038,6.83414,4.01038,6.83414",
+    "geom:latitude":6.83414,
+    "geom:longitude":4.01038,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28008.0",
+    "gn:asciiname":"Iganmeji",
+    "gn:country_code":"NG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969472,
+    "gn:latitude":6.83414,
+    "gn:longitude":4.01038,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iganmeji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969472
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7ff6a48bc4cb5b69c8ecf792af814584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563569,
+            "locality_id":1209797401,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1209797401,
+    "wof:lastmodified":1536392260,
+    "wof:name":"Iganmeji",
+    "wof:parent_id":1108563569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01038,
+    6.83414,
+    4.01038,
+    6.83414
+],
+  "geometry": {"coordinates":[4.01038,6.83414],"type":"Point"}
+}

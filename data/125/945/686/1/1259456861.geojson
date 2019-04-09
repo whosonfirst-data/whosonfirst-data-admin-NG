@@ -1,0 +1,68 @@
+{
+  "id": 1259456861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6265,4.88246,7.6265,4.88246",
+    "geom:latitude":4.88246,
+    "geom:longitude":7.6265,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3028.0",
+    "gn:asciiname":"Ikot Okon",
+    "gn:country_code":"NG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337967,
+    "gn:latitude":4.88246,
+    "gn:longitude":7.6265,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Okon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337967
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a06d8e878b16de186815bed80851fbb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564449,
+            "locality_id":1259456861,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1259456861,
+    "wof:lastmodified":1536896984,
+    "wof:name":"Ikot Okon",
+    "wof:parent_id":1108564449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6265,
+    4.88246,
+    7.6265,
+    4.88246
+],
+  "geometry": {"coordinates":[7.6265,4.88246],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226595099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36808,11.77805,13.36808,11.77805",
+    "geom:latitude":11.77805,
+    "geom:longitude":13.36808,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"119.0",
+    "gn:admin3_code":"11906",
+    "gn:asciiname":"Dungusuri",
+    "gn:country_code":"NG",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344313,
+    "gn:latitude":11.77805,
+    "gn:longitude":13.36808,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dungusuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dungusiri",
+        "Dungusuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344313
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7b67c638a89a07ff80a53be1d92f74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563837,
+            "locality_id":1226595099,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226595099,
+    "wof:lastmodified":1537675294,
+    "wof:name":"Dungusuri",
+    "wof:parent_id":1108563837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36808,
+    11.77805,
+    13.36808,
+    11.77805
+],
+  "geometry": {"coordinates":[13.36808,11.77805],"type":"Point"}
+}

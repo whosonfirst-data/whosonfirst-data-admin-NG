@@ -1,0 +1,62 @@
+{
+  "id": 1209033275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.63773,9.05158,7.63773,9.05158",
+    "geom:latitude":9.05158,
+    "geom:longitude":7.63773,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004.0",
+    "gn:asciiname":"Ganuwa",
+    "gn:country_code":"NG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590322,
+    "gn:latitude":9.05158,
+    "gn:longitude":7.63773,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ganuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590322
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d0050f709a7a986dfa3c4341cd2f43a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209033275
+        }
+    ],
+    "wof:id":1209033275,
+    "wof:lastmodified":1536299783,
+    "wof:name":"Ganuwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.63773,
+    9.05158,
+    7.63773,
+    9.05158
+],
+  "geometry": {"coordinates":[7.63773,9.05158],"type":"Point"}
+}

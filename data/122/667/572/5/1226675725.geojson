@@ -1,0 +1,67 @@
+{
+  "id": 1226675725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.57107,6.26993,4.57107,6.26993",
+    "geom:latitude":6.26993,
+    "geom:longitude":4.57107,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Epene",
+    "gn:country_code":"NG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343247,
+    "gn:latitude":6.26993,
+    "gn:longitude":4.57107,
+    "gn:modification_date":"2009-01-30",
+    "gn:name":"Epene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343247
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"41f0b2e6adea6e9f091edcc8df0e5809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1226675725,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1226675725,
+    "wof:lastmodified":1536815670,
+    "wof:name":"Epene",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.57107,
+    6.26993,
+    4.57107,
+    6.26993
+],
+  "geometry": {"coordinates":[4.57107,6.26993],"type":"Point"}
+}

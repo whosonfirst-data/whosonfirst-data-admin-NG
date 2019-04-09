@@ -1,0 +1,72 @@
+{
+  "id": 1293418243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13026,4.74398,6.13026,4.74398",
+    "geom:latitude":4.74398,
+    "geom:longitude":6.13026,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Eniwari",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343283,
+    "gn:latitude":4.74398,
+    "gn:longitude":6.13026,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eniwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enuwari",
+        "Eniwari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343283
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a90e8811ef8df86ce8b9dfc4e7d8d622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564377,
+            "locality_id":1293418243,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1293418243,
+    "wof:lastmodified":1537675276,
+    "wof:name":"Eniwari",
+    "wof:parent_id":1108564377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13026,
+    4.74398,
+    6.13026,
+    4.74398
+],
+  "geometry": {"coordinates":[6.13026,4.74398],"type":"Point"}
+}

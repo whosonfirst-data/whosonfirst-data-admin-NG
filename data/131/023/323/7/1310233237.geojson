@@ -1,0 +1,72 @@
+{
+  "id": 1310233237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80357,12.52006,10.80357,12.52006",
+    "geom:latitude":12.52006,
+    "geom:longitude":10.80357,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"709.0",
+    "gn:admin3_code":"70902",
+    "gn:asciiname":"Fadurga",
+    "gn:country_code":"NG",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342839,
+    "gn:latitude":12.52006,
+    "gn:longitude":10.80357,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fadurga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fadurya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342839
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0fc6c2b98b422de3e9d6cd2d4f876cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564527,
+            "locality_id":1310233237,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1310233237,
+    "wof:lastmodified":1537675267,
+    "wof:name":"Fadurga",
+    "wof:parent_id":1108564527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80357,
+    12.52006,
+    10.80357,
+    12.52006
+],
+  "geometry": {"coordinates":[10.80357,12.52006],"type":"Point"}
+}

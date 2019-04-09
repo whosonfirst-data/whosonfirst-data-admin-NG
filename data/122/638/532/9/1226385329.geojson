@@ -1,0 +1,77 @@
+{
+  "id": 1226385329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05164,6.75471,6.05164,6.75471",
+    "geom:latitude":6.75471,
+    "geom:longitude":6.05164,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006.0",
+    "gn:asciiname":"Iruekpen",
+    "gn:country_code":"NG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337282,
+    "gn:latitude":6.75471,
+    "gn:longitude":6.05164,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iruekpen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Iruekpen"
+    ],
+    "name:eng_x_variant":[
+        "Itukpen"
+    ],
+    "name:und_x_variant":[
+        "Itukpen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337282
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7ef10c2a34faba10db88836acd58448f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563321,
+            "locality_id":1226385329,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1226385329,
+    "wof:lastmodified":1537675181,
+    "wof:name":"Iruekpen",
+    "wof:parent_id":1108563321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05164,
+    6.75471,
+    6.05164,
+    6.75471
+],
+  "geometry": {"coordinates":[6.05164,6.75471],"type":"Point"}
+}

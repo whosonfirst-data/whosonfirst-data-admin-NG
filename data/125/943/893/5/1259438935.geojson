@@ -1,0 +1,72 @@
+{
+  "id": 1259438935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81943,9.36893,7.81943,9.36893",
+    "geom:latitude":9.36893,
+    "geom:longitude":7.81943,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19011.0",
+    "gn:admin3_code":"KD1108",
+    "gn:asciiname":"Chigwa",
+    "gn:country_code":"NG",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346059,
+    "gn:latitude":9.36893,
+    "gn:longitude":7.81943,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chigwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cigwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346059
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"21295fe6432883f99170ddc292c4a619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563749,
+            "locality_id":1259438935,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1259438935,
+    "wof:lastmodified":1537675316,
+    "wof:name":"Chigwa",
+    "wof:parent_id":1108563749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81943,
+    9.36893,
+    7.81943,
+    9.36893
+],
+  "geometry": {"coordinates":[7.81943,9.36893],"type":"Point"}
+}

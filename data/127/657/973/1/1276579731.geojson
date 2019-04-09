@@ -1,0 +1,68 @@
+{
+  "id": 1276579731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12314,9.19633,6.12314,9.19633",
+    "geom:latitude":9.19633,
+    "geom:longitude":6.12314,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Tsadza",
+    "gn:country_code":"NG",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321905,
+    "gn:latitude":9.19633,
+    "gn:longitude":6.12314,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsadza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321905
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c6a773a3afe4f776134bb00f4599a3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1276579731,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276579731,
+    "wof:lastmodified":1536946654,
+    "wof:name":"Tsadza",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12314,
+    9.19633,
+    6.12314,
+    9.19633
+],
+  "geometry": {"coordinates":[6.12314,9.19633],"type":"Point"}
+}

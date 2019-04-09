@@ -1,0 +1,72 @@
+{
+  "id": 1327059571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.17101,7.02981,5.17101,7.02981",
+    "geom:latitude":7.02981,
+    "geom:longitude":5.17101,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29008.0",
+    "gn:asciiname":"Legbira",
+    "gn:country_code":"NG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332149,
+    "gn:latitude":7.02981,
+    "gn:longitude":5.17101,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Legbira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opa",
+        "Legbira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332149
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb6bfbebb2e3f4bae14c2c66c1e35b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563517,
+            "locality_id":1327059571,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1327059571,
+    "wof:lastmodified":1537675116,
+    "wof:name":"Legbira",
+    "wof:parent_id":1108563517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.17101,
+    7.02981,
+    5.17101,
+    7.02981
+],
+  "geometry": {"coordinates":[5.17101,7.02981],"type":"Point"}
+}

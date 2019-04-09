@@ -1,0 +1,63 @@
+{
+  "id": 1209545125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.76296,12.13646,4.76296,12.13646",
+    "geom:latitude":12.13646,
+    "geom:longitude":4.76296,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61003",
+    "gn:asciiname":"Daleja",
+    "gn:country_code":"NG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040260,
+    "gn:latitude":12.13646,
+    "gn:longitude":4.76296,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Daleja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040260
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ec01baf577663a38c2ba1f574633b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545125
+        }
+    ],
+    "wof:id":1209545125,
+    "wof:lastmodified":1536283867,
+    "wof:name":"Daleja",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.76296,
+    12.13646,
+    4.76296,
+    12.13646
+],
+  "geometry": {"coordinates":[4.76296,12.13646],"type":"Point"}
+}

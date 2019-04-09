@@ -1,0 +1,67 @@
+{
+  "id": 1310038691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97605,12.82823,8.97605,12.82823",
+    "geom:latitude":12.82823,
+    "geom:longitude":8.97605,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Tinkim",
+    "gn:country_code":"NG",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6973739,
+    "gn:latitude":12.82823,
+    "gn:longitude":8.97605,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Tinkim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6973739
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b5b7041d2a15016802a3f106101db92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563103,
+            "locality_id":1310038691,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1310038691,
+    "wof:lastmodified":1537089661,
+    "wof:name":"Tinkim",
+    "wof:parent_id":1108563103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97605,
+    12.82823,
+    8.97605,
+    12.82823
+],
+  "geometry": {"coordinates":[8.97605,12.82823],"type":"Point"}
+}

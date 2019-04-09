@@ -1,0 +1,67 @@
+{
+  "id": 1193170109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5374,4.49546,7.5374,4.49546",
+    "geom:latitude":4.49546,
+    "geom:longitude":7.5374,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Iloma",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7056023,
+    "gn:latitude":4.49546,
+    "gn:longitude":7.5374,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Iloma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7056023
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02303bf34277d8bbb0549165eb47e13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564199,
+            "locality_id":1193170109,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1193170109,
+    "wof:lastmodified":1536381429,
+    "wof:name":"Iloma",
+    "wof:parent_id":1108564199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5374,
+    4.49546,
+    7.5374,
+    4.49546
+],
+  "geometry": {"coordinates":[7.5374,4.49546],"type":"Point"}
+}

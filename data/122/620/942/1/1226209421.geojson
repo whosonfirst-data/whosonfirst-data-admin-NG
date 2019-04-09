@@ -1,0 +1,68 @@
+{
+  "id": 1226209421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.05924,7.66077,8.05924,7.66077",
+    "geom:latitude":7.66077,
+    "geom:longitude":8.05924,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7003.0",
+    "gn:asciiname":"Mbagba",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852741,
+    "gn:latitude":7.66077,
+    "gn:longitude":8.05924,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbagba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852741
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6b1dc59e780cef70b49bc1f6e0293cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563019,
+            "locality_id":1226209421,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226209421,
+    "wof:lastmodified":1536985284,
+    "wof:name":"Mbagba",
+    "wof:parent_id":1108563019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.05924,
+    7.66077,
+    8.05924,
+    7.66077
+],
+  "geometry": {"coordinates":[8.05924,7.66077],"type":"Point"}
+}

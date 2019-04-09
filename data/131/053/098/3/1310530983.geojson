@@ -1,0 +1,71 @@
+{
+  "id": 1310530983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95251,9.23758,10.95251,9.23758",
+    "geom:latitude":9.23758,
+    "geom:longitude":10.95251,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Langa",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332298,
+    "gn:latitude":9.23758,
+    "gn:longitude":10.95251,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Langa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Langa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332298
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4e4155dad0327fc2724da90d79d93ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1310530983,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1310530983,
+    "wof:lastmodified":1537675117,
+    "wof:name":"Langa",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95251,
+    9.23758,
+    10.95251,
+    9.23758
+],
+  "geometry": {"coordinates":[10.95251,9.23758],"type":"Point"}
+}

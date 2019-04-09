@@ -1,0 +1,73 @@
+{
+  "id": 1310138853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.16667,8.16667,9.16667,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":9.16667,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26002.0",
+    "gn:asciiname":"Amrana",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350026,
+    "gn:latitude":8.16667,
+    "gn:longitude":9.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amrana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amfana",
+        "Amrana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350026
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3cc4f3b700761a0cacbb7b33eb1640aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563053,
+            "locality_id":1310138853,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1310138853,
+    "wof:lastmodified":1537675364,
+    "wof:name":"Amrana",
+    "wof:parent_id":1108563053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.16667,
+    8.16667,
+    9.16667,
+    8.16667
+],
+  "geometry": {"coordinates":[9.16667,8.16667],"type":"Point"}
+}

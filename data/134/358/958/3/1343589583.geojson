@@ -1,0 +1,68 @@
+{
+  "id": 1343589583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44435,7.90866,9.44435,7.90866",
+    "geom:latitude":7.90866,
+    "geom:longitude":9.44435,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Lan",
+    "gn:country_code":"NG",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525354,
+    "gn:latitude":7.90866,
+    "gn:longitude":9.44435,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525354
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"465af9e070621218ece3f8656e88efb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1343589583,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343589583,
+    "wof:lastmodified":1537055142,
+    "wof:name":"Lan",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44435,
+    7.90866,
+    9.44435,
+    7.90866
+],
+  "geometry": {"coordinates":[9.44435,7.90866],"type":"Point"}
+}

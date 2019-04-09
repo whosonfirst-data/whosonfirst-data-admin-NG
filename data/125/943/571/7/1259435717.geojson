@@ -1,0 +1,74 @@
+{
+  "id": 1259435717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.69663,5.97651,5.69663,5.97651",
+    "geom:latitude":5.97651,
+    "geom:longitude":5.69663,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10006.0",
+    "gn:asciiname":"Otumara",
+    "gn:country_code":"NG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027820,
+    "gn:latitude":5.97651,
+    "gn:longitude":5.69663,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Otumara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Otumara"
+    ],
+    "name:eng_x_variant":[
+        "Obromudu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027820
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1f9c8c51a9aa5c45d6d5126246689d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563335,
+            "locality_id":1259435717,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1259435717,
+    "wof:lastmodified":1537675416,
+    "wof:name":"Otumara",
+    "wof:parent_id":1108563335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.69663,
+    5.97651,
+    5.69663,
+    5.97651
+],
+  "geometry": {"coordinates":[5.69663,5.97651],"type":"Point"}
+}

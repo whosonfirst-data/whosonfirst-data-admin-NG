@@ -1,0 +1,68 @@
+{
+  "id": 1226777203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52197,6.46017,7.52197,6.46017",
+    "geom:latitude":6.46017,
+    "geom:longitude":7.52197,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14004",
+    "gn:asciiname":"New Haven",
+    "gn:country_code":"NG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205234,
+    "gn:latitude":6.46017,
+    "gn:longitude":7.52197,
+    "gn:modification_date":"2016-07-28",
+    "gn:name":"New Haven",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        421186467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205234
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"71c034bd7662490da6a4b8ea8722108c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421186467,
+            "locality_id":1226777203,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1226777203,
+    "wof:lastmodified":1536670354,
+    "wof:name":"New Haven",
+    "wof:parent_id":421186467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52197,
+    6.46017,
+    7.52197,
+    6.46017
+],
+  "geometry": {"coordinates":[7.52197,6.46017],"type":"Point"}
+}

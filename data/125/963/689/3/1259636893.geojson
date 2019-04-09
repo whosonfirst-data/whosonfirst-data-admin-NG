@@ -1,0 +1,73 @@
+{
+  "id": 1259636893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43295,9.35113,12.43295,9.35113",
+    "geom:latitude":9.35113,
+    "geom:longitude":12.43295,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Basali",
+    "gn:country_code":"NG",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189626,
+    "gn:latitude":9.35113,
+    "gn:longitude":12.43295,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Basali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Basali"
+    ],
+    "name:eng_x_variant":[
+        "Bisali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189626
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0cc31588be26c61a2150c21653e05615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563431,
+            "locality_id":1259636893,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259636893,
+    "wof:lastmodified":1537675484,
+    "wof:name":"Basali",
+    "wof:parent_id":1108563431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43295,
+    9.35113,
+    12.43295,
+    9.35113
+],
+  "geometry": {"coordinates":[12.43295,9.35113],"type":"Point"}
+}

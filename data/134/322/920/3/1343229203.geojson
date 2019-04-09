@@ -1,0 +1,68 @@
+{
+  "id": 1343229203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37265,7.16612,9.37265,7.16612",
+    "geom:latitude":7.16612,
+    "geom:longitude":9.37265,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Labaro",
+    "gn:country_code":"NG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639792,
+    "gn:latitude":7.16612,
+    "gn:longitude":9.37265,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Labaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639792
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5927b3bf77ad799a6f16cb8b0c1cb896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1343229203,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343229203,
+    "wof:lastmodified":1537077089,
+    "wof:name":"Labaro",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37265,
+    7.16612,
+    9.37265,
+    7.16612
+],
+  "geometry": {"coordinates":[9.37265,7.16612],"type":"Point"}
+}

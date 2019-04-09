@@ -1,0 +1,72 @@
+{
+  "id": 1344085099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.65319,4.79938,6.65319,4.79938",
+    "geom:latitude":4.79938,
+    "geom:longitude":6.65319,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33001.0",
+    "gn:asciiname":"Epaghia",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343255,
+    "gn:latitude":4.79938,
+    "gn:longitude":6.65319,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Epaghia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Epaia",
+        "Epaghia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343255
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3c1b1bf43075eb7282f14fd53fb6aeb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562915,
+            "locality_id":1344085099,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1344085099,
+    "wof:lastmodified":1537675275,
+    "wof:name":"Epaghia",
+    "wof:parent_id":1108562915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.65319,
+    4.79938,
+    6.65319,
+    4.79938
+],
+  "geometry": {"coordinates":[6.65319,4.79938],"type":"Point"}
+}

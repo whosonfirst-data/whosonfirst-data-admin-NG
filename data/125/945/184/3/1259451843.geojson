@@ -1,0 +1,68 @@
+{
+  "id": 1259451843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4629,5.7971,8.4629,5.7971",
+    "geom:latitude":5.7971,
+    "geom:longitude":8.4629,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9013.0",
+    "gn:asciiname":"Itara",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337047,
+    "gn:latitude":5.7971,
+    "gn:longitude":8.4629,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Itara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337047
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7bed521e531bd76af71f6fe9c55d4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564085,
+            "locality_id":1259451843,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1259451843,
+    "wof:lastmodified":1536904530,
+    "wof:name":"Itara",
+    "wof:parent_id":1108564085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4629,
+    5.7971,
+    8.4629,
+    5.7971
+],
+  "geometry": {"coordinates":[8.4629,5.7971],"type":"Point"}
+}

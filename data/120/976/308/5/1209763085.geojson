@@ -1,0 +1,73 @@
+{
+  "id": 1209763085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.44992,12.27307,12.44992,12.27307",
+    "geom:latitude":12.27307,
+    "geom:longitude":12.44992,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"120.0",
+    "gn:admin3_code":"12003",
+    "gn:asciiname":"Mal Kurri",
+    "gn:country_code":"NG",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331066,
+    "gn:latitude":12.27307,
+    "gn:longitude":12.44992,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mal Kurri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mal Kuri",
+        "Mal Kurri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331066
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"89f95f65ef25cb60fccf1d52643f91f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563917,
+            "locality_id":1209763085,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1209763085,
+    "wof:lastmodified":1537675103,
+    "wof:name":"Mal Kurri",
+    "wof:parent_id":1108563917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.44992,
+    12.27307,
+    12.44992,
+    12.27307
+],
+  "geometry": {"coordinates":[12.44992,12.27307],"type":"Point"}
+}

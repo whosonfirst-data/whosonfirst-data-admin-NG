@@ -1,0 +1,71 @@
+{
+  "id": 1259421793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37754,6.07375,6.37754,6.07375",
+    "geom:latitude":6.07375,
+    "geom:longitude":6.37754,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Aniorpo",
+    "gn:country_code":"NG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349813,
+    "gn:latitude":6.07375,
+    "gn:longitude":6.37754,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aniorpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aniorpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349813
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"566f14518db5d38f13bc7a6c46471776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1259421793,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1259421793,
+    "wof:lastmodified":1537675360,
+    "wof:name":"Aniorpo",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37754,
+    6.07375,
+    6.37754,
+    6.07375
+],
+  "geometry": {"coordinates":[6.37754,6.07375],"type":"Point"}
+}

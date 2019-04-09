@@ -1,0 +1,72 @@
+{
+  "id": 1209872459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56284,6.3354,8.56284,6.3354",
+    "geom:latitude":6.3354,
+    "geom:longitude":8.56284,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Akudfune",
+    "gn:country_code":"NG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350883,
+    "gn:latitude":6.3354,
+    "gn:longitude":8.56284,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akudfune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akudfunu",
+        "Akudfune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350883
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b67ff52b08801b3deee391d38a345087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":1209872459,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1209872459,
+    "wof:lastmodified":1537675374,
+    "wof:name":"Akudfune",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56284,
+    6.3354,
+    8.56284,
+    6.3354
+],
+  "geometry": {"coordinates":[8.56284,6.3354],"type":"Point"}
+}

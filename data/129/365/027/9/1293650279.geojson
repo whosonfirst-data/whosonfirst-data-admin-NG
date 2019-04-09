@@ -1,0 +1,73 @@
+{
+  "id": 1293650279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.86782,11.15335,8.86782,11.15335",
+    "geom:latitude":11.15335,
+    "geom:longitude":8.86782,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20011.0",
+    "gn:admin3_code":"KN3606",
+    "gn:asciiname":"Kangoro",
+    "gn:country_code":"NG",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335242,
+    "gn:latitude":11.15335,
+    "gn:longitude":8.86782,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kangoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangora",
+        "Kangoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335242
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"33a8799564512cf6df27faa60a2830cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564381,
+            "locality_id":1293650279,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1293650279,
+    "wof:lastmodified":1537675153,
+    "wof:name":"Kangoro",
+    "wof:parent_id":1108564381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.86782,
+    11.15335,
+    8.86782,
+    11.15335
+],
+  "geometry": {"coordinates":[8.86782,11.15335],"type":"Point"}
+}

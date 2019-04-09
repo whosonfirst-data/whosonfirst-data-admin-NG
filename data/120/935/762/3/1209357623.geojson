@@ -1,0 +1,62 @@
+{
+  "id": 1209357623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.26667,6.46667,5.26667,6.46667",
+    "geom:latitude":6.46667,
+    "geom:longitude":5.26667,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12015.0",
+    "gn:asciiname":"Igueze",
+    "gn:country_code":"NG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338562,
+    "gn:latitude":6.46667,
+    "gn:longitude":5.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igueze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338562
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"90d817184aa9208d420f0fd32cd8274d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209357623
+        }
+    ],
+    "wof:id":1209357623,
+    "wof:lastmodified":1536289537,
+    "wof:name":"Igueze",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26667,
+    6.46667,
+    5.26667,
+    6.46667
+],
+  "geometry": {"coordinates":[5.26667,6.46667],"type":"Point"}
+}

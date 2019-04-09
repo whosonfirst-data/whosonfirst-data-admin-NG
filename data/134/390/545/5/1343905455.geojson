@@ -1,0 +1,67 @@
+{
+  "id": 1343905455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28065,13.65118,13.28065,13.65118",
+    "geom:latitude":13.65118,
+    "geom:longitude":13.28065,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Yawa",
+    "gn:country_code":"NG",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786925,
+    "gn:latitude":13.65118,
+    "gn:longitude":13.28065,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Yawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786925
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b81c8dc1de16ec1a0b2ab0cf922ee88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1343905455,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1343905455,
+    "wof:lastmodified":1537096197,
+    "wof:name":"Yawa",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28065,
+    13.65118,
+    13.28065,
+    13.65118
+],
+  "geometry": {"coordinates":[13.28065,13.65118],"type":"Point"}
+}

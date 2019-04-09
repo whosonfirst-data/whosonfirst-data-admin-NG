@@ -1,0 +1,77 @@
+{
+  "id": 1360024149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41263,6.81561,6.41263,6.81561",
+    "geom:latitude":6.81561,
+    "geom:longitude":6.41263,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Olihlin",
+    "gn:country_code":"NG",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326714,
+    "gn:latitude":6.81561,
+    "gn:longitude":6.41263,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olihlin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olihlin"
+    ],
+    "name:eng_x_variant":[
+        "Olili"
+    ],
+    "name:und_x_variant":[
+        "Olili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326714
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c09a2754b4ec6ed528d2571f61294ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1360024149,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1360024149,
+    "wof:lastmodified":1537675031,
+    "wof:name":"Olihlin",
+    "wof:parent_id":1108563317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41263,
+    6.81561,
+    6.41263,
+    6.81561
+],
+  "geometry": {"coordinates":[6.41263,6.81561],"type":"Point"}
+}

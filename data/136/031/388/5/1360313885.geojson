@@ -1,0 +1,73 @@
+{
+  "id": 1360313885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85507,9.94081,8.85507,9.94081",
+    "geom:latitude":9.94081,
+    "geom:longitude":8.85507,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005.0",
+    "gn:asciiname":"Barakin Rafin Gora",
+    "gn:country_code":"NG",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347702,
+    "gn:latitude":9.94081,
+    "gn:longitude":8.85507,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barakin Rafin Gora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rafin Gora",
+        "Barakin",
+        "Barakin Rafin Gora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347702
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0cf155438b17ead2ddbc84a566a865f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563731,
+            "locality_id":1360313885,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1360313885,
+    "wof:lastmodified":1537675336,
+    "wof:name":"Barakin Rafin Gora",
+    "wof:parent_id":1108563731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85507,
+    9.94081,
+    8.85507,
+    9.94081
+],
+  "geometry": {"coordinates":[8.85507,9.94081],"type":"Point"}
+}

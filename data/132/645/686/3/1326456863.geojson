@@ -1,0 +1,73 @@
+{
+  "id": 1326456863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.71316,12.2483,4.71316,12.2483",
+    "geom:latitude":12.2483,
+    "geom:longitude":4.71316,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"618.0",
+    "gn:admin3_code":"61801",
+    "gn:asciiname":"Dogan Marke",
+    "gn:country_code":"NG",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344726,
+    "gn:latitude":12.2483,
+    "gn:longitude":4.71316,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dogan Marke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dogwah Marke",
+        "Dogan Marke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344726
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f659bfc67fe69998f32718f5d3f45747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564401,
+            "locality_id":1326456863,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1326456863,
+    "wof:lastmodified":1537675301,
+    "wof:name":"Dogan Marke",
+    "wof:parent_id":1108564401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.71316,
+    12.2483,
+    4.71316,
+    12.2483
+],
+  "geometry": {"coordinates":[4.71316,12.2483],"type":"Point"}
+}

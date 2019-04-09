@@ -1,0 +1,68 @@
+{
+  "id": 1343295055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.63333,9.16667,5.63333,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":5.63333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007.0",
+    "gn:asciiname":"Fazhigi",
+    "gn:country_code":"NG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342666,
+    "gn:latitude":9.16667,
+    "gn:longitude":5.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fazhigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342666
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6a7317236125ce9d101e51c993ed02ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1343295055,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343295055,
+    "wof:lastmodified":1536984216,
+    "wof:name":"Fazhigi",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.63333,
+    9.16667,
+    5.63333,
+    9.16667
+],
+  "geometry": {"coordinates":[5.63333,9.16667],"type":"Point"}
+}

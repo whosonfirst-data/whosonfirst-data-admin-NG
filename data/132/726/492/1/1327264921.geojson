@@ -1,0 +1,70 @@
+{
+  "id": 1327264921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.08002,9.07844,8.08002,9.07844",
+    "geom:latitude":9.07844,
+    "geom:longitude":8.08002,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Batsu",
+    "gn:country_code":"NG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943469,
+    "gn:latitude":9.07844,
+    "gn:longitude":8.08002,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Batsu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943469
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02c0ce08c7377858f439f8f12498cf59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563833,
+            "locality_id":1327264921,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1327264921,
+    "wof:lastmodified":1537675473,
+    "wof:name":"Batsu",
+    "wof:parent_id":1108563833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.08002,
+    9.07844,
+    8.08002,
+    9.07844
+],
+  "geometry": {"coordinates":[8.08002,9.07844],"type":"Point"}
+}

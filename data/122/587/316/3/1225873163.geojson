@@ -1,0 +1,73 @@
+{
+  "id": 1225873163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.92587,12.56276,10.92587,12.56276",
+    "geom:latitude":12.56276,
+    "geom:longitude":10.92587,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"709.0",
+    "gn:admin3_code":"70903",
+    "gn:asciiname":"Katamma",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334846,
+    "gn:latitude":12.56276,
+    "gn:longitude":10.92587,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katamma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotoma",
+        "Katamma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334846
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b13413a16a10cea4469234de5eb28154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564527,
+            "locality_id":1225873163,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1225873163,
+    "wof:lastmodified":1537675147,
+    "wof:name":"Katamma",
+    "wof:parent_id":1108564527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.92587,
+    12.56276,
+    10.92587,
+    12.56276
+],
+  "geometry": {"coordinates":[10.92587,12.56276],"type":"Point"}
+}

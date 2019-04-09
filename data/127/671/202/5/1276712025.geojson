@@ -1,0 +1,69 @@
+{
+  "id": 1276712025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.01178,10.13581,12.01178,10.13581",
+    "geom:latitude":10.13581,
+    "geom:longitude":12.01178,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"127.0",
+    "gn:admin3_code":"12710",
+    "gn:asciiname":"Pilahangjikila",
+    "gn:country_code":"NG",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836987,
+    "gn:latitude":10.13581,
+    "gn:longitude":12.01178,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pilahangjikila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108564349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836987
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a33d254b4a8d15b3d5c12fd265134016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564349,
+            "locality_id":1276712025,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1276712025,
+    "wof:lastmodified":1536768970,
+    "wof:name":"Pilahangjikila",
+    "wof:parent_id":1108564349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.01178,
+    10.13581,
+    12.01178,
+    10.13581
+],
+  "geometry": {"coordinates":[12.01178,10.13581],"type":"Point"}
+}

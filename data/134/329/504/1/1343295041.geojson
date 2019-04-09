@@ -1,0 +1,67 @@
+{
+  "id": 1343295041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3874,7.2914,6.3874,7.2914",
+    "geom:latitude":7.2914,
+    "geom:longitude":6.3874,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Afukpilla",
+    "gn:country_code":"NG",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6834184,
+    "gn:latitude":7.2914,
+    "gn:longitude":6.3874,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Afukpilla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6834184
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b7fce209b6084d1a714761fa6efb5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563343,
+            "locality_id":1343295041,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343295041,
+    "wof:lastmodified":1536984234,
+    "wof:name":"Afukpilla",
+    "wof:parent_id":1108563343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3874,
+    7.2914,
+    6.3874,
+    7.2914
+],
+  "geometry": {"coordinates":[6.3874,7.2914],"type":"Point"}
+}

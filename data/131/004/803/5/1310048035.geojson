@@ -1,0 +1,74 @@
+{
+  "id": 1310048035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.04153,11.70318,5.04153,11.70318",
+    "geom:latitude":11.70318,
+    "geom:longitude":5.04153,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"519.0",
+    "gn:admin3_code":"51904",
+    "gn:asciiname":"Sarki",
+    "gn:country_code":"NG",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320168,
+    "gn:latitude":11.70318,
+    "gn:longitude":5.04153,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sarki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungwan Sarki",
+        "Unguwar Sarki",
+        "Sarki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320168
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b805c9478f05b0b7c6219ad39021efd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563365,
+            "locality_id":1310048035,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1310048035,
+    "wof:lastmodified":1537674937,
+    "wof:name":"Sarki",
+    "wof:parent_id":1108563365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.04153,
+    11.70318,
+    5.04153,
+    11.70318
+],
+  "geometry": {"coordinates":[5.04153,11.70318],"type":"Point"}
+}

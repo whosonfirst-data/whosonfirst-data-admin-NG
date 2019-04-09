@@ -1,0 +1,62 @@
+{
+  "id": 1209644893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.67844,8.55,11.67844,8.55",
+    "geom:latitude":8.55,
+    "geom:longitude":11.67844,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Tonga Yashi",
+    "gn:country_code":"NG",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321984,
+    "gn:latitude":8.55,
+    "gn:longitude":11.67844,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tonga Yashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321984
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3856c71f0732b4824ae7046af6c8f470",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644893
+        }
+    ],
+    "wof:id":1209644893,
+    "wof:lastmodified":1536280767,
+    "wof:name":"Tonga Yashi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.67844,
+    8.55,
+    11.67844,
+    8.55
+],
+  "geometry": {"coordinates":[11.67844,8.55],"type":"Point"}
+}

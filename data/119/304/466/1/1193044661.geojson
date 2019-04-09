@@ -1,0 +1,78 @@
+{
+  "id": 1193044661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.63567,10.84824,10.63567,10.84824",
+    "geom:latitude":10.84824,
+    "geom:longitude":10.63567,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5005.0",
+    "gn:admin3_code":"BA0508",
+    "gn:asciiname":"Gajigala",
+    "gn:country_code":"NG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342298,
+    "gn:latitude":10.84824,
+    "gn:longitude":10.63567,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gajigala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gajigala"
+    ],
+    "name:eng_x_variant":[
+        "Gojogula"
+    ],
+    "name:und_x_variant":[
+        "Gojogula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342298
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"943a38be3ce24428b109cf3b4367b74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1193044661,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1193044661,
+    "wof:lastmodified":1537675260,
+    "wof:name":"Gajigala",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.63567,
+    10.84824,
+    10.63567,
+    10.84824
+],
+  "geometry": {"coordinates":[10.63567,10.84824],"type":"Point"}
+}

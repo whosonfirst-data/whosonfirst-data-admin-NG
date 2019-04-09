@@ -1,0 +1,62 @@
+{
+  "id": 1209162173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55928,7.35795,8.55928,7.35795",
+    "geom:latitude":7.35795,
+    "geom:longitude":8.55928,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Unende",
+    "gn:country_code":"NG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320303,
+    "gn:latitude":7.35795,
+    "gn:longitude":8.55928,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Unende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320303
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d8861877ff7b94dff1302996f0d792fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209162173
+        }
+    ],
+    "wof:id":1209162173,
+    "wof:lastmodified":1536295860,
+    "wof:name":"Unende",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.559280000000001,
+    7.35795,
+    8.559280000000001,
+    7.35795
+],
+  "geometry": {"coordinates":[8.55928,7.35795],"type":"Point"}
+}

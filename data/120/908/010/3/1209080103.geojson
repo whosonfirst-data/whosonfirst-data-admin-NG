@@ -1,0 +1,63 @@
+{
+  "id": 1209080103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.65829,5.27181,7.65829,5.27181",
+    "geom:latitude":5.27181,
+    "geom:longitude":7.65829,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3022.0",
+    "gn:asciiname":"Obot-Akara",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328171,
+    "gn:latitude":5.27181,
+    "gn:longitude":7.65829,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obot-Akara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328171,
+        "wk:page":"Obot-Akara"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bea9fcc9fb0357d34e54ec252d31dd3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209080103
+        }
+    ],
+    "wof:id":1209080103,
+    "wof:lastmodified":1537569989,
+    "wof:name":"Obot-Akara",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.65829,
+    5.27181,
+    7.65829,
+    5.27181
+],
+  "geometry": {"coordinates":[7.65829,5.27181],"type":"Point"}
+}

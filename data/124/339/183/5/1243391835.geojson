@@ -1,0 +1,73 @@
+{
+  "id": 1243391835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.19418,9.70109,10.19418,9.70109",
+    "geom:latitude":9.70109,
+    "geom:longitude":10.19418,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5001.0",
+    "gn:admin3_code":"BA0108",
+    "gn:asciiname":"Gaji",
+    "gn:country_code":"NG",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342303,
+    "gn:latitude":9.70109,
+    "gn:longitude":10.19418,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Gaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geji",
+        "Gaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342303
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36cf15713ebcda4ae60e06ac2e5e98a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1243391835,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1243391835,
+    "wof:lastmodified":1537675261,
+    "wof:name":"Gaji",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.19418,
+    9.70109,
+    10.19418,
+    9.70109
+],
+  "geometry": {"coordinates":[10.19418,9.70109],"type":"Point"}
+}

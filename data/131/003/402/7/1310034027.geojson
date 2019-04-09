@@ -1,0 +1,67 @@
+{
+  "id": 1310034027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16747,4.44253,7.16747,4.44253",
+    "geom:latitude":4.44253,
+    "geom:longitude":7.16747,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Eyamba Town",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342955,
+    "gn:latitude":4.44253,
+    "gn:longitude":7.16747,
+    "gn:modification_date":"2009-07-16",
+    "gn:name":"Eyamba Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342955
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d51306050c2b4f5d130b21c684955a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563151,
+            "locality_id":1310034027,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1310034027,
+    "wof:lastmodified":1537096451,
+    "wof:name":"Eyamba Town",
+    "wof:parent_id":1108563151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16747,
+    4.44253,
+    7.16747,
+    4.44253
+],
+  "geometry": {"coordinates":[7.16747,4.44253],"type":"Point"}
+}

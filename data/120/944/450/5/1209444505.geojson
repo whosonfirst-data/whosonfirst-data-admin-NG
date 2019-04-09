@@ -1,0 +1,63 @@
+{
+  "id": 1209444505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.48985,13.60581,5.48985,13.60581",
+    "geom:latitude":13.60581,
+    "geom:longitude":5.48985,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60805",
+    "gn:asciiname":"Kiri",
+    "gn:country_code":"NG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012124,
+    "gn:latitude":13.60581,
+    "gn:longitude":5.48985,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012124
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"21359c1a4da8684f701f9cb7a1ee5d83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444505
+        }
+    ],
+    "wof:id":1209444505,
+    "wof:lastmodified":1536286859,
+    "wof:name":"Kiri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.48985,
+    13.60581,
+    5.48985,
+    13.60581
+],
+  "geometry": {"coordinates":[5.48985,13.60581],"type":"Point"}
+}

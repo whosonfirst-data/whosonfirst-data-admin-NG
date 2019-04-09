@@ -1,0 +1,68 @@
+{
+  "id": 1310135429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23255,4.79303,6.23255,4.79303",
+    "geom:latitude":4.79303,
+    "geom:longitude":6.23255,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6005.0",
+    "gn:asciiname":"Odobio",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328016,
+    "gn:latitude":4.79303,
+    "gn:longitude":6.23255,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Odobio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328016
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e2897ba34b7459c650ead221260b0e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564111,
+            "locality_id":1310135429,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1310135429,
+    "wof:lastmodified":1536953559,
+    "wof:name":"Odobio",
+    "wof:parent_id":1108564111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23255,
+    4.79303,
+    6.23255,
+    4.79303
+],
+  "geometry": {"coordinates":[6.23255,4.79303],"type":"Point"}
+}

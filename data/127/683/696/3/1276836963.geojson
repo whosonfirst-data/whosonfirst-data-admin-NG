@@ -1,0 +1,68 @@
+{
+  "id": 1276836963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5431,7.69222,9.5431,7.69222",
+    "geom:latitude":7.69222,
+    "geom:longitude":9.5431,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Awav",
+    "gn:country_code":"NG",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531133,
+    "gn:latitude":7.69222,
+    "gn:longitude":9.5431,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awav",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531133
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2f3ef785f9b2d83eff1a06653d16e0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564451,
+            "locality_id":1276836963,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276836963,
+    "wof:lastmodified":1537095405,
+    "wof:name":"Awav",
+    "wof:parent_id":1108564451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5431,
+    7.69222,
+    9.5431,
+    7.69222
+],
+  "geometry": {"coordinates":[9.5431,7.69222],"type":"Point"}
+}

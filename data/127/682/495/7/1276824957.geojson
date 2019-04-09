@@ -1,0 +1,69 @@
+{
+  "id": 1276824957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.14364,9.49971,8.14364,9.49971",
+    "geom:latitude":9.49971,
+    "geom:longitude":8.14364,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19007.0",
+    "gn:admin3_code":"KD0709",
+    "gn:asciiname":"Pagwan",
+    "gn:country_code":"NG",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325138,
+    "gn:latitude":9.49971,
+    "gn:longitude":8.14364,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pagwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325138
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8f14cc763f8fa0fa53649249730c62ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563721,
+            "locality_id":1276824957,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276824957,
+    "wof:lastmodified":1536614961,
+    "wof:name":"Pagwan",
+    "wof:parent_id":1108563721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.14364,
+    9.49971,
+    8.14364,
+    9.49971
+],
+  "geometry": {"coordinates":[8.14364,9.49971],"type":"Point"}
+}

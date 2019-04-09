@@ -1,0 +1,72 @@
+{
+  "id": 1310661973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.93117,5.65842,6.93117,5.65842",
+    "geom:latitude":5.65842,
+    "geom:longitude":6.93117,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17022.0",
+    "gn:asciiname":"Awomama",
+    "gn:country_code":"NG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348751,
+    "gn:latitude":5.65842,
+    "gn:longitude":6.93117,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awomama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ioumama",
+        "Awomama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348751
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4097fb8b6499f13308f257747619f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564217,
+            "locality_id":1310661973,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1310661973,
+    "wof:lastmodified":1537675349,
+    "wof:name":"Awomama",
+    "wof:parent_id":1108564217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.93117,
+    5.65842,
+    6.93117,
+    5.65842
+],
+  "geometry": {"coordinates":[6.93117,5.65842],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309757165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39315,13.07897,13.39315,13.07897",
+    "geom:latitude":13.07897,
+    "geom:longitude":13.39315,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"110",
+    "gn:admin3_code":"11010",
+    "gn:asciiname":"Kawallam",
+    "gn:country_code":"NG",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8708621,
+    "gn:latitude":13.07897,
+    "gn:longitude":13.39315,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kawallam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8708621
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"af0ce9f99cd323f25786a14b5af0651f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563853,
+            "locality_id":1309757165,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1309757165,
+    "wof:lastmodified":1537000581,
+    "wof:name":"Kawallam",
+    "wof:parent_id":1108563853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39315,
+    13.07897,
+    13.39315,
+    13.07897
+],
+  "geometry": {"coordinates":[13.39315,13.07897],"type":"Point"}
+}

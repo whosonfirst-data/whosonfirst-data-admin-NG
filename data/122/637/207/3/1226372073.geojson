@@ -1,0 +1,72 @@
+{
+  "id": 1226372073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62995,9.55376,10.62995,9.55376",
+    "geom:latitude":9.55376,
+    "geom:longitude":10.62995,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5001.0",
+    "gn:admin3_code":"BA0108",
+    "gn:asciiname":"Mansur",
+    "gn:country_code":"NG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330894,
+    "gn:latitude":9.55376,
+    "gn:longitude":10.62995,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Mansur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mansur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330894
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f44c23b4e6eebcd79e114876af86f0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1226372073,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1226372073,
+    "wof:lastmodified":1537675100,
+    "wof:name":"Mansur",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62995,
+    9.55376,
+    10.62995,
+    9.55376
+],
+  "geometry": {"coordinates":[10.62995,9.55376],"type":"Point"}
+}

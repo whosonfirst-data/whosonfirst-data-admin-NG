@@ -1,0 +1,71 @@
+{
+  "id": 1226570411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.87662,10.6767,10.87662,10.6767",
+    "geom:latitude":10.6767,
+    "geom:longitude":10.87662,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Nape",
+    "gn:country_code":"NG",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329460,
+    "gn:latitude":10.6767,
+    "gn:longitude":10.87662,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nape",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nape"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329460
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f6167c4ddca324d929b6f7e9f0f5bc64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1226570411,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1226570411,
+    "wof:lastmodified":1537675082,
+    "wof:name":"Nape",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.87662,
+    10.6767,
+    10.87662,
+    10.6767
+],
+  "geometry": {"coordinates":[10.87662,10.6767],"type":"Point"}
+}

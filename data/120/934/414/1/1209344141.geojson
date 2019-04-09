@@ -1,0 +1,66 @@
+{
+  "id": 1209344141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.07474,9.56845,7.07474,9.56845",
+    "geom:latitude":9.56845,
+    "geom:longitude":7.07474,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Zumakweri",
+    "gn:country_code":"NG",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317581,
+    "gn:latitude":9.56845,
+    "gn:longitude":7.07474,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zumakweri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zubokweri",
+        "Zumakweri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317581
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7147f9ddb8c153f3fc354804cba0256",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344141
+        }
+    ],
+    "wof:id":1209344141,
+    "wof:lastmodified":1537674896,
+    "wof:name":"Zumakweri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07474,
+    9.56845,
+    7.07474,
+    9.56845
+],
+  "geometry": {"coordinates":[7.07474,9.56845],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276178557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.28295,7.2902,8.28295,7.2902",
+    "geom:latitude":7.2902,
+    "geom:longitude":8.28295,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007.0",
+    "gn:asciiname":"Tsealem",
+    "gn:country_code":"NG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852377,
+    "gn:latitude":7.2902,
+    "gn:longitude":8.28295,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsealem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852377
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0f1d5fdc42276ab5e37b94c81251aa70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563473,
+            "locality_id":1276178557,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276178557,
+    "wof:lastmodified":1536985569,
+    "wof:name":"Tsealem",
+    "wof:parent_id":1108563473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.28295,
+    7.2902,
+    8.28295,
+    7.2902
+],
+  "geometry": {"coordinates":[8.28295,7.2902],"type":"Point"}
+}

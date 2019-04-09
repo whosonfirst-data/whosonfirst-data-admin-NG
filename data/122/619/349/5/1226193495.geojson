@@ -1,0 +1,69 @@
+{
+  "id": 1226193495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.02993,12.7314,4.02993,12.7314",
+    "geom:latitude":12.7314,
+    "geom:longitude":4.02993,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50203",
+    "gn:asciiname":"Makangara",
+    "gn:country_code":"NG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331210,
+    "gn:latitude":12.7314,
+    "gn:longitude":4.02993,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331210
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"efeb2e19a87fd852b94ffd3218d8a1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563027,
+            "locality_id":1226193495,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1226193495,
+    "wof:lastmodified":1537008297,
+    "wof:name":"Makangara",
+    "wof:parent_id":1108563027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.02993,
+    12.7314,
+    4.02993,
+    12.7314
+],
+  "geometry": {"coordinates":[4.02993,12.7314],"type":"Point"}
+}

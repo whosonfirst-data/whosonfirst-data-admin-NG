@@ -1,0 +1,68 @@
+{
+  "id": 1209776997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.2,5.81667,7.2,5.81667",
+    "geom:latitude":5.81667,
+    "geom:longitude":7.2,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17027.0",
+    "gn:asciiname":"Umuduru Okwe",
+    "gn:country_code":"NG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320518,
+    "gn:latitude":5.81667,
+    "gn:longitude":7.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umuduru Okwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320518
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0e8160bc53de872c898f53d749591d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564469,
+            "locality_id":1209776997,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1209776997,
+    "wof:lastmodified":1536377813,
+    "wof:name":"Umuduru Okwe",
+    "wof:parent_id":1108564469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.2,
+    5.81667,
+    7.2,
+    5.81667
+],
+  "geometry": {"coordinates":[7.2,5.81667],"type":"Point"}
+}

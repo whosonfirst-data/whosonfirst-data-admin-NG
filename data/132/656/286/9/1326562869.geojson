@@ -1,0 +1,71 @@
+{
+  "id": 1326562869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75366,10.70946,10.75366,10.70946",
+    "geom:latitude":10.70946,
+    "geom:longitude":10.75366,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Tumpuri",
+    "gn:country_code":"NG",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321510,
+    "gn:latitude":10.70946,
+    "gn:longitude":10.75366,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tumpuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tumpuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321510
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f924441123e6a082058e5b2bcde928a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1326562869,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1326562869,
+    "wof:lastmodified":1537674967,
+    "wof:name":"Tumpuri",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75366,
+    10.70946,
+    10.75366,
+    10.70946
+],
+  "geometry": {"coordinates":[10.75366,10.70946],"type":"Point"}
+}

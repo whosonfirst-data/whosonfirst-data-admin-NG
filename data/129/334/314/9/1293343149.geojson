@@ -1,0 +1,71 @@
+{
+  "id": 1293343149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.72001,5.96975,5.72001,5.96975",
+    "geom:latitude":5.96975,
+    "geom:longitude":5.72001,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10006.0",
+    "gn:asciiname":"Ijomi",
+    "gn:country_code":"NG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027826,
+    "gn:latitude":5.96975,
+    "gn:longitude":5.72001,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ijomi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ijomi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027826
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0af984b53541dd88e0f5c6289c6c64dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563335,
+            "locality_id":1293343149,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293343149,
+    "wof:lastmodified":1537675416,
+    "wof:name":"Ijomi",
+    "wof:parent_id":1108563335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.72001,
+    5.96975,
+    5.72001,
+    5.96975
+],
+  "geometry": {"coordinates":[5.72001,5.96975],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193166745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35,8.91667,6.35,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":6.35,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27001.0",
+    "gn:asciiname":"Shania",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323341,
+    "gn:latitude":8.91667,
+    "gn:longitude":6.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Twainia",
+        "Shanla",
+        "Shania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323341
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e4e97c46f6dd795b50490a1606aa8f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562933,
+            "locality_id":1193166745,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1193166745,
+    "wof:lastmodified":1537674988,
+    "wof:name":"Shania",
+    "wof:parent_id":1108562933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35,
+    8.91667,
+    6.35,
+    8.91667
+],
+  "geometry": {"coordinates":[6.35,8.91667],"type":"Point"}
+}

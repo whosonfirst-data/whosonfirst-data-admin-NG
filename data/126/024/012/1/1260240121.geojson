@@ -1,0 +1,68 @@
+{
+  "id": 1260240121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.11057,4.82491,8.11057,4.82491",
+    "geom:latitude":4.82491,
+    "geom:longitude":8.11057,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3023.0",
+    "gn:asciiname":"Odobo",
+    "gn:country_code":"NG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328015,
+    "gn:latitude":4.82491,
+    "gn:longitude":8.11057,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Odobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328015
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"33560bc6a6426a94d756af94359bf2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564159,
+            "locality_id":1260240121,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1260240121,
+    "wof:lastmodified":1536771339,
+    "wof:name":"Odobo",
+    "wof:parent_id":1108564159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.11057,
+    4.82491,
+    8.11057,
+    4.82491
+],
+  "geometry": {"coordinates":[8.11057,4.82491],"type":"Point"}
+}

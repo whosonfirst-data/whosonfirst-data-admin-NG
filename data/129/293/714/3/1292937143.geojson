@@ -1,0 +1,71 @@
+{
+  "id": 1292937143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.48184,4.86172,5.48184,4.86172",
+    "geom:latitude":4.86172,
+    "geom:longitude":5.48184,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Ereyefeyre",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7041492,
+    "gn:latitude":4.86172,
+    "gn:longitude":5.48184,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Ereyefeyre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ereyefeyre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7041492
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2cccaca1f2d9714456d70f2c816ae2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563285,
+            "locality_id":1292937143,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1292937143,
+    "wof:lastmodified":1537675446,
+    "wof:name":"Ereyefeyre",
+    "wof:parent_id":1108563285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.48184,
+    4.86172,
+    5.48184,
+    4.86172
+],
+  "geometry": {"coordinates":[5.48184,4.86172],"type":"Point"}
+}

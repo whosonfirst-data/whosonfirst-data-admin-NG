@@ -1,0 +1,73 @@
+{
+  "id": 1259912897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63333,9.33333,4.63333,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":4.63333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27017.0",
+    "gn:asciiname":"Sungogi",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322768,
+    "gn:latitude":9.33333,
+    "gn:longitude":4.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sungogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unkaji",
+        "Sungogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322768
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"457e4975d7c5a86c7d57ac3a5df2945d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563987,
+            "locality_id":1259912897,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1259912897,
+    "wof:lastmodified":1537674981,
+    "wof:name":"Sungogi",
+    "wof:parent_id":1108563987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63333,
+    9.33333,
+    4.63333,
+    9.33333
+],
+  "geometry": {"coordinates":[4.63333,9.33333],"type":"Point"}
+}

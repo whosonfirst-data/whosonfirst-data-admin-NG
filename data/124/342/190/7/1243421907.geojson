@@ -1,0 +1,67 @@
+{
+  "id": 1243421907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97089,5.83241,6.97089,5.83241",
+    "geom:latitude":5.83241,
+    "geom:longitude":6.97089,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Eziawa",
+    "gn:country_code":"NG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098592,
+    "gn:latitude":5.83241,
+    "gn:longitude":6.97089,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Eziawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098592
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"abc84e2f0dd7a5d527e4f1d25217dcbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564215,
+            "locality_id":1243421907,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1243421907,
+    "wof:lastmodified":1536839928,
+    "wof:name":"Eziawa",
+    "wof:parent_id":1108564215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97089,
+    5.83241,
+    6.97089,
+    5.83241
+],
+  "geometry": {"coordinates":[6.97089,5.83241],"type":"Point"}
+}

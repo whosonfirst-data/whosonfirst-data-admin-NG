@@ -1,0 +1,68 @@
+{
+  "id": 1343621215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8075,7.53611,3.8075,7.53611",
+    "geom:latitude":7.53611,
+    "geom:longitude":3.8075,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Apanpa",
+    "gn:country_code":"NG",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591516,
+    "gn:latitude":7.53611,
+    "gn:longitude":3.8075,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Apanpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591516
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"66ce8ace90f0f43904b6e7a085fb08e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1343621215,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1343621215,
+    "wof:lastmodified":1537011056,
+    "wof:name":"Apanpa",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8075,
+    7.53611,
+    3.8075,
+    7.53611
+],
+  "geometry": {"coordinates":[3.8075,7.53611],"type":"Point"}
+}

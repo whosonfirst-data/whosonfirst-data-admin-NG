@@ -1,0 +1,79 @@
+{
+  "id": 1293840853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.94652,6.15501,6.94652,6.15501",
+    "geom:latitude":6.15501,
+    "geom:longitude":6.94652,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4008.0",
+    "gn:asciiname":"Eziowelle",
+    "gn:country_code":"NG",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342890,
+    "gn:latitude":6.15501,
+    "gn:longitude":6.94652,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eziowelle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eziowelle"
+    ],
+    "name:eng_x_variant":[
+        "Ezoiwelle"
+    ],
+    "name:und_x_variant":[
+        "Ezoiwelle",
+        "Eziowele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342890,
+        "wk:page":"Eziowelle"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e918730e67f6a0ba408fe6b6912cab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563245,
+            "locality_id":1293840853,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1293840853,
+    "wof:lastmodified":1537675268,
+    "wof:name":"Eziowelle",
+    "wof:parent_id":1108563245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.94652,
+    6.15501,
+    6.94652,
+    6.15501
+],
+  "geometry": {"coordinates":[6.94652,6.15501],"type":"Point"}
+}

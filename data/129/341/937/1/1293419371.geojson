@@ -1,0 +1,69 @@
+{
+  "id": 1293419371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98896,13.58507,5.98896,13.58507",
+    "geom:latitude":13.58507,
+    "geom:longitude":5.98896,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"613.0",
+    "gn:admin3_code":"61311",
+    "gn:asciiname":"Badarawa",
+    "gn:country_code":"NG",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015970,
+    "gn:latitude":13.58507,
+    "gn:longitude":5.98896,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Badarawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015970
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ace8361f81ff2c1b1ed36fc222158db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564313,
+            "locality_id":1293419371,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293419371,
+    "wof:lastmodified":1536884821,
+    "wof:name":"Badarawa",
+    "wof:parent_id":1108564313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98896,
+    13.58507,
+    5.98896,
+    13.58507
+],
+  "geometry": {"coordinates":[5.98896,13.58507],"type":"Point"}
+}

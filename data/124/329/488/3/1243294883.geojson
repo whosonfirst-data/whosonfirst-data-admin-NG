@@ -1,0 +1,72 @@
+{
+  "id": 1243294883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.66689,12.3663,10.66689,12.3663",
+    "geom:latitude":12.3663,
+    "geom:longitude":10.66689,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5020.0",
+    "gn:admin3_code":"BA2016",
+    "gn:asciiname":"Jam Bari",
+    "gn:country_code":"NG",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336537,
+    "gn:latitude":12.3663,
+    "gn:longitude":10.66689,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jam Bari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jamberi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336537
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64ccb08d7a816ae6e9f41ede0b806192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563387,
+            "locality_id":1243294883,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1243294883,
+    "wof:lastmodified":1537675168,
+    "wof:name":"Jam Bari",
+    "wof:parent_id":1108563387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.66689,
+    12.3663,
+    10.66689,
+    12.3663
+],
+  "geometry": {"coordinates":[10.66689,12.3663],"type":"Point"}
+}

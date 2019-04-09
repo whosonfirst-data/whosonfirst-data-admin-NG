@@ -1,0 +1,68 @@
+{
+  "id": 1225873177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.02938,11.03598,11.02938,11.03598",
+    "geom:latitude":11.03598,
+    "geom:longitude":11.02938,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004",
+    "gn:asciiname":"Juro Musa",
+    "gn:country_code":"NG",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8763052,
+    "gn:latitude":11.03598,
+    "gn:longitude":11.02938,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Juro Musa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8763052
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"749c519362956b9f4df1b5e314cc96b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1225873177,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1225873177,
+    "wof:lastmodified":1536973812,
+    "wof:name":"Juro Musa",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.02938,
+    11.03598,
+    11.02938,
+    11.03598
+],
+  "geometry": {"coordinates":[11.02938,11.03598],"type":"Point"}
+}

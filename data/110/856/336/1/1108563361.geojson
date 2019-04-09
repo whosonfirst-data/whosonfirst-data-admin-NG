@@ -1,0 +1,89 @@
+{
+  "id": 1108563361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00172,
+    "geom:area_square_m":20798409.510964,
+    "geom:bbox":"8.49646633973,11.9826713683,8.56016633973,12.0414713683",
+    "geom:latitude":12.015042,
+    "geom:longitude":8.53373,
+    "iso:country":"NG",
+    "lbl:latitude":12.013516,
+    "lbl:longitude":8.535902,
+    "meso:adm1_name":"Kano",
+    "meso:diss_me":"FaggeKano",
+    "meso:gadm_admin":"Ungogo",
+    "meso:gaul_admin":"Ungogo",
+    "meso:hasc_id":"NG.KN.FA",
+    "meso:mps_x":8.535902,
+    "meso:mps_y":12.013516,
+    "meso:name_local":"Fagge",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":12.013516,
+    "mps:longitude":8.535902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fagge"
+    ],
+    "name:eng_x_variant":[
+        "Ungogo"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"21.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Waje",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.KN",
+    "statoids:name":"Fagge",
+    "statoids:population":"198828",
+    "statoids:statoid":"NG.KN.FA",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.KN.FA"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057584,
+    "wof:geomhash":"269732a457e5131ce0f5c635a6c2b32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563361,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1108563361,
+    "wof:lastmodified":1536615200,
+    "wof:name":"Fagge",
+    "wof:parent_id":85675425,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":198828,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"FA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49646633973259,
+    11.98267136831211,
+    8.56016633973261,
+    12.04147136831216
+],
+  "geometry": {"coordinates":[[[8.55996633973258,12.0194713683121],[8.56016633973261,12.01127136831211],[8.55696633973261,12.00307136831212],[8.55496633973259,11.9959713683121],[8.55396633973263,11.99127136831216],[8.55066633973262,11.98537136831213],[8.54576633973264,11.98267136831211],[8.54126633973264,11.98507136831218],[8.53536633973261,11.98947136831217],[8.53266633973259,11.98987136831214],[8.53156633973261,11.99637136831216],[8.53026633973261,11.9997713683121],[8.52546633973265,12.00437136831212],[8.52306633973258,12.00777136831215],[8.52056633973258,12.01237136831217],[8.51806633973259,12.01687136831218],[8.51326633973263,12.0213713683121],[8.50836633973257,12.02827136831218],[8.50126633973264,12.03037136831211],[8.49646633973259,12.03487136831212],[8.49986633973262,12.03617136831213],[8.50326633973256,12.03857136831211],[8.51026633973257,12.04117136831211],[8.51606633973257,12.04127136831213],[8.52186633973259,12.04147136831216],[8.52666633973264,12.03817136831214],[8.53376633973265,12.03377136831215],[8.5397663397326,12.02927136831214],[8.54456633973256,12.02477136831213],[8.54936633973261,12.0213713683121],[8.55646633973263,12.01927136831216],[8.55996633973258,12.0194713683121]]],"type":"Polygon"}
+}

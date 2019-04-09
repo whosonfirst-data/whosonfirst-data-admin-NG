@@ -1,0 +1,62 @@
+{
+  "id": 1209296391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.22147,6.93123,3.22147,6.93123",
+    "geom:latitude":6.93123,
+    "geom:longitude":3.22147,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28006.0",
+    "gn:asciiname":"Itori",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2336992,
+    "gn:latitude":6.93123,
+    "gn:longitude":3.22147,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Itori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336992
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8af69db61b74fbb952728245e2d911e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209296391
+        }
+    ],
+    "wof:id":1209296391,
+    "wof:lastmodified":1536291511,
+    "wof:name":"Itori",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.22147,
+    6.93123,
+    3.22147,
+    6.93123
+],
+  "geometry": {"coordinates":[3.22147,6.93123],"type":"Point"}
+}

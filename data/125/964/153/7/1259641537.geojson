@@ -1,0 +1,67 @@
+{
+  "id": 1259641537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.34727,9.31934,7.34727,9.31934",
+    "geom:latitude":9.31934,
+    "geom:longitude":7.34727,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Garam",
+    "gn:country_code":"NG",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341924,
+    "gn:latitude":9.31934,
+    "gn:longitude":7.34727,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Garam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341924
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1c60b22f3f012d742b62081d7fab3eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564387,
+            "locality_id":1259641537,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1259641537,
+    "wof:lastmodified":1536629485,
+    "wof:name":"Garam",
+    "wof:parent_id":1108564387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.34727,
+    9.31934,
+    7.34727,
+    9.31934
+],
+  "geometry": {"coordinates":[7.34727,9.31934],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226777199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71463,10.4353,11.71463,10.4353",
+    "geom:latitude":10.4353,
+    "geom:longitude":11.71463,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Dampitan",
+    "gn:country_code":"NG",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345468,
+    "gn:latitude":10.4353,
+    "gn:longitude":11.71463,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dampitan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dampitaw",
+        "Dampitan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345468
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1225d645d9df512847b59f35f7765f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563105,
+            "locality_id":1226777199,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226777199,
+    "wof:lastmodified":1537675310,
+    "wof:name":"Dampitan",
+    "wof:parent_id":1108563105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71463,
+    10.4353,
+    11.71463,
+    10.4353
+],
+  "geometry": {"coordinates":[11.71463,10.4353],"type":"Point"}
+}

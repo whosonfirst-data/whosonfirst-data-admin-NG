@@ -1,0 +1,73 @@
+{
+  "id": 1360014047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.07096,9.98474,7.07096,9.98474",
+    "geom:latitude":9.98474,
+    "geom:longitude":7.07096,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018.0",
+    "gn:asciiname":"Jibe",
+    "gn:country_code":"NG",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336143,
+    "gn:latitude":9.98474,
+    "gn:longitude":7.07096,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jibe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jigbe",
+        "Jigwe",
+        "Jibe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336143
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9c6c87e2e3586ded96bcdaf0e38d0a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564003,
+            "locality_id":1360014047,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360014047,
+    "wof:lastmodified":1537675164,
+    "wof:name":"Jibe",
+    "wof:parent_id":1108564003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07096,
+    9.98474,
+    7.07096,
+    9.98474
+],
+  "geometry": {"coordinates":[7.07096,9.98474],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209444593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61582,9.26471,11.61582,9.26471",
+    "geom:latitude":9.26471,
+    "geom:longitude":11.61582,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Buno",
+    "gn:country_code":"NG",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209245,
+    "gn:latitude":9.26471,
+    "gn:longitude":11.61582,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Buno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209245
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"980d91c875ec2276ffd7bb043aaeaacf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444593
+        }
+    ],
+    "wof:id":1209444593,
+    "wof:lastmodified":1537675498,
+    "wof:name":"Buno",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61582,
+    9.26471,
+    11.61582,
+    9.26471
+],
+  "geometry": {"coordinates":[11.61582,9.26471],"type":"Point"}
+}

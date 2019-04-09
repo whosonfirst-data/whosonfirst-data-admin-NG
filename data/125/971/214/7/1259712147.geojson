@@ -1,0 +1,72 @@
+{
+  "id": 1259712147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23492,9.33238,6.23492,9.33238",
+    "geom:latitude":9.33238,
+    "geom:longitude":6.23492,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010.0",
+    "gn:asciiname":"Kpakara",
+    "gn:country_code":"NG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333854,
+    "gn:latitude":9.33238,
+    "gn:longitude":6.23492,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kpakara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kparaka",
+        "Kpakara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333854
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c51bd40cc54d5c2b80669c0e670f137e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1259712147,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1259712147,
+    "wof:lastmodified":1537675134,
+    "wof:name":"Kpakara",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23492,
+    9.33238,
+    6.23492,
+    9.33238
+],
+  "geometry": {"coordinates":[6.23492,9.33238],"type":"Point"}
+}

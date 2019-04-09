@@ -1,0 +1,74 @@
+{
+  "id": 1327300537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18126,12.48398,14.18126,12.48398",
+    "geom:latitude":12.48398,
+    "geom:longitude":14.18126,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"12501",
+    "gn:asciiname":"Wulgo",
+    "gn:country_code":"NG",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318911,
+    "gn:latitude":12.48398,
+    "gn:longitude":14.18126,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Wulgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wulgo Momaduri",
+        "Wulgo",
+        "Wulgo Momaduru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108564023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318911
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd4a80a70cbadba2ba7d34c4590db349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564023,
+            "locality_id":1327300537,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1327300537,
+    "wof:lastmodified":1537674912,
+    "wof:name":"Wulgo",
+    "wof:parent_id":1108564023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18126,
+    12.48398,
+    14.18126,
+    12.48398
+],
+  "geometry": {"coordinates":[14.18126,12.48398],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243582417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.20543,6.64367,8.20543,6.64367",
+    "geom:latitude":6.64367,
+    "geom:longitude":8.20543,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010.0",
+    "gn:asciiname":"Iziogo",
+    "gn:country_code":"NG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336735,
+    "gn:latitude":6.64367,
+    "gn:longitude":8.20543,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iziogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ijogo",
+        "Isiogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336735
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb8afdb5b974a4e459cc57f7568f2857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563709,
+            "locality_id":1243582417,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1243582417,
+    "wof:lastmodified":1537675170,
+    "wof:name":"Iziogo",
+    "wof:parent_id":1108563709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.20543,
+    6.64367,
+    8.20543,
+    6.64367
+],
+  "geometry": {"coordinates":[8.20543,6.64367],"type":"Point"}
+}

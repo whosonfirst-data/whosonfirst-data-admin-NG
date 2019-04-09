@@ -1,0 +1,72 @@
+{
+  "id": 1293333429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75571,5.85132,5.75571,5.85132",
+    "geom:latitude":5.85132,
+    "geom:longitude":5.75571,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10017.0",
+    "gn:asciiname":"Adagbarassa-Amukpe",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352628,
+    "gn:latitude":5.85132,
+    "gn:longitude":5.75571,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Adagbarassa-Amukpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adagbarassa",
+        "Adagbarassa-Amukpe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352628
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8587e82f9062f3836fcf9f5e32b301a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564337,
+            "locality_id":1293333429,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293333429,
+    "wof:lastmodified":1537675393,
+    "wof:name":"Adagbarassa-Amukpe",
+    "wof:parent_id":1108564337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75571,
+    5.85132,
+    5.75571,
+    5.85132
+],
+  "geometry": {"coordinates":[5.75571,5.85132],"type":"Point"}
+}

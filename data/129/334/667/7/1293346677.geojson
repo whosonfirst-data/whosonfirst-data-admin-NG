@@ -1,0 +1,72 @@
+{
+  "id": 1293346677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0951,5.4413,8.0951,5.4413",
+    "geom:latitude":5.4413,
+    "geom:longitude":8.0951,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Ndeacha",
+    "gn:country_code":"NG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329335,
+    "gn:latitude":5.4413,
+    "gn:longitude":8.0951,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndeacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndeacho",
+        "Ndeacha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329335
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b94f7ad4023cf80805a395bc3e0bbf1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1293346677,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293346677,
+    "wof:lastmodified":1537675080,
+    "wof:name":"Ndeacha",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0951,
+    5.4413,
+    8.0951,
+    5.4413
+],
+  "geometry": {"coordinates":[8.0951,5.4413],"type":"Point"}
+}

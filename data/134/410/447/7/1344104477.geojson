@@ -1,0 +1,68 @@
+{
+  "id": 1344104477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.09359,7.28533,8.09359,7.28533",
+    "geom:latitude":7.28533,
+    "geom:longitude":8.09359,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7019.0",
+    "gn:asciiname":"Amula",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350006,
+    "gn:latitude":7.28533,
+    "gn:longitude":8.09359,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350006
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c4030fa6133313d089663a23c4ae6308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564239,
+            "locality_id":1344104477,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1344104477,
+    "wof:lastmodified":1536811590,
+    "wof:name":"Amula",
+    "wof:parent_id":1108564239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.09359,
+    7.28533,
+    8.09359,
+    7.28533
+],
+  "geometry": {"coordinates":[8.09359,7.28533],"type":"Point"}
+}

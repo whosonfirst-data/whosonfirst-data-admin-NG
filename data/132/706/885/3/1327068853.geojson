@@ -1,0 +1,71 @@
+{
+  "id": 1327068853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.46517,6.02454,5.46517,6.02454",
+    "geom:latitude":6.02454,
+    "geom:longitude":5.46517,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kolokolo (II)",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334093,
+    "gn:latitude":6.02454,
+    "gn:longitude":5.46517,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolokolo (II)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolokolo",
+        "Kolokolo (II)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334093
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5a3959c772d4080dd3badaa15a0752cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564499,
+            "locality_id":1327068853,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1327068853,
+    "wof:lastmodified":1537675136,
+    "wof:name":"Kolokolo (II)",
+    "wof:parent_id":1108564499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.46517,
+    6.02454,
+    5.46517,
+    6.02454
+],
+  "geometry": {"coordinates":[5.46517,6.02454],"type":"Point"}
+}

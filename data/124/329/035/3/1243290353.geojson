@@ -1,0 +1,68 @@
+{
+  "id": 1243290353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79601,8.14724,8.79601,8.14724",
+    "geom:latitude":8.14724,
+    "geom:longitude":8.79601,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26005.0",
+    "gn:asciiname":"Keana",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2334664,
+    "gn:latitude":8.14724,
+    "gn:longitude":8.79601,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Keana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334664
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c552b7eb1e809199caaa8637f9e7db05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563807,
+            "locality_id":1243290353,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1243290353,
+    "wof:lastmodified":1537029431,
+    "wof:name":"Keana",
+    "wof:parent_id":1108563807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79601,
+    8.14724,
+    8.79601,
+    8.14724
+],
+  "geometry": {"coordinates":[8.79601,8.14724],"type":"Point"}
+}

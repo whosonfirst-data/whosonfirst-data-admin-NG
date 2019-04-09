@@ -1,0 +1,71 @@
+{
+  "id": 1327264967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89507,7.4382,5.89507,7.4382",
+    "geom:latitude":7.4382,
+    "geom:longitude":5.89507,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29003.0",
+    "gn:asciiname":"Isua",
+    "gn:country_code":"NG",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337161,
+    "gn:latitude":7.4382,
+    "gn:longitude":5.89507,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ishua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337161
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8ee28360d0a568015e4175412bfc7f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562973,
+            "locality_id":1327264967,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1327264967,
+    "wof:lastmodified":1537675179,
+    "wof:name":"Isua",
+    "wof:parent_id":1108562973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89507,
+    7.4382,
+    5.89507,
+    7.4382
+],
+  "geometry": {"coordinates":[5.89507,7.4382],"type":"Point"}
+}

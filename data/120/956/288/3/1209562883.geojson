@@ -1,0 +1,62 @@
+{
+  "id": 1209562883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97466,7.23829,8.97466,7.23829",
+    "geom:latitude":7.23829,
+    "geom:longitude":8.97466,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Anongo",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349767,
+    "gn:latitude":7.23829,
+    "gn:longitude":8.97466,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349767
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"17b48d567f5fa4fd034660737295b61a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209562883
+        }
+    ],
+    "wof:id":1209562883,
+    "wof:lastmodified":1536283332,
+    "wof:name":"Anongo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97466,
+    7.238289999999999,
+    8.97466,
+    7.238289999999999
+],
+  "geometry": {"coordinates":[8.97466,7.23829],"type":"Point"}
+}

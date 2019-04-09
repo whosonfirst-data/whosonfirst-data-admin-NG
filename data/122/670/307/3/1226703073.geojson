@@ -1,0 +1,74 @@
+{
+  "id": 1226703073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26962,6.19135,6.26962,6.19135",
+    "geom:latitude":6.19135,
+    "geom:longitude":6.26962,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10007.0",
+    "gn:asciiname":"Uteh-Okpu",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319554,
+    "gn:latitude":6.19135,
+    "gn:longitude":6.26962,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uteh-Okpu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uteh-Okpu"
+    ],
+    "name:eng_x_variant":[
+        "Ute Okpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319554
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bce6c83009f8ba9ede9fcabf09d3d342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563583,
+            "locality_id":1226703073,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226703073,
+    "wof:lastmodified":1537674918,
+    "wof:name":"Uteh-Okpu",
+    "wof:parent_id":1108563583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26962,
+    6.19135,
+    6.26962,
+    6.19135
+],
+  "geometry": {"coordinates":[6.26962,6.19135],"type":"Point"}
+}

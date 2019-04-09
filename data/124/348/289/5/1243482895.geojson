@@ -1,0 +1,68 @@
+{
+  "id": 1243482895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.71879,5.61425,7.71879,5.61425",
+    "geom:latitude":5.61425,
+    "geom:longitude":7.71879,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Ndi-Ebe",
+    "gn:country_code":"NG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329284,
+    "gn:latitude":5.61425,
+    "gn:longitude":7.71879,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndi-Ebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108563031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329284
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd9defb645a20bd2d4be00f28454db98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563031,
+            "locality_id":1243482895,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1243482895,
+    "wof:lastmodified":1536753054,
+    "wof:name":"Ndi-Ebe",
+    "wof:parent_id":1108563031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.71879,
+    5.61425,
+    7.71879,
+    5.61425
+],
+  "geometry": {"coordinates":[7.71879,5.61425],"type":"Point"}
+}

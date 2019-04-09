@@ -1,0 +1,68 @@
+{
+  "id": 1276295819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.59869,4.88759,7.59869,4.88759",
+    "geom:latitude":4.88759,
+    "geom:longitude":7.59869,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3028.0",
+    "gn:asciiname":"Ikot Akpaidem",
+    "gn:country_code":"NG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338191,
+    "gn:latitude":4.88759,
+    "gn:longitude":7.59869,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Akpaidem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338191
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3298273018a5e3f267eee22d98d4dc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564449,
+            "locality_id":1276295819,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1276295819,
+    "wof:lastmodified":1536828091,
+    "wof:name":"Ikot Akpaidem",
+    "wof:parent_id":1108564449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.59869,
+    4.88759,
+    7.59869,
+    4.88759
+],
+  "geometry": {"coordinates":[7.59869,4.88759],"type":"Point"}
+}

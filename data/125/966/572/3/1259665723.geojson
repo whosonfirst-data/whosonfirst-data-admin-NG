@@ -1,0 +1,68 @@
+{
+  "id": 1259665723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.05,7.16667,3.05,7.16667",
+    "geom:latitude":7.16667,
+    "geom:longitude":3.05,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28004.0",
+    "gn:asciiname":"Lafenwa",
+    "gn:country_code":"NG",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332517,
+    "gn:latitude":7.16667,
+    "gn:longitude":3.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lafenwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332517
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"055e97581f7a00f42d3c2be2fb732eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563269,
+            "locality_id":1259665723,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1259665723,
+    "wof:lastmodified":1537089407,
+    "wof:name":"Lafenwa",
+    "wof:parent_id":1108563269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.05,
+    7.16667,
+    3.05,
+    7.16667
+],
+  "geometry": {"coordinates":[3.05,7.16667],"type":"Point"}
+}

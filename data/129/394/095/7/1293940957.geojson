@@ -1,0 +1,67 @@
+{
+  "id": 1293940957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.62447,12.71682,8.62447,12.71682",
+    "geom:latitude":12.71682,
+    "geom:longitude":8.62447,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Burmawa",
+    "gn:country_code":"NG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346344,
+    "gn:latitude":12.71682,
+    "gn:longitude":8.62447,
+    "gn:modification_date":"2009-02-02",
+    "gn:name":"Burmawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346344
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bd5e3c8b72559806898ea707c1b5eff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564535,
+            "locality_id":1293940957,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1293940957,
+    "wof:lastmodified":1536628941,
+    "wof:name":"Burmawa",
+    "wof:parent_id":1108564535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.62447,
+    12.71682,
+    8.62447,
+    12.71682
+],
+  "geometry": {"coordinates":[8.62447,12.71682],"type":"Point"}
+}

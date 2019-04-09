@@ -1,0 +1,68 @@
+{
+  "id": 1276393195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39115,7.5223,9.39115,7.5223",
+    "geom:latitude":7.5223,
+    "geom:longitude":9.39115,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Laan",
+    "gn:country_code":"NG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9526910,
+    "gn:latitude":7.5223,
+    "gn:longitude":9.39115,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Laan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9526910
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5eaae2233b15cdd1f9672414861d8e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1276393195,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276393195,
+    "wof:lastmodified":1536698717,
+    "wof:name":"Laan",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39115,
+    7.5223,
+    9.39115,
+    7.5223
+],
+  "geometry": {"coordinates":[9.39115,7.5223],"type":"Point"}
+}

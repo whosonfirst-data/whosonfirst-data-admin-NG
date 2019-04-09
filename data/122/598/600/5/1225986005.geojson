@@ -1,0 +1,68 @@
+{
+  "id": 1225986005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.93333,8.08333,3.93333,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":3.93333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31003.0",
+    "gn:asciiname":"Aboki",
+    "gn:country_code":"NG",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352839,
+    "gn:latitude":8.08333,
+    "gn:longitude":3.93333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aboki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352839
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"afc5b917f48a70f93ea0e82f05fb161f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563045,
+            "locality_id":1225986005,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1225986005,
+    "wof:lastmodified":1536810706,
+    "wof:name":"Aboki",
+    "wof:parent_id":1108563045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.93333,
+    8.08333,
+    3.93333,
+    8.08333
+],
+  "geometry": {"coordinates":[3.93333,8.08333],"type":"Point"}
+}

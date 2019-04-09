@@ -1,0 +1,73 @@
+{
+  "id": 1293161771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59124,12.20851,8.59124,12.20851",
+    "geom:latitude":12.20851,
+    "geom:longitude":8.59124,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20040.0",
+    "gn:admin3_code":"KN3003",
+    "gn:asciiname":"Garke",
+    "gn:country_code":"NG",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340319,
+    "gn:latitude":12.20851,
+    "gn:longitude":8.59124,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorrike",
+        "Garke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340319
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c8a36547153553ebb8b023a9742885a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563977,
+            "locality_id":1293161771,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1293161771,
+    "wof:lastmodified":1537675225,
+    "wof:name":"Garke",
+    "wof:parent_id":1108563977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59124,
+    12.20851,
+    8.59124,
+    12.20851
+],
+  "geometry": {"coordinates":[8.59124,12.20851],"type":"Point"}
+}

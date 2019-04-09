@@ -1,0 +1,73 @@
+{
+  "id": 1327088471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27846,12.66208,13.27846,12.66208",
+    "geom:latitude":12.66208,
+    "geom:longitude":13.27846,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"110.0",
+    "gn:admin3_code":"11004",
+    "gn:asciiname":"Bulabulin",
+    "gn:country_code":"NG",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346542,
+    "gn:latitude":12.66208,
+    "gn:longitude":13.27846,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bulabulin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilabirin",
+        "Bulabulin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346542
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"17e846cda5f9e8b2ef91030fbc0bef8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563459,
+            "locality_id":1327088471,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1327088471,
+    "wof:lastmodified":1537675322,
+    "wof:name":"Bulabulin",
+    "wof:parent_id":1108563459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27846,
+    12.66208,
+    13.27846,
+    12.66208
+],
+  "geometry": {"coordinates":[13.27846,12.66208],"type":"Point"}
+}

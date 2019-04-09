@@ -1,0 +1,68 @@
+{
+  "id": 1310233285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.3,10.14055,11.3,10.14055",
+    "geom:latitude":10.14055,
+    "geom:longitude":11.3,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16011.0",
+    "gn:asciiname":"Hardo Deba",
+    "gn:country_code":"NG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339572,
+    "gn:latitude":10.14055,
+    "gn:longitude":11.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hardo Deba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339572
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f3d2b35c678a335e1ebb0de3f4ce256b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564531,
+            "locality_id":1310233285,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1310233285,
+    "wof:lastmodified":1536811744,
+    "wof:name":"Hardo Deba",
+    "wof:parent_id":1108564531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.3,
+    10.14055,
+    11.3,
+    10.14055
+],
+  "geometry": {"coordinates":[11.3,10.14055],"type":"Point"}
+}

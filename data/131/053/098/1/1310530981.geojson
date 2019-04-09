@@ -1,0 +1,67 @@
+{
+  "id": 1310530981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.15411,9.12783,7.15411,9.12783",
+    "geom:latitude":9.12783,
+    "geom:longitude":7.15411,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Goyan",
+    "gn:country_code":"NG",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340289,
+    "gn:latitude":9.12783,
+    "gn:longitude":7.15411,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Goyan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340289
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"63d3aa9334bc99f635f99e8949e1486b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563461,
+            "locality_id":1310530981,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1310530981,
+    "wof:lastmodified":1536879492,
+    "wof:name":"Goyan",
+    "wof:parent_id":1108563461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.15411,
+    9.12783,
+    7.15411,
+    9.12783
+],
+  "geometry": {"coordinates":[7.15411,9.12783],"type":"Point"}
+}

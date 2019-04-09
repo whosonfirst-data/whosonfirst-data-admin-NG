@@ -1,0 +1,66 @@
+{
+  "id": 1209456401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.08827,7.99919,3.08827,7.99919",
+    "geom:latitude":7.99919,
+    "geom:longitude":3.08827,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31018.0",
+    "gn:asciiname":"Iwere-Ile",
+    "gn:country_code":"NG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2336926,
+    "gn:latitude":7.99919,
+    "gn:longitude":3.08827,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iwere-Ile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iwere",
+        "Iwere-Ile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336926
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd2bf49be7844fb9354a0800eae03f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209456401
+        }
+    ],
+    "wof:id":1209456401,
+    "wof:lastmodified":1537675174,
+    "wof:name":"Iwere-Ile",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.08827,
+    7.99919,
+    3.08827,
+    7.99919
+],
+  "geometry": {"coordinates":[3.08827,7.99919],"type":"Point"}
+}

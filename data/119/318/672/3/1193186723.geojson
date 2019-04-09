@@ -1,0 +1,70 @@
+{
+  "id": 1193186723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23103,9.26687,12.23103,9.26687",
+    "geom:latitude":9.26687,
+    "geom:longitude":12.23103,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tabbara",
+    "gn:country_code":"NG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189741,
+    "gn:latitude":9.26687,
+    "gn:longitude":12.23103,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Tabbara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tabbara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189741
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e6306b618018bc150507552131571549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1193186723,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193186723,
+    "wof:lastmodified":1537675486,
+    "wof:name":"Tabbara",
+    "wof:parent_id":1108564541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23103,
+    9.26687,
+    12.23103,
+    9.26687
+],
+  "geometry": {"coordinates":[12.23103,9.26687],"type":"Point"}
+}

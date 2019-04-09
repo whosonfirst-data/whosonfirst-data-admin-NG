@@ -1,0 +1,63 @@
+{
+  "id": 1209344115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45752,13.58663,5.45752,13.58663",
+    "geom:latitude":13.58663,
+    "geom:longitude":5.45752,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60805",
+    "gn:asciiname":"Dumaji",
+    "gn:country_code":"NG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012179,
+    "gn:latitude":13.58663,
+    "gn:longitude":5.45752,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dumaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012179
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bec7fd769cc9f0ce0127e4e3c73e5d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344115
+        }
+    ],
+    "wof:id":1209344115,
+    "wof:lastmodified":1536289969,
+    "wof:name":"Dumaji",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45752,
+    13.58663,
+    5.45752,
+    13.58663
+],
+  "geometry": {"coordinates":[5.45752,13.58663],"type":"Point"}
+}

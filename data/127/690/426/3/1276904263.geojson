@@ -1,0 +1,68 @@
+{
+  "id": 1276904263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4712,7.224,5.4712,7.224",
+    "geom:latitude":7.224,
+    "geom:longitude":5.4712,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29018.0",
+    "gn:asciiname":"Ode",
+    "gn:country_code":"NG",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832937,
+    "gn:latitude":7.224,
+    "gn:longitude":5.4712,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832937
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b93857c45dfdac48459d411c3c754da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564257,
+            "locality_id":1276904263,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1276904263,
+    "wof:lastmodified":1537007955,
+    "wof:name":"Ode",
+    "wof:parent_id":1108564257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4712,
+    7.224,
+    5.4712,
+    7.224
+],
+  "geometry": {"coordinates":[5.4712,7.224],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243583439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16188,11.94659,11.16188,11.94659",
+    "geom:latitude":11.94659,
+    "geom:longitude":11.16188,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70514",
+    "gn:asciiname":"Ngelkafaje",
+    "gn:country_code":"NG",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329030,
+    "gn:latitude":11.94659,
+    "gn:longitude":11.16188,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngelkafaje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngelkafaji",
+        "Ngelkafaje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329030
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b929e2f4116bae3df588aa6d98372270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1243583439,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1243583439,
+    "wof:lastmodified":1537675075,
+    "wof:name":"Ngelkafaje",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16188,
+    11.94659,
+    11.16188,
+    11.94659
+],
+  "geometry": {"coordinates":[11.16188,11.94659],"type":"Point"}
+}

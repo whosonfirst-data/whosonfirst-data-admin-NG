@@ -1,0 +1,72 @@
+{
+  "id": 1210049495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2093,6.35561,8.2093,6.35561",
+    "geom:latitude":6.35561,
+    "geom:longitude":8.2093,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010.0",
+    "gn:asciiname":"Amuzu-Igbagu",
+    "gn:country_code":"NG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349980,
+    "gn:latitude":6.35561,
+    "gn:longitude":8.2093,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amuzu-Igbagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amuzu",
+        "Amuzu-Igbagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349980
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b03b40491c92d77152ec374b743b368a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563709,
+            "locality_id":1210049495,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1210049495,
+    "wof:lastmodified":1537675363,
+    "wof:name":"Amuzu-Igbagu",
+    "wof:parent_id":1108563709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2093,
+    6.35561,
+    8.2093,
+    6.35561
+],
+  "geometry": {"coordinates":[8.2093,6.35561],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209073327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28777,7.3685,9.28777,7.3685",
+    "geom:latitude":7.3685,
+    "geom:longitude":9.28777,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Ugbenyi",
+    "gn:country_code":"NG",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9636773,
+    "gn:latitude":7.3685,
+    "gn:longitude":9.28777,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugbenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9636773
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6165e8e4be3e51747987f50a124d7365",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209073327
+        }
+    ],
+    "wof:id":1209073327,
+    "wof:lastmodified":1536298576,
+    "wof:name":"Ugbenyi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28777,
+    7.3685,
+    9.28777,
+    7.3685
+],
+  "geometry": {"coordinates":[9.28777,7.3685],"type":"Point"}
+}

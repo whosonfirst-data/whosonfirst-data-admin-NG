@@ -1,0 +1,78 @@
+{
+  "id": 1276299651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86111,6.50987,6.86111,6.50987",
+    "geom:latitude":6.50987,
+    "geom:longitude":6.86111,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4003.0",
+    "gn:asciiname":"Oronia-Utu",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325836,
+    "gn:latitude":6.50987,
+    "gn:longitude":6.86111,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oronia-Utu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Orania-Otu"
+    ],
+    "name:eng_x_variant":[
+        "Oronia-Utu",
+        "Oroma Otu"
+    ],
+    "name:und_x_variant":[
+        "Oroma Otu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325836
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"82f3aa04542f6781c250928a207ed6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563001,
+            "locality_id":1276299651,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1276299651,
+    "wof:lastmodified":1537675022,
+    "wof:name":"Oronia-Utu",
+    "wof:parent_id":1108563001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86111,
+    6.50987,
+    6.86111,
+    6.50987
+],
+  "geometry": {"coordinates":[6.86111,6.50987],"type":"Point"}
+}

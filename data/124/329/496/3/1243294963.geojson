@@ -1,0 +1,73 @@
+{
+  "id": 1243294963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.63738,12.26582,6.63738,12.26582",
+    "geom:latitude":12.26582,
+    "geom:longitude":6.63738,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80505",
+    "gn:asciiname":"Fulani",
+    "gn:country_code":"NG",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320245,
+    "gn:latitude":12.26582,
+    "gn:longitude":6.63738,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fulani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unguwar Fulani",
+        "Fulani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320245
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0fb1e99ebb74d7f4c43922f65e80ceb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1243294963,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1243294963,
+    "wof:lastmodified":1537674942,
+    "wof:name":"Fulani",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.63738,
+    12.26582,
+    6.63738,
+    12.26582
+],
+  "geometry": {"coordinates":[6.63738,12.26582],"type":"Point"}
+}

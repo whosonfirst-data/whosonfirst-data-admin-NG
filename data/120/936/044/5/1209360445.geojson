@@ -1,0 +1,62 @@
+{
+  "id": 1209360445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03333,8.91667,5.03333,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":5.03333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24003.0",
+    "gn:asciiname":"Malulu",
+    "gn:country_code":"NG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331008,
+    "gn:latitude":8.91667,
+    "gn:longitude":5.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Malulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331008
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"97900a5c5cced50bb094f9e52fbc72fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209360445
+        }
+    ],
+    "wof:id":1209360445,
+    "wof:lastmodified":1536289442,
+    "wof:name":"Malulu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03333,
+    8.91667,
+    5.03333,
+    8.91667
+],
+  "geometry": {"coordinates":[5.03333,8.91667],"type":"Point"}
+}

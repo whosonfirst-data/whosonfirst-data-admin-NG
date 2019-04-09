@@ -1,0 +1,69 @@
+{
+  "id": 1276824949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.10725,9.37885,8.10725,9.37885",
+    "geom:latitude":9.37885,
+    "geom:longitude":8.10725,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19007",
+    "gn:admin3_code":"KD0703",
+    "gn:asciiname":"Gauta",
+    "gn:country_code":"NG",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943524,
+    "gn:latitude":9.37885,
+    "gn:longitude":8.10725,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gauta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943524
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"83c92f446583fdd3c7bc704c2fa2cc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563721,
+            "locality_id":1276824949,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276824949,
+    "wof:lastmodified":1536614970,
+    "wof:name":"Gauta",
+    "wof:parent_id":1108563721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.10725,
+    9.37885,
+    8.10725,
+    9.37885
+],
+  "geometry": {"coordinates":[8.10725,9.37885],"type":"Point"}
+}

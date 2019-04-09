@@ -1,0 +1,68 @@
+{
+  "id": 1310456929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97157,6.01276,6.97157,6.01276",
+    "geom:latitude":6.01276,
+    "geom:longitude":6.97157,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4015",
+    "gn:asciiname":"Azigbo",
+    "gn:country_code":"NG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420787,
+    "gn:latitude":6.01276,
+    "gn:longitude":6.97157,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Azigbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420787
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9413b43f6493497bfcd97ef2ba2ac940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564051,
+            "locality_id":1310456929,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1310456929,
+    "wof:lastmodified":1536986310,
+    "wof:name":"Azigbo",
+    "wof:parent_id":1108564051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97157,
+    6.01276,
+    6.97157,
+    6.01276
+],
+  "geometry": {"coordinates":[6.97157,6.01276],"type":"Point"}
+}

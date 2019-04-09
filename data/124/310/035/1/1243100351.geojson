@@ -1,0 +1,68 @@
+{
+  "id": 1243100351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.27882,9.78187,11.27882,9.78187",
+    "geom:latitude":9.78187,
+    "geom:longitude":11.27882,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16010",
+    "gn:asciiname":"Boh",
+    "gn:country_code":"NG",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10337122,
+    "gn:latitude":9.78187,
+    "gn:longitude":11.27882,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Boh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337122
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"39074453e299bf443bff77a10168abe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564363,
+            "locality_id":1243100351,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1243100351,
+    "wof:lastmodified":1536807181,
+    "wof:name":"Boh",
+    "wof:parent_id":1108564363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.27882,
+    9.78187,
+    11.27882,
+    9.78187
+],
+  "geometry": {"coordinates":[11.27882,9.78187],"type":"Point"}
+}

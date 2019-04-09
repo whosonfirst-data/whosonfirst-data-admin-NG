@@ -1,0 +1,62 @@
+{
+  "id": 1209444581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9157,5.42836,7.9157,5.42836",
+    "geom:latitude":5.42836,
+    "geom:longitude":7.9157,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Ututu",
+    "gn:country_code":"NG",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319511,
+    "gn:latitude":5.42836,
+    "gn:longitude":7.9157,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ututu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319511
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e035bef6c00c46fe6e46faaced7d862a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444581
+        }
+    ],
+    "wof:id":1209444581,
+    "wof:lastmodified":1536286857,
+    "wof:name":"Ututu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9157,
+    5.42836,
+    7.9157,
+    5.42836
+],
+  "geometry": {"coordinates":[7.9157,5.42836],"type":"Point"}
+}

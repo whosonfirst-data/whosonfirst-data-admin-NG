@@ -1,0 +1,69 @@
+{
+  "id": 1293941527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.35371,9.43251,8.35371,9.43251",
+    "geom:latitude":9.43251,
+    "geom:longitude":8.35371,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19007.0",
+    "gn:admin3_code":"KD0705",
+    "gn:asciiname":"Godogodo",
+    "gn:country_code":"NG",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340510,
+    "gn:latitude":9.43251,
+    "gn:longitude":8.35371,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Godogodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340510
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1891e397cadff48968f04fbae9e9fece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563721,
+            "locality_id":1293941527,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1293941527,
+    "wof:lastmodified":1536628105,
+    "wof:name":"Godogodo",
+    "wof:parent_id":1108563721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.35371,
+    9.43251,
+    8.35371,
+    9.43251
+],
+  "geometry": {"coordinates":[8.35371,9.43251],"type":"Point"}
+}

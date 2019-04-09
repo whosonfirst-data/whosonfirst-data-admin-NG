@@ -1,0 +1,63 @@
+{
+  "id": 1209164647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8061,11.27596,8.8061,11.27596",
+    "geom:latitude":11.27596,
+    "geom:longitude":8.8061,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20011.0",
+    "gn:admin3_code":"KN3610",
+    "gn:asciiname":"Dorawa",
+    "gn:country_code":"NG",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344544,
+    "gn:latitude":11.27596,
+    "gn:longitude":8.8061,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dorawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344544
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8daa316e07720c91b0d1d16880a9bb08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209164647
+        }
+    ],
+    "wof:id":1209164647,
+    "wof:lastmodified":1536295788,
+    "wof:name":"Dorawa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8061,
+    11.27596,
+    8.8061,
+    11.27596
+],
+  "geometry": {"coordinates":[8.8061,11.27596],"type":"Point"}
+}

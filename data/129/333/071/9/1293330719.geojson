@@ -1,0 +1,68 @@
+{
+  "id": 1293330719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.09069,8.75282,12.09069,8.75282",
+    "geom:latitude":8.75282,
+    "geom:longitude":12.09069,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Gangnai",
+    "gn:country_code":"NG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342050,
+    "gn:latitude":8.75282,
+    "gn:longitude":12.09069,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gangnai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342050
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b49bb14088d8a428aa3153c4d97f0b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1293330719,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293330719,
+    "wof:lastmodified":1537012256,
+    "wof:name":"Gangnai",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.09069,
+    8.75282,
+    12.09069,
+    8.75282
+],
+  "geometry": {"coordinates":[12.09069,8.75282],"type":"Point"}
+}

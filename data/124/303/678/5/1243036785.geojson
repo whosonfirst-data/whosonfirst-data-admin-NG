@@ -1,0 +1,68 @@
+{
+  "id": 1243036785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.99586,5.66556,7.99586,5.66556",
+    "geom:latitude":5.66556,
+    "geom:longitude":7.99586,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Ikun Beach",
+    "gn:country_code":"NG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337817,
+    "gn:latitude":5.66556,
+    "gn:longitude":7.99586,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikun Beach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337817
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bef3e07e205b622205deb1f481d18479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1243036785,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1243036785,
+    "wof:lastmodified":1536899169,
+    "wof:name":"Ikun Beach",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.99586,
+    5.66556,
+    7.99586,
+    5.66556
+],
+  "geometry": {"coordinates":[7.99586,5.66556],"type":"Point"}
+}

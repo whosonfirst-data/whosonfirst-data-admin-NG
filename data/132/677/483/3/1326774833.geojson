@@ -1,0 +1,75 @@
+{
+  "id": 1326774833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.27096,8.54533,12.27096,8.54533",
+    "geom:latitude":8.54533,
+    "geom:longitude":12.27096,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Bakari Goso",
+    "gn:country_code":"NG",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348179,
+    "gn:latitude":8.54533,
+    "gn:longitude":12.27096,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bakari Goso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokari Busso",
+        "Bakari Busau",
+        "Bak\u0101r\u012b-Gosso",
+        "Belo\u2019s",
+        "Bakari Goso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348179
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"70fe5f5d88025fa54c83ccee8df7d465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1326774833,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1326774833,
+    "wof:lastmodified":1537675342,
+    "wof:name":"Bakari Goso",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.27096,
+    8.54533,
+    12.27096,
+    8.54533
+],
+  "geometry": {"coordinates":[12.27096,8.54533],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209970209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16554,8.89897,12.16554,8.89897",
+    "geom:latitude":8.89897,
+    "geom:longitude":12.16554,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Jauro Misa",
+    "gn:country_code":"NG",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336293,
+    "gn:latitude":8.89897,
+    "gn:longitude":12.16554,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jauro Misa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336293
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2fd012584deb598d51a5320eb70ff5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1209970209,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1209970209,
+    "wof:lastmodified":1536395378,
+    "wof:name":"Jauro Misa",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16554,
+    8.89897,
+    12.16554,
+    8.89897
+],
+  "geometry": {"coordinates":[12.16554,8.89897],"type":"Point"}
+}

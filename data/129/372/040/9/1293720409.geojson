@@ -1,0 +1,68 @@
+{
+  "id": 1293720409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77376,7.05642,10.77376,7.05642",
+    "geom:latitude":7.05642,
+    "geom:longitude":10.77376,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Akwefre",
+    "gn:country_code":"NG",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350793,
+    "gn:latitude":7.05642,
+    "gn:longitude":10.77376,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akwefre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350793
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0bc8d2d516e7771c77992db6c302781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1293720409,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293720409,
+    "wof:lastmodified":1536949016,
+    "wof:name":"Akwefre",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77376,
+    7.05642,
+    10.77376,
+    7.05642
+],
+  "geometry": {"coordinates":[10.77376,7.05642],"type":"Point"}
+}

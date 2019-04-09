@@ -1,0 +1,68 @@
+{
+  "id": 1293715821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.92407,7.55476,9.92407,7.55476",
+    "geom:latitude":7.55476,
+    "geom:longitude":9.92407,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012",
+    "gn:asciiname":"Tseanee",
+    "gn:country_code":"NG",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532494,
+    "gn:latitude":7.55476,
+    "gn:longitude":9.92407,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseanee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532494
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"da830db316227cbe0f866dc4bb0876e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1293715821,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293715821,
+    "wof:lastmodified":1536955477,
+    "wof:name":"Tseanee",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.92407,
+    7.55476,
+    9.92407,
+    7.55476
+],
+  "geometry": {"coordinates":[9.92407,7.55476],"type":"Point"}
+}

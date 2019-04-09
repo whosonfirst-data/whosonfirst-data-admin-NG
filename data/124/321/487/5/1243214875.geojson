@@ -1,0 +1,73 @@
+{
+  "id": 1243214875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17387,10.47053,12.17387,10.47053",
+    "geom:latitude":10.47053,
+    "geom:longitude":12.17387,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11211",
+    "gn:asciiname":"Agabura",
+    "gn:country_code":"NG",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352188,
+    "gn:latitude":10.47053,
+    "gn:longitude":12.17387,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Agabura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agabara",
+        "Agabura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352188
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b3a9d7c4edc359d00d41ae814d68ca54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1243214875,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1243214875,
+    "wof:lastmodified":1537675389,
+    "wof:name":"Agabura",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17387,
+    10.47053,
+    12.17387,
+    10.47053
+],
+  "geometry": {"coordinates":[12.17387,10.47053],"type":"Point"}
+}

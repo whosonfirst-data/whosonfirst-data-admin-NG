@@ -1,0 +1,69 @@
+{
+  "id": 1327461343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.76331,11.20086,9.76331,11.20086",
+    "geom:latitude":11.20086,
+    "geom:longitude":9.76331,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5019.0",
+    "gn:admin3_code":"BA1907",
+    "gn:asciiname":"Ganseyi",
+    "gn:country_code":"NG",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341976,
+    "gn:latitude":11.20086,
+    "gn:longitude":9.76331,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ganseyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341976
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ae0c0350da1923344652d9a406ce79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564495,
+            "locality_id":1327461343,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1327461343,
+    "wof:lastmodified":1536638025,
+    "wof:name":"Ganseyi",
+    "wof:parent_id":1108564495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.76331,
+    11.20086,
+    9.76331,
+    11.20086
+],
+  "geometry": {"coordinates":[9.76331,11.20086],"type":"Point"}
+}

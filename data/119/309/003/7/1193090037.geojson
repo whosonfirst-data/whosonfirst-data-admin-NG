@@ -1,0 +1,71 @@
+{
+  "id": 1193090037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.55953,6.06112,6.55953,6.06112",
+    "geom:latitude":6.06112,
+    "geom:longitude":6.55953,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Ewuru",
+    "gn:country_code":"NG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342960,
+    "gn:latitude":6.06112,
+    "gn:longitude":6.55953,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ewuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ewuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342960
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"660e78b0e4964637c3fc6e7f885fd7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1193090037,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1193090037,
+    "wof:lastmodified":1537675269,
+    "wof:name":"Ewuru",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55953,
+    6.06112,
+    6.55953,
+    6.06112
+],
+  "geometry": {"coordinates":[6.55953,6.06112],"type":"Point"}
+}

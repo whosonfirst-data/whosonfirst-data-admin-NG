@@ -1,0 +1,72 @@
+{
+  "id": 1310035233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2124,7.631,6.2124,7.631",
+    "geom:latitude":7.631,
+    "geom:longitude":6.2124,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23016.0",
+    "gn:asciiname":"Osungwe",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319580,
+    "gn:latitude":7.631,
+    "gn:longitude":6.2124,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Osungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Usungwe",
+        "Osungwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319580
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"14ee22d936decdaf38f4cfda8707560b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564151,
+            "locality_id":1310035233,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1310035233,
+    "wof:lastmodified":1537674919,
+    "wof:name":"Osungwe",
+    "wof:parent_id":1108564151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2124,
+    7.631,
+    6.2124,
+    7.631
+],
+  "geometry": {"coordinates":[6.2124,7.631],"type":"Point"}
+}

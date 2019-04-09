@@ -1,0 +1,62 @@
+{
+  "id": 1209296413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.01914,6.65378,3.01914,6.65378",
+    "geom:latitude":6.65378,
+    "geom:longitude":3.01914,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Abede",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826273,
+    "gn:latitude":6.65378,
+    "gn:longitude":3.01914,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826273
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2cd9695c79fac0c4de9a373706bff8e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209296413
+        }
+    ],
+    "wof:id":1209296413,
+    "wof:lastmodified":1536291510,
+    "wof:name":"Abede",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.01914,
+    6.65378,
+    3.01914,
+    6.65378
+],
+  "geometry": {"coordinates":[3.01914,6.65378],"type":"Point"}
+}

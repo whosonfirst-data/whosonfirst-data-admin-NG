@@ -1,0 +1,68 @@
+{
+  "id": 1293042269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.96333,7.58333,3.96333,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":3.96333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Lamala",
+    "gn:country_code":"NG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332355,
+    "gn:latitude":7.58333,
+    "gn:longitude":3.96333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lamala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332355
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b0bfdf84006282ef6027f579af1d46c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1293042269,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293042269,
+    "wof:lastmodified":1536932720,
+    "wof:name":"Lamala",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.96333,
+    7.58333,
+    3.96333,
+    7.58333
+],
+  "geometry": {"coordinates":[3.96333,7.58333],"type":"Point"}
+}

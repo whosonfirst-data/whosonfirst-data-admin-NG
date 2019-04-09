@@ -1,0 +1,62 @@
+{
+  "id": 1209344153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7695,7.483,6.7695,7.483",
+    "geom:latitude":7.483,
+    "geom:longitude":6.7695,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23004.0",
+    "gn:asciiname":"Adana",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6834191,
+    "gn:latitude":7.483,
+    "gn:longitude":6.7695,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6834191
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a709f46fe0b4557d0a733df572794c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344153
+        }
+    ],
+    "wof:id":1209344153,
+    "wof:lastmodified":1536289968,
+    "wof:name":"Adana",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7695,
+    7.483,
+    6.7695,
+    7.483
+],
+  "geometry": {"coordinates":[6.7695,7.483],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326483745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26791,10.20116,13.26791,10.20116",
+    "geom:latitude":10.20116,
+    "geom:longitude":13.26791,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Kabur",
+    "gn:country_code":"NG",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760197,
+    "gn:latitude":10.20116,
+    "gn:longitude":13.26791,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kabur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760197
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b696f3c69c74605dcd0927ac52470232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1326483745,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1326483745,
+    "wof:lastmodified":1537051819,
+    "wof:name":"Kabur",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26791,
+    10.20116,
+    13.26791,
+    10.20116
+],
+  "geometry": {"coordinates":[13.26791,10.20116],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344085105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.09403,6.056,8.09403,6.056",
+    "geom:latitude":6.056,
+    "geom:longitude":8.09403,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007",
+    "gn:asciiname":"Ndi-Ufumuta",
+    "gn:country_code":"NG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274279,
+    "gn:latitude":6.056,
+    "gn:longitude":8.09403,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndi-Ufumuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274279
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"60e87876ca04893dd73f6f42be35c284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1344085105,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1344085105,
+    "wof:lastmodified":1536839178,
+    "wof:name":"Ndi-Ufumuta",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.09403,
+    6.056,
+    8.09403,
+    6.056
+],
+  "geometry": {"coordinates":[8.09403,6.056],"type":"Point"}
+}

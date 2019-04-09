@@ -1,0 +1,74 @@
+{
+  "id": 1225887501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06487,6.41276,6.06487,6.41276",
+    "geom:latitude":6.41276,
+    "geom:longitude":6.06487,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12018.0",
+    "gn:asciiname":"Okhuokho",
+    "gn:country_code":"NG",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327150,
+    "gn:latitude":6.41276,
+    "gn:longitude":6.06487,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okhuokho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okhuokho"
+    ],
+    "name:eng_x_variant":[
+        "Okhuokhuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327150
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa9dbec381e06f7c5db218952bed4777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564447,
+            "locality_id":1225887501,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1225887501,
+    "wof:lastmodified":1537675042,
+    "wof:name":"Okhuokho",
+    "wof:parent_id":1108564447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06487,
+    6.41276,
+    6.06487,
+    6.41276
+],
+  "geometry": {"coordinates":[6.06487,6.41276],"type":"Point"}
+}

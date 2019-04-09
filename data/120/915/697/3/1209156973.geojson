@@ -1,0 +1,63 @@
+{
+  "id": 1209156973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63563,11.57299,4.63563,11.57299",
+    "geom:latitude":11.57299,
+    "geom:longitude":4.63563,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50907",
+    "gn:asciiname":"Gidan Umaru",
+    "gn:country_code":"NG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020875,
+    "gn:latitude":11.57299,
+    "gn:longitude":4.63563,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Umaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020875
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"69cc5b16408cddced9d00b4cc6a5c535",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209156973
+        }
+    ],
+    "wof:id":1209156973,
+    "wof:lastmodified":1536296028,
+    "wof:name":"Gidan Umaru",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63563,
+    11.57299,
+    4.63563,
+    11.57299
+],
+  "geometry": {"coordinates":[4.63563,11.57299],"type":"Point"}
+}

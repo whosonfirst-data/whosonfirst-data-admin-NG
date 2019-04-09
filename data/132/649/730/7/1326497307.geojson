@@ -1,0 +1,68 @@
+{
+  "id": 1326497307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11422,7.35507,9.11422,7.35507",
+    "geom:latitude":7.35507,
+    "geom:longitude":9.11422,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Shor",
+    "gn:country_code":"NG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633997,
+    "gn:latitude":7.35507,
+    "gn:longitude":9.11422,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633997
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76282736ae7f86f6e77d5bab922ce7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1326497307,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326497307,
+    "wof:lastmodified":1537033013,
+    "wof:name":"Shor",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11422,
+    7.35507,
+    9.11422,
+    7.35507
+],
+  "geometry": {"coordinates":[9.11422,7.35507],"type":"Point"}
+}

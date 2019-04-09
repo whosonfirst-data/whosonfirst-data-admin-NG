@@ -1,0 +1,78 @@
+{
+  "id": 1125869259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.95,9.86667,7.95,9.86667",
+    "geom:latitude":9.86667,
+    "geom:longitude":7.95,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":30893,
+    "gn:population":30893,
+    "iso:country":"NG",
+    "lbl:latitude":9.86667,
+    "lbl:longitude":7.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2335798,
+    "qs_pg:gn_pop":30893,
+    "qs_pg:name":"Kachia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":139659,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335798,
+        "qs_pg:id":139659
+    },
+    "wof:country":"NG",
+    "wof:created":1497294207,
+    "wof:geomhash":"567402b4d009af0a0a072e9b360e1d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563739,
+            "locality_id":1125869259,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1125869259,
+    "wof:lastmodified":1509397188,
+    "wof:name":"Kachia",
+    "wof:parent_id":1108563739,
+    "wof:placetype":"locality",
+    "wof:population":30893,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.95,
+    9.86667,
+    7.95,
+    9.86667
+],
+  "geometry": {"coordinates":[7.95,9.86667],"type":"Point"}
+}

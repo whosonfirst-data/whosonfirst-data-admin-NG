@@ -1,0 +1,68 @@
+{
+  "id": 1293230139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.65411,6.41014,4.65411,6.41014",
+    "geom:latitude":6.41014,
+    "geom:longitude":4.65411,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Bateru",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969533,
+    "gn:latitude":6.41014,
+    "gn:longitude":4.65411,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bateru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969533
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c768df831d338dd6db2ee0262577d24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1293230139,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1293230139,
+    "wof:lastmodified":1536661237,
+    "wof:name":"Bateru",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.65411,
+    6.41014,
+    4.65411,
+    6.41014
+],
+  "geometry": {"coordinates":[4.65411,6.41014],"type":"Point"}
+}

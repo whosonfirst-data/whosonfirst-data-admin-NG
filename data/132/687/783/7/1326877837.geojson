@@ -1,0 +1,68 @@
+{
+  "id": 1326877837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26789,7.74165,8.26789,7.74165",
+    "geom:latitude":7.74165,
+    "geom:longitude":8.26789,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7008.0",
+    "gn:asciiname":"Adudu",
+    "gn:country_code":"NG",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852845,
+    "gn:latitude":7.74165,
+    "gn:longitude":8.26789,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852845
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2270d29ed981978f5c8f78f91529dc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563475,
+            "locality_id":1326877837,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326877837,
+    "wof:lastmodified":1536982461,
+    "wof:name":"Adudu",
+    "wof:parent_id":1108563475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26789,
+    7.74165,
+    8.26789,
+    7.74165
+],
+  "geometry": {"coordinates":[8.26789,7.74165],"type":"Point"}
+}

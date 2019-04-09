@@ -1,0 +1,71 @@
+{
+  "id": 1243115245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7169,5.69488,5.7169,5.69488",
+    "geom:latitude":5.69488,
+    "geom:longitude":5.7169,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10013.0",
+    "gn:asciiname":"Iriama",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337308,
+    "gn:latitude":5.69488,
+    "gn:longitude":5.7169,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Iriama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Iriama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337308
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"920c74d25fdddb39216a537a271f2252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564161,
+            "locality_id":1243115245,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243115245,
+    "wof:lastmodified":1537675181,
+    "wof:name":"Iriama",
+    "wof:parent_id":1108564161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7169,
+    5.69488,
+    5.7169,
+    5.69488
+],
+  "geometry": {"coordinates":[5.7169,5.69488],"type":"Point"}
+}

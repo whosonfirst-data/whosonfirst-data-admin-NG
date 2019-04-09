@@ -1,0 +1,68 @@
+{
+  "id": 1293344671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.74253,7.10805,8.74253,7.10805",
+    "geom:latitude":7.10805,
+    "geom:longitude":8.74253,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Akungwe",
+    "gn:country_code":"NG",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350853,
+    "gn:latitude":7.10805,
+    "gn:longitude":8.74253,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350853
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a84d236c98da5eb27beff358d60ce8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1293344671,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293344671,
+    "wof:lastmodified":1536992225,
+    "wof:name":"Akungwe",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.74253,
+    7.10805,
+    8.74253,
+    7.10805
+],
+  "geometry": {"coordinates":[8.74253,7.10805],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209462419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33197,11.38144,14.33197,11.38144",
+    "geom:latitude":11.38144,
+    "geom:longitude":14.33197,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10303",
+    "gn:asciiname":"Giwere II",
+    "gn:country_code":"NG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340566,
+    "gn:latitude":11.38144,
+    "gn:longitude":14.33197,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Giwere II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340566
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e502b01c1cb2cbf01a69e2c8c7eaf5fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209462419
+        }
+    ],
+    "wof:id":1209462419,
+    "wof:lastmodified":1536286337,
+    "wof:name":"Giwere II",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.331970000000002,
+    11.38144,
+    14.331970000000002,
+    11.38144
+],
+  "geometry": {"coordinates":[14.33197,11.38144],"type":"Point"}
+}

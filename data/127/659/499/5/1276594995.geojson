@@ -1,0 +1,73 @@
+{
+  "id": 1276594995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.53655,12.12517,4.53655,12.12517",
+    "geom:latitude":12.12517,
+    "geom:longitude":4.53655,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51105",
+    "gn:asciiname":"Birnin Mala",
+    "gn:country_code":"NG",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347052,
+    "gn:latitude":12.12517,
+    "gn:longitude":4.53655,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birnin Mala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birnin Mallam",
+        "Birnin Mala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347052
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f338ca2bf5375131b6a1aaea0df7d3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563719,
+            "locality_id":1276594995,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1276594995,
+    "wof:lastmodified":1537675329,
+    "wof:name":"Birnin Mala",
+    "wof:parent_id":1108563719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.53655,
+    12.12517,
+    4.53655,
+    12.12517
+],
+  "geometry": {"coordinates":[4.53655,12.12517],"type":"Point"}
+}

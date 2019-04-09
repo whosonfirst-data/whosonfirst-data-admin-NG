@@ -1,0 +1,68 @@
+{
+  "id": 1243230833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26543,7.67773,8.26543,7.67773",
+    "geom:latitude":7.67773,
+    "geom:longitude":8.26543,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7008.0",
+    "gn:asciiname":"Ochio",
+    "gn:country_code":"NG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852760,
+    "gn:latitude":7.67773,
+    "gn:longitude":8.26543,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ochio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852760
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"134f57de7e52219601c3fc19238f8b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563475,
+            "locality_id":1243230833,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243230833,
+    "wof:lastmodified":1536617240,
+    "wof:name":"Ochio",
+    "wof:parent_id":1108563475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26543,
+    7.67773,
+    8.26543,
+    7.67773
+],
+  "geometry": {"coordinates":[8.26543,7.67773],"type":"Point"}
+}

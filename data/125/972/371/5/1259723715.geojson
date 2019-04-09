@@ -1,0 +1,71 @@
+{
+  "id": 1259723715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.09345,10.14515,13.09345,10.14515",
+    "geom:latitude":10.14515,
+    "geom:longitude":13.09345,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Wuro Biviji",
+    "gn:country_code":"NG",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318805,
+    "gn:latitude":10.14515,
+    "gn:longitude":13.09345,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Biviji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuro Biriji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318805
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6b13a420f5510c3841b86d32b471009a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563485,
+            "locality_id":1259723715,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259723715,
+    "wof:lastmodified":1537674911,
+    "wof:name":"Wuro Biviji",
+    "wof:parent_id":1108563485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.09345,
+    10.14515,
+    13.09345,
+    10.14515
+],
+  "geometry": {"coordinates":[13.09345,10.14515],"type":"Point"}
+}

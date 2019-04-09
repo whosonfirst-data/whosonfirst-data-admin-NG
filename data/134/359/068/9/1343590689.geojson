@@ -1,0 +1,69 @@
+{
+  "id": 1343590689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.89389,12.01556,6.89389,12.01556",
+    "geom:latitude":12.01556,
+    "geom:longitude":6.89389,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81307",
+    "gn:asciiname":"Langalanga",
+    "gn:country_code":"NG",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2596712,
+    "gn:latitude":12.01556,
+    "gn:longitude":6.89389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Langalanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108564421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2596712
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9aa906ec209dfd8d3c98e799b7c3e7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564421,
+            "locality_id":1343590689,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1343590689,
+    "wof:lastmodified":1537053622,
+    "wof:name":"Langalanga",
+    "wof:parent_id":1108564421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.89389,
+    12.01556,
+    6.89389,
+    12.01556
+],
+  "geometry": {"coordinates":[6.89389,12.01556],"type":"Point"}
+}

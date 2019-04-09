@@ -1,0 +1,72 @@
+{
+  "id": 1243015741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24409,10.88245,13.24409,10.88245",
+    "geom:latitude":10.88245,
+    "geom:longitude":13.24409,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"102",
+    "gn:admin3_code":"10202",
+    "gn:asciiname":"Dogbu",
+    "gn:country_code":"NG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8722029,
+    "gn:latitude":10.88245,
+    "gn:longitude":13.24409,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dogbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dogbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8722029
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bafb0bca3c3a1253e03a63260c749547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1243015741,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1243015741,
+    "wof:lastmodified":1537675458,
+    "wof:name":"Dogbu",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24409,
+    10.88245,
+    13.24409,
+    10.88245
+],
+  "geometry": {"coordinates":[13.24409,10.88245],"type":"Point"}
+}

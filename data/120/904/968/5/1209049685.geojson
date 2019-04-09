@@ -1,0 +1,64 @@
+{
+  "id": 1209049685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0384,5.80111,5.0384,5.80111",
+    "geom:latitude":5.80111,
+    "geom:longitude":5.0384,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ebighan",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121971,
+    "gn:latitude":5.80111,
+    "gn:longitude":5.0384,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Ebighan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ebighan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121971
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b58edc663617204d2d71c6ea0a41a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209049685
+        }
+    ],
+    "wof:id":1209049685,
+    "wof:lastmodified":1537675478,
+    "wof:name":"Ebighan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0384,
+    5.80111,
+    5.0384,
+    5.80111
+],
+  "geometry": {"coordinates":[5.0384,5.80111],"type":"Point"}
+}

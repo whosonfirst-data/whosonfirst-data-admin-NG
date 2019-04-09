@@ -1,0 +1,67 @@
+{
+  "id": 1226570489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2513,11.22022,11.2513,11.22022",
+    "geom:latitude":11.22022,
+    "geom:longitude":11.2513,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Wayo",
+    "gn:country_code":"NG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8764738,
+    "gn:latitude":11.22022,
+    "gn:longitude":11.2513,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Wayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8764738
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"98c359b9cd273fce4a745c984010e0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564005,
+            "locality_id":1226570489,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1226570489,
+    "wof:lastmodified":1536963288,
+    "wof:name":"Wayo",
+    "wof:parent_id":1108564005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2513,
+    11.22022,
+    11.2513,
+    11.22022
+],
+  "geometry": {"coordinates":[11.2513,11.22022],"type":"Point"}
+}

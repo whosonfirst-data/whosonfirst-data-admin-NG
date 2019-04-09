@@ -1,0 +1,72 @@
+{
+  "id": 1226471929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.15594,7.60653,10.15594,7.60653",
+    "geom:latitude":7.60653,
+    "geom:longitude":10.15594,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35003.0",
+    "gn:asciiname":"Chegirgir",
+    "gn:country_code":"NG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346118,
+    "gn:latitude":7.60653,
+    "gn:longitude":10.15594,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chegirgir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chegingir",
+        "Chegirgir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346118
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4156f49fb8c1b155c9c7d595196cdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563241,
+            "locality_id":1226471929,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226471929,
+    "wof:lastmodified":1537675317,
+    "wof:name":"Chegirgir",
+    "wof:parent_id":1108563241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.15594,
+    7.60653,
+    10.15594,
+    7.60653
+],
+  "geometry": {"coordinates":[10.15594,7.60653],"type":"Point"}
+}

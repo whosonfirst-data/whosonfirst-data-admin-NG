@@ -1,0 +1,68 @@
+{
+  "id": 1293936853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.05329,8.63957,12.05329,8.63957",
+    "geom:latitude":8.63957,
+    "geom:longitude":12.05329,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Damachi",
+    "gn:country_code":"NG",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345556,
+    "gn:latitude":8.63957,
+    "gn:longitude":12.05329,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Damachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345556
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b63b06fc4bc1feef5c2b792beaeec61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1293936853,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293936853,
+    "wof:lastmodified":1536635315,
+    "wof:name":"Damachi",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05329,
+    8.63957,
+    12.05329,
+    8.63957
+],
+  "geometry": {"coordinates":[12.05329,8.63957],"type":"Point"}
+}

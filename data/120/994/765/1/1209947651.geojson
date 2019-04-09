@@ -1,0 +1,68 @@
+{
+  "id": 1209947651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53333,8.81667,8.53333,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":8.53333,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26010.0",
+    "gn:asciiname":"Kuduguwa",
+    "gn:country_code":"NG",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333668,
+    "gn:latitude":8.81667,
+    "gn:longitude":8.53333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kuduguwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333668
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e2fff8d4c744c229925088c4b6e01fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564009,
+            "locality_id":1209947651,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1209947651,
+    "wof:lastmodified":1536385640,
+    "wof:name":"Kuduguwa",
+    "wof:parent_id":1108564009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53333,
+    8.81667,
+    8.53333,
+    8.81667
+],
+  "geometry": {"coordinates":[8.53333,8.81667],"type":"Point"}
+}

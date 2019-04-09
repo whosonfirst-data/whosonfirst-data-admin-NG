@@ -1,0 +1,72 @@
+{
+  "id": 1260319813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4175,7.8036,5.4175,7.8036",
+    "geom:latitude":7.8036,
+    "geom:longitude":5.4175,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13011.0",
+    "gn:asciiname":"Osin-Ikole",
+    "gn:country_code":"NG",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325567,
+    "gn:latitude":7.8036,
+    "gn:longitude":5.4175,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Osin-Ikole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Usin",
+        "Osin-Ikole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325567
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4987881db48d30d5f03be6873bd7a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563595,
+            "locality_id":1260319813,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1260319813,
+    "wof:lastmodified":1537675018,
+    "wof:name":"Osin-Ikole",
+    "wof:parent_id":1108563595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4175,
+    7.8036,
+    5.4175,
+    7.8036
+],
+  "geometry": {"coordinates":[5.4175,7.8036],"type":"Point"}
+}

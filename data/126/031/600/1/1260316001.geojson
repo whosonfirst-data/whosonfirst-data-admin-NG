@@ -1,0 +1,68 @@
+{
+  "id": 1260316001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35189,7.6182,5.35189,7.6182",
+    "geom:latitude":7.6182,
+    "geom:longitude":5.35189,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13001.0",
+    "gn:asciiname":"Ago-Orokunja",
+    "gn:country_code":"NG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833107,
+    "gn:latitude":7.6182,
+    "gn:longitude":5.35189,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago-Orokunja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108562919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833107
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b0acf6ea95092ed640acdde12a16daee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562919,
+            "locality_id":1260316001,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1260316001,
+    "wof:lastmodified":1536668450,
+    "wof:name":"Ago-Orokunja",
+    "wof:parent_id":1108562919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35189,
+    7.6182,
+    5.35189,
+    7.6182
+],
+  "geometry": {"coordinates":[5.35189,7.6182],"type":"Point"}
+}

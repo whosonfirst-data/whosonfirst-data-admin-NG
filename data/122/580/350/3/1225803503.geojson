@@ -1,0 +1,68 @@
+{
+  "id": 1225803503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8355,5.8362,8.8355,5.8362",
+    "geom:latitude":5.8362,
+    "geom:longitude":8.8355,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9010.0",
+    "gn:asciiname":"Mfum",
+    "gn:country_code":"NG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854853,
+    "gn:latitude":5.8362,
+    "gn:longitude":8.8355,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mfum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854853
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"17519fb5d77d58beb561fc7aea4b59ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563349,
+            "locality_id":1225803503,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1225803503,
+    "wof:lastmodified":1537071702,
+    "wof:name":"Mfum",
+    "wof:parent_id":1108563349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8355,
+    5.8362,
+    8.8355,
+    5.8362
+],
+  "geometry": {"coordinates":[8.8355,5.8362],"type":"Point"}
+}

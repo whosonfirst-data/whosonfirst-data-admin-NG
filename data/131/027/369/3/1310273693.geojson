@@ -1,0 +1,67 @@
+{
+  "id": 1310273693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.31694,6.15146,8.31694,6.15146",
+    "geom:latitude":6.15146,
+    "geom:longitude":8.31694,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Otaka",
+    "gn:country_code":"NG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9275021,
+    "gn:latitude":6.15146,
+    "gn:longitude":8.31694,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Otaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9275021
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c6aa241d0033f1fc23eaa0dca880f44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1310273693,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1310273693,
+    "wof:lastmodified":1536753896,
+    "wof:name":"Otaka",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.31694,
+    6.15146,
+    8.31694,
+    6.15146
+],
+  "geometry": {"coordinates":[8.31694,6.15146],"type":"Point"}
+}

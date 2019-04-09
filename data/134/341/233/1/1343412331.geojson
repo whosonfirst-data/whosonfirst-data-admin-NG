@@ -1,0 +1,69 @@
+{
+  "id": 1343412331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31149,11.25835,13.31149,11.25835",
+    "geom:latitude":11.25835,
+    "geom:longitude":13.31149,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111",
+    "gn:admin3_code":"11102",
+    "gn:asciiname":"Gulfu Two",
+    "gn:country_code":"NG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8752368,
+    "gn:latitude":11.25835,
+    "gn:longitude":13.31149,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gulfu Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8752368
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc92c462fe8b04cf3071c9c6264278d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1343412331,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1343412331,
+    "wof:lastmodified":1536815094,
+    "wof:name":"Gulfu Two",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31149,
+    11.25835,
+    13.31149,
+    11.25835
+],
+  "geometry": {"coordinates":[13.31149,11.25835],"type":"Point"}
+}

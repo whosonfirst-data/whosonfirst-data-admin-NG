@@ -1,0 +1,62 @@
+{
+  "id": 1209579239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.92363,6.77531,3.92363,6.77531",
+    "geom:latitude":6.77531,
+    "geom:longitude":3.92363,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28017.0",
+    "gn:asciiname":"Ogbo",
+    "gn:country_code":"NG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327759,
+    "gn:latitude":6.77531,
+    "gn:longitude":3.92363,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327759
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bc82461c8dcb28e471982e27b6c386ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209579239
+        }
+    ],
+    "wof:id":1209579239,
+    "wof:lastmodified":1536282841,
+    "wof:name":"Ogbo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.92363,
+    6.77531,
+    3.92363,
+    6.77531
+],
+  "geometry": {"coordinates":[3.92363,6.77531],"type":"Point"}
+}

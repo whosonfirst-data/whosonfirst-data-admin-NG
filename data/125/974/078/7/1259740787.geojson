@@ -1,0 +1,69 @@
+{
+  "id": 1259740787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5951,12.93577,8.5951,12.93577",
+    "geom:latitude":12.93577,
+    "geom:longitude":8.5951,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"434.0",
+    "gn:admin3_code":"43406",
+    "gn:asciiname":"Kanda",
+    "gn:country_code":"NG",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335272,
+    "gn:latitude":12.93577,
+    "gn:longitude":8.5951,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108564557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335272
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76a25dad7735d3673c5af19f69b13cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564557,
+            "locality_id":1259740787,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1259740787,
+    "wof:lastmodified":1536983940,
+    "wof:name":"Kanda",
+    "wof:parent_id":1108564557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5951,
+    12.93577,
+    8.5951,
+    12.93577
+],
+  "geometry": {"coordinates":[8.5951,12.93577],"type":"Point"}
+}

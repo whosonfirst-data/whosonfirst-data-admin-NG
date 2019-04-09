@@ -1,0 +1,68 @@
+{
+  "id": 1226175495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.87839,10.42647,6.87839,10.42647",
+    "geom:latitude":10.42647,
+    "geom:longitude":6.87839,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Gidan Tambari Kokwa",
+    "gn:country_code":"NG",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340764,
+    "gn:latitude":10.42647,
+    "gn:longitude":6.87839,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Tambari Kokwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340764
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a24296564d86e27c4af9e073ebdec9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1226175495,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226175495,
+    "wof:lastmodified":1537033410,
+    "wof:name":"Gidan Tambari Kokwa",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.87839,
+    10.42647,
+    6.87839,
+    10.42647
+],
+  "geometry": {"coordinates":[6.87839,10.42647],"type":"Point"}
+}

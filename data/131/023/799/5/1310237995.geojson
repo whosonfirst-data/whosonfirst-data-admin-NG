@@ -1,0 +1,68 @@
+{
+  "id": 1310237995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01474,7.40561,10.01474,7.40561",
+    "geom:latitude":7.40561,
+    "geom:longitude":10.01474,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012.0",
+    "gn:asciiname":"Waniho",
+    "gn:country_code":"NG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319210,
+    "gn:latitude":7.40561,
+    "gn:longitude":10.01474,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Waniho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319210
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"70538bf08ce574e8ea5cd9c5e1a80ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1310237995,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1310237995,
+    "wof:lastmodified":1536805211,
+    "wof:name":"Waniho",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01474,
+    7.40561,
+    10.01474,
+    7.40561
+],
+  "geometry": {"coordinates":[10.01474,7.40561],"type":"Point"}
+}

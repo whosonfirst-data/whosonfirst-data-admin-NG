@@ -1,0 +1,68 @@
+{
+  "id": 1226475569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75836,6.86848,5.75836,6.86848",
+    "geom:latitude":6.86848,
+    "geom:longitude":5.75836,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29017.0",
+    "gn:asciiname":"Imoru",
+    "gn:country_code":"NG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337545,
+    "gn:latitude":6.86848,
+    "gn:longitude":5.75836,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imoru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337545
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5973bd76c66076121fbd830a5a8ad87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564229,
+            "locality_id":1226475569,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1226475569,
+    "wof:lastmodified":1537095947,
+    "wof:name":"Imoru",
+    "wof:parent_id":1108564229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75836,
+    6.86848,
+    5.75836,
+    6.86848
+],
+  "geometry": {"coordinates":[5.75836,6.86848],"type":"Point"}
+}

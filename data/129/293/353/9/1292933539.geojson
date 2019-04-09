@@ -1,0 +1,73 @@
+{
+  "id": 1292933539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.82661,13.11014,4.82661,13.11014",
+    "geom:latitude":13.11014,
+    "geom:longitude":4.82661,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"61501",
+    "gn:asciiname":"Maleh",
+    "gn:country_code":"NG",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331089,
+    "gn:latitude":13.11014,
+    "gn:longitude":4.82661,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Male",
+        "Maleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331089
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9c5684ebb94a59fe58ef17fb0ae3a063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563121,
+            "locality_id":1292933539,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1292933539,
+    "wof:lastmodified":1537675103,
+    "wof:name":"Maleh",
+    "wof:parent_id":1108563121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.82661,
+    13.11014,
+    4.82661,
+    13.11014
+],
+  "geometry": {"coordinates":[4.82661,13.11014],"type":"Point"}
+}

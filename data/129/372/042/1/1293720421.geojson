@@ -1,0 +1,68 @@
+{
+  "id": 1293720421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.86111,6.2284,4.86111,6.2284",
+    "geom:latitude":6.2284,
+    "geom:longitude":4.86111,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29007.0",
+    "gn:asciiname":"Amadebegbene",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969579,
+    "gn:latitude":6.2284,
+    "gn:longitude":4.86111,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amadebegbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969579
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64a5d4670a2e0723508a1df649e05065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563323,
+            "locality_id":1293720421,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1293720421,
+    "wof:lastmodified":1536948999,
+    "wof:name":"Amadebegbene",
+    "wof:parent_id":1108563323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.86111,
+    6.2284,
+    4.86111,
+    6.2284
+],
+  "geometry": {"coordinates":[4.86111,6.2284],"type":"Point"}
+}

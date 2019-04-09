@@ -1,0 +1,64 @@
+{
+  "id": 1209267443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.2669,5.43226,5.2669,5.43226",
+    "geom:latitude":5.43226,
+    "geom:longitude":5.2669,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Obabebe",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028123,
+    "gn:latitude":5.43226,
+    "gn:longitude":5.2669,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Obabebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obabebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028123
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a72a9652ae1575b8fe8df8446d39833e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209267443
+        }
+    ],
+    "wof:id":1209267443,
+    "wof:lastmodified":1537675426,
+    "wof:name":"Obabebe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2669,
+    5.43226,
+    5.2669,
+    5.43226
+],
+  "geometry": {"coordinates":[5.2669,5.43226],"type":"Point"}
+}

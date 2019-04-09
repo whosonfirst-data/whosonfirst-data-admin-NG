@@ -1,0 +1,62 @@
+{
+  "id": 1209487015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.25,7.35,3.25,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":3.25,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28016.0",
+    "gn:asciiname":"Seriki",
+    "gn:country_code":"NG",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323475,
+    "gn:latitude":7.35,
+    "gn:longitude":3.25,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Seriki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323475
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d60ac36b37472b524bdfac08c373b984",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209487015
+        }
+    ],
+    "wof:id":1209487015,
+    "wof:lastmodified":1536285604,
+    "wof:name":"Seriki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25,
+    7.35,
+    3.25,
+    7.35
+],
+  "geometry": {"coordinates":[3.25,7.35],"type":"Point"}
+}

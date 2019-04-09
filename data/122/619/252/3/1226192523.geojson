@@ -1,0 +1,69 @@
+{
+  "id": 1226192523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93333,11.63333,7.93333,11.63333",
+    "geom:latitude":11.63333,
+    "geom:longitude":7.93333,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20032.0",
+    "gn:admin3_code":"KN3410",
+    "gn:asciiname":"Dayi",
+    "gn:country_code":"NG",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345044,
+    "gn:latitude":11.63333,
+    "gn:longitude":7.93333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345044
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5738fc4da97c94bbe3b8dbdf057d90e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564309,
+            "locality_id":1226192523,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1226192523,
+    "wof:lastmodified":1537009720,
+    "wof:name":"Dayi",
+    "wof:parent_id":1108564309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93333,
+    11.63333,
+    7.93333,
+    11.63333
+],
+  "geometry": {"coordinates":[7.93333,11.63333],"type":"Point"}
+}

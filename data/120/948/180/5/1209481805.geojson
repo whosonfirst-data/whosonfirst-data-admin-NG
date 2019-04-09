@@ -1,0 +1,63 @@
+{
+  "id": 1209481805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8706,13.46186,12.8706,13.46186",
+    "geom:latitude":13.46186,
+    "geom:longitude":12.8706,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10104",
+    "gn:asciiname":"Birri",
+    "gn:country_code":"NG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347038,
+    "gn:latitude":13.46186,
+    "gn:longitude":12.8706,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347038
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"322b62627d2e36374e48077fe3f90020",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209481805
+        }
+    ],
+    "wof:id":1209481805,
+    "wof:lastmodified":1536285759,
+    "wof:name":"Birri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8706,
+    13.46186,
+    12.8706,
+    13.46186
+],
+  "geometry": {"coordinates":[12.8706,13.46186],"type":"Point"}
+}

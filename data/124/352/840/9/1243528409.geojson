@@ -1,0 +1,68 @@
+{
+  "id": 1243528409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50987,4.98928,7.50987,4.98928",
+    "geom:latitude":4.98928,
+    "geom:longitude":7.50987,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3011.0",
+    "gn:asciiname":"Udi",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7055428,
+    "gn:latitude":4.98928,
+    "gn:longitude":7.50987,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Udi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7055428
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"212d225b41e9ae9c6fc6c03263208151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563587,
+            "locality_id":1243528409,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1243528409,
+    "wof:lastmodified":1536687495,
+    "wof:name":"Udi",
+    "wof:parent_id":1108563587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50987,
+    4.98928,
+    7.50987,
+    4.98928
+],
+  "geometry": {"coordinates":[7.50987,4.98928],"type":"Point"}
+}

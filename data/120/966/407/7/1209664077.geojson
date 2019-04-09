@@ -1,0 +1,68 @@
+{
+  "id": 1209664077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41667,8.8,3.41667,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":3.41667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31031.0",
+    "gn:asciiname":"Mojo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329992,
+    "gn:latitude":8.8,
+    "gn:longitude":3.41667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mojo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mejo",
+        "Mejaw",
+        "Mojo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329992
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"10c9c160637ba217bb0585a5b454df22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209664077
+        }
+    ],
+    "wof:id":1209664077,
+    "wof:lastmodified":1537675089,
+    "wof:name":"Mojo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41667,
+    8.8,
+    3.41667,
+    8.8
+],
+  "geometry": {"coordinates":[3.41667,8.8],"type":"Point"}
+}

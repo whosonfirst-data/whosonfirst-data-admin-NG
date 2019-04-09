@@ -1,0 +1,74 @@
+{
+  "id": 1343704557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04518,6.11947,6.04518,6.11947",
+    "geom:latitude":6.11947,
+    "geom:longitude":6.04518,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Evbodobian",
+    "gn:country_code":"NG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343029,
+    "gn:latitude":6.11947,
+    "gn:longitude":6.04518,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Evbodobian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eubodobian"
+    ],
+    "name:eng_x_variant":[
+        "Evbodobian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343029
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd924c4ed3cf698fecd8643aac8cd486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1343704557,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343704557,
+    "wof:lastmodified":1537675271,
+    "wof:name":"Evbodobian",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04518,
+    6.11947,
+    6.04518,
+    6.11947
+],
+  "geometry": {"coordinates":[6.04518,6.11947],"type":"Point"}
+}

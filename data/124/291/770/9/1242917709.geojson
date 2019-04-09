@@ -1,0 +1,67 @@
+{
+  "id": 1242917709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52099,10.34872,13.52099,10.34872",
+    "geom:latitude":10.34872,
+    "geom:longitude":13.52099,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Djimsia",
+    "gn:country_code":"NG",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760184,
+    "gn:latitude":10.34872,
+    "gn:longitude":13.52099,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Djimsia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760184
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e87c00ac6529b4d95654d805a0cd3a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1242917709,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1242917709,
+    "wof:lastmodified":1537067919,
+    "wof:name":"Djimsia",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52099,
+    10.34872,
+    13.52099,
+    10.34872
+],
+  "geometry": {"coordinates":[13.52099,10.34872],"type":"Point"}
+}

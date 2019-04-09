@@ -1,0 +1,71 @@
+{
+  "id": 1360024363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12943,6.229,6.12943,6.229",
+    "geom:latitude":6.229,
+    "geom:longitude":6.12943,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10008.0",
+    "gn:asciiname":"Oki",
+    "gn:country_code":"NG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327149,
+    "gn:latitude":6.229,
+    "gn:longitude":6.12943,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327149
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2c800215be49f5be7291a4bb4db5d131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563585,
+            "locality_id":1360024363,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1360024363,
+    "wof:lastmodified":1537675042,
+    "wof:name":"Oki",
+    "wof:parent_id":1108563585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12943,
+    6.229,
+    6.12943,
+    6.229
+],
+  "geometry": {"coordinates":[6.12943,6.229],"type":"Point"}
+}

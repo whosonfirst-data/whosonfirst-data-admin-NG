@@ -1,0 +1,69 @@
+{
+  "id": 1343990931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.09275,11.36587,11.09275,11.36587",
+    "geom:latitude":11.36587,
+    "geom:longitude":11.09275,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70404",
+    "gn:asciiname":"Kadi",
+    "gn:country_code":"NG",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335745,
+    "gn:latitude":11.36587,
+    "gn:longitude":11.09275,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335745
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95f750b604224ee261d329b1fbdd8e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563369,
+            "locality_id":1343990931,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1343990931,
+    "wof:lastmodified":1536975508,
+    "wof:name":"Kadi",
+    "wof:parent_id":1108563369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.09275,
+    11.36587,
+    11.09275,
+    11.36587
+],
+  "geometry": {"coordinates":[11.09275,11.36587],"type":"Point"}
+}

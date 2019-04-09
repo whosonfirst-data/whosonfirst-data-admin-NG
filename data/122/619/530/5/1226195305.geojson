@@ -1,0 +1,71 @@
+{
+  "id": 1226195305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73632,6.16951,6.73632,6.16951",
+    "geom:latitude":6.16951,
+    "geom:longitude":6.73632,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10015.0",
+    "gn:asciiname":"Okwe",
+    "gn:country_code":"NG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326789,
+    "gn:latitude":6.16951,
+    "gn:longitude":6.73632,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326789
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed1447a2c56d454468bcf07a40a7d11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564233,
+            "locality_id":1226195305,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226195305,
+    "wof:lastmodified":1537675033,
+    "wof:name":"Okwe",
+    "wof:parent_id":1108564233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73632,
+    6.16951,
+    6.73632,
+    6.16951
+],
+  "geometry": {"coordinates":[6.73632,6.16951],"type":"Point"}
+}

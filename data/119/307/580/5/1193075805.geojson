@@ -1,0 +1,71 @@
+{
+  "id": 1193075805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67314,6.34956,6.67314,6.34956",
+    "geom:latitude":6.34956,
+    "geom:longitude":6.67314,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Ingene",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337497,
+    "gn:latitude":6.34956,
+    "gn:longitude":6.67314,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ingene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ingene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337497
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6e06ad6037f93cd21b4cc91ff3d9fb98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564231,
+            "locality_id":1193075805,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1193075805,
+    "wof:lastmodified":1537675184,
+    "wof:name":"Ingene",
+    "wof:parent_id":1108564231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67314,
+    6.34956,
+    6.67314,
+    6.34956
+],
+  "geometry": {"coordinates":[6.67314,6.34956],"type":"Point"}
+}

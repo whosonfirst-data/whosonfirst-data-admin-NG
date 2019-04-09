@@ -1,0 +1,73 @@
+{
+  "id": 1209764355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.05,7.6,4.05,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":4.05,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Fagorioye",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342813,
+    "gn:latitude":7.6,
+    "gn:longitude":4.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fagorioye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ifagorioye",
+        "Fagorioye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342813
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0bb99ef2fad8b21805e1f7cbb45ca5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1209764355,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1209764355,
+    "wof:lastmodified":1537675267,
+    "wof:name":"Fagorioye",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.05,
+    7.6,
+    4.05,
+    7.6
+],
+  "geometry": {"coordinates":[4.05,7.6],"type":"Point"}
+}

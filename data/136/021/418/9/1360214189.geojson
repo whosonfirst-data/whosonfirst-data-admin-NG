@@ -1,0 +1,68 @@
+{
+  "id": 1360214189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76667,8.96667,5.76667,8.96667",
+    "geom:latitude":8.96667,
+    "geom:longitude":5.76667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007.0",
+    "gn:asciiname":"Botan",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346763,
+    "gn:latitude":8.96667,
+    "gn:longitude":5.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Botan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346763
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"12cbfe8aa94e531b5e7ea119862b36d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1360214189,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360214189,
+    "wof:lastmodified":1536759731,
+    "wof:name":"Botan",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76667,
+    8.96667,
+    5.76667,
+    8.96667
+],
+  "geometry": {"coordinates":[5.76667,8.96667],"type":"Point"}
+}

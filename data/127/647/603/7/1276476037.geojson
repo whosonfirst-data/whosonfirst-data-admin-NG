@@ -1,0 +1,68 @@
+{
+  "id": 1276476037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23499,9.18035,6.23499,9.18035",
+    "geom:latitude":9.18035,
+    "geom:longitude":6.23499,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010",
+    "gn:asciiname":"Nagya",
+    "gn:country_code":"NG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317436,
+    "gn:latitude":9.18035,
+    "gn:longitude":6.23499,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nagya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317436
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"17ea82955c1d4db4d99841f526b71edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1276476037,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276476037,
+    "wof:lastmodified":1537081734,
+    "wof:name":"Nagya",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23499,
+    9.18035,
+    6.23499,
+    9.18035
+],
+  "geometry": {"coordinates":[6.23499,9.18035],"type":"Point"}
+}

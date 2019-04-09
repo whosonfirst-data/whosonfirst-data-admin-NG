@@ -1,0 +1,68 @@
+{
+  "id": 1260008057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.18726,9.86499,7.18726,9.86499",
+    "geom:latitude":9.86499,
+    "geom:longitude":7.18726,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018.0",
+    "gn:asciiname":"Kabula",
+    "gn:country_code":"NG",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335813,
+    "gn:latitude":9.86499,
+    "gn:longitude":7.18726,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kabula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335813
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eafa96216cc15e7055a54b6d7eb036da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564003,
+            "locality_id":1260008057,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1260008057,
+    "wof:lastmodified":1537093452,
+    "wof:name":"Kabula",
+    "wof:parent_id":1108564003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.18726,
+    9.86499,
+    7.18726,
+    9.86499
+],
+  "geometry": {"coordinates":[7.18726,9.86499],"type":"Point"}
+}

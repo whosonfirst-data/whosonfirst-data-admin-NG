@@ -1,0 +1,68 @@
+{
+  "id": 1360117817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2841,8.91483,11.2841,8.91483",
+    "geom:latitude":8.91483,
+    "geom:longitude":11.2841,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007.0",
+    "gn:asciiname":"Vosho",
+    "gn:country_code":"NG",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319401,
+    "gn:latitude":8.91483,
+    "gn:longitude":11.2841,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Vosho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        421183191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319401
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba56411e53a56bd949253caab6fcbc71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183191,
+            "locality_id":1360117817,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1360117817,
+    "wof:lastmodified":1536898452,
+    "wof:name":"Vosho",
+    "wof:parent_id":421183191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2841,
+    8.91483,
+    11.2841,
+    8.91483
+],
+  "geometry": {"coordinates":[11.2841,8.91483],"type":"Point"}
+}

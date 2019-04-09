@@ -1,0 +1,73 @@
+{
+  "id": 1259612837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11667,8.36667,9.11667,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":9.11667,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26002.0",
+    "gn:asciiname":"Rufai",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324371,
+    "gn:latitude":8.36667,
+    "gn:longitude":9.11667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rufai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ribi",
+        "Rufai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324371
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"05ed33714270f846e8c6479081f89fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563053,
+            "locality_id":1259612837,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1259612837,
+    "wof:lastmodified":1537675001,
+    "wof:name":"Rufai",
+    "wof:parent_id":1108563053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11667,
+    8.36667,
+    9.11667,
+    8.36667
+],
+  "geometry": {"coordinates":[9.11667,8.36667],"type":"Point"}
+}

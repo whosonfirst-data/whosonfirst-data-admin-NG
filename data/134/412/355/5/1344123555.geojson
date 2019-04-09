@@ -1,0 +1,69 @@
+{
+  "id": 1344123555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5761,10.95085,13.5761,10.95085",
+    "geom:latitude":10.95085,
+    "geom:longitude":13.5761,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11107",
+    "gn:asciiname":"Wuro Bororo",
+    "gn:country_code":"NG",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760541,
+    "gn:latitude":10.95085,
+    "gn:longitude":13.5761,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wuro Bororo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760541
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1db84fac031f7692a34c51619f85770f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563479,
+            "locality_id":1344123555,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1344123555,
+    "wof:lastmodified":1536785163,
+    "wof:name":"Wuro Bororo",
+    "wof:parent_id":1108563479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5761,
+    10.95085,
+    13.5761,
+    10.95085
+],
+  "geometry": {"coordinates":[13.5761,10.95085],"type":"Point"}
+}

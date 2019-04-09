@@ -1,0 +1,68 @@
+{
+  "id": 1243306623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.68333,6.28333,5.68333,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":5.68333,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12011.0",
+    "gn:asciiname":"Okonaovi",
+    "gn:country_code":"NG",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327048,
+    "gn:latitude":6.28333,
+    "gn:longitude":5.68333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okonaovi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327048
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9ac8f3066172d15e544e04b7758aecfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563609,
+            "locality_id":1243306623,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243306623,
+    "wof:lastmodified":1537006466,
+    "wof:name":"Okonaovi",
+    "wof:parent_id":1108563609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.68333,
+    6.28333,
+    5.68333,
+    6.28333
+],
+  "geometry": {"coordinates":[5.68333,6.28333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1327185403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.7827,10.99565,12.7827,10.99565",
+    "geom:latitude":10.99565,
+    "geom:longitude":12.7827,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10710",
+    "gn:asciiname":"Wovi",
+    "gn:country_code":"NG",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318947,
+    "gn:latitude":10.99565,
+    "gn:longitude":12.7827,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wovi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318947
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0379cbefbcab0f3cc0cfa15526fdfb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1327185403,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1327185403,
+    "wof:lastmodified":1537036024,
+    "wof:name":"Wovi",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.7827,
+    10.99565,
+    12.7827,
+    10.99565
+],
+  "geometry": {"coordinates":[12.7827,10.99565],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209884365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16667,11.33924,7.16667,11.33924",
+    "geom:latitude":11.33924,
+    "geom:longitude":7.16667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"407.0",
+    "gn:admin3_code":"40705",
+    "gn:asciiname":"Ungwan Doro",
+    "gn:country_code":"NG",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320030,
+    "gn:latitude":11.33924,
+    "gn:longitude":7.16667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Doro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angwan Doro",
+        "Ungwan Doro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320030
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"19594de9f829ff2381519e98d6fa7db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563209,
+            "locality_id":1209884365,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1209884365,
+    "wof:lastmodified":1537674931,
+    "wof:name":"Ungwan Doro",
+    "wof:parent_id":1108563209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16667,
+    11.33924,
+    7.16667,
+    11.33924
+],
+  "geometry": {"coordinates":[7.16667,11.33924],"type":"Point"}
+}

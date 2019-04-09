@@ -1,0 +1,72 @@
+{
+  "id": 1242806287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.59604,6.44463,4.59604,6.44463",
+    "geom:latitude":6.44463,
+    "geom:longitude":4.59604,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Itebukunmi",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337037,
+    "gn:latitude":6.44463,
+    "gn:longitude":4.59604,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Itebukunmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itebukumi",
+        "Itebukunmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337037
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6566713072fb4756c43ec4014f6e9e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1242806287,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1242806287,
+    "wof:lastmodified":1537675176,
+    "wof:name":"Itebukunmi",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.59604,
+    6.44463,
+    4.59604,
+    6.44463
+],
+  "geometry": {"coordinates":[4.59604,6.44463],"type":"Point"}
+}

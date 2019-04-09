@@ -1,0 +1,68 @@
+{
+  "id": 1243000775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93979,6.00859,7.93979,6.00859",
+    "geom:latitude":6.00859,
+    "geom:longitude":7.93979,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11013.0",
+    "gn:asciiname":"Amofia",
+    "gn:country_code":"NG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350062,
+    "gn:latitude":6.00859,
+    "gn:longitude":7.93979,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amofia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108564189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350062
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0d0cec35f2685d6d5495cabf6ac27fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564189,
+            "locality_id":1243000775,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1243000775,
+    "wof:lastmodified":1536951426,
+    "wof:name":"Amofia",
+    "wof:parent_id":1108564189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93979,
+    6.00859,
+    7.93979,
+    6.00859
+],
+  "geometry": {"coordinates":[7.93979,6.00859],"type":"Point"}
+}

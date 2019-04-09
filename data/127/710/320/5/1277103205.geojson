@@ -1,0 +1,70 @@
+{
+  "id": 1277103205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.92252,9.37661,10.92252,9.37661",
+    "geom:latitude":9.37661,
+    "geom:longitude":10.92252,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Fokasi",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274074,
+    "gn:latitude":9.37661,
+    "gn:longitude":10.92252,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Fokasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fokasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274074
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"435123f795a9abc66c945d0f53b3ad5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1277103205,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1277103205,
+    "wof:lastmodified":1537675517,
+    "wof:name":"Fokasi",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.92252,
+    9.37661,
+    10.92252,
+    9.37661
+],
+  "geometry": {"coordinates":[10.92252,9.37661],"type":"Point"}
+}

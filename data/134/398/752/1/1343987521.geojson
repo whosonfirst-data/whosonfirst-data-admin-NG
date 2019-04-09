@@ -1,0 +1,68 @@
+{
+  "id": 1343987521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05,6.9,11.05,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":11.05,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35011.0",
+    "gn:asciiname":"Dan Fulani",
+    "gn:country_code":"NG",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345371,
+    "gn:latitude":6.9,
+    "gn:longitude":11.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dan Fulani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345371
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a0d1fe826a00f0db103cbe20776adecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564339,
+            "locality_id":1343987521,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343987521,
+    "wof:lastmodified":1536980394,
+    "wof:name":"Dan Fulani",
+    "wof:parent_id":1108564339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05,
+    6.9,
+    11.05,
+    6.9
+],
+  "geometry": {"coordinates":[11.05,6.9],"type":"Point"}
+}

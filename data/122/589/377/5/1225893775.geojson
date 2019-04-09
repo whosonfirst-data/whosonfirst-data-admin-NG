@@ -1,0 +1,68 @@
+{
+  "id": 1225893775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28333,8.6,4.28333,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":4.28333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Onipako",
+    "gn:country_code":"NG",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326051,
+    "gn:latitude":8.6,
+    "gn:longitude":4.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onipako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326051
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"84831501b0d9e5a118b318b248b4f7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563033,
+            "locality_id":1225893775,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1225893775,
+    "wof:lastmodified":1536945024,
+    "wof:name":"Onipako",
+    "wof:parent_id":1108563033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28333,
+    8.6,
+    4.28333,
+    8.6
+],
+  "geometry": {"coordinates":[4.28333,8.6],"type":"Point"}
+}

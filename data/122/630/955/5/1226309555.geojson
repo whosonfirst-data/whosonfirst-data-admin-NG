@@ -1,0 +1,69 @@
+{
+  "id": 1226309555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.8712,10.76655,12.8712,10.76655",
+    "geom:latitude":10.76655,
+    "geom:longitude":12.8712,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10607",
+    "gn:asciiname":"Mbalala Gana",
+    "gn:country_code":"NG",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330432,
+    "gn:latitude":10.76655,
+    "gn:longitude":12.8712,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbalala Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330432
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e4f5cfdda8bab2ac45cc0c545a74bee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563189,
+            "locality_id":1226309555,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226309555,
+    "wof:lastmodified":1536840759,
+    "wof:name":"Mbalala Gana",
+    "wof:parent_id":1108563189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.8712,
+    10.76655,
+    12.8712,
+    10.76655
+],
+  "geometry": {"coordinates":[12.8712,10.76655],"type":"Point"}
+}

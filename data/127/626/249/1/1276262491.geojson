@@ -1,0 +1,68 @@
+{
+  "id": 1276262491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73214,5.27159,6.73214,5.27159",
+    "geom:latitude":5.27159,
+    "geom:longitude":6.73214,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33016.0",
+    "gn:asciiname":"Ikiri",
+    "gn:country_code":"NG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101503,
+    "gn:latitude":5.27159,
+    "gn:longitude":6.73214,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101503
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"46ef5e4ac78996e1c44083926774c152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564105,
+            "locality_id":1276262491,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1276262491,
+    "wof:lastmodified":1536872590,
+    "wof:name":"Ikiri",
+    "wof:parent_id":1108564105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73214,
+    5.27159,
+    6.73214,
+    5.27159
+],
+  "geometry": {"coordinates":[6.73214,5.27159],"type":"Point"}
+}

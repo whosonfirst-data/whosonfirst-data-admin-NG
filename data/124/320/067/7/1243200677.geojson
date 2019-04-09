@@ -1,0 +1,71 @@
+{
+  "id": 1243200677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26947,6.25572,8.26947,6.25572",
+    "geom:latitude":6.25572,
+    "geom:longitude":8.26947,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11001",
+    "gn:asciiname":"Nwidogu",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9272413,
+    "gn:latitude":6.25572,
+    "gn:longitude":8.26947,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nwidogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nwedogu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108562905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9272413
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fee2b61ac8f49da74c15bfbe2a51f043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562905,
+            "locality_id":1243200677,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1243200677,
+    "wof:lastmodified":1537675463,
+    "wof:name":"Nwidogu",
+    "wof:parent_id":1108562905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26947,
+    6.25572,
+    8.26947,
+    6.25572
+],
+  "geometry": {"coordinates":[8.26947,6.25572],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226569175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.69822,7.05703,10.69822,7.05703",
+    "geom:latitude":7.05703,
+    "geom:longitude":10.69822,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Makeri",
+    "gn:country_code":"NG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331181,
+    "gn:latitude":7.05703,
+    "gn:longitude":10.69822,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Makeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331181
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7323f0e004bac9b36496f4fb7aed3796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1226569175,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226569175,
+    "wof:lastmodified":1536964934,
+    "wof:name":"Makeri",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.69822,
+    7.05703,
+    10.69822,
+    7.05703
+],
+  "geometry": {"coordinates":[10.69822,7.05703],"type":"Point"}
+}

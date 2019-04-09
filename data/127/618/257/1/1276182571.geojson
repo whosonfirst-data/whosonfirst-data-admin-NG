@@ -1,0 +1,69 @@
+{
+  "id": 1276182571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.84292,11.00109,7.84292,11.00109",
+    "geom:latitude":11.00109,
+    "geom:longitude":7.84292,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19021.0",
+    "gn:admin3_code":"KD2105",
+    "gn:asciiname":"Marwa",
+    "gn:country_code":"NG",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330708,
+    "gn:latitude":11.00109,
+    "gn:longitude":7.84292,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Marwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330708
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f8e6c80ea3aeaac4d9b52c79d802c253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564367,
+            "locality_id":1276182571,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276182571,
+    "wof:lastmodified":1536980362,
+    "wof:name":"Marwa",
+    "wof:parent_id":1108564367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.84292,
+    11.00109,
+    7.84292,
+    11.00109
+],
+  "geometry": {"coordinates":[7.84292,11.00109],"type":"Point"}
+}

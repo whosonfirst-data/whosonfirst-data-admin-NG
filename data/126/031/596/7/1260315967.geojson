@@ -1,0 +1,69 @@
+{
+  "id": 1260315967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1616,11.3806,10.1616,11.3806",
+    "geom:latitude":11.3806,
+    "geom:longitude":10.1616,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5009.0",
+    "gn:admin3_code":"BA0903",
+    "gn:asciiname":"Doguwa",
+    "gn:country_code":"NG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344653,
+    "gn:latitude":11.3806,
+    "gn:longitude":10.1616,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Doguwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344653
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc14cc51d74fee118a1f91eb5643fbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563421,
+            "locality_id":1260315967,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1260315967,
+    "wof:lastmodified":1536668495,
+    "wof:name":"Doguwa",
+    "wof:parent_id":1108563421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1616,
+    11.3806,
+    10.1616,
+    11.3806
+],
+  "geometry": {"coordinates":[10.1616,11.3806],"type":"Point"}
+}

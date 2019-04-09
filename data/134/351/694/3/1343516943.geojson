@@ -1,0 +1,69 @@
+{
+  "id": 1343516943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56238,12.81819,7.56238,12.81819",
+    "geom:latitude":12.81819,
+    "geom:longitude":7.56238,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40209",
+    "gn:asciiname":"Yanali",
+    "gn:country_code":"NG",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998424,
+    "gn:latitude":12.81819,
+    "gn:longitude":7.56238,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yanali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998424
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"28564dd6f77319726c731c3ac1abaade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563097,
+            "locality_id":1343516943,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1343516943,
+    "wof:lastmodified":1536664857,
+    "wof:name":"Yanali",
+    "wof:parent_id":1108563097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56238,
+    12.81819,
+    7.56238,
+    12.81819
+],
+  "geometry": {"coordinates":[7.56238,12.81819],"type":"Point"}
+}

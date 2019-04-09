@@ -1,0 +1,68 @@
+{
+  "id": 1226601061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11227,6.61168,9.11227,6.61168",
+    "geom:latitude":6.61168,
+    "geom:longitude":9.11227,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9014.0",
+    "gn:asciiname":"Betukwel",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347227,
+    "gn:latitude":6.61168,
+    "gn:longitude":9.11227,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Betukwel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347227
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"60ccb18927d40cd289ed5d088df6039c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564087,
+            "locality_id":1226601061,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226601061,
+    "wof:lastmodified":1536922713,
+    "wof:name":"Betukwel",
+    "wof:parent_id":1108564087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11227,
+    6.61168,
+    9.11227,
+    6.61168
+],
+  "geometry": {"coordinates":[9.11227,6.61168],"type":"Point"}
+}

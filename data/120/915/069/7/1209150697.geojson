@@ -1,0 +1,63 @@
+{
+  "id": 1209150697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.12249,12.1175,4.12249,12.1175",
+    "geom:latitude":12.1175,
+    "geom:longitude":4.12249,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"51409",
+    "gn:asciiname":"Mungadi",
+    "gn:country_code":"NG",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329719,
+    "gn:latitude":12.1175,
+    "gn:longitude":4.12249,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Mungadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329719
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5504f3ebc47db6bd4c497105a539044b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209150697
+        }
+    ],
+    "wof:id":1209150697,
+    "wof:lastmodified":1536296214,
+    "wof:name":"Mungadi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.12249,
+    12.1175,
+    4.12249,
+    12.1175
+],
+  "geometry": {"coordinates":[4.12249,12.1175],"type":"Point"}
+}

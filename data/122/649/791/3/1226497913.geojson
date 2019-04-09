@@ -1,0 +1,67 @@
+{
+  "id": 1226497913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.89092,11.63745,7.89092,11.63745",
+    "geom:latitude":11.63745,
+    "geom:longitude":7.89092,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Zoza",
+    "gn:country_code":"NG",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019327,
+    "gn:latitude":11.63745,
+    "gn:longitude":7.89092,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Zoza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019327
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a91d8e6e8ded218fb71d16a2d5c9501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564309,
+            "locality_id":1226497913,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1226497913,
+    "wof:lastmodified":1537064268,
+    "wof:name":"Zoza",
+    "wof:parent_id":1108564309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.89092,
+    11.63745,
+    7.89092,
+    11.63745
+],
+  "geometry": {"coordinates":[7.89092,11.63745],"type":"Point"}
+}

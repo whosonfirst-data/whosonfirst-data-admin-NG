@@ -1,0 +1,62 @@
+{
+  "id": 1209443399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99296,8.57861,10.99296,8.57861",
+    "geom:latitude":8.57861,
+    "geom:longitude":10.99296,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35005",
+    "gn:asciiname":"Garin Mallam Hamma",
+    "gn:country_code":"NG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10893671,
+    "gn:latitude":8.57861,
+    "gn:longitude":10.99296,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garin Mallam Hamma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10893671
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2fe3e9a503e2f3fcf49ac866e004c122",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443399
+        }
+    ],
+    "wof:id":1209443399,
+    "wof:lastmodified":1536286892,
+    "wof:name":"Garin Mallam Hamma",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99296,
+    8.578610000000001,
+    10.99296,
+    8.578610000000001
+],
+  "geometry": {"coordinates":[10.99296,8.57861],"type":"Point"}
+}

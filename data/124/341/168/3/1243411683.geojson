@@ -1,0 +1,69 @@
+{
+  "id": 1243411683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.31523,11.39805,7.31523,11.39805",
+    "geom:latitude":11.39805,
+    "geom:longitude":7.31523,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"414.0",
+    "gn:admin3_code":"41408",
+    "gn:asciiname":"Ungwan Maude",
+    "gn:country_code":"NG",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019560,
+    "gn:latitude":11.39805,
+    "gn:longitude":7.31523,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Maude",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019560
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ae55086298ada13fd459726a7b000125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563377,
+            "locality_id":1243411683,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1243411683,
+    "wof:lastmodified":1536854548,
+    "wof:name":"Ungwan Maude",
+    "wof:parent_id":1108563377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.31523,
+    11.39805,
+    7.31523,
+    11.39805
+],
+  "geometry": {"coordinates":[7.31523,11.39805],"type":"Point"}
+}

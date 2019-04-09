@@ -1,0 +1,73 @@
+{
+  "id": 1309938947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.09769,9.5206,9.09769,9.5206",
+    "geom:latitude":9.5206,
+    "geom:longitude":9.09769,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32011.0",
+    "gn:asciiname":"Mangu",
+    "gn:country_code":"NG",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2329951,
+    "gn:latitude":9.5206,
+    "gn:longitude":9.09769,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mongu",
+        "Mongu Hausawa",
+        "Mangu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329951
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b14677f674db906be76ed26acb12b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563941,
+            "locality_id":1309938947,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1309938947,
+    "wof:lastmodified":1537675089,
+    "wof:name":"Mangu",
+    "wof:parent_id":1108563941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.09769,
+    9.5206,
+    9.09769,
+    9.5206
+],
+  "geometry": {"coordinates":[9.09769,9.5206],"type":"Point"}
+}

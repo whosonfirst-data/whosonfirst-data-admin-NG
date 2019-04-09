@@ -1,0 +1,68 @@
+{
+  "id": 1276579619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.89428,5.45779,7.89428,5.45779",
+    "geom:latitude":5.45779,
+    "geom:longitude":7.89428,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Nde-Akarani",
+    "gn:country_code":"NG",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073510,
+    "gn:latitude":5.45779,
+    "gn:longitude":7.89428,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nde-Akarani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108563031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073510
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a2689f994f58469be6e2d2cc55c3681d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563031,
+            "locality_id":1276579619,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1276579619,
+    "wof:lastmodified":1536946805,
+    "wof:name":"Nde-Akarani",
+    "wof:parent_id":1108563031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.89428,
+    5.45779,
+    7.89428,
+    5.45779
+],
+  "geometry": {"coordinates":[7.89428,5.45779],"type":"Point"}
+}

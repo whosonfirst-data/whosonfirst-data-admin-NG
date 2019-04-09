@@ -1,0 +1,70 @@
+{
+  "id": 1310545451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.00826,9.31143,12.00826,9.31143",
+    "geom:latitude":9.31143,
+    "geom:longitude":12.00826,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hammanpali",
+    "gn:country_code":"NG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189785,
+    "gn:latitude":9.31143,
+    "gn:longitude":12.00826,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Hammanpali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hammanpali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189785
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5892fb4999095e421530448a47e8b084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1310545451,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310545451,
+    "wof:lastmodified":1537675488,
+    "wof:name":"Hammanpali",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.00826,
+    9.31143,
+    12.00826,
+    9.31143
+],
+  "geometry": {"coordinates":[12.00826,9.31143],"type":"Point"}
+}

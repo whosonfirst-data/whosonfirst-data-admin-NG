@@ -1,0 +1,72 @@
+{
+  "id": 1225977551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.32608,11.58697,11.32608,11.58697",
+    "geom:latitude":11.58697,
+    "geom:longitude":11.32608,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70505",
+    "gn:asciiname":"Gudbo",
+    "gn:country_code":"NG",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340256,
+    "gn:latitude":11.58697,
+    "gn:longitude":11.32608,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gudbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gubdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340256
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"20849bef895b28c4e200a5cc1db9e006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1225977551,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1225977551,
+    "wof:lastmodified":1537675224,
+    "wof:name":"Gudbo",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.32608,
+    11.58697,
+    11.32608,
+    11.58697
+],
+  "geometry": {"coordinates":[11.32608,11.58697],"type":"Point"}
+}

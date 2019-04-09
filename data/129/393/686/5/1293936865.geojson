@@ -1,0 +1,68 @@
+{
+  "id": 1293936865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.97964,8.53474,11.97964,8.53474",
+    "geom:latitude":8.53474,
+    "geom:longitude":11.97964,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Timdore",
+    "gn:country_code":"NG",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322124,
+    "gn:latitude":8.53474,
+    "gn:longitude":11.97964,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Timdore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322124
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f751271d92b9c1c9572cf59d0c513349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563389,
+            "locality_id":1293936865,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293936865,
+    "wof:lastmodified":1536635293,
+    "wof:name":"Timdore",
+    "wof:parent_id":1108563389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.97964,
+    8.53474,
+    11.97964,
+    8.53474
+],
+  "geometry": {"coordinates":[11.97964,8.53474],"type":"Point"}
+}

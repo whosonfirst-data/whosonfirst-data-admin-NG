@@ -1,0 +1,71 @@
+{
+  "id": 1259727809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17414,9.12738,12.17414,9.12738",
+    "geom:latitude":9.12738,
+    "geom:longitude":12.17414,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Nyibango",
+    "gn:country_code":"NG",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328479,
+    "gn:latitude":9.12738,
+    "gn:longitude":12.17414,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Nyibango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyibango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328479
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"260bb8fc0b0e6473b0f3ebad27cf60be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1259727809,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259727809,
+    "wof:lastmodified":1537675067,
+    "wof:name":"Nyibango",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17414,
+    9.12738,
+    12.17414,
+    9.12738
+],
+  "geometry": {"coordinates":[12.17414,9.12738],"type":"Point"}
+}

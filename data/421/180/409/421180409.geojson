@@ -1,0 +1,82 @@
+{
+  "id": 421180409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7039,12.6398,10.7039,12.6398",
+    "geom:latitude":12.6398,
+    "geom:longitude":10.7039,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Gorgorum"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2340350,
+    "qs:gn_pop":12470,
+    "qs:name":"Gorgoram",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Yobe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":430301,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1392942,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340350,
+        "gp:id":1392942,
+        "qs:id":430301
+    },
+    "wof:country":"NG",
+    "wof:created":1459009255,
+    "wof:geomhash":"94bc001a8c9f2b298b91e62cd47bcd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564527,
+            "locality_id":421180409,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":421180409,
+    "wof:lastmodified":1505340647,
+    "wof:name":"Gorgoram",
+    "wof:parent_id":1108564527,
+    "wof:placetype":"locality",
+    "wof:population":12470,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7039,
+    12.6398,
+    10.7039,
+    12.6398
+],
+  "geometry": {"coordinates":[10.7039,12.6398],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209472405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45555,12.45111,7.45555,12.45111",
+    "geom:latitude":12.45111,
+    "geom:longitude":7.45555,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"412.0",
+    "gn:admin3_code":"41204",
+    "gn:asciiname":"Ruwan Marki",
+    "gn:country_code":"NG",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324254,
+    "gn:latitude":12.45111,
+    "gn:longitude":7.45555,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ruwan Marki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324254
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7f95706e2afeda2e2eaa798f3578dde6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209472405
+        }
+    ],
+    "wof:id":1209472405,
+    "wof:lastmodified":1536286040,
+    "wof:name":"Ruwan Marki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45555,
+    12.45111,
+    7.45555,
+    12.45111
+],
+  "geometry": {"coordinates":[7.45555,12.45111],"type":"Point"}
+}

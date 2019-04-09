@@ -1,0 +1,69 @@
+{
+  "id": 1193225465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35148,11.2048,13.35148,11.2048",
+    "geom:latitude":11.2048,
+    "geom:longitude":13.35148,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11102",
+    "gn:asciiname":"Gyomuyi",
+    "gn:country_code":"NG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339642,
+    "gn:latitude":11.2048,
+    "gn:longitude":13.35148,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gyomuyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339642
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"977c64082f924b0b83605083c26f7521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563479,
+            "locality_id":1193225465,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1193225465,
+    "wof:lastmodified":1536370997,
+    "wof:name":"Gyomuyi",
+    "wof:parent_id":1108563479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35148,
+    11.2048,
+    13.35148,
+    11.2048
+],
+  "geometry": {"coordinates":[13.35148,11.2048],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242867203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.75596,6.48196,3.75596,6.48196",
+    "geom:latitude":6.48196,
+    "geom:longitude":3.75596,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25009.0",
+    "gn:asciiname":"Gbogije-Ibeju",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826452,
+    "gn:latitude":6.48196,
+    "gn:longitude":3.75596,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbogije-Ibeju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421171305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826452
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf51a10663318ff4a704914531a12a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421171305,
+            "locality_id":1242867203,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1242867203,
+    "wof:lastmodified":1536646065,
+    "wof:name":"Gbogije-Ibeju",
+    "wof:parent_id":421171305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.75596,
+    6.48196,
+    3.75596,
+    6.48196
+],
+  "geometry": {"coordinates":[3.75596,6.48196],"type":"Point"}
+}

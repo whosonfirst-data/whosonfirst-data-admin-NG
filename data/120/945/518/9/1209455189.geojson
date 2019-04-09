@@ -1,0 +1,64 @@
+{
+  "id": 1209455189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92189,9.1676,11.92189,9.1676",
+    "geom:latitude":9.1676,
+    "geom:longitude":11.92189,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dadure",
+    "gn:country_code":"NG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210549,
+    "gn:latitude":9.1676,
+    "gn:longitude":11.92189,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Dadure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dadure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210549
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ae1f8c5380e1f8ea49ef5a9e07bfdf59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209455189
+        }
+    ],
+    "wof:id":1209455189,
+    "wof:lastmodified":1537675510,
+    "wof:name":"Dadure",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92189,
+    9.1676,
+    11.92189,
+    9.1676
+],
+  "geometry": {"coordinates":[11.92189,9.1676],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276793269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.8699,7.73283,9.8699,7.73283",
+    "geom:latitude":7.73283,
+    "geom:longitude":9.8699,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Ugbo",
+    "gn:country_code":"NG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532319,
+    "gn:latitude":7.73283,
+    "gn:longitude":9.8699,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532319
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a5d5c5223fba50d06c272183ba70f163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1276793269,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276793269,
+    "wof:lastmodified":1536659849,
+    "wof:name":"Ugbo",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.8699,
+    7.73283,
+    9.8699,
+    7.73283
+],
+  "geometry": {"coordinates":[9.8699,7.73283],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360318449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.99716,11.85959,5.99716,11.85959",
+    "geom:latitude":11.85959,
+    "geom:longitude":5.99716,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"801.0",
+    "gn:admin3_code":"80102",
+    "gn:asciiname":"Bagega",
+    "gn:country_code":"NG",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348284,
+    "gn:latitude":11.85959,
+    "gn:longitude":5.99716,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bagega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagaga",
+        "Bagega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348284
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"db755e920b18847f10d0f0ff7379cd75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563015,
+            "locality_id":1360318449,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1360318449,
+    "wof:lastmodified":1537675343,
+    "wof:name":"Bagega",
+    "wof:parent_id":1108563015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.99716,
+    11.85959,
+    5.99716,
+    11.85959
+],
+  "geometry": {"coordinates":[5.99716,11.85959],"type":"Point"}
+}

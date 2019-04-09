@@ -1,0 +1,67 @@
+{
+  "id": 1326572057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48202,11.70085,4.48202,11.70085",
+    "geom:latitude":11.70085,
+    "geom:longitude":4.48202,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Kuchi",
+    "gn:country_code":"NG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333709,
+    "gn:latitude":11.70085,
+    "gn:longitude":4.48202,
+    "gn:modification_date":"2009-04-30",
+    "gn:name":"Kuchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333709
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6971001d3c988b9f24dd94f28a88ebe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563809,
+            "locality_id":1326572057,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1326572057,
+    "wof:lastmodified":1536927373,
+    "wof:name":"Kuchi",
+    "wof:parent_id":1108563809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48202,
+    11.70085,
+    4.48202,
+    11.70085
+],
+  "geometry": {"coordinates":[4.48202,11.70085],"type":"Point"}
+}

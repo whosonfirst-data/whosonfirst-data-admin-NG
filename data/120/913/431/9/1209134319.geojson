@@ -1,0 +1,62 @@
+{
+  "id": 1209134319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79609,5.48042,7.79609,5.48042",
+    "geom:latitude":5.48042,
+    "geom:longitude":7.79609,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Ndi-Okereke",
+    "gn:country_code":"NG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329236,
+    "gn:latitude":5.48042,
+    "gn:longitude":7.79609,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndi-Okereke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329236
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"93d28e33ba1eac821e9f635ac11cc396",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134319
+        }
+    ],
+    "wof:id":1209134319,
+    "wof:lastmodified":1536296710,
+    "wof:name":"Ndi-Okereke",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.796089999999999,
+    5.48042,
+    7.796089999999999,
+    5.48042
+],
+  "geometry": {"coordinates":[7.79609,5.48042],"type":"Point"}
+}

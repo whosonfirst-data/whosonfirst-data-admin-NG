@@ -1,0 +1,81 @@
+{
+  "id": 1125860143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43741,5.70632,6.43741,5.70632",
+    "geom:latitude":5.70632,
+    "geom:longitude":6.43741,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":20226,
+    "gn:population":20226,
+    "iso:country":"NG",
+    "lbl:latitude":5.70632,
+    "lbl:longitude":6.43741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Obetim"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2332871,
+    "qs_pg:gn_pop":20226,
+    "qs_pg:name":"Kwale",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":91271,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332871,
+        "qs_pg:id":91271
+    },
+    "wof:country":"NG",
+    "wof:created":1497293794,
+    "wof:geomhash":"3eae9c4056f4cb236f1f3522fee88a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564019,
+            "locality_id":1125860143,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1125860143,
+    "wof:lastmodified":1509396539,
+    "wof:name":"Kwale",
+    "wof:parent_id":1108564019,
+    "wof:placetype":"locality",
+    "wof:population":20226,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43741,
+    5.70632,
+    6.43741,
+    5.70632
+],
+  "geometry": {"coordinates":[6.43741,5.70632],"type":"Point"}
+}

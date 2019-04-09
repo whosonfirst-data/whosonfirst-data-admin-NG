@@ -1,0 +1,73 @@
+{
+  "id": 1276513727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.79497,13.37466,12.79497,13.37466",
+    "geom:latitude":13.37466,
+    "geom:longitude":12.79497,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"12202",
+    "gn:asciiname":"Gashagar",
+    "gn:country_code":"NG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341674,
+    "gn:latitude":13.37466,
+    "gn:longitude":12.79497,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gashagar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gashager",
+        "Gashagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341674
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5f0e8e97625ed6fb807493d41e891ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563985,
+            "locality_id":1276513727,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1276513727,
+    "wof:lastmodified":1537675254,
+    "wof:name":"Gashagar",
+    "wof:parent_id":1108563985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.79497,
+    13.37466,
+    12.79497,
+    13.37466
+],
+  "geometry": {"coordinates":[12.79497,13.37466],"type":"Point"}
+}

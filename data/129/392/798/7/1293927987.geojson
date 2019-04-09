@@ -1,0 +1,71 @@
+{
+  "id": 1293927987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.42371,9.28801,12.42371,9.28801",
+    "geom:latitude":9.28801,
+    "geom:longitude":12.42371,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Jambutu",
+    "gn:country_code":"NG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336534,
+    "gn:latitude":9.28801,
+    "gn:longitude":12.42371,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Jambutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jambutu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336534
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dd8516f213af488a7b364ce84f150ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564543,
+            "locality_id":1293927987,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293927987,
+    "wof:lastmodified":1537675168,
+    "wof:name":"Jambutu",
+    "wof:parent_id":1108564543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.42371,
+    9.28801,
+    12.42371,
+    9.28801
+],
+  "geometry": {"coordinates":[12.42371,9.28801],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327163721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75,9.96667,11.75,9.96667",
+    "geom:latitude":9.96667,
+    "geom:longitude":11.75,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16002.0",
+    "gn:asciiname":"Bangu",
+    "gn:country_code":"NG",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347839,
+    "gn:latitude":9.96667,
+    "gn:longitude":11.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347839
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1fc1c57285dc6167ad7ca6be823518a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563081,
+            "locality_id":1327163721,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1327163721,
+    "wof:lastmodified":1537065983,
+    "wof:name":"Bangu",
+    "wof:parent_id":1108563081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75,
+    9.96667,
+    11.75,
+    9.96667
+],
+  "geometry": {"coordinates":[11.75,9.96667],"type":"Point"}
+}

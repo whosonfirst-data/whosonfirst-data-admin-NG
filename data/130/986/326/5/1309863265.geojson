@@ -1,0 +1,73 @@
+{
+  "id": 1309863265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.39083,13.06923,8.39083,13.06923",
+    "geom:latitude":13.06923,
+    "geom:longitude":8.39083,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"424.0",
+    "gn:admin3_code":"42404",
+    "gn:asciiname":"Jerdedi",
+    "gn:country_code":"NG",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336176,
+    "gn:latitude":13.06923,
+    "gn:longitude":8.39083,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jerdedi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jerdeia",
+        "Jerdedi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336176
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f5d7c87f5f5b11a6c0fb69978671f50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563919,
+            "locality_id":1309863265,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1309863265,
+    "wof:lastmodified":1537675165,
+    "wof:name":"Jerdedi",
+    "wof:parent_id":1108563919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.39083,
+    13.06923,
+    8.39083,
+    13.06923
+],
+  "geometry": {"coordinates":[8.39083,13.06923],"type":"Point"}
+}

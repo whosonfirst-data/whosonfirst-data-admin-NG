@@ -1,0 +1,72 @@
+{
+  "id": 1293330737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02385,8.64287,12.02385,8.64287",
+    "geom:latitude":8.64287,
+    "geom:longitude":12.02385,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Mbulo",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330284,
+    "gn:latitude":8.64287,
+    "gn:longitude":12.02385,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbula",
+        "Mbulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330284
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8c4248ac264c0cdcfd929d51e49b3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1293330737,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293330737,
+    "wof:lastmodified":1537675093,
+    "wof:name":"Mbulo",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02385,
+    8.64287,
+    12.02385,
+    8.64287
+],
+  "geometry": {"coordinates":[12.02385,8.64287],"type":"Point"}
+}

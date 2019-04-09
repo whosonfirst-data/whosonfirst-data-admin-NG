@@ -1,0 +1,63 @@
+{
+  "id": 1209544025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.14213,13.44652,4.14213,13.44652",
+    "geom:latitude":13.44652,
+    "geom:longitude":4.14213,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60602",
+    "gn:asciiname":"Maore",
+    "gn:country_code":"NG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330872,
+    "gn:latitude":13.44652,
+    "gn:longitude":4.14213,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330872
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1fbd1e0f4e4d91a304353a0ee877ed06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544025
+        }
+    ],
+    "wof:id":1209544025,
+    "wof:lastmodified":1536283900,
+    "wof:name":"Maore",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.14213,
+    13.44652,
+    4.14213,
+    13.44652
+],
+  "geometry": {"coordinates":[4.14213,13.44652],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293720451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.40861,11.26799,11.40861,11.26799",
+    "geom:latitude":11.26799,
+    "geom:longitude":11.40861,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70410",
+    "gn:asciiname":"Dagir",
+    "gn:country_code":"NG",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345721,
+    "gn:latitude":11.26799,
+    "gn:longitude":11.40861,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dagir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dager",
+        "Dagir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345721
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"26755407c6177aa736564fc2dd2c64e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563369,
+            "locality_id":1293720451,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1293720451,
+    "wof:lastmodified":1537675312,
+    "wof:name":"Dagir",
+    "wof:parent_id":1108563369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.40861,
+    11.26799,
+    11.40861,
+    11.26799
+],
+  "geometry": {"coordinates":[11.40861,11.26799],"type":"Point"}
+}

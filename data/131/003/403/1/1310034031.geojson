@@ -1,0 +1,71 @@
+{
+  "id": 1310034031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01201,9.54408,7.01201,9.54408",
+    "geom:latitude":9.54408,
+    "geom:longitude":7.01201,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Abera",
+    "gn:country_code":"NG",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352965,
+    "gn:latitude":9.54408,
+    "gn:longitude":7.01201,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abefa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352965
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7be14a0a2cf284e7f3e6e386f38f1b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1310034031,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310034031,
+    "wof:lastmodified":1537675397,
+    "wof:name":"Abera",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01201,
+    9.54408,
+    7.01201,
+    9.54408
+],
+  "geometry": {"coordinates":[7.01201,9.54408],"type":"Point"}
+}

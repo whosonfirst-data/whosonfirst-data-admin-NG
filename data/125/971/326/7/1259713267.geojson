@@ -1,0 +1,72 @@
+{
+  "id": 1259713267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3177,7.60354,5.3177,7.60354",
+    "geom:latitude":7.60354,
+    "geom:longitude":5.3177,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13001.0",
+    "gn:asciiname":"Ago Ologunja",
+    "gn:country_code":"NG",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351788,
+    "gn:latitude":7.60354,
+    "gn:longitude":5.3177,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago Ologunja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ago",
+        "Ago Ologunja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108562919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351788
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"90c955e8537d358c64eac6398d7b4d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562919,
+            "locality_id":1259713267,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1259713267,
+    "wof:lastmodified":1537675385,
+    "wof:name":"Ago Ologunja",
+    "wof:parent_id":1108562919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3177,
+    7.60354,
+    5.3177,
+    7.60354
+],
+  "geometry": {"coordinates":[5.3177,7.60354],"type":"Point"}
+}

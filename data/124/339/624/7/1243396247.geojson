@@ -1,0 +1,73 @@
+{
+  "id": 1243396247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.96667,7.1,4.96667,7.1",
+    "geom:latitude":7.1,
+    "geom:longitude":4.96667,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29015.0",
+    "gn:asciiname":"Oja Fagbo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327437,
+    "gn:latitude":7.1,
+    "gn:longitude":4.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oja Fagbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fagbo",
+        "Oja Fagbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327437
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"05e8656e36995b732ebcc68d05d82ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564185,
+            "locality_id":1243396247,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1243396247,
+    "wof:lastmodified":1537675046,
+    "wof:name":"Oja Fagbo",
+    "wof:parent_id":1108564185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.96667,
+    7.1,
+    4.96667,
+    7.1
+],
+  "geometry": {"coordinates":[4.96667,7.1],"type":"Point"}
+}

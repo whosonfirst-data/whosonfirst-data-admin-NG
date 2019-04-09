@@ -1,0 +1,68 @@
+{
+  "id": 1276149127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05961,10.37297,11.05961,10.37297",
+    "geom:latitude":10.37297,
+    "geom:longitude":11.05961,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16008.0",
+    "gn:asciiname":"Jabular",
+    "gn:country_code":"NG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336702,
+    "gn:latitude":10.37297,
+    "gn:longitude":11.05961,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jabular",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336702
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8529ee95c3387940526110dd5a6406bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563871,
+            "locality_id":1276149127,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1276149127,
+    "wof:lastmodified":1537024590,
+    "wof:name":"Jabular",
+    "wof:parent_id":1108563871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05961,
+    10.37297,
+    11.05961,
+    10.37297
+],
+  "geometry": {"coordinates":[11.05961,10.37297],"type":"Point"}
+}

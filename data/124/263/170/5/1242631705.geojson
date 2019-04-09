@@ -1,0 +1,68 @@
+{
+  "id": 1242631705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01568,7.20658,9.01568,7.20658",
+    "geom:latitude":7.20658,
+    "geom:longitude":9.01568,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022",
+    "gn:asciiname":"Tyonongo",
+    "gn:country_code":"NG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637851,
+    "gn:latitude":7.20658,
+    "gn:longitude":9.01568,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tyonongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637851
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"544ec4650107226c293a2f1574e6d018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1242631705,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1242631705,
+    "wof:lastmodified":1536985197,
+    "wof:name":"Tyonongo",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01568,
+    7.20658,
+    9.01568,
+    7.20658
+],
+  "geometry": {"coordinates":[9.01568,7.20658],"type":"Point"}
+}

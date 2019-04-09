@@ -1,0 +1,68 @@
+{
+  "id": 1259750239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70141,7.31248,8.70141,7.31248",
+    "geom:latitude":7.31248,
+    "geom:longitude":8.70141,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Toryough",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321936,
+    "gn:latitude":7.31248,
+    "gn:longitude":8.70141,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Toryough",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321936
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bbe1425900fc0a8b0997ac0ff7e6c968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1259750239,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259750239,
+    "wof:lastmodified":1536970773,
+    "wof:name":"Toryough",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70141,
+    7.31248,
+    8.70141,
+    7.31248
+],
+  "geometry": {"coordinates":[8.70141,7.31248],"type":"Point"}
+}

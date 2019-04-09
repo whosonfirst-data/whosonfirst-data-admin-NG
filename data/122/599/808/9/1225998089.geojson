@@ -1,0 +1,68 @@
+{
+  "id": 1225998089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.65,8.31667,11.65,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":11.65,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2019.0",
+    "gn:asciiname":"Maisumi",
+    "gn:country_code":"NG",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331305,
+    "gn:latitude":8.31667,
+    "gn:longitude":11.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Maisumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331305
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"19d5a595303db9a7525a753e6b9ee374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564419,
+            "locality_id":1225998089,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1225998089,
+    "wof:lastmodified":1536794255,
+    "wof:name":"Maisumi",
+    "wof:parent_id":1108564419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.65,
+    8.31667,
+    11.65,
+    8.31667
+],
+  "geometry": {"coordinates":[11.65,8.31667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310258103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75935,9.45061,11.75935,9.45061",
+    "geom:latitude":9.45061,
+    "geom:longitude":11.75935,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2016.0",
+    "gn:asciiname":"Salti",
+    "gn:country_code":"NG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323868,
+    "gn:latitude":9.45061,
+    "gn:longitude":11.75935,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Salti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Salti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323868
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0728d1d924d601466474ce30bd560e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564061,
+            "locality_id":1310258103,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310258103,
+    "wof:lastmodified":1537674994,
+    "wof:name":"Salti",
+    "wof:parent_id":1108564061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75935,
+    9.45061,
+    11.75935,
+    9.45061
+],
+  "geometry": {"coordinates":[11.75935,9.45061],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327073109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3197,5.36797,6.3197,5.36797",
+    "geom:latitude":5.36797,
+    "geom:longitude":6.3197,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10010.0",
+    "gn:asciiname":"Aderie",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100163,
+    "gn:latitude":5.36797,
+    "gn:longitude":6.3197,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aderie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100163
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"85d8766d26b54576b71d8f7efd80b032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563689,
+            "locality_id":1327073109,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1327073109,
+    "wof:lastmodified":1536702035,
+    "wof:name":"Aderie",
+    "wof:parent_id":1108563689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3197,
+    5.36797,
+    6.3197,
+    5.36797
+],
+  "geometry": {"coordinates":[6.3197,5.36797],"type":"Point"}
+}

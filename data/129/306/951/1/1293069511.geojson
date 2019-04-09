@@ -1,0 +1,69 @@
+{
+  "id": 1293069511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5654,11.14382,7.5654,11.14382",
+    "geom:latitude":11.14382,
+    "geom:longitude":7.5654,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19003.0",
+    "gn:admin3_code":"KD0308",
+    "gn:asciiname":"Bajimi",
+    "gn:country_code":"NG",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348206,
+    "gn:latitude":11.14382,
+    "gn:longitude":7.5654,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bajimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348206
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"473d8330ab053dcac7de3979657bd3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563425,
+            "locality_id":1293069511,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1293069511,
+    "wof:lastmodified":1536892499,
+    "wof:name":"Bajimi",
+    "wof:parent_id":1108563425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5654,
+    11.14382,
+    7.5654,
+    11.14382
+],
+  "geometry": {"coordinates":[7.5654,11.14382],"type":"Point"}
+}

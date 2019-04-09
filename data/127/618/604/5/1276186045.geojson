@@ -1,0 +1,68 @@
+{
+  "id": 1276186045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.38354,5.59435,7.38354,5.59435",
+    "geom:latitude":5.59435,
+    "geom:longitude":7.38354,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17016.0",
+    "gn:asciiname":"Ama-Inyi",
+    "gn:country_code":"NG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350246,
+    "gn:latitude":5.59435,
+    "gn:longitude":7.38354,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ama-Inyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350246
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"96956d7e57108f64a1cac79f02a0d2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564081,
+            "locality_id":1276186045,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1276186045,
+    "wof:lastmodified":1536975875,
+    "wof:name":"Ama-Inyi",
+    "wof:parent_id":1108564081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.38354,
+    5.59435,
+    7.38354,
+    5.59435
+],
+  "geometry": {"coordinates":[7.38354,5.59435],"type":"Point"}
+}

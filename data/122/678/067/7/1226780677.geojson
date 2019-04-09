@@ -1,0 +1,69 @@
+{
+  "id": 1226780677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.42027,13.73284,5.42027,13.73284",
+    "geom:latitude":13.73284,
+    "geom:longitude":5.42027,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60801",
+    "gn:asciiname":"Tudun Aya",
+    "gn:country_code":"NG",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015641,
+    "gn:latitude":13.73284,
+    "gn:longitude":5.42027,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tudun Aya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015641
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f1fda47269fcedbf71c5df0b731a3fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563631,
+            "locality_id":1226780677,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1226780677,
+    "wof:lastmodified":1536665317,
+    "wof:name":"Tudun Aya",
+    "wof:parent_id":1108563631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42027,
+    13.73284,
+    5.42027,
+    13.73284
+],
+  "geometry": {"coordinates":[5.42027,13.73284],"type":"Point"}
+}

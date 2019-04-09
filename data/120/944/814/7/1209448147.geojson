@@ -1,0 +1,62 @@
+{
+  "id": 1209448147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.04304,7.36219,10.04304,7.36219",
+    "geom:latitude":7.36219,
+    "geom:longitude":10.04304,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012.0",
+    "gn:asciiname":"Isa",
+    "gn:country_code":"NG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337276,
+    "gn:latitude":7.36219,
+    "gn:longitude":10.04304,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337276
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"86556e08dde107eb2d68b88338191f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209448147
+        }
+    ],
+    "wof:id":1209448147,
+    "wof:lastmodified":1536286754,
+    "wof:name":"Isa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.04304,
+    7.362189999999999,
+    10.04304,
+    7.362189999999999
+],
+  "geometry": {"coordinates":[10.04304,7.36219],"type":"Point"}
+}

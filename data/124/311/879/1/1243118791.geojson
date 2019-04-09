@@ -1,0 +1,73 @@
+{
+  "id": 1243118791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.12623,11.33959,9.12623,11.33959",
+    "geom:latitude":11.33959,
+    "geom:longitude":9.12623,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20002.0",
+    "gn:admin3_code":"KN3701",
+    "gn:asciiname":"Birnin Bako",
+    "gn:country_code":"NG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347067,
+    "gn:latitude":11.33959,
+    "gn:longitude":9.12623,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birnin Bako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bako",
+        "Birnin Bako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347067
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e291839aff48df359e7870a4cc3533e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564381,
+            "locality_id":1243118791,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1243118791,
+    "wof:lastmodified":1537675329,
+    "wof:name":"Birnin Bako",
+    "wof:parent_id":1108564381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.12623,
+    11.33959,
+    9.12623,
+    11.33959
+],
+  "geometry": {"coordinates":[9.12623,11.33959],"type":"Point"}
+}

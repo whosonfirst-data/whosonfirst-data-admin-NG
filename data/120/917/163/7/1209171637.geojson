@@ -1,0 +1,63 @@
+{
+  "id": 1209171637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39753,12.43671,7.39753,12.43671",
+    "geom:latitude":12.43671,
+    "geom:longitude":7.39753,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"432.0",
+    "gn:admin3_code":"43208",
+    "gn:asciiname":"Dan Nagayo",
+    "gn:country_code":"NG",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345218,
+    "gn:latitude":12.43671,
+    "gn:longitude":7.39753,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dan Nagayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345218
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"07a0725230ef024209a5c74082f33664",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209171637
+        }
+    ],
+    "wof:id":1209171637,
+    "wof:lastmodified":1536295560,
+    "wof:name":"Dan Nagayo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.3975300000000015,
+    12.43671,
+    7.3975300000000015,
+    12.43671
+],
+  "geometry": {"coordinates":[7.39753,12.43671],"type":"Point"}
+}

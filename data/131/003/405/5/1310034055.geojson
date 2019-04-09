@@ -1,0 +1,68 @@
+{
+  "id": 1310034055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.21456,6.64202,8.21456,6.64202",
+    "geom:latitude":6.64202,
+    "geom:longitude":8.21456,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010",
+    "gn:asciiname":"Ishiahia",
+    "gn:country_code":"NG",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9269460,
+    "gn:latitude":6.64202,
+    "gn:longitude":8.21456,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ishiahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9269460
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f687942fb9cb02032f8119bcd00373a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563709,
+            "locality_id":1310034055,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1310034055,
+    "wof:lastmodified":1537096416,
+    "wof:name":"Ishiahia",
+    "wof:parent_id":1108563709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.21456,
+    6.64202,
+    8.21456,
+    6.64202
+],
+  "geometry": {"coordinates":[8.21456,6.64202],"type":"Point"}
+}

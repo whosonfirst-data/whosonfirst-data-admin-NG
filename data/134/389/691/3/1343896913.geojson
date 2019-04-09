@@ -1,0 +1,71 @@
+{
+  "id": 1343896913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.94395,5.7629,5.94395,5.7629",
+    "geom:latitude":5.7629,
+    "geom:longitude":5.94395,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Ogbigun",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027915,
+    "gn:latitude":5.7629,
+    "gn:longitude":5.94395,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ogbigun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ogbigun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027915
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0113f1f207396c6c3bb888a450d01d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1343896913,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343896913,
+    "wof:lastmodified":1537675420,
+    "wof:name":"Ogbigun",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.94395,
+    5.7629,
+    5.94395,
+    5.7629
+],
+  "geometry": {"coordinates":[5.94395,5.7629],"type":"Point"}
+}

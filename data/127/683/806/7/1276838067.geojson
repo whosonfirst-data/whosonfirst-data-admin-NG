@@ -1,0 +1,67 @@
+{
+  "id": 1276838067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.5752,11.30877,7.5752,11.30877",
+    "geom:latitude":11.30877,
+    "geom:longitude":7.5752,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Dan Mahawayi",
+    "gn:country_code":"NG",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345239,
+    "gn:latitude":11.30877,
+    "gn:longitude":7.5752,
+    "gn:modification_date":"2009-05-04",
+    "gn:name":"Dan Mahawayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345239
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47cfcdba7690d3bd7bfb9b0e4682d3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563425,
+            "locality_id":1276838067,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276838067,
+    "wof:lastmodified":1537093953,
+    "wof:name":"Dan Mahawayi",
+    "wof:parent_id":1108563425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.5752,
+    11.30877,
+    7.5752,
+    11.30877
+],
+  "geometry": {"coordinates":[7.5752,11.30877],"type":"Point"}
+}

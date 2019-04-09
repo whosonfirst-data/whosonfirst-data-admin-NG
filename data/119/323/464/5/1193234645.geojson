@@ -1,0 +1,68 @@
+{
+  "id": 1193234645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.24941,5.34912,8.24941,5.34912",
+    "geom:latitude":5.34912,
+    "geom:longitude":8.24941,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9002.0",
+    "gn:asciiname":"Akwa Ibami",
+    "gn:country_code":"NG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350815,
+    "gn:latitude":5.34912,
+    "gn:longitude":8.24941,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akwa Ibami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350815
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3b144c89a76c75a61d7411f60a4d1eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562961,
+            "locality_id":1193234645,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1193234645,
+    "wof:lastmodified":1536384704,
+    "wof:name":"Akwa Ibami",
+    "wof:parent_id":1108562961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.24941,
+    5.34912,
+    8.24941,
+    5.34912
+],
+  "geometry": {"coordinates":[8.24941,5.34912],"type":"Point"}
+}

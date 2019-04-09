@@ -1,0 +1,62 @@
+{
+  "id": 1209469161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50884,7.57075,9.50884,7.57075",
+    "geom:latitude":7.57075,
+    "geom:longitude":9.50884,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Ikpur",
+    "gn:country_code":"NG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531179,
+    "gn:latitude":7.57075,
+    "gn:longitude":9.50884,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikpur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531179
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e7750b3a0affc2bbf921fc43d8d69565",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209469161
+        }
+    ],
+    "wof:id":1209469161,
+    "wof:lastmodified":1536286134,
+    "wof:name":"Ikpur",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50884,
+    7.57075,
+    9.50884,
+    7.57075
+],
+  "geometry": {"coordinates":[9.50884,7.57075],"type":"Point"}
+}

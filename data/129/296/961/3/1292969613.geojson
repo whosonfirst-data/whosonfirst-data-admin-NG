@@ -1,0 +1,68 @@
+{
+  "id": 1292969613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.43106,4.93112,8.43106,4.93112",
+    "geom:latitude":4.93112,
+    "geom:longitude":8.43106,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9003.0",
+    "gn:asciiname":"Ekpene Tete",
+    "gn:country_code":"NG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343650,
+    "gn:latitude":4.93112,
+    "gn:longitude":8.43106,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekpene Tete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343650
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4aae4ee4fb151488a82e392157200867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562979,
+            "locality_id":1292969613,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1292969613,
+    "wof:lastmodified":1537035176,
+    "wof:name":"Ekpene Tete",
+    "wof:parent_id":1108562979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.43106,
+    4.93112,
+    8.43106,
+    4.93112
+],
+  "geometry": {"coordinates":[8.43106,4.93112],"type":"Point"}
+}

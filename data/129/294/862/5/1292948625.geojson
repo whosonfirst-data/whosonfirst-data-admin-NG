@@ -1,0 +1,68 @@
+{
+  "id": 1292948625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.73486,7.46899,8.73486,7.46899",
+    "geom:latitude":7.46899,
+    "geom:longitude":8.73486,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Damkar",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345482,
+    "gn:latitude":7.46899,
+    "gn:longitude":8.73486,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Damkar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345482
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8d5a2a50b501c17044fe3182bcd92319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1292948625,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1292948625,
+    "wof:lastmodified":1537063973,
+    "wof:name":"Damkar",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.73486,
+    7.46899,
+    8.73486,
+    7.46899
+],
+  "geometry": {"coordinates":[8.73486,7.46899],"type":"Point"}
+}

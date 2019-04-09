@@ -1,0 +1,68 @@
+{
+  "id": 1327163719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66649,7.41755,6.66649,7.41755",
+    "geom:latitude":7.41755,
+    "geom:longitude":6.66649,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23002.0",
+    "gn:asciiname":"Onado",
+    "gn:country_code":"NG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326181,
+    "gn:latitude":7.41755,
+    "gn:longitude":6.66649,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108562955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326181
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d802f785efdf0884cb9f9a614d73f43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562955,
+            "locality_id":1327163719,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1327163719,
+    "wof:lastmodified":1537065986,
+    "wof:name":"Onado",
+    "wof:parent_id":1108562955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66649,
+    7.41755,
+    6.66649,
+    7.41755
+],
+  "geometry": {"coordinates":[6.66649,7.41755],"type":"Point"}
+}

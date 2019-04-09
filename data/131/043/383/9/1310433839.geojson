@@ -1,0 +1,67 @@
+{
+  "id": 1310433839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55472,10.33451,11.55472,10.33451",
+    "geom:latitude":10.33451,
+    "geom:longitude":11.55472,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Wuratale",
+    "gn:country_code":"NG",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318883,
+    "gn:latitude":10.33451,
+    "gn:longitude":11.55472,
+    "gn:modification_date":"2009-05-14",
+    "gn:name":"Wuratale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318883
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a3581a3514be7d3927d8e83191b4a543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564531,
+            "locality_id":1310433839,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1310433839,
+    "wof:lastmodified":1537019603,
+    "wof:name":"Wuratale",
+    "wof:parent_id":1108564531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55472,
+    10.33451,
+    11.55472,
+    10.33451
+],
+  "geometry": {"coordinates":[11.55472,10.33451],"type":"Point"}
+}

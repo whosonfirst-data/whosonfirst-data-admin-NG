@@ -1,0 +1,70 @@
+{
+  "id": 1260124319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.91712,9.2664,11.91712,9.2664",
+    "geom:latitude":9.2664,
+    "geom:longitude":11.91712,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Banjitali",
+    "gn:country_code":"NG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209971,
+    "gn:latitude":9.2664,
+    "gn:longitude":11.91712,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Banjitali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Banjitali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209971
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9f241356c35ad700d63a77fe5c2c9b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1260124319,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1260124319,
+    "wof:lastmodified":1537675504,
+    "wof:name":"Banjitali",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.91712,
+    9.2664,
+    11.91712,
+    9.2664
+],
+  "geometry": {"coordinates":[11.91712,9.2664],"type":"Point"}
+}

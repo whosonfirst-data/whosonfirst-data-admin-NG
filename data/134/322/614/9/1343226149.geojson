@@ -1,0 +1,67 @@
+{
+  "id": 1343226149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.8997,5.31737,7.8997,5.31737",
+    "geom:latitude":5.31737,
+    "geom:longitude":7.8997,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ikot Offiong",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337973,
+    "gn:latitude":5.31737,
+    "gn:longitude":7.8997,
+    "gn:modification_date":"2009-08-13",
+    "gn:name":"Ikot Offiong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337973
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e81050c41cb842af7ce4109417e87600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564097,
+            "locality_id":1343226149,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343226149,
+    "wof:lastmodified":1537081469,
+    "wof:name":"Ikot Offiong",
+    "wof:parent_id":1108564097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8997,
+    5.31737,
+    7.8997,
+    5.31737
+],
+  "geometry": {"coordinates":[7.8997,5.31737],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243415213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92266,11.65935,8.92266,11.65935",
+    "geom:latitude":11.65935,
+    "geom:longitude":8.92266,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20027.0",
+    "gn:admin3_code":"KN4404",
+    "gn:asciiname":"Darki",
+    "gn:country_code":"NG",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345137,
+    "gn:latitude":11.65935,
+    "gn:longitude":8.92266,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Darki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345137
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e62fe937ecb7c7da4316c8bf9094e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564509,
+            "locality_id":1243415213,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1243415213,
+    "wof:lastmodified":1536849532,
+    "wof:name":"Darki",
+    "wof:parent_id":1108564509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92266,
+    11.65935,
+    8.92266,
+    11.65935
+],
+  "geometry": {"coordinates":[8.92266,11.65935],"type":"Point"}
+}

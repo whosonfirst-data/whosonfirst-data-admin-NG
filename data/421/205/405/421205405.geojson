@@ -1,0 +1,94 @@
+{
+  "id": 421205405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35,7.46667,4.35,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":4.35,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0413\u0431\u043e\u043d\u0433\u0430\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Gbongan"
+    ],
+    "name:eng_x_preferred":[
+        "Gbongan"
+    ],
+    "name:yor_x_preferred":[
+        "Gb\u1ecd\u0300ng\u00e1n"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2341355,
+    "qs:gn_pop":139485,
+    "qs:name":"Gbongan",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Osun",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":263054,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1392129,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":985,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108562951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341355,
+        "gp:id":1392129,
+        "qs:id":263054,
+        "wd:id":"Q5529350",
+        "wk:page":"Gbongan"
+    },
+    "wof:country":"NG",
+    "wof:created":1459010224,
+    "wof:geomhash":"99f898c3cc373c71d0bb98efb71185f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562951,
+            "locality_id":421205405,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":421205405,
+    "wof:lastmodified":1527716221,
+    "wof:name":"Gbongan",
+    "wof:parent_id":1108562951,
+    "wof:placetype":"locality",
+    "wof:population":139485,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35,
+    7.46667,
+    4.35,
+    7.46667
+],
+  "geometry": {"coordinates":[4.35,7.46667],"type":"Point"}
+}

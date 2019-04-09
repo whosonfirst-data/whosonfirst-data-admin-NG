@@ -1,0 +1,79 @@
+{
+  "id": 1193075575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.34121,6.70229,6.34121,6.70229",
+    "geom:latitude":6.70229,
+    "geom:longitude":6.34121,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Efandion",
+    "gn:country_code":"NG",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343992,
+    "gn:latitude":6.70229,
+    "gn:longitude":6.34121,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Efandion",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Efandion"
+    ],
+    "name:eng_x_variant":[
+        "Ifadion",
+        "Efahdion"
+    ],
+    "name:und_x_variant":[
+        "Ifadion",
+        "Efahdion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343992
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8f01f0fba7dde9e4e08af75b50d92351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1193075575,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1193075575,
+    "wof:lastmodified":1537675288,
+    "wof:name":"Efandion",
+    "wof:parent_id":1108563317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.34121,
+    6.70229,
+    6.34121,
+    6.70229
+],
+  "geometry": {"coordinates":[6.34121,6.70229],"type":"Point"}
+}

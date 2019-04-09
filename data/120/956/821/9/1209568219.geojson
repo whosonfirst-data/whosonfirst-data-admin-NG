@@ -1,0 +1,62 @@
+{
+  "id": 1209568219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.66008,5.42908,5.66008,5.42908",
+    "geom:latitude":5.42908,
+    "geom:longitude":5.66008,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Dafracogbene",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028108,
+    "gn:latitude":5.42908,
+    "gn:longitude":5.66008,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dafracogbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028108
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"794ec1a244919dab5e6feca013600d0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209568219
+        }
+    ],
+    "wof:id":1209568219,
+    "wof:lastmodified":1536283169,
+    "wof:name":"Dafracogbene",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6600800000000016,
+    5.42908,
+    5.6600800000000016,
+    5.42908
+],
+  "geometry": {"coordinates":[5.66008,5.42908],"type":"Point"}
+}

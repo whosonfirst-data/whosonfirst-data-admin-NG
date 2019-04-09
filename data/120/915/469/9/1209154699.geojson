@@ -1,0 +1,62 @@
+{
+  "id": 1209154699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2659,10.31619,13.2659,10.31619",
+    "geom:latitude":10.31619,
+    "geom:longitude":13.2659,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Digil",
+    "gn:country_code":"NG",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344873,
+    "gn:latitude":10.31619,
+    "gn:longitude":13.2659,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Digil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344873
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"015770efe87e07ebad6cececa2ffb9e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209154699
+        }
+    ],
+    "wof:id":1209154699,
+    "wof:lastmodified":1536296092,
+    "wof:name":"Digil",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2659,
+    10.31619,
+    13.2659,
+    10.31619
+],
+  "geometry": {"coordinates":[13.2659,10.31619],"type":"Point"}
+}

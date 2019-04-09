@@ -1,0 +1,68 @@
+{
+  "id": 1343887651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.915,11.2175,4.915,11.2175",
+    "geom:latitude":11.2175,
+    "geom:longitude":4.915,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27021.0",
+    "gn:asciiname":"Rugan Chibau",
+    "gn:country_code":"NG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020760,
+    "gn:latitude":11.2175,
+    "gn:longitude":4.915,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rugan Chibau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020760
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f24485c1155c1a592121c0732f735dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564297,
+            "locality_id":1343887651,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343887651,
+    "wof:lastmodified":1536625625,
+    "wof:name":"Rugan Chibau",
+    "wof:parent_id":1108564297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.915,
+    11.2175,
+    4.915,
+    11.2175
+],
+  "geometry": {"coordinates":[4.915,11.2175],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293029371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.89197,8.86583,11.89197,8.86583",
+    "geom:latitude":8.86583,
+    "geom:longitude":11.89197,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35016",
+    "gn:asciiname":"Wasam",
+    "gn:country_code":"NG",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866183,
+    "gn:latitude":8.86583,
+    "gn:longitude":11.89197,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wasam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866183
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0d01d7d9859d072bf90fd0b3e6a21070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564561,
+            "locality_id":1293029371,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293029371,
+    "wof:lastmodified":1536950861,
+    "wof:name":"Wasam",
+    "wof:parent_id":1108564561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.89197,
+    8.86583,
+    11.89197,
+    8.86583
+],
+  "geometry": {"coordinates":[11.89197,8.86583],"type":"Point"}
+}

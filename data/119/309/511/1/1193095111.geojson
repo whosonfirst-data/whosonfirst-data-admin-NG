@@ -1,0 +1,69 @@
+{
+  "id": 1193095111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.60963,10.63106,7.60963,10.63106",
+    "geom:latitude":10.63106,
+    "geom:longitude":7.60963,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19004.0",
+    "gn:admin3_code":"KD0404",
+    "gn:asciiname":"Burkornu",
+    "gn:country_code":"NG",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346347,
+    "gn:latitude":10.63106,
+    "gn:longitude":7.60963,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Burkornu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346347
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ffdae62ee1d4d36300a66bb8e1692dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563551,
+            "locality_id":1193095111,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1193095111,
+    "wof:lastmodified":1536366617,
+    "wof:name":"Burkornu",
+    "wof:parent_id":1108563551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.60963,
+    10.63106,
+    7.60963,
+    10.63106
+],
+  "geometry": {"coordinates":[7.60963,10.63106],"type":"Point"}
+}

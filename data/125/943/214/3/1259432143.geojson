@@ -1,0 +1,73 @@
+{
+  "id": 1259432143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.38073,8.6447,4.38073,8.6447",
+    "geom:latitude":8.6447,
+    "geom:longitude":4.38073,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kondoro-Budo-Ole",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334047,
+    "gn:latitude":8.6447,
+    "gn:longitude":4.38073,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Kondoro-Budo-Ole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kondoro-Budo-Ole"
+    ],
+    "name:und_x_variant":[
+        "Kandoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334047
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a219c4e503b67a0d1048e17de66fc188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563033,
+            "locality_id":1259432143,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1259432143,
+    "wof:lastmodified":1537675135,
+    "wof:name":"Kondoro-Budo-Ole",
+    "wof:parent_id":1108563033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.38073,
+    8.6447,
+    4.38073,
+    8.6447
+],
+  "geometry": {"coordinates":[4.38073,8.6447],"type":"Point"}
+}

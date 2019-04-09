@@ -1,0 +1,69 @@
+{
+  "id": 1327163849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.52321,11.44686,11.52321,11.44686",
+    "geom:latitude":11.44686,
+    "geom:longitude":11.52321,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70503",
+    "gn:asciiname":"Manawaji Bornu",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330958,
+    "gn:latitude":11.44686,
+    "gn:longitude":11.52321,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Manawaji Bornu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330958
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"911667040ab45b3587639c829def98ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1327163849,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1327163849,
+    "wof:lastmodified":1537065800,
+    "wof:name":"Manawaji Bornu",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.52321,
+    11.44686,
+    11.52321,
+    11.44686
+],
+  "geometry": {"coordinates":[11.52321,11.44686],"type":"Point"}
+}

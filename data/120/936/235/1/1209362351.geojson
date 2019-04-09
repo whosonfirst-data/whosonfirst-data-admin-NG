@@ -1,0 +1,62 @@
+{
+  "id": 1209362351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.24044,7.21277,9.24044,7.21277",
+    "geom:latitude":7.21277,
+    "geom:longitude":9.24044,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Imor",
+    "gn:country_code":"NG",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638395,
+    "gn:latitude":7.21277,
+    "gn:longitude":9.24044,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638395
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"23399382bec3f85d5cb47b54600fcd55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209362351
+        }
+    ],
+    "wof:id":1209362351,
+    "wof:lastmodified":1536289380,
+    "wof:name":"Imor",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.24044,
+    7.21277,
+    9.24044,
+    7.21277
+],
+  "geometry": {"coordinates":[9.24044,7.21277],"type":"Point"}
+}

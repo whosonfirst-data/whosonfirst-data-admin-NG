@@ -1,0 +1,73 @@
+{
+  "id": 1293447415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.58495,12.92951,8.58495,12.92951",
+    "geom:latitude":12.92951,
+    "geom:longitude":8.58495,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"434.0",
+    "gn:admin3_code":"43403",
+    "gn:asciiname":"Garaba Ganna",
+    "gn:country_code":"NG",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341937,
+    "gn:latitude":12.92951,
+    "gn:longitude":8.58495,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garaba Ganna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garaba",
+        "Garaba Ganna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108564557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341937
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"26df44c4ee9737dbecff5c4e6bf3a1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564557,
+            "locality_id":1293447415,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1293447415,
+    "wof:lastmodified":1537675257,
+    "wof:name":"Garaba Ganna",
+    "wof:parent_id":1108564557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.58495,
+    12.92951,
+    8.58495,
+    12.92951
+],
+  "geometry": {"coordinates":[8.58495,12.92951],"type":"Point"}
+}

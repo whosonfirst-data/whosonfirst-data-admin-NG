@@ -1,0 +1,69 @@
+{
+  "id": 1310457425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.72011,13.23771,7.72011,13.23771",
+    "geom:latitude":13.23771,
+    "geom:longitude":7.72011,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"418.0",
+    "gn:admin3_code":"41803",
+    "gn:asciiname":"Tiki",
+    "gn:country_code":"NG",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322153,
+    "gn:latitude":13.23771,
+    "gn:longitude":7.72011,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322153
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7ccfe4257a90b6922687bb2abb10aa8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563753,
+            "locality_id":1310457425,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1310457425,
+    "wof:lastmodified":1536985581,
+    "wof:name":"Tiki",
+    "wof:parent_id":1108563753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.72011,
+    13.23771,
+    7.72011,
+    13.23771
+],
+  "geometry": {"coordinates":[7.72011,13.23771],"type":"Point"}
+}

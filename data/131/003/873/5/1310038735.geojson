@@ -1,0 +1,68 @@
+{
+  "id": 1310038735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31667,7.41667,4.31667,7.41667",
+    "geom:latitude":7.41667,
+    "geom:longitude":4.31667,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30001.0",
+    "gn:asciiname":"Igidu",
+    "gn:country_code":"NG",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338615,
+    "gn:latitude":7.41667,
+    "gn:longitude":4.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igidu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108562951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338615
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca28f988f56de39dc111a41b4c495e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562951,
+            "locality_id":1310038735,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1310038735,
+    "wof:lastmodified":1537089600,
+    "wof:name":"Igidu",
+    "wof:parent_id":1108562951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31667,
+    7.41667,
+    4.31667,
+    7.41667
+],
+  "geometry": {"coordinates":[4.31667,7.41667],"type":"Point"}
+}

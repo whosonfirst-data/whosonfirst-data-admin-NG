@@ -1,0 +1,71 @@
+{
+  "id": 1276499755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.14504,9.23227,12.14504,9.23227",
+    "geom:latitude":9.23227,
+    "geom:longitude":12.14504,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Dolegal",
+    "gn:country_code":"NG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344605,
+    "gn:latitude":9.23227,
+    "gn:longitude":12.14504,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Dolegal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dolegal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344605
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f0ef7342dafb146745e7f5ca26593d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1276499755,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1276499755,
+    "wof:lastmodified":1537675299,
+    "wof:name":"Dolegal",
+    "wof:parent_id":1108564541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14504,
+    9.23227,
+    12.14504,
+    9.23227
+],
+  "geometry": {"coordinates":[12.14504,9.23227],"type":"Point"}
+}

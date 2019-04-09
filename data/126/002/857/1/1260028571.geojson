@@ -1,0 +1,73 @@
+{
+  "id": 1260028571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3,8.25,4.3,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":4.3,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31028.0",
+    "gn:asciiname":"Igbon",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338687,
+    "gn:latitude":8.25,
+    "gn:longitude":4.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igbori",
+        "Igbon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338687
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"655d630ffdf73c3b2fe670ac1aa51abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564205,
+            "locality_id":1260028571,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1260028571,
+    "wof:lastmodified":1537675203,
+    "wof:name":"Igbon",
+    "wof:parent_id":1108564205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3,
+    8.25,
+    4.3,
+    8.25
+],
+  "geometry": {"coordinates":[4.3,8.25],"type":"Point"}
+}

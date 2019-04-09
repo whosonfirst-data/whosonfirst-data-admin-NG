@@ -1,0 +1,72 @@
+{
+  "id": 1259832983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1636,8.79225,12.1636,8.79225",
+    "geom:latitude":8.79225,
+    "geom:longitude":12.1636,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Mayo Kole",
+    "gn:country_code":"NG",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330514,
+    "gn:latitude":8.79225,
+    "gn:longitude":12.1636,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mayo Kole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maio Kole",
+        "Mayo Kole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330514
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0363e126be75ce6020dcca12c2446439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1259832983,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259832983,
+    "wof:lastmodified":1537675096,
+    "wof:name":"Mayo Kole",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1636,
+    8.79225,
+    12.1636,
+    8.79225
+],
+  "geometry": {"coordinates":[12.1636,8.79225],"type":"Point"}
+}

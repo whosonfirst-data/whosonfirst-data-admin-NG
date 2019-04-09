@@ -1,0 +1,69 @@
+{
+  "id": 1343590791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2752,11.4658,10.2752,11.4658",
+    "geom:latitude":11.4658,
+    "geom:longitude":10.2752,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5009.0",
+    "gn:admin3_code":"BA0913",
+    "gn:asciiname":"Mainari",
+    "gn:country_code":"NG",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854035,
+    "gn:latitude":11.4658,
+    "gn:longitude":10.2752,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mainari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854035
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f0faa2de4aeb5991f3d8feac1d6246de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563421,
+            "locality_id":1343590791,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1343590791,
+    "wof:lastmodified":1537053484,
+    "wof:name":"Mainari",
+    "wof:parent_id":1108563421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2752,
+    11.4658,
+    10.2752,
+    11.4658
+],
+  "geometry": {"coordinates":[10.2752,11.4658],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276150487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.21782,10.63143,10.21782,10.63143",
+    "geom:latitude":10.63143,
+    "geom:longitude":10.21782,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5008.0",
+    "gn:admin3_code":"BA0805",
+    "gn:asciiname":"Siri",
+    "gn:country_code":"NG",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322982,
+    "gn:latitude":10.63143,
+    "gn:longitude":10.21782,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Siri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Siri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322982
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"63cd03a7719d7542114cb11ff03a328f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563391,
+            "locality_id":1276150487,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1276150487,
+    "wof:lastmodified":1537674984,
+    "wof:name":"Siri",
+    "wof:parent_id":1108563391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.21782,
+    10.63143,
+    10.21782,
+    10.63143
+],
+  "geometry": {"coordinates":[10.21782,10.63143],"type":"Point"}
+}

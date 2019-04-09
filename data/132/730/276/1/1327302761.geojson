@@ -1,0 +1,68 @@
+{
+  "id": 1327302761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56334,6.29421,8.56334,6.29421",
+    "geom:latitude":6.29421,
+    "geom:longitude":8.56334,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Arokpa",
+    "gn:country_code":"NG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349341,
+    "gn:latitude":6.29421,
+    "gn:longitude":8.56334,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arokpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349341
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e881206b17e10bb0ed09ae6e6625c00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":1327302761,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1327302761,
+    "wof:lastmodified":1536866844,
+    "wof:name":"Arokpa",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56334,
+    6.29421,
+    8.56334,
+    6.29421
+],
+  "geometry": {"coordinates":[8.56334,6.29421],"type":"Point"}
+}

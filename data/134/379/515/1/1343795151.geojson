@@ -1,0 +1,73 @@
+{
+  "id": 1343795151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.26926,4.93638,7.26926,4.93638",
+    "geom:latitude":4.93638,
+    "geom:longitude":7.26926,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1014.0",
+    "gn:asciiname":"Ikpowku",
+    "gn:country_code":"NG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326976,
+    "gn:latitude":4.93638,
+    "gn:longitude":7.26926,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikpowku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikpawku",
+        "Okpawku",
+        "Ikpowku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326976
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ea149485f7561fdd8c2e9629e2800dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564455,
+            "locality_id":1343795151,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1343795151,
+    "wof:lastmodified":1537675038,
+    "wof:name":"Ikpowku",
+    "wof:parent_id":1108564455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.26926,
+    4.93638,
+    7.26926,
+    4.93638
+],
+  "geometry": {"coordinates":[7.26926,4.93638],"type":"Point"}
+}

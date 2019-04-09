@@ -1,0 +1,72 @@
+{
+  "id": 1277033291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.721,5.36591,7.721,5.36591",
+    "geom:latitude":5.36591,
+    "geom:longitude":7.721,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3015.0",
+    "gn:asciiname":"Oniog-Ono",
+    "gn:country_code":"NG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326055,
+    "gn:latitude":5.36591,
+    "gn:longitude":7.721,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oniog-Ono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oniong Ono",
+        "Oniog-Ono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326055
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4b4879b67ff664dd2135ed0ed208a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563645,
+            "locality_id":1277033291,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1277033291,
+    "wof:lastmodified":1537675025,
+    "wof:name":"Oniog-Ono",
+    "wof:parent_id":1108563645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.721,
+    5.36591,
+    7.721,
+    5.36591
+],
+  "geometry": {"coordinates":[7.721,5.36591],"type":"Point"}
+}

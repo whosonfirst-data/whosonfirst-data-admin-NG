@@ -1,0 +1,68 @@
+{
+  "id": 1243021193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.60733,5.79748,6.60733,5.79748",
+    "geom:latitude":5.79748,
+    "geom:longitude":6.60733,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10011.0",
+    "gn:asciiname":"Obeze",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100471,
+    "gn:latitude":5.79748,
+    "gn:longitude":6.60733,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obeze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100471
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"80e53f4e11d5f88c4a82dfc948f722f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564017,
+            "locality_id":1243021193,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243021193,
+    "wof:lastmodified":1536922334,
+    "wof:name":"Obeze",
+    "wof:parent_id":1108564017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.60733,
+    5.79748,
+    6.60733,
+    5.79748
+],
+  "geometry": {"coordinates":[6.60733,5.79748],"type":"Point"}
+}

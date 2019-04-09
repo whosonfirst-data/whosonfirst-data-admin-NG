@@ -1,0 +1,73 @@
+{
+  "id": 1293622045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.14882,12.06616,11.14882,12.06616",
+    "geom:latitude":12.06616,
+    "geom:longitude":11.14882,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70513",
+    "gn:asciiname":"Fulatari",
+    "gn:country_code":"NG",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342499,
+    "gn:latitude":12.06616,
+    "gn:longitude":11.14882,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fulatari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fellatari",
+        "Fulatari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342499
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed76dc9084181eea2d434d33c04141c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1293622045,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1293622045,
+    "wof:lastmodified":1537675263,
+    "wof:name":"Fulatari",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.14882,
+    12.06616,
+    11.14882,
+    12.06616
+],
+  "geometry": {"coordinates":[11.14882,12.06616],"type":"Point"}
+}

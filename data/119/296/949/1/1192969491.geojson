@@ -1,0 +1,69 @@
+{
+  "id": 1192969491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.88333,10.43333,4.88333,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":4.88333,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"515.0",
+    "gn:admin3_code":"51508",
+    "gn:asciiname":"Momba",
+    "gn:country_code":"NG",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329962,
+    "gn:latitude":10.43333,
+    "gn:longitude":4.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Momba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329962
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad5a88a6c77e8a457ddffa7f0dc599f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563915,
+            "locality_id":1192969491,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1192969491,
+    "wof:lastmodified":1536379867,
+    "wof:name":"Momba",
+    "wof:parent_id":1108563915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88333,
+    10.43333,
+    4.88333,
+    10.43333
+],
+  "geometry": {"coordinates":[4.88333,10.43333],"type":"Point"}
+}

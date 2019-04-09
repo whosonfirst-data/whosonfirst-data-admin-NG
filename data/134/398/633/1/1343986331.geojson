@@ -1,0 +1,69 @@
+{
+  "id": 1343986331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.638,11.9389,10.638,11.9389",
+    "geom:latitude":11.9389,
+    "geom:longitude":10.638,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5007.0",
+    "gn:admin3_code":"BA0707",
+    "gn:asciiname":"Udubo",
+    "gn:country_code":"NG",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320952,
+    "gn:latitude":11.9389,
+    "gn:longitude":10.638,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Udubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320952
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bd4ce7f03cf2900cc0473f3513b5d735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563387,
+            "locality_id":1343986331,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1343986331,
+    "wof:lastmodified":1536982052,
+    "wof:name":"Udubo",
+    "wof:parent_id":1108563387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.638,
+    11.9389,
+    10.638,
+    11.9389
+],
+  "geometry": {"coordinates":[10.638,11.9389],"type":"Point"}
+}

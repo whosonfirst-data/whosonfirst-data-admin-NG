@@ -1,0 +1,69 @@
+{
+  "id": 1243205347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.07189,13.11593,11.07189,13.11593",
+    "geom:latitude":13.11593,
+    "geom:longitude":11.07189,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717",
+    "gn:admin3_code":"71709",
+    "gn:asciiname":"Bulubulu",
+    "gn:country_code":"NG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311957,
+    "gn:latitude":13.11593,
+    "gn:longitude":11.07189,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bulubulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311957
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"86b5efd30c20660c4345047366f8fcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564549,
+            "locality_id":1243205347,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1243205347,
+    "wof:lastmodified":1536656318,
+    "wof:name":"Bulubulu",
+    "wof:parent_id":1108564549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.07189,
+    13.11593,
+    11.07189,
+    13.11593
+],
+  "geometry": {"coordinates":[11.07189,13.11593],"type":"Point"}
+}

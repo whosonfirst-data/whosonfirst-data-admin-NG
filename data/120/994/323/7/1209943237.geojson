@@ -1,0 +1,68 @@
+{
+  "id": 1209943237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.7919,7.38284,10.7919,7.38284",
+    "geom:latitude":7.38284,
+    "geom:longitude":10.7919,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Shuwaka",
+    "gn:country_code":"NG",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323051,
+    "gn:latitude":7.38284,
+    "gn:longitude":10.7919,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shuwaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323051
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed9bfb03ba72836ecc86cbe772713d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1209943237,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1209943237,
+    "wof:lastmodified":1536387561,
+    "wof:name":"Shuwaka",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7919,
+    7.38284,
+    10.7919,
+    7.38284
+],
+  "geometry": {"coordinates":[10.7919,7.38284],"type":"Point"}
+}

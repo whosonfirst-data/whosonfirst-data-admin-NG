@@ -1,0 +1,72 @@
+{
+  "id": 1344089645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45879,6.85684,7.45879,6.85684",
+    "geom:latitude":6.85684,
+    "geom:longitude":7.45879,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14015.0",
+    "gn:asciiname":"Orba",
+    "gn:country_code":"NG",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325825,
+    "gn:latitude":6.85684,
+    "gn:longitude":7.45879,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awba",
+        "Orba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aa4fcce726cfa7c308b50d565bc1e0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564431,
+            "locality_id":1344089645,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1344089645,
+    "wof:lastmodified":1537675022,
+    "wof:name":"Orba",
+    "wof:parent_id":1108564431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45879,
+    6.85684,
+    7.45879,
+    6.85684
+],
+  "geometry": {"coordinates":[7.45879,6.85684],"type":"Point"}
+}

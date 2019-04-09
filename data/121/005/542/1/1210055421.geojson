@@ -1,0 +1,71 @@
+{
+  "id": 1210055421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00165,5.53382,6.00165,5.53382",
+    "geom:latitude":5.53382,
+    "geom:longitude":6.00165,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Iwrohwaro",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098487,
+    "gn:latitude":5.53382,
+    "gn:longitude":6.00165,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Iwrohwaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Iwrohwaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098487
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"abad018b76f08a8d3e9b7c629f65e853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1210055421,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1210055421,
+    "wof:lastmodified":1537675451,
+    "wof:name":"Iwrohwaro",
+    "wof:parent_id":1108564439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00165,
+    5.53382,
+    6.00165,
+    5.53382
+],
+  "geometry": {"coordinates":[6.00165,5.53382],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343290349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.874,9.38705,8.874,9.38705",
+    "geom:latitude":9.38705,
+    "geom:longitude":8.874,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32001.0",
+    "gn:asciiname":"Tenti",
+    "gn:country_code":"NG",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322219,
+    "gn:latitude":9.38705,
+    "gn:longitude":8.874,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Tenti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322219
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f3964b8beb6fc52b82393a622f04949f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563087,
+            "locality_id":1343290349,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1343290349,
+    "wof:lastmodified":1536991084,
+    "wof:name":"Tenti",
+    "wof:parent_id":1108563087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.874,
+    9.38705,
+    8.874,
+    9.38705
+],
+  "geometry": {"coordinates":[8.874,9.38705],"type":"Point"}
+}

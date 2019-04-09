@@ -1,0 +1,72 @@
+{
+  "id": 1276793197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63268,9.65964,8.63268,9.65964",
+    "geom:latitude":9.65964,
+    "geom:longitude":8.63268,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32015.0",
+    "gn:asciiname":"Jal",
+    "gn:country_code":"NG",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336599,
+    "gn:latitude":9.65964,
+    "gn:longitude":8.63268,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garuwa",
+        "Jal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336599
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bd842618fa5fa0a588ee0967a5be9193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564307,
+            "locality_id":1276793197,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1276793197,
+    "wof:lastmodified":1537675169,
+    "wof:name":"Jal",
+    "wof:parent_id":1108564307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63268,
+    9.65964,
+    8.63268,
+    9.65964
+],
+  "geometry": {"coordinates":[8.63268,9.65964],"type":"Point"}
+}

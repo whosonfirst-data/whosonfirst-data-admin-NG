@@ -1,0 +1,74 @@
+{
+  "id": 1309750395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36884,10.35923,13.36884,10.35923",
+    "geom:latitude":10.35923,
+    "geom:longitude":13.36884,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Muchala",
+    "gn:country_code":"NG",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329818,
+    "gn:latitude":10.35923,
+    "gn:longitude":13.36884,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Muchala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muchela",
+        "Mundjera",
+        "Mutschela",
+        "Muchala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329818
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dc99f6ba1e4c49186acedbd7298a5dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":1309750395,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1309750395,
+    "wof:lastmodified":1537675087,
+    "wof:name":"Muchala",
+    "wof:parent_id":1108563997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36884,
+    10.35923,
+    13.36884,
+    10.35923
+],
+  "geometry": {"coordinates":[13.36884,10.35923],"type":"Point"}
+}

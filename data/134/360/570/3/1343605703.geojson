@@ -1,0 +1,68 @@
+{
+  "id": 1343605703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.0401,8.4336,12.0401,8.4336",
+    "geom:latitude":8.4336,
+    "geom:longitude":12.0401,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Sangasumi",
+    "gn:country_code":"NG",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323760,
+    "gn:latitude":8.4336,
+    "gn:longitude":12.0401,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sangasumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323760
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"68a00f033f15eb9bccc0d9e8def46b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563389,
+            "locality_id":1343605703,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343605703,
+    "wof:lastmodified":1537032674,
+    "wof:name":"Sangasumi",
+    "wof:parent_id":1108563389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.0401,
+    8.4336,
+    12.0401,
+    8.4336
+],
+  "geometry": {"coordinates":[12.0401,8.4336],"type":"Point"}
+}

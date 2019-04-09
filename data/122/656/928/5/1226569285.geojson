@@ -1,0 +1,71 @@
+{
+  "id": 1226569285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0462,7.1961,10.0462,7.1961",
+    "geom:latitude":7.1961,
+    "geom:longitude":10.0462,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35013.0",
+    "gn:asciiname":"Lissam",
+    "gn:country_code":"NG",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2335723,
+    "gn:latitude":7.1961,
+    "gn:longitude":10.0462,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lissam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaduna Lissam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335723
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"39f95a3c7b52e1fd88a01346f050a4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564477,
+            "locality_id":1226569285,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226569285,
+    "wof:lastmodified":1537675159,
+    "wof:name":"Lissam",
+    "wof:parent_id":1108564477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0462,
+    7.1961,
+    10.0462,
+    7.1961
+],
+  "geometry": {"coordinates":[10.0462,7.1961],"type":"Point"}
+}

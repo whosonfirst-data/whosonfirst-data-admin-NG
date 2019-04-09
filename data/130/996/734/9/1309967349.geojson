@@ -1,0 +1,72 @@
+{
+  "id": 1309967349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.25836,5.57064,7.25836,5.57064",
+    "geom:latitude":5.57064,
+    "geom:longitude":7.25836,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17002.0",
+    "gn:asciiname":"Oparanadim",
+    "gn:country_code":"NG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325925,
+    "gn:latitude":5.57064,
+    "gn:longitude":7.25836,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oparanadim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oparanadin",
+        "Oparanadim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108562943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325925
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9da752e542c7b0dc0915c929a5f33ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562943,
+            "locality_id":1309967349,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1309967349,
+    "wof:lastmodified":1537675024,
+    "wof:name":"Oparanadim",
+    "wof:parent_id":1108562943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.25836,
+    5.57064,
+    7.25836,
+    5.57064
+],
+  "geometry": {"coordinates":[7.25836,5.57064],"type":"Point"}
+}

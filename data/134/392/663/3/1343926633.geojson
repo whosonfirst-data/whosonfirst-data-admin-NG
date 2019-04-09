@@ -1,0 +1,72 @@
+{
+  "id": 1343926633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3919,4.859,8.3919,4.859",
+    "geom:latitude":4.859,
+    "geom:longitude":8.3919,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9003.0",
+    "gn:asciiname":"Esuk Mbai",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343097,
+    "gn:latitude":4.859,
+    "gn:longitude":8.3919,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Esuk Mbai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esuk Mba",
+        "Esuk Mbai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343097
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e4bc7596e657dbc6d491f5088c33714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562979,
+            "locality_id":1343926633,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343926633,
+    "wof:lastmodified":1537675273,
+    "wof:name":"Esuk Mbai",
+    "wof:parent_id":1108562979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3919,
+    4.859,
+    8.3919,
+    4.859
+],
+  "geometry": {"coordinates":[8.3919,4.859],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310172481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.81121,7.36466,8.81121,7.36466",
+    "geom:latitude":7.36466,
+    "geom:longitude":8.81121,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Iornum",
+    "gn:country_code":"NG",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974255,
+    "gn:latitude":7.36466,
+    "gn:longitude":8.81121,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iornum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974255
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8acb1c25873d1f2b300267487d9a36f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1310172481,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1310172481,
+    "wof:lastmodified":1536900109,
+    "wof:name":"Iornum",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81121,
+    7.36466,
+    8.81121,
+    7.36466
+],
+  "geometry": {"coordinates":[8.81121,7.36466],"type":"Point"}
+}

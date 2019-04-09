@@ -1,0 +1,73 @@
+{
+  "id": 1243123417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.72565,11.73964,3.72565,11.73964",
+    "geom:latitude":11.73964,
+    "geom:longitude":3.72565,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"508.0",
+    "gn:admin3_code":"50809",
+    "gn:asciiname":"Kwakwaba",
+    "gn:country_code":"NG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334143,
+    "gn:latitude":11.73964,
+    "gn:longitude":3.72565,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwakwaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kokoba",
+        "Kwakwaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334143
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e48c8b343ed01d6ffcd29f7581fbde6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563207,
+            "locality_id":1243123417,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1243123417,
+    "wof:lastmodified":1537675137,
+    "wof:name":"Kwakwaba",
+    "wof:parent_id":1108563207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.72565,
+    11.73964,
+    3.72565,
+    11.73964
+],
+  "geometry": {"coordinates":[3.72565,11.73964],"type":"Point"}
+}

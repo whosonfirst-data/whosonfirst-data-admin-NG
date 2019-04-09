@@ -1,0 +1,63 @@
+{
+  "id": 1209037841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.12624,13.07932,5.12624,13.07932",
+    "geom:latitude":13.07932,
+    "geom:longitude":5.12624,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62110",
+    "gn:asciiname":"Gidan-Alkali",
+    "gn:country_code":"NG",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013035,
+    "gn:latitude":13.07932,
+    "gn:longitude":5.12624,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan-Alkali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013035
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"283c431209162780b77bf26caaa7cf10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209037841
+        }
+    ],
+    "wof:id":1209037841,
+    "wof:lastmodified":1536299642,
+    "wof:name":"Gidan-Alkali",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.12624,
+    13.07932,
+    5.12624,
+    13.07932
+],
+  "geometry": {"coordinates":[5.12624,13.07932],"type":"Point"}
+}

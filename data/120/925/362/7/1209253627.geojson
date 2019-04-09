@@ -1,0 +1,65 @@
+{
+  "id": 1209253627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78761,5.72349,5.78761,5.72349",
+    "geom:latitude":5.72349,
+    "geom:longitude":5.78761,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10013.0",
+    "gn:asciiname":"London",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331921,
+    "gn:latitude":5.72349,
+    "gn:longitude":5.78761,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"London",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "London"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331921
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"69d1dd4a4df08cbb101959f2df6a10c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209253627
+        }
+    ],
+    "wof:id":1209253627,
+    "wof:lastmodified":1537675113,
+    "wof:name":"London",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78761,
+    5.72349,
+    5.78761,
+    5.72349
+],
+  "geometry": {"coordinates":[5.78761,5.72349],"type":"Point"}
+}

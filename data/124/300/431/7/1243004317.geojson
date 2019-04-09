@@ -1,0 +1,69 @@
+{
+  "id": 1243004317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.44163,13.19399,5.44163,13.19399",
+    "geom:latitude":13.19399,
+    "geom:longitude":5.44163,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"62203",
+    "gn:asciiname":"Wamachi",
+    "gn:country_code":"NG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012802,
+    "gn:latitude":13.19399,
+    "gn:longitude":5.44163,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wamachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012802
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"246db1b08dc898641d646f3e9af9ffbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564513,
+            "locality_id":1243004317,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1243004317,
+    "wof:lastmodified":1536946450,
+    "wof:name":"Wamachi",
+    "wof:parent_id":1108564513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.44163,
+    13.19399,
+    5.44163,
+    13.19399
+],
+  "geometry": {"coordinates":[5.44163,13.19399],"type":"Point"}
+}

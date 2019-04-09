@@ -1,0 +1,68 @@
+{
+  "id": 1242926867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48754,8.67159,12.48754,8.67159",
+    "geom:latitude":8.67159,
+    "geom:longitude":12.48754,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Jauro Bajam",
+    "gn:country_code":"NG",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10426211,
+    "gn:latitude":8.67159,
+    "gn:longitude":12.48754,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jauro Bajam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10426211
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7c44d172c519f88ba3cfa7f86dfa89af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1242926867,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1242926867,
+    "wof:lastmodified":1537055381,
+    "wof:name":"Jauro Bajam",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48754,
+    8.67159,
+    12.48754,
+    8.67159
+],
+  "geometry": {"coordinates":[12.48754,8.67159],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360031927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52299,11.62701,8.52299,11.62701",
+    "geom:latitude":11.62701,
+    "geom:longitude":8.52299,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20028.0",
+    "gn:admin3_code":"KN0604",
+    "gn:asciiname":"Cirim",
+    "gn:country_code":"NG",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345916,
+    "gn:latitude":11.62701,
+    "gn:longitude":8.52299,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cirim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chirin",
+        "Cirim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345916
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"19bba83dfe4242017749d2fe13497b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563169,
+            "locality_id":1360031927,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1360031927,
+    "wof:lastmodified":1537675314,
+    "wof:name":"Cirim",
+    "wof:parent_id":1108563169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52299,
+    11.62701,
+    8.52299,
+    11.62701
+],
+  "geometry": {"coordinates":[8.52299,11.62701],"type":"Point"}
+}

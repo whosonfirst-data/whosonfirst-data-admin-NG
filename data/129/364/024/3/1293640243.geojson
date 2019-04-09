@@ -1,0 +1,67 @@
+{
+  "id": 1293640243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.42923,10.30586,12.42923,10.30586",
+    "geom:latitude":10.30586,
+    "geom:longitude":12.42923,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kibla",
+    "gn:country_code":"NG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334501,
+    "gn:latitude":10.30586,
+    "gn:longitude":12.42923,
+    "gn:modification_date":"2009-01-15",
+    "gn:name":"Kibla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334501
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ce78777c5c85363e897b4e6c1f699b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1293640243,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293640243,
+    "wof:lastmodified":1537061455,
+    "wof:name":"Kibla",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.42923,
+    10.30586,
+    12.42923,
+    10.30586
+],
+  "geometry": {"coordinates":[12.42923,10.30586],"type":"Point"}
+}

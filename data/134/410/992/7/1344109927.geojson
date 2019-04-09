@@ -1,0 +1,71 @@
+{
+  "id": 1344109927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.92258,5.74164,5.92258,5.74164",
+    "geom:latitude":5.74164,
+    "geom:longitude":5.92258,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10005.0",
+    "gn:asciiname":"John Holt",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027922,
+    "gn:latitude":5.74164,
+    "gn:longitude":5.92258,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"John Holt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "John Holt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027922
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8b65dcc080f896df7e277ec028003204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563333,
+            "locality_id":1344109927,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1344109927,
+    "wof:lastmodified":1537675420,
+    "wof:name":"John Holt",
+    "wof:parent_id":1108563333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.92258,
+    5.74164,
+    5.92258,
+    5.74164
+],
+  "geometry": {"coordinates":[5.92258,5.74164],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293752413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.829,5.6088,8.829,5.6088",
+    "geom:latitude":5.6088,
+    "geom:longitude":8.829,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9002.0",
+    "gn:asciiname":"Okorroba",
+    "gn:country_code":"NG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327018,
+    "gn:latitude":5.6088,
+    "gn:longitude":8.829,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okorroba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okoroba",
+        "Okorroba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327018
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"62419d6dcd4058c5280ee052d180c3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562961,
+            "locality_id":1293752413,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293752413,
+    "wof:lastmodified":1537675038,
+    "wof:name":"Okorroba",
+    "wof:parent_id":1108562961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.829,
+    5.6088,
+    8.829,
+    5.6088
+],
+  "geometry": {"coordinates":[8.829,5.6088],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209972233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64482,11.90518,7.64482,11.90518",
+    "geom:latitude":11.90518,
+    "geom:longitude":7.64482,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"425.0",
+    "gn:admin3_code":"42512",
+    "gn:asciiname":"Gamodawa",
+    "gn:country_code":"NG",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342164,
+    "gn:latitude":11.90518,
+    "gn:longitude":7.64482,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gamodawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342164
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"607ff2f3f853b0bceeb12b8a1c8faa71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563937,
+            "locality_id":1209972233,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1209972233,
+    "wof:lastmodified":1536394514,
+    "wof:name":"Gamodawa",
+    "wof:parent_id":1108563937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64482,
+    11.90518,
+    7.64482,
+    11.90518
+],
+  "geometry": {"coordinates":[7.64482,11.90518],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225813741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.85704,11.33479,7.85704,11.33479",
+    "geom:latitude":11.33479,
+    "geom:longitude":7.85704,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19018.0",
+    "gn:admin3_code":"KD1802",
+    "gn:asciiname":"Ungwan Mallam Bawa",
+    "gn:country_code":"NG",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319874,
+    "gn:latitude":11.33479,
+    "gn:longitude":7.85704,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Mallam Bawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallam Bawa",
+        "Ungwan Mallam Bawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319874
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a28992cc98938083765118cbfe1b0a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563949,
+            "locality_id":1225813741,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1225813741,
+    "wof:lastmodified":1537674926,
+    "wof:name":"Ungwan Mallam Bawa",
+    "wof:parent_id":1108563949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.85704,
+    11.33479,
+    7.85704,
+    11.33479
+],
+  "geometry": {"coordinates":[7.85704,11.33479],"type":"Point"}
+}

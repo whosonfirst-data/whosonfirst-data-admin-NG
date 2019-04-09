@@ -1,0 +1,68 @@
+{
+  "id": 1243232459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.35291,5.05894,8.35291,5.05894",
+    "geom:latitude":5.05894,
+    "geom:longitude":8.35291,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9008.0",
+    "gn:asciiname":"Ikot Omin",
+    "gn:country_code":"NG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337946,
+    "gn:latitude":5.05894,
+    "gn:longitude":8.35291,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Omin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        421204119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337946
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7a05eaa1898ae9b74d65e0c532d1ad4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421204119,
+            "locality_id":1243232459,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1243232459,
+    "wof:lastmodified":1536614779,
+    "wof:name":"Ikot Omin",
+    "wof:parent_id":421204119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.35291,
+    5.05894,
+    8.35291,
+    5.05894
+],
+  "geometry": {"coordinates":[8.35291,5.05894],"type":"Point"}
+}

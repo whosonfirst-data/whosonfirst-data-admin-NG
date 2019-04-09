@@ -1,0 +1,73 @@
+{
+  "id": 1225800651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.03901,13.09104,8.03901,13.09104",
+    "geom:latitude":13.09104,
+    "geom:longitude":8.03901,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"427.0",
+    "gn:admin3_code":"42704",
+    "gn:asciiname":"Babauri",
+    "gn:country_code":"NG",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348458,
+    "gn:latitude":13.09104,
+    "gn:longitude":8.03901,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Babauri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badauri",
+        "Babauri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348458
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ce61eda829dd81051158b9f9215ba552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563959,
+            "locality_id":1225800651,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1225800651,
+    "wof:lastmodified":1537675346,
+    "wof:name":"Babauri",
+    "wof:parent_id":1108563959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.03901,
+    13.09104,
+    8.03901,
+    13.09104
+],
+  "geometry": {"coordinates":[8.03901,13.09104],"type":"Point"}
+}

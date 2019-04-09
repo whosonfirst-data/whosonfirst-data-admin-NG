@@ -1,0 +1,73 @@
+{
+  "id": 1343412403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.23519,12.75271,4.23519,12.75271",
+    "geom:latitude":12.75271,
+    "geom:longitude":4.23519,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50203",
+    "gn:asciiname":"Karamin-Tago",
+    "gn:country_code":"NG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335095,
+    "gn:latitude":12.75271,
+    "gn:longitude":4.23519,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karamin-Tago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tago",
+        "Karamin-Tago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335095
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f182aa511613a0925b592b321432b52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563029,
+            "locality_id":1343412403,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1343412403,
+    "wof:lastmodified":1537675151,
+    "wof:name":"Karamin-Tago",
+    "wof:parent_id":1108563029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.23519,
+    12.75271,
+    4.23519,
+    12.75271
+],
+  "geometry": {"coordinates":[4.23519,12.75271],"type":"Point"}
+}

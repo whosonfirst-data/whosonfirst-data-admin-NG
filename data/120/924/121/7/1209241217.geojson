@@ -1,0 +1,64 @@
+{
+  "id": 1209241217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10473,9.29652,11.10473,9.29652",
+    "geom:latitude":9.29652,
+    "geom:longitude":11.10473,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ungwar Marwa",
+    "gn:country_code":"NG",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307786,
+    "gn:latitude":9.29652,
+    "gn:longitude":11.10473,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ungwar Marwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ungwar Marwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307786
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d7a351de762d1e68a357d8728c43443",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241217
+        }
+    ],
+    "wof:id":1209241217,
+    "wof:lastmodified":1537675524,
+    "wof:name":"Ungwar Marwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10473,
+    9.29652,
+    11.10473,
+    9.29652
+],
+  "geometry": {"coordinates":[11.10473,9.29652],"type":"Point"}
+}

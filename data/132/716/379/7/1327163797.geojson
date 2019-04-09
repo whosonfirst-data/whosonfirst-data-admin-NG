@@ -1,0 +1,74 @@
+{
+  "id": 1327163797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.47938,9.38509,11.47938,9.38509",
+    "geom:latitude":9.38509,
+    "geom:longitude":11.47938,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Jen Kaigama",
+    "gn:country_code":"NG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336189,
+    "gn:latitude":9.38509,
+    "gn:longitude":11.47938,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Jen Kaigama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jen Kaigama"
+    ],
+    "name:und_x_variant":[
+        "Jen Kaigamma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336189
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0c9c244ddfb6e8f3b8829a001ec530d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1327163797,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1327163797,
+    "wof:lastmodified":1537675165,
+    "wof:name":"Jen Kaigama",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.47938,
+    9.38509,
+    11.47938,
+    9.38509
+],
+  "geometry": {"coordinates":[11.47938,9.38509],"type":"Point"}
+}

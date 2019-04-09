@@ -1,0 +1,68 @@
+{
+  "id": 1310627419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.16793,6.69749,8.16793,6.69749",
+    "geom:latitude":6.69749,
+    "geom:longitude":8.16793,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11004.0",
+    "gn:asciiname":"Okirigwe",
+    "gn:country_code":"NG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327131,
+    "gn:latitude":6.69749,
+    "gn:longitude":8.16793,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okirigwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327131
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d90f02b3baa4f092ef8c5563a4ad4c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563257,
+            "locality_id":1310627419,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1310627419,
+    "wof:lastmodified":1536741016,
+    "wof:name":"Okirigwe",
+    "wof:parent_id":1108563257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.16793,
+    6.69749,
+    8.16793,
+    6.69749
+],
+  "geometry": {"coordinates":[8.16793,6.69749],"type":"Point"}
+}

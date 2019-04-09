@@ -1,0 +1,63 @@
+{
+  "id": 1209673543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35,10.65,6.35,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":6.35,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19001.0",
+    "gn:admin3_code":"KD0102",
+    "gn:asciiname":"Ukinkina",
+    "gn:country_code":"NG",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320731,
+    "gn:latitude":10.65,
+    "gn:longitude":6.35,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ukinkina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320731
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a6b3f16f7da89c424902d8e0558a02df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209673543
+        }
+    ],
+    "wof:id":1209673543,
+    "wof:lastmodified":1536279835,
+    "wof:name":"Ukinkina",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35,
+    10.65,
+    6.35,
+    10.65
+],
+  "geometry": {"coordinates":[6.35,10.65],"type":"Point"}
+}

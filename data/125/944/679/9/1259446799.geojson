@@ -1,0 +1,68 @@
+{
+  "id": 1259446799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33333,6.96264,3.33333,6.96264",
+    "geom:latitude":6.96264,
+    "geom:longitude":3.33333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Ajegunle",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351420,
+    "gn:latitude":6.96264,
+    "gn:longitude":3.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ajegunle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        421188931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351420
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"307c1fe6855957664db94d64feb0dbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188931,
+            "locality_id":1259446799,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1259446799,
+    "wof:lastmodified":1536912042,
+    "wof:name":"Ajegunle",
+    "wof:parent_id":421188931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33333,
+    6.96264,
+    3.33333,
+    6.96264
+],
+  "geometry": {"coordinates":[3.33333,6.96264],"type":"Point"}
+}

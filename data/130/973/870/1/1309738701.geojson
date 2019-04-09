@@ -1,0 +1,68 @@
+{
+  "id": 1309738701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.68759,8.7898,9.68759,8.7898",
+    "geom:latitude":8.7898,
+    "geom:longitude":9.68759,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Badakoshi Kangwa",
+    "gn:country_code":"NG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10923403,
+    "gn:latitude":8.7898,
+    "gn:longitude":9.68759,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Badakoshi Kangwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10923403
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a521c291775b422db6cef5ad87486374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1309738701,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1309738701,
+    "wof:lastmodified":1537026757,
+    "wof:name":"Badakoshi Kangwa",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.68759,
+    8.7898,
+    9.68759,
+    8.7898
+],
+  "geometry": {"coordinates":[9.68759,8.7898],"type":"Point"}
+}

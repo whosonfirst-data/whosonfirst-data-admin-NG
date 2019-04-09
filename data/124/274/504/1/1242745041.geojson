@@ -1,0 +1,72 @@
+{
+  "id": 1242745041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.07227,7.53914,8.07227,7.53914",
+    "geom:latitude":7.53914,
+    "geom:longitude":8.07227,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7019.0",
+    "gn:asciiname":"Zanko",
+    "gn:country_code":"NG",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317800,
+    "gn:latitude":7.53914,
+    "gn:longitude":8.07227,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zanko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zauku",
+        "Zanko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317800
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7d6eeaec8ce85d59328a4f0781516ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564239,
+            "locality_id":1242745041,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1242745041,
+    "wof:lastmodified":1537674899,
+    "wof:name":"Zanko",
+    "wof:parent_id":1108564239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.07227,
+    7.53914,
+    8.07227,
+    7.53914
+],
+  "geometry": {"coordinates":[8.07227,7.53914],"type":"Point"}
+}

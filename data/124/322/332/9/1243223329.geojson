@@ -1,0 +1,68 @@
+{
+  "id": 1243223329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.08333,8.06667,4.08333,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":4.08333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31028.0",
+    "gn:asciiname":"Ekun",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343616,
+    "gn:latitude":8.06667,
+    "gn:longitude":4.08333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343616
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1a41b3eadc4927785503c473fc4fbca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564205,
+            "locality_id":1243223329,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1243223329,
+    "wof:lastmodified":1536628583,
+    "wof:name":"Ekun",
+    "wof:parent_id":1108564205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08333,
+    8.06667,
+    4.08333,
+    8.06667
+],
+  "geometry": {"coordinates":[4.08333,8.06667],"type":"Point"}
+}

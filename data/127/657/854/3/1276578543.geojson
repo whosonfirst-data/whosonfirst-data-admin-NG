@@ -1,0 +1,69 @@
+{
+  "id": 1276578543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.66032,12.80551,10.66032,12.80551",
+    "geom:latitude":12.80551,
+    "geom:longitude":10.66032,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"701.0",
+    "gn:admin3_code":"70110",
+    "gn:asciiname":"Tagama",
+    "gn:country_code":"NG",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322634,
+    "gn:latitude":12.80551,
+    "gn:longitude":10.66032,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tagama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322634
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c5221ad441e64cf09d1a7af53302b01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563067,
+            "locality_id":1276578543,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1276578543,
+    "wof:lastmodified":1536948203,
+    "wof:name":"Tagama",
+    "wof:parent_id":1108563067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.66032,
+    12.80551,
+    10.66032,
+    12.80551
+],
+  "geometry": {"coordinates":[10.66032,12.80551],"type":"Point"}
+}

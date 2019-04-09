@@ -1,0 +1,73 @@
+{
+  "id": 1293260721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2653,10.23729,8.2653,10.23729",
+    "geom:latitude":10.23729,
+    "geom:longitude":8.2653,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19014.0",
+    "gn:admin3_code":"KD1402",
+    "gn:asciiname":"Kinono",
+    "gn:country_code":"NG",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334397,
+    "gn:latitude":10.23729,
+    "gn:longitude":8.2653,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kinono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinona",
+        "Kinono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334397
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"89030794ef928071dc65a33b3e024a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563757,
+            "locality_id":1293260721,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1293260721,
+    "wof:lastmodified":1537675141,
+    "wof:name":"Kinono",
+    "wof:parent_id":1108563757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2653,
+    10.23729,
+    8.2653,
+    10.23729
+],
+  "geometry": {"coordinates":[8.2653,10.23729],"type":"Point"}
+}

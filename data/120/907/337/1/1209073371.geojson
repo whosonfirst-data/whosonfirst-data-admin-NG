@@ -1,0 +1,62 @@
+{
+  "id": 1209073371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.44061,7.65334,9.44061,7.65334",
+    "geom:latitude":7.65334,
+    "geom:longitude":9.44061,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Awaga",
+    "gn:country_code":"NG",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9526533,
+    "gn:latitude":7.65334,
+    "gn:longitude":9.44061,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9526533
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cb92416dfd4f84e6980054a254c16434",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209073371
+        }
+    ],
+    "wof:id":1209073371,
+    "wof:lastmodified":1536298575,
+    "wof:name":"Awaga",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.44061,
+    7.653339999999999,
+    9.44061,
+    7.653339999999999
+],
+  "geometry": {"coordinates":[9.44061,7.65334],"type":"Point"}
+}

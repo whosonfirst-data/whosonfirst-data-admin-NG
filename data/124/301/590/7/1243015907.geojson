@@ -1,0 +1,68 @@
+{
+  "id": 1243015907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47286,7.4311,9.47286,7.4311",
+    "geom:latitude":7.4311,
+    "geom:longitude":9.47286,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Lough",
+    "gn:country_code":"NG",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637075,
+    "gn:latitude":7.4311,
+    "gn:longitude":9.47286,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lough",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637075
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"acd81a477ac698cbebe65ab3407b693d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1243015907,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243015907,
+    "wof:lastmodified":1536929916,
+    "wof:name":"Lough",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47286,
+    7.4311,
+    9.47286,
+    7.4311
+],
+  "geometry": {"coordinates":[9.47286,7.4311],"type":"Point"}
+}

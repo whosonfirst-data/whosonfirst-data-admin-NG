@@ -1,0 +1,62 @@
+{
+  "id": 1209138973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.92107,6.33923,4.92107,6.33923",
+    "geom:latitude":6.33923,
+    "geom:longitude":4.92107,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29007.0",
+    "gn:asciiname":"Kiribo",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334354,
+    "gn:latitude":6.33923,
+    "gn:longitude":4.92107,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kiribo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334354
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"83296a8962c45a670ea539cd2e703ecf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138973
+        }
+    ],
+    "wof:id":1209138973,
+    "wof:lastmodified":1536296567,
+    "wof:name":"Kiribo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9210699999999985,
+    6.3392300000000015,
+    4.9210699999999985,
+    6.3392300000000015
+],
+  "geometry": {"coordinates":[4.92107,6.33923],"type":"Point"}
+}

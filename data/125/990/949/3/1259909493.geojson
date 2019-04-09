@@ -1,0 +1,73 @@
+{
+  "id": 1259909493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51067,6.10927,7.51067,6.10927",
+    "geom:latitude":6.10927,
+    "geom:longitude":7.51067,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14002.0",
+    "gn:asciiname":"Mgbowo",
+    "gn:country_code":"NG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330170,
+    "gn:latitude":6.10927,
+    "gn:longitude":7.51067,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mgbowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mgboo",
+        "Mgbo",
+        "Mgbowo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330170
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c23cd508a3ebfebdcbb08aaed9e263d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563055,
+            "locality_id":1259909493,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1259909493,
+    "wof:lastmodified":1537675092,
+    "wof:name":"Mgbowo",
+    "wof:parent_id":1108563055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51067,
+    6.10927,
+    7.51067,
+    6.10927
+],
+  "geometry": {"coordinates":[7.51067,6.10927],"type":"Point"}
+}

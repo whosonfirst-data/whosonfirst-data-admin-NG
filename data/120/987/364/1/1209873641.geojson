@@ -1,0 +1,69 @@
+{
+  "id": 1209873641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52112,11.94419,7.52112,11.94419",
+    "geom:latitude":11.94419,
+    "geom:longitude":7.52112,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"419.0",
+    "gn:admin3_code":"41901",
+    "gn:asciiname":"Rama",
+    "gn:country_code":"NG",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324605,
+    "gn:latitude":11.94419,
+    "gn:longitude":7.52112,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108564001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324605
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"30fbf0d856d3ecca80a9f381d59ce1a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564001,
+            "locality_id":1209873641,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1209873641,
+    "wof:lastmodified":1536370923,
+    "wof:name":"Rama",
+    "wof:parent_id":1108564001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52112,
+    11.94419,
+    7.52112,
+    11.94419
+],
+  "geometry": {"coordinates":[7.52112,11.94419],"type":"Point"}
+}

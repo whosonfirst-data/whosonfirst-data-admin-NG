@@ -1,0 +1,69 @@
+{
+  "id": 1276515435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.37408,11.43783,7.37408,11.43783",
+    "geom:latitude":11.43783,
+    "geom:longitude":7.37408,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"414.0",
+    "gn:admin3_code":"41405",
+    "gn:asciiname":"Goya",
+    "gn:country_code":"NG",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019515,
+    "gn:latitude":11.43783,
+    "gn:longitude":7.37408,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Goya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019515
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ac14c4a897c5af04047135345317926f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563213,
+            "locality_id":1276515435,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1276515435,
+    "wof:lastmodified":1537030789,
+    "wof:name":"Goya",
+    "wof:parent_id":1108563213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.37408,
+    11.43783,
+    7.37408,
+    11.43783
+],
+  "geometry": {"coordinates":[7.37408,11.43783],"type":"Point"}
+}

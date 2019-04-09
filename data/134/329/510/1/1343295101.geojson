@@ -1,0 +1,72 @@
+{
+  "id": 1343295101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.63782,5.05857,6.63782,5.05857",
+    "geom:latitude":5.05857,
+    "geom:longitude":6.63782,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33002.0",
+    "gn:asciiname":"Uduogba",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320953,
+    "gn:latitude":5.05857,
+    "gn:longitude":6.63782,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uduogba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uduagba",
+        "Uduogba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320953
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dea09313dc2c05f82c75dcd1e4049c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562945,
+            "locality_id":1343295101,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343295101,
+    "wof:lastmodified":1537674959,
+    "wof:name":"Uduogba",
+    "wof:parent_id":1108562945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.63782,
+    5.05857,
+    6.63782,
+    5.05857
+],
+  "geometry": {"coordinates":[6.63782,5.05857],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293422773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.26285,10.07236,10.26285,10.07236",
+    "geom:latitude":10.07236,
+    "geom:longitude":10.26285,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5001.0",
+    "gn:admin3_code":"BA0103",
+    "gn:asciiname":"Gar",
+    "gn:country_code":"NG",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341941,
+    "gn:latitude":10.07236,
+    "gn:longitude":10.26285,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gar"
+    ],
+    "name:eng_x_variant":[
+        "Gar Kangere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341941
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"89de1e7d8720e155825e12172d6e6fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563101,
+            "locality_id":1293422773,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1293422773,
+    "wof:lastmodified":1537675257,
+    "wof:name":"Gar",
+    "wof:parent_id":1108563101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26285,
+    10.07236,
+    10.26285,
+    10.07236
+],
+  "geometry": {"coordinates":[10.26285,10.07236],"type":"Point"}
+}

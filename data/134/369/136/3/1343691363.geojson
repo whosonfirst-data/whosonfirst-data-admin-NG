@@ -1,0 +1,68 @@
+{
+  "id": 1343691363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.25,7.26667,4.25,7.26667",
+    "geom:latitude":7.26667,
+    "geom:longitude":4.25,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30001.0",
+    "gn:asciiname":"Lagbada",
+    "gn:country_code":"NG",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332471,
+    "gn:latitude":7.26667,
+    "gn:longitude":4.25,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lagbada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108562951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332471
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"99cc3c613b6ba1487e4bbb79e501bd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562951,
+            "locality_id":1343691363,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1343691363,
+    "wof:lastmodified":1536910996,
+    "wof:name":"Lagbada",
+    "wof:parent_id":1108562951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.25,
+    7.26667,
+    4.25,
+    7.26667
+],
+  "geometry": {"coordinates":[4.25,7.26667],"type":"Point"}
+}

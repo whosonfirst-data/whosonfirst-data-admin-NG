@@ -1,0 +1,70 @@
+{
+  "id": 1276793337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.09564,11.23367,11.09564,11.23367",
+    "geom:latitude":11.23367,
+    "geom:longitude":11.09564,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Lompo",
+    "gn:country_code":"NG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345792,
+    "gn:latitude":11.23367,
+    "gn:longitude":11.09564,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Lompo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dadin Kowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345792
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad3e6baf4ff16ee757dd691fa04c7c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564005,
+            "locality_id":1276793337,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1276793337,
+    "wof:lastmodified":1537675312,
+    "wof:name":"Lompo",
+    "wof:parent_id":1108564005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.09564,
+    11.23367,
+    11.09564,
+    11.23367
+],
+  "geometry": {"coordinates":[11.09564,11.23367],"type":"Point"}
+}

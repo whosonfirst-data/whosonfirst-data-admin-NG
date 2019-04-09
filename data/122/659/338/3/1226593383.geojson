@@ -1,0 +1,68 @@
+{
+  "id": 1226593383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75,8.96667,4.75,8.96667",
+    "geom:latitude":8.96667,
+    "geom:longitude":4.75,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Lasaki",
+    "gn:country_code":"NG",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332222,
+    "gn:latitude":8.96667,
+    "gn:longitude":4.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lasaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332222
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9312e34181653445d9e61701661f7de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563995,
+            "locality_id":1226593383,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1226593383,
+    "wof:lastmodified":1536932884,
+    "wof:name":"Lasaki",
+    "wof:parent_id":1108563995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75,
+    8.96667,
+    4.75,
+    8.96667
+],
+  "geometry": {"coordinates":[4.75,8.96667],"type":"Point"}
+}

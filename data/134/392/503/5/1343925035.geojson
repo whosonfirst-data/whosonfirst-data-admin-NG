@@ -1,0 +1,68 @@
+{
+  "id": 1343925035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55597,7.23654,8.55597,7.23654",
+    "geom:latitude":7.23654,
+    "geom:longitude":8.55597,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Alakalh",
+    "gn:country_code":"NG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350632,
+    "gn:latitude":7.23654,
+    "gn:longitude":8.55597,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alakalh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350632
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3cf37e0d5bd6dd3f8561d3b03bb5f4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1343925035,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343925035,
+    "wof:lastmodified":1537068234,
+    "wof:name":"Alakalh",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55597,
+    7.23654,
+    8.55597,
+    7.23654
+],
+  "geometry": {"coordinates":[8.55597,7.23654],"type":"Point"}
+}

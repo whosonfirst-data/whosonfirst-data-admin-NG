@@ -1,0 +1,68 @@
+{
+  "id": 1310529919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43061,5.41368,7.43061,5.41368",
+    "geom:latitude":5.41368,
+    "geom:longitude":7.43061,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Oburuke",
+    "gn:country_code":"NG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073323,
+    "gn:latitude":5.41368,
+    "gn:longitude":7.43061,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oburuke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108563679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073323
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"764a28d27ad170eb563b17f63ffbad11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563679,
+            "locality_id":1310529919,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1310529919,
+    "wof:lastmodified":1536881077,
+    "wof:name":"Oburuke",
+    "wof:parent_id":1108563679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43061,
+    5.41368,
+    7.43061,
+    5.41368
+],
+  "geometry": {"coordinates":[7.43061,5.41368],"type":"Point"}
+}

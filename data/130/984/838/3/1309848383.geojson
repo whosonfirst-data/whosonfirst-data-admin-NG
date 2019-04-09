@@ -1,0 +1,74 @@
+{
+  "id": 1309848383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.70222,12.43036,3.70222,12.43036",
+    "geom:latitude":12.43036,
+    "geom:longitude":3.70222,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50207",
+    "gn:asciiname":"Birnin Debi",
+    "gn:country_code":"NG",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347065,
+    "gn:latitude":12.43036,
+    "gn:longitude":3.70222,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birnin Debi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birri Debi",
+        "Debbe",
+        "Birnin Debi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347065
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f2994c4a020eb791cd316cf4c35650c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563027,
+            "locality_id":1309848383,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1309848383,
+    "wof:lastmodified":1537675329,
+    "wof:name":"Birnin Debi",
+    "wof:parent_id":1108563027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.70222,
+    12.43036,
+    3.70222,
+    12.43036
+],
+  "geometry": {"coordinates":[3.70222,12.43036],"type":"Point"}
+}

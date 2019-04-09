@@ -1,0 +1,75 @@
+{
+  "id": 1276368185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.78283,12.51672,8.78283,12.51672",
+    "geom:latitude":12.51672,
+    "geom:longitude":8.78283,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0205",
+    "gn:asciiname":"Kaffin Rabo",
+    "gn:country_code":"NG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320218,
+    "gn:latitude":12.51672,
+    "gn:longitude":8.78283,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaffin Rabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyambo",
+        "Ungwan Kyambo",
+        "Unguwar Kyambo",
+        "Kaffin Rabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320218
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"527ddc8a99d6337926e8d6652ee3971f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1276368185,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1276368185,
+    "wof:lastmodified":1537674941,
+    "wof:name":"Kaffin Rabo",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.78283,
+    12.51672,
+    8.78283,
+    12.51672
+],
+  "geometry": {"coordinates":[8.78283,12.51672],"type":"Point"}
+}

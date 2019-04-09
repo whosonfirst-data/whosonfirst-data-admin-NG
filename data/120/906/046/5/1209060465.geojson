@@ -1,0 +1,63 @@
+{
+  "id": 1209060465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.4197,10.4884,12.4197,10.4884",
+    "geom:latitude":10.4884,
+    "geom:longitude":12.4197,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11206",
+    "gn:asciiname":"Tashon Alade",
+    "gn:country_code":"NG",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322337,
+    "gn:latitude":10.4884,
+    "gn:longitude":12.4197,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tashon Alade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322337
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e27e8f3f6069a62893551698f93ce71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209060465
+        }
+    ],
+    "wof:id":1209060465,
+    "wof:lastmodified":1536298972,
+    "wof:name":"Tashon Alade",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4197,
+    10.4884,
+    12.4197,
+    10.4884
+],
+  "geometry": {"coordinates":[12.4197,10.4884],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209342881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98881,9.57835,8.98881,9.57835",
+    "geom:latitude":9.57835,
+    "geom:longitude":8.98881,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32001.0",
+    "gn:asciiname":"Barakin Nafam Dregi",
+    "gn:country_code":"NG",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347708,
+    "gn:latitude":9.57835,
+    "gn:longitude":8.98881,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barakin Nafam Dregi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347708
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3434ea20b26912b7cded24bd903befaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342881
+        }
+    ],
+    "wof:id":1209342881,
+    "wof:lastmodified":1536290007,
+    "wof:name":"Barakin Nafam Dregi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98881,
+    9.57835,
+    8.98881,
+    9.57835
+],
+  "geometry": {"coordinates":[8.98881,9.57835],"type":"Point"}
+}

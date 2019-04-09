@@ -1,0 +1,73 @@
+{
+  "id": 1226506201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.32922,6.7421,3.32922,6.7421",
+    "geom:latitude":6.7421,
+    "geom:longitude":3.32922,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28007.0",
+    "gn:asciiname":"Orudu-Olokan",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325653,
+    "gn:latitude":6.7421,
+    "gn:longitude":3.32922,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orudu-Olokan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orudu",
+        "Ordu-Olokan",
+        "Orudu-Olokan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325653
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf250c2b35ae49803e66555fea2ccbbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563549,
+            "locality_id":1226506201,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1226506201,
+    "wof:lastmodified":1537675019,
+    "wof:name":"Orudu-Olokan",
+    "wof:parent_id":1108563549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.32922,
+    6.7421,
+    3.32922,
+    6.7421
+],
+  "geometry": {"coordinates":[3.32922,6.7421],"type":"Point"}
+}

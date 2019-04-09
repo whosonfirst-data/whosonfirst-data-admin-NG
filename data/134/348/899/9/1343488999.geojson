@@ -1,0 +1,68 @@
+{
+  "id": 1343488999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92516,9.68428,6.92516,9.68428",
+    "geom:latitude":9.68428,
+    "geom:longitude":6.92516,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018.0",
+    "gn:asciiname":"Tungan Sawadna",
+    "gn:country_code":"NG",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321260,
+    "gn:latitude":9.68428,
+    "gn:longitude":6.92516,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tungan Sawadna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321260
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3dfc90adff9d9af28f9f63ee0a802d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564003,
+            "locality_id":1343488999,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343488999,
+    "wof:lastmodified":1536705407,
+    "wof:name":"Tungan Sawadna",
+    "wof:parent_id":1108564003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92516,
+    9.68428,
+    6.92516,
+    9.68428
+],
+  "geometry": {"coordinates":[6.92516,9.68428],"type":"Point"}
+}

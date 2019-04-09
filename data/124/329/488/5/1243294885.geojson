@@ -1,0 +1,72 @@
+{
+  "id": 1243294885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.60723,10.86529,10.60723,10.86529",
+    "geom:latitude":10.86529,
+    "geom:longitude":10.60723,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5005.0",
+    "gn:admin3_code":"BA0508",
+    "gn:asciiname":"Shuwari",
+    "gn:country_code":"NG",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323049,
+    "gn:latitude":10.86529,
+    "gn:longitude":10.60723,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shuwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shuwari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323049
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"554701b67f6334740b64459c60906cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1243294885,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1243294885,
+    "wof:lastmodified":1537674985,
+    "wof:name":"Shuwari",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.60723,
+    10.86529,
+    10.60723,
+    10.86529
+],
+  "geometry": {"coordinates":[10.60723,10.86529],"type":"Point"}
+}

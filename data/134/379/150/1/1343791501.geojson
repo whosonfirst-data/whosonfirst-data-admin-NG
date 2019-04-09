@@ -1,0 +1,73 @@
+{
+  "id": 1343791501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.309,13.5695,6.309,13.5695",
+    "geom:latitude":13.5695,
+    "geom:longitude":6.309,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"613.0",
+    "gn:admin3_code":"61307",
+    "gn:asciiname":"Magagindok",
+    "gn:country_code":"NG",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331601,
+    "gn:latitude":13.5695,
+    "gn:longitude":6.309,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Magagindok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magagindoke",
+        "Magagindok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331601
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02f7c121f5287e464e71e81fadaf6410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564313,
+            "locality_id":1343791501,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1343791501,
+    "wof:lastmodified":1537675109,
+    "wof:name":"Magagindok",
+    "wof:parent_id":1108564313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.309,
+    13.5695,
+    6.309,
+    13.5695
+],
+  "geometry": {"coordinates":[6.309,13.5695],"type":"Point"}
+}

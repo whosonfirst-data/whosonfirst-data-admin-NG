@@ -1,0 +1,62 @@
+{
+  "id": 1209138985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.37543,6.37108,8.37543,6.37108",
+    "geom:latitude":6.37108,
+    "geom:longitude":8.37543,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010.0",
+    "gn:asciiname":"Ndenwenyi",
+    "gn:country_code":"NG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914616,
+    "gn:latitude":6.37108,
+    "gn:longitude":8.37543,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndenwenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914616
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7ec64e6bef8723ed3ab682615f467517",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138985
+        }
+    ],
+    "wof:id":1209138985,
+    "wof:lastmodified":1536296567,
+    "wof:name":"Ndenwenyi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.37543,
+    6.37108,
+    8.37543,
+    6.37108
+],
+  "geometry": {"coordinates":[8.37543,6.37108],"type":"Point"}
+}

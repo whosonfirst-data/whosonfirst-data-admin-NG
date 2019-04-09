@@ -1,0 +1,71 @@
+{
+  "id": 1293736821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78968,5.50718,5.78968,5.50718",
+    "geom:latitude":5.50718,
+    "geom:longitude":5.78968,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10018.0",
+    "gn:asciiname":"Ohwase",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028065,
+    "gn:latitude":5.50718,
+    "gn:longitude":5.78968,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ohwase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ohwase"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028065
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c2c56b8c13a78b607e8774a90ac6e342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564435,
+            "locality_id":1293736821,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293736821,
+    "wof:lastmodified":1537675425,
+    "wof:name":"Ohwase",
+    "wof:parent_id":1108564435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78968,
+    5.50718,
+    5.78968,
+    5.50718
+],
+  "geometry": {"coordinates":[5.78968,5.50718],"type":"Point"}
+}

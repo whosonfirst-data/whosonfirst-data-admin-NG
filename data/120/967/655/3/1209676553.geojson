@@ -1,0 +1,63 @@
+{
+  "id": 1209676553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11667,11.38333,9.11667,11.38333",
+    "geom:latitude":11.38333,
+    "geom:longitude":9.11667,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20002.0",
+    "gn:admin3_code":"KN3701",
+    "gn:asciiname":"Kayarda",
+    "gn:country_code":"NG",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334693,
+    "gn:latitude":11.38333,
+    "gn:longitude":9.11667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kayarda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334693
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0706e71feec88ba941f5d78f0b2733f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209676553
+        }
+    ],
+    "wof:id":1209676553,
+    "wof:lastmodified":1536279731,
+    "wof:name":"Kayarda",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11667,
+    11.38333,
+    9.11667,
+    11.38333
+],
+  "geometry": {"coordinates":[9.11667,11.38333],"type":"Point"}
+}

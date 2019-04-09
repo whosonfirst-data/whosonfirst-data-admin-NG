@@ -1,0 +1,68 @@
+{
+  "id": 1326562917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.73234,6.74142,7.73234,6.74142",
+    "geom:latitude":6.74142,
+    "geom:longitude":7.73234,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14010.0",
+    "gn:asciiname":"Isu",
+    "gn:country_code":"NG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337100,
+    "gn:latitude":6.74142,
+    "gn:longitude":7.73234,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337100
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7a40f0b3fc8d9b55bf0d796b288b543a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563673,
+            "locality_id":1326562917,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1326562917,
+    "wof:lastmodified":1536940480,
+    "wof:name":"Isu",
+    "wof:parent_id":1108563673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.73234,
+    6.74142,
+    7.73234,
+    6.74142
+],
+  "geometry": {"coordinates":[7.73234,6.74142],"type":"Point"}
+}

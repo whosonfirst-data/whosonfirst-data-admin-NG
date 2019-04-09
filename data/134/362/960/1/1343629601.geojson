@@ -1,0 +1,67 @@
+{
+  "id": 1343629601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8361,12.66609,8.8361,12.66609",
+    "geom:latitude":12.66609,
+    "geom:longitude":8.8361,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Gidan Ganta",
+    "gn:country_code":"NG",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6973998,
+    "gn:latitude":12.66609,
+    "gn:longitude":8.8361,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gidan Ganta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6973998
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"28e8393f19f030e5ff25062b093efdfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1343629601,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1343629601,
+    "wof:lastmodified":1536998897,
+    "wof:name":"Gidan Ganta",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8361,
+    12.66609,
+    8.8361,
+    12.66609
+],
+  "geometry": {"coordinates":[8.8361,12.66609],"type":"Point"}
+}

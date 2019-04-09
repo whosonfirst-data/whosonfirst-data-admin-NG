@@ -1,0 +1,71 @@
+{
+  "id": 1343896907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.36378,6.80199,6.36378,6.80199",
+    "geom:latitude":6.80199,
+    "geom:longitude":6.36378,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12004.0",
+    "gn:asciiname":"Afuda",
+    "gn:country_code":"NG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352207,
+    "gn:latitude":6.80199,
+    "gn:longitude":6.36378,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Afuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Afuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352207
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8810424025241f58f2df5ee4dd3ad4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563315,
+            "locality_id":1343896907,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343896907,
+    "wof:lastmodified":1537675389,
+    "wof:name":"Afuda",
+    "wof:parent_id":1108563315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.36378,
+    6.80199,
+    6.36378,
+    6.80199
+],
+  "geometry": {"coordinates":[6.36378,6.80199],"type":"Point"}
+}

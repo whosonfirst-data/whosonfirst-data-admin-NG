@@ -1,0 +1,62 @@
+{
+  "id": 1209644837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03333,10.55,5.03333,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":5.03333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27014.0",
+    "gn:asciiname":"Gengi",
+    "gn:country_code":"NG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341269,
+    "gn:latitude":10.55,
+    "gn:longitude":5.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gengi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341269
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3a17177e6aea8ef9ae9c4000662e22bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644837
+        }
+    ],
+    "wof:id":1209644837,
+    "wof:lastmodified":1536280769,
+    "wof:name":"Gengi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03333,
+    10.55,
+    5.03333,
+    10.55
+],
+  "geometry": {"coordinates":[5.03333,10.55],"type":"Point"}
+}

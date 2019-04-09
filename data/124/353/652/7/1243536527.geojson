@@ -1,0 +1,68 @@
+{
+  "id": 1243536527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.75,7.05,2.75,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":2.75,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28004.0",
+    "gn:asciiname":"Owode",
+    "gn:country_code":"NG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325306,
+    "gn:latitude":7.05,
+    "gn:longitude":2.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Owode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821,
+        1108758855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325306
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"604cc579c64877ca15a84dd504dd82dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758855,
+            "locality_id":1243536527,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1243536527,
+    "wof:lastmodified":1536675731,
+    "wof:name":"Owode",
+    "wof:parent_id":1108758855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.75,
+    7.05,
+    2.75,
+    7.05
+],
+  "geometry": {"coordinates":[2.75,7.05],"type":"Point"}
+}

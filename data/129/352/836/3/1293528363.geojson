@@ -1,0 +1,71 @@
+{
+  "id": 1293528363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20624,5.46186,6.20624,5.46186",
+    "geom:latitude":5.46186,
+    "geom:longitude":6.20624,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10010.0",
+    "gn:asciiname":"Oleh",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2326727,
+    "gn:latitude":5.46186,
+    "gn:longitude":6.20624,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oleh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326727
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f1ccde20ca6443958e5718a44c5a283d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563689,
+            "locality_id":1293528363,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293528363,
+    "wof:lastmodified":1537675031,
+    "wof:name":"Oleh",
+    "wof:parent_id":1108563689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20624,
+    5.46186,
+    6.20624,
+    5.46186
+],
+  "geometry": {"coordinates":[6.20624,5.46186],"type":"Point"}
+}

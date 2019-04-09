@@ -1,0 +1,68 @@
+{
+  "id": 1310035223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7798,9.17305,6.7798,9.17305",
+    "geom:latitude":9.17305,
+    "geom:longitude":6.7798,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27009.0",
+    "gn:asciiname":"Kudan",
+    "gn:country_code":"NG",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333694,
+    "gn:latitude":9.17305,
+    "gn:longitude":6.7798,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kudan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        421182813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333694
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"00bd78046a24b20e575434293f7750a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421182813,
+            "locality_id":1310035223,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310035223,
+    "wof:lastmodified":1537094749,
+    "wof:name":"Kudan",
+    "wof:parent_id":421182813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7798,
+    9.17305,
+    6.7798,
+    9.17305
+],
+  "geometry": {"coordinates":[6.7798,9.17305],"type":"Point"}
+}

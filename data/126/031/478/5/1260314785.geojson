@@ -1,0 +1,71 @@
+{
+  "id": 1260314785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0411,6.02595,8.0411,6.02595",
+    "geom:latitude":6.02595,
+    "geom:longitude":8.0411,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007.0",
+    "gn:asciiname":"Igberi",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338777,
+    "gn:latitude":6.02595,
+    "gn:longitude":8.0411,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igberi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igbere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338777
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0b0816dc2760330cff60f4ce2c9e4748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1260314785,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1260314785,
+    "wof:lastmodified":1537675204,
+    "wof:name":"Igberi",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0411,
+    6.02595,
+    8.0411,
+    6.02595
+],
+  "geometry": {"coordinates":[8.0411,6.02595],"type":"Point"}
+}

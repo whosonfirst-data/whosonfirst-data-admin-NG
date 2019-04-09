@@ -1,0 +1,68 @@
+{
+  "id": 1309951561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3,8.81667,4.3,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":4.3,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Agbaku",
+    "gn:country_code":"NG",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352088,
+    "gn:latitude":8.81667,
+    "gn:longitude":4.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agbaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352088
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b42ed7d6fa013a6ce7f4c4eb4dddaf90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563995,
+            "locality_id":1309951561,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1309951561,
+    "wof:lastmodified":1536721492,
+    "wof:name":"Agbaku",
+    "wof:parent_id":1108563995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3,
+    8.81667,
+    4.3,
+    8.81667
+],
+  "geometry": {"coordinates":[4.3,8.81667],"type":"Point"}
+}

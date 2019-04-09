@@ -1,0 +1,69 @@
+{
+  "id": 1293921911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.65612,11.55592,4.65612,11.55592",
+    "geom:latitude":11.55592,
+    "geom:longitude":4.65612,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50907",
+    "gn:asciiname":"Gidan Jero",
+    "gn:country_code":"NG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020428,
+    "gn:latitude":11.55592,
+    "gn:longitude":4.65612,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Jero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020428
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"84560f6f3e7585f197fb3ee5f186799f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563365,
+            "locality_id":1293921911,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1293921911,
+    "wof:lastmodified":1536658053,
+    "wof:name":"Gidan Jero",
+    "wof:parent_id":1108563365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.65612,
+    11.55592,
+    4.65612,
+    11.55592
+],
+  "geometry": {"coordinates":[4.65612,11.55592],"type":"Point"}
+}

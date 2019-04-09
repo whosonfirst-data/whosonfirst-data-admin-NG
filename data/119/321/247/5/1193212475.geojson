@@ -1,0 +1,68 @@
+{
+  "id": 1193212475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.38005,8.54024,12.38005,8.54024",
+    "geom:latitude":8.54024,
+    "geom:longitude":12.38005,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Bello Barkwasa",
+    "gn:country_code":"NG",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347317,
+    "gn:latitude":8.54024,
+    "gn:longitude":12.38005,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bello Barkwasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347317
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dd3543f50a415ead8d882172d38b8529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1193212475,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193212475,
+    "wof:lastmodified":1536383883,
+    "wof:name":"Bello Barkwasa",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.38005,
+    8.54024,
+    12.38005,
+    8.54024
+],
+  "geometry": {"coordinates":[12.38005,8.54024],"type":"Point"}
+}

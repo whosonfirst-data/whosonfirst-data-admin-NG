@@ -1,0 +1,73 @@
+{
+  "id": 1259713213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78333,8.15,5.78333,8.15",
+    "geom:latitude":8.15,
+    "geom:longitude":5.78333,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23013.0",
+    "gn:asciiname":"Takete",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322564,
+    "gn:latitude":8.15,
+    "gn:longitude":5.78333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Takete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takate",
+        "Takete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322564
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4e2c2333abee87744afa91d954d987a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563991,
+            "locality_id":1259713213,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1259713213,
+    "wof:lastmodified":1537674978,
+    "wof:name":"Takete",
+    "wof:parent_id":1108563991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78333,
+    8.15,
+    5.78333,
+    8.15
+],
+  "geometry": {"coordinates":[5.78333,8.15],"type":"Point"}
+}

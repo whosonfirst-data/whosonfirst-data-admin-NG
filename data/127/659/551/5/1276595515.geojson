@@ -1,0 +1,71 @@
+{
+  "id": 1276595515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37168,6.98503,6.37168,6.98503",
+    "geom:latitude":6.98503,
+    "geom:longitude":6.37168,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12009.0",
+    "gn:asciiname":"Odame",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7079884,
+    "gn:latitude":6.98503,
+    "gn:longitude":6.37168,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Odame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Odame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7079884
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"df54eb2e3b0907d1cdd4324d6770cea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563347,
+            "locality_id":1276595515,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1276595515,
+    "wof:lastmodified":1537675449,
+    "wof:name":"Odame",
+    "wof:parent_id":1108563347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37168,
+    6.98503,
+    6.37168,
+    6.98503
+],
+  "geometry": {"coordinates":[6.37168,6.98503],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209242487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4591,11.1463,10.4591,11.1463",
+    "geom:latitude":11.1463,
+    "geom:longitude":10.4591,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5005.0",
+    "gn:admin3_code":"BA0504",
+    "gn:asciiname":"Kwankiyal",
+    "gn:country_code":"NG",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332815,
+    "gn:latitude":11.1463,
+    "gn:longitude":10.4591,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwankiyal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332815
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bf797ad4573ee40f5caf91d862c1d3af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209242487
+        }
+    ],
+    "wof:id":1209242487,
+    "wof:lastmodified":1536293274,
+    "wof:name":"Kwankiyal",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4591,
+    11.1463,
+    10.4591,
+    11.1463
+],
+  "geometry": {"coordinates":[10.4591,11.1463],"type":"Point"}
+}

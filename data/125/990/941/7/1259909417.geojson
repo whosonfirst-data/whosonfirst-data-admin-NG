@@ -1,0 +1,67 @@
+{
+  "id": 1259909417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.91539,4.64307,6.91539,4.64307",
+    "geom:latitude":4.64307,
+    "geom:longitude":6.91539,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Konje",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9123607,
+    "gn:latitude":4.64307,
+    "gn:longitude":6.91539,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Konje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9123607
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"caa5c0c8bcde30b8ad59a8bf39c2cecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563227,
+            "locality_id":1259909417,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1259909417,
+    "wof:lastmodified":1536741693,
+    "wof:name":"Konje",
+    "wof:parent_id":1108563227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.91539,
+    4.64307,
+    6.91539,
+    4.64307
+],
+  "geometry": {"coordinates":[6.91539,4.64307],"type":"Point"}
+}

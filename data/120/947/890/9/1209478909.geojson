@@ -1,0 +1,62 @@
+{
+  "id": 1209478909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.56667,7.2,3.56667,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":3.56667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28016.0",
+    "gn:asciiname":"Jagulu",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336665,
+    "gn:latitude":7.2,
+    "gn:longitude":3.56667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jagulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336665
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7af8a73964158944b0cb147c773d43bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209478909
+        }
+    ],
+    "wof:id":1209478909,
+    "wof:lastmodified":1536285846,
+    "wof:name":"Jagulu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.56667,
+    7.2,
+    3.56667,
+    7.2
+],
+  "geometry": {"coordinates":[3.56667,7.2],"type":"Point"}
+}

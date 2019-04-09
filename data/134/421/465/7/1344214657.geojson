@@ -1,0 +1,69 @@
+{
+  "id": 1344214657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41313,12.4243,7.41313,12.4243",
+    "geom:latitude":12.4243,
+    "geom:longitude":7.41313,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"432.0",
+    "gn:admin3_code":"43207",
+    "gn:asciiname":"Sarkin Lambu",
+    "gn:country_code":"NG",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323626,
+    "gn:latitude":12.4243,
+    "gn:longitude":7.41313,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sarkin Lambu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108564331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323626
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf402c34ad37e5ca5d13542177fddb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564331,
+            "locality_id":1344214657,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1344214657,
+    "wof:lastmodified":1536653152,
+    "wof:name":"Sarkin Lambu",
+    "wof:parent_id":1108564331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41313,
+    12.4243,
+    7.41313,
+    12.4243
+],
+  "geometry": {"coordinates":[7.41313,12.4243],"type":"Point"}
+}

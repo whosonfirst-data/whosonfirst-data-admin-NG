@@ -1,0 +1,67 @@
+{
+  "id": 1225973937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.64262,10.85345,11.64262,10.85345",
+    "geom:latitude":10.85345,
+    "geom:longitude":11.64262,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Manicodo",
+    "gn:country_code":"NG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330909,
+    "gn:latitude":10.85345,
+    "gn:longitude":11.64262,
+    "gn:modification_date":"2009-05-14",
+    "gn:name":"Manicodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330909
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"254b1649ab6f9f3cdffdfcd1a1778bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563135,
+            "locality_id":1225973937,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1225973937,
+    "wof:lastmodified":1536827828,
+    "wof:name":"Manicodo",
+    "wof:parent_id":1108563135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.64262,
+    10.85345,
+    11.64262,
+    10.85345
+],
+  "geometry": {"coordinates":[11.64262,10.85345],"type":"Point"}
+}

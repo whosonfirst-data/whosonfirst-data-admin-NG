@@ -1,0 +1,68 @@
+{
+  "id": 1226105909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26667,7.15,3.26667,7.15",
+    "geom:latitude":7.15,
+    "geom:longitude":3.26667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28001.0",
+    "gn:asciiname":"Idigba Okeata",
+    "gn:country_code":"NG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339068,
+    "gn:latitude":7.15,
+    "gn:longitude":3.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idigba Okeata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        421187947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339068
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ab90b1868910657025e269d5c704fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421187947,
+            "locality_id":1226105909,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1226105909,
+    "wof:lastmodified":1536637269,
+    "wof:name":"Idigba Okeata",
+    "wof:parent_id":421187947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26667,
+    7.15,
+    3.26667,
+    7.15
+],
+  "geometry": {"coordinates":[3.26667,7.15],"type":"Point"}
+}

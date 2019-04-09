@@ -1,0 +1,68 @@
+{
+  "id": 1360043945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.65142,5.42159,7.65142,5.42159",
+    "geom:latitude":5.42159,
+    "geom:longitude":7.65142,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3015.0",
+    "gn:asciiname":"Mbente",
+    "gn:country_code":"NG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073517,
+    "gn:latitude":5.42159,
+    "gn:longitude":7.65142,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbente",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073517
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8022a3974484d68aadee9fafca6b6211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563645,
+            "locality_id":1360043945,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1360043945,
+    "wof:lastmodified":1537004412,
+    "wof:name":"Mbente",
+    "wof:parent_id":1108563645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.65142,
+    5.42159,
+    7.65142,
+    5.42159
+],
+  "geometry": {"coordinates":[7.65142,5.42159],"type":"Point"}
+}

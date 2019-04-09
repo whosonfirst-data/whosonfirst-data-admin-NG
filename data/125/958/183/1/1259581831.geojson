@@ -1,0 +1,68 @@
+{
+  "id": 1259581831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.32488,6.64423,3.32488,6.64423",
+    "geom:latitude":6.64423,
+    "geom:longitude":3.32488,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25010.0",
+    "gn:asciiname":"Ifako",
+    "gn:country_code":"NG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2566695,
+    "gn:latitude":6.64423,
+    "gn:longitude":3.32488,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ifako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        890438755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566695
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"083fac99f30bbe11b773d306285dcb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":890438755,
+            "locality_id":1259581831,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1259581831,
+    "wof:lastmodified":1536717574,
+    "wof:name":"Ifako",
+    "wof:parent_id":890438755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.32488,
+    6.64423,
+    3.32488,
+    6.64423
+],
+  "geometry": {"coordinates":[3.32488,6.64423],"type":"Point"}
+}

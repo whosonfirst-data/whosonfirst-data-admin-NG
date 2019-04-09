@@ -1,0 +1,62 @@
+{
+  "id": 1209554131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.48333,6.45,5.48333,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":5.48333,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12014.0",
+    "gn:asciiname":"Iguosagban",
+    "gn:country_code":"NG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338535,
+    "gn:latitude":6.45,
+    "gn:longitude":5.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iguosagban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338535
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"33d7267b675b305967855ba8b0c0c052",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209554131
+        }
+    ],
+    "wof:id":1209554131,
+    "wof:lastmodified":1536283604,
+    "wof:name":"Iguosagban",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4833300000000005,
+    6.45,
+    5.4833300000000005,
+    6.45
+],
+  "geometry": {"coordinates":[5.48333,6.45],"type":"Point"}
+}

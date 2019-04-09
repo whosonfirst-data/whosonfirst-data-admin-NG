@@ -1,0 +1,62 @@
+{
+  "id": 1209359041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.45208,10.04684,12.45208,10.04684",
+    "geom:latitude":10.04684,
+    "geom:longitude":12.45208,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Farijeri",
+    "gn:country_code":"NG",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836895,
+    "gn:latitude":10.04684,
+    "gn:longitude":12.45208,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Farijeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836895
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3acce15d8b5a5e62beecbc29056e74da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209359041
+        }
+    ],
+    "wof:id":1209359041,
+    "wof:lastmodified":1536289489,
+    "wof:name":"Farijeri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45208,
+    10.04684,
+    12.45208,
+    10.04684
+],
+  "geometry": {"coordinates":[12.45208,10.04684],"type":"Point"}
+}

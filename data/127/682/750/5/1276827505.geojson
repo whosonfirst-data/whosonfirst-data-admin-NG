@@ -1,0 +1,68 @@
+{
+  "id": 1276827505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.32953,6.1249,8.32953,6.1249",
+    "geom:latitude":6.1249,
+    "geom:longitude":8.32953,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9013.0",
+    "gn:asciiname":"Okpechi",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326970,
+    "gn:latitude":6.1249,
+    "gn:longitude":8.32953,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpechi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326970
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c4ae4be950544f692935c743b401fb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564085,
+            "locality_id":1276827505,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1276827505,
+    "wof:lastmodified":1536611392,
+    "wof:name":"Okpechi",
+    "wof:parent_id":1108564085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.32953,
+    6.1249,
+    8.32953,
+    6.1249
+],
+  "geometry": {"coordinates":[8.32953,6.1249],"type":"Point"}
+}

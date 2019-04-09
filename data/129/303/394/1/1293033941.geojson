@@ -1,0 +1,68 @@
+{
+  "id": 1293033941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46966,9.00299,6.46966,9.00299",
+    "geom:latitude":9.00299,
+    "geom:longitude":6.46966,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27001.0",
+    "gn:asciiname":"Zarmi",
+    "gn:country_code":"NG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317758,
+    "gn:latitude":9.00299,
+    "gn:longitude":6.46966,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zarmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317758
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"103bbfd3324bd01a766d93978e0081a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562933,
+            "locality_id":1293033941,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293033941,
+    "wof:lastmodified":1536944499,
+    "wof:name":"Zarmi",
+    "wof:parent_id":1108562933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46966,
+    9.00299,
+    6.46966,
+    9.00299
+],
+  "geometry": {"coordinates":[6.46966,9.00299],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209065035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56152,4.90273,7.56152,4.90273",
+    "geom:latitude":4.90273,
+    "geom:longitude":7.56152,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3028.0",
+    "gn:asciiname":"Ikot Ibekwe",
+    "gn:country_code":"NG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338060,
+    "gn:latitude":4.90273,
+    "gn:longitude":7.56152,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Ibekwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338060
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"abc245c24292867f60db0bbf4db911b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209065035
+        }
+    ],
+    "wof:id":1209065035,
+    "wof:lastmodified":1536298832,
+    "wof:name":"Ikot Ibekwe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56152,
+    4.90273,
+    7.56152,
+    4.90273
+],
+  "geometry": {"coordinates":[7.56152,4.90273],"type":"Point"}
+}

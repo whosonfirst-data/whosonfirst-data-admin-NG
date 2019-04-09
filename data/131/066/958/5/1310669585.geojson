@@ -1,0 +1,72 @@
+{
+  "id": 1310669585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96846,6.68081,8.96846,6.68081",
+    "geom:latitude":6.68081,
+    "geom:longitude":8.96846,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9005.0",
+    "gn:asciiname":"Nyanya",
+    "gn:country_code":"NG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328504,
+    "gn:latitude":6.68081,
+    "gn:longitude":8.96846,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nyanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyonya",
+        "Nyanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328504
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9d0c8b76163dba7d14622993ee9371a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563109,
+            "locality_id":1310669585,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1310669585,
+    "wof:lastmodified":1537675068,
+    "wof:name":"Nyanya",
+    "wof:parent_id":1108563109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96846,
+    6.68081,
+    8.96846,
+    6.68081
+],
+  "geometry": {"coordinates":[8.96846,6.68081],"type":"Point"}
+}

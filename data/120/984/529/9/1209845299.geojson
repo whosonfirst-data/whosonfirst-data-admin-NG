@@ -1,0 +1,68 @@
+{
+  "id": 1209845299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08445,9.10138,6.08445,9.10138",
+    "geom:latitude":9.10138,
+    "geom:longitude":6.08445,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007.0",
+    "gn:asciiname":"Kenchi",
+    "gn:country_code":"NG",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334596,
+    "gn:latitude":9.10138,
+    "gn:longitude":6.08445,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kenchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334596
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"57f43dc392ebf1ab289655d13fc200de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1209845299,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1209845299,
+    "wof:lastmodified":1536390932,
+    "wof:name":"Kenchi",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08445,
+    9.10138,
+    6.08445,
+    9.10138
+],
+  "geometry": {"coordinates":[6.08445,9.10138],"type":"Point"}
+}

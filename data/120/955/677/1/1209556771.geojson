@@ -1,0 +1,62 @@
+{
+  "id": 1209556771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.35,7.5,3.35,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":3.35,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31011.0",
+    "gn:asciiname":"Abeta",
+    "gn:country_code":"NG",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352929,
+    "gn:latitude":7.5,
+    "gn:longitude":3.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352929
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5084ab9ff01b55c4852d5045ff462297",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209556771
+        }
+    ],
+    "wof:id":1209556771,
+    "wof:lastmodified":1536283520,
+    "wof:name":"Abeta",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.35,
+    7.5,
+    3.35,
+    7.5
+],
+  "geometry": {"coordinates":[3.35,7.5],"type":"Point"}
+}

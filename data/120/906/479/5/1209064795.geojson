@@ -1,0 +1,62 @@
+{
+  "id": 1209064795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63728,6.59679,8.63728,6.59679",
+    "geom:latitude":6.59679,
+    "geom:longitude":8.63728,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9018.0",
+    "gn:asciiname":"Okpoma",
+    "gn:country_code":"NG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2326935,
+    "gn:latitude":6.59679,
+    "gn:longitude":8.63728,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326935
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c3308ee0a06a41924a49bebb8a418354",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209064795
+        }
+    ],
+    "wof:id":1209064795,
+    "wof:lastmodified":1536298839,
+    "wof:name":"Okpoma",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63728,
+    6.59679,
+    8.63728,
+    6.59679
+],
+  "geometry": {"coordinates":[8.63728,6.59679],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293322177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.81769,10.39732,10.81769,10.39732",
+    "geom:latitude":10.39732,
+    "geom:longitude":10.81769,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kolori",
+    "gn:country_code":"NG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028334,
+    "gn:latitude":10.39732,
+    "gn:longitude":10.81769,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kolori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028334
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d62314057c0ad515e23772d0e7131e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563819,
+            "locality_id":1293322177,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1293322177,
+    "wof:lastmodified":1537675427,
+    "wof:name":"Kolori",
+    "wof:parent_id":1108563819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.81769,
+    10.39732,
+    10.81769,
+    10.39732
+],
+  "geometry": {"coordinates":[10.81769,10.39732],"type":"Point"}
+}

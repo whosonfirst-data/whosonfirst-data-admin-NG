@@ -1,0 +1,66 @@
+{
+  "id": 1209448109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66439,5.22372,6.66439,5.22372",
+    "geom:latitude":5.22372,
+    "geom:longitude":6.66439,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33016.0",
+    "gn:asciiname":"Erema",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343224,
+    "gn:latitude":5.22372,
+    "gn:longitude":6.66439,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Erema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erima",
+        "Erema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343224
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"db0bdf9feefcedd8d124189577a61189",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209448109
+        }
+    ],
+    "wof:id":1209448109,
+    "wof:lastmodified":1537675275,
+    "wof:name":"Erema",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66439,
+    5.22372,
+    6.66439,
+    5.22372
+],
+  "geometry": {"coordinates":[6.66439,5.22372],"type":"Point"}
+}

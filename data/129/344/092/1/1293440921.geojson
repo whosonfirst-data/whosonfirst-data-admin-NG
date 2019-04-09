@@ -1,0 +1,72 @@
+{
+  "id": 1293440921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.73899,13.09014,12.73899,13.09014",
+    "geom:latitude":13.09014,
+    "geom:longitude":12.73899,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"12210",
+    "gn:asciiname":"Zari",
+    "gn:country_code":"NG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317766,
+    "gn:latitude":13.09014,
+    "gn:longitude":12.73899,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317766
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"097eb0aea081bc799b8b5aa9bf9c37d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563985,
+            "locality_id":1293440921,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1293440921,
+    "wof:lastmodified":1537674898,
+    "wof:name":"Zari",
+    "wof:parent_id":1108563985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.73899,
+    13.09014,
+    12.73899,
+    13.09014
+],
+  "geometry": {"coordinates":[12.73899,13.09014],"type":"Point"}
+}

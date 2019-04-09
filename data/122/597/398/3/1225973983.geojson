@@ -1,0 +1,68 @@
+{
+  "id": 1225973983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15018,6.05361,8.15018,6.05361",
+    "geom:latitude":6.05361,
+    "geom:longitude":8.15018,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007",
+    "gn:asciiname":"Amuda",
+    "gn:country_code":"NG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274789,
+    "gn:latitude":6.05361,
+    "gn:longitude":8.15018,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274789
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0597ffc8404347f7c6bda026a23a574a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1225973983,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1225973983,
+    "wof:lastmodified":1536827763,
+    "wof:name":"Amuda",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15018,
+    6.05361,
+    8.15018,
+    6.05361
+],
+  "geometry": {"coordinates":[8.15018,6.05361],"type":"Point"}
+}

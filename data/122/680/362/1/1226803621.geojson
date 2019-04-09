@@ -1,0 +1,68 @@
+{
+  "id": 1226803621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.23743,7.26152,9.23743,7.26152",
+    "geom:latitude":7.26152,
+    "geom:longitude":9.23743,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Tam",
+    "gn:country_code":"NG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634309,
+    "gn:latitude":7.26152,
+    "gn:longitude":9.23743,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634309
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dbd67863a8f30489018b79e10afc5621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1226803621,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226803621,
+    "wof:lastmodified":1536630768,
+    "wof:name":"Tam",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.23743,
+    7.26152,
+    9.23743,
+    7.26152
+],
+  "geometry": {"coordinates":[9.23743,7.26152],"type":"Point"}
+}

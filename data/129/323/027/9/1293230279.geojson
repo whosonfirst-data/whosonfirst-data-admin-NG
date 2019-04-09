@@ -1,0 +1,73 @@
+{
+  "id": 1293230279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.95786,12.01114,6.95786,12.01114",
+    "geom:latitude":12.01114,
+    "geom:longitude":6.95786,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81302",
+    "gn:asciiname":"Shebu",
+    "gn:country_code":"NG",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320163,
+    "gn:latitude":12.01114,
+    "gn:longitude":6.95786,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unguwar Shebu",
+        "Shebu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108564421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320163
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c392f6dc1deb8cdd8c3133e9cb66ec83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564421,
+            "locality_id":1293230279,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1293230279,
+    "wof:lastmodified":1537674937,
+    "wof:name":"Shebu",
+    "wof:parent_id":1108564421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.95786,
+    12.01114,
+    6.95786,
+    12.01114
+],
+  "geometry": {"coordinates":[6.95786,12.01114],"type":"Point"}
+}

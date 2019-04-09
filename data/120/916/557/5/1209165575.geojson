@@ -1,0 +1,63 @@
+{
+  "id": 1209165575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.40224,12.6758,4.40224,12.6758",
+    "geom:latitude":12.6758,
+    "geom:longitude":4.40224,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50311",
+    "gn:asciiname":"Tunga Limaw",
+    "gn:country_code":"NG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321445,
+    "gn:latitude":12.6758,
+    "gn:longitude":4.40224,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tunga Limaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321445
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2014f2a6d6220f340fc90e4a68f95882",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209165575
+        }
+    ],
+    "wof:id":1209165575,
+    "wof:lastmodified":1536295759,
+    "wof:name":"Tunga Limaw",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.40224,
+    12.6758,
+    4.40224,
+    12.6758
+],
+  "geometry": {"coordinates":[4.40224,12.6758],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 421175915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.005,8.86722,7.005,8.86722",
+    "geom:latitude":8.86722,
+    "geom:longitude":7.005,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kwali"
+    ],
+    "name:eng_x_preferred":[
+        "Kwali"
+    ],
+    "name:fre_x_preferred":[
+        "Kwali"
+    ],
+    "name:por_x_preferred":[
+        "Kwali"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2332865,
+    "qs:gn_pop":6229,
+    "qs:name":"Kwali",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Federal Capital Territory",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1035016,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1398524,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332865,
+        "gp:id":1398524,
+        "qs:id":1035016,
+        "wd:id":"Q6450057"
+    },
+    "wof:country":"NG",
+    "wof:created":1459009084,
+    "wof:geomhash":"b9aacc8a3b537c06be6a113ecdcb2d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563869,
+            "locality_id":421175915,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":421175915,
+    "wof:lastmodified":1514491657,
+    "wof:name":"Kwali",
+    "wof:parent_id":1108563869,
+    "wof:placetype":"locality",
+    "wof:population":6229,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.005,
+    8.86722,
+    7.005,
+    8.86722
+],
+  "geometry": {"coordinates":[7.005,8.86722],"type":"Point"}
+}

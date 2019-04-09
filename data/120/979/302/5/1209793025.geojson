@@ -1,0 +1,67 @@
+{
+  "id": 1209793025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.67537,9.38926,7.67537,9.38926",
+    "geom:latitude":9.38926,
+    "geom:longitude":7.67537,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gidan-Dutse",
+    "gn:country_code":"NG",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642937,
+    "gn:latitude":9.38926,
+    "gn:longitude":7.67537,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Gidan-Dutse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642937
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64b15beec4c932526753a3feff6b6f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1209793025,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1209793025,
+    "wof:lastmodified":1536394143,
+    "wof:name":"Gidan-Dutse",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.67537,
+    9.38926,
+    7.67537,
+    9.38926
+],
+  "geometry": {"coordinates":[7.67537,9.38926],"type":"Point"}
+}

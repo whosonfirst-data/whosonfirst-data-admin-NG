@@ -1,0 +1,70 @@
+{
+  "id": 1260327453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.15377,9.10993,12.15377,9.10993",
+    "geom:latitude":9.10993,
+    "geom:longitude":12.15377,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Babora",
+    "gn:country_code":"NG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189902,
+    "gn:latitude":9.10993,
+    "gn:longitude":12.15377,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Babora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Babora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189902
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"369f656f506f49e722fc8db4ba64d0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1260327453,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1260327453,
+    "wof:lastmodified":1537675493,
+    "wof:name":"Babora",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.15377,
+    9.10993,
+    12.15377,
+    9.10993
+],
+  "geometry": {"coordinates":[12.15377,9.10993],"type":"Point"}
+}

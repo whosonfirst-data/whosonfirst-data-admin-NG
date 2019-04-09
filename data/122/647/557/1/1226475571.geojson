@@ -1,0 +1,68 @@
+{
+  "id": 1226475571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64113,10.00693,6.64113,10.00693",
+    "geom:latitude":10.00693,
+    "geom:longitude":6.64113,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Gidan Madaki",
+    "gn:country_code":"NG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999836,
+    "gn:latitude":10.00693,
+    "gn:longitude":6.64113,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Madaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999836
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f08d693d17ccffc00cc4a7ec39b1b536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1226475571,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226475571,
+    "wof:lastmodified":1537095944,
+    "wof:name":"Gidan Madaki",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64113,
+    10.00693,
+    6.64113,
+    10.00693
+],
+  "geometry": {"coordinates":[6.64113,10.00693],"type":"Point"}
+}

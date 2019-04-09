@@ -1,0 +1,73 @@
+{
+  "id": 1259534629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.30519,11.88217,13.30519,11.88217",
+    "geom:latitude":11.88217,
+    "geom:longitude":13.30519,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"119.0",
+    "gn:admin3_code":"11911",
+    "gn:asciiname":"Amagamari",
+    "gn:country_code":"NG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350268,
+    "gn:latitude":11.88217,
+    "gn:longitude":13.30519,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Amagamari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galameri",
+        "Amagamari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350268
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c1fa6bc2785dff0b34726dfb78d7c2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563725,
+            "locality_id":1259534629,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259534629,
+    "wof:lastmodified":1537675367,
+    "wof:name":"Amagamari",
+    "wof:parent_id":1108563725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.30519,
+    11.88217,
+    13.30519,
+    11.88217
+],
+  "geometry": {"coordinates":[13.30519,11.88217],"type":"Point"}
+}

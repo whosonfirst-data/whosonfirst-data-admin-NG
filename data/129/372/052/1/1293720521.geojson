@@ -1,0 +1,72 @@
+{
+  "id": 1293720521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03091,13.03295,11.03091,13.03295",
+    "geom:latitude":13.03295,
+    "geom:longitude":11.03091,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717.0",
+    "gn:admin3_code":"71709",
+    "gn:asciiname":"Baku Mallamti",
+    "gn:country_code":"NG",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331358,
+    "gn:latitude":13.03295,
+    "gn:longitude":11.03091,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Baku Mallamti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maimalari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331358
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8deedc8166e7664115a5950b2f256a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564549,
+            "locality_id":1293720521,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1293720521,
+    "wof:lastmodified":1537675106,
+    "wof:name":"Baku Mallamti",
+    "wof:parent_id":1108564549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03091,
+    13.03295,
+    11.03091,
+    13.03295
+],
+  "geometry": {"coordinates":[11.03091,13.03295],"type":"Point"}
+}

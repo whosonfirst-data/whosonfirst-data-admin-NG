@@ -1,0 +1,74 @@
+{
+  "id": 1360028573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.44829,6.23374,6.44829,6.23374",
+    "geom:latitude":6.23374,
+    "geom:longitude":6.44829,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"UBULU UKU ( Ubulu Ezemu)",
+    "gn:country_code":"NG",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352741,
+    "gn:latitude":6.23374,
+    "gn:longitude":6.44829,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"UBULU UKU ( Ubulu Ezemu)",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ubulu-Uku"
+    ],
+    "name:eng_x_variant":[
+        "Abuluku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352741
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ae0a2bfc044d06a144907bbca8c95949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1360028573,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1360028573,
+    "wof:lastmodified":1537675394,
+    "wof:name":"UBULU UKU ( Ubulu Ezemu)",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.44829,
+    6.23374,
+    6.44829,
+    6.23374
+],
+  "geometry": {"coordinates":[6.44829,6.23374],"type":"Point"}
+}

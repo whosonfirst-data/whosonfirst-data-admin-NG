@@ -1,0 +1,69 @@
+{
+  "id": 1260035939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6801,10.03955,7.6801,10.03955",
+    "geom:latitude":10.03955,
+    "geom:longitude":7.6801,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19012.0",
+    "gn:admin3_code":"KD1208",
+    "gn:asciiname":"Gidan Kwaso",
+    "gn:country_code":"NG",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340926,
+    "gn:latitude":10.03955,
+    "gn:longitude":7.6801,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Kwaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340926
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a4c7ce4a83db273893fa81df5bcc62c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563739,
+            "locality_id":1260035939,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1260035939,
+    "wof:lastmodified":1537054289,
+    "wof:name":"Gidan Kwaso",
+    "wof:parent_id":1108563739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6801,
+    10.03955,
+    7.6801,
+    10.03955
+],
+  "geometry": {"coordinates":[7.6801,10.03955],"type":"Point"}
+}

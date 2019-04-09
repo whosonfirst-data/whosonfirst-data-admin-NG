@@ -1,0 +1,69 @@
+{
+  "id": 1243291503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8471,12.69508,11.8471,12.69508",
+    "geom:latitude":12.69508,
+    "geom:longitude":11.8471,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70608",
+    "gn:asciiname":"Dobiri",
+    "gn:country_code":"NG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344740,
+    "gn:latitude":12.69508,
+    "gn:longitude":11.8471,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dobiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344740
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"24f3c8c23e92fc92bbd1ee2bdf2e6224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563415,
+            "locality_id":1243291503,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1243291503,
+    "wof:lastmodified":1537027842,
+    "wof:name":"Dobiri",
+    "wof:parent_id":1108563415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8471,
+    12.69508,
+    11.8471,
+    12.69508
+],
+  "geometry": {"coordinates":[11.8471,12.69508],"type":"Point"}
+}

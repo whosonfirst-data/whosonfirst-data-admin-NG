@@ -1,0 +1,72 @@
+{
+  "id": 1209344005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.36529,10.73155,10.36529,10.73155",
+    "geom:latitude":10.73155,
+    "geom:longitude":10.36529,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5008.0",
+    "gn:admin3_code":"BA0806",
+    "gn:asciiname":"Zaka",
+    "gn:country_code":"NG",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317907,
+    "gn:latitude":10.73155,
+    "gn:longitude":10.36529,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zaka"
+    ],
+    "name:eng_x_variant":[
+        "Zakka"
+    ],
+    "name:und_x_variant":[
+        "Zakka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317907
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b553d7af12968c4e600a60fee5a196ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344005
+        }
+    ],
+    "wof:id":1209344005,
+    "wof:lastmodified":1537674900,
+    "wof:name":"Zaka",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.36529,
+    10.73155,
+    10.36529,
+    10.73155
+],
+  "geometry": {"coordinates":[10.36529,10.73155],"type":"Point"}
+}

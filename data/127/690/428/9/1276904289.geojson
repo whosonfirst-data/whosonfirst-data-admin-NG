@@ -1,0 +1,68 @@
+{
+  "id": 1276904289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.09029,9.31817,6.09029,9.31817",
+    "geom:latitude":9.31817,
+    "geom:longitude":6.09029,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Gbangba Tsofo",
+    "gn:country_code":"NG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317288,
+    "gn:latitude":9.31817,
+    "gn:longitude":6.09029,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbangba Tsofo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317288
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ec41e1482171e3de94ed41d31b85e36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1276904289,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276904289,
+    "wof:lastmodified":1537007918,
+    "wof:name":"Gbangba Tsofo",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.09029,
+    9.31817,
+    6.09029,
+    9.31817
+],
+  "geometry": {"coordinates":[6.09029,9.31817],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276183221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.74437,5.33135,7.74437,5.33135",
+    "geom:latitude":5.33135,
+    "geom:longitude":7.74437,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3015.0",
+    "gn:asciiname":"Asanting",
+    "gn:country_code":"NG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073581,
+    "gn:latitude":5.33135,
+    "gn:longitude":7.74437,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Asanting",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073581
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"db5cce3f0ec34331964afd149aa418a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563645,
+            "locality_id":1276183221,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1276183221,
+    "wof:lastmodified":1536979512,
+    "wof:name":"Asanting",
+    "wof:parent_id":1108563645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.74437,
+    5.33135,
+    7.74437,
+    5.33135
+],
+  "geometry": {"coordinates":[7.74437,5.33135],"type":"Point"}
+}

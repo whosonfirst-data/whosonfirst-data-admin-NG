@@ -1,0 +1,69 @@
+{
+  "id": 1309963413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.17848,11.75948,7.17848,11.75948",
+    "geom:latitude":11.75948,
+    "geom:longitude":7.17848,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41305",
+    "gn:asciiname":"Bako",
+    "gn:country_code":"NG",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019099,
+    "gn:latitude":11.75948,
+    "gn:longitude":7.17848,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019099
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ebe12cbcaa895f69fe67a1596066fcb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563367,
+            "locality_id":1309963413,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1309963413,
+    "wof:lastmodified":1536704376,
+    "wof:name":"Bako",
+    "wof:parent_id":1108563367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.17848,
+    11.75948,
+    7.17848,
+    11.75948
+],
+  "geometry": {"coordinates":[7.17848,11.75948],"type":"Point"}
+}

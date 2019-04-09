@@ -1,0 +1,68 @@
+{
+  "id": 1327188635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.27568,7.59175,9.27568,7.59175",
+    "geom:latitude":7.59175,
+    "geom:longitude":9.27568,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Gabo",
+    "gn:country_code":"NG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9526468,
+    "gn:latitude":7.59175,
+    "gn:longitude":9.27568,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9526468
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4fecb15af2b195ba73928541077f3899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1327188635,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1327188635,
+    "wof:lastmodified":1537031541,
+    "wof:name":"Gabo",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.27568,
+    7.59175,
+    9.27568,
+    7.59175
+],
+  "geometry": {"coordinates":[9.27568,7.59175],"type":"Point"}
+}

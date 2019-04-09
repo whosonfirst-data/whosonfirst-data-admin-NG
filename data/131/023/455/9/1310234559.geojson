@@ -1,0 +1,68 @@
+{
+  "id": 1310234559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4927,7.1821,5.4927,7.1821",
+    "geom:latitude":7.1821,
+    "geom:longitude":5.4927,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29018.0",
+    "gn:asciiname":"Ubale",
+    "gn:country_code":"NG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832896,
+    "gn:latitude":7.1821,
+    "gn:longitude":5.4927,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ubale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832896
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a8ada977f93db731c5c223d548e98b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564257,
+            "locality_id":1310234559,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1310234559,
+    "wof:lastmodified":1536810025,
+    "wof:name":"Ubale",
+    "wof:parent_id":1108564257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4927,
+    7.1821,
+    5.4927,
+    7.1821
+],
+  "geometry": {"coordinates":[5.4927,7.1821],"type":"Point"}
+}

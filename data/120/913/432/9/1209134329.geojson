@@ -1,0 +1,62 @@
+{
+  "id": 1209134329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.97463,9.1715,7.97463,9.1715",
+    "geom:latitude":9.1715,
+    "geom:longitude":7.97463,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004",
+    "gn:asciiname":"Umburma",
+    "gn:country_code":"NG",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641576,
+    "gn:latitude":9.1715,
+    "gn:longitude":7.97463,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umburma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641576
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3253fea9bb9773f68879ac8d369b3960",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134329
+        }
+    ],
+    "wof:id":1209134329,
+    "wof:lastmodified":1536296710,
+    "wof:name":"Umburma",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97463,
+    9.1715,
+    7.97463,
+    9.1715
+],
+  "geometry": {"coordinates":[7.97463,9.1715],"type":"Point"}
+}

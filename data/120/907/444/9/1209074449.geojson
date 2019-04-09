@@ -1,0 +1,63 @@
+{
+  "id": 1209074449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.60671,12.87313,7.60671,12.87313",
+    "geom:latitude":12.87313,
+    "geom:longitude":7.60671,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"402.0",
+    "gn:admin3_code":"40205",
+    "gn:asciiname":"Makama",
+    "gn:country_code":"NG",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998415,
+    "gn:latitude":12.87313,
+    "gn:longitude":7.60671,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998415
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cee11dabaa4a2d29bad784990d2d87fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209074449
+        }
+    ],
+    "wof:id":1209074449,
+    "wof:lastmodified":1536298540,
+    "wof:name":"Makama",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.60671,
+    12.87313,
+    7.60671,
+    12.87313
+],
+  "geometry": {"coordinates":[7.60671,12.87313],"type":"Point"}
+}

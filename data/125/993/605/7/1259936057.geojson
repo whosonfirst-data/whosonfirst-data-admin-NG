@@ -1,0 +1,69 @@
+{
+  "id": 1259936057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.00797,9.8705,8.00797,9.8705",
+    "geom:latitude":9.8705,
+    "geom:longitude":8.00797,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19008",
+    "gn:admin3_code":"KD0807",
+    "gn:asciiname":"Gidanbiri",
+    "gn:country_code":"NG",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003410,
+    "gn:latitude":9.8705,
+    "gn:longitude":8.00797,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidanbiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003410
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1bfc1aee13adc3a0bf362074e63c0a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564555,
+            "locality_id":1259936057,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1259936057,
+    "wof:lastmodified":1536703915,
+    "wof:name":"Gidanbiri",
+    "wof:parent_id":1108564555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.00797,
+    9.8705,
+    8.00797,
+    9.8705
+],
+  "geometry": {"coordinates":[8.00797,9.8705],"type":"Point"}
+}

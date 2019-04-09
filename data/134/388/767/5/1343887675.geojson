@@ -1,0 +1,72 @@
+{
+  "id": 1343887675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75343,6.46464,4.75343,6.46464",
+    "geom:latitude":6.46464,
+    "geom:longitude":4.75343,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29014.0",
+    "gn:asciiname":"Ode-Igbodigo",
+    "gn:country_code":"NG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328076,
+    "gn:latitude":6.46464,
+    "gn:longitude":4.75343,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ode-Igbodigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igbodigo",
+        "Ode-Igbodigo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328076
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a03ecb129248d57a3c0e504a14777799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564157,
+            "locality_id":1343887675,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1343887675,
+    "wof:lastmodified":1537675060,
+    "wof:name":"Ode-Igbodigo",
+    "wof:parent_id":1108564157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75343,
+    6.46464,
+    4.75343,
+    6.46464
+],
+  "geometry": {"coordinates":[4.75343,6.46464],"type":"Point"}
+}

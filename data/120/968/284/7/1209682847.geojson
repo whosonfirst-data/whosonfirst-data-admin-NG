@@ -1,0 +1,62 @@
+{
+  "id": 1209682847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.22218,7.46659,9.22218,7.46659",
+    "geom:latitude":7.46659,
+    "geom:longitude":9.22218,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Yongo",
+    "gn:country_code":"NG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634212,
+    "gn:latitude":7.46659,
+    "gn:longitude":9.22218,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634212
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e5afa071d506a594f1722dfd36f06724",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209682847
+        }
+    ],
+    "wof:id":1209682847,
+    "wof:lastmodified":1536279514,
+    "wof:name":"Yongo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.22218,
+    7.466589999999999,
+    9.22218,
+    7.466589999999999
+],
+  "geometry": {"coordinates":[9.22218,7.46659],"type":"Point"}
+}

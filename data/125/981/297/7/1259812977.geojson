@@ -1,0 +1,72 @@
+{
+  "id": 1259812977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.06288,10.52814,10.06288,10.52814",
+    "geom:latitude":10.52814,
+    "geom:longitude":10.06288,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5008.0",
+    "gn:admin3_code":"BA0810",
+    "gn:asciiname":"Reri",
+    "gn:country_code":"NG",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324547,
+    "gn:latitude":10.52814,
+    "gn:longitude":10.06288,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Reri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Reri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324547
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9628e97462d40b7113fda176ca8e2730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563391,
+            "locality_id":1259812977,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1259812977,
+    "wof:lastmodified":1537675003,
+    "wof:name":"Reri",
+    "wof:parent_id":1108563391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.06288,
+    10.52814,
+    10.06288,
+    10.52814
+],
+  "geometry": {"coordinates":[10.06288,10.52814],"type":"Point"}
+}

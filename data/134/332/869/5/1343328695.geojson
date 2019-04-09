@@ -1,0 +1,68 @@
+{
+  "id": 1343328695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55396,7.41835,8.55396,7.41835",
+    "geom:latitude":7.41835,
+    "geom:longitude":8.55396,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007.0",
+    "gn:asciiname":"Ortsenga",
+    "gn:country_code":"NG",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325661,
+    "gn:latitude":7.41835,
+    "gn:longitude":8.55396,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ortsenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325661
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bfe182ff8628cfb366282f0546ace2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563473,
+            "locality_id":1343328695,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343328695,
+    "wof:lastmodified":1536937302,
+    "wof:name":"Ortsenga",
+    "wof:parent_id":1108563473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55396,
+    7.41835,
+    8.55396,
+    7.41835
+],
+  "geometry": {"coordinates":[8.55396,7.41835],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293422793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.263,4.71677,7.263,4.71677",
+    "geom:latitude":4.71677,
+    "geom:longitude":7.263,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33023",
+    "gn:asciiname":"Saakpenwa",
+    "gn:country_code":"NG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10370805,
+    "gn:latitude":4.71677,
+    "gn:longitude":7.263,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Saakpenwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakpenwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370805
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7f6123d8f17bc90368d2f247084ce9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564393,
+            "locality_id":1293422793,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293422793,
+    "wof:lastmodified":1537675470,
+    "wof:name":"Saakpenwa",
+    "wof:parent_id":1108564393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.263,
+    4.71677,
+    7.263,
+    4.71677
+],
+  "geometry": {"coordinates":[7.263,4.71677],"type":"Point"}
+}

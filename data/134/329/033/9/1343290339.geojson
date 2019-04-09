@@ -1,0 +1,68 @@
+{
+  "id": 1343290339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.17563,5.99283,8.17563,5.99283",
+    "geom:latitude":5.99283,
+    "geom:longitude":8.17563,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007.0",
+    "gn:asciiname":"Hotekwe",
+    "gn:country_code":"NG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339444,
+    "gn:latitude":5.99283,
+    "gn:longitude":8.17563,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hotekwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339444
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f56ff02663114703a8a4627fc032034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1343290339,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1343290339,
+    "wof:lastmodified":1536991098,
+    "wof:name":"Hotekwe",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.17563,
+    5.99283,
+    8.17563,
+    5.99283
+],
+  "geometry": {"coordinates":[8.17563,5.99283],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260009177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.39753,12.03599,10.39753,12.03599",
+    "geom:latitude":12.03599,
+    "geom:longitude":10.39753,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5020",
+    "gn:admin3_code":"BA2006",
+    "gn:asciiname":"Gezawari",
+    "gn:country_code":"NG",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10187785,
+    "gn:latitude":12.03599,
+    "gn:longitude":10.39753,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gezawari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10187785
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"de8fd93536d653d86de4198b93240873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563387,
+            "locality_id":1260009177,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1260009177,
+    "wof:lastmodified":1537091833,
+    "wof:name":"Gezawari",
+    "wof:parent_id":1108563387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.39753,
+    12.03599,
+    10.39753,
+    12.03599
+],
+  "geometry": {"coordinates":[10.39753,12.03599],"type":"Point"}
+}

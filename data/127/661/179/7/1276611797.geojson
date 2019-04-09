@@ -1,0 +1,69 @@
+{
+  "id": 1276611797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.07127,9.91926,8.07127,9.91926",
+    "geom:latitude":9.91926,
+    "geom:longitude":8.07127,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19022.0",
+    "gn:admin3_code":"KD2203",
+    "gn:asciiname":"Adage",
+    "gn:country_code":"NG",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352625,
+    "gn:latitude":9.91926,
+    "gn:longitude":8.07127,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352625
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1065254356032d0608e1a2a2f29fd202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564555,
+            "locality_id":1276611797,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276611797,
+    "wof:lastmodified":1536903278,
+    "wof:name":"Adage",
+    "wof:parent_id":1108564555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.07127,
+    9.91926,
+    8.07127,
+    9.91926
+],
+  "geometry": {"coordinates":[8.07127,9.91926],"type":"Point"}
+}

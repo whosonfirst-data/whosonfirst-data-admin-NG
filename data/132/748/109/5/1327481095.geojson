@@ -1,0 +1,69 @@
+{
+  "id": 1327481095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47974,11.91214,14.47974,11.91214",
+    "geom:latitude":11.91214,
+    "geom:longitude":14.47974,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"115.0",
+    "gn:admin3_code":"11506",
+    "gn:asciiname":"Gabulga",
+    "gn:country_code":"NG",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776033,
+    "gn:latitude":11.91214,
+    "gn:longitude":14.47974,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gabulga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776033
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"27e774cacdef7659470fc69efd3def35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563761,
+            "locality_id":1327481095,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1327481095,
+    "wof:lastmodified":1536607649,
+    "wof:name":"Gabulga",
+    "wof:parent_id":1108563761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47974,
+    11.91214,
+    14.47974,
+    11.91214
+],
+  "geometry": {"coordinates":[14.47974,11.91214],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209344065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04756,9.5689,6.04756,9.5689",
+    "geom:latitude":9.5689,
+    "geom:longitude":6.04756,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27025.0",
+    "gn:asciiname":"New Tangwagi",
+    "gn:country_code":"NG",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329113,
+    "gn:latitude":9.5689,
+    "gn:longitude":6.04756,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"New Tangwagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329113
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd7c47e88d301225e2365b3cf8f1520c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344065
+        }
+    ],
+    "wof:id":1209344065,
+    "wof:lastmodified":1536289971,
+    "wof:name":"New Tangwagi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04756,
+    9.5689,
+    6.04756,
+    9.5689
+],
+  "geometry": {"coordinates":[6.04756,9.5689],"type":"Point"}
+}

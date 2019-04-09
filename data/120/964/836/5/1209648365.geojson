@@ -1,0 +1,62 @@
+{
+  "id": 1209648365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.46053,10.68898,4.46053,10.68898",
+    "geom:latitude":10.68898,
+    "geom:longitude":4.46053,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27002.0",
+    "gn:asciiname":"Ketere Utula",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014597,
+    "gn:latitude":10.68898,
+    "gn:longitude":4.46053,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ketere Utula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014597
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"392702e5c21773bb9b189274d07f1467",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648365
+        }
+    ],
+    "wof:id":1209648365,
+    "wof:lastmodified":1536280661,
+    "wof:name":"Ketere Utula",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.46053,
+    10.68898,
+    4.46053,
+    10.68898
+],
+  "geometry": {"coordinates":[4.46053,10.68898],"type":"Point"}
+}

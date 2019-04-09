@@ -1,0 +1,63 @@
+{
+  "id": 1209381447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.12474,10.73134,13.12474,10.73134",
+    "geom:latitude":10.73134,
+    "geom:longitude":13.12474,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10206",
+    "gn:asciiname":"Mumtal",
+    "gn:country_code":"NG",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760332,
+    "gn:latitude":10.73134,
+    "gn:longitude":13.12474,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mumtal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760332
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"594474b175799d6149ec13f37e9cab99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209381447
+        }
+    ],
+    "wof:id":1209381447,
+    "wof:lastmodified":1536288769,
+    "wof:name":"Mumtal",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.12474,
+    10.73134,
+    13.12474,
+    10.73134
+],
+  "geometry": {"coordinates":[13.12474,10.73134],"type":"Point"}
+}

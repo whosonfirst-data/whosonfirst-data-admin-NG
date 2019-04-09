@@ -1,0 +1,67 @@
+{
+  "id": 1209548647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.68333,7.55,4.68333,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":4.68333,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30004.0",
+    "gn:asciiname":"Ijano",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338421,
+    "gn:latitude":7.55,
+    "gn:longitude":4.68333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ijana",
+        "Ijano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338421
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f961b00aaea9f2dbf7aa82a4a90d668a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209548647
+        }
+    ],
+    "wof:id":1209548647,
+    "wof:lastmodified":1537675198,
+    "wof:name":"Ijano",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.68333,
+    7.55,
+    4.68333,
+    7.55
+],
+  "geometry": {"coordinates":[4.68333,7.55],"type":"Point"}
+}

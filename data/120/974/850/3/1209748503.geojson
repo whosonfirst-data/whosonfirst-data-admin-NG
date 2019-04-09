@@ -1,0 +1,67 @@
+{
+  "id": 1209748503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05976,11.2414,6.05976,11.2414",
+    "geom:latitude":11.2414,
+    "geom:longitude":6.05976,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Marafe",
+    "gn:country_code":"NG",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330832,
+    "gn:latitude":11.2414,
+    "gn:longitude":6.05976,
+    "gn:modification_date":"2009-06-02",
+    "gn:name":"Marafe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330832
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"24d4192cb36140c87d7c1036b366628b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563953,
+            "locality_id":1209748503,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1209748503,
+    "wof:lastmodified":1536393875,
+    "wof:name":"Marafe",
+    "wof:parent_id":1108563953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05976,
+    11.2414,
+    6.05976,
+    11.2414
+],
+  "geometry": {"coordinates":[6.05976,11.2414],"type":"Point"}
+}

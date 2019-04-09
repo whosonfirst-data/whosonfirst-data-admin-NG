@@ -1,0 +1,63 @@
+{
+  "id": 1209241229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04702,12.41933,6.04702,12.41933",
+    "geom:latitude":12.41933,
+    "geom:longitude":6.04702,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"812.0",
+    "gn:admin3_code":"81211",
+    "gn:asciiname":"Sauna",
+    "gn:country_code":"NG",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323583,
+    "gn:latitude":12.41933,
+    "gn:longitude":6.04702,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sauna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323583
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6ab6105f527e436e516f934ffdc1137b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241229
+        }
+    ],
+    "wof:id":1209241229,
+    "wof:lastmodified":1536293314,
+    "wof:name":"Sauna",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04702,
+    12.41933,
+    6.04702,
+    12.41933
+],
+  "geometry": {"coordinates":[6.04702,12.41933],"type":"Point"}
+}

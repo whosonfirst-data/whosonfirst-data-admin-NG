@@ -1,0 +1,68 @@
+{
+  "id": 1360138103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21155,10.3666,13.21155,10.3666",
+    "geom:latitude":10.3666,
+    "geom:longitude":13.21155,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Pongel",
+    "gn:country_code":"NG",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760417,
+    "gn:latitude":10.3666,
+    "gn:longitude":13.21155,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pongel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760417
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3806fb85470a5f46b4a3227e86d56538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":1360138103,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1360138103,
+    "wof:lastmodified":1536868124,
+    "wof:name":"Pongel",
+    "wof:parent_id":1108563997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21155,
+    10.3666,
+    13.21155,
+    10.3666
+],
+  "geometry": {"coordinates":[13.21155,10.3666],"type":"Point"}
+}

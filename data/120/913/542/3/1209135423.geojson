@@ -1,0 +1,62 @@
+{
+  "id": 1209135423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.02316,4.86338,7.02316,4.86338",
+    "geom:latitude":4.86338,
+    "geom:longitude":7.02316,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33015.0",
+    "gn:asciiname":"Aliosu",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591714,
+    "gn:latitude":4.86338,
+    "gn:longitude":7.02316,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aliosu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591714
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"89f1d91ac4a7b989b9791ad88256f74e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209135423
+        }
+    ],
+    "wof:id":1209135423,
+    "wof:lastmodified":1536296676,
+    "wof:name":"Aliosu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.023160000000002,
+    4.86338,
+    7.023160000000002,
+    4.86338
+],
+  "geometry": {"coordinates":[7.02316,4.86338],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293553145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.87397,6.97225,3.87397,6.97225",
+    "geom:latitude":6.97225,
+    "geom:longitude":3.87397,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28009.0",
+    "gn:asciiname":"Nene",
+    "gn:country_code":"NG",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826423,
+    "gn:latitude":6.97225,
+    "gn:longitude":3.87397,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826423
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eb0f14ca0ea1a0ce7c8e239f2faad4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563573,
+            "locality_id":1293553145,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1293553145,
+    "wof:lastmodified":1536692802,
+    "wof:name":"Nene",
+    "wof:parent_id":1108563573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.87397,
+    6.97225,
+    3.87397,
+    6.97225
+],
+  "geometry": {"coordinates":[3.87397,6.97225],"type":"Point"}
+}

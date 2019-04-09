@@ -1,0 +1,68 @@
+{
+  "id": 1360318371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01667,8.91667,6.01667,8.91667",
+    "geom:latitude":8.91667,
+    "geom:longitude":6.01667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007.0",
+    "gn:asciiname":"Ejikonagi",
+    "gn:country_code":"NG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343780,
+    "gn:latitude":8.91667,
+    "gn:longitude":6.01667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ejikonagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343780
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d37f8ccdba3bb9232b854d3926ebff4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1360318371,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360318371,
+    "wof:lastmodified":1536606186,
+    "wof:name":"Ejikonagi",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01667,
+    8.91667,
+    6.01667,
+    8.91667
+],
+  "geometry": {"coordinates":[6.01667,8.91667],"type":"Point"}
+}

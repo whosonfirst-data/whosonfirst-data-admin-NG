@@ -1,0 +1,63 @@
+{
+  "id": 1209134355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.35654,12.65068,9.35654,12.65068",
+    "geom:latitude":12.65068,
+    "geom:longitude":9.35654,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18006.0",
+    "gn:admin3_code":"JI0903",
+    "gn:asciiname":"Sampu",
+    "gn:country_code":"NG",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323812,
+    "gn:latitude":12.65068,
+    "gn:longitude":9.35654,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sampu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323812
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"986ee24a22bdbe33fb986152104cd762",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134355
+        }
+    ],
+    "wof:id":1209134355,
+    "wof:lastmodified":1536296709,
+    "wof:name":"Sampu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.35654,
+    12.65068,
+    9.35654,
+    12.65068
+],
+  "geometry": {"coordinates":[9.35654,12.65068],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310038789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95168,9.56076,9.95168,9.56076",
+    "geom:latitude":9.56076,
+    "geom:longitude":9.95168,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kanan",
+    "gn:country_code":"NG",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11132853,
+    "gn:latitude":9.56076,
+    "gn:longitude":9.95168,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Kanan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kanan"
+    ],
+    "name:eng_x_variant":[
+        "Kanam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11132853
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5be241e87b1a077ac6b2832603a2fc5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563767,
+            "locality_id":1310038789,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1310038789,
+    "wof:lastmodified":1537675480,
+    "wof:name":"Kanan",
+    "wof:parent_id":1108563767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95168,
+    9.56076,
+    9.95168,
+    9.56076
+],
+  "geometry": {"coordinates":[9.95168,9.56076],"type":"Point"}
+}

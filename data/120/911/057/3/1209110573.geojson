@@ -1,0 +1,62 @@
+{
+  "id": 1209110573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38028,6.48194,3.38028,6.48194",
+    "geom:latitude":6.48194,
+    "geom:longitude":3.38028,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25005.0",
+    "gn:asciiname":"Ijero",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566651,
+    "gn:latitude":6.48194,
+    "gn:longitude":3.38028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566651
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"46ff98977a1cfcda6840106dd7c03026",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209110573
+        }
+    ],
+    "wof:id":1209110573,
+    "wof:lastmodified":1536297420,
+    "wof:name":"Ijero",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3802800000000004,
+    6.48194,
+    3.3802800000000004,
+    6.48194
+],
+  "geometry": {"coordinates":[3.38028,6.48194],"type":"Point"}
+}

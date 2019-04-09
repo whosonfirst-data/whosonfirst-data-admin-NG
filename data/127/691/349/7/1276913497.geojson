@@ -1,0 +1,73 @@
+{
+  "id": 1276913497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.8284,10.8751,4.8284,10.8751",
+    "geom:latitude":10.8751,
+    "geom:longitude":4.8284,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"520.0",
+    "gn:admin3_code":"52007",
+    "gn:asciiname":"Tungan Maikaho",
+    "gn:country_code":"NG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321315,
+    "gn:latitude":10.8751,
+    "gn:longitude":4.8284,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tungan Maikaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinsani",
+        "Tungan Maikaho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321315
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2c745aec0a3f74daeb8cd9931feefaef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564027,
+            "locality_id":1276913497,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1276913497,
+    "wof:lastmodified":1537674965,
+    "wof:name":"Tungan Maikaho",
+    "wof:parent_id":1108564027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8284,
+    10.8751,
+    4.8284,
+    10.8751
+],
+  "geometry": {"coordinates":[4.8284,10.8751],"type":"Point"}
+}

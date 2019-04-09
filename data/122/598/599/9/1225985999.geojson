@@ -1,0 +1,68 @@
+{
+  "id": 1225985999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.0,7.88333,4.0,7.88333",
+    "geom:latitude":7.88333,
+    "geom:longitude":4.0,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31029.0",
+    "gn:asciiname":"Idode",
+    "gn:country_code":"NG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338991,
+    "gn:latitude":7.88333,
+    "gn:longitude":4.0,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338991
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb3a5b4f55d1073c9e159d738c35dc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564267,
+            "locality_id":1225985999,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1225985999,
+    "wof:lastmodified":1536810713,
+    "wof:name":"Idode",
+    "wof:parent_id":1108564267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.0,
+    7.88333,
+    4.0,
+    7.88333
+],
+  "geometry": {"coordinates":[4.0,7.88333],"type":"Point"}
+}

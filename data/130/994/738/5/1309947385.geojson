@@ -1,0 +1,68 @@
+{
+  "id": 1309947385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.08333,7.26667,4.08333,7.26667",
+    "geom:latitude":7.26667,
+    "geom:longitude":4.08333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31026.0",
+    "gn:asciiname":"Awise",
+    "gn:country_code":"NG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348776,
+    "gn:latitude":7.26667,
+    "gn:longitude":4.08333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awise",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348776
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b13ebcc3bb69518cd7b87d0de962f825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564183,
+            "locality_id":1309947385,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1309947385,
+    "wof:lastmodified":1536727465,
+    "wof:name":"Awise",
+    "wof:parent_id":1108564183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08333,
+    7.26667,
+    4.08333,
+    7.26667
+],
+  "geometry": {"coordinates":[4.08333,7.26667],"type":"Point"}
+}

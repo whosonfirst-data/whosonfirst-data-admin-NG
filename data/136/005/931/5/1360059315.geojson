@@ -1,0 +1,71 @@
+{
+  "id": 1360059315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1784,4.71691,8.1784,4.71691",
+    "geom:latitude":4.71691,
+    "geom:longitude":8.1784,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3030.0",
+    "gn:asciiname":"Oruko",
+    "gn:country_code":"NG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325643,
+    "gn:latitude":4.71691,
+    "gn:longitude":8.1784,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oruko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oduko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325643
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"10cdd7a37f8dc1ae4e4a475318934872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564473,
+            "locality_id":1360059315,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1360059315,
+    "wof:lastmodified":1537675019,
+    "wof:name":"Oruko",
+    "wof:parent_id":1108564473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1784,
+    4.71691,
+    8.1784,
+    4.71691
+],
+  "geometry": {"coordinates":[8.1784,4.71691],"type":"Point"}
+}

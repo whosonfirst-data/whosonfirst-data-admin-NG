@@ -1,0 +1,68 @@
+{
+  "id": 1360117861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.26667,9.61667,5.26667,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":5.26667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27016.0",
+    "gn:asciiname":"Sanaga",
+    "gn:country_code":"NG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323804,
+    "gn:latitude":9.61667,
+    "gn:longitude":5.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sanaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323804
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a82f7478c880499170ec331f9b6f718c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563955,
+            "locality_id":1360117861,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360117861,
+    "wof:lastmodified":1536898377,
+    "wof:name":"Sanaga",
+    "wof:parent_id":1108563955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26667,
+    9.61667,
+    5.26667,
+    9.61667
+],
+  "geometry": {"coordinates":[5.26667,9.61667],"type":"Point"}
+}

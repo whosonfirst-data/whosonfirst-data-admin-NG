@@ -1,0 +1,68 @@
+{
+  "id": 1293838105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.23511,7.15996,9.23511,7.15996",
+    "geom:latitude":7.15996,
+    "geom:longitude":9.23511,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Ugye",
+    "gn:country_code":"NG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638449,
+    "gn:latitude":7.15996,
+    "gn:longitude":9.23511,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638449
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4302f17eb7b9bfedbc75349c35b680f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1293838105,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293838105,
+    "wof:lastmodified":1536779392,
+    "wof:name":"Ugye",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.23511,
+    7.15996,
+    9.23511,
+    7.15996
+],
+  "geometry": {"coordinates":[9.23511,7.15996],"type":"Point"}
+}

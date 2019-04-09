@@ -1,0 +1,71 @@
+{
+  "id": 1360015253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67795,9.68811,6.67795,9.68811",
+    "geom:latitude":9.68811,
+    "geom:longitude":6.67795,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Gunudan",
+    "gn:country_code":"NG",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410126,
+    "gn:latitude":9.68811,
+    "gn:longitude":6.67795,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gunudan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "River Gunudan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410126
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"167192cefc1e1b847c61b78f374983bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1360015253,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360015253,
+    "wof:lastmodified":1537675470,
+    "wof:name":"Gunudan",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67795,
+    9.68811,
+    6.67795,
+    9.68811
+],
+  "geometry": {"coordinates":[6.67795,9.68811],"type":"Point"}
+}

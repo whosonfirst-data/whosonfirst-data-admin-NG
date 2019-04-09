@@ -1,0 +1,68 @@
+{
+  "id": 1343816683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80364,5.17819,7.80364,5.17819",
+    "geom:latitude":5.17819,
+    "geom:longitude":7.80364,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3012.0",
+    "gn:asciiname":"Ekpene Ediene",
+    "gn:country_code":"NG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074215,
+    "gn:latitude":5.17819,
+    "gn:longitude":7.80364,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekpene Ediene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074215
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d522e305d06bd093e74a3f17d826a1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563601,
+            "locality_id":1343816683,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1343816683,
+    "wof:lastmodified":1536730289,
+    "wof:name":"Ekpene Ediene",
+    "wof:parent_id":1108563601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80364,
+    5.17819,
+    7.80364,
+    5.17819
+],
+  "geometry": {"coordinates":[7.80364,5.17819],"type":"Point"}
+}

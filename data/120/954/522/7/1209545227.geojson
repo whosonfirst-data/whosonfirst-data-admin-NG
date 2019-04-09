@@ -1,0 +1,62 @@
+{
+  "id": 1209545227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.73797,9.56217,8.73797,9.56217",
+    "geom:latitude":9.56217,
+    "geom:longitude":8.73797,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32015.0",
+    "gn:asciiname":"Dahot",
+    "gn:country_code":"NG",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345690,
+    "gn:latitude":9.56217,
+    "gn:longitude":8.73797,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dahot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345690
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"13c4ca0c2488b8d84298d2c0a631741b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545227
+        }
+    ],
+    "wof:id":1209545227,
+    "wof:lastmodified":1536283863,
+    "wof:name":"Dahot",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.737969999999999,
+    9.56217,
+    8.737969999999999,
+    9.56217
+],
+  "geometry": {"coordinates":[8.73797,9.56217],"type":"Point"}
+}

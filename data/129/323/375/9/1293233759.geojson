@@ -1,0 +1,70 @@
+{
+  "id": 1293233759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.94514,9.88442,10.94514,9.88442",
+    "geom:latitude":9.88442,
+    "geom:longitude":10.94514,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kufa",
+    "gn:country_code":"NG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258956,
+    "gn:latitude":9.88442,
+    "gn:longitude":10.94514,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Kufa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kufa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258956
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bd05182aee06aaf79da8ad4d0efdea5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1293233759,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1293233759,
+    "wof:lastmodified":1537675514,
+    "wof:name":"Kufa",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.94514,
+    9.88442,
+    10.94514,
+    9.88442
+],
+  "geometry": {"coordinates":[10.94514,9.88442],"type":"Point"}
+}

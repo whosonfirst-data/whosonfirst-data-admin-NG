@@ -1,0 +1,73 @@
+{
+  "id": 1309754895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06667,7.81667,4.06667,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":4.06667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31001.0",
+    "gn:asciiname":"Buraimo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346388,
+    "gn:latitude":7.81667,
+    "gn:longitude":4.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Buraimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burdimaw",
+        "Buraimo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346388
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"91b115d45066baf354458af507937e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562925,
+            "locality_id":1309754895,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1309754895,
+    "wof:lastmodified":1537675320,
+    "wof:name":"Buraimo",
+    "wof:parent_id":1108562925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06667,
+    7.81667,
+    4.06667,
+    7.81667
+],
+  "geometry": {"coordinates":[4.06667,7.81667],"type":"Point"}
+}

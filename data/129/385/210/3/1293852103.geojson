@@ -1,0 +1,69 @@
+{
+  "id": 1293852103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.63333,11.76667,7.63333,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":7.63333,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"425.0",
+    "gn:admin3_code":"42507",
+    "gn:asciiname":"Ungwan Ganga",
+    "gn:country_code":"NG",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320009,
+    "gn:latitude":11.76667,
+    "gn:longitude":7.63333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Ganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320009
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7d79812261a6ed631e871eb76d7eea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563937,
+            "locality_id":1293852103,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1293852103,
+    "wof:lastmodified":1536758807,
+    "wof:name":"Ungwan Ganga",
+    "wof:parent_id":1108563937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.63333,
+    11.76667,
+    7.63333,
+    11.76667
+],
+  "geometry": {"coordinates":[7.63333,11.76667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242732271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.17203,7.68579,9.17203,7.68579",
+    "geom:latitude":7.68579,
+    "geom:longitude":9.17203,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Tseanakar",
+    "gn:country_code":"NG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9526193,
+    "gn:latitude":7.68579,
+    "gn:longitude":9.17203,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseanakar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9526193
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f0766ea2d8714095d3f10101d42c77a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1242732271,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1242732271,
+    "wof:lastmodified":1536840091,
+    "wof:name":"Tseanakar",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.17203,
+    7.68579,
+    9.17203,
+    7.68579
+],
+  "geometry": {"coordinates":[9.17203,7.68579],"type":"Point"}
+}

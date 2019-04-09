@@ -1,0 +1,72 @@
+{
+  "id": 1259961787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.66449,6.74269,3.66449,6.74269",
+    "geom:latitude":6.74269,
+    "geom:longitude":3.66449,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28020.0",
+    "gn:asciiname":"Ode-Lemo",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328070,
+    "gn:latitude":6.74269,
+    "gn:longitude":3.66449,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ode-Lemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ode-Lemaw",
+        "Ode-Lemo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108564341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328070
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b7e1dff853be082e378f4da0b70ef2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564341,
+            "locality_id":1259961787,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1259961787,
+    "wof:lastmodified":1537675060,
+    "wof:name":"Ode-Lemo",
+    "wof:parent_id":1108564341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.66449,
+    6.74269,
+    3.66449,
+    6.74269
+],
+  "geometry": {"coordinates":[3.66449,6.74269],"type":"Point"}
+}

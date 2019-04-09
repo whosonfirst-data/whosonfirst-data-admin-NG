@@ -1,0 +1,73 @@
+{
+  "id": 1343357691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38361,6.60056,3.38361,6.60056",
+    "geom:latitude":6.60056,
+    "geom:longitude":3.38361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25013.0",
+    "gn:asciiname":"Ososun",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566682,
+    "gn:latitude":6.60056,
+    "gn:longitude":3.38361,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ososun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onikosi",
+        "Ososun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        1108563843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566682
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"34855a9204aaafb4b5b49d99574d163c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563843,
+            "locality_id":1343357691,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1343357691,
+    "wof:lastmodified":1537675399,
+    "wof:name":"Ososun",
+    "wof:parent_id":1108563843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.38361,
+    6.60056,
+    3.38361,
+    6.60056
+],
+  "geometry": {"coordinates":[3.38361,6.60056],"type":"Point"}
+}

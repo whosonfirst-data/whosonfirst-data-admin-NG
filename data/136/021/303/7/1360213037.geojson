@@ -1,0 +1,68 @@
+{
+  "id": 1360213037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08517,10.07556,6.08517,10.07556",
+    "geom:latitude":10.07556,
+    "geom:longitude":6.08517,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Inga",
+    "gn:country_code":"NG",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337502,
+    "gn:latitude":10.07556,
+    "gn:longitude":6.08517,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Inga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337502
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76e4f3d2d52067aebf56283291bc09a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564291,
+            "locality_id":1360213037,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360213037,
+    "wof:lastmodified":1536761457,
+    "wof:name":"Inga",
+    "wof:parent_id":1108564291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08517,
+    10.07556,
+    6.08517,
+    10.07556
+],
+  "geometry": {"coordinates":[6.08517,10.07556],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209167675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40059,10.59636,13.40059,10.59636",
+    "geom:latitude":10.59636,
+    "geom:longitude":13.40059,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013.0",
+    "gn:asciiname":"Muzuku",
+    "gn:country_code":"NG",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760483,
+    "gn:latitude":10.59636,
+    "gn:longitude":13.40059,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Muzuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760483
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9079ad59be15b1395c4c5fd1f81c29ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209167675
+        }
+    ],
+    "wof:id":1209167675,
+    "wof:lastmodified":1536295688,
+    "wof:name":"Muzuku",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40059,
+    10.59636,
+    13.40059,
+    10.59636
+],
+  "geometry": {"coordinates":[13.40059,10.59636],"type":"Point"}
+}

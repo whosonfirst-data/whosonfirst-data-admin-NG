@@ -1,0 +1,63 @@
+{
+  "id": 1209242399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.934,13.24826,4.934,13.24826",
+    "geom:latitude":13.24826,
+    "geom:longitude":4.934,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"601.0",
+    "gn:admin3_code":"60110",
+    "gn:asciiname":"Toidi Zaidi",
+    "gn:country_code":"NG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007323,
+    "gn:latitude":13.24826,
+    "gn:longitude":4.934,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Toidi Zaidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007323
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c395ec73880393f2922333426d17491a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209242399
+        }
+    ],
+    "wof:id":1209242399,
+    "wof:lastmodified":1536293276,
+    "wof:name":"Toidi Zaidi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.934,
+    13.24826,
+    4.934,
+    13.24826
+],
+  "geometry": {"coordinates":[4.934,13.24826],"type":"Point"}
+}

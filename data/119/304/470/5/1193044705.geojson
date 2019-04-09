@@ -1,0 +1,68 @@
+{
+  "id": 1193044705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.73333,7.81667,4.73333,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":4.73333,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30024.0",
+    "gn:asciiname":"Ipetu",
+    "gn:country_code":"NG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337375,
+    "gn:latitude":7.81667,
+    "gn:longitude":4.73333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ipetu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108564077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337375
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d3c9b9d3f84a351d076b27dba87fccef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564077,
+            "locality_id":1193044705,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1193044705,
+    "wof:lastmodified":1536372221,
+    "wof:name":"Ipetu",
+    "wof:parent_id":1108564077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.73333,
+    7.81667,
+    4.73333,
+    7.81667
+],
+  "geometry": {"coordinates":[4.73333,7.81667],"type":"Point"}
+}

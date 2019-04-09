@@ -1,0 +1,69 @@
+{
+  "id": 1327461431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46667,13.36667,6.46667,13.36667",
+    "geom:latitude":13.36667,
+    "geom:longitude":6.46667,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"613.0",
+    "gn:admin3_code":"61302",
+    "gn:asciiname":"Magira",
+    "gn:country_code":"NG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331540,
+    "gn:latitude":13.36667,
+    "gn:longitude":6.46667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Magira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331540
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2e52a8e240b42cfaf9591826f4fa2653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564313,
+            "locality_id":1327461431,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1327461431,
+    "wof:lastmodified":1536637892,
+    "wof:name":"Magira",
+    "wof:parent_id":1108564313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46667,
+    13.36667,
+    6.46667,
+    13.36667
+],
+  "geometry": {"coordinates":[6.46667,13.36667],"type":"Point"}
+}

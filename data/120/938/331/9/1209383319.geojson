@@ -1,0 +1,63 @@
+{
+  "id": 1209383319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.898,11.13842,7.898,11.13842",
+    "geom:latitude":11.13842,
+    "geom:longitude":7.898,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19021.0",
+    "gn:admin3_code":"KD2106",
+    "gn:asciiname":"Surdu",
+    "gn:country_code":"NG",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322746,
+    "gn:latitude":11.13842,
+    "gn:longitude":7.898,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Surdu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322746
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5681a0de73c73f0f6dc891bc462f4e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209383319
+        }
+    ],
+    "wof:id":1209383319,
+    "wof:lastmodified":1536288709,
+    "wof:name":"Surdu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.898,
+    11.13842,
+    7.898,
+    11.13842
+],
+  "geometry": {"coordinates":[7.898,11.13842],"type":"Point"}
+}

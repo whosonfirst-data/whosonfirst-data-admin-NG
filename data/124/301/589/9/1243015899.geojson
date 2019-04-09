@@ -1,0 +1,68 @@
+{
+  "id": 1243015899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.03747,7.0275,9.03747,7.0275",
+    "geom:latitude":7.0275,
+    "geom:longitude":9.03747,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7023",
+    "gn:asciiname":"Tyagher",
+    "gn:country_code":"NG",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638046,
+    "gn:latitude":7.0275,
+    "gn:longitude":9.03747,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tyagher",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638046
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b1ae27552ae8fc95d9a80fa773110c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564487,
+            "locality_id":1243015899,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243015899,
+    "wof:lastmodified":1536929928,
+    "wof:name":"Tyagher",
+    "wof:parent_id":1108564487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.03747,
+    7.0275,
+    9.03747,
+    7.0275
+],
+  "geometry": {"coordinates":[9.03747,7.0275],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226385337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1288,6.17779,5.1288,6.17779",
+    "geom:latitude":6.17779,
+    "geom:longitude":5.1288,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ajatitun",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6965398,
+    "gn:latitude":6.17779,
+    "gn:longitude":5.1288,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ajatitun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6965398
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e14656fa67cbc67502bf963233665e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563323,
+            "locality_id":1226385337,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1226385337,
+    "wof:lastmodified":1536732842,
+    "wof:name":"Ajatitun",
+    "wof:parent_id":1108563323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1288,
+    6.17779,
+    5.1288,
+    6.17779
+],
+  "geometry": {"coordinates":[5.1288,6.17779],"type":"Point"}
+}

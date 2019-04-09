@@ -1,0 +1,73 @@
+{
+  "id": 1226482409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.00605,8.67089,12.00605,8.67089",
+    "geom:latitude":8.67089,
+    "geom:longitude":12.00605,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Najira",
+    "gn:country_code":"NG",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329518,
+    "gn:latitude":8.67089,
+    "gn:longitude":12.00605,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Najira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangala",
+        "Mangl\u0101",
+        "Najira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329518
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ecd5ccd4c7fb708e73efc53135b1542b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1226482409,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226482409,
+    "wof:lastmodified":1537675083,
+    "wof:name":"Najira",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.00605,
+    8.67089,
+    12.00605,
+    8.67089
+],
+  "geometry": {"coordinates":[12.00605,8.67089],"type":"Point"}
+}

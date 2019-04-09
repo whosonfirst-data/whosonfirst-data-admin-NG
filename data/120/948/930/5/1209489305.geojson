@@ -1,0 +1,62 @@
+{
+  "id": 1209489305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.99077,4.56656,7.99077,4.56656",
+    "geom:latitude":4.56656,
+    "geom:longitude":7.99077,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Mkpanak",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7054635,
+    "gn:latitude":4.56656,
+    "gn:longitude":7.99077,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mkpanak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7054635
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"267ae8ee0a168ed1ea74e7a811707f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209489305
+        }
+    ],
+    "wof:id":1209489305,
+    "wof:lastmodified":1536285537,
+    "wof:name":"Mkpanak",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.990769999999999,
+    4.56656,
+    7.990769999999999,
+    4.56656
+],
+  "geometry": {"coordinates":[7.99077,4.56656],"type":"Point"}
+}

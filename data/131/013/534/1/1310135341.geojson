@@ -1,0 +1,68 @@
+{
+  "id": 1310135341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9194,8.78243,9.9194,8.78243",
+    "geom:latitude":8.78243,
+    "geom:longitude":9.9194,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32017",
+    "gn:asciiname":"Meyanga",
+    "gn:country_code":"NG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925728,
+    "gn:latitude":8.78243,
+    "gn:longitude":9.9194,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Meyanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925728
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"daba886427a814e7b38a687c500800d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564507,
+            "locality_id":1310135341,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1310135341,
+    "wof:lastmodified":1536953677,
+    "wof:name":"Meyanga",
+    "wof:parent_id":1108564507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9194,
+    8.78243,
+    9.9194,
+    8.78243
+],
+  "geometry": {"coordinates":[9.9194,8.78243],"type":"Point"}
+}

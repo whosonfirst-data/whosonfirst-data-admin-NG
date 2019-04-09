@@ -1,0 +1,73 @@
+{
+  "id": 1343987507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.26667,7.86667,4.26667,7.86667",
+    "geom:latitude":7.86667,
+    "geom:longitude":4.26667,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30010.0",
+    "gn:asciiname":"Isundunrin",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337092,
+    "gn:latitude":7.86667,
+    "gn:longitude":4.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isundunrin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ishudunrin",
+        "Isundunrin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108563283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337092
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"709a0cb5b9cb7030d05036e0a6a191ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563283,
+            "locality_id":1343987507,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1343987507,
+    "wof:lastmodified":1537675177,
+    "wof:name":"Isundunrin",
+    "wof:parent_id":1108563283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.26667,
+    7.86667,
+    4.26667,
+    7.86667
+],
+  "geometry": {"coordinates":[4.26667,7.86667],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1326568561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15286,6.57221,6.15286,6.57221",
+    "geom:latitude":6.57221,
+    "geom:longitude":6.15286,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006.0",
+    "gn:asciiname":"Izogeri",
+    "gn:country_code":"NG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336734,
+    "gn:latitude":6.57221,
+    "gn:longitude":6.15286,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Izogeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Isogen"
+    ],
+    "name:eng_x_variant":[
+        "Izogen",
+        "Izogem"
+    ],
+    "name:und_x_variant":[
+        "Izogem",
+        "Izogen",
+        "Izogeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336734
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c9e01f54da40c7c1bcc535ba3c5f290f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563321,
+            "locality_id":1326568561,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1326568561,
+    "wof:lastmodified":1537675170,
+    "wof:name":"Izogeri",
+    "wof:parent_id":1108563321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15286,
+    6.57221,
+    6.15286,
+    6.57221
+],
+  "geometry": {"coordinates":[6.15286,6.57221],"type":"Point"}
+}

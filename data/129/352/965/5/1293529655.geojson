@@ -1,0 +1,70 @@
+{
+  "id": 1293529655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.80401,9.05568,11.80401,9.05568",
+    "geom:latitude":9.05568,
+    "geom:longitude":11.80401,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Danpente",
+    "gn:country_code":"NG",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210460,
+    "gn:latitude":9.05568,
+    "gn:longitude":11.80401,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Danpente",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Danpente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210460
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"288bcf88a310f0079db79138e066c0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1293529655,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293529655,
+    "wof:lastmodified":1537675507,
+    "wof:name":"Danpente",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.80401,
+    9.05568,
+    11.80401,
+    9.05568
+],
+  "geometry": {"coordinates":[11.80401,9.05568],"type":"Point"}
+}

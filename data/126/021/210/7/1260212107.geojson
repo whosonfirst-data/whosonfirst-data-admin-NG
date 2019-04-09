@@ -1,0 +1,68 @@
+{
+  "id": 1260212107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.76667,8.05,6.76667,8.05",
+    "geom:latitude":8.05,
+    "geom:longitude":6.76667,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23012.0",
+    "gn:asciiname":"Ohinki",
+    "gn:country_code":"NG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327472,
+    "gn:latitude":8.05,
+    "gn:longitude":6.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ohinki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327472
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"abec544cf5058c060d17b55cde4a80cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563907,
+            "locality_id":1260212107,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1260212107,
+    "wof:lastmodified":1536808534,
+    "wof:name":"Ohinki",
+    "wof:parent_id":1108563907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76667,
+    8.05,
+    6.76667,
+    8.05
+],
+  "geometry": {"coordinates":[6.76667,8.05],"type":"Point"}
+}

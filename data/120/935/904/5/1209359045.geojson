@@ -1,0 +1,64 @@
+{
+  "id": 1209359045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75542,9.22539,11.75542,9.22539",
+    "geom:latitude":9.22539,
+    "geom:longitude":11.75542,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Maibadaku",
+    "gn:country_code":"NG",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210363,
+    "gn:latitude":9.22539,
+    "gn:longitude":11.75542,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Maibadaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maibadaku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210363
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0963c80f94943e674d9ba22b7f6a5b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209359045
+        }
+    ],
+    "wof:id":1209359045,
+    "wof:lastmodified":1537675506,
+    "wof:name":"Maibadaku",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75542,
+    9.22539,
+    11.75542,
+    9.22539
+],
+  "geometry": {"coordinates":[11.75542,9.22539],"type":"Point"}
+}

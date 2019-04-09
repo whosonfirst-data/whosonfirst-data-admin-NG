@@ -1,0 +1,68 @@
+{
+  "id": 1209844135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56701,8.95141,9.56701,8.95141",
+    "geom:latitude":8.95141,
+    "geom:longitude":9.56701,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32012",
+    "gn:asciiname":"Wantul",
+    "gn:country_code":"NG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922009,
+    "gn:latitude":8.95141,
+    "gn:longitude":9.56701,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wantul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922009
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ff7cc8921a8f0d24cc27e945af4f048e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563973,
+            "locality_id":1209844135,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1209844135,
+    "wof:lastmodified":1536391434,
+    "wof:name":"Wantul",
+    "wof:parent_id":1108563973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56701,
+    8.95141,
+    9.56701,
+    8.95141
+],
+  "geometry": {"coordinates":[9.56701,8.95141],"type":"Point"}
+}

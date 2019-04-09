@@ -1,0 +1,71 @@
+{
+  "id": 1293152531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43768,6.80159,6.43768,6.80159",
+    "geom:latitude":6.80159,
+    "geom:longitude":6.43768,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Uroh",
+    "gn:country_code":"NG",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319672,
+    "gn:latitude":6.80159,
+    "gn:longitude":6.43768,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uroh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uroh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319672
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c6ee2d82b0e78b871839a739b5002ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1293152531,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1293152531,
+    "wof:lastmodified":1537674920,
+    "wof:name":"Uroh",
+    "wof:parent_id":1108563317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43768,
+    6.80159,
+    6.43768,
+    6.80159
+],
+  "geometry": {"coordinates":[6.43768,6.80159],"type":"Point"}
+}

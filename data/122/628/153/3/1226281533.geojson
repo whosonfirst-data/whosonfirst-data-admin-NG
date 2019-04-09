@@ -1,0 +1,72 @@
+{
+  "id": 1226281533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89309,5.65933,5.89309,5.65933",
+    "geom:latitude":5.65933,
+    "geom:longitude":5.89309,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10013.0",
+    "gn:asciiname":"Okunoh",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326839,
+    "gn:latitude":5.65933,
+    "gn:longitude":5.89309,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Okunoh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okunu",
+        "Okunoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326839
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7dc62bfabe31883996d4719a3baf3486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564161,
+            "locality_id":1226281533,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226281533,
+    "wof:lastmodified":1537675035,
+    "wof:name":"Okunoh",
+    "wof:parent_id":1108564161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89309,
+    5.65933,
+    5.89309,
+    5.65933
+],
+  "geometry": {"coordinates":[5.89309,5.65933],"type":"Point"}
+}

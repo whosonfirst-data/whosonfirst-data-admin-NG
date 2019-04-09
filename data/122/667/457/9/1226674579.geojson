@@ -1,0 +1,68 @@
+{
+  "id": 1226674579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.14486,6.0482,8.14486,6.0482",
+    "geom:latitude":6.0482,
+    "geom:longitude":8.14486,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007",
+    "gn:asciiname":"Isieke",
+    "gn:country_code":"NG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274790,
+    "gn:latitude":6.0482,
+    "gn:longitude":8.14486,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isieke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274790
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aa09773fb9041490ed48099b804f35b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1226674579,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1226674579,
+    "wof:lastmodified":1536817286,
+    "wof:name":"Isieke",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.14486,
+    6.0482,
+    8.14486,
+    6.0482
+],
+  "geometry": {"coordinates":[8.14486,6.0482],"type":"Point"}
+}

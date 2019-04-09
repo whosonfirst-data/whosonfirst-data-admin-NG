@@ -1,0 +1,63 @@
+{
+  "id": 1209264765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9409,12.04276,8.9409,12.04276",
+    "geom:latitude":12.04276,
+    "geom:longitude":8.9409,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20004.0",
+    "gn:admin3_code":"KN0107",
+    "gn:asciiname":"Paima",
+    "gn:country_code":"NG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974905,
+    "gn:latitude":12.04276,
+    "gn:longitude":8.9409,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Paima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974905
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"92534c2971500400c3f42479b6fa5d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209264765
+        }
+    ],
+    "wof:id":1209264765,
+    "wof:lastmodified":1536292572,
+    "wof:name":"Paima",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9409,
+    12.04276,
+    8.9409,
+    12.04276
+],
+  "geometry": {"coordinates":[8.9409,12.04276],"type":"Point"}
+}

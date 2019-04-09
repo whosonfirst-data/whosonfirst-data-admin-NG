@@ -1,0 +1,70 @@
+{
+  "id": 1260314789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.60778,9.27917,11.60778,9.27917",
+    "geom:latitude":9.27917,
+    "geom:longitude":11.60778,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Hushan",
+    "gn:country_code":"NG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209248,
+    "gn:latitude":9.27917,
+    "gn:longitude":11.60778,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Hushan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hushan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209248
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1cc5638d871a79e33d478a00e82bc9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":1260314789,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1260314789,
+    "wof:lastmodified":1537675498,
+    "wof:name":"Hushan",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.60778,
+    9.27917,
+    11.60778,
+    9.27917
+],
+  "geometry": {"coordinates":[11.60778,9.27917],"type":"Point"}
+}

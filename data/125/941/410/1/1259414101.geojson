@@ -1,0 +1,68 @@
+{
+  "id": 1259414101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73384,9.72373,6.73384,9.72373",
+    "geom:latitude":9.72373,
+    "geom:longitude":6.73384,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Sunpeana",
+    "gn:country_code":"NG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410124,
+    "gn:latitude":9.72373,
+    "gn:longitude":6.73384,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sunpeana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410124
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b24f0c7fcabbe21fcc2b2dcfda3b76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1259414101,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1259414101,
+    "wof:lastmodified":1536958538,
+    "wof:name":"Sunpeana",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73384,
+    9.72373,
+    6.73384,
+    9.72373
+],
+  "geometry": {"coordinates":[6.73384,9.72373],"type":"Point"}
+}

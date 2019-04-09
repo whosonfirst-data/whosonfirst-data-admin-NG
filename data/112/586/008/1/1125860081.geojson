@@ -1,0 +1,81 @@
+{
+  "id": 1125860081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.72227,7.75833,5.72227,7.75833",
+    "geom:latitude":7.75833,
+    "geom:longitude":5.72227,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6317,
+    "gn:population":6317,
+    "iso:country":"NG",
+    "lbl:latitude":7.75833,
+    "lbl:longitude":5.72227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Omuo-Kota"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2326188,
+    "qs_pg:gn_pop":6317,
+    "qs_pg:name":"Omuo-Ekiti",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":91249,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326188,
+        "qs_pg:id":91249
+    },
+    "wof:country":"NG",
+    "wof:created":1497293791,
+    "wof:geomhash":"c6b8f8f554317aaa8a1fa23a0c43d8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563289,
+            "locality_id":1125860081,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1125860081,
+    "wof:lastmodified":1509396535,
+    "wof:name":"Omuo-Ekiti",
+    "wof:parent_id":1108563289,
+    "wof:placetype":"locality",
+    "wof:population":6317,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.72227,
+    7.75833,
+    5.72227,
+    7.75833
+],
+  "geometry": {"coordinates":[5.72227,7.75833],"type":"Point"}
+}

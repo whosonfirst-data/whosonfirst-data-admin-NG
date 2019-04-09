@@ -1,0 +1,74 @@
+{
+  "id": 1309756355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0512,11.94874,8.0512,11.94874",
+    "geom:latitude":11.94874,
+    "geom:longitude":8.0512,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20026.0",
+    "gn:admin3_code":"KN2006",
+    "gn:asciiname":"Gude",
+    "gn:country_code":"NG",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340233,
+    "gn:latitude":11.94874,
+    "gn:longitude":8.0512,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gude",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gudi",
+        "Gudei",
+        "Gude"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340233
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eca05a8322aaeed796bd1f39f3069395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563469,
+            "locality_id":1309756355,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1309756355,
+    "wof:lastmodified":1537675224,
+    "wof:name":"Gude",
+    "wof:parent_id":1108563469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0512,
+    11.94874,
+    8.0512,
+    11.94874
+],
+  "geometry": {"coordinates":[8.0512,11.94874],"type":"Point"}
+}

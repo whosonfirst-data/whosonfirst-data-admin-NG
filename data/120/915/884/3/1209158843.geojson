@@ -1,0 +1,62 @@
+{
+  "id": 1209158843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70726,10.30844,12.70726,10.30844",
+    "geom:latitude":10.30844,
+    "geom:longitude":12.70726,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Balhana",
+    "gn:country_code":"NG",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348025,
+    "gn:latitude":10.30844,
+    "gn:longitude":12.70726,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Balhana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348025
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"527b3863728bdc8e57c04f4640341bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209158843
+        }
+    ],
+    "wof:id":1209158843,
+    "wof:lastmodified":1536295968,
+    "wof:name":"Balhana",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70726,
+    10.30844,
+    12.70726,
+    10.30844
+],
+  "geometry": {"coordinates":[12.70726,10.30844],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276579733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51408,7.90182,7.51408,7.90182",
+    "geom:latitude":7.90182,
+    "geom:longitude":7.51408,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23019.0",
+    "gn:asciiname":"Bukami",
+    "gn:country_code":"NG",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346593,
+    "gn:latitude":7.90182,
+    "gn:longitude":7.51408,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bukami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakumi",
+        "Bukami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346593
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6776955d073562c5427c3a923391bc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564179,
+            "locality_id":1276579733,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1276579733,
+    "wof:lastmodified":1537675323,
+    "wof:name":"Bukami",
+    "wof:parent_id":1108564179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51408,
+    7.90182,
+    7.51408,
+    7.90182
+],
+  "geometry": {"coordinates":[7.51408,7.90182],"type":"Point"}
+}

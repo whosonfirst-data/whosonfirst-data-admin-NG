@@ -1,0 +1,62 @@
+{
+  "id": 1209448163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26796,8.95131,11.26796,8.95131",
+    "geom:latitude":8.95131,
+    "geom:longitude":11.26796,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007.0",
+    "gn:asciiname":"Wuro Tafida",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318599,
+    "gn:latitude":8.95131,
+    "gn:longitude":11.26796,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Tafida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318599
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b8461a9d0dcf9bf6910098c8fd03eda0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209448163
+        }
+    ],
+    "wof:id":1209448163,
+    "wof:lastmodified":1536286753,
+    "wof:name":"Wuro Tafida",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26796,
+    8.951310000000003,
+    11.26796,
+    8.951310000000003
+],
+  "geometry": {"coordinates":[11.26796,8.95131],"type":"Point"}
+}

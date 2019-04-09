@@ -1,0 +1,68 @@
+{
+  "id": 1343690173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.21667,9.35,5.21667,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":5.21667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27017.0",
+    "gn:asciiname":"Ezhi",
+    "gn:country_code":"NG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342918,
+    "gn:latitude":9.35,
+    "gn:longitude":5.21667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ezhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342918
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"28e05e8cf8a7585438acc85d3443686f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563987,
+            "locality_id":1343690173,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343690173,
+    "wof:lastmodified":1536912772,
+    "wof:name":"Ezhi",
+    "wof:parent_id":1108563987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.21667,
+    9.35,
+    5.21667,
+    9.35
+],
+  "geometry": {"coordinates":[5.21667,9.35],"type":"Point"}
+}

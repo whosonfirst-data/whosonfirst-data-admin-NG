@@ -1,0 +1,70 @@
+{
+  "id": 1259908357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.96675,9.39792,10.96675,9.39792",
+    "geom:latitude":9.39792,
+    "geom:longitude":10.96675,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Koroti",
+    "gn:country_code":"NG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274068,
+    "gn:latitude":9.39792,
+    "gn:longitude":10.96675,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Koroti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koroti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274068
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e88b47803fc3e3ef696c5c34f9db01f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1259908357,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259908357,
+    "wof:lastmodified":1537675517,
+    "wof:name":"Koroti",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.96675,
+    9.39792,
+    10.96675,
+    9.39792
+],
+  "geometry": {"coordinates":[10.96675,9.39792],"type":"Point"}
+}

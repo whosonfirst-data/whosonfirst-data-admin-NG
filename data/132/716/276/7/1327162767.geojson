@@ -1,0 +1,68 @@
+{
+  "id": 1327162767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6278,5.51543,6.6278,5.51543",
+    "geom:latitude":5.51543,
+    "geom:longitude":6.6278,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33016.0",
+    "gn:asciiname":"Aseimonte",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100565,
+    "gn:latitude":5.51543,
+    "gn:longitude":6.6278,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aseimonte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100565
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5552e1da109895c7117588ccf788d32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564105,
+            "locality_id":1327162767,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1327162767,
+    "wof:lastmodified":1537067335,
+    "wof:name":"Aseimonte",
+    "wof:parent_id":1108564105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6278,
+    5.51543,
+    6.6278,
+    5.51543
+],
+  "geometry": {"coordinates":[6.6278,5.51543],"type":"Point"}
+}

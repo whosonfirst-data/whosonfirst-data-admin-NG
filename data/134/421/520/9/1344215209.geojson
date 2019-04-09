@@ -1,0 +1,74 @@
+{
+  "id": 1344215209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.65,10.8,6.65,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":6.65,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19001.0",
+    "gn:admin3_code":"KD0101",
+    "gn:asciiname":"Ungwan Madaiki",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319911,
+    "gn:latitude":10.8,
+    "gn:longitude":6.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Madaiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungwan Madiaki",
+        "Ungwan Madaiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319911
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf08acca810d43ff42b81761f83f6bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563133,
+            "locality_id":1344215209,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1344215209,
+    "wof:lastmodified":1537674927,
+    "wof:name":"Ungwan Madaiki",
+    "wof:parent_id":1108563133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.65,
+    10.8,
+    6.65,
+    10.8
+],
+  "geometry": {"coordinates":[6.65,10.8],"type":"Point"}
+}

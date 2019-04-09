@@ -1,0 +1,67 @@
+{
+  "id": 1243582265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01367,11.26049,6.01367,11.26049",
+    "geom:latitude":11.26049,
+    "geom:longitude":6.01367,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Zamanbanza",
+    "gn:country_code":"NG",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317879,
+    "gn:latitude":11.26049,
+    "gn:longitude":6.01367,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Zamanbanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317879
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e089ae100c3909b92d25a3e8ad0a848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563953,
+            "locality_id":1243582265,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1243582265,
+    "wof:lastmodified":1536607118,
+    "wof:name":"Zamanbanza",
+    "wof:parent_id":1108563953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01367,
+    11.26049,
+    6.01367,
+    11.26049
+],
+  "geometry": {"coordinates":[6.01367,11.26049],"type":"Point"}
+}

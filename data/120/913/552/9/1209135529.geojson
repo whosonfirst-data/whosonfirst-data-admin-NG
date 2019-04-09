@@ -1,0 +1,66 @@
+{
+  "id": 1209135529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.38802,10.43232,10.38802,10.43232",
+    "geom:latitude":10.43232,
+    "geom:longitude":10.38802,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1303",
+    "gn:asciiname":"Kuchiya",
+    "gn:country_code":"NG",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333699,
+    "gn:latitude":10.43232,
+    "gn:longitude":10.38802,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuchiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuchiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333699
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"73ada28695c03c2dbf1c33dd9db77a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209135529
+        }
+    ],
+    "wof:id":1209135529,
+    "wof:lastmodified":1537675132,
+    "wof:name":"Kuchiya",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.38802,
+    10.43232,
+    10.38802,
+    10.43232
+],
+  "geometry": {"coordinates":[10.38802,10.43232],"type":"Point"}
+}

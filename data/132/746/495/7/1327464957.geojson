@@ -1,0 +1,68 @@
+{
+  "id": 1327464957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.42847,4.84503,7.42847,4.84503",
+    "geom:latitude":4.84503,
+    "geom:longitude":7.42847,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33021.0",
+    "gn:asciiname":"Marihun",
+    "gn:country_code":"NG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7052786,
+    "gn:latitude":4.84503,
+    "gn:longitude":7.42847,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Marihun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7052786
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"56869196b279d5bdcf4244eec6d3bd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564265,
+            "locality_id":1327464957,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1327464957,
+    "wof:lastmodified":1536632381,
+    "wof:name":"Marihun",
+    "wof:parent_id":1108564265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.42847,
+    4.84503,
+    7.42847,
+    4.84503
+],
+  "geometry": {"coordinates":[7.42847,4.84503],"type":"Point"}
+}

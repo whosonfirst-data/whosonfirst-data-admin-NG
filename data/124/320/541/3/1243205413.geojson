@@ -1,0 +1,74 @@
+{
+  "id": 1243205413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.22002,9.06414,8.22002,9.06414",
+    "geom:latitude":9.06414,
+    "geom:longitude":8.22002,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26001.0",
+    "gn:asciiname":"Katanza",
+    "gn:country_code":"NG",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320146,
+    "gn:latitude":9.06414,
+    "gn:longitude":8.22002,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Katanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamusa",
+        "Ungwan Yamusa",
+        "Unguwar Yamusa",
+        "Katanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108562989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320146
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"729cb2ddff9e4bdbfc53da86df80e88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562989,
+            "locality_id":1243205413,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1243205413,
+    "wof:lastmodified":1537674936,
+    "wof:name":"Katanza",
+    "wof:parent_id":1108562989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.22002,
+    9.06414,
+    8.22002,
+    9.06414
+],
+  "geometry": {"coordinates":[8.22002,9.06414],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360018605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64949,7.38058,7.64949,7.38058",
+    "geom:latitude":7.38058,
+    "geom:longitude":7.64949,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23003.0",
+    "gn:asciiname":"Abache",
+    "gn:country_code":"NG",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353129,
+    "gn:latitude":7.38058,
+    "gn:longitude":7.64949,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abache",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbachi",
+        "Abachi",
+        "Abache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353129
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1f206494eb4d3b063152668c5110bb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563017,
+            "locality_id":1360018605,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1360018605,
+    "wof:lastmodified":1537675399,
+    "wof:name":"Abache",
+    "wof:parent_id":1108563017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64949,
+    7.38058,
+    7.64949,
+    7.38058
+],
+  "geometry": {"coordinates":[7.64949,7.38058],"type":"Point"}
+}

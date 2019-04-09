@@ -1,0 +1,68 @@
+{
+  "id": 1310332933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.97284,10.31347,4.97284,10.31347",
+    "geom:latitude":10.31347,
+    "geom:longitude":4.97284,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27014.0",
+    "gn:asciiname":"Salka",
+    "gn:country_code":"NG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323876,
+    "gn:latitude":10.31347,
+    "gn:longitude":4.97284,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Salka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323876
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8f19360fd1a29b16b1d687ea2ef3e05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563915,
+            "locality_id":1310332933,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310332933,
+    "wof:lastmodified":1536668547,
+    "wof:name":"Salka",
+    "wof:parent_id":1108563915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.97284,
+    10.31347,
+    4.97284,
+    10.31347
+],
+  "geometry": {"coordinates":[4.97284,10.31347],"type":"Point"}
+}

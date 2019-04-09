@@ -1,0 +1,69 @@
+{
+  "id": 1343926325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56765,9.10812,8.56765,9.10812",
+    "geom:latitude":9.10812,
+    "geom:longitude":8.56765,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19020.0",
+    "gn:admin3_code":"KD2009",
+    "gn:asciiname":"Sambe",
+    "gn:country_code":"NG",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323844,
+    "gn:latitude":9.10812,
+    "gn:longitude":8.56765,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323844
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b0325ff797af9976f481e77d7653b7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564333,
+            "locality_id":1343926325,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1343926325,
+    "wof:lastmodified":1537066434,
+    "wof:name":"Sambe",
+    "wof:parent_id":1108564333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56765,
+    9.10812,
+    8.56765,
+    9.10812
+],
+  "geometry": {"coordinates":[8.56765,9.10812],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209342917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.2605,8.62709,10.2605,8.62709",
+    "geom:latitude":8.62709,
+    "geom:longitude":10.2605,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35005",
+    "gn:asciiname":"Natide",
+    "gn:country_code":"NG",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10909202,
+    "gn:latitude":8.62709,
+    "gn:longitude":10.2605,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Natide",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Natlde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10909202
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f65ee6a9118f2d72c72bdb32b080d670",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342917
+        }
+    ],
+    "wof:id":1209342917,
+    "wof:lastmodified":1537675472,
+    "wof:name":"Natide",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.2605,
+    8.62709,
+    10.2605,
+    8.62709
+],
+  "geometry": {"coordinates":[10.2605,8.62709],"type":"Point"}
+}

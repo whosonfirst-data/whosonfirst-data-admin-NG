@@ -1,0 +1,68 @@
+{
+  "id": 1293617531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.781,8.73255,10.781,8.73255",
+    "geom:latitude":8.73255,
+    "geom:longitude":10.781,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35005",
+    "gn:asciiname":"Kwatan Sabongari",
+    "gn:country_code":"NG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10893632,
+    "gn:latitude":8.73255,
+    "gn:longitude":10.781,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwatan Sabongari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10893632
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"31a3246264a49fb847df555d7cb72138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563403,
+            "locality_id":1293617531,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293617531,
+    "wof:lastmodified":1537093665,
+    "wof:name":"Kwatan Sabongari",
+    "wof:parent_id":1108563403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.781,
+    8.73255,
+    10.781,
+    8.73255
+],
+  "geometry": {"coordinates":[10.781,8.73255],"type":"Point"}
+}

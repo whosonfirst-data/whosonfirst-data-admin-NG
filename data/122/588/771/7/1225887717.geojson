@@ -1,0 +1,71 @@
+{
+  "id": 1225887717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41401,6.09515,6.41401,6.09515",
+    "geom:latitude":6.09515,
+    "geom:longitude":6.41401,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Azamu",
+    "gn:country_code":"NG",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505036,
+    "gn:latitude":6.09515,
+    "gn:longitude":6.41401,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Azamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Azamu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505036
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"34c9749c5ea9208d9a1a307da3b188aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1225887717,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1225887717,
+    "wof:lastmodified":1537675457,
+    "wof:name":"Azamu",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41401,
+    6.09515,
+    6.41401,
+    6.09515
+],
+  "geometry": {"coordinates":[6.41401,6.09515],"type":"Point"}
+}

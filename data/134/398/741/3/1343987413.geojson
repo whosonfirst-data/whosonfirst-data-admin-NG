@@ -1,0 +1,70 @@
+{
+  "id": 1343987413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.20846,9.11629,11.20846,9.11629",
+    "geom:latitude":9.11629,
+    "geom:longitude":11.20846,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Kindang",
+    "gn:country_code":"NG",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307825,
+    "gn:latitude":9.11629,
+    "gn:longitude":11.20846,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kindang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kindang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36690d9962d5f4a84e061c89fa8996b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":1343987413,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343987413,
+    "wof:lastmodified":1537675525,
+    "wof:name":"Kindang",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.20846,
+    9.11629,
+    11.20846,
+    9.11629
+],
+  "geometry": {"coordinates":[11.20846,9.11629],"type":"Point"}
+}

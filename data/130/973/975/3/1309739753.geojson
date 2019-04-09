@@ -1,0 +1,69 @@
+{
+  "id": 1309739753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.81933,13.68593,5.81933,13.68593",
+    "geom:latitude":13.68593,
+    "geom:longitude":5.81933,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60403",
+    "gn:asciiname":"Runbukawa",
+    "gn:country_code":"NG",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012073,
+    "gn:latitude":13.68593,
+    "gn:longitude":5.81933,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Runbukawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012073
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d8b6418fa8655c7c816897aa7b809bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563383,
+            "locality_id":1309739753,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1309739753,
+    "wof:lastmodified":1537025315,
+    "wof:name":"Runbukawa",
+    "wof:parent_id":1108563383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81933,
+    13.68593,
+    5.81933,
+    13.68593
+],
+  "geometry": {"coordinates":[5.81933,13.68593],"type":"Point"}
+}

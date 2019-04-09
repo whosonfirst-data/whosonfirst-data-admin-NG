@@ -1,0 +1,68 @@
+{
+  "id": 1242851737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.47019,9.24444,7.47019,9.24444",
+    "geom:latitude":9.24444,
+    "geom:longitude":7.47019,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15002.0",
+    "gn:asciiname":"Madna",
+    "gn:country_code":"NG",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331654,
+    "gn:latitude":9.24444,
+    "gn:longitude":7.47019,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Madna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331654
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d21a9e4e92777f575707bc5bc7c090bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1242851737,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1242851737,
+    "wof:lastmodified":1536668855,
+    "wof:name":"Madna",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.47019,
+    9.24444,
+    7.47019,
+    9.24444
+],
+  "geometry": {"coordinates":[7.47019,9.24444],"type":"Point"}
+}

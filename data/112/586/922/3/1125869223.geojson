@@ -1,0 +1,91 @@
+{
+  "id": 1125869223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98333,7.26667,9.98333,7.26667",
+    "geom:latitude":7.26667,
+    "geom:longitude":9.98333,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":24822,
+    "gn:population":24822,
+    "iso:country":"NG",
+    "lbl:latitude":7.26667,
+    "lbl:longitude":9.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Takum"
+    ],
+    "name:fre_x_preferred":[
+        "Takum"
+    ],
+    "name:ita_x_preferred":[
+        "Takum"
+    ],
+    "name:yor_x_preferred":[
+        "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Takum"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2322552,
+    "qs_pg:gn_pop":24822,
+    "qs_pg:name":"Takum",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":139564,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322552,
+        "qs_pg:id":139564,
+        "wd:id":"Q7678554"
+    },
+    "wof:country":"NG",
+    "wof:created":1497294206,
+    "wof:geomhash":"c0728467053fef2048b58c4c5d41eb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1125869223,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1125869223,
+    "wof:lastmodified":1514491703,
+    "wof:name":"Takum",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:population":24822,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98333,
+    7.26667,
+    9.98333,
+    7.26667
+],
+  "geometry": {"coordinates":[9.98333,7.26667],"type":"Point"}
+}

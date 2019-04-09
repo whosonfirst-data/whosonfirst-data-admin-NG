@@ -1,0 +1,74 @@
+{
+  "id": 1293056525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.98036,13.31785,7.98036,13.31785",
+    "geom:latitude":13.31785,
+    "geom:longitude":7.98036,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"427.0",
+    "gn:admin3_code":"42701",
+    "gn:asciiname":"Kuka",
+    "gn:country_code":"NG",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333591,
+    "gn:latitude":13.31785,
+    "gn:longitude":7.98036,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birnin Kuka",
+        "Birnikuka",
+        "Kuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333591
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7b79ae097b71f83d5ceefe566d2baee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563959,
+            "locality_id":1293056525,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1293056525,
+    "wof:lastmodified":1537675131,
+    "wof:name":"Kuka",
+    "wof:parent_id":1108563959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.98036,
+    13.31785,
+    7.98036,
+    13.31785
+],
+  "geometry": {"coordinates":[7.98036,13.31785],"type":"Point"}
+}

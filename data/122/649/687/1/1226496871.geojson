@@ -1,0 +1,68 @@
+{
+  "id": 1226496871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56034,6.87644,9.56034,6.87644",
+    "geom:latitude":6.87644,
+    "geom:longitude":9.56034,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011.0",
+    "gn:asciiname":"Wende",
+    "gn:country_code":"NG",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319043,
+    "gn:latitude":6.87644,
+    "gn:longitude":9.56034,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319043
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8cc3d9adf8516bcc0843eacebc1282a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1226496871,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226496871,
+    "wof:lastmodified":1537065720,
+    "wof:name":"Wende",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56034,
+    6.87644,
+    9.56034,
+    6.87644
+],
+  "geometry": {"coordinates":[9.56034,6.87644],"type":"Point"}
+}

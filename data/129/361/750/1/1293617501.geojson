@@ -1,0 +1,68 @@
+{
+  "id": 1293617501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53333,8.86667,6.53333,8.86667",
+    "geom:latitude":8.86667,
+    "geom:longitude":6.53333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27001.0",
+    "gn:asciiname":"Rani",
+    "gn:country_code":"NG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324582,
+    "gn:latitude":8.86667,
+    "gn:longitude":6.53333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324582
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4d25062a8c2c57952be8413ee7fd6903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562933,
+            "locality_id":1293617501,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293617501,
+    "wof:lastmodified":1537093705,
+    "wof:name":"Rani",
+    "wof:parent_id":1108562933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53333,
+    8.86667,
+    6.53333,
+    8.86667
+],
+  "geometry": {"coordinates":[6.53333,8.86667],"type":"Point"}
+}

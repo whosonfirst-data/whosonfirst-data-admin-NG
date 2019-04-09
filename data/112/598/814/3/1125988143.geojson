@@ -1,0 +1,78 @@
+{
+  "id": 1125988143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15224,11.53485,8.15224,11.53485",
+    "geom:latitude":11.53485,
+    "geom:longitude":8.15224,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7907,
+    "gn:population":7907,
+    "iso:country":"NG",
+    "lbl:latitude":11.53485,
+    "lbl:longitude":8.15224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2345336,
+    "qs_pg:gn_pop":7907,
+    "qs_pg:name":"Dan Gora",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":278553,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345336,
+        "qs_pg:id":278553
+    },
+    "wof:country":"NG",
+    "wof:created":1497298911,
+    "wof:geomhash":"7b0259f74d61718eb82b5b2861e271b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563823,
+            "locality_id":1125988143,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1125988143,
+    "wof:lastmodified":1509405209,
+    "wof:name":"Dan Gora",
+    "wof:parent_id":1108563823,
+    "wof:placetype":"locality",
+    "wof:population":7907,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15224,
+    11.53485,
+    8.15224,
+    11.53485
+],
+  "geometry": {"coordinates":[8.15224,11.53485],"type":"Point"}
+}

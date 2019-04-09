@@ -1,0 +1,72 @@
+{
+  "id": 1242707453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9366,10.59886,4.9366,10.59886",
+    "geom:latitude":10.59886,
+    "geom:longitude":4.9366,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27014.0",
+    "gn:asciiname":"Libeli",
+    "gn:country_code":"NG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332043,
+    "gn:latitude":10.59886,
+    "gn:longitude":4.9366,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Libeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libelli",
+        "Libeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332043
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"898119f37e94562b8e924bf0ce9afb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563915,
+            "locality_id":1242707453,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1242707453,
+    "wof:lastmodified":1537675115,
+    "wof:name":"Libeli",
+    "wof:parent_id":1108563915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9366,
+    10.59886,
+    4.9366,
+    10.59886
+],
+  "geometry": {"coordinates":[4.9366,10.59886],"type":"Point"}
+}

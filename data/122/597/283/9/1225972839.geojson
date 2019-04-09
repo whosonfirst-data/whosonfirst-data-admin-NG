@@ -1,0 +1,68 @@
+{
+  "id": 1225972839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.70615,5.53374,7.70615,5.53374",
+    "geom:latitude":5.53374,
+    "geom:longitude":7.70615,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Ogoubi-Aro",
+    "gn:country_code":"NG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075611,
+    "gn:latitude":5.53374,
+    "gn:longitude":7.70615,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogoubi-Aro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108563031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075611
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ba9ec060d8a74bd6dd813a0ee84a429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563031,
+            "locality_id":1225972839,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1225972839,
+    "wof:lastmodified":1536829392,
+    "wof:name":"Ogoubi-Aro",
+    "wof:parent_id":1108563031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.70615,
+    5.53374,
+    7.70615,
+    5.53374
+],
+  "geometry": {"coordinates":[7.70615,5.53374],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276390321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.24765,6.80111,6.24765,6.80111",
+    "geom:latitude":6.80111,
+    "geom:longitude":6.24765,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12004.0",
+    "gn:asciiname":"Ewuh",
+    "gn:country_code":"NG",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342968,
+    "gn:latitude":6.80111,
+    "gn:longitude":6.24765,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ewuh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ewu"
+    ],
+    "name:eng_x_variant":[
+        "Ewuh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342968
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f1a93560028e60fcb9c3741ce83a6db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563315,
+            "locality_id":1276390321,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1276390321,
+    "wof:lastmodified":1537675269,
+    "wof:name":"Ewuh",
+    "wof:parent_id":1108563315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.24765,
+    6.80111,
+    6.24765,
+    6.80111
+],
+  "geometry": {"coordinates":[6.24765,6.80111],"type":"Point"}
+}

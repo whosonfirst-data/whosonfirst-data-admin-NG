@@ -1,0 +1,78 @@
+{
+  "id": 1276262489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.397,10.93574,10.397,10.93574",
+    "geom:latitude":10.93574,
+    "geom:longitude":10.397,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5005.0",
+    "gn:admin3_code":"BA0502",
+    "gn:asciiname":"Nahuta",
+    "gn:country_code":"NG",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329526,
+    "gn:latitude":10.93574,
+    "gn:longitude":10.397,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nahuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nahuta"
+    ],
+    "name:eng_x_variant":[
+        "Nafuta"
+    ],
+    "name:und_x_variant":[
+        "Nafuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329526
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4f2a14879b4e4ea7d042c8c62c1bb0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563215,
+            "locality_id":1276262489,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1276262489,
+    "wof:lastmodified":1537675083,
+    "wof:name":"Nahuta",
+    "wof:parent_id":1108563215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.397,
+    10.93574,
+    10.397,
+    10.93574
+],
+  "geometry": {"coordinates":[10.397,10.93574],"type":"Point"}
+}

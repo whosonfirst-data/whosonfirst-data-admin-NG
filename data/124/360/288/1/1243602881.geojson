@@ -1,0 +1,68 @@
+{
+  "id": 1243602881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.88361,7.61583,3.88361,7.61583",
+    "geom:latitude":7.61583,
+    "geom:longitude":3.88361,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Posi",
+    "gn:country_code":"NG",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324770,
+    "gn:latitude":7.61583,
+    "gn:longitude":3.88361,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Posi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324770
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2869017d8f07dcc2b31f4c1908fac68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1243602881,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1243602881,
+    "wof:lastmodified":1537074080,
+    "wof:name":"Posi",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.88361,
+    7.61583,
+    3.88361,
+    7.61583
+],
+  "geometry": {"coordinates":[3.88361,7.61583],"type":"Point"}
+}

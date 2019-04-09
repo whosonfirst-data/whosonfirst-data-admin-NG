@@ -1,0 +1,71 @@
+{
+  "id": 1226385331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23044,6.7219,6.23044,6.7219",
+    "geom:latitude":6.7219,
+    "geom:longitude":6.23044,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12004.0",
+    "gn:asciiname":"Ikekiala",
+    "gn:country_code":"NG",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081182,
+    "gn:latitude":6.7219,
+    "gn:longitude":6.23044,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikekiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ikekiala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081182
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5a22f4cffd67befc842cb20bbf208e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563315,
+            "locality_id":1226385331,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1226385331,
+    "wof:lastmodified":1537675450,
+    "wof:name":"Ikekiala",
+    "wof:parent_id":1108563315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23044,
+    6.7219,
+    6.23044,
+    6.7219
+],
+  "geometry": {"coordinates":[6.23044,6.7219],"type":"Point"}
+}

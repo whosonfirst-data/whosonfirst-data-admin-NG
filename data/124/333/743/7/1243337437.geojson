@@ -1,0 +1,72 @@
+{
+  "id": 1243337437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.8702,4.62434,7.8702,4.62434",
+    "geom:latitude":4.62434,
+    "geom:longitude":7.8702,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3024.0",
+    "gn:asciiname":"Ikot Ebe Ekpo",
+    "gn:country_code":"NG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338131,
+    "gn:latitude":4.62434,
+    "gn:longitude":7.8702,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Ebe Ekpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikot Ede Ekpo",
+        "Ikot Ebe Ekpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338131
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76b2f810bf161cf21eadb2d2dc8b70dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564197,
+            "locality_id":1243337437,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1243337437,
+    "wof:lastmodified":1537675193,
+    "wof:name":"Ikot Ebe Ekpo",
+    "wof:parent_id":1108564197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8702,
+    4.62434,
+    7.8702,
+    4.62434
+],
+  "geometry": {"coordinates":[7.8702,4.62434],"type":"Point"}
+}

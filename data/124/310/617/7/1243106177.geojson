@@ -1,0 +1,74 @@
+{
+  "id": 1243106177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12179,6.72892,6.12179,6.72892",
+    "geom:latitude":6.72892,
+    "geom:longitude":6.12179,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006.0",
+    "gn:asciiname":"Ukpenu",
+    "gn:country_code":"NG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081177,
+    "gn:latitude":6.72892,
+    "gn:longitude":6.12179,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ukpenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Urpene"
+    ],
+    "name:und_x_variant":[
+        "Urpeno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081177
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f74f216f74501753ae4608fda6b89a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563321,
+            "locality_id":1243106177,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243106177,
+    "wof:lastmodified":1537675450,
+    "wof:name":"Ukpenu",
+    "wof:parent_id":1108563321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12179,
+    6.72892,
+    6.12179,
+    6.72892
+],
+  "geometry": {"coordinates":[6.12179,6.72892],"type":"Point"}
+}

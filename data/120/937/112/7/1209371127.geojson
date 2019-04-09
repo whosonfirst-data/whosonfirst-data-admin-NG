@@ -1,0 +1,62 @@
+{
+  "id": 1209371127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.94779,6.77967,8.94779,6.77967",
+    "geom:latitude":6.77967,
+    "geom:longitude":8.94779,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9005.0",
+    "gn:asciiname":"Akaraba",
+    "gn:country_code":"NG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351192,
+    "gn:latitude":6.77967,
+    "gn:longitude":8.94779,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akaraba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351192
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a744fb92fa4f415333fe83618bd66c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209371127
+        }
+    ],
+    "wof:id":1209371127,
+    "wof:lastmodified":1536289103,
+    "wof:name":"Akaraba",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.94779,
+    6.7796699999999985,
+    8.94779,
+    6.7796699999999985
+],
+  "geometry": {"coordinates":[8.94779,6.77967],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225983471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01615,5.10347,6.01615,5.10347",
+    "geom:latitude":5.10347,
+    "geom:longitude":6.01615,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10016.0",
+    "gn:asciiname":"Ogheneovo-Gbene",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101067,
+    "gn:latitude":5.10347,
+    "gn:longitude":6.01615,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogheneovo-Gbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101067
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eddff3858882ea96c4fd8ee1b30d8910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564277,
+            "locality_id":1225983471,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1225983471,
+    "wof:lastmodified":1536814162,
+    "wof:name":"Ogheneovo-Gbene",
+    "wof:parent_id":1108564277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01615,
+    5.10347,
+    6.01615,
+    5.10347
+],
+  "geometry": {"coordinates":[6.01615,5.10347],"type":"Point"}
+}

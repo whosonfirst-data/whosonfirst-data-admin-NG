@@ -1,0 +1,74 @@
+{
+  "id": 1243218639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74992,6.35889,6.74992,6.35889",
+    "geom:latitude":6.35889,
+    "geom:longitude":6.74992,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4003.0",
+    "gn:asciiname":"Umuenwelum",
+    "gn:country_code":"NG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320490,
+    "gn:latitude":6.35889,
+    "gn:longitude":6.74992,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umuenwelum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Umuenwelum"
+    ],
+    "name:eng_x_variant":[
+        "Umuenwelu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320490
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9fd352c5bc0bb5feb04e7fca45b59aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563001,
+            "locality_id":1243218639,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1243218639,
+    "wof:lastmodified":1537674949,
+    "wof:name":"Umuenwelum",
+    "wof:parent_id":1108563001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74992,
+    6.35889,
+    6.74992,
+    6.35889
+],
+  "geometry": {"coordinates":[6.74992,6.35889],"type":"Point"}
+}

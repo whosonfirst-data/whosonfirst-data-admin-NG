@@ -1,0 +1,68 @@
+{
+  "id": 1193180253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.10147,5.14816,6.10147,5.14816",
+    "geom:latitude":5.14816,
+    "geom:longitude":6.10147,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10016.0",
+    "gn:asciiname":"Ogokurugbene",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100964,
+    "gn:latitude":5.14816,
+    "gn:longitude":6.10147,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogokurugbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100964
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5ea82bcb4fa2492c602cf8a3920e5b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564277,
+            "locality_id":1193180253,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1193180253,
+    "wof:lastmodified":1536371034,
+    "wof:name":"Ogokurugbene",
+    "wof:parent_id":1108564277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.10147,
+    5.14816,
+    6.10147,
+    5.14816
+],
+  "geometry": {"coordinates":[6.10147,5.14816],"type":"Point"}
+}

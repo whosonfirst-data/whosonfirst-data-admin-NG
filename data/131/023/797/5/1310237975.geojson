@@ -1,0 +1,74 @@
+{
+  "id": 1310237975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99348,10.36072,10.99348,10.36072",
+    "geom:latitude":10.36072,
+    "geom:longitude":10.99348,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16001.0",
+    "gn:asciiname":"Bulla",
+    "gn:country_code":"NG",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346554,
+    "gn:latitude":10.36072,
+    "gn:longitude":10.99348,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bulla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bula"
+    ],
+    "name:eng_x_variant":[
+        "Bulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346554
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fcc40e5b8c49674d65629c2f862bb8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1310237975,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1310237975,
+    "wof:lastmodified":1537675322,
+    "wof:name":"Bulla",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99348,
+    10.36072,
+    10.99348,
+    10.36072
+],
+  "geometry": {"coordinates":[10.99348,10.36072],"type":"Point"}
+}

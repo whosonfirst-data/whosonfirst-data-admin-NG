@@ -1,0 +1,62 @@
+{
+  "id": 1209544073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86166,10.47265,6.86166,10.47265",
+    "geom:latitude":10.47265,
+    "geom:longitude":6.86166,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Kurebe",
+    "gn:country_code":"NG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999761,
+    "gn:latitude":10.47265,
+    "gn:longitude":6.86166,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kurebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999761
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e832498b7bd569368913b21febddd76e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544073
+        }
+    ],
+    "wof:id":1209544073,
+    "wof:lastmodified":1536283898,
+    "wof:name":"Kurebe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8616600000000005,
+    10.47265,
+    6.8616600000000005,
+    10.47265
+],
+  "geometry": {"coordinates":[6.86166,10.47265],"type":"Point"}
+}

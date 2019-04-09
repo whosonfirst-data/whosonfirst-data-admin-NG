@@ -1,0 +1,79 @@
+{
+  "id": 421178207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.24852,7.78942,5.24852,7.78942",
+    "geom:latitude":7.78942,
+    "geom:longitude":5.24852,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2338908,
+    "qs:gn_pop":9185,
+    "qs:name":"Ifaki",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Ekiti",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":278527,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1394024,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338908,
+        "gp:id":1394024,
+        "qs:id":278527
+    },
+    "wof:country":"NG",
+    "wof:created":1459009174,
+    "wof:geomhash":"10f4e70fb0b94345a2d1cdfbc4c94169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563531,
+            "locality_id":421178207,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":421178207,
+    "wof:lastmodified":1505340636,
+    "wof:name":"Ifaki",
+    "wof:parent_id":1108563531,
+    "wof:placetype":"locality",
+    "wof:population":9185,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.24852,
+    7.78942,
+    5.24852,
+    7.78942
+],
+  "geometry": {"coordinates":[5.24852,7.78942],"type":"Point"}
+}

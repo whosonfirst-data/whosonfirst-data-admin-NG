@@ -1,0 +1,68 @@
+{
+  "id": 1327292207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.88937,6.77034,8.88937,6.77034",
+    "geom:latitude":6.77034,
+    "geom:longitude":8.88937,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9018",
+    "gn:asciiname":"Oloku",
+    "gn:country_code":"NG",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9276838,
+    "gn:latitude":6.77034,
+    "gn:longitude":8.88937,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oloku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9276838
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c9864967a6cf8b0db5514a8ad7d30994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564529,
+            "locality_id":1327292207,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1327292207,
+    "wof:lastmodified":1536882766,
+    "wof:name":"Oloku",
+    "wof:parent_id":1108564529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.88937,
+    6.77034,
+    8.88937,
+    6.77034
+],
+  "geometry": {"coordinates":[8.88937,6.77034],"type":"Point"}
+}

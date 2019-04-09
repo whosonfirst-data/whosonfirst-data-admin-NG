@@ -1,0 +1,91 @@
+{
+  "id": 1125940695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23664,13.35612,5.23664,13.35612",
+    "geom:latitude":13.35612,
+    "geom:longitude":5.23664,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":17486,
+    "gn:population":17486,
+    "iso:country":"NG",
+    "lbl:latitude":13.35612,
+    "lbl:longitude":5.23664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Gwadabawa"
+    ],
+    "name:fre_x_preferred":[
+        "Gwadabawa"
+    ],
+    "name:ita_x_preferred":[
+        "Gwadabawa"
+    ],
+    "name:yor_x_preferred":[
+        "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Gwadabawa"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2339892,
+    "qs_pg:gn_pop":17486,
+    "qs_pg:name":"Gwadabawa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":139716,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339892,
+        "qs_pg:id":139716,
+        "wd:id":"Q5623224"
+    },
+    "wof:country":"NG",
+    "wof:created":1497297107,
+    "wof:geomhash":"134347ab0dc13fde100b5b69d461670a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563405,
+            "locality_id":1125940695,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1125940695,
+    "wof:lastmodified":1514491618,
+    "wof:name":"Gwadabawa",
+    "wof:parent_id":1108563405,
+    "wof:placetype":"locality",
+    "wof:population":17486,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23664,
+    13.35612,
+    5.23664,
+    13.35612
+],
+  "geometry": {"coordinates":[5.23664,13.35612],"type":"Point"}
+}

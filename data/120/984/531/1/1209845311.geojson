@@ -1,0 +1,73 @@
+{
+  "id": 1209845311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.51837,12.15965,6.51837,12.15965",
+    "geom:latitude":12.15965,
+    "geom:longitude":6.51837,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80505",
+    "gn:asciiname":"Bawa Gaga",
+    "gn:country_code":"NG",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341112,
+    "gn:latitude":12.15965,
+    "gn:longitude":6.51837,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bawa Gaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Bawa Gaga",
+        "Bawa Gaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341112
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4f749d0cfb4efe8c8f95c2ee86c0a863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1209845311,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1209845311,
+    "wof:lastmodified":1537675244,
+    "wof:name":"Bawa Gaga",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.51837,
+    12.15965,
+    6.51837,
+    12.15965
+],
+  "geometry": {"coordinates":[6.51837,12.15965],"type":"Point"}
+}

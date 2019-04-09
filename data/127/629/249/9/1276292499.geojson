@@ -1,0 +1,71 @@
+{
+  "id": 1276292499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.09091,11.47357,8.09091,11.47357",
+    "geom:latitude":11.47357,
+    "geom:longitude":8.09091,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Gidan Bagadu",
+    "gn:country_code":"NG",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341148,
+    "gn:latitude":11.47357,
+    "gn:longitude":8.09091,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gidan Bagadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagudu",
+        "Gidan Bagadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341148
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"861e8314773819845f5aab8bcae379fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563589,
+            "locality_id":1276292499,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276292499,
+    "wof:lastmodified":1537675245,
+    "wof:name":"Gidan Bagadu",
+    "wof:parent_id":1108563589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.09091,
+    11.47357,
+    8.09091,
+    11.47357
+],
+  "geometry": {"coordinates":[8.09091,11.47357],"type":"Point"}
+}

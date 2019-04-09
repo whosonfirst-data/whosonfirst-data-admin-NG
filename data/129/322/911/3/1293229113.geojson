@@ -1,0 +1,72 @@
+{
+  "id": 1293229113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.20462,6.31121,8.20462,6.31121",
+    "geom:latitude":6.31121,
+    "geom:longitude":8.20462,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010.0",
+    "gn:asciiname":"Nchoko",
+    "gn:country_code":"NG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329384,
+    "gn:latitude":6.31121,
+    "gn:longitude":8.20462,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nchoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nchoke",
+        "Nchoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329384
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64e0931bc82a922f4b2e5497ce0f75a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563709,
+            "locality_id":1293229113,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1293229113,
+    "wof:lastmodified":1537675081,
+    "wof:name":"Nchoko",
+    "wof:parent_id":1108563709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.20462,
+    6.31121,
+    8.20462,
+    6.31121
+],
+  "geometry": {"coordinates":[8.20462,6.31121],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259346941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.65659,5.01169,7.65659,5.01169",
+    "geom:latitude":5.01169,
+    "geom:longitude":7.65659,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3006.0",
+    "gn:asciiname":"Ikpe",
+    "gn:country_code":"NG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337862,
+    "gn:latitude":5.01169,
+    "gn:longitude":7.65659,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337862
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c5d2d32120af43e98046646e0687e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563337,
+            "locality_id":1259346941,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1259346941,
+    "wof:lastmodified":1537052747,
+    "wof:name":"Ikpe",
+    "wof:parent_id":1108563337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.65659,
+    5.01169,
+    7.65659,
+    5.01169
+],
+  "geometry": {"coordinates":[7.65659,5.01169],"type":"Point"}
+}

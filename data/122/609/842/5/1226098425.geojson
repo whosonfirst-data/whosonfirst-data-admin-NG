@@ -1,0 +1,68 @@
+{
+  "id": 1226098425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96687,5.84982,7.96687,5.84982",
+    "geom:latitude":5.84982,
+    "geom:longitude":7.96687,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9001.0",
+    "gn:asciiname":"Ebariba",
+    "gn:country_code":"NG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073047,
+    "gn:latitude":5.84982,
+    "gn:longitude":7.96687,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ebariba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073047
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c12d88c46380439476f7bc2a6a6ebc31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562909,
+            "locality_id":1226098425,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226098425,
+    "wof:lastmodified":1536648918,
+    "wof:name":"Ebariba",
+    "wof:parent_id":1108562909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96687,
+    5.84982,
+    7.96687,
+    5.84982
+],
+  "geometry": {"coordinates":[7.96687,5.84982],"type":"Point"}
+}

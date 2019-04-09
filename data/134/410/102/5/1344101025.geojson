@@ -1,0 +1,68 @@
+{
+  "id": 1344101025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.77183,10.19508,12.77183,10.19508",
+    "geom:latitude":10.19508,
+    "geom:longitude":12.77183,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Wuro Sanyobe",
+    "gn:country_code":"NG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318607,
+    "gn:latitude":10.19508,
+    "gn:longitude":12.77183,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Sanyobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318607
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7717c279637bfc58c4ec795281f3e346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1344101025,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1344101025,
+    "wof:lastmodified":1536816329,
+    "wof:name":"Wuro Sanyobe",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.77183,
+    10.19508,
+    12.77183,
+    10.19508
+],
+  "geometry": {"coordinates":[12.77183,10.19508],"type":"Point"}
+}

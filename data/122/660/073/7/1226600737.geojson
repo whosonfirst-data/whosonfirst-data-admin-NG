@@ -1,0 +1,71 @@
+{
+  "id": 1226600737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.41247,11.26831,8.41247,11.26831",
+    "geom:latitude":11.26831,
+    "geom:longitude":8.41247,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ungwan Musa",
+    "gn:country_code":"NG",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319846,
+    "gn:latitude":11.26831,
+    "gn:longitude":8.41247,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ungwan Musa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musa",
+        "Ungwan Musa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319846
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a19852fba466035cc63c3e2a0106afb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564427,
+            "locality_id":1226600737,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1226600737,
+    "wof:lastmodified":1537674925,
+    "wof:name":"Ungwan Musa",
+    "wof:parent_id":1108564427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.41247,
+    11.26831,
+    8.41247,
+    11.26831
+],
+  "geometry": {"coordinates":[8.41247,11.26831],"type":"Point"}
+}

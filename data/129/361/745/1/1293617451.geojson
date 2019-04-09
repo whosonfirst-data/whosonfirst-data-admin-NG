@@ -1,0 +1,68 @@
+{
+  "id": 1293617451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.57453,5.09905,6.57453,5.09905",
+    "geom:latitude":5.09905,
+    "geom:longitude":6.57453,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33003.0",
+    "gn:asciiname":"Oyiba",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325209,
+    "gn:latitude":5.09905,
+    "gn:longitude":6.57453,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oyiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325209
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"efbf7a0eb1f94805e8b955bfee1b6b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562947,
+            "locality_id":1293617451,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293617451,
+    "wof:lastmodified":1537093777,
+    "wof:name":"Oyiba",
+    "wof:parent_id":1108562947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.57453,
+    5.09905,
+    6.57453,
+    5.09905
+],
+  "geometry": {"coordinates":[6.57453,5.09905],"type":"Point"}
+}

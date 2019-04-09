@@ -1,0 +1,68 @@
+{
+  "id": 1293357437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.03471,7.39284,9.03471,7.39284",
+    "geom:latitude":7.39284,
+    "geom:longitude":9.03471,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Uaa",
+    "gn:country_code":"NG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633620,
+    "gn:latitude":7.39284,
+    "gn:longitude":9.03471,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633620
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ce669948d4f30e50427a9ea2db521803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1293357437,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293357437,
+    "wof:lastmodified":1536974178,
+    "wof:name":"Uaa",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.03471,
+    7.39284,
+    9.03471,
+    7.39284
+],
+  "geometry": {"coordinates":[9.03471,7.39284],"type":"Point"}
+}

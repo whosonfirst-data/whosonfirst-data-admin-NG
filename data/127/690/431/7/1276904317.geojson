@@ -1,0 +1,73 @@
+{
+  "id": 1276904317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28333,7.95,4.28333,7.95",
+    "geom:latitude":7.95,
+    "geom:longitude":4.28333,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30010.0",
+    "gn:asciiname":"Olla",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326712,
+    "gn:latitude":7.95,
+    "gn:longitude":4.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awla",
+        "Olla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108563283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326712
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"70ab5843cf892b6db35e86c1ac5060d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563283,
+            "locality_id":1276904317,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1276904317,
+    "wof:lastmodified":1537675031,
+    "wof:name":"Olla",
+    "wof:parent_id":1108563283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28333,
+    7.95,
+    4.28333,
+    7.95
+],
+  "geometry": {"coordinates":[4.28333,7.95],"type":"Point"}
+}

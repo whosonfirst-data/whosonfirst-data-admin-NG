@@ -1,0 +1,69 @@
+{
+  "id": 1327163709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.46018,11.78654,9.46018,11.78654",
+    "geom:latitude":11.78654,
+    "geom:longitude":9.46018,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18025.0",
+    "gn:admin3_code":"JI1901",
+    "gn:asciiname":"Andaza",
+    "gn:country_code":"NG",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349942,
+    "gn:latitude":11.78654,
+    "gn:longitude":9.46018,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Andaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349942
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b725d757c2d3328408a89e90f9477a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563825,
+            "locality_id":1327163709,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1327163709,
+    "wof:lastmodified":1537065999,
+    "wof:name":"Andaza",
+    "wof:parent_id":1108563825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.46018,
+    11.78654,
+    9.46018,
+    11.78654
+],
+  "geometry": {"coordinates":[9.46018,11.78654],"type":"Point"}
+}

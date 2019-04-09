@@ -1,0 +1,68 @@
+{
+  "id": 1243013933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48333,8.63333,4.48333,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":4.48333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Olomigbona",
+    "gn:country_code":"NG",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326528,
+    "gn:latitude":8.63333,
+    "gn:longitude":4.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olomigbona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326528
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"28f8c27bab5b3b06cca651a3239ac98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563995,
+            "locality_id":1243013933,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1243013933,
+    "wof:lastmodified":1536932781,
+    "wof:name":"Olomigbona",
+    "wof:parent_id":1108563995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48333,
+    8.63333,
+    4.48333,
+    8.63333
+],
+  "geometry": {"coordinates":[4.48333,8.63333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327187631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.90415,9.3232,11.90415,9.3232",
+    "geom:latitude":9.3232,
+    "geom:longitude":11.90415,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bonro",
+    "gn:country_code":"NG",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210032,
+    "gn:latitude":9.3232,
+    "gn:longitude":11.90415,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bonro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bonro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210032
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64eb144905f356d2f21582b7ec7751f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1327187631,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1327187631,
+    "wof:lastmodified":1537675505,
+    "wof:name":"Bonro",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.90415,
+    9.3232,
+    11.90415,
+    9.3232
+],
+  "geometry": {"coordinates":[11.90415,9.3232],"type":"Point"}
+}

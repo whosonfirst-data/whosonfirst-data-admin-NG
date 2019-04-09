@@ -1,0 +1,68 @@
+{
+  "id": 1293357431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.27898,7.55119,9.27898,7.55119",
+    "geom:latitude":7.55119,
+    "geom:longitude":9.27898,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Iangba",
+    "gn:country_code":"NG",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9526430,
+    "gn:latitude":7.55119,
+    "gn:longitude":9.27898,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iangba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9526430
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2ba5fccec2e645a342020badaec2f679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1293357431,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293357431,
+    "wof:lastmodified":1536974186,
+    "wof:name":"Iangba",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.27898,
+    7.55119,
+    9.27898,
+    7.55119
+],
+  "geometry": {"coordinates":[9.27898,7.55119],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293060859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85972,7.66222,3.85972,7.66222",
+    "geom:latitude":7.66222,
+    "geom:longitude":3.85972,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31001.0",
+    "gn:asciiname":"Fagunja",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342812,
+    "gn:latitude":7.66222,
+    "gn:longitude":3.85972,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fagunja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fagunwa",
+        "Fagunja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342812
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe35a324aefb6d36bb3b11d2ac64a552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562925,
+            "locality_id":1293060859,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293060859,
+    "wof:lastmodified":1537675267,
+    "wof:name":"Fagunja",
+    "wof:parent_id":1108562925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85972,
+    7.66222,
+    3.85972,
+    7.66222
+],
+  "geometry": {"coordinates":[3.85972,7.66222],"type":"Point"}
+}

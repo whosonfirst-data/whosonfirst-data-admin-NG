@@ -1,0 +1,69 @@
+{
+  "id": 1226600741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93996,11.32916,7.93996,11.32916",
+    "geom:latitude":11.32916,
+    "geom:longitude":7.93996,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19018.0",
+    "gn:admin3_code":"KD1804",
+    "gn:asciiname":"Gimi",
+    "gn:country_code":"NG",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340661,
+    "gn:latitude":11.32916,
+    "gn:longitude":7.93996,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340661
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5f15fa79b1705f45f7ba7f68b57cb987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563949,
+            "locality_id":1226600741,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1226600741,
+    "wof:lastmodified":1536923202,
+    "wof:name":"Gimi",
+    "wof:parent_id":1108563949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93996,
+    11.32916,
+    7.93996,
+    11.32916
+],
+  "geometry": {"coordinates":[7.93996,11.32916],"type":"Point"}
+}

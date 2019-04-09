@@ -1,0 +1,67 @@
+{
+  "id": 1209241201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.27663,13.40395,5.27663,13.40395",
+    "geom:latitude":13.40395,
+    "geom:longitude":5.27663,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60706",
+    "gn:asciiname":"Tudun Doki",
+    "gn:country_code":"NG",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321666,
+    "gn:latitude":13.40395,
+    "gn:longitude":5.27663,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tudun Doki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tudun Dawaki",
+        "Tudun Doki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321666
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"985c93800e9855365bb2184189a9f6bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241201
+        }
+    ],
+    "wof:id":1209241201,
+    "wof:lastmodified":1537674969,
+    "wof:name":"Tudun Doki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.27663,
+    13.40395,
+    5.27663,
+    13.40395
+],
+  "geometry": {"coordinates":[5.27663,13.40395],"type":"Point"}
+}

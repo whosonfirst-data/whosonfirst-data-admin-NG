@@ -1,0 +1,74 @@
+{
+  "id": 1193049159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.99485,12.14431,4.99485,12.14431",
+    "geom:latitude":12.14431,
+    "geom:longitude":4.99485,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80607",
+    "gn:asciiname":"Dangoi-Rafin",
+    "gn:country_code":"NG",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345320,
+    "gn:latitude":12.14431,
+    "gn:longitude":4.99485,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dangoi-Rafin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dangwai",
+        "Dangwoi",
+        "Dangoi-Rafin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345320
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"53f6153763d314ecc30d5389ac3891aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563449,
+            "locality_id":1193049159,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1193049159,
+    "wof:lastmodified":1537675308,
+    "wof:name":"Dangoi-Rafin",
+    "wof:parent_id":1108563449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99485,
+    12.14431,
+    4.99485,
+    12.14431
+],
+  "geometry": {"coordinates":[4.99485,12.14431],"type":"Point"}
+}

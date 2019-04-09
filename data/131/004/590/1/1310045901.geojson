@@ -1,0 +1,68 @@
+{
+  "id": 1310045901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.23618,10.09976,13.23618,10.09976",
+    "geom:latitude":10.09976,
+    "geom:longitude":13.23618,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Dirba",
+    "gn:country_code":"NG",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344778,
+    "gn:latitude":10.09976,
+    "gn:longitude":13.23618,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dirba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344778
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b80989ece6296671c19bdbe1c6d03ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1310045901,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310045901,
+    "wof:lastmodified":1537079248,
+    "wof:name":"Dirba",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.23618,
+    10.09976,
+    13.23618,
+    10.09976
+],
+  "geometry": {"coordinates":[13.23618,10.09976],"type":"Point"}
+}

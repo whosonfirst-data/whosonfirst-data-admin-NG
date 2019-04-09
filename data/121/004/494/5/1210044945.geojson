@@ -1,0 +1,68 @@
+{
+  "id": 1210044945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.94183,5.95343,7.94183,5.95343",
+    "geom:latitude":5.95343,
+    "geom:longitude":7.94183,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11002.0",
+    "gn:asciiname":"Okpo-Ezi",
+    "gn:country_code":"NG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326951,
+    "gn:latitude":5.95343,
+    "gn:longitude":7.94183,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpo-Ezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108562927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326951
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5bbc3aa6ec634c1ddfb3376f83d9b61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562927,
+            "locality_id":1210044945,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1210044945,
+    "wof:lastmodified":1536380019,
+    "wof:name":"Okpo-Ezi",
+    "wof:parent_id":1108562927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.94183,
+    5.95343,
+    7.94183,
+    5.95343
+],
+  "geometry": {"coordinates":[7.94183,5.95343],"type":"Point"}
+}

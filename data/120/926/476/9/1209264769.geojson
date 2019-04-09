@@ -1,0 +1,63 @@
+{
+  "id": 1209264769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90328,12.2553,8.90328,12.2553",
+    "geom:latitude":12.2553,
+    "geom:longitude":8.90328,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20016.0",
+    "gn:admin3_code":"KN1305",
+    "gn:asciiname":"Digawa",
+    "gn:country_code":"NG",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974828,
+    "gn:latitude":12.2553,
+    "gn:longitude":8.90328,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Digawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974828
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"44ab9e344b22509ca9600ad0033d67bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209264769
+        }
+    ],
+    "wof:id":1209264769,
+    "wof:lastmodified":1536292572,
+    "wof:name":"Digawa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90328,
+    12.2553,
+    8.90328,
+    12.2553
+],
+  "geometry": {"coordinates":[8.90328,12.2553],"type":"Point"}
+}

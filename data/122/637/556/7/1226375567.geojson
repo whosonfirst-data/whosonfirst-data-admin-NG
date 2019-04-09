@@ -1,0 +1,68 @@
+{
+  "id": 1226375567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39257,4.48114,7.39257,4.48114",
+    "geom:latitude":4.48114,
+    "geom:longitude":7.39257,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33005.0",
+    "gn:asciiname":"Nyengala",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7053203,
+    "gn:latitude":4.48114,
+    "gn:longitude":7.39257,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nyengala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7053203
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"128bc24a6c3ae9d5dc3624960b00cd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563007,
+            "locality_id":1226375567,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1226375567,
+    "wof:lastmodified":1536746391,
+    "wof:name":"Nyengala",
+    "wof:parent_id":1108563007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39257,
+    4.48114,
+    7.39257,
+    4.48114
+],
+  "geometry": {"coordinates":[7.39257,4.48114],"type":"Point"}
+}

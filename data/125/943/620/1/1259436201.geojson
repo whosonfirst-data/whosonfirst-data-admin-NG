@@ -1,0 +1,68 @@
+{
+  "id": 1259436201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75,9.61667,11.75,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":11.75,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2009.0",
+    "gn:asciiname":"Gbebonge",
+    "gn:country_code":"NG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341441,
+    "gn:latitude":9.61667,
+    "gn:longitude":11.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbebonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341441
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a25bd133c5418dc2cdbd1ec75ea9d1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563889,
+            "locality_id":1259436201,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259436201,
+    "wof:lastmodified":1536927630,
+    "wof:name":"Gbebonge",
+    "wof:parent_id":1108563889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75,
+    9.61667,
+    11.75,
+    9.61667
+],
+  "geometry": {"coordinates":[11.75,9.61667],"type":"Point"}
+}

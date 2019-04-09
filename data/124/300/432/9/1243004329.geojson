@@ -1,0 +1,68 @@
+{
+  "id": 1243004329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6,8.21667,8.6,8.21667",
+    "geom:latitude":8.21667,
+    "geom:longitude":8.6,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26005.0",
+    "gn:asciiname":"Ikpan",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337868,
+    "gn:latitude":8.21667,
+    "gn:longitude":8.6,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337868
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe5358c3ed0b012384530640183a8184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563807,
+            "locality_id":1243004329,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1243004329,
+    "wof:lastmodified":1536946435,
+    "wof:name":"Ikpan",
+    "wof:parent_id":1108563807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6,
+    8.21667,
+    8.6,
+    8.21667
+],
+  "geometry": {"coordinates":[8.6,8.21667],"type":"Point"}
+}

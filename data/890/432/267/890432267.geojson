@@ -1,0 +1,68 @@
+{
+  "id": 890432267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.81495,10.42949,3.81495,10.42949",
+    "geom:latitude":10.42949,
+    "geom:longitude":3.81495,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":17617,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Babana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348507,
+        "gp:id":1386799,
+        "qs:id":278563,
+        "wk:page":"B\u0103bana"
+    },
+    "wof:country":"NG",
+    "wof:created":1469051934,
+    "wof:geomhash":"6a1b733a7c33f3dee5d426776e524842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563153,
+            "locality_id":890432267,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":890432267,
+    "wof:lastmodified":1527793036,
+    "wof:name":"Babana",
+    "wof:parent_id":1108563153,
+    "wof:placetype":"locality",
+    "wof:population":17617,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.81495,
+    10.42949,
+    3.81495,
+    10.42949
+],
+  "geometry": {"coordinates":[3.81495,10.42949],"type":"Point"}
+}

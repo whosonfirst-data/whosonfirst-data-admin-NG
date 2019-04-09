@@ -1,0 +1,62 @@
+{
+  "id": 1209172673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.65649,5.1018,7.65649,5.1018",
+    "geom:latitude":5.1018,
+    "geom:longitude":7.65649,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Ikot Ese",
+    "gn:country_code":"NG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073054,
+    "gn:latitude":5.1018,
+    "gn:longitude":7.65649,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Ese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073054
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d830e6d0c28c23897f7d461194b7e779",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209172673
+        }
+    ],
+    "wof:id":1209172673,
+    "wof:lastmodified":1536295527,
+    "wof:name":"Ikot Ese",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.65649,
+    5.1018,
+    7.65649,
+    5.1018
+],
+  "geometry": {"coordinates":[7.65649,5.1018],"type":"Point"}
+}

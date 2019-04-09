@@ -1,0 +1,68 @@
+{
+  "id": 1193166733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.58492,6.4799,4.58492,6.4799",
+    "geom:latitude":6.4799,
+    "geom:longitude":4.58492,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Mahintedo",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331503,
+    "gn:latitude":6.4799,
+    "gn:longitude":4.58492,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mahintedo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331503
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"94fc9cbdaef9e90c3db9d3eaa1034f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1193166733,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1193166733,
+    "wof:lastmodified":1536363782,
+    "wof:name":"Mahintedo",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.58492,
+    6.4799,
+    4.58492,
+    6.4799
+],
+  "geometry": {"coordinates":[4.58492,6.4799],"type":"Point"}
+}

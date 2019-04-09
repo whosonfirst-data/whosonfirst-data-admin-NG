@@ -1,0 +1,72 @@
+{
+  "id": 1343387659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.06892,9.26651,7.06892,9.26651",
+    "geom:latitude":9.26651,
+    "geom:longitude":7.06892,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27009.0",
+    "gn:asciiname":"Gwachife",
+    "gn:country_code":"NG",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339895,
+    "gn:latitude":9.26651,
+    "gn:longitude":7.06892,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gwachife",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gwachipe",
+        "Gwachife"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        421182813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339895
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"67b33ce1e0f385671b63d395889b1d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421182813,
+            "locality_id":1343387659,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343387659,
+    "wof:lastmodified":1537675219,
+    "wof:name":"Gwachife",
+    "wof:parent_id":421182813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06892,
+    9.26651,
+    7.06892,
+    9.26651
+],
+  "geometry": {"coordinates":[7.06892,9.26651],"type":"Point"}
+}

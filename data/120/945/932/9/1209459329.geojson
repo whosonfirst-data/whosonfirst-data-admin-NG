@@ -1,0 +1,62 @@
+{
+  "id": 1209459329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48112,10.06744,12.48112,10.06744",
+    "geom:latitude":10.06744,
+    "geom:longitude":12.48112,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Kawantawata",
+    "gn:country_code":"NG",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836912,
+    "gn:latitude":10.06744,
+    "gn:longitude":12.48112,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kawantawata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836912
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"48d1265c9164b503bab7e22ab11378e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209459329
+        }
+    ],
+    "wof:id":1209459329,
+    "wof:lastmodified":1536286434,
+    "wof:name":"Kawantawata",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48112,
+    10.06744,
+    12.48112,
+    10.06744
+],
+  "geometry": {"coordinates":[12.48112,10.06744],"type":"Point"}
+}

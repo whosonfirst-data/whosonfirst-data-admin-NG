@@ -1,0 +1,73 @@
+{
+  "id": 1293081337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.37603,9.05717,7.37603,9.05717",
+    "geom:latitude":9.05717,
+    "geom:longitude":7.37603,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Karum",
+    "gn:country_code":"NG",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334952,
+    "gn:latitude":9.05717,
+    "gn:longitude":7.37603,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Karum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karumo",
+        "Karimu",
+        "Karum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        421178395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334952
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"41dab82497b1338d9209f6559b35847d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":1293081337,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1293081337,
+    "wof:lastmodified":1537675149,
+    "wof:name":"Karum",
+    "wof:parent_id":421178395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.37603,
+    9.05717,
+    7.37603,
+    9.05717
+],
+  "geometry": {"coordinates":[7.37603,9.05717],"type":"Point"}
+}

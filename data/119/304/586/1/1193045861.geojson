@@ -1,0 +1,68 @@
+{
+  "id": 1193045861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28333,7.56667,4.28333,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":4.28333,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30002.0",
+    "gn:asciiname":"Baoke",
+    "gn:country_code":"NG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347770,
+    "gn:latitude":7.56667,
+    "gn:longitude":4.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Baoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108562953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347770
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"74a30052006a097cf7f1e14ecbaa3c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562953,
+            "locality_id":1193045861,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1193045861,
+    "wof:lastmodified":1536371042,
+    "wof:name":"Baoke",
+    "wof:parent_id":1108562953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28333,
+    7.56667,
+    4.28333,
+    7.56667
+],
+  "geometry": {"coordinates":[4.28333,7.56667],"type":"Point"}
+}

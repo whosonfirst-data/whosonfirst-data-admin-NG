@@ -1,0 +1,68 @@
+{
+  "id": 1343700487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.29166,6.71309,6.29166,6.71309",
+    "geom:latitude":6.71309,
+    "geom:longitude":6.29166,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003",
+    "gn:asciiname":"Idumoza",
+    "gn:country_code":"NG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646588,
+    "gn:latitude":6.71309,
+    "gn:longitude":6.29166,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idumoza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646588
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f38b7e11f67457de3388776ca652a047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1343700487,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343700487,
+    "wof:lastmodified":1536897238,
+    "wof:name":"Idumoza",
+    "wof:parent_id":1108563317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.29166,
+    6.71309,
+    6.29166,
+    6.71309
+],
+  "geometry": {"coordinates":[6.29166,6.71309],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193165605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.15755,4.54393,7.15755,4.54393",
+    "geom:latitude":4.54393,
+    "geom:longitude":7.15755,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33018.0",
+    "gn:asciiname":"Sodiyenkiri",
+    "gn:country_code":"NG",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7053143,
+    "gn:latitude":4.54393,
+    "gn:longitude":7.15755,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sodiyenkiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7053143
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5864ca5f367b2f351462528497319c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563151,
+            "locality_id":1193165605,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1193165605,
+    "wof:lastmodified":1536364549,
+    "wof:name":"Sodiyenkiri",
+    "wof:parent_id":1108563151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.15755,
+    4.54393,
+    7.15755,
+    4.54393
+],
+  "geometry": {"coordinates":[7.15755,4.54393],"type":"Point"}
+}

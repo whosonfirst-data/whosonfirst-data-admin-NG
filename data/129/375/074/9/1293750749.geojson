@@ -1,0 +1,68 @@
+{
+  "id": 1293750749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49077,7.6826,8.49077,7.6826",
+    "geom:latitude":7.6826,
+    "geom:longitude":8.49077,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013",
+    "gn:asciiname":"Agugbe",
+    "gn:country_code":"NG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9508908,
+    "gn:latitude":7.6826,
+    "gn:longitude":8.49077,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agugbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9508908
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3abe423907e950e485d2f4b8a3a71b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":1293750749,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293750749,
+    "wof:lastmodified":1536904962,
+    "wof:name":"Agugbe",
+    "wof:parent_id":1108563933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49077,
+    7.6826,
+    8.49077,
+    7.6826
+],
+  "geometry": {"coordinates":[8.49077,7.6826],"type":"Point"}
+}

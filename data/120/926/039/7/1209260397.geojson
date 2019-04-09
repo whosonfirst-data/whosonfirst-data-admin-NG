@@ -1,0 +1,62 @@
+{
+  "id": 1209260397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83333,9.08333,4.83333,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":4.83333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Pako",
+    "gn:country_code":"NG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325112,
+    "gn:latitude":9.08333,
+    "gn:longitude":4.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325112
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a7c61227253c0aa9a05d6b72e48fb008",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209260397
+        }
+    ],
+    "wof:id":1209260397,
+    "wof:lastmodified":1536292711,
+    "wof:name":"Pako",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83333,
+    9.08333,
+    4.83333,
+    9.08333
+],
+  "geometry": {"coordinates":[4.83333,9.08333],"type":"Point"}
+}

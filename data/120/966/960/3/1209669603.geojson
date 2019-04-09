@@ -1,0 +1,62 @@
+{
+  "id": 1209669603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.53716,7.59209,9.53716,7.59209",
+    "geom:latitude":7.59209,
+    "geom:longitude":9.53716,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Tsemande",
+    "gn:country_code":"NG",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531170,
+    "gn:latitude":7.59209,
+    "gn:longitude":9.53716,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsemande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531170
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e14b8b4c03140d71a2608bc2090bf2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209669603
+        }
+    ],
+    "wof:id":1209669603,
+    "wof:lastmodified":1536279972,
+    "wof:name":"Tsemande",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.53716,
+    7.59209,
+    9.53716,
+    7.59209
+],
+  "geometry": {"coordinates":[9.53716,7.59209],"type":"Point"}
+}

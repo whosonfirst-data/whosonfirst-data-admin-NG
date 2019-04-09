@@ -1,0 +1,68 @@
+{
+  "id": 1343316419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57564,7.11728,8.57564,7.11728",
+    "geom:latitude":7.11728,
+    "geom:longitude":8.57564,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Shamo",
+    "gn:country_code":"NG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323355,
+    "gn:latitude":7.11728,
+    "gn:longitude":8.57564,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323355
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"51735fe9cbb4c4a84ea0b38f2177d5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1343316419,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343316419,
+    "wof:lastmodified":1536954383,
+    "wof:name":"Shamo",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57564,
+    7.11728,
+    8.57564,
+    7.11728
+],
+  "geometry": {"coordinates":[8.57564,7.11728],"type":"Point"}
+}

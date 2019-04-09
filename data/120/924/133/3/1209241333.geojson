@@ -1,0 +1,62 @@
+{
+  "id": 1209241333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.74276,10.36536,5.74276,10.36536",
+    "geom:latitude":10.36536,
+    "geom:longitude":5.74276,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27015.0",
+    "gn:asciiname":"Urraga",
+    "gn:country_code":"NG",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319664,
+    "gn:latitude":10.36536,
+    "gn:longitude":5.74276,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Urraga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319664
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b6f9436170c85c6b59efbb4c4aebcc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241333
+        }
+    ],
+    "wof:id":1209241333,
+    "wof:lastmodified":1536293310,
+    "wof:name":"Urraga",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.74276,
+    10.36536,
+    5.74276,
+    10.36536
+],
+  "geometry": {"coordinates":[5.74276,10.36536],"type":"Point"}
+}

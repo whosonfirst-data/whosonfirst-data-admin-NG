@@ -1,0 +1,86 @@
+{
+  "id": 421187487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.93333,9.25,6.93333,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":6.93333,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443\u0434\u0436\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Tufa"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2352777,
+    "qs:gn_pop":0,
+    "qs:name":"Abuja",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Federal Capital Territory",
+    "qs:photos":769,
+    "qs:photos_1k":156,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":769,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083579,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1383729,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":3203,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108562901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352777,
+        "gp:id":1383729,
+        "qs:id":1083579,
+        "wd:id":"Q3787"
+    },
+    "wof:country":"NG",
+    "wof:created":1459009514,
+    "wof:geomhash":"76cd0c763604e3b85526fd7f7420fd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562901,
+            "locality_id":421187487,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":421187487,
+    "wof:lastmodified":1537229398,
+    "wof:name":"Abuja",
+    "wof:parent_id":1108562901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[
+        890437283
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.93333,
+    9.25,
+    6.93333,
+    9.25
+],
+  "geometry": {"coordinates":[6.93333,9.25],"type":"Point"}
+}

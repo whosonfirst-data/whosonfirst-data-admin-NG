@@ -1,0 +1,62 @@
+{
+  "id": 1209049493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43987,6.51833,6.43987,6.51833",
+    "geom:latitude":6.51833,
+    "geom:longitude":6.43987,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12005",
+    "gn:asciiname":"Ago-Orere Camp",
+    "gn:country_code":"NG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646655,
+    "gn:latitude":6.51833,
+    "gn:longitude":6.43987,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago-Orere Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646655
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ae1c2a3b57341f342cf6a5f840bf4925",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209049493
+        }
+    ],
+    "wof:id":1209049493,
+    "wof:lastmodified":1536299297,
+    "wof:name":"Ago-Orere Camp",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43987,
+    6.5183300000000015,
+    6.43987,
+    6.5183300000000015
+],
+  "geometry": {"coordinates":[6.43987,6.51833],"type":"Point"}
+}

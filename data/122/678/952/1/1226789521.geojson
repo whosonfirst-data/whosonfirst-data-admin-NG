@@ -1,0 +1,68 @@
+{
+  "id": 1226789521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04492,8.97956,12.04492,8.97956",
+    "geom:latitude":8.97956,
+    "geom:longitude":12.04492,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Wuro Kagu",
+    "gn:country_code":"NG",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410651,
+    "gn:latitude":8.97956,
+    "gn:longitude":12.04492,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Kagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410651
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5c7f2c27f38f2ea120928361a15b8c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1226789521,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226789521,
+    "wof:lastmodified":1536652363,
+    "wof:name":"Wuro Kagu",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04492,
+    8.97956,
+    12.04492,
+    8.97956
+],
+  "geometry": {"coordinates":[12.04492,8.97956],"type":"Point"}
+}

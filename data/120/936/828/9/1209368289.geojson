@@ -1,0 +1,62 @@
+{
+  "id": 1209368289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.40511,8.6413,12.40511,8.6413",
+    "geom:latitude":8.6413,
+    "geom:longitude":12.40511,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Wuro Mbala",
+    "gn:country_code":"NG",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420632,
+    "gn:latitude":8.6413,
+    "gn:longitude":12.40511,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Mbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420632
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"877d9ac65330f4f8ee417f497fd2577a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209368289
+        }
+    ],
+    "wof:id":1209368289,
+    "wof:lastmodified":1536289194,
+    "wof:name":"Wuro Mbala",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.40511,
+    8.6413,
+    12.40511,
+    8.6413
+],
+  "geometry": {"coordinates":[12.40511,8.6413],"type":"Point"}
+}

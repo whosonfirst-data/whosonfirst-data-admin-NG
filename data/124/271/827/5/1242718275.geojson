@@ -1,0 +1,68 @@
+{
+  "id": 1242718275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36382,10.19029,12.36382,10.19029",
+    "geom:latitude":10.19029,
+    "geom:longitude":12.36382,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Ganjikta",
+    "gn:country_code":"NG",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342001,
+    "gn:latitude":10.19029,
+    "gn:longitude":12.36382,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ganjikta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342001
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8de1f68359162af5046b8c2a51d7974e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1242718275,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1242718275,
+    "wof:lastmodified":1536859756,
+    "wof:name":"Ganjikta",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36382,
+    10.19029,
+    12.36382,
+    10.19029
+],
+  "geometry": {"coordinates":[12.36382,10.19029],"type":"Point"}
+}

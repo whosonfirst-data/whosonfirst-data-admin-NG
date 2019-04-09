@@ -1,0 +1,68 @@
+{
+  "id": 1193069291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.80722,7.54361,3.80722,7.54361",
+    "geom:latitude":7.54361,
+    "geom:longitude":3.80722,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Alajata",
+    "gn:country_code":"NG",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350641,
+    "gn:latitude":7.54361,
+    "gn:longitude":3.80722,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alajata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350641
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b7356fb9cbf39c71bfd6fdf74d69d0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1193069291,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1193069291,
+    "wof:lastmodified":1536369454,
+    "wof:name":"Alajata",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.80722,
+    7.54361,
+    3.80722,
+    7.54361
+],
+  "geometry": {"coordinates":[3.80722,7.54361],"type":"Point"}
+}

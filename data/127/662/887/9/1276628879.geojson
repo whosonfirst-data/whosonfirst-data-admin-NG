@@ -1,0 +1,68 @@
+{
+  "id": 1276628879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7062,5.16494,7.7062,5.16494",
+    "geom:latitude":5.16494,
+    "geom:longitude":7.7062,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3014.0",
+    "gn:asciiname":"Nkap",
+    "gn:country_code":"NG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328841,
+    "gn:latitude":5.16494,
+    "gn:longitude":7.7062,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nkap",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328841
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a07d3402a2af7c1007c69e68424a0412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563607,
+            "locality_id":1276628879,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1276628879,
+    "wof:lastmodified":1536879333,
+    "wof:name":"Nkap",
+    "wof:parent_id":1108563607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7062,
+    5.16494,
+    7.7062,
+    5.16494
+],
+  "geometry": {"coordinates":[7.7062,5.16494],"type":"Point"}
+}

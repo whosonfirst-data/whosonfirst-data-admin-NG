@@ -1,0 +1,88 @@
+{
+  "id": 1125822685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91903,11.48135,9.91903,11.48135",
+    "geom:latitude":11.48135,
+    "geom:longitude":9.91903,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5833,
+    "gn:population":5833,
+    "iso:country":"NG",
+    "lbl:latitude":11.48135,
+    "lbl:longitude":9.91903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0441\u0438\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Disina"
+    ],
+    "name:eng_x_preferred":[
+        "Disina"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2344760,
+    "qs_pg:gn_pop":5833,
+    "qs_pg:name":"Disina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":139758,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344760,
+        "qs_pg:id":139758,
+        "wd:id":"Q5282234"
+    },
+    "wof:country":"NG",
+    "wof:created":1497292141,
+    "wof:geomhash":"f3fd08f15b589572f0ffa281ece288b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564359,
+            "locality_id":1125822685,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1125822685,
+    "wof:lastmodified":1514491603,
+    "wof:name":"Disina",
+    "wof:parent_id":1108564359,
+    "wof:placetype":"locality",
+    "wof:population":5833,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91903,
+    11.48135,
+    9.91903,
+    11.48135
+],
+  "geometry": {"coordinates":[9.91903,11.48135],"type":"Point"}
+}

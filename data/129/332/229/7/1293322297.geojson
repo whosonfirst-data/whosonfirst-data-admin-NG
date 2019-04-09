@@ -1,0 +1,72 @@
+{
+  "id": 1293322297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.02339,9.43244,7.02339,9.43244",
+    "geom:latitude":9.43244,
+    "geom:longitude":7.02339,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Nabwi",
+    "gn:country_code":"NG",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329580,
+    "gn:latitude":9.43244,
+    "gn:longitude":7.02339,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nabwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nupenugwe",
+        "Nabwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329580
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a77071c7ff6261a2bbb1b381a6df5389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1293322297,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293322297,
+    "wof:lastmodified":1537675084,
+    "wof:name":"Nabwi",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.02339,
+    9.43244,
+    7.02339,
+    9.43244
+],
+  "geometry": {"coordinates":[7.02339,9.43244],"type":"Point"}
+}

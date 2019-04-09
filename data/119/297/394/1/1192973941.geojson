@@ -1,0 +1,67 @@
+{
+  "id": 1192973941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64809,11.23293,7.64809,11.23293",
+    "geom:latitude":11.23293,
+    "geom:longitude":7.64809,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ungwan Sonoma",
+    "gn:country_code":"NG",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319769,
+    "gn:latitude":11.23293,
+    "gn:longitude":7.64809,
+    "gn:modification_date":"2009-05-04",
+    "gn:name":"Ungwan Sonoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319769
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b100d4d852f379113526a3311eed7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564315,
+            "locality_id":1192973941,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1192973941,
+    "wof:lastmodified":1536375330,
+    "wof:name":"Ungwan Sonoma",
+    "wof:parent_id":1108564315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64809,
+    11.23293,
+    7.64809,
+    11.23293
+],
+  "geometry": {"coordinates":[7.64809,11.23293],"type":"Point"}
+}

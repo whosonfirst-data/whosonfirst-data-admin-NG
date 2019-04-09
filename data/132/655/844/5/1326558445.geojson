@@ -1,0 +1,72 @@
+{
+  "id": 1326558445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.162,11.39254,11.162,11.39254",
+    "geom:latitude":11.39254,
+    "geom:longitude":11.162,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70404",
+    "gn:asciiname":"Doto",
+    "gn:country_code":"NG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344515,
+    "gn:latitude":11.39254,
+    "gn:longitude":11.162,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Doto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dotto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344515
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"08ed867e89948a9b7e4e3771fe36a65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563369,
+            "locality_id":1326558445,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1326558445,
+    "wof:lastmodified":1537675297,
+    "wof:name":"Doto",
+    "wof:parent_id":1108563369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.162,
+    11.39254,
+    11.162,
+    11.39254
+],
+  "geometry": {"coordinates":[11.162,11.39254],"type":"Point"}
+}

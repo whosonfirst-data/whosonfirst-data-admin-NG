@@ -1,0 +1,62 @@
+{
+  "id": 1209448067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86394,6.36139,7.86394,6.36139",
+    "geom:latitude":6.36139,
+    "geom:longitude":7.86394,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11008.0",
+    "gn:asciiname":"Okpoto",
+    "gn:country_code":"NG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326917,
+    "gn:latitude":6.36139,
+    "gn:longitude":7.86394,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326917
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7ad8979e542616e786edcae7a77e8a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209448067
+        }
+    ],
+    "wof:id":1209448067,
+    "wof:lastmodified":1536286756,
+    "wof:name":"Okpoto",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.863939999999999,
+    6.36139,
+    7.863939999999999,
+    6.36139
+],
+  "geometry": {"coordinates":[7.86394,6.36139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276903077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88312,9.46075,9.88312,9.46075",
+    "geom:latitude":9.46075,
+    "geom:longitude":9.88312,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32007.0",
+    "gn:asciiname":"Gyambar",
+    "gn:country_code":"NG",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339657,
+    "gn:latitude":9.46075,
+    "gn:longitude":9.88312,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Gyambar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gyambar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339657
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bf0e657ada1a1c8e8927eb87e48619f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563767,
+            "locality_id":1276903077,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1276903077,
+    "wof:lastmodified":1537675216,
+    "wof:name":"Gyambar",
+    "wof:parent_id":1108563767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88312,
+    9.46075,
+    9.88312,
+    9.46075
+],
+  "geometry": {"coordinates":[9.88312,9.46075],"type":"Point"}
+}

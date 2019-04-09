@@ -1,0 +1,73 @@
+{
+  "id": 1344218141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.42173,11.90685,8.42173,11.90685",
+    "geom:latitude":11.90685,
+    "geom:longitude":8.42173,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20044.0",
+    "gn:admin3_code":"KN2501",
+    "gn:asciiname":"Chalawa",
+    "gn:country_code":"NG",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346177,
+    "gn:latitude":11.90685,
+    "gn:longitude":8.42173,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chalawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Challawa",
+        "Chalawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346177
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"05404a758be7f1c59faa407b34ea680b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563911,
+            "locality_id":1344218141,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1344218141,
+    "wof:lastmodified":1537675317,
+    "wof:name":"Chalawa",
+    "wof:parent_id":1108563911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.42173,
+    11.90685,
+    8.42173,
+    11.90685
+],
+  "geometry": {"coordinates":[8.42173,11.90685],"type":"Point"}
+}

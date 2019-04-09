@@ -1,0 +1,68 @@
+{
+  "id": 1293622121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.67496,9.10423,5.67496,9.10423",
+    "geom:latitude":9.10423,
+    "geom:longitude":5.67496,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007",
+    "gn:asciiname":"Emidati",
+    "gn:country_code":"NG",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10309191,
+    "gn:latitude":9.10423,
+    "gn:longitude":5.67496,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emidati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10309191
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4508501a4a99383a667badbc52b0080f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1293622121,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293622121,
+    "wof:lastmodified":1537087003,
+    "wof:name":"Emidati",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67496,
+    9.10423,
+    5.67496,
+    9.10423
+],
+  "geometry": {"coordinates":[5.67496,9.10423],"type":"Point"}
+}

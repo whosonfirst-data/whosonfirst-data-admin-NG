@@ -1,0 +1,68 @@
+{
+  "id": 1226688755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4499,7.2139,6.4499,7.2139",
+    "geom:latitude":7.2139,
+    "geom:longitude":6.4499,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12008.0",
+    "gn:asciiname":"Isokwe",
+    "gn:country_code":"NG",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6834182,
+    "gn:latitude":7.2139,
+    "gn:longitude":6.4499,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isokwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6834182
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0b77670af5f669f488ca2155dd392189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563343,
+            "locality_id":1226688755,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1226688755,
+    "wof:lastmodified":1536797769,
+    "wof:name":"Isokwe",
+    "wof:parent_id":1108563343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4499,
+    7.2139,
+    6.4499,
+    7.2139
+],
+  "geometry": {"coordinates":[6.4499,7.2139],"type":"Point"}
+}

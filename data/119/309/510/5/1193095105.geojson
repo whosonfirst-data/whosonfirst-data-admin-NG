@@ -1,0 +1,73 @@
+{
+  "id": 1193095105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.51167,11.33388,7.51167,11.33388",
+    "geom:latitude":11.33388,
+    "geom:longitude":7.51167,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19003.0",
+    "gn:admin3_code":"KD0303",
+    "gn:asciiname":"Ungwan Baraje",
+    "gn:country_code":"NG",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320097,
+    "gn:latitude":11.33388,
+    "gn:longitude":7.51167,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Baraje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baraje",
+        "Ungwan Baraje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320097
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ce65a68bd86af012db97e10bd8179b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563425,
+            "locality_id":1193095105,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1193095105,
+    "wof:lastmodified":1537674934,
+    "wof:name":"Ungwan Baraje",
+    "wof:parent_id":1108563425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.51167,
+    11.33388,
+    7.51167,
+    11.33388
+],
+  "geometry": {"coordinates":[7.51167,11.33388],"type":"Point"}
+}

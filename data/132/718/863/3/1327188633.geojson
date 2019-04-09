@@ -1,0 +1,68 @@
+{
+  "id": 1327188633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.67482,7.2572,8.67482,7.2572",
+    "geom:latitude":7.2572,
+    "geom:longitude":8.67482,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Alakali",
+    "gn:country_code":"NG",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350631,
+    "gn:latitude":7.2572,
+    "gn:longitude":8.67482,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alakali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350631
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc7a48cc39a3196db1ca0d48bdf8cde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1327188633,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1327188633,
+    "wof:lastmodified":1537031544,
+    "wof:name":"Alakali",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.67482,
+    7.2572,
+    8.67482,
+    7.2572
+],
+  "geometry": {"coordinates":[8.67482,7.2572],"type":"Point"}
+}

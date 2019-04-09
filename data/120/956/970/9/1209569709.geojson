@@ -1,0 +1,62 @@
+{
+  "id": 1209569709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.47516,7.55888,9.47516,7.55888",
+    "geom:latitude":7.55888,
+    "geom:longitude":9.47516,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Ogonyi",
+    "gn:country_code":"NG",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528614,
+    "gn:latitude":7.55888,
+    "gn:longitude":9.47516,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogonyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528614
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe4e0bfcf7590c56531025f7e3bd2e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209569709
+        }
+    ],
+    "wof:id":1209569709,
+    "wof:lastmodified":1536283123,
+    "wof:name":"Ogonyi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.47516,
+    7.55888,
+    9.47516,
+    7.55888
+],
+  "geometry": {"coordinates":[9.47516,7.55888],"type":"Point"}
+}

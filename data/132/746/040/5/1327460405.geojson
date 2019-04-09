@@ -1,0 +1,68 @@
+{
+  "id": 1327460405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.07213,6.23663,8.07213,6.23663",
+    "geom:latitude":6.23663,
+    "geom:longitude":8.07213,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11001.0",
+    "gn:asciiname":"Agalegu",
+    "gn:country_code":"NG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352164,
+    "gn:latitude":6.23663,
+    "gn:longitude":8.07213,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agalegu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108562905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352164
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"908df9aacf85235c309bd59296f28399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562905,
+            "locality_id":1327460405,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1327460405,
+    "wof:lastmodified":1536639489,
+    "wof:name":"Agalegu",
+    "wof:parent_id":1108562905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.07213,
+    6.23663,
+    8.07213,
+    6.23663
+],
+  "geometry": {"coordinates":[8.07213,6.23663],"type":"Point"}
+}

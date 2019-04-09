@@ -1,0 +1,67 @@
+{
+  "id": 1343589575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80202,5.84191,7.80202,5.84191",
+    "geom:latitude":5.84191,
+    "geom:longitude":7.80202,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Amaso-Nta",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350174,
+    "gn:latitude":5.84191,
+    "gn:longitude":7.80202,
+    "gn:modification_date":"2009-08-19",
+    "gn:name":"Amaso-Nta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108562929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350174
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe1195b8dbcb1bbe46762bdf93f4f4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562929,
+            "locality_id":1343589575,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1343589575,
+    "wof:lastmodified":1537055152,
+    "wof:name":"Amaso-Nta",
+    "wof:parent_id":1108562929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80202,
+    5.84191,
+    7.80202,
+    5.84191
+],
+  "geometry": {"coordinates":[7.80202,5.84191],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326782215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46628,6.96061,6.46628,6.96061",
+    "geom:latitude":6.96061,
+    "geom:longitude":6.46628,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12007.0",
+    "gn:asciiname":"Sukoro",
+    "gn:country_code":"NG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7079885,
+    "gn:latitude":6.96061,
+    "gn:longitude":6.46628,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sukoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sukoro"
+    ],
+    "name:und_x_variant":[
+        "Isukoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7079885
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"40694dd13de444484ef50f8ed1be746d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563341,
+            "locality_id":1326782215,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1326782215,
+    "wof:lastmodified":1537675449,
+    "wof:name":"Sukoro",
+    "wof:parent_id":1108563341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46628,
+    6.96061,
+    6.46628,
+    6.96061
+],
+  "geometry": {"coordinates":[6.46628,6.96061],"type":"Point"}
+}

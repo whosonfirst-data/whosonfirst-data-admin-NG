@@ -1,0 +1,68 @@
+{
+  "id": 1225915851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06615,6.84354,4.06615,6.84354",
+    "geom:latitude":6.84354,
+    "geom:longitude":4.06615,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28010.0",
+    "gn:asciiname":"Orunwa",
+    "gn:country_code":"NG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969475,
+    "gn:latitude":6.84354,
+    "gn:longitude":4.06615,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orunwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969475
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"606be90c2f59dd2d7d0deef80d8635f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563571,
+            "locality_id":1225915851,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1225915851,
+    "wof:lastmodified":1536913114,
+    "wof:name":"Orunwa",
+    "wof:parent_id":1108563571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06615,
+    6.84354,
+    4.06615,
+    6.84354
+],
+  "geometry": {"coordinates":[4.06615,6.84354],"type":"Point"}
+}

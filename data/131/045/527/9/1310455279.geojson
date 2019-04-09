@@ -1,0 +1,68 @@
+{
+  "id": 1310455279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17489,8.8771,12.17489,8.8771",
+    "geom:latitude":8.8771,
+    "geom:longitude":12.17489,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Lamja",
+    "gn:country_code":"NG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332328,
+    "gn:latitude":8.8771,
+    "gn:longitude":12.17489,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lamja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332328
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d6ff2d0944659c9072f5be16c98065e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1310455279,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310455279,
+    "wof:lastmodified":1536988651,
+    "wof:name":"Lamja",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17489,
+    8.8771,
+    12.17489,
+    8.8771
+],
+  "geometry": {"coordinates":[12.17489,8.8771],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243139185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28519,7.19396,9.28519,7.19396",
+    "geom:latitude":7.19396,
+    "geom:longitude":9.28519,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Hange",
+    "gn:country_code":"NG",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639615,
+    "gn:latitude":7.19396,
+    "gn:longitude":9.28519,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639615
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3a1ecef9feca47715bef319f8442e8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1243139185,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243139185,
+    "wof:lastmodified":1536751602,
+    "wof:name":"Hange",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28519,
+    7.19396,
+    9.28519,
+    7.19396
+],
+  "geometry": {"coordinates":[9.28519,7.19396],"type":"Point"}
+}

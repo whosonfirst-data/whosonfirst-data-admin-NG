@@ -1,0 +1,68 @@
+{
+  "id": 1343720671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.60768,4.95561,7.60768,4.95561",
+    "geom:latitude":4.95561,
+    "geom:longitude":7.60768,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3006.0",
+    "gn:asciiname":"Ikot Edet",
+    "gn:country_code":"NG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338125,
+    "gn:latitude":4.95561,
+    "gn:longitude":7.60768,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Edet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338125
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"78bb594079469c8fc493d17739737aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563337,
+            "locality_id":1343720671,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1343720671,
+    "wof:lastmodified":1536867158,
+    "wof:name":"Ikot Edet",
+    "wof:parent_id":1108563337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.60768,
+    4.95561,
+    7.60768,
+    4.95561
+],
+  "geometry": {"coordinates":[7.60768,4.95561],"type":"Point"}
+}

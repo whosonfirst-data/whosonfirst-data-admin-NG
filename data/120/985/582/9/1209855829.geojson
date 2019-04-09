@@ -1,0 +1,70 @@
+{
+  "id": 1209855829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.89766,9.43175,11.89766,9.43175",
+    "geom:latitude":9.43175,
+    "geom:longitude":11.89766,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Zambian",
+    "gn:country_code":"NG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210040,
+    "gn:latitude":9.43175,
+    "gn:longitude":11.89766,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Zambian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zambian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210040
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ede386faf683206a6e669f70776a7bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564061,
+            "locality_id":1209855829,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1209855829,
+    "wof:lastmodified":1537675506,
+    "wof:name":"Zambian",
+    "wof:parent_id":1108564061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.89766,
+    9.43175,
+    11.89766,
+    9.43175
+],
+  "geometry": {"coordinates":[11.89766,9.43175],"type":"Point"}
+}

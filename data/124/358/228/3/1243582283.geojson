@@ -1,0 +1,69 @@
+{
+  "id": 1243582283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.1073,11.7456,10.1073,11.7456",
+    "geom:latitude":11.7456,
+    "geom:longitude":10.1073,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5012.0",
+    "gn:admin3_code":"BA1206",
+    "gn:asciiname":"Ragom",
+    "gn:country_code":"NG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324633,
+    "gn:latitude":11.7456,
+    "gn:longitude":10.1073,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ragom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324633
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0a5348f53b3b3004b9f1afd6bc7b5e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563787,
+            "locality_id":1243582283,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1243582283,
+    "wof:lastmodified":1536607092,
+    "wof:name":"Ragom",
+    "wof:parent_id":1108563787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.1073,
+    11.7456,
+    10.1073,
+    11.7456
+],
+  "geometry": {"coordinates":[10.1073,11.7456],"type":"Point"}
+}

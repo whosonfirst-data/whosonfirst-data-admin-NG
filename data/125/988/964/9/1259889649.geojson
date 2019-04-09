@@ -1,0 +1,67 @@
+{
+  "id": 1259889649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9143,9.37439,8.9143,9.37439",
+    "geom:latitude":9.37439,
+    "geom:longitude":8.9143,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"South Ropp",
+    "gn:country_code":"NG",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058061,
+    "gn:latitude":9.37439,
+    "gn:longitude":8.9143,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"South Ropp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058061
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4255ae9882557f7b3550b3b05585bf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563143,
+            "locality_id":1259889649,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259889649,
+    "wof:lastmodified":1536770660,
+    "wof:name":"South Ropp",
+    "wof:parent_id":1108563143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9143,
+    9.37439,
+    8.9143,
+    9.37439
+],
+  "geometry": {"coordinates":[8.9143,9.37439],"type":"Point"}
+}

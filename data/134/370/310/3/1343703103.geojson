@@ -1,0 +1,68 @@
+{
+  "id": 1343703103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.95,8.98333,3.95,8.98333",
+    "geom:latitude":8.98333,
+    "geom:longitude":3.95,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31015.0",
+    "gn:asciiname":"Soro",
+    "gn:country_code":"NG",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322863,
+    "gn:latitude":8.98333,
+    "gn:longitude":3.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Soro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322863
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79ead87b4b27780edb6e67f717ff83f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563659,
+            "locality_id":1343703103,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1343703103,
+    "wof:lastmodified":1536893287,
+    "wof:name":"Soro",
+    "wof:parent_id":1108563659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.95,
+    8.98333,
+    3.95,
+    8.98333
+],
+  "geometry": {"coordinates":[3.95,8.98333],"type":"Point"}
+}

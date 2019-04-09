@@ -1,0 +1,69 @@
+{
+  "id": 1310156821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.11966,12.32388,4.11966,12.32388",
+    "geom:latitude":12.32388,
+    "geom:longitude":4.11966,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"512.0",
+    "gn:admin3_code":"51202",
+    "gn:asciiname":"Gayi",
+    "gn:country_code":"NG",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341570,
+    "gn:latitude":12.32388,
+    "gn:longitude":4.11966,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Gayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341570
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8e677457c9251428c925b3721d518377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563763,
+            "locality_id":1310156821,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1310156821,
+    "wof:lastmodified":1536923338,
+    "wof:name":"Gayi",
+    "wof:parent_id":1108563763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.11966,
+    12.32388,
+    4.11966,
+    12.32388
+],
+  "geometry": {"coordinates":[4.11966,12.32388],"type":"Point"}
+}

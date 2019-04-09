@@ -1,0 +1,63 @@
+{
+  "id": 1209466165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.5847,10.90686,4.5847,10.90686",
+    "geom:latitude":10.90686,
+    "geom:longitude":4.5847,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"517.0",
+    "gn:admin3_code":"51702",
+    "gn:asciiname":"Tungan Barachi",
+    "gn:country_code":"NG",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321409,
+    "gn:latitude":10.90686,
+    "gn:longitude":4.5847,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tungan Barachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321409
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4b6890d51e5e220379f6734ef487976",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209466165
+        }
+    ],
+    "wof:id":1209466165,
+    "wof:lastmodified":1536286228,
+    "wof:name":"Tungan Barachi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5847,
+    10.90686,
+    4.5847,
+    10.90686
+],
+  "geometry": {"coordinates":[4.5847,10.90686],"type":"Point"}
+}

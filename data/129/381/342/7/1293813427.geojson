@@ -1,0 +1,67 @@
+{
+  "id": 1293813427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.72443,12.54578,8.72443,12.54578",
+    "geom:latitude":12.54578,
+    "geom:longitude":8.72443,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Gangara",
+    "gn:country_code":"NG",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974432,
+    "gn:latitude":12.54578,
+    "gn:longitude":8.72443,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974432
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1acd3d62847be6e6894889c81b3afb05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1293813427,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1293813427,
+    "wof:lastmodified":1536813720,
+    "wof:name":"Gangara",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.72443,
+    12.54578,
+    8.72443,
+    12.54578
+],
+  "geometry": {"coordinates":[8.72443,12.54578],"type":"Point"}
+}

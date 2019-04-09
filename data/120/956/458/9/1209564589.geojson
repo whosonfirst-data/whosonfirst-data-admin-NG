@@ -1,0 +1,62 @@
+{
+  "id": 1209564589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31667,8.76667,4.31667,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":4.31667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Paiye",
+    "gn:country_code":"NG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325127,
+    "gn:latitude":8.76667,
+    "gn:longitude":4.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325127
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5c82df9319d088f1ab75e4ce66eec21f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209564589
+        }
+    ],
+    "wof:id":1209564589,
+    "wof:lastmodified":1536283285,
+    "wof:name":"Paiye",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3166699999999985,
+    8.76667,
+    4.3166699999999985,
+    8.76667
+],
+  "geometry": {"coordinates":[4.31667,8.76667],"type":"Point"}
+}

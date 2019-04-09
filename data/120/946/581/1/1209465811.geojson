@@ -1,0 +1,62 @@
+{
+  "id": 1209465811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86545,5.26453,6.86545,5.26453",
+    "geom:latitude":5.26453,
+    "geom:longitude":6.86545,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17018.0",
+    "gn:asciiname":"Oburugo",
+    "gn:country_code":"NG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101512,
+    "gn:latitude":5.26453,
+    "gn:longitude":6.86545,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oburugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101512
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6836eef35e9f3ec8a9602d09d45d4e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209465811
+        }
+    ],
+    "wof:id":1209465811,
+    "wof:lastmodified":1536286238,
+    "wof:name":"Oburugo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86545,
+    5.2645300000000015,
+    6.86545,
+    5.2645300000000015
+],
+  "geometry": {"coordinates":[6.86545,5.26453],"type":"Point"}
+}

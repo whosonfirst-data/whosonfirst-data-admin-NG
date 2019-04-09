@@ -1,0 +1,66 @@
+{
+  "id": 1209286153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.81408,6.85492,3.81408,6.85492",
+    "geom:latitude":6.85492,
+    "geom:longitude":3.81408,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28017.0",
+    "gn:asciiname":"Okun-Owa",
+    "gn:country_code":"NG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326837,
+    "gn:latitude":6.85492,
+    "gn:longitude":3.81408,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okun-Owa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okun-Awwaw",
+        "Okun-Owa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326837
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dd6fb5119e247f329c3610a9695bacc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209286153
+        }
+    ],
+    "wof:id":1209286153,
+    "wof:lastmodified":1537675035,
+    "wof:name":"Okun-Owa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.81408,
+    6.85492,
+    3.81408,
+    6.85492
+],
+  "geometry": {"coordinates":[3.81408,6.85492],"type":"Point"}
+}

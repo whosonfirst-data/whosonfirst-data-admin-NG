@@ -1,0 +1,62 @@
+{
+  "id": 1209245891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20312,9.13569,6.20312,9.13569",
+    "geom:latitude":9.13569,
+    "geom:longitude":6.20312,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010.0",
+    "gn:asciiname":"Sakiwa",
+    "gn:country_code":"NG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323933,
+    "gn:latitude":9.13569,
+    "gn:longitude":6.20312,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sakiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323933
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a77b1872a9a5e26f5ec3fec623edf605",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209245891
+        }
+    ],
+    "wof:id":1209245891,
+    "wof:lastmodified":1536293167,
+    "wof:name":"Sakiwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.203119999999998,
+    9.13569,
+    6.203119999999998,
+    9.13569
+],
+  "geometry": {"coordinates":[6.20312,9.13569],"type":"Point"}
+}

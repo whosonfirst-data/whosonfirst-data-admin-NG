@@ -1,0 +1,68 @@
+{
+  "id": 1293419311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.62934,9.31704,6.62934,9.31704",
+    "geom:latitude":9.31704,
+    "geom:longitude":6.62934,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Dnago",
+    "gn:country_code":"NG",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344751,
+    "gn:latitude":9.31704,
+    "gn:longitude":6.62934,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dnago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344751
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5ebad6dbde170f892f5f336acbb64fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1293419311,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293419311,
+    "wof:lastmodified":1536884908,
+    "wof:name":"Dnago",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.62934,
+    9.31704,
+    6.62934,
+    9.31704
+],
+  "geometry": {"coordinates":[6.62934,9.31704],"type":"Point"}
+}

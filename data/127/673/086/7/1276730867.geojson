@@ -1,0 +1,69 @@
+{
+  "id": 1276730867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.89848,9.40532,7.89848,9.40532",
+    "geom:latitude":9.40532,
+    "geom:longitude":7.89848,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19011",
+    "gn:admin3_code":"KD1109",
+    "gn:asciiname":"Sadelafia",
+    "gn:country_code":"NG",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636621,
+    "gn:latitude":9.40532,
+    "gn:longitude":7.89848,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sadelafia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636621
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2516096abbda4f1c3333b2f04205efc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563749,
+            "locality_id":1276730867,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276730867,
+    "wof:lastmodified":1536743026,
+    "wof:name":"Sadelafia",
+    "wof:parent_id":1108563749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.89848,
+    9.40532,
+    7.89848,
+    9.40532
+],
+  "geometry": {"coordinates":[7.89848,9.40532],"type":"Point"}
+}

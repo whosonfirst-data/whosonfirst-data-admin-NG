@@ -1,0 +1,71 @@
+{
+  "id": 1243507405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41439,6.18014,6.41439,6.18014",
+    "geom:latitude":6.18014,
+    "geom:longitude":6.41439,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Ogbo-Obi",
+    "gn:country_code":"NG",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349816,
+    "gn:latitude":6.18014,
+    "gn:longitude":6.41439,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogbo-Obi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anioma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349816
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e97fc60877be34e5d3bf3c6a0766111c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1243507405,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243507405,
+    "wof:lastmodified":1537675360,
+    "wof:name":"Ogbo-Obi",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41439,
+    6.18014,
+    6.41439,
+    6.18014
+],
+  "geometry": {"coordinates":[6.41439,6.18014],"type":"Point"}
+}

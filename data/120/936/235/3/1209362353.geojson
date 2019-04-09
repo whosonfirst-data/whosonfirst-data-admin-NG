@@ -1,0 +1,62 @@
+{
+  "id": 1209362353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.35214,7.30874,8.35214,7.30874",
+    "geom:latitude":7.30874,
+    "geom:longitude":8.35214,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007",
+    "gn:asciiname":"Liam",
+    "gn:country_code":"NG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9268188,
+    "gn:latitude":7.30874,
+    "gn:longitude":8.35214,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Liam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9268188
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4f9cf02b29a5b92e1868ab83367c1864",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209362353
+        }
+    ],
+    "wof:id":1209362353,
+    "wof:lastmodified":1536289379,
+    "wof:name":"Liam",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.352139999999999,
+    7.3087399999999985,
+    8.352139999999999,
+    7.3087399999999985
+],
+  "geometry": {"coordinates":[8.35214,7.30874],"type":"Point"}
+}

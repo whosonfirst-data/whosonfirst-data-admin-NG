@@ -1,0 +1,63 @@
+{
+  "id": 1209570809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.48651,11.56597,7.48651,11.56597",
+    "geom:latitude":11.56597,
+    "geom:longitude":7.48651,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40102",
+    "gn:asciiname":"Tanko",
+    "gn:country_code":"NG",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019421,
+    "gn:latitude":11.56597,
+    "gn:longitude":7.48651,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tanko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019421
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3b8e2cbd5fc9d82e1aaacc3fcf6a5697",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209570809
+        }
+    ],
+    "wof:id":1209570809,
+    "wof:lastmodified":1536283090,
+    "wof:name":"Tanko",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.486510000000001,
+    11.56597,
+    7.486510000000001,
+    11.56597
+],
+  "geometry": {"coordinates":[7.48651,11.56597],"type":"Point"}
+}

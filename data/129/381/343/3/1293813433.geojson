@@ -1,0 +1,69 @@
+{
+  "id": 1293813433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.98708,12.46345,4.98708,12.46345",
+    "geom:latitude":12.46345,
+    "geom:longitude":4.98708,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"618.0",
+    "gn:admin3_code":"61806",
+    "gn:asciiname":"Hiliya",
+    "gn:country_code":"NG",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040240,
+    "gn:latitude":12.46345,
+    "gn:longitude":4.98708,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hiliya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040240
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"94ec328cec193255089211ce0a459f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564401,
+            "locality_id":1293813433,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293813433,
+    "wof:lastmodified":1536813710,
+    "wof:name":"Hiliya",
+    "wof:parent_id":1108564401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.98708,
+    12.46345,
+    4.98708,
+    12.46345
+],
+  "geometry": {"coordinates":[4.98708,12.46345],"type":"Point"}
+}

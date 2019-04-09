@@ -1,0 +1,63 @@
+{
+  "id": 1209557797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.16589,12.8229,4.16589,12.8229",
+    "geom:latitude":12.8229,
+    "geom:longitude":4.16589,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50211",
+    "gn:asciiname":"Matankari",
+    "gn:country_code":"NG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330612,
+    "gn:latitude":12.8229,
+    "gn:longitude":4.16589,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Matankari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330612
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"05fe375fc9f06f7948fe7d25495ec261",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209557797
+        }
+    ],
+    "wof:id":1209557797,
+    "wof:lastmodified":1536283494,
+    "wof:name":"Matankari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.16589,
+    12.8229,
+    4.16589,
+    12.8229
+],
+  "geometry": {"coordinates":[4.16589,12.8229],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276262429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.45654,11.39722,6.45654,11.39722",
+    "geom:latitude":11.39722,
+    "geom:longitude":6.45654,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81005",
+    "gn:asciiname":"Bitawa",
+    "gn:country_code":"NG",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040079,
+    "gn:latitude":11.39722,
+    "gn:longitude":6.45654,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bitawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040079
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c364be2894eb02dc775dfa55398698d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563953,
+            "locality_id":1276262429,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1276262429,
+    "wof:lastmodified":1536872666,
+    "wof:name":"Bitawa",
+    "wof:parent_id":1108563953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.45654,
+    11.39722,
+    6.45654,
+    11.39722
+],
+  "geometry": {"coordinates":[6.45654,11.39722],"type":"Point"}
+}

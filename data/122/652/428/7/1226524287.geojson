@@ -1,0 +1,68 @@
+{
+  "id": 1226524287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9,7.5,2.9,7.5",
+    "geom:latitude":7.5,
+    "geom:longitude":2.9,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28013.0",
+    "gn:asciiname":"Kogo Ilakan",
+    "gn:country_code":"NG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334202,
+    "gn:latitude":7.5,
+    "gn:longitude":2.9,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kogo Ilakan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334202
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e770cc9a39b1518712662027b1ad468b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563641,
+            "locality_id":1226524287,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1226524287,
+    "wof:lastmodified":1537027830,
+    "wof:name":"Kogo Ilakan",
+    "wof:parent_id":1108563641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9,
+    7.5,
+    2.9,
+    7.5
+],
+  "geometry": {"coordinates":[2.9,7.5],"type":"Point"}
+}

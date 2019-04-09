@@ -1,0 +1,68 @@
+{
+  "id": 1343605729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52022,10.5851,13.52022,10.5851",
+    "geom:latitude":10.5851,
+    "geom:longitude":13.52022,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013.0",
+    "gn:asciiname":"Femi",
+    "gn:country_code":"NG",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342650,
+    "gn:latitude":10.5851,
+    "gn:longitude":13.52022,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Femi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342650
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8ac9733d2c10e44c1a2a3021507aa96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563969,
+            "locality_id":1343605729,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343605729,
+    "wof:lastmodified":1537032640,
+    "wof:name":"Femi",
+    "wof:parent_id":1108563969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52022,
+    10.5851,
+    13.52022,
+    10.5851
+],
+  "geometry": {"coordinates":[13.52022,10.5851],"type":"Point"}
+}

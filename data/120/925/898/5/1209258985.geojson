@@ -1,0 +1,62 @@
+{
+  "id": 1209258985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.71667,8.81667,12.71667,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":12.71667,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Kila",
+    "gn:country_code":"NG",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334474,
+    "gn:latitude":8.81667,
+    "gn:longitude":12.71667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334474
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"86e1f61fa7a4dfe465bad8a417246783",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209258985
+        }
+    ],
+    "wof:id":1209258985,
+    "wof:lastmodified":1536292757,
+    "wof:name":"Kila",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.71667,
+    8.81667,
+    12.71667,
+    8.81667
+],
+  "geometry": {"coordinates":[12.71667,8.81667],"type":"Point"}
+}

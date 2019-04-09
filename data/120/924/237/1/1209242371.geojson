@@ -1,0 +1,65 @@
+{
+  "id": 1209242371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9604,9.75981,8.9604,9.75981",
+    "geom:latitude":9.75981,
+    "geom:longitude":8.9604,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32001.0",
+    "gn:asciiname":"Buga-da-gindi",
+    "gn:country_code":"NG",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346631,
+    "gn:latitude":9.75981,
+    "gn:longitude":8.9604,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Buga-da-gindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buga da Gindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346631
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"406ccf4f0ffd30bda7d071a94abd77d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209242371
+        }
+    ],
+    "wof:id":1209242371,
+    "wof:lastmodified":1537675323,
+    "wof:name":"Buga-da-gindi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9604,
+    9.75981,
+    8.9604,
+    9.75981
+],
+  "geometry": {"coordinates":[8.9604,9.75981],"type":"Point"}
+}

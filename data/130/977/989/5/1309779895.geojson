@@ -1,0 +1,72 @@
+{
+  "id": 1309779895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.68542,5.24676,7.68542,5.24676",
+    "geom:latitude":5.24676,
+    "geom:longitude":7.68542,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3014.0",
+    "gn:asciiname":"Abiakpo Ikot Obionting",
+    "gn:country_code":"NG",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352916,
+    "gn:latitude":5.24676,
+    "gn:longitude":7.68542,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abiakpo Ikot Obionting",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abia Ikot Obionting",
+        "Abiakpo Ikot Obionting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352916
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0838b629d5dc44695858ace93938947b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563607,
+            "locality_id":1309779895,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1309779895,
+    "wof:lastmodified":1537675396,
+    "wof:name":"Abiakpo Ikot Obionting",
+    "wof:parent_id":1108563607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.68542,
+    5.24676,
+    7.68542,
+    5.24676
+],
+  "geometry": {"coordinates":[7.68542,5.24676],"type":"Point"}
+}

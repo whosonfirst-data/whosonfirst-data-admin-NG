@@ -1,0 +1,70 @@
+{
+  "id": 1209755973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8225,9.3181,11.8225,9.3181",
+    "geom:latitude":9.3181,
+    "geom:longitude":11.8225,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kofara",
+    "gn:country_code":"NG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209993,
+    "gn:latitude":9.3181,
+    "gn:longitude":11.8225,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kofara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kofara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209993
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b7f122a6e56c833fc01c3bf1414a0972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1209755973,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1209755973,
+    "wof:lastmodified":1537675504,
+    "wof:name":"Kofara",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8225,
+    9.3181,
+    11.8225,
+    9.3181
+],
+  "geometry": {"coordinates":[11.8225,9.3181],"type":"Point"}
+}

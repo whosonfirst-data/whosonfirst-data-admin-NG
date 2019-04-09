@@ -1,0 +1,67 @@
+{
+  "id": 1242607073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3716,8.80487,9.3716,8.80487",
+    "geom:latitude":8.80487,
+    "geom:longitude":9.3716,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Der",
+    "gn:country_code":"NG",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058011,
+    "gn:latitude":8.80487,
+    "gn:longitude":9.3716,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Der",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058011
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e02d9e439cb9d082b2dd208e5c4ba8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1242607073,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1242607073,
+    "wof:lastmodified":1537020398,
+    "wof:name":"Der",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3716,
+    8.80487,
+    9.3716,
+    8.80487
+],
+  "geometry": {"coordinates":[9.3716,8.80487],"type":"Point"}
+}

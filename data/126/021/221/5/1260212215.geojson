@@ -1,0 +1,68 @@
+{
+  "id": 1260212215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.10735,6.47187,5.10735,6.47187",
+    "geom:latitude":6.47187,
+    "geom:longitude":5.10735,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29012.0",
+    "gn:asciiname":"Ago-Osogbon",
+    "gn:country_code":"NG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6965380,
+    "gn:latitude":6.47187,
+    "gn:longitude":5.10735,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago-Osogbon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6965380
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"31b5d15d46331e101981b71bd861c77b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563649,
+            "locality_id":1260212215,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1260212215,
+    "wof:lastmodified":1536808392,
+    "wof:name":"Ago-Osogbon",
+    "wof:parent_id":1108563649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.10735,
+    6.47187,
+    5.10735,
+    6.47187
+],
+  "geometry": {"coordinates":[5.10735,6.47187],"type":"Point"}
+}

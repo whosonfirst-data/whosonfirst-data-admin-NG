@@ -1,0 +1,69 @@
+{
+  "id": 1326778051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.81882,12.89979,12.81882,12.89979",
+    "geom:latitude":12.89979,
+    "geom:longitude":12.81882,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"109.0",
+    "gn:admin3_code":"10903",
+    "gn:asciiname":"Gazabure",
+    "gn:country_code":"NG",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341554,
+    "gn:latitude":12.89979,
+    "gn:longitude":12.81882,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gazabure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341554
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"75e71397b5dd8952abe4e09c15bfd5c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563437,
+            "locality_id":1326778051,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1326778051,
+    "wof:lastmodified":1536627959,
+    "wof:name":"Gazabure",
+    "wof:parent_id":1108563437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.81882,
+    12.89979,
+    12.81882,
+    12.89979
+],
+  "geometry": {"coordinates":[12.81882,12.89979],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209344105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78211,9.3353,10.78211,9.3353",
+    "geom:latitude":9.3353,
+    "geom:longitude":10.78211,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Raban Jaji",
+    "gn:country_code":"NG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274119,
+    "gn:latitude":9.3353,
+    "gn:longitude":10.78211,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Raban Jaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Raban Jaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274119
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"043cc7ed5877a960e1953f7e68e1fdea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344105
+        }
+    ],
+    "wof:id":1209344105,
+    "wof:lastmodified":1537675517,
+    "wof:name":"Raban Jaji",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78211,
+    9.3353,
+    10.78211,
+    9.3353
+],
+  "geometry": {"coordinates":[10.78211,9.3353],"type":"Point"}
+}

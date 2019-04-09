@@ -1,0 +1,62 @@
+{
+  "id": 1209168663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.03233,7.47291,9.03233,7.47291",
+    "geom:latitude":7.47291,
+    "geom:longitude":9.03233,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Kpengwa",
+    "gn:country_code":"NG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633395,
+    "gn:latitude":7.47291,
+    "gn:longitude":9.03233,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kpengwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633395
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8f3e4e0632d349883855e4f99522b34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209168663
+        }
+    ],
+    "wof:id":1209168663,
+    "wof:lastmodified":1536295656,
+    "wof:name":"Kpengwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.03233,
+    7.4729100000000015,
+    9.03233,
+    7.4729100000000015
+],
+  "geometry": {"coordinates":[9.03233,7.47291],"type":"Point"}
+}

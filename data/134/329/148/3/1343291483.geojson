@@ -1,0 +1,68 @@
+{
+  "id": 1343291483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76632,10.04556,8.76632,10.04556",
+    "geom:latitude":10.04556,
+    "geom:longitude":8.76632,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32002.0",
+    "gn:asciiname":"Barakin Tumbakiri",
+    "gn:country_code":"NG",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347697,
+    "gn:latitude":10.04556,
+    "gn:longitude":8.76632,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barakin Tumbakiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347697
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"91f97e4ee224bc9c13c8699c761e9717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563095,
+            "locality_id":1343291483,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1343291483,
+    "wof:lastmodified":1536989412,
+    "wof:name":"Barakin Tumbakiri",
+    "wof:parent_id":1108563095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76632,
+    10.04556,
+    8.76632,
+    10.04556
+],
+  "geometry": {"coordinates":[8.76632,10.04556],"type":"Point"}
+}

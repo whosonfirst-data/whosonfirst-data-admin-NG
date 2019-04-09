@@ -1,0 +1,73 @@
+{
+  "id": 1327187663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04665,9.09959,12.04665,9.09959",
+    "geom:latitude":9.09959,
+    "geom:longitude":12.04665,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Jauro Jingeru",
+    "gn:country_code":"NG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189863,
+    "gn:latitude":9.09959,
+    "gn:longitude":12.04665,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Jauro Jingeru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jauro Jingeru"
+    ],
+    "name:eng_x_variant":[
+        "Jauro Jingeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189863
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95d6d9756c2378b00d774f02556bf3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1327187663,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1327187663,
+    "wof:lastmodified":1537675491,
+    "wof:name":"Jauro Jingeru",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04665,
+    9.09959,
+    12.04665,
+    9.09959
+],
+  "geometry": {"coordinates":[12.04665,9.09959],"type":"Point"}
+}

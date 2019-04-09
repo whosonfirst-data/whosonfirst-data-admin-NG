@@ -1,0 +1,80 @@
+{
+  "id": 1209955415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08896,6.67859,6.08896,6.67859",
+    "geom:latitude":6.67859,
+    "geom:longitude":6.08896,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006.0",
+    "gn:asciiname":"Ugianmwen",
+    "gn:country_code":"NG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320822,
+    "gn:latitude":6.67859,
+    "gn:longitude":6.08896,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugianmwen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ugianmuen"
+    ],
+    "name:eng_x_variant":[
+        "Ugiamen",
+        "Ugiame"
+    ],
+    "name:und_x_variant":[
+        "Ugiame",
+        "Ugiamen",
+        "Ugianmwen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320822
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf63f3dd05b82a9754dd34a7685a43fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563321,
+            "locality_id":1209955415,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1209955415,
+    "wof:lastmodified":1537674956,
+    "wof:name":"Ugianmwen",
+    "wof:parent_id":1108563321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08896,
+    6.67859,
+    6.08896,
+    6.67859
+],
+  "geometry": {"coordinates":[6.08896,6.67859],"type":"Point"}
+}

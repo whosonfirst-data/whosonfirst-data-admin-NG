@@ -1,0 +1,66 @@
+{
+  "id": 1209673549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48815,9.47157,8.48815,9.47157",
+    "geom:latitude":9.47157,
+    "geom:longitude":8.48815,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19007.0",
+    "gn:admin3_code":"KD0704",
+    "gn:asciiname":"Kanufi",
+    "gn:country_code":"NG",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335286,
+    "gn:latitude":9.47157,
+    "gn:longitude":8.48815,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kanufi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanafi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335286
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5297028d5d3db16c508ccd23d66b2a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209673549
+        }
+    ],
+    "wof:id":1209673549,
+    "wof:lastmodified":1537675153,
+    "wof:name":"Kanufi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48815,
+    9.47157,
+    8.48815,
+    9.47157
+],
+  "geometry": {"coordinates":[8.48815,9.47157],"type":"Point"}
+}

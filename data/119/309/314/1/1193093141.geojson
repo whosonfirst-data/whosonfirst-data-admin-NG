@@ -1,0 +1,70 @@
+{
+  "id": 1193093141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.22466,11.17511,8.22466,11.17511",
+    "geom:latitude":11.17511,
+    "geom:longitude":8.22466,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19005.0",
+    "gn:admin3_code":"KD0502",
+    "gn:asciiname":"Ikara",
+    "gn:country_code":"NG",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2338328,
+    "gn:latitude":11.17511,
+    "gn:longitude":8.22466,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ikara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338328,
+        "wk:page":"Ikara"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b4357038a73837dcb0e833b7ae6f7447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563589,
+            "locality_id":1193093141,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1193093141,
+    "wof:lastmodified":1537570006,
+    "wof:name":"Ikara",
+    "wof:parent_id":1108563589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.22466,
+    11.17511,
+    8.22466,
+    11.17511
+],
+  "geometry": {"coordinates":[8.22466,11.17511],"type":"Point"}
+}

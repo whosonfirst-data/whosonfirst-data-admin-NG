@@ -1,0 +1,69 @@
+{
+  "id": 1276717559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56818,10.90627,6.56818,10.90627",
+    "geom:latitude":10.90627,
+    "geom:longitude":6.56818,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19001.0",
+    "gn:admin3_code":"KD0104",
+    "gn:asciiname":"Gwaska",
+    "gn:country_code":"NG",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339750,
+    "gn:latitude":10.90627,
+    "gn:longitude":6.56818,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gwaska",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339750
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4671036c807e1f477c5839e6df4e7514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563133,
+            "locality_id":1276717559,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276717559,
+    "wof:lastmodified":1536761332,
+    "wof:name":"Gwaska",
+    "wof:parent_id":1108563133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56818,
+    10.90627,
+    6.56818,
+    10.90627
+],
+  "geometry": {"coordinates":[6.56818,10.90627],"type":"Point"}
+}

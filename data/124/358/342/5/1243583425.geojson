@@ -1,0 +1,69 @@
+{
+  "id": 1243583425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02355,12.29947,6.02355,12.29947",
+    "geom:latitude":12.29947,
+    "geom:longitude":6.02355,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"812.0",
+    "gn:admin3_code":"81211",
+    "gn:asciiname":"Bolai",
+    "gn:country_code":"NG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346871,
+    "gn:latitude":12.29947,
+    "gn:longitude":6.02355,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bolai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108564399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346871
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"005adc780a39900b1871bf7971c8f2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564399,
+            "locality_id":1243583425,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1243583425,
+    "wof:lastmodified":1536605305,
+    "wof:name":"Bolai",
+    "wof:parent_id":1108564399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02355,
+    12.29947,
+    6.02355,
+    12.29947
+],
+  "geometry": {"coordinates":[6.02355,12.29947],"type":"Point"}
+}

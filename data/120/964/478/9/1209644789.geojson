@@ -1,0 +1,62 @@
+{
+  "id": 1209644789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.61432,10.62298,4.61432,10.62298",
+    "geom:latitude":10.62298,
+    "geom:longitude":4.61432,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27002.0",
+    "gn:asciiname":"Kangon Agwara",
+    "gn:country_code":"NG",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014762,
+    "gn:latitude":10.62298,
+    "gn:longitude":4.61432,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kangon Agwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014762
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2adb8c11ac9840dd8e454e2721719882",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644789
+        }
+    ],
+    "wof:id":1209644789,
+    "wof:lastmodified":1536280771,
+    "wof:name":"Kangon Agwara",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.614319999999998,
+    10.62298,
+    4.614319999999998,
+    10.62298
+],
+  "geometry": {"coordinates":[4.61432,10.62298],"type":"Point"}
+}

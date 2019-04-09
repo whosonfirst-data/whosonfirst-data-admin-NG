@@ -1,0 +1,68 @@
+{
+  "id": 1343320411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.24,5.23128,8.24,5.23128",
+    "geom:latitude":5.23128,
+    "geom:longitude":8.24,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9002.0",
+    "gn:asciiname":"Efefiom",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854748,
+    "gn:latitude":5.23128,
+    "gn:longitude":8.24,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Efefiom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854748
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"728ddbaac1b00c746fa1d5d22abf1625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562961,
+            "locality_id":1343320411,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343320411,
+    "wof:lastmodified":1536948852,
+    "wof:name":"Efefiom",
+    "wof:parent_id":1108562961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.24,
+    5.23128,
+    8.24,
+    5.23128
+],
+  "geometry": {"coordinates":[8.24,5.23128],"type":"Point"}
+}

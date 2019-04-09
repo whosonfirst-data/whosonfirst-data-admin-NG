@@ -1,0 +1,69 @@
+{
+  "id": 1293520609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.42573,13.32889,5.42573,13.32889",
+    "geom:latitude":13.32889,
+    "geom:longitude":5.42573,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60707",
+    "gn:asciiname":"Wuchi",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012727,
+    "gn:latitude":13.32889,
+    "gn:longitude":5.42573,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wuchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012727
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad2af70d31bedf52e22a6d7b34b77e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564513,
+            "locality_id":1293520609,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293520609,
+    "wof:lastmodified":1536739240,
+    "wof:name":"Wuchi",
+    "wof:parent_id":1108564513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42573,
+    13.32889,
+    5.42573,
+    13.32889
+],
+  "geometry": {"coordinates":[5.42573,13.32889],"type":"Point"}
+}

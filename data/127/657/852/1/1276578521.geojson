@@ -1,0 +1,71 @@
+{
+  "id": 1276578521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92424,4.92558,6.92424,4.92558",
+    "geom:latitude":4.92558,
+    "geom:longitude":6.92424,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33013.0",
+    "gn:asciiname":"Omuokip",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591100,
+    "gn:latitude":4.92558,
+    "gn:longitude":6.92424,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Omuokip",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omuokiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591100
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9125a3b806647bb052650c7fc280797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563611,
+            "locality_id":1276578521,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1276578521,
+    "wof:lastmodified":1537675401,
+    "wof:name":"Omuokip",
+    "wof:parent_id":1108563611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92424,
+    4.92558,
+    6.92424,
+    4.92558
+],
+  "geometry": {"coordinates":[6.92424,4.92558],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326974387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31019,8.75089,12.31019,8.75089",
+    "geom:latitude":8.75089,
+    "geom:longitude":12.31019,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Shemi",
+    "gn:country_code":"NG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10419957,
+    "gn:latitude":8.75089,
+    "gn:longitude":12.31019,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shemi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10419957
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"267b63b1ab29342ebd2460c304f89099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1326974387,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1326974387,
+    "wof:lastmodified":1536843131,
+    "wof:name":"Shemi",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31019,
+    8.75089,
+    12.31019,
+    8.75089
+],
+  "geometry": {"coordinates":[12.31019,8.75089],"type":"Point"}
+}

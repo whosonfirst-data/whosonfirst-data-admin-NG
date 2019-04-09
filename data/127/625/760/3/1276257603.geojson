@@ -1,0 +1,73 @@
+{
+  "id": 1276257603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7983,12.42333,6.7983,12.42333",
+    "geom:latitude":12.42333,
+    "geom:longitude":6.7983,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80301",
+    "gn:asciiname":"Makera",
+    "gn:country_code":"NG",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320200,
+    "gn:latitude":12.42333,
+    "gn:longitude":6.7983,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unguwar Makera",
+        "Makera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320200
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1846bea9b2c976990d651f7e949e4da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563131,
+            "locality_id":1276257603,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1276257603,
+    "wof:lastmodified":1537674939,
+    "wof:name":"Makera",
+    "wof:parent_id":1108563131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7983,
+    12.42333,
+    6.7983,
+    12.42333
+],
+  "geometry": {"coordinates":[6.7983,12.42333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327461385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.58333,7.33333,4.58333,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":4.58333,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30012.0",
+    "gn:asciiname":"Okerembete",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327174,
+    "gn:latitude":7.33333,
+    "gn:longitude":4.58333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okerembete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kerembete",
+        "Okerembete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108563535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327174
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0f1b456f26577387597a3e57a22fa74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563535,
+            "locality_id":1327461385,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1327461385,
+    "wof:lastmodified":1537675042,
+    "wof:name":"Okerembete",
+    "wof:parent_id":1108563535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.58333,
+    7.33333,
+    4.58333,
+    7.33333
+],
+  "geometry": {"coordinates":[4.58333,7.33333],"type":"Point"}
+}

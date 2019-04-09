@@ -1,0 +1,67 @@
+{
+  "id": 1225895547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.68479,10.9439,4.68479,10.9439",
+    "geom:latitude":10.9439,
+    "geom:longitude":4.68479,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Bakin Ruwa",
+    "gn:country_code":"NG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348136,
+    "gn:latitude":10.9439,
+    "gn:longitude":4.68479,
+    "gn:modification_date":"2009-04-20",
+    "gn:name":"Bakin Ruwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348136
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"67f94011d259b2dc68c1722eb373b5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562941,
+            "locality_id":1225895547,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1225895547,
+    "wof:lastmodified":1536942581,
+    "wof:name":"Bakin Ruwa",
+    "wof:parent_id":1108562941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.68479,
+    10.9439,
+    4.68479,
+    10.9439
+],
+  "geometry": {"coordinates":[4.68479,10.9439],"type":"Point"}
+}

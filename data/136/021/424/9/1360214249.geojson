@@ -1,0 +1,68 @@
+{
+  "id": 1360214249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49673,6.89224,7.49673,6.89224",
+    "geom:latitude":6.89224,
+    "geom:longitude":7.49673,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14015.0",
+    "gn:asciiname":"Umundi",
+    "gn:country_code":"NG",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320419,
+    "gn:latitude":6.89224,
+    "gn:longitude":7.49673,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320419
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a627ded5dcb549de378b766d882fa45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564431,
+            "locality_id":1360214249,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1360214249,
+    "wof:lastmodified":1536759642,
+    "wof:name":"Umundi",
+    "wof:parent_id":1108564431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49673,
+    6.89224,
+    7.49673,
+    6.89224
+],
+  "geometry": {"coordinates":[7.49673,6.89224],"type":"Point"}
+}

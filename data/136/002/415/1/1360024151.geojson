@@ -1,0 +1,68 @@
+{
+  "id": 1360024151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3725,7.2492,6.3725,7.2492",
+    "geom:latitude":7.2492,
+    "geom:longitude":6.3725,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12008.0",
+    "gn:asciiname":"Iddo",
+    "gn:country_code":"NG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339143,
+    "gn:latitude":7.2492,
+    "gn:longitude":6.3725,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iddo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339143
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"42c24258e1c9dfa0f78148ae7e61f561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563343,
+            "locality_id":1360024151,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1360024151,
+    "wof:lastmodified":1537032114,
+    "wof:name":"Iddo",
+    "wof:parent_id":1108563343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3725,
+    7.2492,
+    6.3725,
+    7.2492
+],
+  "geometry": {"coordinates":[6.3725,7.2492],"type":"Point"}
+}

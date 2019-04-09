@@ -1,0 +1,69 @@
+{
+  "id": 1310148195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.11127,11.50478,5.11127,11.50478",
+    "geom:latitude":11.50478,
+    "geom:longitude":5.11127,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50908",
+    "gn:asciiname":"Fakai",
+    "gn:country_code":"NG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342797,
+    "gn:latitude":11.50478,
+    "gn:longitude":5.11127,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fakai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342797
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d01d31a0278cba2fab21196f391d114d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563365,
+            "locality_id":1310148195,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1310148195,
+    "wof:lastmodified":1536935798,
+    "wof:name":"Fakai",
+    "wof:parent_id":1108563365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11127,
+    11.50478,
+    5.11127,
+    11.50478
+],
+  "geometry": {"coordinates":[5.11127,11.50478],"type":"Point"}
+}

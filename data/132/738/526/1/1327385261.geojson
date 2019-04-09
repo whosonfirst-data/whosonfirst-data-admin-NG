@@ -1,0 +1,69 @@
+{
+  "id": 1327385261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.76357,11.57788,3.76357,11.57788",
+    "geom:latitude":11.57788,
+    "geom:longitude":3.76357,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50508",
+    "gn:asciiname":"Gwantani",
+    "gn:country_code":"NG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6960412,
+    "gn:latitude":11.57788,
+    "gn:longitude":3.76357,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gwantani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6960412
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb92d6ee0ad3ebbc9820e369af7fff40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563069,
+            "locality_id":1327385261,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1327385261,
+    "wof:lastmodified":1536748819,
+    "wof:name":"Gwantani",
+    "wof:parent_id":1108563069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.76357,
+    11.57788,
+    3.76357,
+    11.57788
+],
+  "geometry": {"coordinates":[3.76357,11.57788],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243482875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.97834,9.36988,5.97834,9.36988",
+    "geom:latitude":9.36988,
+    "geom:longitude":5.97834,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Kpandaragi",
+    "gn:country_code":"NG",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10308382,
+    "gn:latitude":9.36988,
+    "gn:longitude":5.97834,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kpandaragi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308382
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d908ede3fe2f02d31bc7669030eac5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1243482875,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243482875,
+    "wof:lastmodified":1536753085,
+    "wof:name":"Kpandaragi",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.97834,
+    9.36988,
+    5.97834,
+    9.36988
+],
+  "geometry": {"coordinates":[5.97834,9.36988],"type":"Point"}
+}

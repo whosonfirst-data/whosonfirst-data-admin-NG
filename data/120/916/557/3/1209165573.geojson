@@ -1,0 +1,63 @@
+{
+  "id": 1209165573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.25217,12.03918,4.25217,12.03918",
+    "geom:latitude":12.03918,
+    "geom:longitude":4.25217,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"51404",
+    "gn:asciiname":"Kamba",
+    "gn:country_code":"NG",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335332,
+    "gn:latitude":12.03918,
+    "gn:longitude":4.25217,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335332
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6766152c242e1608bf9dc6dd0ba8002d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209165573
+        }
+    ],
+    "wof:id":1209165573,
+    "wof:lastmodified":1536295759,
+    "wof:name":"Kamba",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.25217,
+    12.03918,
+    4.25217,
+    12.03918
+],
+  "geometry": {"coordinates":[4.25217,12.03918],"type":"Point"}
+}

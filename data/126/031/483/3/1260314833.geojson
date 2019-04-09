@@ -1,0 +1,68 @@
+{
+  "id": 1260314833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.67923,9.03517,5.67923,9.03517",
+    "geom:latitude":9.03517,
+    "geom:longitude":5.67923,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007",
+    "gn:asciiname":"Makama-Ndaceko",
+    "gn:country_code":"NG",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10309307,
+    "gn:latitude":9.03517,
+    "gn:longitude":5.67923,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Makama-Ndaceko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10309307
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2021750fcecb31ea2429a7a3b0d17619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1260314833,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1260314833,
+    "wof:lastmodified":1536670002,
+    "wof:name":"Makama-Ndaceko",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67923,
+    9.03517,
+    5.67923,
+    9.03517
+],
+  "geometry": {"coordinates":[5.67923,9.03517],"type":"Point"}
+}

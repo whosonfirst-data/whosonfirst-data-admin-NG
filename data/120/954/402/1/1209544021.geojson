@@ -1,0 +1,66 @@
+{
+  "id": 1209544021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16503,9.53738,7.16503,9.53738",
+    "geom:latitude":9.53738,
+    "geom:longitude":7.16503,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Feri",
+    "gn:country_code":"NG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342641,
+    "gn:latitude":9.53738,
+    "gn:longitude":7.16503,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Feri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peli",
+        "Feri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342641
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"be5fb24b572c55dd7bf45a20c8660335",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544021
+        }
+    ],
+    "wof:id":1209544021,
+    "wof:lastmodified":1537675265,
+    "wof:name":"Feri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16503,
+    9.53738,
+    7.16503,
+    9.53738
+],
+  "geometry": {"coordinates":[7.16503,9.53738],"type":"Point"}
+}

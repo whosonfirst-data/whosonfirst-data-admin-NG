@@ -1,0 +1,68 @@
+{
+  "id": 1226679209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.55757,9.66634,6.55757,9.66634",
+    "geom:latitude":9.66634,
+    "geom:longitude":6.55757,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27005",
+    "gn:asciiname":"Sharipata",
+    "gn:country_code":"NG",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410165,
+    "gn:latitude":9.66634,
+    "gn:longitude":6.55757,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sharipata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410165
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"80d84a80cb54e4fe45636e17be050596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563157,
+            "locality_id":1226679209,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226679209,
+    "wof:lastmodified":1536810860,
+    "wof:name":"Sharipata",
+    "wof:parent_id":1108563157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.55757,
+    9.66634,
+    6.55757,
+    9.66634
+],
+  "geometry": {"coordinates":[6.55757,9.66634],"type":"Point"}
+}

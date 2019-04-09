@@ -1,0 +1,63 @@
+{
+  "id": 1209156987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.69696,11.01001,4.69696,11.01001",
+    "geom:latitude":11.01001,
+    "geom:longitude":4.69696,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"517.0",
+    "gn:admin3_code":"51706",
+    "gn:asciiname":"Hundeji",
+    "gn:country_code":"NG",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7020845,
+    "gn:latitude":11.01001,
+    "gn:longitude":4.69696,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hundeji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020845
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4b4b4c3f20e4392f6757180a51c6c303",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209156987
+        }
+    ],
+    "wof:id":1209156987,
+    "wof:lastmodified":1536296028,
+    "wof:name":"Hundeji",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.69696,
+    11.01001,
+    4.69696,
+    11.01001
+],
+  "geometry": {"coordinates":[4.69696,11.01001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343428021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.27368,7.55619,9.27368,7.55619",
+    "geom:latitude":7.55619,
+    "geom:longitude":9.27368,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Atum",
+    "gn:country_code":"NG",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9526431,
+    "gn:latitude":7.55619,
+    "gn:longitude":9.27368,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9526431
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c30da420782f87d47cb6d2651823d0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1343428021,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343428021,
+    "wof:lastmodified":1536793458,
+    "wof:name":"Atum",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.27368,
+    7.55619,
+    9.27368,
+    7.55619
+],
+  "geometry": {"coordinates":[9.27368,7.55619],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260109847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.19799,4.74636,7.19799,4.74636",
+    "geom:latitude":4.74636,
+    "geom:longitude":7.19799,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33023.0",
+    "gn:asciiname":"Sime",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323007,
+    "gn:latitude":4.74636,
+    "gn:longitude":7.19799,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323007
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"739979c7dd350dee1e2a102d41614d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564393,
+            "locality_id":1260109847,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1260109847,
+    "wof:lastmodified":1536950479,
+    "wof:name":"Sime",
+    "wof:parent_id":1108564393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.19799,
+    4.74636,
+    7.19799,
+    4.74636
+],
+  "geometry": {"coordinates":[7.19799,4.74636],"type":"Point"}
+}

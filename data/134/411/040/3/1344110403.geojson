@@ -1,0 +1,70 @@
+{
+  "id": 1344110403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.99885,9.06609,11.99885,9.06609",
+    "geom:latitude":9.06609,
+    "geom:longitude":11.99885,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Gonglare",
+    "gn:country_code":"NG",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189853,
+    "gn:latitude":9.06609,
+    "gn:longitude":11.99885,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gonglare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gonglare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189853
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"486f06cc5448edca1457cdd3717fc7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1344110403,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1344110403,
+    "wof:lastmodified":1537675491,
+    "wof:name":"Gonglare",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.99885,
+    9.06609,
+    11.99885,
+    9.06609
+],
+  "geometry": {"coordinates":[11.99885,9.06609],"type":"Point"}
+}

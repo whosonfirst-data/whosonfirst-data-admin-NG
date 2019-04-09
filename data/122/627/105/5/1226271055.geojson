@@ -1,0 +1,68 @@
+{
+  "id": 1226271055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88798,8.83493,9.88798,8.83493",
+    "geom:latitude":8.83493,
+    "geom:longitude":9.88798,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32017",
+    "gn:asciiname":"Shizur",
+    "gn:country_code":"NG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925355,
+    "gn:latitude":8.83493,
+    "gn:longitude":9.88798,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shizur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925355
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c55c5c667a11d15e44510deef0a2d7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564507,
+            "locality_id":1226271055,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1226271055,
+    "wof:lastmodified":1536897161,
+    "wof:name":"Shizur",
+    "wof:parent_id":1108564507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88798,
+    8.83493,
+    9.88798,
+    8.83493
+],
+  "geometry": {"coordinates":[9.88798,8.83493],"type":"Point"}
+}

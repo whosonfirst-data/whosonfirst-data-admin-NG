@@ -1,0 +1,68 @@
+{
+  "id": 1277104381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61194,5.35502,7.61194,5.35502",
+    "geom:latitude":5.35502,
+    "geom:longitude":7.61194,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1005.0",
+    "gn:asciiname":"Alala-Ariam",
+    "gn:country_code":"NG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350611,
+    "gn:latitude":5.35502,
+    "gn:longitude":7.61194,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alala-Ariam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108563617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350611
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95535352db1f574a918507750d004665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563617,
+            "locality_id":1277104381,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1277104381,
+    "wof:lastmodified":1536736610,
+    "wof:name":"Alala-Ariam",
+    "wof:parent_id":1108563617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61194,
+    5.35502,
+    7.61194,
+    5.35502
+],
+  "geometry": {"coordinates":[7.61194,5.35502],"type":"Point"}
+}

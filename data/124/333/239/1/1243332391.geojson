@@ -1,0 +1,68 @@
+{
+  "id": 1243332391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.64086,6.3667,8.64086,6.3667",
+    "geom:latitude":6.3667,
+    "geom:longitude":8.64086,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9016.0",
+    "gn:asciiname":"Akuntak",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350852,
+    "gn:latitude":6.3667,
+    "gn:longitude":8.64086,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akuntak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350852
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"050379dfe36aad756d79054600cf1608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564121,
+            "locality_id":1243332391,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1243332391,
+    "wof:lastmodified":1536969820,
+    "wof:name":"Akuntak",
+    "wof:parent_id":1108564121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64086,
+    6.3667,
+    8.64086,
+    6.3667
+],
+  "geometry": {"coordinates":[8.64086,6.3667],"type":"Point"}
+}

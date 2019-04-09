@@ -1,0 +1,69 @@
+{
+  "id": 1193229309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.63353,11.86447,12.63353,11.86447",
+    "geom:latitude":11.86447,
+    "geom:longitude":12.63353,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"114.0",
+    "gn:admin3_code":"11410",
+    "gn:asciiname":"Lamboa",
+    "gn:country_code":"NG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332341,
+    "gn:latitude":11.86447,
+    "gn:longitude":12.63353,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lamboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332341
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"518a0f0b34d127b2e7dc4fe6e150865e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563747,
+            "locality_id":1193229309,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1193229309,
+    "wof:lastmodified":1536367072,
+    "wof:name":"Lamboa",
+    "wof:parent_id":1108563747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.63353,
+    11.86447,
+    12.63353,
+    11.86447
+],
+  "geometry": {"coordinates":[12.63353,11.86447],"type":"Point"}
+}

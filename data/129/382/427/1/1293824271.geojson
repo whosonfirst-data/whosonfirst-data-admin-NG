@@ -1,0 +1,68 @@
+{
+  "id": 1293824271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.34659,8.76237,12.34659,8.76237",
+    "geom:latitude":8.76237,
+    "geom:longitude":12.34659,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Jiberu",
+    "gn:country_code":"NG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10419955,
+    "gn:latitude":8.76237,
+    "gn:longitude":12.34659,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jiberu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10419955
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"77fc445f7834b3e410afcd4c1338481f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1293824271,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293824271,
+    "wof:lastmodified":1536798734,
+    "wof:name":"Jiberu",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.34659,
+    8.76237,
+    12.34659,
+    8.76237
+],
+  "geometry": {"coordinates":[12.34659,8.76237],"type":"Point"}
+}

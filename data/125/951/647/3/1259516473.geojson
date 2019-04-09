@@ -1,0 +1,72 @@
+{
+  "id": 1259516473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8045,9.62809,8.8045,9.62809",
+    "geom:latitude":9.62809,
+    "geom:longitude":8.8045,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32015.0",
+    "gn:asciiname":"Werram",
+    "gn:country_code":"NG",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319037,
+    "gn:latitude":9.62809,
+    "gn:longitude":8.8045,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Werram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waram",
+        "Werram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319037
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb74131ce36647fea541a8e185eb2321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564307,
+            "locality_id":1259516473,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259516473,
+    "wof:lastmodified":1537674913,
+    "wof:name":"Werram",
+    "wof:parent_id":1108564307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8045,
+    9.62809,
+    8.8045,
+    9.62809
+],
+  "geometry": {"coordinates":[8.8045,9.62809],"type":"Point"}
+}

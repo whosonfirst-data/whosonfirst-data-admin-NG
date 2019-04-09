@@ -1,0 +1,65 @@
+{
+  "id": 1209544057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10312,11.03642,11.10312,11.03642",
+    "geom:latitude":11.03642,
+    "geom:longitude":11.10312,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Gadum",
+    "gn:country_code":"NG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319264,
+    "gn:latitude":11.03642,
+    "gn:longitude":11.10312,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gadum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319264
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9bc719eea0b8d13a03081bac62776e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544057
+        }
+    ],
+    "wof:id":1209544057,
+    "wof:lastmodified":1537674915,
+    "wof:name":"Gadum",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10312,
+    11.03642,
+    11.10312,
+    11.03642
+],
+  "geometry": {"coordinates":[11.10312,11.03642],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259647395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.55,7.06667,3.55,7.06667",
+    "geom:latitude":7.06667,
+    "geom:longitude":3.55,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Isan",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337243,
+    "gn:latitude":7.06667,
+    "gn:longitude":3.55,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ishan",
+        "Isan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        421188931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337243
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"30c665a265c9c834a7de5c0c9494ec77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188931,
+            "locality_id":1259647395,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1259647395,
+    "wof:lastmodified":1537675180,
+    "wof:name":"Isan",
+    "wof:parent_id":421188931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.55,
+    7.06667,
+    3.55,
+    7.06667
+],
+  "geometry": {"coordinates":[3.55,7.06667],"type":"Point"}
+}

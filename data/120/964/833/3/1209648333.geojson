@@ -1,0 +1,62 @@
+{
+  "id": 1209648333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34793,10.77339,11.34793,10.77339",
+    "geom:latitude":10.77339,
+    "geom:longitude":11.34793,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16005.0",
+    "gn:asciiname":"Saleri",
+    "gn:country_code":"NG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323884,
+    "gn:latitude":10.77339,
+    "gn:longitude":11.34793,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Saleri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323884
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed56f692d95afb7226ea27bde15ad74e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648333
+        }
+    ],
+    "wof:id":1209648333,
+    "wof:lastmodified":1536280662,
+    "wof:name":"Saleri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34793,
+    10.77339,
+    11.34793,
+    10.77339
+],
+  "geometry": {"coordinates":[11.34793,10.77339],"type":"Point"}
+}

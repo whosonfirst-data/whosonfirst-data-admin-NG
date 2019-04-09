@@ -1,0 +1,62 @@
+{
+  "id": 1209386713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0,7.36667,3.0,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":3.0,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28004.0",
+    "gn:asciiname":"Agada Duro",
+    "gn:country_code":"NG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352180,
+    "gn:latitude":7.36667,
+    "gn:longitude":3.0,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agada Duro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352180
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"866f2935162e88fbc3475250f2e56bbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209386713
+        }
+    ],
+    "wof:id":1209386713,
+    "wof:lastmodified":1536288599,
+    "wof:name":"Agada Duro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0,
+    7.36667,
+    3.0,
+    7.36667
+],
+  "geometry": {"coordinates":[3.0,7.36667],"type":"Point"}
+}

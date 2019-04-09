@@ -1,0 +1,69 @@
+{
+  "id": 1209763087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.82674,13.42664,12.82674,13.42664",
+    "geom:latitude":13.42664,
+    "geom:longitude":12.82674,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10104",
+    "gn:asciiname":"Ala",
+    "gn:country_code":"NG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350777,
+    "gn:latitude":13.42664,
+    "gn:longitude":12.82674,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350777
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76299460adbddbc86e0730899f810057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1209763087,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1209763087,
+    "wof:lastmodified":1536387632,
+    "wof:name":"Ala",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.82674,
+    13.42664,
+    12.82674,
+    13.42664
+],
+  "geometry": {"coordinates":[12.82674,13.42664],"type":"Point"}
+}

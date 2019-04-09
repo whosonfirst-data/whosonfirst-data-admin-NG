@@ -1,0 +1,74 @@
+{
+  "id": 1327389473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50088,12.59089,7.50088,12.59089",
+    "geom:latitude":12.59089,
+    "geom:longitude":7.50088,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"422.0",
+    "gn:admin3_code":"42202",
+    "gn:asciiname":"Birci",
+    "gn:country_code":"NG",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347095,
+    "gn:latitude":12.59089,
+    "gn:longitude":7.50088,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birci",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bichi",
+        "Birchi",
+        "Birci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347095
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"af76fbc4b91f928f1e1378b7e0552117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563861,
+            "locality_id":1327389473,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1327389473,
+    "wof:lastmodified":1537675330,
+    "wof:name":"Birci",
+    "wof:parent_id":1108563861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50088,
+    12.59089,
+    7.50088,
+    12.59089
+],
+  "geometry": {"coordinates":[7.50088,12.59089],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360114275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2,7.33333,11.2,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":11.2,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35004.0",
+    "gn:asciiname":"Mayo Jarandi",
+    "gn:country_code":"NG",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330520,
+    "gn:latitude":7.33333,
+    "gn:longitude":11.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mayo Jarandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330520
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"01c5631c05d0223b50499e893aeb04ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563401,
+            "locality_id":1360114275,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1360114275,
+    "wof:lastmodified":1536903782,
+    "wof:name":"Mayo Jarandi",
+    "wof:parent_id":1108563401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2,
+    7.33333,
+    11.2,
+    7.33333
+],
+  "geometry": {"coordinates":[11.2,7.33333],"type":"Point"}
+}

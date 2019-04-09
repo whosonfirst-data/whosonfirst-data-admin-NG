@@ -1,0 +1,70 @@
+{
+  "id": 1277120937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.77196,9.13155,11.77196,9.13155",
+    "geom:latitude":9.13155,
+    "geom:longitude":11.77196,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Gondobi",
+    "gn:country_code":"NG",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210438,
+    "gn:latitude":9.13155,
+    "gn:longitude":11.77196,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Gondobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gondobi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210438
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"120a13c18a3c64f18e944ab8b630756f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1277120937,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1277120937,
+    "wof:lastmodified":1537675507,
+    "wof:name":"Gondobi",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.77196,
+    9.13155,
+    11.77196,
+    9.13155
+],
+  "geometry": {"coordinates":[11.77196,9.13155],"type":"Point"}
+}

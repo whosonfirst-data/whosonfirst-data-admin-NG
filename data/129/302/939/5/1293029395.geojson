@@ -1,0 +1,72 @@
+{
+  "id": 1293029395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.29522,12.68191,12.29522,12.68191",
+    "geom:latitude":12.68191,
+    "geom:longitude":12.29522,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70602",
+    "gn:asciiname":"Birgo",
+    "gn:country_code":"NG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346361,
+    "gn:latitude":12.68191,
+    "gn:longitude":12.29522,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birgo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346361
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c78ee66836c72901abcbee9c3733f59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563415,
+            "locality_id":1293029395,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1293029395,
+    "wof:lastmodified":1537675319,
+    "wof:name":"Birgo",
+    "wof:parent_id":1108563415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.29522,
+    12.68191,
+    12.29522,
+    12.68191
+],
+  "geometry": {"coordinates":[12.29522,12.68191],"type":"Point"}
+}

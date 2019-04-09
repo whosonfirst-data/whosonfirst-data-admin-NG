@@ -1,0 +1,72 @@
+{
+  "id": 1327401705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.89944,5.88381,6.89944,5.88381",
+    "geom:latitude":5.88381,
+    "geom:longitude":6.89944,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4012.0",
+    "gn:asciiname":"Azia",
+    "gn:country_code":"NG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348583,
+    "gn:latitude":5.88381,
+    "gn:longitude":6.89944,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Azia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azira",
+        "Azia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348583
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d15309e224584ef20b5b3da5e16836b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563565,
+            "locality_id":1327401705,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1327401705,
+    "wof:lastmodified":1537675347,
+    "wof:name":"Azia",
+    "wof:parent_id":1108563565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.89944,
+    5.88381,
+    6.89944,
+    5.88381
+],
+  "geometry": {"coordinates":[6.89944,5.88381],"type":"Point"}
+}

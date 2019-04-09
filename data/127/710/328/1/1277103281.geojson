@@ -1,0 +1,69 @@
+{
+  "id": 1277103281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96725,11.81006,6.96725,11.81006",
+    "geom:latitude":11.81006,
+    "geom:longitude":6.96725,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81301",
+    "gn:asciiname":"Ungwan Gatari",
+    "gn:country_code":"NG",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7034151,
+    "gn:latitude":11.81006,
+    "gn:longitude":6.96725,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Gatari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7034151
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2fa771ee9a4fd74a2f37e1975a914507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563367,
+            "locality_id":1277103281,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1277103281,
+    "wof:lastmodified":1536738118,
+    "wof:name":"Ungwan Gatari",
+    "wof:parent_id":1108563367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96725,
+    11.81006,
+    6.96725,
+    11.81006
+],
+  "geometry": {"coordinates":[6.96725,11.81006],"type":"Point"}
+}

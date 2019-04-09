@@ -1,0 +1,62 @@
+{
+  "id": 1209444647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.71415,4.39706,6.71415,4.39706",
+    "geom:latitude":4.39706,
+    "geom:longitude":6.71415,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33004.0",
+    "gn:asciiname":"Dabibikiri",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826069,
+    "gn:latitude":4.39706,
+    "gn:longitude":6.71415,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dabibikiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826069
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"178d37dbe75c1098e07d3a10ecc32023",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444647
+        }
+    ],
+    "wof:id":1209444647,
+    "wof:lastmodified":1536286855,
+    "wof:name":"Dabibikiri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.71415,
+    4.39706,
+    6.71415,
+    4.39706
+],
+  "geometry": {"coordinates":[6.71415,4.39706],"type":"Point"}
+}

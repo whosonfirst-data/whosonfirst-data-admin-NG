@@ -1,0 +1,68 @@
+{
+  "id": 1309738591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0735,7.20355,10.0735,7.20355",
+    "geom:latitude":7.20355,
+    "geom:longitude":10.0735,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35013.0",
+    "gn:asciiname":"Mabaji",
+    "gn:country_code":"NG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331775,
+    "gn:latitude":7.20355,
+    "gn:longitude":10.0735,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mabaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331775
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cab0cd389ce449e087b0fb43eaafae85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564477,
+            "locality_id":1309738591,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1309738591,
+    "wof:lastmodified":1537026919,
+    "wof:name":"Mabaji",
+    "wof:parent_id":1108564477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0735,
+    7.20355,
+    10.0735,
+    7.20355
+],
+  "geometry": {"coordinates":[10.0735,7.20355],"type":"Point"}
+}

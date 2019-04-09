@@ -1,0 +1,68 @@
+{
+  "id": 1310034077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.12698,6.71778,5.12698,6.71778",
+    "geom:latitude":6.71778,
+    "geom:longitude":5.12698,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29008.0",
+    "gn:asciiname":"Owobamibo",
+    "gn:country_code":"NG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325309,
+    "gn:latitude":6.71778,
+    "gn:longitude":5.12698,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Owobamibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325309
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"156ce8d07661886ebbe1e20b466d98d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563517,
+            "locality_id":1310034077,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1310034077,
+    "wof:lastmodified":1537096384,
+    "wof:name":"Owobamibo",
+    "wof:parent_id":1108563517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.12698,
+    6.71778,
+    5.12698,
+    6.71778
+],
+  "geometry": {"coordinates":[5.12698,6.71778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209893469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92367,9.08811,6.92367,9.08811",
+    "geom:latitude":9.08811,
+    "geom:longitude":6.92367,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15003.0",
+    "gn:asciiname":"Ghamgwa",
+    "gn:country_code":"NG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341215,
+    "gn:latitude":9.08811,
+    "gn:longitude":6.92367,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ghamgwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gwamgwam",
+        "Gbongbon",
+        "Ghamgwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341215
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"50674126d68f3c5ec6c3b285fa576474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563461,
+            "locality_id":1209893469,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1209893469,
+    "wof:lastmodified":1537675247,
+    "wof:name":"Ghamgwa",
+    "wof:parent_id":1108563461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92367,
+    9.08811,
+    6.92367,
+    9.08811
+],
+  "geometry": {"coordinates":[6.92367,9.08811],"type":"Point"}
+}

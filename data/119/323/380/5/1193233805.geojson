@@ -1,0 +1,67 @@
+{
+  "id": 1193233805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.24446,12.57377,8.24446,12.57377",
+    "geom:latitude":12.57377,
+    "geom:longitude":8.24446,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Matanfada",
+    "gn:country_code":"NG",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330618,
+    "gn:latitude":12.57377,
+    "gn:longitude":8.24446,
+    "gn:modification_date":"2009-02-05",
+    "gn:name":"Matanfada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330618
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a306cc7f0d0e8a0fa3c209da9ae0e498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563857,
+            "locality_id":1193233805,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1193233805,
+    "wof:lastmodified":1536364058,
+    "wof:name":"Matanfada",
+    "wof:parent_id":1108563857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.24446,
+    12.57377,
+    8.24446,
+    12.57377
+],
+  "geometry": {"coordinates":[8.24446,12.57377],"type":"Point"}
+}

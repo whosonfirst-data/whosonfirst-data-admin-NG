@@ -1,0 +1,73 @@
+{
+  "id": 1343504049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.36999,6.19018,5.36999,6.19018",
+    "geom:latitude":6.19018,
+    "geom:longitude":5.36999,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12014.0",
+    "gn:asciiname":"Ekehuan",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343740,
+    "gn:latitude":6.19018,
+    "gn:longitude":5.36999,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekehuan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikewa",
+        "Ekenwan",
+        "Ekehuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343740
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a4e5f080190f863501ace6e113198be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564241,
+            "locality_id":1343504049,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343504049,
+    "wof:lastmodified":1537675283,
+    "wof:name":"Ekehuan",
+    "wof:parent_id":1108564241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.36999,
+    6.19018,
+    5.36999,
+    6.19018
+],
+  "geometry": {"coordinates":[5.36999,6.19018],"type":"Point"}
+}

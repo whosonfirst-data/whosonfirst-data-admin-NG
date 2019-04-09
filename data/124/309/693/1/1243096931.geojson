@@ -1,0 +1,68 @@
+{
+  "id": 1243096931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.8015,7.43599,6.8015,7.43599",
+    "geom:latitude":7.43599,
+    "geom:longitude":6.8015,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23014.0",
+    "gn:asciiname":"Egomicha",
+    "gn:country_code":"NG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343864,
+    "gn:latitude":7.43599,
+    "gn:longitude":6.8015,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egomicha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343864
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8d120ed2fb68f971f3f102d5d42c841a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564103,
+            "locality_id":1243096931,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1243096931,
+    "wof:lastmodified":1536811905,
+    "wof:name":"Egomicha",
+    "wof:parent_id":1108564103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8015,
+    7.43599,
+    6.8015,
+    7.43599
+],
+  "geometry": {"coordinates":[6.8015,7.43599],"type":"Point"}
+}

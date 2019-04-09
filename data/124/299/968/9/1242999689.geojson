@@ -1,0 +1,68 @@
+{
+  "id": 1242999689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9417,6.94621,4.9417,6.94621",
+    "geom:latitude":6.94621,
+    "geom:longitude":4.9417,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29015.0",
+    "gn:asciiname":"Ilutitun",
+    "gn:country_code":"NG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337610,
+    "gn:latitude":6.94621,
+    "gn:longitude":4.9417,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ilutitun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337610
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"12da57d1d7a717415af1e01f16bb4de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564185,
+            "locality_id":1242999689,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1242999689,
+    "wof:lastmodified":1536952914,
+    "wof:name":"Ilutitun",
+    "wof:parent_id":1108564185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9417,
+    6.94621,
+    4.9417,
+    6.94621
+],
+  "geometry": {"coordinates":[4.9417,6.94621],"type":"Point"}
+}

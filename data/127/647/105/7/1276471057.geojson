@@ -1,0 +1,68 @@
+{
+  "id": 1276471057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16667,8.0,11.16667,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":11.16667,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35004.0",
+    "gn:asciiname":"Gipso",
+    "gn:country_code":"NG",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340627,
+    "gn:latitude":8.0,
+    "gn:longitude":11.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gipso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340627
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"38261a564b250b53f2ac11bbda6b6472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563401,
+            "locality_id":1276471057,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276471057,
+    "wof:lastmodified":1537088331,
+    "wof:name":"Gipso",
+    "wof:parent_id":1108563401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16667,
+    8.0,
+    11.16667,
+    8.0
+],
+  "geometry": {"coordinates":[11.16667,8.0],"type":"Point"}
+}

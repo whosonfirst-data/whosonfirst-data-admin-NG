@@ -1,0 +1,67 @@
+{
+  "id": 1209344007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.91525,13.01566,4.91525,13.01566",
+    "geom:latitude":13.01566,
+    "geom:longitude":4.91525,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"615.0",
+    "gn:admin3_code":"61509",
+    "gn:asciiname":"Toso",
+    "gn:country_code":"NG",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321917,
+    "gn:latitude":13.01566,
+    "gn:longitude":4.91525,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Toso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tozo",
+        "Toso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321917
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a543f2f5acb2661d6ab3ca7900bb839",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344007
+        }
+    ],
+    "wof:id":1209344007,
+    "wof:lastmodified":1537674971,
+    "wof:name":"Toso",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.91525,
+    13.01566,
+    4.91525,
+    13.01566
+],
+  "geometry": {"coordinates":[4.91525,13.01566],"type":"Point"}
+}

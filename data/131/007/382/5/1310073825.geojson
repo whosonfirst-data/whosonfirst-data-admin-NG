@@ -1,0 +1,74 @@
+{
+  "id": 1310073825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61667,11.4,7.61667,11.4",
+    "geom:latitude":11.4,
+    "geom:longitude":7.61667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40801",
+    "gn:asciiname":"Ungwan Dan Baba",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320064,
+    "gn:latitude":11.4,
+    "gn:longitude":7.61667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Dan Baba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Baba",
+        "Ungwan Dan Baba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320064
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64aff842c4eb389791bcf645ec9ffcf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563213,
+            "locality_id":1310073825,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1310073825,
+    "wof:lastmodified":1537674932,
+    "wof:name":"Ungwan Dan Baba",
+    "wof:parent_id":1108563213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61667,
+    11.4,
+    7.61667,
+    11.4
+],
+  "geometry": {"coordinates":[7.61667,11.4],"type":"Point"}
+}

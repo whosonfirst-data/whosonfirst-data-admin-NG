@@ -1,0 +1,68 @@
+{
+  "id": 1292948683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2552,7.67422,8.2552,7.67422",
+    "geom:latitude":7.67422,
+    "geom:longitude":8.2552,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7008.0",
+    "gn:asciiname":"Mtsenga",
+    "gn:country_code":"NG",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852759,
+    "gn:latitude":7.67422,
+    "gn:longitude":8.2552,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mtsenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852759
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c4c64fad4e48a9f775cc6be773b37fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563475,
+            "locality_id":1292948683,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1292948683,
+    "wof:lastmodified":1537063896,
+    "wof:name":"Mtsenga",
+    "wof:parent_id":1108563475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2552,
+    7.67422,
+    8.2552,
+    7.67422
+],
+  "geometry": {"coordinates":[8.2552,7.67422],"type":"Point"}
+}

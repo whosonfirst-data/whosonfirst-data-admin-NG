@@ -1,0 +1,62 @@
+{
+  "id": 1209059679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65,8.8,12.65,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":12.65,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Deggi",
+    "gn:country_code":"NG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344999,
+    "gn:latitude":8.8,
+    "gn:longitude":12.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Deggi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344999
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4d76aa81f8600dffdadea5380bb4fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209059679
+        }
+    ],
+    "wof:id":1209059679,
+    "wof:lastmodified":1536298995,
+    "wof:name":"Deggi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65,
+    8.8,
+    12.65,
+    8.8
+],
+  "geometry": {"coordinates":[12.65,8.8],"type":"Point"}
+}

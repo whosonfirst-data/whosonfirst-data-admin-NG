@@ -1,0 +1,71 @@
+{
+  "id": 1277129577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.02991,6.03273,5.02991,6.03273",
+    "geom:latitude":6.03273,
+    "geom:longitude":5.02991,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ago Atilabo",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6965430,
+    "gn:latitude":6.03273,
+    "gn:longitude":5.02991,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ago Atilabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atilabo",
+        "Ago Atilabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6965430
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2721dee41c5ab871553b011d9aa54d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563323,
+            "locality_id":1277129577,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1277129577,
+    "wof:lastmodified":1537675411,
+    "wof:name":"Ago Atilabo",
+    "wof:parent_id":1108563323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.02991,
+    6.03273,
+    5.02991,
+    6.03273
+],
+  "geometry": {"coordinates":[5.02991,6.03273],"type":"Point"}
+}

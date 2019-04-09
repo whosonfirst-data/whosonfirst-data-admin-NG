@@ -1,0 +1,62 @@
+{
+  "id": 1209147965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.50794,5.77849,6.50794,5.77849",
+    "geom:latitude":5.77849,
+    "geom:longitude":6.50794,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10011.0",
+    "gn:asciiname":"Asikpai",
+    "gn:country_code":"NG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100477,
+    "gn:latitude":5.77849,
+    "gn:longitude":6.50794,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Asikpai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100477
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d97fadc586a12e7ff772bbbe7981bf6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209147965
+        }
+    ],
+    "wof:id":1209147965,
+    "wof:lastmodified":1536296297,
+    "wof:name":"Asikpai",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5079400000000005,
+    5.7784900000000015,
+    6.5079400000000005,
+    5.7784900000000015
+],
+  "geometry": {"coordinates":[6.50794,5.77849],"type":"Point"}
+}

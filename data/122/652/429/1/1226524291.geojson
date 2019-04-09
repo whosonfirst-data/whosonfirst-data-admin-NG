@@ -1,0 +1,68 @@
+{
+  "id": 1226524291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.96667,7.05,3.96667,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":3.96667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28009.0",
+    "gn:asciiname":"Digbolu",
+    "gn:country_code":"NG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344880,
+    "gn:latitude":7.05,
+    "gn:longitude":3.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Digbolu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344880
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"93efad65fa385421b7cdea3d091df104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563573,
+            "locality_id":1226524291,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1226524291,
+    "wof:lastmodified":1537027824,
+    "wof:name":"Digbolu",
+    "wof:parent_id":1108563573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.96667,
+    7.05,
+    3.96667,
+    7.05
+],
+  "geometry": {"coordinates":[3.96667,7.05],"type":"Point"}
+}

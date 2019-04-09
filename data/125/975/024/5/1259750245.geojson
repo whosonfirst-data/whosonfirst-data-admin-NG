@@ -1,0 +1,68 @@
+{
+  "id": 1259750245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.12758,7.83983,8.12758,7.83983",
+    "geom:latitude":7.83983,
+    "geom:longitude":8.12758,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7002",
+    "gn:asciiname":"Igboji",
+    "gn:country_code":"NG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9509635,
+    "gn:latitude":7.83983,
+    "gn:longitude":8.12758,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igboji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108562935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9509635
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2d9f846b144005615452853f8261da26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562935,
+            "locality_id":1259750245,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259750245,
+    "wof:lastmodified":1536970768,
+    "wof:name":"Igboji",
+    "wof:parent_id":1108562935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.12758,
+    7.83983,
+    8.12758,
+    7.83983
+],
+  "geometry": {"coordinates":[8.12758,7.83983],"type":"Point"}
+}

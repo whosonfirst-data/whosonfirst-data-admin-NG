@@ -1,0 +1,62 @@
+{
+  "id": 1209278113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38333,7.11667,3.38333,7.11667",
+    "geom:latitude":7.11667,
+    "geom:longitude":3.38333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Ojusango",
+    "gn:country_code":"NG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327343,
+    "gn:latitude":7.11667,
+    "gn:longitude":3.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ojusango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327343
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"89f0e30644b3e8cc9a88fca8354f6934",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209278113
+        }
+    ],
+    "wof:id":1209278113,
+    "wof:lastmodified":1536292120,
+    "wof:name":"Ojusango",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3833300000000004,
+    7.11667,
+    3.3833300000000004,
+    7.11667
+],
+  "geometry": {"coordinates":[3.38333,7.11667],"type":"Point"}
+}

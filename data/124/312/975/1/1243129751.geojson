@@ -1,0 +1,67 @@
+{
+  "id": 1243129751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85129,12.65822,8.85129,12.65822",
+    "geom:latitude":12.65822,
+    "geom:longitude":8.85129,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kaweri Danamale",
+    "gn:country_code":"NG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974162,
+    "gn:latitude":12.65822,
+    "gn:longitude":8.85129,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kaweri Danamale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974162
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"448eb669fbf218082f5eedd8d28c13c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1243129751,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1243129751,
+    "wof:lastmodified":1536765671,
+    "wof:name":"Kaweri Danamale",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85129,
+    12.65822,
+    8.85129,
+    12.65822
+],
+  "geometry": {"coordinates":[8.85129,12.65822],"type":"Point"}
+}

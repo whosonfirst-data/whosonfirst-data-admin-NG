@@ -1,0 +1,71 @@
+{
+  "id": 1293097279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.58041,6.4964,3.58041,6.4964",
+    "geom:latitude":6.4964,
+    "geom:longitude":3.58041,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ado",
+    "gn:country_code":"NG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352562,
+    "gn:latitude":6.4964,
+    "gn:longitude":3.58041,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addo",
+        "Ado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421189639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352562
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"85312e676d4c5c1e7c0856dd4b4a0309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421189639,
+            "locality_id":1293097279,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1293097279,
+    "wof:lastmodified":1537675392,
+    "wof:name":"Ado",
+    "wof:parent_id":421189639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.58041,
+    6.4964,
+    3.58041,
+    6.4964
+],
+  "geometry": {"coordinates":[3.58041,6.4964],"type":"Point"}
+}

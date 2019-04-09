@@ -1,0 +1,67 @@
+{
+  "id": 1259909565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.47212,13.1349,6.47212,13.1349",
+    "geom:latitude":13.1349,
+    "geom:longitude":6.47212,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Kaiaji",
+    "gn:country_code":"NG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335598,
+    "gn:latitude":13.1349,
+    "gn:longitude":6.47212,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Kaiaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335598
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e776e8929b77baa29b421bf2845ce92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563663,
+            "locality_id":1259909565,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1259909565,
+    "wof:lastmodified":1536741491,
+    "wof:name":"Kaiaji",
+    "wof:parent_id":1108563663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.47212,
+    13.1349,
+    6.47212,
+    13.1349
+],
+  "geometry": {"coordinates":[6.47212,13.1349],"type":"Point"}
+}

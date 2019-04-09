@@ -1,0 +1,73 @@
+{
+  "id": 1276174337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.13591,11.57921,8.13591,11.57921",
+    "geom:latitude":11.57921,
+    "geom:longitude":8.13591,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20034.0",
+    "gn:admin3_code":"KN2404",
+    "gn:asciiname":"Kyarana",
+    "gn:country_code":"NG",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332616,
+    "gn:latitude":11.57921,
+    "gn:longitude":8.13591,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyarana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kerana",
+        "Kyarana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332616
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d74509c1ed400dc0827d84c50cdefe34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563823,
+            "locality_id":1276174337,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1276174337,
+    "wof:lastmodified":1537675120,
+    "wof:name":"Kyarana",
+    "wof:parent_id":1108563823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.13591,
+    11.57921,
+    8.13591,
+    11.57921
+],
+  "geometry": {"coordinates":[8.13591,11.57921],"type":"Point"}
+}

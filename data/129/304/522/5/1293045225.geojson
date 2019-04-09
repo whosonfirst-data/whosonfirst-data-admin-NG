@@ -1,0 +1,70 @@
+{
+  "id": 1293045225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02879,9.28374,12.02879,9.28374",
+    "geom:latitude":9.28374,
+    "geom:longitude":12.02879,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Nyuyuje",
+    "gn:country_code":"NG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189795,
+    "gn:latitude":9.28374,
+    "gn:longitude":12.02879,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyuyuje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyuyuje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189795
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d92f9286733aad498f9fa3e5ee7efdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1293045225,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293045225,
+    "wof:lastmodified":1537675489,
+    "wof:name":"Nyuyuje",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02879,
+    9.28374,
+    12.02879,
+    9.28374
+],
+  "geometry": {"coordinates":[12.02879,9.28374],"type":"Point"}
+}

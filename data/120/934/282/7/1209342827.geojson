@@ -1,0 +1,62 @@
+{
+  "id": 1209342827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.42743,7.9296,9.42743,7.9296",
+    "geom:latitude":7.9296,
+    "geom:longitude":9.42743,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Akume",
+    "gn:country_code":"NG",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525350,
+    "gn:latitude":7.9296,
+    "gn:longitude":9.42743,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525350
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e3efa29b7a0867948b5bc8774f62acdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342827
+        }
+    ],
+    "wof:id":1209342827,
+    "wof:lastmodified":1536290009,
+    "wof:name":"Akume",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.42743,
+    7.9296,
+    9.42743,
+    7.9296
+],
+  "geometry": {"coordinates":[9.42743,7.9296],"type":"Point"}
+}

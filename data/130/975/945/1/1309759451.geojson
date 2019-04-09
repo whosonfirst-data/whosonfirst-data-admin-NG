@@ -1,0 +1,68 @@
+{
+  "id": 1309759451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31579,8.61817,12.31579,8.61817",
+    "geom:latitude":8.61817,
+    "geom:longitude":12.31579,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Shamaki",
+    "gn:country_code":"NG",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323366,
+    "gn:latitude":8.61817,
+    "gn:longitude":12.31579,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shamaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323366
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4b5c059f3244132fa633f7bcefb1e2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1309759451,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1309759451,
+    "wof:lastmodified":1536997258,
+    "wof:name":"Shamaki",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31579,
+    8.61817,
+    12.31579,
+    8.61817
+],
+  "geometry": {"coordinates":[12.31579,8.61817],"type":"Point"}
+}

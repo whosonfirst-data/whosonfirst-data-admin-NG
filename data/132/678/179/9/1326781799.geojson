@@ -1,0 +1,73 @@
+{
+  "id": 1326781799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.22338,11.95826,4.22338,11.95826",
+    "geom:latitude":11.95826,
+    "geom:longitude":4.22338,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"518.0",
+    "gn:admin3_code":"51806",
+    "gn:asciiname":"Fore",
+    "gn:country_code":"NG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342549,
+    "gn:latitude":11.95826,
+    "gn:longitude":4.22338,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hore",
+        "Fore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342549
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"063f87e52473a8709a8008aa6005c3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563929,
+            "locality_id":1326781799,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1326781799,
+    "wof:lastmodified":1537675264,
+    "wof:name":"Fore",
+    "wof:parent_id":1108563929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.22338,
+    11.95826,
+    4.22338,
+    11.95826
+],
+  "geometry": {"coordinates":[4.22338,11.95826],"type":"Point"}
+}

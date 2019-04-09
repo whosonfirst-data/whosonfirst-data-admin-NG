@@ -1,0 +1,70 @@
+{
+  "id": 1293517067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.71477,9.6508,10.71477,9.6508",
+    "geom:latitude":9.6508,
+    "geom:longitude":10.71477,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Murtala",
+    "gn:country_code":"NG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258931,
+    "gn:latitude":9.6508,
+    "gn:longitude":10.71477,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Murtala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Marsala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258931
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f2826650af9798dfafabf5f7bdd7a025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1293517067,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1293517067,
+    "wof:lastmodified":1537675513,
+    "wof:name":"Murtala",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.71477,
+    9.6508,
+    10.71477,
+    9.6508
+],
+  "geometry": {"coordinates":[10.71477,9.6508],"type":"Point"}
+}

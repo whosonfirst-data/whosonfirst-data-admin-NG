@@ -1,0 +1,72 @@
+{
+  "id": 1259822453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.91728,5.58456,5.91728,5.58456",
+    "geom:latitude":5.58456,
+    "geom:longitude":5.91728,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Oguname-Agbarho",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327598,
+    "gn:latitude":5.58456,
+    "gn:longitude":5.91728,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Oguname-Agbarho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oguname",
+        "Oguname-Agbarho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327598
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e92bc7908d01ad85a8ab622b6fcee430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1259822453,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1259822453,
+    "wof:lastmodified":1537675049,
+    "wof:name":"Oguname-Agbarho",
+    "wof:parent_id":1108564439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.91728,
+    5.58456,
+    5.91728,
+    5.58456
+],
+  "geometry": {"coordinates":[5.91728,5.58456],"type":"Point"}
+}

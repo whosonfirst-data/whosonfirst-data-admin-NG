@@ -1,0 +1,68 @@
+{
+  "id": 1293082969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.10244,6.64311,3.10244,6.64311",
+    "geom:latitude":6.64311,
+    "geom:longitude":3.10244,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Kajola",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335530,
+    "gn:latitude":6.64311,
+    "gn:longitude":3.10244,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kajola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108562921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335530
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9edf739eb43ec732ac213088d46c364f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562921,
+            "locality_id":1293082969,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1293082969,
+    "wof:lastmodified":1536872301,
+    "wof:name":"Kajola",
+    "wof:parent_id":1108562921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.10244,
+    6.64311,
+    3.10244,
+    6.64311
+],
+  "geometry": {"coordinates":[3.10244,6.64311],"type":"Point"}
+}

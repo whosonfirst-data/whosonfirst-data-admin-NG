@@ -1,0 +1,68 @@
+{
+  "id": 1293259283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56413,7.1053,8.56413,7.1053",
+    "geom:latitude":7.1053,
+    "geom:longitude":8.56413,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010",
+    "gn:asciiname":"Tineir",
+    "gn:country_code":"NG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974936,
+    "gn:latitude":7.1053,
+    "gn:longitude":8.56413,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tineir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974936
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02ff0e8d2eb7760c27a879ab3ac6edb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1293259283,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293259283,
+    "wof:lastmodified":1536616835,
+    "wof:name":"Tineir",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56413,
+    7.1053,
+    8.56413,
+    7.1053
+],
+  "geometry": {"coordinates":[8.56413,7.1053],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226100751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.73051,4.79675,7.73051,4.79675",
+    "geom:latitude":4.79675,
+    "geom:longitude":7.73051,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3026.0",
+    "gn:asciiname":"Ekparakwa",
+    "gn:country_code":"NG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343663,
+    "gn:latitude":4.79675,
+    "gn:longitude":7.73051,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekparakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikparakwa",
+        "Ekparakwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343663
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"87f5a3b12d767454fdf49d1505f489bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564221,
+            "locality_id":1226100751,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1226100751,
+    "wof:lastmodified":1537675281,
+    "wof:name":"Ekparakwa",
+    "wof:parent_id":1108564221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.73051,
+    4.79675,
+    7.73051,
+    4.79675
+],
+  "geometry": {"coordinates":[7.73051,4.79675],"type":"Point"}
+}

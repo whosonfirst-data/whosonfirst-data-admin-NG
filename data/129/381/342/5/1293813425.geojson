@@ -1,0 +1,68 @@
+{
+  "id": 1293813425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.77021,4.78053,6.77021,4.78053",
+    "geom:latitude":4.78053,
+    "geom:longitude":6.77021,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Kala-Degema",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335440,
+    "gn:latitude":4.78053,
+    "gn:longitude":6.77021,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kala-Degema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335440
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ebf0a7424ae7e80f078a489c7e8c8152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563227,
+            "locality_id":1293813425,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293813425,
+    "wof:lastmodified":1536813723,
+    "wof:name":"Kala-Degema",
+    "wof:parent_id":1108563227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.77021,
+    4.78053,
+    6.77021,
+    4.78053
+],
+  "geometry": {"coordinates":[6.77021,4.78053],"type":"Point"}
+}

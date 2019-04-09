@@ -1,0 +1,65 @@
+{
+  "id": 1209359015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18123,8.99308,12.18123,8.99308",
+    "geom:latitude":8.99308,
+    "geom:longitude":12.18123,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002",
+    "gn:asciiname":"Gijaro",
+    "gn:country_code":"NG",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10426352,
+    "gn:latitude":8.99308,
+    "gn:longitude":12.18123,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gijaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gijaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10426352
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d5d34e72a8321d2d793033a5f696bf61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209359015
+        }
+    ],
+    "wof:id":1209359015,
+    "wof:lastmodified":1537675471,
+    "wof:name":"Gijaro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18123,
+    8.99308,
+    12.18123,
+    8.99308
+],
+  "geometry": {"coordinates":[12.18123,8.99308],"type":"Point"}
+}

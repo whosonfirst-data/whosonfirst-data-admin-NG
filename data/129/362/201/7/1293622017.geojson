@@ -1,0 +1,69 @@
+{
+  "id": 1293622017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.46934,13.25572,5.46934,13.25572",
+    "geom:latitude":13.25572,
+    "geom:longitude":5.46934,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"622.0",
+    "gn:admin3_code":"62206",
+    "gn:asciiname":"Busau",
+    "gn:country_code":"NG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7016045,
+    "gn:latitude":13.25572,
+    "gn:longitude":5.46934,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Busau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016045
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d70e70324697657dfc71b372e1a0a1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564513,
+            "locality_id":1293622017,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293622017,
+    "wof:lastmodified":1537087150,
+    "wof:name":"Busau",
+    "wof:parent_id":1108564513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.46934,
+    13.25572,
+    5.46934,
+    13.25572
+],
+  "geometry": {"coordinates":[5.46934,13.25572],"type":"Point"}
+}

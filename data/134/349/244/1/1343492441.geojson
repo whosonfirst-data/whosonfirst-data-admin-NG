@@ -1,0 +1,69 @@
+{
+  "id": 1343492441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.70664,11.52868,9.70664,11.52868",
+    "geom:latitude":11.52868,
+    "geom:longitude":9.70664,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18018.0",
+    "gn:admin3_code":"JI0504",
+    "gn:asciiname":"Pangeri",
+    "gn:country_code":"NG",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325070,
+    "gn:latitude":11.52868,
+    "gn:longitude":9.70664,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pangeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325070
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dc79df7c52b651413f5e0f6feb0711af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563161,
+            "locality_id":1343492441,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1343492441,
+    "wof:lastmodified":1536700340,
+    "wof:name":"Pangeri",
+    "wof:parent_id":1108563161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.70664,
+    11.52868,
+    9.70664,
+    11.52868
+],
+  "geometry": {"coordinates":[9.70664,11.52868],"type":"Point"}
+}

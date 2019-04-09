@@ -1,0 +1,68 @@
+{
+  "id": 1293448225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1656,5.4904,8.1656,5.4904",
+    "geom:latitude":5.4904,
+    "geom:longitude":8.1656,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Ochamini Betem",
+    "gn:country_code":"NG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854826,
+    "gn:latitude":5.4904,
+    "gn:longitude":8.1656,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ochamini Betem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854826
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d379f743fa72038fb61312901a40ea0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1293448225,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293448225,
+    "wof:lastmodified":1536842780,
+    "wof:name":"Ochamini Betem",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1656,
+    5.4904,
+    8.1656,
+    5.4904
+],
+  "geometry": {"coordinates":[8.1656,5.4904],"type":"Point"}
+}

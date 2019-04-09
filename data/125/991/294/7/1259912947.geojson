@@ -1,0 +1,69 @@
+{
+  "id": 1259912947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.87367,12.71141,5.87367,12.71141",
+    "geom:latitude":12.71141,
+    "geom:longitude":5.87367,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"802.0",
+    "gn:admin3_code":"80201",
+    "gn:asciiname":"Bakura",
+    "gn:country_code":"NG",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2348106,
+    "gn:latitude":12.71141,
+    "gn:longitude":5.87367,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348106
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2b431b466cbb21fdd21bd2c15dff6a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563079,
+            "locality_id":1259912947,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1259912947,
+    "wof:lastmodified":1536736779,
+    "wof:name":"Bakura",
+    "wof:parent_id":1108563079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.87367,
+    12.71141,
+    5.87367,
+    12.71141
+],
+  "geometry": {"coordinates":[5.87367,12.71141],"type":"Point"}
+}

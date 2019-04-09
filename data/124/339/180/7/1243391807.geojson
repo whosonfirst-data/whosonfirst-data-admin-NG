@@ -1,0 +1,73 @@
+{
+  "id": 1243391807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38898,13.57521,5.38898,13.57521",
+    "geom:latitude":13.57521,
+    "geom:longitude":5.38898,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60803",
+    "gn:asciiname":"Dan Tambuje",
+    "gn:country_code":"NG",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322484,
+    "gn:latitude":13.57521,
+    "gn:longitude":5.38898,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dan Tambuje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tambuje",
+        "Dan Tambuje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322484
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a63db16ea4f362788d8e4b0931e11ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563405,
+            "locality_id":1243391807,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1243391807,
+    "wof:lastmodified":1537674977,
+    "wof:name":"Dan Tambuje",
+    "wof:parent_id":1108563405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38898,
+    13.57521,
+    5.38898,
+    13.57521
+],
+  "geometry": {"coordinates":[5.38898,13.57521],"type":"Point"}
+}

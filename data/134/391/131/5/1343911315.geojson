@@ -1,0 +1,68 @@
+{
+  "id": 1343911315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51462,10.61103,13.51462,10.61103",
+    "geom:latitude":10.61103,
+    "geom:longitude":13.51462,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Mildla",
+    "gn:country_code":"NG",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073822,
+    "gn:latitude":10.61103,
+    "gn:longitude":13.51462,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mildla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073822
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f24b8d209f7791e51ba1709e39aafdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563969,
+            "locality_id":1343911315,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343911315,
+    "wof:lastmodified":1537087849,
+    "wof:name":"Mildla",
+    "wof:parent_id":1108563969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51462,
+    10.61103,
+    13.51462,
+    10.61103
+],
+  "geometry": {"coordinates":[13.51462,10.61103],"type":"Point"}
+}

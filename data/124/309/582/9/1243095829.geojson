@@ -1,0 +1,71 @@
+{
+  "id": 1243095829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.40919,9.23554,11.40919,9.23554",
+    "geom:latitude":9.23554,
+    "geom:longitude":11.40919,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35010.0",
+    "gn:asciiname":"Kunini",
+    "gn:country_code":"NG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333362,
+    "gn:latitude":9.23554,
+    "gn:longitude":11.40919,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kunini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kunini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333362
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"828df453a7ccc45cb179ffdc29db8bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":1243095829,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1243095829,
+    "wof:lastmodified":1537675129,
+    "wof:name":"Kunini",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.40919,
+    9.23554,
+    11.40919,
+    9.23554
+],
+  "geometry": {"coordinates":[11.40919,9.23554],"type":"Point"}
+}

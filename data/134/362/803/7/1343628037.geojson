@@ -1,0 +1,69 @@
+{
+  "id": 1343628037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65651,11.08101,13.65651,11.08101",
+    "geom:latitude":11.08101,
+    "geom:longitude":13.65651,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11103",
+    "gn:asciiname":"Fadagwe Fulani",
+    "gn:country_code":"NG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342866,
+    "gn:latitude":11.08101,
+    "gn:longitude":13.65651,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fadagwe Fulani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342866
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf7f700fe9baa94b21453a99d9e58875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563479,
+            "locality_id":1343628037,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1343628037,
+    "wof:lastmodified":1537001149,
+    "wof:name":"Fadagwe Fulani",
+    "wof:parent_id":1108563479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65651,
+    11.08101,
+    13.65651,
+    11.08101
+],
+  "geometry": {"coordinates":[13.65651,11.08101],"type":"Point"}
+}

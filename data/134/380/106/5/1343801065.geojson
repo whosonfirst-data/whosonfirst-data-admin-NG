@@ -1,0 +1,71 @@
+{
+  "id": 1343801065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.48613,6.06418,6.48613,6.06418",
+    "geom:latitude":6.06418,
+    "geom:longitude":6.48613,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Abah",
+    "gn:country_code":"NG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353115,
+    "gn:latitude":6.06418,
+    "gn:longitude":6.48613,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353115
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d056a54777f7a36b8f3018f45024136e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1343801065,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1343801065,
+    "wof:lastmodified":1537675399,
+    "wof:name":"Abah",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.48613,
+    6.06418,
+    6.48613,
+    6.06418
+],
+  "geometry": {"coordinates":[6.48613,6.06418],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343599711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21645,12.77372,4.21645,12.77372",
+    "geom:latitude":12.77372,
+    "geom:longitude":4.21645,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50211",
+    "gn:asciiname":"Tunganoma",
+    "gn:country_code":"NG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040154,
+    "gn:latitude":12.77372,
+    "gn:longitude":4.21645,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tunganoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040154
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a709591a8617cea9a66834ef5e9d8105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563027,
+            "locality_id":1343599711,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1343599711,
+    "wof:lastmodified":1537040944,
+    "wof:name":"Tunganoma",
+    "wof:parent_id":1108563027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21645,
+    12.77372,
+    4.21645,
+    12.77372
+],
+  "geometry": {"coordinates":[4.21645,12.77372],"type":"Point"}
+}

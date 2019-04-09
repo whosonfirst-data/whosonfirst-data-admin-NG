@@ -1,0 +1,72 @@
+{
+  "id": 1242616421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2928,5.29416,6.2928,5.29416",
+    "geom:latitude":5.29416,
+    "geom:longitude":6.2928,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10010.0",
+    "gn:asciiname":"Asaba-Assay",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349275,
+    "gn:latitude":5.29416,
+    "gn:longitude":6.2928,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Asaba-Assay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asaba-Ase",
+        "Asaba-Assay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349275
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e7cf720fad203c7d26343a6a61da35f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563689,
+            "locality_id":1242616421,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1242616421,
+    "wof:lastmodified":1537675355,
+    "wof:name":"Asaba-Assay",
+    "wof:parent_id":1108563689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2928,
+    5.29416,
+    6.2928,
+    5.29416
+],
+  "geometry": {"coordinates":[6.2928,5.29416],"type":"Point"}
+}

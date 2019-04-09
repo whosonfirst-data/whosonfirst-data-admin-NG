@@ -1,0 +1,67 @@
+{
+  "id": 1243290325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.42124,7.3552,5.42124,7.3552",
+    "geom:latitude":7.3552,
+    "geom:longitude":5.42124,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Akoti",
+    "gn:country_code":"NG",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833045,
+    "gn:latitude":7.3552,
+    "gn:longitude":5.42124,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Akoti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833045
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe7196a47ddcea82b4cacef1f732d5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563665,
+            "locality_id":1243290325,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1243290325,
+    "wof:lastmodified":1537029471,
+    "wof:name":"Akoti",
+    "wof:parent_id":1108563665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42124,
+    7.3552,
+    5.42124,
+    7.3552
+],
+  "geometry": {"coordinates":[5.42124,7.3552],"type":"Point"}
+}

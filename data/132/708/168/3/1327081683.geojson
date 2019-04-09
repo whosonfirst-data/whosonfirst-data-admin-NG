@@ -1,0 +1,74 @@
+{
+  "id": 1327081683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.69098,10.66744,12.69098,10.66744",
+    "geom:latitude":10.66744,
+    "geom:longitude":12.69098,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10207",
+    "gn:asciiname":"Ngohi",
+    "gn:country_code":"NG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329005,
+    "gn:latitude":10.66744,
+    "gn:longitude":12.69098,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngohi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngohe",
+        "Ngwohi",
+        "Ngohi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329005
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6455b17ea95207fb9a892e8356bcff1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563037,
+            "locality_id":1327081683,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1327081683,
+    "wof:lastmodified":1537675075,
+    "wof:name":"Ngohi",
+    "wof:parent_id":1108563037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.69098,
+    10.66744,
+    12.69098,
+    10.66744
+],
+  "geometry": {"coordinates":[12.69098,10.66744],"type":"Point"}
+}

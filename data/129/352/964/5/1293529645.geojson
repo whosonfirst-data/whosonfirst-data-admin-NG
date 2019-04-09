@@ -1,0 +1,68 @@
+{
+  "id": 1293529645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98738,8.67625,11.98738,8.67625",
+    "geom:latitude":8.67625,
+    "geom:longitude":11.98738,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Gangtaraso",
+    "gn:country_code":"NG",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867046,
+    "gn:latitude":8.67625,
+    "gn:longitude":11.98738,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gangtaraso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867046
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d6cca2e69c6ccb14c1b98858b2a547c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1293529645,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293529645,
+    "wof:lastmodified":1536726668,
+    "wof:name":"Gangtaraso",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98738,
+    8.67625,
+    11.98738,
+    8.67625
+],
+  "geometry": {"coordinates":[11.98738,8.67625],"type":"Point"}
+}

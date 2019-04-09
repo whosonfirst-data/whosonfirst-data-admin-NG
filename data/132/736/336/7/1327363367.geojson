@@ -1,0 +1,73 @@
+{
+  "id": 1327363367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.63333,9.96667,11.63333,9.96667",
+    "geom:latitude":9.96667,
+    "geom:longitude":11.63333,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16002.0",
+    "gn:asciiname":"Galengu",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342247,
+    "gn:latitude":9.96667,
+    "gn:longitude":11.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Galengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galengo",
+        "Galengu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342247
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dfedb45bcd57ebcb643b683ffaba4938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563081,
+            "locality_id":1327363367,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1327363367,
+    "wof:lastmodified":1537675260,
+    "wof:name":"Galengu",
+    "wof:parent_id":1108563081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.63333,
+    9.96667,
+    11.63333,
+    9.96667
+],
+  "geometry": {"coordinates":[11.63333,9.96667],"type":"Point"}
+}

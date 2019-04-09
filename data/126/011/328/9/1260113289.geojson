@@ -1,0 +1,69 @@
+{
+  "id": 1260113289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.025,11.83004,11.025,11.83004",
+    "geom:latitude":11.83004,
+    "geom:longitude":11.025,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"71216",
+    "gn:asciiname":"Bade",
+    "gn:country_code":"NG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348366,
+    "gn:latitude":11.83004,
+    "gn:longitude":11.025,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348366
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d1e108d418a63da1693ae6545823e403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564007,
+            "locality_id":1260113289,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1260113289,
+    "wof:lastmodified":1536945606,
+    "wof:name":"Bade",
+    "wof:parent_id":1108564007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.025,
+    11.83004,
+    11.025,
+    11.83004
+],
+  "geometry": {"coordinates":[11.025,11.83004],"type":"Point"}
+}

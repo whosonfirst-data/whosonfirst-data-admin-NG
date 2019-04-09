@@ -1,0 +1,66 @@
+{
+  "id": 1209347563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.76082,8.11113,10.76082,8.11113",
+    "geom:latitude":8.11113,
+    "geom:longitude":10.76082,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Bokki",
+    "gn:country_code":"NG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346890,
+    "gn:latitude":8.11113,
+    "gn:longitude":10.76082,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bokki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuro Bokki",
+        "Bokki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346890
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba3b5647b5e02ee157926f5178545089",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347563
+        }
+    ],
+    "wof:id":1209347563,
+    "wof:lastmodified":1537675326,
+    "wof:name":"Bokki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.76082,
+    8.11113,
+    10.76082,
+    8.11113
+],
+  "geometry": {"coordinates":[10.76082,8.11113],"type":"Point"}
+}

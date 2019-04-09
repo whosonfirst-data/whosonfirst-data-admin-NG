@@ -1,0 +1,68 @@
+{
+  "id": 1276363247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.503,7.0786,5.503,7.0786",
+    "geom:latitude":7.0786,
+    "geom:longitude":5.503,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29018.0",
+    "gn:asciiname":"Ojugbere",
+    "gn:country_code":"NG",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832800,
+    "gn:latitude":7.0786,
+    "gn:longitude":5.503,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ojugbere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832800
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7c39e85effe6bdd8d7c2f724b30c19e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564257,
+            "locality_id":1276363247,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1276363247,
+    "wof:lastmodified":1536738537,
+    "wof:name":"Ojugbere",
+    "wof:parent_id":1108564257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.503,
+    7.0786,
+    5.503,
+    7.0786
+],
+  "geometry": {"coordinates":[5.503,7.0786],"type":"Point"}
+}

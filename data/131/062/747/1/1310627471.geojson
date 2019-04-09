@@ -1,0 +1,71 @@
+{
+  "id": 1310627471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50144,9.31471,9.50144,9.31471",
+    "geom:latitude":9.31471,
+    "geom:longitude":9.50144,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32008.0",
+    "gn:asciiname":"Wokkos",
+    "gn:country_code":"NG",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318981,
+    "gn:latitude":9.31471,
+    "gn:longitude":9.50144,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Wokkos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wokkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318981
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d02f4dcfb87a3cd84b13dcb8bc7f1a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563771,
+            "locality_id":1310627471,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1310627471,
+    "wof:lastmodified":1537674912,
+    "wof:name":"Wokkos",
+    "wof:parent_id":1108563771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50144,
+    9.31471,
+    9.50144,
+    9.31471
+],
+  "geometry": {"coordinates":[9.50144,9.31471],"type":"Point"}
+}

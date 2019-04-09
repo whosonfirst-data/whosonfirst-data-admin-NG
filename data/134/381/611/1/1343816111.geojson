@@ -1,0 +1,69 @@
+{
+  "id": 1343816111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.18333,10.96667,7.18333,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":7.18333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19003.0",
+    "gn:admin3_code":"KD0307",
+    "gn:asciiname":"Riuka",
+    "gn:country_code":"NG",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324437,
+    "gn:latitude":10.96667,
+    "gn:longitude":7.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Riuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324437
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9ac02b9f3097f5fa0da8395fa62bb394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563425,
+            "locality_id":1343816111,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1343816111,
+    "wof:lastmodified":1536731086,
+    "wof:name":"Riuka",
+    "wof:parent_id":1108563425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.18333,
+    10.96667,
+    7.18333,
+    10.96667
+],
+  "geometry": {"coordinates":[7.18333,10.96667],"type":"Point"}
+}

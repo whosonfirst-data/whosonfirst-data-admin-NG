@@ -1,0 +1,68 @@
+{
+  "id": 1360214285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.29447,8.81056,11.29447,8.81056",
+    "geom:latitude":8.81056,
+    "geom:longitude":11.29447,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001.0",
+    "gn:asciiname":"Mallam Dabo",
+    "gn:country_code":"NG",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331049,
+    "gn:latitude":8.81056,
+    "gn:longitude":11.29447,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mallam Dabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331049
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0c065723bb1e18f2014ad1e7ebcec5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1360214285,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1360214285,
+    "wof:lastmodified":1536759591,
+    "wof:name":"Mallam Dabo",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29447,
+    8.81056,
+    11.29447,
+    8.81056
+],
+  "geometry": {"coordinates":[11.29447,8.81056],"type":"Point"}
+}

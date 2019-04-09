@@ -1,0 +1,72 @@
+{
+  "id": 1243586963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.1356,6.38267,7.1356,6.38267",
+    "geom:latitude":6.38267,
+    "geom:longitude":7.1356,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14006.0",
+    "gn:asciiname":"Igbenu",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338779,
+    "gn:latitude":6.38267,
+    "gn:longitude":7.1356,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ugbenu",
+        "Igbenu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338779
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f6831f9490df434ac5abcdfd241bf946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563353,
+            "locality_id":1243586963,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1243586963,
+    "wof:lastmodified":1537675204,
+    "wof:name":"Igbenu",
+    "wof:parent_id":1108563353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.1356,
+    6.38267,
+    7.1356,
+    6.38267
+],
+  "geometry": {"coordinates":[7.1356,6.38267],"type":"Point"}
+}

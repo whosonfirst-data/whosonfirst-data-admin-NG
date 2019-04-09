@@ -1,0 +1,68 @@
+{
+  "id": 1243200675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95979,9.0446,5.95979,9.0446",
+    "geom:latitude":9.0446,
+    "geom:longitude":5.95979,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007",
+    "gn:asciiname":"Emitswayan",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308911,
+    "gn:latitude":9.0446,
+    "gn:longitude":5.95979,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emitswayan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308911
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d43aab19c0f317be8203ba4bd3151f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1243200675,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243200675,
+    "wof:lastmodified":1536663058,
+    "wof:name":"Emitswayan",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95979,
+    9.0446,
+    5.95979,
+    9.0446
+],
+  "geometry": {"coordinates":[5.95979,9.0446],"type":"Point"}
+}

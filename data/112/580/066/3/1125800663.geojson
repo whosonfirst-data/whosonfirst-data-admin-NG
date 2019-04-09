@@ -1,0 +1,114 @@
+{
+  "id": 1125800663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.46949,10.39989,5.46949,10.39989",
+    "geom:latitude":10.39989,
+    "geom:longitude":5.46949,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":98754,
+    "gn:population":98754,
+    "iso:country":"NG",
+    "lbl:latitude":10.39989,
+    "lbl:longitude":5.46949,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u062a\u0627\u063a\u0648\u0631\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Kontagora"
+    ],
+    "name:dut_x_preferred":[
+        "Kontagora"
+    ],
+    "name:eng_x_preferred":[
+        "Kontagora"
+    ],
+    "name:fre_x_preferred":[
+        "Kontagora"
+    ],
+    "name:ger_x_preferred":[
+        "Kontagora"
+    ],
+    "name:ita_x_preferred":[
+        "Kontagora"
+    ],
+    "name:pol_x_preferred":[
+        "Kontagora"
+    ],
+    "name:por_x_preferred":[
+        "Kontagora"
+    ],
+    "name:rum_x_preferred":[
+        "Kontagora"
+    ],
+    "name:yor_x_preferred":[
+        "Kontagora"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2334008,
+    "qs_pg:gn_pop":98754,
+    "qs_pg:name":"Kontagora",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":278511,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334008,
+        "qs_pg:id":278511,
+        "wd:id":"Q994129"
+    },
+    "wof:country":"NG",
+    "wof:created":1497291245,
+    "wof:geomhash":"58e0984f9e3cc46c05e4392efea826e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563841,
+            "locality_id":1125800663,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1125800663,
+    "wof:lastmodified":1534379385,
+    "wof:name":"Kontagora",
+    "wof:parent_id":1108563841,
+    "wof:placetype":"locality",
+    "wof:population":98754,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141907413
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.46949,
+    10.39989,
+    5.46949,
+    10.39989
+],
+  "geometry": {"coordinates":[5.46949,10.39989],"type":"Point"}
+}

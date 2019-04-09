@@ -1,0 +1,64 @@
+{
+  "id": 1209455201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1053,9.48046,12.1053,9.48046",
+    "geom:latitude":9.48046,
+    "geom:longitude":12.1053,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Zuron",
+    "gn:country_code":"NG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189535,
+    "gn:latitude":9.48046,
+    "gn:longitude":12.1053,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Zuron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zuron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189535
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7d461f0857c1aceb0ff4c3d3f69fe11b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209455201
+        }
+    ],
+    "wof:id":1209455201,
+    "wof:lastmodified":1537675481,
+    "wof:name":"Zuron",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1053,
+    9.48046,
+    12.1053,
+    9.48046
+],
+  "geometry": {"coordinates":[12.1053,9.48046],"type":"Point"}
+}

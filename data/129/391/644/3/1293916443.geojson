@@ -1,0 +1,67 @@
+{
+  "id": 1293916443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.68264,10.86972,11.68264,10.86972",
+    "geom:latitude":10.86972,
+    "geom:longitude":11.68264,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Njibi",
+    "gn:country_code":"NG",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328872,
+    "gn:latitude":10.86972,
+    "gn:longitude":11.68264,
+    "gn:modification_date":"2009-05-14",
+    "gn:name":"Njibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328872
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"86161f4ab8a6f7aeecc82accfce66cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563135,
+            "locality_id":1293916443,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1293916443,
+    "wof:lastmodified":1536665917,
+    "wof:name":"Njibi",
+    "wof:parent_id":1108563135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.68264,
+    10.86972,
+    11.68264,
+    10.86972
+],
+  "geometry": {"coordinates":[11.68264,10.86972],"type":"Point"}
+}

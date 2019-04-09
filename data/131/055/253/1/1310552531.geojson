@@ -1,0 +1,69 @@
+{
+  "id": 1310552531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.80822,11.63942,3.80822,11.63942",
+    "geom:latitude":11.63942,
+    "geom:longitude":3.80822,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"508.0",
+    "gn:admin3_code":"50801",
+    "gn:asciiname":"Yelawa",
+    "gn:country_code":"NG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6960392,
+    "gn:latitude":11.63942,
+    "gn:longitude":3.80822,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yelawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6960392
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed248f13f3ef1ee6152cec565815aa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563207,
+            "locality_id":1310552531,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1310552531,
+    "wof:lastmodified":1536848164,
+    "wof:name":"Yelawa",
+    "wof:parent_id":1108563207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.80822,
+    11.63942,
+    3.80822,
+    11.63942
+],
+  "geometry": {"coordinates":[3.80822,11.63942],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209342895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89203,13.46009,5.89203,13.46009",
+    "geom:latitude":13.46009,
+    "geom:longitude":5.89203,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60508",
+    "gn:asciiname":"Ku",
+    "gn:country_code":"NG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012595,
+    "gn:latitude":13.46009,
+    "gn:longitude":5.89203,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012595
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8dade8d54028ec0413bdcaf6287b3301",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342895
+        }
+    ],
+    "wof:id":1209342895,
+    "wof:lastmodified":1536290007,
+    "wof:name":"Ku",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89203,
+    13.46009,
+    5.89203,
+    13.46009
+],
+  "geometry": {"coordinates":[5.89203,13.46009],"type":"Point"}
+}

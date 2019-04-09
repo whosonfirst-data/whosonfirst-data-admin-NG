@@ -1,0 +1,62 @@
+{
+  "id": 1209242383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.67141,9.08607,5.67141,9.08607",
+    "geom:latitude":9.08607,
+    "geom:longitude":5.67141,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007",
+    "gn:asciiname":"Emisakiwa",
+    "gn:country_code":"NG",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10309206,
+    "gn:latitude":9.08607,
+    "gn:longitude":5.67141,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emisakiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10309206
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c3ab7737387aab727b51436e744dbf9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209242383
+        }
+    ],
+    "wof:id":1209242383,
+    "wof:lastmodified":1536293277,
+    "wof:name":"Emisakiwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67141,
+    9.08607,
+    5.67141,
+    9.08607
+],
+  "geometry": {"coordinates":[5.67141,9.08607],"type":"Point"}
+}

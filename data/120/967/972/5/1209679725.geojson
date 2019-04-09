@@ -1,0 +1,62 @@
+{
+  "id": 1209679725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.63824,5.39227,7.63824,5.39227",
+    "geom:latitude":5.39227,
+    "geom:longitude":7.63824,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3015.0",
+    "gn:asciiname":"Ifa",
+    "gn:country_code":"NG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338911,
+    "gn:latitude":5.39227,
+    "gn:longitude":7.63824,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338911
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8cf6d1a10a8ffc1a58346afd58903495",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209679725
+        }
+    ],
+    "wof:id":1209679725,
+    "wof:lastmodified":1536279620,
+    "wof:name":"Ifa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.63824,
+    5.39227,
+    7.63824,
+    5.39227
+],
+  "geometry": {"coordinates":[7.63824,5.39227],"type":"Point"}
+}

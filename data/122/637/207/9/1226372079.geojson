@@ -1,0 +1,68 @@
+{
+  "id": 1226372079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.47,8.13972,7.47,8.13972",
+    "geom:latitude":8.13972,
+    "geom:longitude":7.47,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26009.0",
+    "gn:asciiname":"Awakua",
+    "gn:country_code":"NG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348815,
+    "gn:latitude":8.13972,
+    "gn:longitude":7.47,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awakua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348815
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1cd9993a07d1ec50f3e308f070deb0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564015,
+            "locality_id":1226372079,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1226372079,
+    "wof:lastmodified":1536751672,
+    "wof:name":"Awakua",
+    "wof:parent_id":1108564015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.47,
+    8.13972,
+    7.47,
+    8.13972
+],
+  "geometry": {"coordinates":[7.47,8.13972],"type":"Point"}
+}

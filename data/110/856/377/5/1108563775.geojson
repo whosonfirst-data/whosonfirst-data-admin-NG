@@ -1,0 +1,89 @@
+{
+  "id": 1108563775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00144,
+    "geom:area_square_m":17416225.374217,
+    "geom:bbox":"8.47226633973,11.9332713683,8.53226633973,11.9770713683",
+    "geom:latitude":11.958077,
+    "geom:longitude":8.501611,
+    "iso:country":"NG",
+    "lbl:latitude":11.958191,
+    "lbl:longitude":8.501156,
+    "meso:adm1_name":"Kano",
+    "meso:diss_me":"Kano MunicipalKano",
+    "meso:gadm_admin":"Kano",
+    "meso:gaul_admin":"Kano",
+    "meso:hasc_id":"NG.KN.KM",
+    "meso:mps_x":8.501156,
+    "meso:mps_y":11.958191,
+    "meso:name_local":"Kano Municipal",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":11.958191,
+    "mps:longitude":8.501156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kano Municipal"
+    ],
+    "name:eng_x_variant":[
+        "Kano"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"17.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Kofar Kudu",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.KN",
+    "statoids:name":"Kano Municipal",
+    "statoids:population":"365525",
+    "statoids:statoid":"NG.KN.KM",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.KN.KM"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057796,
+    "wof:geomhash":"11f8facc03ad8de240e8e92615638d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563775,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1108563775,
+    "wof:lastmodified":1536615207,
+    "wof:name":"Kano Municipal",
+    "wof:parent_id":85675425,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":365525,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"KM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.47226633973258,
+    11.93327136831213,
+    8.53226633973262,
+    11.97707136831212
+],
+  "geometry": {"coordinates":[[[8.53226633973262,11.97657136831214],[8.53126633973257,11.9730713683121],[8.52686633973258,11.9635713683121],[8.52136633973261,11.95637136831216],[8.51796633973257,11.9527713683121],[8.51226633973258,11.94797136831214],[8.50886633973263,11.94547136831215],[8.50206633973257,11.93947136831211],[8.49756633973256,11.93697136831211],[8.49186633973257,11.93327136831213],[8.48706633973261,11.93777136831214],[8.47976633973256,11.94457136831211],[8.47616633973259,11.94907136831212],[8.47226633973258,11.95377136831215],[8.47706633973263,11.95727136831211],[8.48036633973265,11.96087136831217],[8.48266633973262,11.96327136831215],[8.48486633973257,11.96567136831213],[8.48936633973258,11.97047136831218],[8.49396633973259,11.97187136831211],[8.49976633973261,11.9743713683121],[8.50546633973261,11.97567136831211],[8.51126633973261,11.97707136831212],[8.51486633973258,11.97597136831215],[8.51946633973261,11.97617136831218],[8.5276663397326,11.97647136831213],[8.53226633973262,11.97657136831214]]],"type":"Polygon"}
+}

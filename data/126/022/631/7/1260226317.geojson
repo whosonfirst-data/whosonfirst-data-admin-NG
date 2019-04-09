@@ -1,0 +1,73 @@
+{
+  "id": 1260226317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.6,8.4,4.6,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":4.6,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Ogbondoroko",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327730,
+    "gn:latitude":8.4,
+    "gn:longitude":4.6,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogbondoroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ologbondoroko",
+        "Ogbondoroko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327730
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a6874385566a10b20502eda8be32abc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563033,
+            "locality_id":1260226317,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1260226317,
+    "wof:lastmodified":1537675052,
+    "wof:name":"Ogbondoroko",
+    "wof:parent_id":1108563033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6,
+    8.4,
+    4.6,
+    8.4
+],
+  "geometry": {"coordinates":[4.6,8.4],"type":"Point"}
+}

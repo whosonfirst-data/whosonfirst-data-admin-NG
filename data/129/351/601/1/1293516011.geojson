@@ -1,0 +1,71 @@
+{
+  "id": 1293516011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.18879,6.1141,8.18879,6.1141",
+    "geom:latitude":6.1141,
+    "geom:longitude":8.18879,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007.0",
+    "gn:asciiname":"Ndieche-Achara",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329281,
+    "gn:latitude":6.1141,
+    "gn:longitude":8.18879,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndieche-Achara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndilche Achara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329281
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f89f330dc94a3fa57c732b35182496b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1293516011,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1293516011,
+    "wof:lastmodified":1537675079,
+    "wof:name":"Ndieche-Achara",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.18879,
+    6.1141,
+    8.18879,
+    6.1141
+],
+  "geometry": {"coordinates":[8.18879,6.1141],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293716899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03078,12.10981,11.03078,12.10981",
+    "geom:latitude":12.10981,
+    "geom:longitude":11.03078,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70513",
+    "gn:asciiname":"Madawun",
+    "gn:country_code":"NG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331675,
+    "gn:latitude":12.10981,
+    "gn:longitude":11.03078,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Madawun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331675
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9aba0acc07418b2226535fd2df36412c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564527,
+            "locality_id":1293716899,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1293716899,
+    "wof:lastmodified":1536953941,
+    "wof:name":"Madawun",
+    "wof:parent_id":1108564527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03078,
+    12.10981,
+    11.03078,
+    12.10981
+],
+  "geometry": {"coordinates":[11.03078,12.10981],"type":"Point"}
+}

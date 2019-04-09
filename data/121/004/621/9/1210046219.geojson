@@ -1,0 +1,71 @@
+{
+  "id": 1210046219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.11082,9.91219,9.11082,9.91219",
+    "geom:latitude":9.91219,
+    "geom:longitude":9.11082,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32004.0",
+    "gn:asciiname":"Fedare",
+    "gn:country_code":"NG",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342665,
+    "gn:latitude":9.91219,
+    "gn:longitude":9.11082,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Fedare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fedare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342665
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"43b6f04e47bd7459f19db33dfc8d3cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563729,
+            "locality_id":1210046219,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1210046219,
+    "wof:lastmodified":1537675265,
+    "wof:name":"Fedare",
+    "wof:parent_id":1108563729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.11082,
+    9.91219,
+    9.11082,
+    9.91219
+],
+  "geometry": {"coordinates":[9.11082,9.91219],"type":"Point"}
+}

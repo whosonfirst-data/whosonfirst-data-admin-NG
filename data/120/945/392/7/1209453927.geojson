@@ -1,0 +1,65 @@
+{
+  "id": 1209453927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.86963,5.69559,5.86963,5.69559",
+    "geom:latitude":5.69559,
+    "geom:longitude":5.86963,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10005.0",
+    "gn:asciiname":"Ibada",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027946,
+    "gn:latitude":5.69559,
+    "gn:longitude":5.86963,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ibada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ibada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027946
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6a6edf8a59c450d8d56e3bf1b9607e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209453927
+        }
+    ],
+    "wof:id":1209453927,
+    "wof:lastmodified":1537675421,
+    "wof:name":"Ibada",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.86963,
+    5.69559,
+    5.86963,
+    5.69559
+],
+  "geometry": {"coordinates":[5.86963,5.69559],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360028575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05464,5.50873,6.05464,5.50873",
+    "geom:latitude":5.50873,
+    "geom:longitude":6.05464,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Owevwe",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352065,
+    "gn:latitude":5.50873,
+    "gn:longitude":6.05464,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Owevwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agbasa",
+        "Agbassa",
+        "Owevwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352065
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"96a9e9ccf597cf551a6bab6f91a3b396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1360028575,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1360028575,
+    "wof:lastmodified":1537675388,
+    "wof:name":"Owevwe",
+    "wof:parent_id":1108564439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05464,
+    5.50873,
+    6.05464,
+    5.50873
+],
+  "geometry": {"coordinates":[6.05464,5.50873],"type":"Point"}
+}

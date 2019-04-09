@@ -1,0 +1,74 @@
+{
+  "id": 1209884367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.22711,11.59346,7.22711,11.59346",
+    "geom:latitude":11.59346,
+    "geom:longitude":7.22711,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41304",
+    "gn:asciiname":"Kamanji",
+    "gn:country_code":"NG",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335344,
+    "gn:latitude":11.59346,
+    "gn:longitude":7.22711,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kamanji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mairua",
+        "Mairuwa",
+        "Kamanji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335344
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3bea5cebf0458b04758a71429b5208f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563377,
+            "locality_id":1209884367,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1209884367,
+    "wof:lastmodified":1537675154,
+    "wof:name":"Kamanji",
+    "wof:parent_id":1108563377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.22711,
+    11.59346,
+    7.22711,
+    11.59346
+],
+  "geometry": {"coordinates":[7.22711,11.59346],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209245991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66015,8.80835,9.66015,8.80835",
+    "geom:latitude":8.80835,
+    "geom:longitude":9.66015,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016.0",
+    "gn:asciiname":"Inshar",
+    "gn:country_code":"NG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337478,
+    "gn:latitude":8.80835,
+    "gn:longitude":9.66015,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Inshar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yelwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337478
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb9540a1a8ecc2c5916beb75d402afdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209245991
+        }
+    ],
+    "wof:id":1209245991,
+    "wof:lastmodified":1537675184,
+    "wof:name":"Inshar",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66015,
+    8.80835,
+    9.66015,
+    8.80835
+],
+  "geometry": {"coordinates":[9.66015,8.80835],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209033267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12341,4.87547,6.12341,4.87547",
+    "geom:latitude":4.87547,
+    "geom:longitude":6.12341,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Otuan",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325446,
+    "gn:latitude":4.87547,
+    "gn:longitude":6.12341,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Otuan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otwa",
+        "Otwan",
+        "Otuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325446
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"96cb18ac8b19711c0b12a2779c240ab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209033267
+        }
+    ],
+    "wof:id":1209033267,
+    "wof:lastmodified":1537675015,
+    "wof:name":"Otuan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12341,
+    4.87547,
+    6.12341,
+    4.87547
+],
+  "geometry": {"coordinates":[6.12341,4.87547],"type":"Point"}
+}

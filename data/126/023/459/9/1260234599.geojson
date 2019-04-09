@@ -1,0 +1,67 @@
+{
+  "id": 1260234599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57273,10.5549,13.57273,10.5549",
+    "geom:latitude":10.5549,
+    "geom:longitude":13.57273,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ouleke",
+    "gn:country_code":"NG",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073856,
+    "gn:latitude":10.5549,
+    "gn:longitude":13.57273,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ouleke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073856
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"96b6f94570b488743c65368eeb1eac70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1260234599,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1260234599,
+    "wof:lastmodified":1536778839,
+    "wof:name":"Ouleke",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57273,
+    10.5549,
+    13.57273,
+    10.5549
+],
+  "geometry": {"coordinates":[13.57273,10.5549],"type":"Point"}
+}

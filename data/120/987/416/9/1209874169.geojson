@@ -1,0 +1,69 @@
+{
+  "id": 1209874169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.69573,10.96885,7.69573,10.96885",
+    "geom:latitude":10.96885,
+    "geom:longitude":7.69573,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19004.0",
+    "gn:admin3_code":"KD0412",
+    "gn:asciiname":"Fatima",
+    "gn:country_code":"NG",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342675,
+    "gn:latitude":10.96885,
+    "gn:longitude":7.69573,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fatima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342675
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95c0c0432b89c19e23d0e9cc7d721037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564559,
+            "locality_id":1209874169,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1209874169,
+    "wof:lastmodified":1536370371,
+    "wof:name":"Fatima",
+    "wof:parent_id":1108564559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.69573,
+    10.96885,
+    7.69573,
+    10.96885
+],
+  "geometry": {"coordinates":[7.69573,10.96885],"type":"Point"}
+}

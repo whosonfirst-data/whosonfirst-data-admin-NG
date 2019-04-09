@@ -1,0 +1,74 @@
+{
+  "id": 1292953701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15451,5.75244,5.15451,5.75244",
+    "geom:latitude":5.75244,
+    "geom:longitude":5.15451,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10023.0",
+    "gn:asciiname":"Ugbodudu",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320871,
+    "gn:latitude":5.75244,
+    "gn:longitude":5.15451,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Ugbodudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ugbodudu"
+    ],
+    "name:eng_x_variant":[
+        "Ugbogbudu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320871
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bc670121422c0a646b88064f95cf2e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564499,
+            "locality_id":1292953701,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1292953701,
+    "wof:lastmodified":1537674957,
+    "wof:name":"Ugbodudu",
+    "wof:parent_id":1108564499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15451,
+    5.75244,
+    5.15451,
+    5.75244
+],
+  "geometry": {"coordinates":[5.15451,5.75244],"type":"Point"}
+}

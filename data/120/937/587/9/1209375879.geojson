@@ -1,0 +1,63 @@
+{
+  "id": 1209375879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.06029,12.28359,8.06029,12.28359",
+    "geom:latitude":12.28359,
+    "geom:longitude":8.06029,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20008.0",
+    "gn:admin3_code":"KN4005",
+    "gn:asciiname":"Kafa Yau",
+    "gn:country_code":"NG",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974466,
+    "gn:latitude":12.28359,
+    "gn:longitude":8.06029,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kafa Yau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974466
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3a429066de754c535b847b080a6c1768",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209375879
+        }
+    ],
+    "wof:id":1209375879,
+    "wof:lastmodified":1536288952,
+    "wof:name":"Kafa Yau",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.06029,
+    12.28359,
+    8.06029,
+    12.28359
+],
+  "geometry": {"coordinates":[8.06029,12.28359],"type":"Point"}
+}

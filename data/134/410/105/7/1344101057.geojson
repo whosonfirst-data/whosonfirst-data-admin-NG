@@ -1,0 +1,72 @@
+{
+  "id": 1344101057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25998,10.13812,13.25998,10.13812",
+    "geom:latitude":10.13812,
+    "geom:longitude":13.25998,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Aiwe",
+    "gn:country_code":"NG",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351607,
+    "gn:latitude":10.13812,
+    "gn:longitude":13.25998,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aiwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aiwa",
+        "Aiwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351607
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d2500b9dc2f37830fb7d7dc2e0d7b134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1344101057,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1344101057,
+    "wof:lastmodified":1537675382,
+    "wof:name":"Aiwe",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25998,
+    10.13812,
+    13.25998,
+    10.13812
+],
+  "geometry": {"coordinates":[13.25998,10.13812],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209246025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.87376,12.03674,6.87376,12.03674",
+    "geom:latitude":12.03674,
+    "geom:longitude":6.87376,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81308",
+    "gn:asciiname":"Kpuntu",
+    "gn:country_code":"NG",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333784,
+    "gn:latitude":12.03674,
+    "gn:longitude":6.87376,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kpuntu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333784
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c9200154b8571085d5950ee4562f175b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209246025
+        }
+    ],
+    "wof:id":1209246025,
+    "wof:lastmodified":1536293162,
+    "wof:name":"Kpuntu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.873760000000001,
+    12.03674,
+    6.873760000000001,
+    12.03674
+],
+  "geometry": {"coordinates":[6.87376,12.03674],"type":"Point"}
+}

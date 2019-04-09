@@ -1,0 +1,68 @@
+{
+  "id": 1293249427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.99335,6.09176,6.99335,6.09176",
+    "geom:latitude":6.09176,
+    "geom:longitude":6.99335,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4004",
+    "gn:asciiname":"Adazi Ani",
+    "gn:country_code":"NG",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420781,
+    "gn:latitude":6.09176,
+    "gn:longitude":6.99335,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adazi Ani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420781
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d27c3c59e29f99d6f508c8c5975d0bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563005,
+            "locality_id":1293249427,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1293249427,
+    "wof:lastmodified":1536631782,
+    "wof:name":"Adazi Ani",
+    "wof:parent_id":1108563005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.99335,
+    6.09176,
+    6.99335,
+    6.09176
+],
+  "geometry": {"coordinates":[6.99335,6.09176],"type":"Point"}
+}

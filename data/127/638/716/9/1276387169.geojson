@@ -1,0 +1,68 @@
+{
+  "id": 1276387169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.35,8.33333,3.35,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":3.35,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31004.0",
+    "gn:asciiname":"Abule Tailor",
+    "gn:country_code":"NG",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352745,
+    "gn:latitude":8.33333,
+    "gn:longitude":3.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abule Tailor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352745
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3ec43ede7c0cbd9e1736029b5618c1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563047,
+            "locality_id":1276387169,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1276387169,
+    "wof:lastmodified":1536706777,
+    "wof:name":"Abule Tailor",
+    "wof:parent_id":1108563047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.35,
+    8.33333,
+    3.35,
+    8.33333
+],
+  "geometry": {"coordinates":[3.35,8.33333],"type":"Point"}
+}

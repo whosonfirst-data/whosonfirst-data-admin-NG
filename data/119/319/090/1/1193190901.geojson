@@ -1,0 +1,71 @@
+{
+  "id": 1193190901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28635,10.26522,13.28635,10.26522",
+    "geom:latitude":10.26522,
+    "geom:longitude":13.28635,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014",
+    "gn:asciiname":"Wuru Jauro",
+    "gn:country_code":"NG",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742784,
+    "gn:latitude":10.26522,
+    "gn:longitude":13.28635,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuru Jauro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wuru Jauro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742784
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8443d046d58b1620038e283ef34ed425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":1193190901,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193190901,
+    "wof:lastmodified":1537675462,
+    "wof:name":"Wuru Jauro",
+    "wof:parent_id":1108563997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28635,
+    10.26522,
+    13.28635,
+    10.26522
+],
+  "geometry": {"coordinates":[13.28635,10.26522],"type":"Point"}
+}

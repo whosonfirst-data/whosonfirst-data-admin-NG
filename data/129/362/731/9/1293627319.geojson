@@ -1,0 +1,69 @@
+{
+  "id": 1293627319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.74431,11.71286,3.74431,11.71286",
+    "geom:latitude":11.71286,
+    "geom:longitude":3.74431,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"508.0",
+    "gn:admin3_code":"50809",
+    "gn:asciiname":"Sarafu",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323665,
+    "gn:latitude":11.71286,
+    "gn:longitude":3.74431,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sarafu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323665
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aef21a260e6541ae15483d5d9ebd5ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563207,
+            "locality_id":1293627319,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1293627319,
+    "wof:lastmodified":1537079463,
+    "wof:name":"Sarafu",
+    "wof:parent_id":1108563207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.74431,
+    11.71286,
+    3.74431,
+    11.71286
+],
+  "geometry": {"coordinates":[3.74431,11.71286],"type":"Point"}
+}

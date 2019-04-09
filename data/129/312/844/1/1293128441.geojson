@@ -1,0 +1,80 @@
+{
+  "id": 1293128441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88586,6.77965,9.88586,6.77965",
+    "geom:latitude":6.77965,
+    "geom:longitude":9.88586,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Kuturu",
+    "gn:country_code":"NG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8741783,
+    "gn:latitude":6.77965,
+    "gn:longitude":9.88586,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Kuturu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuturu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669941,
+        1092010619,
+        85632735,
+        85675335,
+        1108564477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8741783
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"12b98936da3ede59716a596561bed698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092010619,
+            "locality_id":1293128441,
+            "region_id":85669941
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564477,
+            "locality_id":1293128441,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293128441,
+    "wof:lastmodified":1537675460,
+    "wof:name":"Kuturu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88586,
+    6.77965,
+    9.88586,
+    6.77965
+],
+  "geometry": {"coordinates":[9.88586,6.77965],"type":"Point"}
+}

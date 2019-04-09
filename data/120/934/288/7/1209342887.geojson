@@ -1,0 +1,62 @@
+{
+  "id": 1209342887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.79023,7.95389,6.79023,7.95389",
+    "geom:latitude":7.95389,
+    "geom:longitude":6.79023,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23011.0",
+    "gn:asciiname":"Yashiyali",
+    "gn:country_code":"NG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318236,
+    "gn:latitude":7.95389,
+    "gn:longitude":6.79023,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yashiyali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318236
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e35beb1769bfc8a7ca45a40d57a4426",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342887
+        }
+    ],
+    "wof:id":1209342887,
+    "wof:lastmodified":1536290007,
+    "wof:name":"Yashiyali",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.79023,
+    7.953889999999999,
+    6.79023,
+    7.953889999999999
+],
+  "geometry": {"coordinates":[6.79023,7.95389],"type":"Point"}
+}

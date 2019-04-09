@@ -1,0 +1,68 @@
+{
+  "id": 1226777257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14302,9.14271,6.14302,9.14271",
+    "geom:latitude":9.14271,
+    "geom:longitude":6.14302,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Santigi",
+    "gn:country_code":"NG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317488,
+    "gn:latitude":9.14271,
+    "gn:longitude":6.14302,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Santigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317488
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0cf702521839649871009242cf3f6b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1226777257,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226777257,
+    "wof:lastmodified":1536670274,
+    "wof:name":"Santigi",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14302,
+    9.14271,
+    6.14302,
+    9.14271
+],
+  "geometry": {"coordinates":[6.14302,9.14271],"type":"Point"}
+}

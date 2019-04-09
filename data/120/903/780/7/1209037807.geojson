@@ -1,0 +1,62 @@
+{
+  "id": 1209037807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.5464,8.63813,11.5464,8.63813",
+    "geom:latitude":8.63813,
+    "geom:longitude":11.5464,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Mayo Paka",
+    "gn:country_code":"NG",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330500,
+    "gn:latitude":8.63813,
+    "gn:longitude":11.5464,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mayo Paka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330500
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8ac391827e1dc3272bb056de5f014b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209037807
+        }
+    ],
+    "wof:id":1209037807,
+    "wof:lastmodified":1536299644,
+    "wof:name":"Mayo Paka",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.5464,
+    8.63813,
+    11.5464,
+    8.63813
+],
+  "geometry": {"coordinates":[11.5464,8.63813],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259816555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.46536,8.75507,11.46536,8.75507",
+    "geom:latitude":8.75507,
+    "geom:longitude":11.46536,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001",
+    "gn:asciiname":"Kassa Kuru",
+    "gn:country_code":"NG",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10877146,
+    "gn:latitude":8.75507,
+    "gn:longitude":11.46536,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kassa Kuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10877146
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"92193f85c5b412d3d6f34c0941337771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1259816555,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259816555,
+    "wof:lastmodified":1536874750,
+    "wof:name":"Kassa Kuru",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.46536,
+    8.75507,
+    11.46536,
+    8.75507
+],
+  "geometry": {"coordinates":[11.46536,8.75507],"type":"Point"}
+}

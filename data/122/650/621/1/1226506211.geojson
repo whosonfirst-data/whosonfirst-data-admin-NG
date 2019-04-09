@@ -1,0 +1,68 @@
+{
+  "id": 1226506211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.4138,6.39257,4.4138,6.39257",
+    "geom:latitude":6.39257,
+    "geom:longitude":4.4138,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28018.0",
+    "gn:asciiname":"Awodikora",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969439,
+    "gn:latitude":6.39257,
+    "gn:longitude":4.4138,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awodikora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108564127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969439
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6e45b857cad03f5fa3ba38ce2bd9cafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564127,
+            "locality_id":1226506211,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1226506211,
+    "wof:lastmodified":1537052887,
+    "wof:name":"Awodikora",
+    "wof:parent_id":1108564127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4138,
+    6.39257,
+    4.4138,
+    6.39257
+],
+  "geometry": {"coordinates":[4.4138,6.39257],"type":"Point"}
+}

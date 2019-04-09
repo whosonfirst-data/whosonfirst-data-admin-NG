@@ -1,0 +1,73 @@
+{
+  "id": 1293043351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.46349,11.24574,5.46349,11.24574",
+    "geom:latitude":11.24574,
+    "geom:longitude":5.46349,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"516.0",
+    "gn:admin3_code":"51609",
+    "gn:asciiname":"Dirindaji",
+    "gn:country_code":"NG",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344772,
+    "gn:latitude":11.24574,
+    "gn:longitude":5.46349,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dirindaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dirinbaji",
+        "Dirindaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344772
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f23d4ac7c50843c68dd9951715d1690d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564325,
+            "locality_id":1293043351,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1293043351,
+    "wof:lastmodified":1537675301,
+    "wof:name":"Dirindaji",
+    "wof:parent_id":1108564325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.46349,
+    11.24574,
+    5.46349,
+    11.24574
+],
+  "geometry": {"coordinates":[5.46349,11.24574],"type":"Point"}
+}

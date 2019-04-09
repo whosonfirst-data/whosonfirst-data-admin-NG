@@ -1,0 +1,68 @@
+{
+  "id": 1326457959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.00996,7.41298,10.00996,7.41298",
+    "geom:latitude":7.41298,
+    "geom:longitude":10.00996,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012.0",
+    "gn:asciiname":"Kuse",
+    "gn:country_code":"NG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333105,
+    "gn:latitude":7.41298,
+    "gn:longitude":10.00996,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kuse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333105
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"013241aa657f8f4009585444d97b9003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1326457959,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1326457959,
+    "wof:lastmodified":1537087959,
+    "wof:name":"Kuse",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.00996,
+    7.41298,
+    10.00996,
+    7.41298
+],
+  "geometry": {"coordinates":[10.00996,7.41298],"type":"Point"}
+}

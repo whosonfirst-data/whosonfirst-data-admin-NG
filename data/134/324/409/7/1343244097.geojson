@@ -1,0 +1,68 @@
+{
+  "id": 1343244097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.1,7.15,3.1,7.15",
+    "geom:latitude":7.15,
+    "geom:longitude":3.1,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28001.0",
+    "gn:asciiname":"Alade",
+    "gn:country_code":"NG",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350755,
+    "gn:latitude":7.15,
+    "gn:longitude":3.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        421187947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350755
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f377345949658ddb4272ac31983346a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421187947,
+            "locality_id":1343244097,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1343244097,
+    "wof:lastmodified":1537056162,
+    "wof:name":"Alade",
+    "wof:parent_id":421187947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.1,
+    7.15,
+    3.1,
+    7.15
+],
+  "geometry": {"coordinates":[3.1,7.15],"type":"Point"}
+}

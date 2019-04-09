@@ -1,0 +1,67 @@
+{
+  "id": 1259341009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.68624,10.7055,8.68624,10.7055",
+    "geom:latitude":10.7055,
+    "geom:longitude":8.68624,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Magangani",
+    "gn:country_code":"NG",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331573,
+    "gn:latitude":10.7055,
+    "gn:longitude":8.68624,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Magangani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331573
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8254355f5f615d3b4f9031c1d0da1a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563235,
+            "locality_id":1259341009,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1259341009,
+    "wof:lastmodified":1537060822,
+    "wof:name":"Magangani",
+    "wof:parent_id":1108563235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.68624,
+    10.7055,
+    8.68624,
+    10.7055
+],
+  "geometry": {"coordinates":[8.68624,10.7055],"type":"Point"}
+}

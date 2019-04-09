@@ -1,0 +1,64 @@
+{
+  "id": 1209347549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.12074,9.2827,11.12074,9.2827",
+    "geom:latitude":9.2827,
+    "geom:longitude":11.12074,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Ungwar Waziri",
+    "gn:country_code":"NG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307784,
+    "gn:latitude":9.2827,
+    "gn:longitude":11.12074,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ungwar Waziri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ungwar Waziri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307784
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e749d9c53cee5f6cb70af052f81829b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347549
+        }
+    ],
+    "wof:id":1209347549,
+    "wof:lastmodified":1537675524,
+    "wof:name":"Ungwar Waziri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.12074,
+    9.2827,
+    11.12074,
+    9.2827
+],
+  "geometry": {"coordinates":[11.12074,9.2827],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259811931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.75241,11.17756,9.75241,11.17756",
+    "geom:latitude":11.17756,
+    "geom:longitude":9.75241,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5019.0",
+    "gn:admin3_code":"BA1906",
+    "gn:asciiname":"Warji",
+    "gn:country_code":"NG",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2334835,
+    "gn:latitude":11.17756,
+    "gn:longitude":9.75241,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Warji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katangan Warji",
+        "Katanga Warji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334835
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7262bed7ea094168aab5566c0b5051dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564495,
+            "locality_id":1259811931,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1259811931,
+    "wof:lastmodified":1537675147,
+    "wof:name":"Warji",
+    "wof:parent_id":1108564495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.75241,
+    11.17756,
+    9.75241,
+    11.17756
+],
+  "geometry": {"coordinates":[9.75241,11.17756],"type":"Point"}
+}

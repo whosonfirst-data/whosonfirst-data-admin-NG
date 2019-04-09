@@ -1,0 +1,68 @@
+{
+  "id": 1243413773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.94778,7.74611,3.94778,7.74611",
+    "geom:latitude":7.74611,
+    "geom:longitude":3.94778,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31001.0",
+    "gn:asciiname":"Japota",
+    "gn:country_code":"NG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591357,
+    "gn:latitude":7.74611,
+    "gn:longitude":3.94778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Japota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591357
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36a8bc812c699de4f1c42b164cf52aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562925,
+            "locality_id":1243413773,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1243413773,
+    "wof:lastmodified":1536851584,
+    "wof:name":"Japota",
+    "wof:parent_id":1108562925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.94778,
+    7.74611,
+    3.94778,
+    7.74611
+],
+  "geometry": {"coordinates":[3.94778,7.74611],"type":"Point"}
+}

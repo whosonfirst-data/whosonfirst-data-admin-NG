@@ -1,0 +1,68 @@
+{
+  "id": 1293912851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.27045,6.41568,8.27045,6.41568",
+    "geom:latitude":6.41568,
+    "geom:longitude":8.27045,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010.0",
+    "gn:asciiname":"Izicha",
+    "gn:country_code":"NG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336740,
+    "gn:latitude":6.41568,
+    "gn:longitude":8.27045,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Izicha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336740
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cdfc64f63fa4a8662f6df5cd500f6566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563709,
+            "locality_id":1293912851,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1293912851,
+    "wof:lastmodified":1536671098,
+    "wof:name":"Izicha",
+    "wof:parent_id":1108563709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.27045,
+    6.41568,
+    8.27045,
+    6.41568
+],
+  "geometry": {"coordinates":[8.27045,6.41568],"type":"Point"}
+}

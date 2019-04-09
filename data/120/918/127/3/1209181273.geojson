@@ -1,0 +1,62 @@
+{
+  "id": 1209181273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.64075,7.06763,8.64075,7.06763",
+    "geom:latitude":7.06763,
+    "geom:longitude":8.64075,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Haan",
+    "gn:country_code":"NG",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339636,
+    "gn:latitude":7.06763,
+    "gn:longitude":8.64075,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Haan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339636
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"500a2c84a44da9bed1f63571d840e327",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209181273
+        }
+    ],
+    "wof:id":1209181273,
+    "wof:lastmodified":1536295250,
+    "wof:name":"Haan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64075,
+    7.06763,
+    8.64075,
+    7.06763
+],
+  "geometry": {"coordinates":[8.64075,7.06763],"type":"Point"}
+}

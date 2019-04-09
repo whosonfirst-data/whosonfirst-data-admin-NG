@@ -1,0 +1,67 @@
+{
+  "id": 1277010903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.64361,12.58646,8.64361,12.58646",
+    "geom:latitude":12.58646,
+    "geom:longitude":8.64361,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Dankarda",
+    "gn:country_code":"NG",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345276,
+    "gn:latitude":12.58646,
+    "gn:longitude":8.64361,
+    "gn:modification_date":"2009-02-02",
+    "gn:name":"Dankarda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345276
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"06d2f0fa9000a9c12a7f6fa798a35822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563199,
+            "locality_id":1277010903,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1277010903,
+    "wof:lastmodified":1536864270,
+    "wof:name":"Dankarda",
+    "wof:parent_id":1108563199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64361,
+    12.58646,
+    8.64361,
+    12.58646
+],
+  "geometry": {"coordinates":[8.64361,12.58646],"type":"Point"}
+}

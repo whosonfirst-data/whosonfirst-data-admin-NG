@@ -1,0 +1,68 @@
+{
+  "id": 1327017601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50722,8.89722,7.50722,8.89722",
+    "geom:latitude":8.89722,
+    "geom:longitude":7.50722,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Sape",
+    "gn:country_code":"NG",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591014,
+    "gn:latitude":8.89722,
+    "gn:longitude":7.50722,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sape",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        421178395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591014
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf1c22b0ebde389ed13c30a29330e065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":1327017601,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1327017601,
+    "wof:lastmodified":1536782339,
+    "wof:name":"Sape",
+    "wof:parent_id":421178395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50722,
+    8.89722,
+    7.50722,
+    8.89722
+],
+  "geometry": {"coordinates":[7.50722,8.89722],"type":"Point"}
+}

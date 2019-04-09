@@ -1,0 +1,68 @@
+{
+  "id": 1260212129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33651,8.52205,11.33651,8.52205",
+    "geom:latitude":8.52205,
+    "geom:longitude":11.33651,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002",
+    "gn:asciiname":"Mayayi",
+    "gn:country_code":"NG",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10878831,
+    "gn:latitude":8.52205,
+    "gn:longitude":11.33651,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mayayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10878831
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e4b177b908708bade09dd8f9209f0ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563083,
+            "locality_id":1260212129,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1260212129,
+    "wof:lastmodified":1536808502,
+    "wof:name":"Mayayi",
+    "wof:parent_id":1108563083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33651,
+    8.52205,
+    11.33651,
+    8.52205
+],
+  "geometry": {"coordinates":[11.33651,8.52205],"type":"Point"}
+}

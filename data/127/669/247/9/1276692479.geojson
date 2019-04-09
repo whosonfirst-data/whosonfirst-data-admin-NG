@@ -1,0 +1,73 @@
+{
+  "id": 1276692479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15756,13.44654,5.15756,13.44654",
+    "geom:latitude":13.44654,
+    "geom:longitude":5.15756,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"619.0",
+    "gn:admin3_code":"61905",
+    "gn:asciiname":"Raka",
+    "gn:country_code":"NG",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324609,
+    "gn:latitude":13.44654,
+    "gn:longitude":5.15756,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Raka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raka Birni",
+        "Raka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324609
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47bf87bfa22f5252f489d2bdfae75864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564403,
+            "locality_id":1276692479,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1276692479,
+    "wof:lastmodified":1537675004,
+    "wof:name":"Raka",
+    "wof:parent_id":1108564403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15756,
+    13.44654,
+    5.15756,
+    13.44654
+],
+  "geometry": {"coordinates":[5.15756,13.44654],"type":"Point"}
+}

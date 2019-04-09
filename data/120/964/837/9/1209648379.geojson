@@ -1,0 +1,67 @@
+{
+  "id": 1209648379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.70143,12.87829,10.70143,12.87829",
+    "geom:latitude":12.87829,
+    "geom:longitude":10.70143,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"710.0",
+    "gn:admin3_code":"71004",
+    "gn:asciiname":"Girimari",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340605,
+    "gn:latitude":12.87829,
+    "gn:longitude":10.70143,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Girimari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Girimiri",
+        "Girimari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340605
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"123c4768e782a840e5194a13a43924b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648379
+        }
+    ],
+    "wof:id":1209648379,
+    "wof:lastmodified":1537675228,
+    "wof:name":"Girimari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.70143,
+    12.87829,
+    10.70143,
+    12.87829
+],
+  "geometry": {"coordinates":[10.70143,12.87829],"type":"Point"}
+}

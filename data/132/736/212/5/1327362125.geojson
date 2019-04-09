@@ -1,0 +1,68 @@
+{
+  "id": 1327362125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.08333,6.2,5.08333,6.2",
+    "geom:latitude":6.2,
+    "geom:longitude":5.08333,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29007.0",
+    "gn:asciiname":"Kurukurugbene",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333128,
+    "gn:latitude":6.2,
+    "gn:longitude":5.08333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kurukurugbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333128
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"71d8d88c2bc03108d5a99a3f3284636e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563323,
+            "locality_id":1327362125,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1327362125,
+    "wof:lastmodified":1536782958,
+    "wof:name":"Kurukurugbene",
+    "wof:parent_id":1108563323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.08333,
+    6.2,
+    5.08333,
+    6.2
+],
+  "geometry": {"coordinates":[5.08333,6.2],"type":"Point"}
+}

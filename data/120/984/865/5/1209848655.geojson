@@ -1,0 +1,68 @@
+{
+  "id": 1209848655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.85,9.35,4.85,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":4.85,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27017.0",
+    "gn:asciiname":"Gumbu",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340094,
+    "gn:latitude":9.35,
+    "gn:longitude":4.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340094
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"651e3ff37cf5493a1bf9217a896f543c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563987,
+            "locality_id":1209848655,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1209848655,
+    "wof:lastmodified":1536389482,
+    "wof:name":"Gumbu",
+    "wof:parent_id":1108563987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.85,
+    9.35,
+    4.85,
+    9.35
+],
+  "geometry": {"coordinates":[4.85,9.35],"type":"Point"}
+}

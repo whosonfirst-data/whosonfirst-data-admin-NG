@@ -1,0 +1,62 @@
+{
+  "id": 1209254915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25047,10.10637,13.25047,10.10637",
+    "geom:latitude":10.10637,
+    "geom:longitude":13.25047,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Nduku",
+    "gn:country_code":"NG",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329172,
+    "gn:latitude":10.10637,
+    "gn:longitude":13.25047,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nduku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329172
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b73a937c79ea4e589f6e4c30f09f9360",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209254915
+        }
+    ],
+    "wof:id":1209254915,
+    "wof:lastmodified":1536292884,
+    "wof:name":"Nduku",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.250470000000002,
+    10.10637,
+    13.250470000000002,
+    10.10637
+],
+  "geometry": {"coordinates":[13.25047,10.10637],"type":"Point"}
+}

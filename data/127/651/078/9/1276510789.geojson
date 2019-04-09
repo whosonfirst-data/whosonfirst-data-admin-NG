@@ -1,0 +1,68 @@
+{
+  "id": 1276510789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06667,7.11667,4.06667,7.11667",
+    "geom:latitude":7.11667,
+    "geom:longitude":4.06667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28009.0",
+    "gn:asciiname":"Alapinni",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350558,
+    "gn:latitude":7.11667,
+    "gn:longitude":4.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alapinni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350558
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ebed81b4c160d550fa19f0d3cadbbd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563573,
+            "locality_id":1276510789,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1276510789,
+    "wof:lastmodified":1537036844,
+    "wof:name":"Alapinni",
+    "wof:parent_id":1108563573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06667,
+    7.11667,
+    4.06667,
+    7.11667
+],
+  "geometry": {"coordinates":[4.06667,7.11667],"type":"Point"}
+}

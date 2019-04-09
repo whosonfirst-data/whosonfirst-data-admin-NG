@@ -1,0 +1,68 @@
+{
+  "id": 1242999683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85707,4.39392,5.85707,4.39392",
+    "geom:latitude":4.39392,
+    "geom:longitude":5.85707,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6001.0",
+    "gn:asciiname":"Abadikiri",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040418,
+    "gn:latitude":4.39392,
+    "gn:longitude":5.85707,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Abadikiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abadikiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040418
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d038789ead4686d0a13df7484fd3ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "locality_id":1242999683,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242999683,
+    "wof:lastmodified":1537675433,
+    "wof:name":"Abadikiri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85707,
+    4.39392,
+    5.85707,
+    4.39392
+],
+  "geometry": {"coordinates":[5.85707,4.39392],"type":"Point"}
+}

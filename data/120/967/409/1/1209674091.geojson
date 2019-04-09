@@ -1,0 +1,62 @@
+{
+  "id": 1209674091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64704,4.99221,7.64704,4.99221",
+    "geom:latitude":4.99221,
+    "geom:longitude":7.64704,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3006.0",
+    "gn:asciiname":"Utu Ikot Onko",
+    "gn:country_code":"NG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319517,
+    "gn:latitude":4.99221,
+    "gn:longitude":7.64704,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Utu Ikot Onko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319517
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2345f4852795d0caa58c87af2f802af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209674091
+        }
+    ],
+    "wof:id":1209674091,
+    "wof:lastmodified":1536279816,
+    "wof:name":"Utu Ikot Onko",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64704,
+    4.99221,
+    7.64704,
+    4.99221
+],
+  "geometry": {"coordinates":[7.64704,4.99221],"type":"Point"}
+}

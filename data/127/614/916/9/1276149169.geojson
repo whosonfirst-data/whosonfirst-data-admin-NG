@@ -1,0 +1,68 @@
+{
+  "id": 1276149169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64528,9.53833,6.64528,9.53833",
+    "geom:latitude":9.53833,
+    "geom:longitude":6.64528,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27005",
+    "gn:asciiname":"River Jikwo",
+    "gn:country_code":"NG",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410351,
+    "gn:latitude":9.53833,
+    "gn:longitude":6.64528,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"River Jikwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410351
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"41b06959577faf6e288930f6d68f3731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563157,
+            "locality_id":1276149169,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276149169,
+    "wof:lastmodified":1537024537,
+    "wof:name":"River Jikwo",
+    "wof:parent_id":1108563157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64528,
+    9.53833,
+    6.64528,
+    9.53833
+],
+  "geometry": {"coordinates":[6.64528,9.53833],"type":"Point"}
+}

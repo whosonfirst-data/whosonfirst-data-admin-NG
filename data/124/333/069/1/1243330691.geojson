@@ -1,0 +1,68 @@
+{
+  "id": 1243330691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55801,7.02395,8.55801,7.02395",
+    "geom:latitude":7.02395,
+    "geom:longitude":8.55801,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Asande",
+    "gn:country_code":"NG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349243,
+    "gn:latitude":7.02395,
+    "gn:longitude":8.55801,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Asande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349243
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9fdbd391aa501551d77411d7ef49807a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1243330691,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243330691,
+    "wof:lastmodified":1536972154,
+    "wof:name":"Asande",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55801,
+    7.02395,
+    8.55801,
+    7.02395
+],
+  "geometry": {"coordinates":[8.55801,7.02395],"type":"Point"}
+}

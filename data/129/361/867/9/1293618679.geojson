@@ -1,0 +1,67 @@
+{
+  "id": 1293618679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.19625,10.02089,9.19625,10.02089",
+    "geom:latitude":10.02089,
+    "geom:longitude":9.19625,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Feru",
+    "gn:country_code":"NG",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342639,
+    "gn:latitude":10.02089,
+    "gn:longitude":9.19625,
+    "gn:modification_date":"2008-08-28",
+    "gn:name":"Feru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342639
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ffc45e81bc77ee1cb8373079d94dae8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563729,
+            "locality_id":1293618679,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1293618679,
+    "wof:lastmodified":1537092003,
+    "wof:name":"Feru",
+    "wof:parent_id":1108563729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.19625,
+    10.02089,
+    9.19625,
+    10.02089
+],
+  "geometry": {"coordinates":[9.19625,10.02089],"type":"Point"}
+}

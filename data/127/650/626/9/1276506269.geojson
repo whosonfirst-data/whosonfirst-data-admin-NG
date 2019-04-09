@@ -1,0 +1,68 @@
+{
+  "id": 1276506269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.03333,7.63333,4.03333,7.63333",
+    "geom:latitude":7.63333,
+    "geom:longitude":4.03333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Durojaiye",
+    "gn:country_code":"NG",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344279,
+    "gn:latitude":7.63333,
+    "gn:longitude":4.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Durojaiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344279
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7cb52520d27cfbb3043a9b8dd0ca59dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1276506269,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1276506269,
+    "wof:lastmodified":1537042725,
+    "wof:name":"Durojaiye",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03333,
+    7.63333,
+    4.03333,
+    7.63333
+],
+  "geometry": {"coordinates":[4.03333,7.63333],"type":"Point"}
+}

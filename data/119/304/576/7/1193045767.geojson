@@ -1,0 +1,71 @@
+{
+  "id": 1193045767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.24684,7.36838,5.24684,7.36838",
+    "geom:latitude":7.36838,
+    "geom:longitude":5.24684,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29005.0",
+    "gn:asciiname":"Ita-Ogbolu",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2337057,
+    "gn:latitude":7.36838,
+    "gn:longitude":5.24684,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ita-Ogbolu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itaogbolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337057
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e5c62dc51e8cb17cd2f3ab03d9628199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562983,
+            "locality_id":1193045767,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1193045767,
+    "wof:lastmodified":1537675176,
+    "wof:name":"Ita-Ogbolu",
+    "wof:parent_id":1108562983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.24684,
+    7.36838,
+    5.24684,
+    7.36838
+],
+  "geometry": {"coordinates":[5.24684,7.36838],"type":"Point"}
+}

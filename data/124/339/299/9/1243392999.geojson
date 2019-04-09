@@ -1,0 +1,73 @@
+{
+  "id": 1243392999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.82846,12.83372,4.82846,12.83372",
+    "geom:latitude":12.83372,
+    "geom:longitude":4.82846,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"623.0",
+    "gn:admin3_code":"62303",
+    "gn:asciiname":"Yakanari",
+    "gn:country_code":"NG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318476,
+    "gn:latitude":12.83372,
+    "gn:longitude":4.82846,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yakanari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakunari",
+        "Yakanari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318476
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"da43d667cabec75a5ca36c6f2a56f376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564519,
+            "locality_id":1243392999,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1243392999,
+    "wof:lastmodified":1537674907,
+    "wof:name":"Yakanari",
+    "wof:parent_id":1108564519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.82846,
+    12.83372,
+    4.82846,
+    12.83372
+],
+  "geometry": {"coordinates":[4.82846,12.83372],"type":"Point"}
+}

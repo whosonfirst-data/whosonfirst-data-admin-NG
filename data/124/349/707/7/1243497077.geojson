@@ -1,0 +1,72 @@
+{
+  "id": 1243497077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56102,6.76191,5.56102,6.76191",
+    "geom:latitude":6.76191,
+    "geom:longitude":5.56102,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12014.0",
+    "gn:asciiname":"Ogbesse",
+    "gn:country_code":"NG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327768,
+    "gn:latitude":6.76191,
+    "gn:longitude":5.56102,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogbesse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogbese",
+        "Ogbesse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327768
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7750cae7d19cd26f11f712c72ddf4315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564241,
+            "locality_id":1243497077,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243497077,
+    "wof:lastmodified":1537675054,
+    "wof:name":"Ogbesse",
+    "wof:parent_id":1108564241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56102,
+    6.76191,
+    5.56102,
+    6.76191
+],
+  "geometry": {"coordinates":[5.56102,6.76191],"type":"Point"}
+}

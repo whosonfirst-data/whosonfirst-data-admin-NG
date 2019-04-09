@@ -1,0 +1,72 @@
+{
+  "id": 1310145989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.14511,9.24191,12.14511,9.24191",
+    "geom:latitude":9.24191,
+    "geom:longitude":12.14511,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Gongoshi Ibarre",
+    "gn:country_code":"NG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340411,
+    "gn:latitude":9.24191,
+    "gn:longitude":12.14511,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Gongoshi Ibarre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibarre",
+        "Gongoshi Ibarre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340411
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"840144e8bfea041a3928db9099f2e9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1310145989,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310145989,
+    "wof:lastmodified":1537675226,
+    "wof:name":"Gongoshi Ibarre",
+    "wof:parent_id":1108564541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.14511,
+    9.24191,
+    12.14511,
+    9.24191
+],
+  "geometry": {"coordinates":[12.14511,9.24191],"type":"Point"}
+}

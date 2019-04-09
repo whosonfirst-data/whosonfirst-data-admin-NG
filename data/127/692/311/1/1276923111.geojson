@@ -1,0 +1,68 @@
+{
+  "id": 1276923111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.10222,5.66485,7.10222,5.66485",
+    "geom:latitude":5.66485,
+    "geom:longitude":7.10222,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17009.0",
+    "gn:asciiname":"Amawzari",
+    "gn:country_code":"NG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350151,
+    "gn:latitude":5.66485,
+    "gn:longitude":7.10222,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amawzari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350151
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02eb1c29f45b81ca0c454cf4f0b179a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563675,
+            "locality_id":1276923111,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1276923111,
+    "wof:lastmodified":1536982603,
+    "wof:name":"Amawzari",
+    "wof:parent_id":1108563675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.10222,
+    5.66485,
+    7.10222,
+    5.66485
+],
+  "geometry": {"coordinates":[7.10222,5.66485],"type":"Point"}
+}

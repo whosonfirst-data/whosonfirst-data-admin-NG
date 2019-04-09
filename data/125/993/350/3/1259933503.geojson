@@ -1,0 +1,68 @@
+{
+  "id": 1259933503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.06667,8.25,12.06667,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":12.06667,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Jelvani",
+    "gn:country_code":"NG",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336211,
+    "gn:latitude":8.25,
+    "gn:longitude":12.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jelvani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336211
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"26187b9e2338376ab79b2f5addfaddd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563389,
+            "locality_id":1259933503,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259933503,
+    "wof:lastmodified":1536707579,
+    "wof:name":"Jelvani",
+    "wof:parent_id":1108563389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.06667,
+    8.25,
+    12.06667,
+    8.25
+],
+  "geometry": {"coordinates":[12.06667,8.25],"type":"Point"}
+}

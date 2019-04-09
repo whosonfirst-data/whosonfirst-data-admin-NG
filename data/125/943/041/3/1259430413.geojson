@@ -1,0 +1,68 @@
+{
+  "id": 1259430413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.65728,7.51798,9.65728,7.51798",
+    "geom:latitude":7.51798,
+    "geom:longitude":9.65728,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Usaal",
+    "gn:country_code":"NG",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531470,
+    "gn:latitude":7.51798,
+    "gn:longitude":9.65728,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Usaal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531470
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e398ee284ad4d509484e21245194d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564451,
+            "locality_id":1259430413,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259430413,
+    "wof:lastmodified":1536935829,
+    "wof:name":"Usaal",
+    "wof:parent_id":1108564451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.65728,
+    7.51798,
+    9.65728,
+    7.51798
+],
+  "geometry": {"coordinates":[9.65728,7.51798],"type":"Point"}
+}

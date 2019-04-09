@@ -1,0 +1,73 @@
+{
+  "id": 1309938999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.31471,12.35215,9.31471,12.35215",
+    "geom:latitude":12.35215,
+    "geom:longitude":9.31471,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18024.0",
+    "gn:admin3_code":"JI0811",
+    "gn:asciiname":"Maza",
+    "gn:country_code":"NG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340836,
+    "gn:latitude":12.35215,
+    "gn:longitude":9.31471,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Maza",
+        "Maza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340836
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"04e3f10eb2dfa15fe144ab68e506ba09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563393,
+            "locality_id":1309938999,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1309938999,
+    "wof:lastmodified":1537675234,
+    "wof:name":"Maza",
+    "wof:parent_id":1108563393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.31471,
+    12.35215,
+    9.31471,
+    12.35215
+],
+  "geometry": {"coordinates":[9.31471,12.35215],"type":"Point"}
+}

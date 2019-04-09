@@ -1,0 +1,68 @@
+{
+  "id": 1259716587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.65976,5.81879,7.65976,5.81879",
+    "geom:latitude":5.81879,
+    "geom:longitude":7.65976,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Ogo-Ubi",
+    "gn:country_code":"NG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073234,
+    "gn:latitude":5.81879,
+    "gn:longitude":7.65976,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogo-Ubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        421183311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073234
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"42eb4d69a12e4001b4b2d2f2ea98837c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183311,
+            "locality_id":1259716587,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1259716587,
+    "wof:lastmodified":1537018647,
+    "wof:name":"Ogo-Ubi",
+    "wof:parent_id":421183311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.65976,
+    5.81879,
+    7.65976,
+    5.81879
+],
+  "geometry": {"coordinates":[7.65976,5.81879],"type":"Point"}
+}

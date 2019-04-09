@@ -1,0 +1,69 @@
+{
+  "id": 1327176553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.8139,11.10383,4.8139,11.10383",
+    "geom:latitude":11.10383,
+    "geom:longitude":4.8139,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"517.0",
+    "gn:admin3_code":"51706",
+    "gn:asciiname":"Hama",
+    "gn:country_code":"NG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020775,
+    "gn:latitude":11.10383,
+    "gn:longitude":4.8139,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020775
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5136eed53e0a0d0a496ab8144af62889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564347,
+            "locality_id":1327176553,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1327176553,
+    "wof:lastmodified":1537048240,
+    "wof:name":"Hama",
+    "wof:parent_id":1108564347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8139,
+    11.10383,
+    4.8139,
+    11.10383
+],
+  "geometry": {"coordinates":[4.8139,11.10383],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226569107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.18458,4.75011,7.18458,4.75011",
+    "geom:latitude":4.75011,
+    "geom:longitude":7.18458,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33009.0",
+    "gn:asciiname":"Eteo",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343064,
+    "gn:latitude":4.75011,
+    "gn:longitude":7.18458,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eteo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eteu",
+        "Eteo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343064
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca80c9001604f053dbef951c015a8a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563301,
+            "locality_id":1226569107,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1226569107,
+    "wof:lastmodified":1537675272,
+    "wof:name":"Eteo",
+    "wof:parent_id":1108563301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.18458,
+    4.75011,
+    7.18458,
+    4.75011
+],
+  "geometry": {"coordinates":[7.18458,4.75011],"type":"Point"}
+}

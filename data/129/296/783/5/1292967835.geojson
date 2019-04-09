@@ -1,0 +1,68 @@
+{
+  "id": 1292967835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54838,7.17782,8.54838,7.17782",
+    "geom:latitude":7.17782,
+    "geom:longitude":8.54838,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Adima",
+    "gn:country_code":"NG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352403,
+    "gn:latitude":7.17782,
+    "gn:longitude":8.54838,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352403
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d31307d2f7b1e321a8a89bdf1e2358c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1292967835,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1292967835,
+    "wof:lastmodified":1537037637,
+    "wof:name":"Adima",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54838,
+    7.17782,
+    8.54838,
+    7.17782
+],
+  "geometry": {"coordinates":[8.54838,7.17782],"type":"Point"}
+}

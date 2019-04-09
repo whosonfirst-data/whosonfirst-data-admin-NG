@@ -1,0 +1,68 @@
+{
+  "id": 1209971165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8822,7.20005,8.8822,7.20005",
+    "geom:latitude":7.20005,
+    "geom:longitude":8.8822,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Agba",
+    "gn:country_code":"NG",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352118,
+    "gn:latitude":7.20005,
+    "gn:longitude":8.8822,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352118
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0ebb82f1fc8d925a0567aa416415b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1209971165,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1209971165,
+    "wof:lastmodified":1536394970,
+    "wof:name":"Agba",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8822,
+    7.20005,
+    8.8822,
+    7.20005
+],
+  "geometry": {"coordinates":[8.8822,7.20005],"type":"Point"}
+}

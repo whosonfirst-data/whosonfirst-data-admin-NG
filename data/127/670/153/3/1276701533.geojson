@@ -1,0 +1,68 @@
+{
+  "id": 1276701533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38333,7.6,3.38333,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":3.38333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31012.0",
+    "gn:asciiname":"Sobaloju",
+    "gn:country_code":"NG",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322955,
+    "gn:latitude":7.6,
+    "gn:longitude":3.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sobaloju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322955
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b0a036feb0bf960d35c0dd7236c5c68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563501,
+            "locality_id":1276701533,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1276701533,
+    "wof:lastmodified":1536782830,
+    "wof:name":"Sobaloju",
+    "wof:parent_id":1108563501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.38333,
+    7.6,
+    3.38333,
+    7.6
+],
+  "geometry": {"coordinates":[3.38333,7.6],"type":"Point"}
+}

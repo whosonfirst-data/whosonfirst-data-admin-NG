@@ -1,0 +1,69 @@
+{
+  "id": 1260213335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.07858,12.98219,12.07858,12.98219",
+    "geom:latitude":12.98219,
+    "geom:longitude":12.07858,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"716.0",
+    "gn:admin3_code":"71601",
+    "gn:asciiname":"Bagayam",
+    "gn:country_code":"NG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348289,
+    "gn:latitude":12.98219,
+    "gn:longitude":12.07858,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bagayam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348289
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"85e5f9868d7495e7b8ecc7383a9e961d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564547,
+            "locality_id":1260213335,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1260213335,
+    "wof:lastmodified":1536806976,
+    "wof:name":"Bagayam",
+    "wof:parent_id":1108564547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.07858,
+    12.98219,
+    12.07858,
+    12.98219
+],
+  "geometry": {"coordinates":[12.07858,12.98219],"type":"Point"}
+}

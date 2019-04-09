@@ -1,0 +1,62 @@
+{
+  "id": 1209443423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16667,8.18333,11.16667,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":11.16667,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Ganyo",
+    "gn:country_code":"NG",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341952,
+    "gn:latitude":8.18333,
+    "gn:longitude":11.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ganyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341952
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36a3ad9e38ffd356766c95e4af061d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443423
+        }
+    ],
+    "wof:id":1209443423,
+    "wof:lastmodified":1536286891,
+    "wof:name":"Ganyo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16667,
+    8.18333,
+    11.16667,
+    8.18333
+],
+  "geometry": {"coordinates":[11.16667,8.18333],"type":"Point"}
+}

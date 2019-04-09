@@ -1,0 +1,73 @@
+{
+  "id": 1360083471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.63123,6.5,3.63123,6.5",
+    "geom:latitude":6.5,
+    "geom:longitude":3.63123,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ito-Omu",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336993,
+    "gn:latitude":6.5,
+    "gn:longitude":3.63123,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ito-Omu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawmu",
+        "Itomu",
+        "Itawmu",
+        "Ito-Omu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        1108563313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336993
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"31443098cf0270764a4a55dd76906f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563313,
+            "locality_id":1360083471,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1360083471,
+    "wof:lastmodified":1537675175,
+    "wof:name":"Ito-Omu",
+    "wof:parent_id":1108563313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.63123,
+    6.5,
+    3.63123,
+    6.5
+],
+  "geometry": {"coordinates":[3.63123,6.5],"type":"Point"}
+}

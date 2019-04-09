@@ -1,0 +1,62 @@
+{
+  "id": 1209544009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00756,9.30074,6.00756,9.30074",
+    "geom:latitude":9.30074,
+    "geom:longitude":6.00756,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Ndaba",
+    "gn:country_code":"NG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329382,
+    "gn:latitude":9.30074,
+    "gn:longitude":6.00756,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329382
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3550d6c5dc88cf6086e34450b51d723c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544009
+        }
+    ],
+    "wof:id":1209544009,
+    "wof:lastmodified":1536283900,
+    "wof:name":"Ndaba",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00756,
+    9.30074,
+    6.00756,
+    9.30074
+],
+  "geometry": {"coordinates":[6.00756,9.30074],"type":"Point"}
+}

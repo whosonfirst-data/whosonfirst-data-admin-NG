@@ -1,0 +1,65 @@
+{
+  "id": 1209648311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78854,4.7453,6.78854,4.7453",
+    "geom:latitude":4.7453,
+    "geom:longitude":6.78854,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Krakrama",
+    "gn:country_code":"NG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826242,
+    "gn:latitude":4.7453,
+    "gn:longitude":6.78854,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Krakrama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kala-Krakrama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826242
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6c6400a457c605b412bae83fb4defbcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648311
+        }
+    ],
+    "wof:id":1209648311,
+    "wof:lastmodified":1537675407,
+    "wof:name":"Krakrama",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78854,
+    4.7453,
+    6.78854,
+    4.7453
+],
+  "geometry": {"coordinates":[6.78854,4.7453],"type":"Point"}
+}

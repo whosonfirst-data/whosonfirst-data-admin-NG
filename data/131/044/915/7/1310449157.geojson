@@ -1,0 +1,65 @@
+{
+  "id": 1310449157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.70735,10.95472,13.70735,10.95472",
+    "geom:latitude":10.95472,
+    "geom:longitude":13.70735,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11110",
+    "gn:asciiname":"Gesosawa",
+    "gn:country_code":"NG",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760572,
+    "gn:latitude":10.95472,
+    "gn:longitude":13.70735,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gesosawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760572
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4759ea124f13dce4658b604692a2e030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1310449157,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310449157,
+    "wof:lastmodified":1536997501,
+    "wof:name":"Gesosawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.70735,
+    10.95472,
+    13.70735,
+    10.95472
+],
+  "geometry": {"coordinates":[13.70735,10.95472],"type":"Point"}
+}

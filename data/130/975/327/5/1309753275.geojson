@@ -1,0 +1,68 @@
+{
+  "id": 1309753275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.29141,5.6796,7.29141,5.6796",
+    "geom:latitude":5.6796,
+    "geom:longitude":7.29141,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17003.0",
+    "gn:asciiname":"Umu Kabia",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320450,
+    "gn:latitude":5.6796,
+    "gn:longitude":7.29141,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umu Kabia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320450
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a89dc2e84c04d72acde13cb3f84b61fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563281,
+            "locality_id":1309753275,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1309753275,
+    "wof:lastmodified":1537006085,
+    "wof:name":"Umu Kabia",
+    "wof:parent_id":1108563281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.29141,
+    5.6796,
+    7.29141,
+    5.6796
+],
+  "geometry": {"coordinates":[7.29141,5.6796],"type":"Point"}
+}

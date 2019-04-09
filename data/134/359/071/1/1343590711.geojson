@@ -1,0 +1,71 @@
+{
+  "id": 1343590711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0212,8.90848,10.0212,8.90848",
+    "geom:latitude":8.90848,
+    "geom:longitude":10.0212,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32017.0",
+    "gn:asciiname":"Gidan Shehu",
+    "gn:country_code":"NG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340775,
+    "gn:latitude":8.90848,
+    "gn:longitude":10.0212,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Shehu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shehu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340775
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"71a50a612814398126b1c1ef8d011096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564507,
+            "locality_id":1343590711,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1343590711,
+    "wof:lastmodified":1537675231,
+    "wof:name":"Gidan Shehu",
+    "wof:parent_id":1108564507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0212,
+    8.90848,
+    10.0212,
+    8.90848
+],
+  "geometry": {"coordinates":[10.0212,8.90848],"type":"Point"}
+}

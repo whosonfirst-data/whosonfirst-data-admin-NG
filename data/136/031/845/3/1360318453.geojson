@@ -1,0 +1,72 @@
+{
+  "id": 1360318453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.84024,9.81114,9.84024,9.81114",
+    "geom:latitude":9.81114,
+    "geom:longitude":9.84024,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5017.0",
+    "gn:admin3_code":"BA1714",
+    "gn:asciiname":"Burga",
+    "gn:country_code":"NG",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346362,
+    "gn:latitude":9.81114,
+    "gn:longitude":9.84024,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Burga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Burga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346362
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a26bb24fb1690796709a9380b2234e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564391,
+            "locality_id":1360318453,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1360318453,
+    "wof:lastmodified":1537675319,
+    "wof:name":"Burga",
+    "wof:parent_id":1108564391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.84024,
+    9.81114,
+    9.84024,
+    9.81114
+],
+  "geometry": {"coordinates":[9.84024,9.81114],"type":"Point"}
+}

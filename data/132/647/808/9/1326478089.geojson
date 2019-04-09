@@ -1,0 +1,72 @@
+{
+  "id": 1326478089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.78832,6.90703,7.78832,6.90703",
+    "geom:latitude":6.90703,
+    "geom:longitude":7.78832,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7018.0",
+    "gn:asciiname":"Ichama",
+    "gn:country_code":"NG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338620,
+    "gn:latitude":6.90703,
+    "gn:longitude":7.78832,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ichama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ighama",
+        "Igbama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338620
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0b0df0a30e737d69f7b11455cbe19d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564163,
+            "locality_id":1326478089,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326478089,
+    "wof:lastmodified":1537675202,
+    "wof:name":"Ichama",
+    "wof:parent_id":1108564163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.78832,
+    6.90703,
+    7.78832,
+    6.90703
+],
+  "geometry": {"coordinates":[7.78832,6.90703],"type":"Point"}
+}

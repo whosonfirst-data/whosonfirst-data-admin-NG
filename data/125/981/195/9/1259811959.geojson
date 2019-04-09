@@ -1,0 +1,72 @@
+{
+  "id": 1259811959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.51357,12.61419,10.51357,12.61419",
+    "geom:latitude":12.61419,
+    "geom:longitude":10.51357,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18005.0",
+    "gn:admin3_code":"JI1006",
+    "gn:asciiname":"Kadira",
+    "gn:country_code":"NG",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335749,
+    "gn:latitude":12.61419,
+    "gn:longitude":10.51357,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kadira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335749
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f10b2165fc0a61b0bf75ea35dca8d019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563451,
+            "locality_id":1259811959,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1259811959,
+    "wof:lastmodified":1537675160,
+    "wof:name":"Kadira",
+    "wof:parent_id":1108563451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.51357,
+    12.61419,
+    10.51357,
+    12.61419
+],
+  "geometry": {"coordinates":[10.51357,12.61419],"type":"Point"}
+}

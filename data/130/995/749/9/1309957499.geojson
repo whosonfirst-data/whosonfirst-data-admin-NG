@@ -1,0 +1,77 @@
+{
+  "id": 1309957499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46082,6.86393,6.46082,6.86393",
+    "geom:latitude":6.86393,
+    "geom:longitude":6.46082,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Ebu",
+    "gn:country_code":"NG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344098,
+    "gn:latitude":6.86393,
+    "gn:longitude":6.46082,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ebu"
+    ],
+    "name:eng_x_variant":[
+        "Uzua"
+    ],
+    "name:und_x_variant":[
+        "Uzua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344098
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c8f1e1c4ab15d8f325f81ca8f556ffe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1309957499,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1309957499,
+    "wof:lastmodified":1537675290,
+    "wof:name":"Ebu",
+    "wof:parent_id":1108563317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46082,
+    6.86393,
+    6.46082,
+    6.86393
+],
+  "geometry": {"coordinates":[6.46082,6.86393],"type":"Point"}
+}

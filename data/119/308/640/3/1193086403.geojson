@@ -1,0 +1,68 @@
+{
+  "id": 1193086403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43333,8.66667,4.43333,8.66667",
+    "geom:latitude":8.66667,
+    "geom:longitude":4.43333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Sipata",
+    "gn:country_code":"NG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322988,
+    "gn:latitude":8.66667,
+    "gn:longitude":4.43333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sipata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322988
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0c2779e43dbe37df95a270fdfd16fd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563995,
+            "locality_id":1193086403,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1193086403,
+    "wof:lastmodified":1536375372,
+    "wof:name":"Sipata",
+    "wof:parent_id":1108563995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.43333,
+    8.66667,
+    4.43333,
+    8.66667
+],
+  "geometry": {"coordinates":[4.43333,8.66667],"type":"Point"}
+}

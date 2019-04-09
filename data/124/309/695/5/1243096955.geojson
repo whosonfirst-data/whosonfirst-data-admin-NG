@@ -1,0 +1,72 @@
+{
+  "id": 1243096955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.97447,6.3201,4.97447,6.3201",
+    "geom:latitude":6.3201,
+    "geom:longitude":4.97447,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29007.0",
+    "gn:asciiname":"Kekemeke-Oke",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334637,
+    "gn:latitude":6.3201,
+    "gn:longitude":4.97447,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kekemeke-Oke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keremeke-Oke",
+        "Kekemeke-Oke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334637
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"96933bc07287b57db9866139d43e0b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563323,
+            "locality_id":1243096955,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1243096955,
+    "wof:lastmodified":1537675144,
+    "wof:name":"Kekemeke-Oke",
+    "wof:parent_id":1108563323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.97447,
+    6.3201,
+    4.97447,
+    6.3201
+],
+  "geometry": {"coordinates":[4.97447,6.3201],"type":"Point"}
+}

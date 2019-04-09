@@ -1,0 +1,68 @@
+{
+  "id": 1343886509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.41133,8.85372,11.41133,8.85372",
+    "geom:latitude":8.85372,
+    "geom:longitude":11.41133,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015",
+    "gn:asciiname":"Kachala",
+    "gn:country_code":"NG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10876207,
+    "gn:latitude":8.85372,
+    "gn:longitude":11.41133,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kachala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10876207
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"294ab3a22827c5f2c347956599ae3e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1343886509,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343886509,
+    "wof:lastmodified":1536627370,
+    "wof:name":"Kachala",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.41133,
+    8.85372,
+    11.41133,
+    8.85372
+],
+  "geometry": {"coordinates":[11.41133,8.85372],"type":"Point"}
+}

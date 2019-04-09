@@ -1,0 +1,68 @@
+{
+  "id": 1242941797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.37887,6.05706,8.37887,6.05706",
+    "geom:latitude":6.05706,
+    "geom:longitude":8.37887,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9013",
+    "gn:asciiname":"Okpangut",
+    "gn:country_code":"NG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9275030,
+    "gn:latitude":6.05706,
+    "gn:longitude":8.37887,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpangut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9275030
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f1cdc246791e0c03bbfb664757ecda9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564085,
+            "locality_id":1242941797,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1242941797,
+    "wof:lastmodified":1537034753,
+    "wof:name":"Okpangut",
+    "wof:parent_id":1108564085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.37887,
+    6.05706,
+    8.37887,
+    6.05706
+],
+  "geometry": {"coordinates":[8.37887,6.05706],"type":"Point"}
+}

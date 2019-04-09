@@ -1,0 +1,71 @@
+{
+  "id": 1260009185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3502,9.17508,8.3502,9.17508",
+    "geom:latitude":9.17508,
+    "geom:longitude":8.3502,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26001.0",
+    "gn:asciiname":"Gbuja",
+    "gn:country_code":"NG",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340172,
+    "gn:latitude":9.17508,
+    "gn:longitude":8.3502,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbuja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108562989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340172
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ff84dff91b3018fd55c0fbf3f9c6df33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562989,
+            "locality_id":1260009185,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1260009185,
+    "wof:lastmodified":1537675223,
+    "wof:name":"Gbuja",
+    "wof:parent_id":1108562989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3502,
+    9.17508,
+    8.3502,
+    9.17508
+],
+  "geometry": {"coordinates":[8.3502,9.17508],"type":"Point"}
+}

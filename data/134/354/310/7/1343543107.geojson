@@ -1,0 +1,63 @@
+{
+  "id": 1343543107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43182,6.35041,4.43182,6.35041",
+    "geom:latitude":6.35041,
+    "geom:longitude":4.43182,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kesumeta",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334547,
+    "gn:latitude":6.35041,
+    "gn:longitude":4.43182,
+    "gn:modification_date":"2009-01-30",
+    "gn:name":"Kesumeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334547
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"956e13fa98c2f8b06759b24dba9e3883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343543107,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343543107,
+    "wof:lastmodified":1536625086,
+    "wof:name":"Kesumeta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.43182,
+    6.35041,
+    4.43182,
+    6.35041
+],
+  "geometry": {"coordinates":[4.43182,6.35041],"type":"Point"}
+}

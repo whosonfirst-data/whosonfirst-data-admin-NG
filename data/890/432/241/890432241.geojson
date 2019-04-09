@@ -1,0 +1,67 @@
+{
+  "id": 890432241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4479,11.7798,10.4479,11.7798",
+    "geom:latitude":11.7798,
+    "geom:longitude":10.4479,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":10015,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Madara",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331686,
+        "qs:id":278502,
+        "wk:page":"Madara"
+    },
+    "wof:country":"NG",
+    "wof:created":1469051933,
+    "wof:geomhash":"166dd66d3df7d3dc1a1196f4ff3f7fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563787,
+            "locality_id":890432241,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":890432241,
+    "wof:lastmodified":1527793040,
+    "wof:name":"Madara",
+    "wof:parent_id":1108563787,
+    "wof:placetype":"locality",
+    "wof:population":10015,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4479,
+    11.7798,
+    10.4479,
+    11.7798
+],
+  "geometry": {"coordinates":[10.4479,11.7798],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259840773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.91427,5.43969,6.91427,5.43969",
+    "geom:latitude":5.43969,
+    "geom:longitude":6.91427,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17026.0",
+    "gn:asciiname":"Obosima",
+    "gn:country_code":"NG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101318,
+    "gn:latitude":5.43969,
+    "gn:longitude":6.91427,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obosima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101318
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02e7703ea06626f4d23d8a42b1e25ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564253,
+            "locality_id":1259840773,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1259840773,
+    "wof:lastmodified":1536839779,
+    "wof:name":"Obosima",
+    "wof:parent_id":1108564253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.91427,
+    5.43969,
+    6.91427,
+    5.43969
+],
+  "geometry": {"coordinates":[6.91427,5.43969],"type":"Point"}
+}

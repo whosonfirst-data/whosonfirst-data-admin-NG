@@ -1,0 +1,68 @@
+{
+  "id": 1343295049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35,7.81667,4.35,7.81667",
+    "geom:latitude":7.81667,
+    "geom:longitude":4.35,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30010.0",
+    "gn:asciiname":"Aponla",
+    "gn:country_code":"NG",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349556,
+    "gn:latitude":7.81667,
+    "gn:longitude":4.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aponla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108563283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349556
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4e1f080f09d6140284a55af60f90d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563283,
+            "locality_id":1343295049,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1343295049,
+    "wof:lastmodified":1536984225,
+    "wof:name":"Aponla",
+    "wof:parent_id":1108563283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35,
+    7.81667,
+    4.35,
+    7.81667
+],
+  "geometry": {"coordinates":[4.35,7.81667],"type":"Point"}
+}

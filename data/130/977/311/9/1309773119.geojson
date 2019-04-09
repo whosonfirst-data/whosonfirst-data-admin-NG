@@ -1,0 +1,68 @@
+{
+  "id": 1309773119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3641,7.21476,9.3641,7.21476",
+    "geom:latitude":7.21476,
+    "geom:longitude":9.3641,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Zemgem",
+    "gn:country_code":"NG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639753,
+    "gn:latitude":7.21476,
+    "gn:longitude":9.3641,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zemgem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639753
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b13f36f7260570096c57d13acc0fb4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1309773119,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1309773119,
+    "wof:lastmodified":1536977755,
+    "wof:name":"Zemgem",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3641,
+    7.21476,
+    9.3641,
+    7.21476
+],
+  "geometry": {"coordinates":[9.3641,7.21476],"type":"Point"}
+}

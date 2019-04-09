@@ -1,0 +1,70 @@
+{
+  "id": 1242630875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02764,9.16765,12.02764,9.16765",
+    "geom:latitude":9.16765,
+    "geom:longitude":12.02764,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ibarre",
+    "gn:country_code":"NG",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189814,
+    "gn:latitude":9.16765,
+    "gn:longitude":12.02764,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ibarre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ibarre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189814
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"53eff888aaa421dcf4b6a3c35d98b6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1242630875,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1242630875,
+    "wof:lastmodified":1537675489,
+    "wof:name":"Ibarre",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02764,
+    9.16765,
+    12.02764,
+    9.16765
+],
+  "geometry": {"coordinates":[12.02764,9.16765],"type":"Point"}
+}

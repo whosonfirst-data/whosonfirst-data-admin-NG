@@ -1,0 +1,68 @@
+{
+  "id": 1309953437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63075,7.1219,8.63075,7.1219",
+    "geom:latitude":7.1219,
+    "geom:longitude":8.63075,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Tyorngurum",
+    "gn:country_code":"NG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321098,
+    "gn:latitude":7.1219,
+    "gn:longitude":8.63075,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tyorngurum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321098
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a93f914c6fa11498af90651e3d0b228a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1309953437,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1309953437,
+    "wof:lastmodified":1536718772,
+    "wof:name":"Tyorngurum",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63075,
+    7.1219,
+    8.63075,
+    7.1219
+],
+  "geometry": {"coordinates":[8.63075,7.1219],"type":"Point"}
+}

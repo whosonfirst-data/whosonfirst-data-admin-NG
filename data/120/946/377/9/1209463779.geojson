@@ -1,0 +1,62 @@
+{
+  "id": 1209463779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.92333,7.59667,3.92333,7.59667",
+    "geom:latitude":7.59667,
+    "geom:longitude":3.92333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Oyegun",
+    "gn:country_code":"NG",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325232,
+    "gn:latitude":7.59667,
+    "gn:longitude":3.92333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oyegun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325232
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"130febf75cc3e56df48c194c3860de91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209463779
+        }
+    ],
+    "wof:id":1209463779,
+    "wof:lastmodified":1536286302,
+    "wof:name":"Oyegun",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.92333,
+    7.59667,
+    3.92333,
+    7.59667
+],
+  "geometry": {"coordinates":[3.92333,7.59667],"type":"Point"}
+}

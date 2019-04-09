@@ -1,0 +1,71 @@
+{
+  "id": 1343700679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.70474,6.01181,5.70474,6.01181",
+    "geom:latitude":6.01181,
+    "geom:longitude":5.70474,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10006.0",
+    "gn:asciiname":"Ovade",
+    "gn:country_code":"NG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325402,
+    "gn:latitude":6.01181,
+    "gn:longitude":5.70474,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ovade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ovade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325402
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"536d944739e6e726f8fd504c4c852cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563335,
+            "locality_id":1343700679,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1343700679,
+    "wof:lastmodified":1537675014,
+    "wof:name":"Ovade",
+    "wof:parent_id":1108563335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.70474,
+    6.01181,
+    5.70474,
+    6.01181
+],
+  "geometry": {"coordinates":[5.70474,6.01181],"type":"Point"}
+}

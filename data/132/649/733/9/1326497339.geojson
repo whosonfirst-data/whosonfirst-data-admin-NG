@@ -1,0 +1,68 @@
+{
+  "id": 1326497339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99076,7.07449,8.99076,7.07449",
+    "geom:latitude":7.07449,
+    "geom:longitude":8.99076,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Byaku",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346235,
+    "gn:latitude":7.07449,
+    "gn:longitude":8.99076,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Byaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346235
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"facebd3e6490205323bb0f36f2a94d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1326497339,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326497339,
+    "wof:lastmodified":1537032968,
+    "wof:name":"Byaku",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99076,
+    7.07449,
+    8.99076,
+    7.07449
+],
+  "geometry": {"coordinates":[8.99076,7.07449],"type":"Point"}
+}

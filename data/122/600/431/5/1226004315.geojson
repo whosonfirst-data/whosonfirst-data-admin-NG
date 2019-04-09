@@ -1,0 +1,73 @@
+{
+  "id": 1226004315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.83333,7.7,3.83333,7.7",
+    "geom:latitude":7.7,
+    "geom:longitude":3.83333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31001.0",
+    "gn:asciiname":"Elemo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343493,
+    "gn:latitude":7.7,
+    "gn:longitude":3.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Elemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ellemmon",
+        "Elemo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343493
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e2b8e3b25ee1190b7f0ead839fc14a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562925,
+            "locality_id":1226004315,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1226004315,
+    "wof:lastmodified":1537675278,
+    "wof:name":"Elemo",
+    "wof:parent_id":1108562925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.83333,
+    7.7,
+    3.83333,
+    7.7
+],
+  "geometry": {"coordinates":[3.83333,7.7],"type":"Point"}
+}

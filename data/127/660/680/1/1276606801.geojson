@@ -1,0 +1,77 @@
+{
+  "id": 1276606801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47692,10.27428,13.47692,10.27428",
+    "geom:latitude":10.27428,
+    "geom:longitude":13.47692,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bourha Ouango",
+    "gn:country_code":"NG",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760788,
+    "gn:latitude":10.27428,
+    "gn:longitude":13.47692,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Bourha Ouango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899,
+        85632735,
+        85675451,
+        1108563997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760788
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5c699361e27e268c2df87204e90fc9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1276606801,
+            "region_id":85669933
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":1276606801,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1276606801,
+    "wof:lastmodified":1536910100,
+    "wof:name":"Bourha Ouango",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47692,
+    10.27428,
+    13.47692,
+    10.27428
+],
+  "geometry": {"coordinates":[13.47692,10.27428],"type":"Point"}
+}

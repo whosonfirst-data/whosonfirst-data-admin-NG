@@ -1,0 +1,62 @@
+{
+  "id": 1209054199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4581,7.63681,8.4581,7.63681",
+    "geom:latitude":7.63681,
+    "geom:longitude":8.4581,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013",
+    "gn:asciiname":"Tse-Asinbe",
+    "gn:country_code":"NG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9509095,
+    "gn:latitude":7.63681,
+    "gn:longitude":8.4581,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tse-Asinbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9509095
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"68db8333496c83ebdedd14ab96cbaa53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209054199
+        }
+    ],
+    "wof:id":1209054199,
+    "wof:lastmodified":1536299156,
+    "wof:name":"Tse-Asinbe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4581,
+    7.63681,
+    8.4581,
+    7.63681
+],
+  "geometry": {"coordinates":[8.4581,7.63681],"type":"Point"}
+}

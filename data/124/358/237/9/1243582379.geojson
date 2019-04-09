@@ -1,0 +1,75 @@
+{
+  "id": 1243582379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.28866,12.88525,12.28866,12.88525",
+    "geom:latitude":12.88525,
+    "geom:longitude":12.28866,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70606",
+    "gn:asciiname":"Dajina",
+    "gn:country_code":"NG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345668,
+    "gn:latitude":12.88525,
+    "gn:longitude":12.28866,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dajina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dajina Bonigoral",
+        "Dajina",
+        "Dajina Bonegarel",
+        "Dajina Bonegaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345668
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0422886dcccd4e6b555fe89294270271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563415,
+            "locality_id":1243582379,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1243582379,
+    "wof:lastmodified":1537675312,
+    "wof:name":"Dajina",
+    "wof:parent_id":1108563415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.28866,
+    12.88525,
+    12.28866,
+    12.88525
+],
+  "geometry": {"coordinates":[12.28866,12.88525],"type":"Point"}
+}

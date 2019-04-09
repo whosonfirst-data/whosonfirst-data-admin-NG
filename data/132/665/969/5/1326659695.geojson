@@ -1,0 +1,74 @@
+{
+  "id": 1326659695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53668,11.50125,6.53668,11.50125",
+    "geom:latitude":11.50125,
+    "geom:longitude":6.53668,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81005",
+    "gn:asciiname":"Ungwan Tsofo Poda",
+    "gn:country_code":"NG",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320153,
+    "gn:latitude":11.50125,
+    "gn:longitude":6.53668,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Tsofo Poda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsofo Pada",
+        "Unguwar Tsofo Pada",
+        "Ungwan Tsofo Poda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320153
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8bf438be72529a083cf0cb9c0c04e73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563455,
+            "locality_id":1326659695,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1326659695,
+    "wof:lastmodified":1537674936,
+    "wof:name":"Ungwan Tsofo Poda",
+    "wof:parent_id":1108563455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53668,
+    11.50125,
+    6.53668,
+    11.50125
+],
+  "geometry": {"coordinates":[6.53668,11.50125],"type":"Point"}
+}

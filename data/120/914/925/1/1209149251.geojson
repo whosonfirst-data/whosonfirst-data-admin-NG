@@ -1,0 +1,64 @@
+{
+  "id": 1209149251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83271,9.20715,11.83271,9.20715",
+    "geom:latitude":9.20715,
+    "geom:longitude":11.83271,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Angwar Galadima",
+    "gn:country_code":"NG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210404,
+    "gn:latitude":9.20715,
+    "gn:longitude":11.83271,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Angwar Galadima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Angwar Galadima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210404
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"31b72758242329e2caf36ae411995efa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209149251
+        }
+    ],
+    "wof:id":1209149251,
+    "wof:lastmodified":1537675506,
+    "wof:name":"Angwar Galadima",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83271,
+    9.20715,
+    11.83271,
+    9.20715
+],
+  "geometry": {"coordinates":[11.83271,9.20715],"type":"Point"}
+}

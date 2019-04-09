@@ -1,0 +1,73 @@
+{
+  "id": 1276150381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5278,12.70986,6.5278,12.70986",
+    "geom:latitude":12.70986,
+    "geom:longitude":6.5278,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80904",
+    "gn:asciiname":"Goga",
+    "gn:country_code":"NG",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347063,
+    "gn:latitude":12.70986,
+    "gn:longitude":6.5278,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Goga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birnin Goga",
+        "Goga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108564563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347063
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7089a9656344f97ac765488887ce8d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564563,
+            "locality_id":1276150381,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1276150381,
+    "wof:lastmodified":1537675329,
+    "wof:name":"Goga",
+    "wof:parent_id":1108564563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5278,
+    12.70986,
+    6.5278,
+    12.70986
+],
+  "geometry": {"coordinates":[6.5278,12.70986],"type":"Point"}
+}

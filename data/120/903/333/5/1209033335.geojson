@@ -1,0 +1,63 @@
+{
+  "id": 1209033335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.22961,13.16357,5.22961,13.16357",
+    "geom:latitude":13.16357,
+    "geom:longitude":5.22961,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62103",
+    "gn:asciiname":"Erjabe",
+    "gn:country_code":"NG",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7016064,
+    "gn:latitude":13.16357,
+    "gn:longitude":5.22961,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Erjabe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016064
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ecefd0540f222d75c069d000b09f77ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209033335
+        }
+    ],
+    "wof:id":1209033335,
+    "wof:lastmodified":1536299781,
+    "wof:name":"Erjabe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.22961,
+    13.163570000000002,
+    5.22961,
+    13.163570000000002
+],
+  "geometry": {"coordinates":[5.22961,13.16357],"type":"Point"}
+}

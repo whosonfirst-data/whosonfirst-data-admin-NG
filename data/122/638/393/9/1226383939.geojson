@@ -1,0 +1,68 @@
+{
+  "id": 1226383939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.08333,8.56667,4.08333,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":4.08333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31028.0",
+    "gn:asciiname":"Alfa Iwo",
+    "gn:country_code":"NG",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350450,
+    "gn:latitude":8.56667,
+    "gn:longitude":4.08333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alfa Iwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350450
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0a5e31598a1e4c862b983368104644af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564205,
+            "locality_id":1226383939,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1226383939,
+    "wof:lastmodified":1536734665,
+    "wof:name":"Alfa Iwo",
+    "wof:parent_id":1108564205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08333,
+    8.56667,
+    4.08333,
+    8.56667
+],
+  "geometry": {"coordinates":[4.08333,8.56667],"type":"Point"}
+}

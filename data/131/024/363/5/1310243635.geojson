@@ -1,0 +1,72 @@
+{
+  "id": 1310243635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.67779,6.31163,5.67779,6.31163",
+    "geom:latitude":6.31163,
+    "geom:longitude":5.67779,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12011.0",
+    "gn:asciiname":"Avblaman",
+    "gn:country_code":"NG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348855,
+    "gn:latitude":6.31163,
+    "gn:longitude":5.67779,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Avblaman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avbiaman",
+        "Avblaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348855
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8bc3adea3e9fb07d8f1534e391676711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563609,
+            "locality_id":1310243635,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1310243635,
+    "wof:lastmodified":1537675350,
+    "wof:name":"Avblaman",
+    "wof:parent_id":1108563609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.67779,
+    6.31163,
+    5.67779,
+    6.31163
+],
+  "geometry": {"coordinates":[5.67779,6.31163],"type":"Point"}
+}

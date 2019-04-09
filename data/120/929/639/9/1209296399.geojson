@@ -1,0 +1,67 @@
+{
+  "id": 1209296399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.51667,7.0,3.51667,7.0",
+    "geom:latitude":7.0,
+    "geom:longitude":3.51667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Ogede",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327707,
+    "gn:latitude":7.0,
+    "gn:longitude":3.51667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igbore",
+        "Ogede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327707
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2a43c83441f738db81e00179aa599ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209296399
+        }
+    ],
+    "wof:id":1209296399,
+    "wof:lastmodified":1537675052,
+    "wof:name":"Ogede",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.51667,
+    7.0,
+    3.51667,
+    7.0
+],
+  "geometry": {"coordinates":[3.51667,7.0],"type":"Point"}
+}

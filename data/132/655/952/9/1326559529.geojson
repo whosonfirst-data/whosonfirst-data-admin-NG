@@ -1,0 +1,68 @@
+{
+  "id": 1326559529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9,6.96667,10.9,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":10.9,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35011.0",
+    "gn:asciiname":"Akoforo",
+    "gn:country_code":"NG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351015,
+    "gn:latitude":6.96667,
+    "gn:longitude":10.9,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akoforo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351015
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f55cffe5bed4ee2963d8f3a5a200ce49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564339,
+            "locality_id":1326559529,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1326559529,
+    "wof:lastmodified":1536945220,
+    "wof:name":"Akoforo",
+    "wof:parent_id":1108564339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9,
+    6.96667,
+    10.9,
+    6.96667
+],
+  "geometry": {"coordinates":[10.9,6.96667],"type":"Point"}
+}

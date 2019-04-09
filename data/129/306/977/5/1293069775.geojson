@@ -1,0 +1,72 @@
+{
+  "id": 1293069775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.42838,5.06026,8.42838,5.06026",
+    "geom:latitude":5.06026,
+    "geom:longitude":8.42838,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9003.0",
+    "gn:asciiname":"Assamanka",
+    "gn:country_code":"NG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349082,
+    "gn:latitude":5.06026,
+    "gn:longitude":8.42838,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Assamanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asabanga",
+        "Assamanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349082
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d9afb0f8385cdaa58b8b6db0d89dc93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562979,
+            "locality_id":1293069775,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293069775,
+    "wof:lastmodified":1537675352,
+    "wof:name":"Assamanka",
+    "wof:parent_id":1108562979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.42838,
+    5.06026,
+    8.42838,
+    5.06026
+],
+  "geometry": {"coordinates":[8.42838,5.06026],"type":"Point"}
+}

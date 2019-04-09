@@ -1,0 +1,62 @@
+{
+  "id": 1209241277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.39888,9.19498,6.39888,9.19498",
+    "geom:latitude":9.19498,
+    "geom:longitude":6.39888,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27001",
+    "gn:asciiname":"Solawu",
+    "gn:country_code":"NG",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317445,
+    "gn:latitude":9.19498,
+    "gn:longitude":6.39888,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Solawu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317445
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"10988745945f712c54e2f9d046b018cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241277
+        }
+    ],
+    "wof:id":1209241277,
+    "wof:lastmodified":1536293312,
+    "wof:name":"Solawu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.39888,
+    9.19498,
+    6.39888,
+    9.19498
+],
+  "geometry": {"coordinates":[6.39888,9.19498],"type":"Point"}
+}

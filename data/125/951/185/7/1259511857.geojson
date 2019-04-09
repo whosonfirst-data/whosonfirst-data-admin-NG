@@ -1,0 +1,69 @@
+{
+  "id": 1259511857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.16991,9.93319,10.16991,9.93319",
+    "geom:latitude":9.93319,
+    "geom:longitude":10.16991,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5001.0",
+    "gn:admin3_code":"BA0106",
+    "gn:asciiname":"Matsira",
+    "gn:country_code":"NG",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330586,
+    "gn:latitude":9.93319,
+    "gn:longitude":10.16991,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Matsira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330586
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe7f690a5abae917802f802b1c9fb592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1259511857,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1259511857,
+    "wof:lastmodified":1536817393,
+    "wof:name":"Matsira",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.16991,
+    9.93319,
+    10.16991,
+    9.93319
+],
+  "geometry": {"coordinates":[10.16991,9.93319],"type":"Point"}
+}

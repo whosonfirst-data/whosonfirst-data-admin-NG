@@ -1,0 +1,71 @@
+{
+  "id": 1293322263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.26114,9.33424,7.26114,9.33424",
+    "geom:latitude":9.33424,
+    "geom:longitude":7.26114,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Sabon Wuse",
+    "gn:country_code":"NG",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10182387,
+    "gn:latitude":9.33424,
+    "gn:longitude":7.26114,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Sabon Wuse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuse",
+        "New Wuse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182387
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c3226cd81934a655aa8844a41571e915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564387,
+            "locality_id":1293322263,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293322263,
+    "wof:lastmodified":1537675468,
+    "wof:name":"Sabon Wuse",
+    "wof:parent_id":1108564387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.26114,
+    9.33424,
+    7.26114,
+    9.33424
+],
+  "geometry": {"coordinates":[7.26114,9.33424],"type":"Point"}
+}

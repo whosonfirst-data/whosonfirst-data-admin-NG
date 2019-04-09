@@ -1,0 +1,68 @@
+{
+  "id": 1309672601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83333,9.06667,4.83333,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":4.83333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Orogun",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325703,
+    "gn:latitude":9.06667,
+    "gn:longitude":4.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orogun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325703
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8fdbcfe5d42276ecf6281aa8f7d3c3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563995,
+            "locality_id":1309672601,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1309672601,
+    "wof:lastmodified":1536624354,
+    "wof:name":"Orogun",
+    "wof:parent_id":1108563995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83333,
+    9.06667,
+    4.83333,
+    9.06667
+],
+  "geometry": {"coordinates":[4.83333,9.06667],"type":"Point"}
+}

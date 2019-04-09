@@ -1,0 +1,68 @@
+{
+  "id": 1209944327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.20075,8.85249,11.20075,8.85249",
+    "geom:latitude":8.85249,
+    "geom:longitude":11.20075,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001.0",
+    "gn:asciiname":"Barikin Sibre",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347614,
+    "gn:latitude":8.85249,
+    "gn:longitude":11.20075,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barikin Sibre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347614
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2924a796548692d707e9a360b2d0212e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1209944327,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1209944327,
+    "wof:lastmodified":1536387090,
+    "wof:name":"Barikin Sibre",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.20075,
+    8.85249,
+    11.20075,
+    8.85249
+],
+  "geometry": {"coordinates":[11.20075,8.85249],"type":"Point"}
+}

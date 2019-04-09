@@ -1,0 +1,62 @@
+{
+  "id": 1209462567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.51147,7.60601,9.51147,7.60601",
+    "geom:latitude":7.60601,
+    "geom:longitude":9.51147,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Tseortswan",
+    "gn:country_code":"NG",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531164,
+    "gn:latitude":7.60601,
+    "gn:longitude":9.51147,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseortswan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531164
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"19775a02195523a0c04eb6039cd768a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209462567
+        }
+    ],
+    "wof:id":1209462567,
+    "wof:lastmodified":1536286333,
+    "wof:name":"Tseortswan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.51147,
+    7.60601,
+    9.51147,
+    7.60601
+],
+  "geometry": {"coordinates":[9.51147,7.60601],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293941545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.08205,9.33396,8.08205,9.33396",
+    "geom:latitude":9.33396,
+    "geom:longitude":8.08205,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19007.0",
+    "gn:admin3_code":"KD0703",
+    "gn:asciiname":"Kanock",
+    "gn:country_code":"NG",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334342,
+    "gn:latitude":9.33396,
+    "gn:longitude":8.08205,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kanock",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334342
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a11fde197c49a2c5ba5e951895bed2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563721,
+            "locality_id":1293941545,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1293941545,
+    "wof:lastmodified":1537675140,
+    "wof:name":"Kanock",
+    "wof:parent_id":1108563721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.08205,
+    9.33396,
+    8.08205,
+    9.33396
+],
+  "geometry": {"coordinates":[8.08205,9.33396],"type":"Point"}
+}

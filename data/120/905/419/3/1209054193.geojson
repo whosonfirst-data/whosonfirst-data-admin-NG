@@ -1,0 +1,65 @@
+{
+  "id": 1209054193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85644,7.26598,8.85644,7.26598",
+    "geom:latitude":7.26598,
+    "geom:longitude":8.85644,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Agom",
+    "gn:country_code":"NG",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852350,
+    "gn:latitude":7.26598,
+    "gn:longitude":8.85644,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agomi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852350
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e25e7b7314f2b7d652b681ef1e0b36a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209054193
+        }
+    ],
+    "wof:id":1209054193,
+    "wof:lastmodified":1537675408,
+    "wof:name":"Agom",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85644,
+    7.26598,
+    8.85644,
+    7.26598
+],
+  "geometry": {"coordinates":[8.85644,7.26598],"type":"Point"}
+}

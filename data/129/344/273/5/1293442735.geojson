@@ -1,0 +1,74 @@
+{
+  "id": 1293442735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.57184,6.4116,6.57184,6.4116",
+    "geom:latitude":6.4116,
+    "geom:longitude":6.57184,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10001.0",
+    "gn:asciiname":"Umutonu",
+    "gn:country_code":"NG",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320318,
+    "gn:latitude":6.4116,
+    "gn:longitude":6.57184,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umutonu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Umtonu"
+    ],
+    "name:eng_x_variant":[
+        "Umutonu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320318
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c95fbee95b705029498f6a5482318186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563011,
+            "locality_id":1293442735,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293442735,
+    "wof:lastmodified":1537674945,
+    "wof:name":"Umutonu",
+    "wof:parent_id":1108563011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.57184,
+    6.4116,
+    6.57184,
+    6.4116
+],
+  "geometry": {"coordinates":[6.57184,6.4116],"type":"Point"}
+}

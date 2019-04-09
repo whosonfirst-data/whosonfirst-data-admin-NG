@@ -1,0 +1,71 @@
+{
+  "id": 1360313875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05645,9.75341,9.05645,9.75341",
+    "geom:latitude":9.75341,
+    "geom:longitude":9.05645,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32004.0",
+    "gn:asciiname":"Gora",
+    "gn:country_code":"NG",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340395,
+    "gn:latitude":9.75341,
+    "gn:longitude":9.05645,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Gora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340395
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e7bb9f336f26abc03959c3d5f947216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563729,
+            "locality_id":1360313875,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1360313875,
+    "wof:lastmodified":1537675226,
+    "wof:name":"Gora",
+    "wof:parent_id":1108563729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05645,
+    9.75341,
+    9.05645,
+    9.75341
+],
+  "geometry": {"coordinates":[9.05645,9.75341],"type":"Point"}
+}

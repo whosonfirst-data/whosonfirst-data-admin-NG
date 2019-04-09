@@ -1,0 +1,68 @@
+{
+  "id": 1259716621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.98642,7.01528,10.98642,7.01528",
+    "geom:latitude":7.01528,
+    "geom:longitude":10.98642,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35011.0",
+    "gn:asciiname":"Kan-Iyaka",
+    "gn:country_code":"NG",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335232,
+    "gn:latitude":7.01528,
+    "gn:longitude":10.98642,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kan-Iyaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335232
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca6fb338128301a3f278fc6bf812444d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564339,
+            "locality_id":1259716621,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259716621,
+    "wof:lastmodified":1537018600,
+    "wof:name":"Kan-Iyaka",
+    "wof:parent_id":1108564339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.98642,
+    7.01528,
+    10.98642,
+    7.01528
+],
+  "geometry": {"coordinates":[10.98642,7.01528],"type":"Point"}
+}

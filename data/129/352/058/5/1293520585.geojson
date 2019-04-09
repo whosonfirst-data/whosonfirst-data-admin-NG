@@ -1,0 +1,71 @@
+{
+  "id": 1293520585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.77886,9.97213,5.77886,9.97213",
+    "geom:latitude":9.97213,
+    "geom:longitude":5.77886,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27016",
+    "gn:asciiname":"Mashegu",
+    "gn:country_code":"NG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10182317,
+    "gn:latitude":9.97213,
+    "gn:longitude":5.77886,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mashegu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moshegu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182317
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6c3832b5e821d25bf636826c1dc171b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563955,
+            "locality_id":1293520585,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293520585,
+    "wof:lastmodified":1537675468,
+    "wof:name":"Mashegu",
+    "wof:parent_id":1108563955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77886,
+    9.97213,
+    5.77886,
+    9.97213
+],
+  "geometry": {"coordinates":[5.77886,9.97213],"type":"Point"}
+}

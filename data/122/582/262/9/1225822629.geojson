@@ -1,0 +1,68 @@
+{
+  "id": 1225822629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.36889,8.57167,7.36889,8.57167",
+    "geom:latitude":8.57167,
+    "geom:longitude":7.36889,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15004.0",
+    "gn:asciiname":"Kashimoro",
+    "gn:country_code":"NG",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334900,
+    "gn:latitude":8.57167,
+    "gn:longitude":7.36889,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kashimoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334900
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a585c8dc06d460eaf0ede18b229a309d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563851,
+            "locality_id":1225822629,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1225822629,
+    "wof:lastmodified":1537045194,
+    "wof:name":"Kashimoro",
+    "wof:parent_id":1108563851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.36889,
+    8.57167,
+    7.36889,
+    8.57167
+],
+  "geometry": {"coordinates":[7.36889,8.57167],"type":"Point"}
+}

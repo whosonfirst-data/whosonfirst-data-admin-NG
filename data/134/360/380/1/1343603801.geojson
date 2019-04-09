@@ -1,0 +1,67 @@
+{
+  "id": 1343603801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83555,10.51988,4.83555,10.51988",
+    "geom:latitude":10.51988,
+    "geom:longitude":4.83555,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Karandadi",
+    "gn:country_code":"NG",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014621,
+    "gn:latitude":10.51988,
+    "gn:longitude":4.83555,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Karandadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014621
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"59fa871f66cfe0a27115e13f5ac6ffa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563915,
+            "locality_id":1343603801,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343603801,
+    "wof:lastmodified":1537035290,
+    "wof:name":"Karandadi",
+    "wof:parent_id":1108563915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83555,
+    10.51988,
+    4.83555,
+    10.51988
+],
+  "geometry": {"coordinates":[4.83555,10.51988],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209057511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3,12.08333,14.3,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":14.3,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"108.0",
+    "gn:admin3_code":"10807",
+    "gn:asciiname":"Isari",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337222,
+    "gn:latitude":12.08333,
+    "gn:longitude":14.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Isari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eisar\u012b",
+        "Isari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337222
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"32796f4a087985b31e8831939e78358d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209057511
+        }
+    ],
+    "wof:id":1209057511,
+    "wof:lastmodified":1537675179,
+    "wof:name":"Isari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3,
+    12.08333,
+    14.3,
+    12.08333
+],
+  "geometry": {"coordinates":[14.3,12.08333],"type":"Point"}
+}

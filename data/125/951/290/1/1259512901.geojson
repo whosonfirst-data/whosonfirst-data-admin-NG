@@ -1,0 +1,72 @@
+{
+  "id": 1259512901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83458,7.01419,10.83458,7.01419",
+    "geom:latitude":7.01419,
+    "geom:longitude":10.83458,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Akonkwe",
+    "gn:country_code":"NG",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350990,
+    "gn:latitude":7.01419,
+    "gn:longitude":10.83458,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akonkwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akonwe",
+        "Akonkwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350990
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1dbe5b178dd61bda85e7bf06c40c56d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1259512901,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259512901,
+    "wof:lastmodified":1537675375,
+    "wof:name":"Akonkwe",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83458,
+    7.01419,
+    10.83458,
+    7.01419
+],
+  "geometry": {"coordinates":[10.83458,7.01419],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343816401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48673,4.96622,8.48673,4.96622",
+    "geom:latitude":4.96622,
+    "geom:longitude":8.48673,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9003.0",
+    "gn:asciiname":"Ikot Efanga",
+    "gn:country_code":"NG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338117,
+    "gn:latitude":4.96622,
+    "gn:longitude":8.48673,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Efanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akwa Ikot Efanga",
+        "Ikot Efanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338117
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47ecc6e3e9aea0063b7d301dd5b8ef77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562979,
+            "locality_id":1343816401,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343816401,
+    "wof:lastmodified":1537675193,
+    "wof:name":"Ikot Efanga",
+    "wof:parent_id":1108562979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48673,
+    4.96622,
+    8.48673,
+    4.96622
+],
+  "geometry": {"coordinates":[8.48673,4.96622],"type":"Point"}
+}

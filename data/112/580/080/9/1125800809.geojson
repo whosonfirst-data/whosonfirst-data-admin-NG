@@ -1,0 +1,81 @@
+{
+  "id": 1125800809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1867,11.7443,12.1867,11.7443",
+    "geom:latitude":11.7443,
+    "geom:longitude":12.1867,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5730,
+    "gn:population":5730,
+    "iso:country":"NG",
+    "lbl:latitude":11.7443,
+    "lbl:longitude":12.1867,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Dankalwar"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2345283,
+    "qs_pg:gn_pop":5730,
+    "qs_pg:name":"Dankalwa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":278549,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345283,
+        "qs_pg:id":278549
+    },
+    "wof:country":"NG",
+    "wof:created":1497291251,
+    "wof:geomhash":"02ec159db56be400c1831e8c84138c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563195,
+            "locality_id":1125800809,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1125800809,
+    "wof:lastmodified":1509392907,
+    "wof:name":"Dankalwa",
+    "wof:parent_id":1108563195,
+    "wof:placetype":"locality",
+    "wof:population":5730,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1867,
+    11.7443,
+    12.1867,
+    11.7443
+],
+  "geometry": {"coordinates":[12.1867,11.7443],"type":"Point"}
+}

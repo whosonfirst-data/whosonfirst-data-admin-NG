@@ -1,0 +1,62 @@
+{
+  "id": 1209487021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23333,6.83333,3.23333,6.83333",
+    "geom:latitude":6.83333,
+    "geom:longitude":3.23333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28006.0",
+    "gn:asciiname":"Balogun",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348009,
+    "gn:latitude":6.83333,
+    "gn:longitude":3.23333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Balogun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348009
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ec9f35ce11ab61198a8224c5c3897681",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209487021
+        }
+    ],
+    "wof:id":1209487021,
+    "wof:lastmodified":1536285604,
+    "wof:name":"Balogun",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23333,
+    6.83333,
+    3.23333,
+    6.83333
+],
+  "geometry": {"coordinates":[3.23333,6.83333],"type":"Point"}
+}

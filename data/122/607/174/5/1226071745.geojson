@@ -1,0 +1,69 @@
+{
+  "id": 1226071745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7582,12.59283,8.7582,12.59283",
+    "geom:latitude":12.59283,
+    "geom:longitude":8.7582,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0204",
+    "gn:asciiname":"Borowatara",
+    "gn:country_code":"NG",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974195,
+    "gn:latitude":12.59283,
+    "gn:longitude":8.7582,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Borowatara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974195
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a175d80d2167fdcbbbf654480fa4126b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1226071745,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1226071745,
+    "wof:lastmodified":1536687906,
+    "wof:name":"Borowatara",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7582,
+    12.59283,
+    8.7582,
+    12.59283
+],
+  "geometry": {"coordinates":[8.7582,12.59283],"type":"Point"}
+}

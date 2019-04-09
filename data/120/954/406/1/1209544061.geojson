@@ -1,0 +1,62 @@
+{
+  "id": 1209544061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50636,8.82911,9.50636,8.82911",
+    "geom:latitude":8.82911,
+    "geom:longitude":9.50636,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Kurwat Tsoro",
+    "gn:country_code":"NG",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921986,
+    "gn:latitude":8.82911,
+    "gn:longitude":9.50636,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kurwat Tsoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921986
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"81ab3bce9c9e934d30c500e3fac4375b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544061
+        }
+    ],
+    "wof:id":1209544061,
+    "wof:lastmodified":1536283899,
+    "wof:name":"Kurwat Tsoro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50636,
+    8.82911,
+    9.50636,
+    8.82911
+],
+  "geometry": {"coordinates":[9.50636,8.82911],"type":"Point"}
+}

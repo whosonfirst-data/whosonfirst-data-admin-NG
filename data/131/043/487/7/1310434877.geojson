@@ -1,0 +1,69 @@
+{
+  "id": 1310434877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.32291,11.50709,11.32291,11.50709",
+    "geom:latitude":11.50709,
+    "geom:longitude":11.32291,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70405",
+    "gn:asciiname":"Burai",
+    "gn:country_code":"NG",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346390,
+    "gn:latitude":11.50709,
+    "gn:longitude":11.32291,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Burai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346390
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3fa824094494b83f679d6a9a179103d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1310434877,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1310434877,
+    "wof:lastmodified":1537018219,
+    "wof:name":"Burai",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.32291,
+    11.50709,
+    11.32291,
+    11.50709
+],
+  "geometry": {"coordinates":[11.32291,11.50709],"type":"Point"}
+}

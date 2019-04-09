@@ -1,0 +1,68 @@
+{
+  "id": 1277012029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.65477,7.90519,10.65477,7.90519",
+    "geom:latitude":7.90519,
+    "geom:longitude":10.65477,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Garin Jatau",
+    "gn:country_code":"NG",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341836,
+    "gn:latitude":7.90519,
+    "gn:longitude":10.65477,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garin Jatau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341836
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"067d5ce89689708443a893493addad74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563083,
+            "locality_id":1277012029,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1277012029,
+    "wof:lastmodified":1536862722,
+    "wof:name":"Garin Jatau",
+    "wof:parent_id":1108563083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.65477,
+    7.90519,
+    10.65477,
+    7.90519
+],
+  "geometry": {"coordinates":[10.65477,7.90519],"type":"Point"}
+}

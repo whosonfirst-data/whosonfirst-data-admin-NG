@@ -1,0 +1,69 @@
+{
+  "id": 1260012581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91815,12.56574,8.91815,12.56574",
+    "geom:latitude":12.56574,
+    "geom:longitude":8.91815,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0211",
+    "gn:asciiname":"Daurawa",
+    "gn:country_code":"NG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345090,
+    "gn:latitude":12.56574,
+    "gn:longitude":8.91815,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Daurawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345090
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95dd508bbdf9b9c4cfdcaa805ff51d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1260012581,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1260012581,
+    "wof:lastmodified":1537086907,
+    "wof:name":"Daurawa",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91815,
+    12.56574,
+    8.91815,
+    12.56574
+],
+  "geometry": {"coordinates":[8.91815,12.56574],"type":"Point"}
+}

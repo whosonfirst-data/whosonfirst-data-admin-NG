@@ -1,0 +1,68 @@
+{
+  "id": 1343488989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38163,11.10408,5.38163,11.10408",
+    "geom:latitude":11.10408,
+    "geom:longitude":5.38163,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27021.0",
+    "gn:asciiname":"Mahunju",
+    "gn:country_code":"NG",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7009211,
+    "gn:latitude":11.10408,
+    "gn:longitude":5.38163,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mahunju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7009211
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e088de651a7dec475203a39d8857bb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564297,
+            "locality_id":1343488989,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343488989,
+    "wof:lastmodified":1536705420,
+    "wof:name":"Mahunju",
+    "wof:parent_id":1108564297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38163,
+    11.10408,
+    5.38163,
+    11.10408
+],
+  "geometry": {"coordinates":[5.38163,11.10408],"type":"Point"}
+}

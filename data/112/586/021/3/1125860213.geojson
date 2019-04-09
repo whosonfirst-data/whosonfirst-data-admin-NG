@@ -1,0 +1,78 @@
+{
+  "id": 1125860213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.561,11.2471,10.561,11.2471",
+    "geom:latitude":11.2471,
+    "geom:longitude":10.561,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18812,
+    "gn:population":18812,
+    "iso:country":"NG",
+    "lbl:latitude":11.2471,
+    "lbl:longitude":10.561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2335015,
+    "qs_pg:gn_pop":18812,
+    "qs_pg:name":"Kari",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":91279,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335015,
+        "qs_pg:id":91279
+    },
+    "wof:country":"NG",
+    "wof:created":1497293796,
+    "wof:geomhash":"6aec1ee70a7aeda9ff04dc0d6e62e0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563215,
+            "locality_id":1125860213,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1125860213,
+    "wof:lastmodified":1509396552,
+    "wof:name":"Kari",
+    "wof:parent_id":1108563215,
+    "wof:placetype":"locality",
+    "wof:population":18812,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.561,
+    11.2471,
+    10.561,
+    11.2471
+],
+  "geometry": {"coordinates":[10.561,11.2471],"type":"Point"}
+}

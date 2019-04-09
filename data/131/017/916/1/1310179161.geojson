@@ -1,0 +1,68 @@
+{
+  "id": 1310179161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.73222,5.32378,7.73222,5.32378",
+    "geom:latitude":5.32378,
+    "geom:longitude":7.73222,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3012.0",
+    "gn:asciiname":"Ikot Akpan Ikpo",
+    "gn:country_code":"NG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338176,
+    "gn:latitude":5.32378,
+    "gn:longitude":7.73222,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Akpan Ikpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338176
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"de152411c2411a6e8a821c3233e645e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563601,
+            "locality_id":1310179161,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1310179161,
+    "wof:lastmodified":1536890007,
+    "wof:name":"Ikot Akpan Ikpo",
+    "wof:parent_id":1108563601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.73222,
+    5.32378,
+    7.73222,
+    5.32378
+],
+  "geometry": {"coordinates":[7.73222,5.32378],"type":"Point"}
+}

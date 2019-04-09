@@ -1,0 +1,72 @@
+{
+  "id": 1310049997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2244,10.10569,13.2244,10.10569",
+    "geom:latitude":10.10569,
+    "geom:longitude":13.2244,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Pakka",
+    "gn:country_code":"NG",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325117,
+    "gn:latitude":10.10569,
+    "gn:longitude":13.2244,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pakka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paka",
+        "Pakka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325117
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9dfbc88e2cb48ae73969b36c95a6a27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1310049997,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310049997,
+    "wof:lastmodified":1537675009,
+    "wof:name":"Pakka",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2244,
+    10.10569,
+    13.2244,
+    10.10569
+],
+  "geometry": {"coordinates":[13.2244,10.10569],"type":"Point"}
+}

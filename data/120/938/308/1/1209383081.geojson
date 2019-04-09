@@ -1,0 +1,63 @@
+{
+  "id": 1209383081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.54582,11.80463,7.54582,11.80463",
+    "geom:latitude":11.80463,
+    "geom:longitude":7.54582,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"425.0",
+    "gn:admin3_code":"42511",
+    "gn:asciiname":"Marmara",
+    "gn:country_code":"NG",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330734,
+    "gn:latitude":11.80463,
+    "gn:longitude":7.54582,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Marmara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330734
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"801d98c331872ec8a71f8d74124a6add",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209383081
+        }
+    ],
+    "wof:id":1209383081,
+    "wof:lastmodified":1536288715,
+    "wof:name":"Marmara",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.54582,
+    11.80463,
+    7.54582,
+    11.80463
+],
+  "geometry": {"coordinates":[7.54582,11.80463],"type":"Point"}
+}

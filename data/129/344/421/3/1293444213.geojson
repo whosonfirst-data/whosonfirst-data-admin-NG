@@ -1,0 +1,68 @@
+{
+  "id": 1293444213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.92839,7.32904,8.92839,7.32904",
+    "geom:latitude":7.32904,
+    "geom:longitude":8.92839,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Tse-Juul",
+    "gn:country_code":"NG",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974492,
+    "gn:latitude":7.32904,
+    "gn:longitude":8.92839,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tse-Juul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974492
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa5c3acb20ec4d4211590a21b6c3b598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1293444213,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293444213,
+    "wof:lastmodified":1536848476,
+    "wof:name":"Tse-Juul",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.92839,
+    7.32904,
+    8.92839,
+    7.32904
+],
+  "geometry": {"coordinates":[8.92839,7.32904],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210049535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54729,12.61379,8.54729,12.61379",
+    "geom:latitude":12.61379,
+    "geom:longitude":8.54729,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18010.0",
+    "gn:admin3_code":"JI1702",
+    "gn:asciiname":"Ungua Cinai",
+    "gn:country_code":"NG",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320295,
+    "gn:latitude":12.61379,
+    "gn:longitude":8.54729,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungua Cinai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungua Chimi",
+        "Ungua Cinai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320295
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ef8ab66cf760c9412a7709b37e5d87bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563805,
+            "locality_id":1210049535,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1210049535,
+    "wof:lastmodified":1537674945,
+    "wof:name":"Ungua Cinai",
+    "wof:parent_id":1108563805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54729,
+    12.61379,
+    8.54729,
+    12.61379
+],
+  "geometry": {"coordinates":[8.54729,12.61379],"type":"Point"}
+}

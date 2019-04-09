@@ -1,0 +1,72 @@
+{
+  "id": 1243290377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.90883,10.54003,3.90883,10.54003",
+    "geom:latitude":10.54003,
+    "geom:longitude":3.90883,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27004.0",
+    "gn:asciiname":"Karengi",
+    "gn:country_code":"NG",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335045,
+    "gn:latitude":10.54003,
+    "gn:longitude":3.90883,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Karengi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karenzi",
+        "Karengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335045
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a30b1fcb15c7d38856560761fdb2d2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563153,
+            "locality_id":1243290377,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243290377,
+    "wof:lastmodified":1537675150,
+    "wof:name":"Karengi",
+    "wof:parent_id":1108563153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.90883,
+    10.54003,
+    3.90883,
+    10.54003
+],
+  "geometry": {"coordinates":[3.90883,10.54003],"type":"Point"}
+}

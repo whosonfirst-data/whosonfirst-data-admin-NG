@@ -1,0 +1,63 @@
+{
+  "id": 1209135403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.98714,12.37262,9.98714,12.37262",
+    "geom:latitude":12.37262,
+    "geom:longitude":9.98714,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18013.0",
+    "gn:admin3_code":"JI0101",
+    "gn:asciiname":"Auyakayi",
+    "gn:country_code":"NG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348861,
+    "gn:latitude":12.37262,
+    "gn:longitude":9.98714,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Auyakayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348861
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"39e218eebc28a4d3e924cf30a73f8009",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209135403
+        }
+    ],
+    "wof:id":1209135403,
+    "wof:lastmodified":1536296676,
+    "wof:name":"Auyakayi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.98714,
+    12.37262,
+    9.98714,
+    12.37262
+],
+  "geometry": {"coordinates":[9.98714,12.37262],"type":"Point"}
+}

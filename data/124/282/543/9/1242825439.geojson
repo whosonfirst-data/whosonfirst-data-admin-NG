@@ -1,0 +1,69 @@
+{
+  "id": 1242825439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.29074,11.19699,12.29074,11.19699",
+    "geom:latitude":11.19699,
+    "geom:longitude":12.29074,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10709",
+    "gn:asciiname":"Garupti",
+    "gn:country_code":"NG",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341694,
+    "gn:latitude":11.19699,
+    "gn:longitude":12.29074,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garupti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341694
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bf02692b250508fb36869a9e15c113b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1242825439,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1242825439,
+    "wof:lastmodified":1536707108,
+    "wof:name":"Garupti",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.29074,
+    11.19699,
+    12.29074,
+    11.19699
+],
+  "geometry": {"coordinates":[12.29074,11.19699],"type":"Point"}
+}

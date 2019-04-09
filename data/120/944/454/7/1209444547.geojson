@@ -1,0 +1,61 @@
+{
+  "id": 1209444547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.41605,8.77122,9.41605,8.77122",
+    "geom:latitude":8.77122,
+    "geom:longitude":9.41605,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kano",
+    "gn:country_code":"NG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058035,
+    "gn:latitude":8.77122,
+    "gn:longitude":9.41605,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058035
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"68b4ab59f7a8a77e2c00aad0fbee4829",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444547
+        }
+    ],
+    "wof:id":1209444547,
+    "wof:lastmodified":1536286858,
+    "wof:name":"Kano",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.41605,
+    8.77122,
+    9.41605,
+    8.77122
+],
+  "geometry": {"coordinates":[9.41605,8.77122],"type":"Point"}
+}

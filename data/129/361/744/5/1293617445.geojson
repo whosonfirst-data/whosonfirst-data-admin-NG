@@ -1,0 +1,68 @@
+{
+  "id": 1293617445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45,8.45,11.45,8.45",
+    "geom:latitude":8.45,
+    "geom:longitude":11.45,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Damasi",
+    "gn:country_code":"NG",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345524,
+    "gn:latitude":8.45,
+    "gn:longitude":11.45,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Damasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345524
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"59daca43d24429857c2bf03d575cc3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563083,
+            "locality_id":1293617445,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293617445,
+    "wof:lastmodified":1537093789,
+    "wof:name":"Damasi",
+    "wof:parent_id":1108563083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45,
+    8.45,
+    11.45,
+    8.45
+],
+  "geometry": {"coordinates":[11.45,8.45],"type":"Point"}
+}

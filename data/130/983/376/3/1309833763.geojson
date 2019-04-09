@@ -1,0 +1,72 @@
+{
+  "id": 1309833763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.53392,10.84006,10.53392,10.84006",
+    "geom:latitude":10.84006,
+    "geom:longitude":10.53392,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5005.0",
+    "gn:admin3_code":"BA0508",
+    "gn:asciiname":"Dallol Aisha",
+    "gn:country_code":"NG",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345576,
+    "gn:latitude":10.84006,
+    "gn:longitude":10.53392,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dallol Aisha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dallol Aisha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345576
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cfe9ab12fc87f8c46b8b9cffd97162c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563215,
+            "locality_id":1309833763,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1309833763,
+    "wof:lastmodified":1537675311,
+    "wof:name":"Dallol Aisha",
+    "wof:parent_id":1108563215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.53392,
+    10.84006,
+    10.53392,
+    10.84006
+],
+  "geometry": {"coordinates":[10.53392,10.84006],"type":"Point"}
+}

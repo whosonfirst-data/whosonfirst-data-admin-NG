@@ -1,0 +1,70 @@
+{
+  "id": 1259716591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.80005,9.28801,10.80005,9.28801",
+    "geom:latitude":9.28801,
+    "geom:longitude":10.80005,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Maya",
+    "gn:country_code":"NG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274177,
+    "gn:latitude":9.28801,
+    "gn:longitude":10.80005,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Maya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274177
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b0550afe882337a77aa43d7e70394a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1259716591,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259716591,
+    "wof:lastmodified":1537675519,
+    "wof:name":"Maya",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.80005,
+    9.28801,
+    10.80005,
+    9.28801
+],
+  "geometry": {"coordinates":[10.80005,9.28801],"type":"Point"}
+}

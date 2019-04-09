@@ -1,0 +1,73 @@
+{
+  "id": 1310531057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.31714,7.63516,7.31714,7.63516",
+    "geom:latitude":7.63516,
+    "geom:longitude":7.31714,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23005.0",
+    "gn:asciiname":"Iyale",
+    "gn:country_code":"NG",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336854,
+    "gn:latitude":7.63516,
+    "gn:longitude":7.31714,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iyale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yari",
+        "Iyale",
+        "Ayale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336854
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9331a425d348b583cb00d32a54c3823f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563229,
+            "locality_id":1310531057,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1310531057,
+    "wof:lastmodified":1537675172,
+    "wof:name":"Iyale",
+    "wof:parent_id":1108563229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.31714,
+    7.63516,
+    7.31714,
+    7.63516
+],
+  "geometry": {"coordinates":[7.31714,7.63516],"type":"Point"}
+}

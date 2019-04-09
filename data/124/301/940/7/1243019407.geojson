@@ -1,0 +1,69 @@
+{
+  "id": 1243019407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.68698,10.26363,4.68698,10.26363",
+    "geom:latitude":10.26363,
+    "geom:longitude":4.68698,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"515.0",
+    "gn:admin3_code":"51502",
+    "gn:asciiname":"Ntede",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328665,
+    "gn:latitude":10.26363,
+    "gn:longitude":4.68698,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ntede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328665
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1fe6188d2dffa2676c9af367a399cc01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564027,
+            "locality_id":1243019407,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1243019407,
+    "wof:lastmodified":1536924959,
+    "wof:name":"Ntede",
+    "wof:parent_id":1108564027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.68698,
+    10.26363,
+    4.68698,
+    10.26363
+],
+  "geometry": {"coordinates":[4.68698,10.26363],"type":"Point"}
+}

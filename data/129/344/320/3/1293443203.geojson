@@ -1,0 +1,73 @@
+{
+  "id": 1293443203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11704,9.96942,13.11704,9.96942",
+    "geom:latitude":9.96942,
+    "geom:longitude":13.11704,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Kwagor Ngula",
+    "gn:country_code":"NG",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332940,
+    "gn:latitude":9.96942,
+    "gn:longitude":13.11704,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwagor Ngula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00e1gol",
+        "Kowagol",
+        "Kwagor Ngula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332940
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"589733d81da96ce75c133b6754d22e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563927,
+            "locality_id":1293443203,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293443203,
+    "wof:lastmodified":1537675124,
+    "wof:name":"Kwagor Ngula",
+    "wof:parent_id":1108563927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11704,
+    9.96942,
+    13.11704,
+    9.96942
+],
+  "geometry": {"coordinates":[13.11704,9.96942],"type":"Point"}
+}

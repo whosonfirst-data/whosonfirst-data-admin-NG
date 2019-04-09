@@ -1,0 +1,63 @@
+{
+  "id": 1209272511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.23978,9.73705,8.23978,9.73705",
+    "geom:latitude":9.73705,
+    "geom:longitude":8.23978,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19022",
+    "gn:admin3_code":"KD2210",
+    "gn:asciiname":"Tsofon Kahom",
+    "gn:country_code":"NG",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003293,
+    "gn:latitude":9.73705,
+    "gn:longitude":8.23978,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tsofon Kahom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003293
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"16d1700cce2ba0c951f722e5f153d7dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209272511
+        }
+    ],
+    "wof:id":1209272511,
+    "wof:lastmodified":1536292309,
+    "wof:name":"Tsofon Kahom",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.23978,
+    9.73705,
+    8.23978,
+    9.73705
+],
+  "geometry": {"coordinates":[8.23978,9.73705],"type":"Point"}
+}

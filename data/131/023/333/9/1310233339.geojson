@@ -1,0 +1,68 @@
+{
+  "id": 1310233339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.17964,6.43047,7.17964,6.43047",
+    "geom:latitude":6.43047,
+    "geom:longitude":7.17964,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14006.0",
+    "gn:asciiname":"Amadim-Olo",
+    "gn:country_code":"NG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350286,
+    "gn:latitude":6.43047,
+    "gn:longitude":7.17964,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amadim-Olo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350286
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d049af8b1e8250aceb01fb5ffbf72384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563353,
+            "locality_id":1310233339,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1310233339,
+    "wof:lastmodified":1536811672,
+    "wof:name":"Amadim-Olo",
+    "wof:parent_id":1108563353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.17964,
+    6.43047,
+    7.17964,
+    6.43047
+],
+  "geometry": {"coordinates":[7.17964,6.43047],"type":"Point"}
+}

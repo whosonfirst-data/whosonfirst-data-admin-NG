@@ -1,0 +1,73 @@
+{
+  "id": 1309935409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.8269,12.19496,6.8269,12.19496",
+    "geom:latitude":12.19496,
+    "geom:longitude":6.8269,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80511",
+    "gn:asciiname":"Guidan Dadago",
+    "gn:country_code":"NG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341090,
+    "gn:latitude":12.19496,
+    "gn:longitude":6.8269,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guidan Dadago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Dadago",
+        "Guidan Dadago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341090
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0f40cf802f0cec3bcb9fd210ef698622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1309935409,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1309935409,
+    "wof:lastmodified":1537675243,
+    "wof:name":"Guidan Dadago",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8269,
+    12.19496,
+    6.8269,
+    12.19496
+],
+  "geometry": {"coordinates":[6.8269,12.19496],"type":"Point"}
+}

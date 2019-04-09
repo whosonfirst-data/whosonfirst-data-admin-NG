@@ -1,0 +1,68 @@
+{
+  "id": 1310038819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0779,7.1651,5.0779,7.1651",
+    "geom:latitude":7.1651,
+    "geom:longitude":5.0779,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29008.0",
+    "gn:asciiname":"Ago-Sangotus",
+    "gn:country_code":"NG",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832877,
+    "gn:latitude":7.1651,
+    "gn:longitude":5.0779,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago-Sangotus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832877
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"62a1e13953865782b3aa82ef546d87d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563517,
+            "locality_id":1310038819,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1310038819,
+    "wof:lastmodified":1537089478,
+    "wof:name":"Ago-Sangotus",
+    "wof:parent_id":1108563517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0779,
+    7.1651,
+    5.0779,
+    7.1651
+],
+  "geometry": {"coordinates":[5.0779,7.1651],"type":"Point"}
+}

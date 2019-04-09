@@ -1,0 +1,72 @@
+{
+  "id": 1226076319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.46526,7.82644,7.46526,7.82644",
+    "geom:latitude":7.82644,
+    "geom:longitude":7.46526,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23019.0",
+    "gn:asciiname":"Opanda",
+    "gn:country_code":"NG",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325928,
+    "gn:latitude":7.82644,
+    "gn:longitude":7.46526,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Opanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opandha",
+        "Opanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325928
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"833f4d3fc76ceff64e69452e909f08e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564179,
+            "locality_id":1226076319,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1226076319,
+    "wof:lastmodified":1537675024,
+    "wof:name":"Opanda",
+    "wof:parent_id":1108564179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.46526,
+    7.82644,
+    7.46526,
+    7.82644
+],
+  "geometry": {"coordinates":[7.46526,7.82644],"type":"Point"}
+}

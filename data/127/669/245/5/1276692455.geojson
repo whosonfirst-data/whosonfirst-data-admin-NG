@@ -1,0 +1,73 @@
+{
+  "id": 1276692455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.95901,13.11857,11.95901,13.11857",
+    "geom:latitude":13.11857,
+    "geom:longitude":11.95901,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"716.0",
+    "gn:admin3_code":"71606",
+    "gn:asciiname":"Bitar",
+    "gn:country_code":"NG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347006,
+    "gn:latitude":13.11857,
+    "gn:longitude":11.95901,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bitar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bidthur",
+        "Bitar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347006
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"abed92c647b3ae1be69fbbe3b4dd6bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564547,
+            "locality_id":1276692455,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1276692455,
+    "wof:lastmodified":1537675328,
+    "wof:name":"Bitar",
+    "wof:parent_id":1108564547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.95901,
+    13.11857,
+    11.95901,
+    13.11857
+],
+  "geometry": {"coordinates":[11.95901,13.11857],"type":"Point"}
+}

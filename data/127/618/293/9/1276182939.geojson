@@ -1,0 +1,68 @@
+{
+  "id": 1276182939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57349,6.05097,8.57349,6.05097",
+    "geom:latitude":6.05097,
+    "geom:longitude":8.57349,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Etako",
+    "gn:country_code":"NG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343083,
+    "gn:latitude":6.05097,
+    "gn:longitude":8.57349,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Etako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343083
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"94cbb3a16f2afd5a80f0014cfbb98be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":1276182939,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1276182939,
+    "wof:lastmodified":1536979879,
+    "wof:name":"Etako",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57349,
+    6.05097,
+    8.57349,
+    6.05097
+],
+  "geometry": {"coordinates":[8.57349,6.05097],"type":"Point"}
+}

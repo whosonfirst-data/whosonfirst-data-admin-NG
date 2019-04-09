@@ -1,0 +1,62 @@
+{
+  "id": 1209054243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69121,7.66804,9.69121,7.66804",
+    "geom:latitude":7.66804,
+    "geom:longitude":9.69121,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Azua",
+    "gn:country_code":"NG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531360,
+    "gn:latitude":7.66804,
+    "gn:longitude":9.69121,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Azua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531360
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"18c4217776db3a38308f4bdbb024c2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209054243
+        }
+    ],
+    "wof:id":1209054243,
+    "wof:lastmodified":1536299154,
+    "wof:name":"Azua",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69121,
+    7.668039999999999,
+    9.69121,
+    7.668039999999999
+],
+  "geometry": {"coordinates":[9.69121,7.66804],"type":"Point"}
+}

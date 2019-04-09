@@ -1,0 +1,68 @@
+{
+  "id": 1276472249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.65737,9.04104,5.65737,9.04104",
+    "geom:latitude":9.04104,
+    "geom:longitude":5.65737,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007",
+    "gn:asciiname":"Tasun",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10309302,
+    "gn:latitude":9.04104,
+    "gn:longitude":5.65737,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tasun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10309302
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"baceaf90f596c39ab50a970d6ae633f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1276472249,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276472249,
+    "wof:lastmodified":1537086801,
+    "wof:name":"Tasun",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65737,
+    9.04104,
+    5.65737,
+    9.04104
+],
+  "geometry": {"coordinates":[5.65737,9.04104],"type":"Point"}
+}

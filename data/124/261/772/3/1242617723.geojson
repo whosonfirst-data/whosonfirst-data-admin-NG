@@ -1,0 +1,72 @@
+{
+  "id": 1242617723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.39342,10.41132,13.39342,10.41132",
+    "geom:latitude":10.41132,
+    "geom:longitude":13.39342,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Merenyi",
+    "gn:country_code":"NG",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330212,
+    "gn:latitude":10.41132,
+    "gn:longitude":13.39342,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Merenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirini",
+        "Merenyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330212
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"092602e3294384a0559ce9b9fd61d5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":1242617723,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1242617723,
+    "wof:lastmodified":1537675093,
+    "wof:name":"Merenyi",
+    "wof:parent_id":1108563997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.39342,
+    10.41132,
+    13.39342,
+    10.41132
+],
+  "geometry": {"coordinates":[13.39342,10.41132],"type":"Point"}
+}

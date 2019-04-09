@@ -1,0 +1,72 @@
+{
+  "id": 1242906585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62835,10.35649,10.62835,10.35649",
+    "geom:latitude":10.35649,
+    "geom:longitude":10.62835,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1302",
+    "gn:asciiname":"Jimbom",
+    "gn:country_code":"NG",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336061,
+    "gn:latitude":10.35649,
+    "gn:longitude":10.62835,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jimbom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jimbom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336061
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d54c276e6c5358e3aa760a9b4ebfd834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563819,
+            "locality_id":1242906585,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1242906585,
+    "wof:lastmodified":1537675163,
+    "wof:name":"Jimbom",
+    "wof:parent_id":1108563819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62835,
+    10.35649,
+    10.62835,
+    10.35649
+],
+  "geometry": {"coordinates":[10.62835,10.35649],"type":"Point"}
+}

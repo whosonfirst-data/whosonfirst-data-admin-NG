@@ -1,0 +1,72 @@
+{
+  "id": 1360313971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.76286,10.2538,10.76286,10.2538",
+    "geom:latitude":10.2538,
+    "geom:longitude":10.76286,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1313",
+    "gn:asciiname":"Jada",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336694,
+    "gn:latitude":10.2538,
+    "gn:longitude":10.76286,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336694
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c82f96d94109b53304213887775508a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563819,
+            "locality_id":1360313971,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1360313971,
+    "wof:lastmodified":1537675170,
+    "wof:name":"Jada",
+    "wof:parent_id":1108563819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.76286,
+    10.2538,
+    10.76286,
+    10.2538
+],
+  "geometry": {"coordinates":[10.76286,10.2538],"type":"Point"}
+}

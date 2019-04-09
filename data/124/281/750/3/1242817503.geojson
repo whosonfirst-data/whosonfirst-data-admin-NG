@@ -1,0 +1,68 @@
+{
+  "id": 1242817503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.54841,5.77965,6.54841,5.77965",
+    "geom:latitude":5.77965,
+    "geom:longitude":6.54841,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10011.0",
+    "gn:asciiname":"Ibusa",
+    "gn:country_code":"NG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100479,
+    "gn:latitude":5.77965,
+    "gn:longitude":6.54841,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100479
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"96dbf989650931be6590fcc92a0a53aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564017,
+            "locality_id":1242817503,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1242817503,
+    "wof:lastmodified":1536718510,
+    "wof:name":"Ibusa",
+    "wof:parent_id":1108564017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.54841,
+    5.77965,
+    6.54841,
+    5.77965
+],
+  "geometry": {"coordinates":[6.54841,5.77965],"type":"Point"}
+}

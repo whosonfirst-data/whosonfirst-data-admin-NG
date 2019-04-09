@@ -1,0 +1,63 @@
+{
+  "id": 1209261189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7725,11.92624,8.7725,11.92624",
+    "geom:latitude":11.92624,
+    "geom:longitude":8.7725,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20019.0",
+    "gn:admin3_code":"KN4304",
+    "gn:asciiname":"Gogel",
+    "gn:country_code":"NG",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340501,
+    "gn:latitude":11.92624,
+    "gn:longitude":8.7725,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gogel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340501
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d33ac3929d5d54d86016233df564b5c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209261189
+        }
+    ],
+    "wof:id":1209261189,
+    "wof:lastmodified":1536292684,
+    "wof:name":"Gogel",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7725,
+    11.92624,
+    8.7725,
+    11.92624
+],
+  "geometry": {"coordinates":[8.7725,11.92624],"type":"Point"}
+}

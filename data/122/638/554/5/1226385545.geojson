@@ -1,0 +1,71 @@
+{
+  "id": 1226385545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.47196,5.40543,5.47196,5.40543",
+    "geom:latitude":5.40543,
+    "geom:longitude":5.47196,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10025.0",
+    "gn:asciiname":"Keremo-Zion",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028136,
+    "gn:latitude":5.40543,
+    "gn:longitude":5.47196,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Keremo-Zion",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Keremo-Zion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028136
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d3dce06fc32ca7d42e76b4dab0c7d521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563177,
+            "locality_id":1226385545,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226385545,
+    "wof:lastmodified":1537675426,
+    "wof:name":"Keremo-Zion",
+    "wof:parent_id":1108563177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.47196,
+    5.40543,
+    5.47196,
+    5.40543
+],
+  "geometry": {"coordinates":[5.47196,5.40543],"type":"Point"}
+}

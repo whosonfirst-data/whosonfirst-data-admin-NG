@@ -1,0 +1,68 @@
+{
+  "id": 1293322269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.33333,8.93333,8.33333,8.93333",
+    "geom:latitude":8.93333,
+    "geom:longitude":8.33333,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26001.0",
+    "gn:asciiname":"Burru",
+    "gn:country_code":"NG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346340,
+    "gn:latitude":8.93333,
+    "gn:longitude":8.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Burru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108562989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346340
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5330b990c538389b564f448f8ac1d92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562989,
+            "locality_id":1293322269,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1293322269,
+    "wof:lastmodified":1537024257,
+    "wof:name":"Burru",
+    "wof:parent_id":1108562989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.33333,
+    8.93333,
+    8.33333,
+    8.93333
+],
+  "geometry": {"coordinates":[8.33333,8.93333],"type":"Point"}
+}

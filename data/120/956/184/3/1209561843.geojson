@@ -1,0 +1,63 @@
+{
+  "id": 1209561843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.09698,11.72908,8.09698,11.72908",
+    "geom:latitude":11.72908,
+    "geom:longitude":8.09698,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20034.0",
+    "gn:admin3_code":"KN2411",
+    "gn:asciiname":"Rangas",
+    "gn:country_code":"NG",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7066534,
+    "gn:latitude":11.72908,
+    "gn:longitude":8.09698,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rangas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7066534
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"77f4614afd747c0594eec9943b279074",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209561843
+        }
+    ],
+    "wof:id":1209561843,
+    "wof:lastmodified":1536283364,
+    "wof:name":"Rangas",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.09698,
+    11.72908,
+    8.09698,
+    11.72908
+],
+  "geometry": {"coordinates":[8.09698,11.72908],"type":"Point"}
+}

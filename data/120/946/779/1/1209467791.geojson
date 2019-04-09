@@ -1,0 +1,66 @@
+{
+  "id": 1209467791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89489,5.60923,5.89489,5.60923",
+    "geom:latitude":5.60923,
+    "geom:longitude":5.89489,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Ehwerhe",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343810,
+    "gn:latitude":5.60923,
+    "gn:longitude":5.89489,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ehwerhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekwese",
+        "Ehwerhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343810
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9e39d0ff28fdb65c14415a758f26ffdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209467791
+        }
+    ],
+    "wof:id":1209467791,
+    "wof:lastmodified":1537675285,
+    "wof:name":"Ehwerhe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89489,
+    5.60923,
+    5.89489,
+    5.60923
+],
+  "geometry": {"coordinates":[5.89489,5.60923],"type":"Point"}
+}

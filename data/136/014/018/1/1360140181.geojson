@@ -1,0 +1,69 @@
+{
+  "id": 1360140181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49105,11.52256,7.49105,11.52256",
+    "geom:latitude":11.52256,
+    "geom:longitude":7.49105,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40104",
+    "gn:asciiname":"Kanawa",
+    "gn:country_code":"NG",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019455,
+    "gn:latitude":11.52256,
+    "gn:longitude":7.49105,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kanawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019455
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"389fa64457e1fbaff07fceeeb156b694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563213,
+            "locality_id":1360140181,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1360140181,
+    "wof:lastmodified":1536864975,
+    "wof:name":"Kanawa",
+    "wof:parent_id":1108563213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49105,
+    11.52256,
+    7.49105,
+    11.52256
+],
+  "geometry": {"coordinates":[7.49105,11.52256],"type":"Point"}
+}

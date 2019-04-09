@@ -1,0 +1,68 @@
+{
+  "id": 1192982295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.73333,7.05,3.73333,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":3.73333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28019.0",
+    "gn:asciiname":"Ogunti",
+    "gn:country_code":"NG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327538,
+    "gn:latitude":7.05,
+    "gn:longitude":3.73333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogunti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108564295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327538
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a797239a697a08144bacc44377842d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564295,
+            "locality_id":1192982295,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1192982295,
+    "wof:lastmodified":1536366833,
+    "wof:name":"Ogunti",
+    "wof:parent_id":1108564295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.73333,
+    7.05,
+    3.73333,
+    7.05
+],
+  "geometry": {"coordinates":[3.73333,7.05],"type":"Point"}
+}

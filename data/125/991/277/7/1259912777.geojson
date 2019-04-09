@@ -1,0 +1,68 @@
+{
+  "id": 1259912777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.16667,8.41667,9.16667,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":9.16667,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26002.0",
+    "gn:asciiname":"Agana",
+    "gn:country_code":"NG",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352149,
+    "gn:latitude":8.41667,
+    "gn:longitude":9.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352149
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a9c4bb1d6dd8f19a47f82fd059831165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563053,
+            "locality_id":1259912777,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1259912777,
+    "wof:lastmodified":1536737004,
+    "wof:name":"Agana",
+    "wof:parent_id":1108563053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.16667,
+    8.41667,
+    9.16667,
+    8.41667
+],
+  "geometry": {"coordinates":[9.16667,8.41667],"type":"Point"}
+}

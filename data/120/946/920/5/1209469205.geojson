@@ -1,0 +1,62 @@
+{
+  "id": 1209469205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8227,7.02646,8.8227,7.02646",
+    "geom:latitude":7.02646,
+    "geom:longitude":8.8227,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Agbaki",
+    "gn:country_code":"NG",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352089,
+    "gn:latitude":7.02646,
+    "gn:longitude":8.8227,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agbaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352089
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"92878c3b359c6ec3f3b3d7d8989cc9e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209469205
+        }
+    ],
+    "wof:id":1209469205,
+    "wof:lastmodified":1536286133,
+    "wof:name":"Agbaki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8227,
+    7.02646,
+    8.8227,
+    7.02646
+],
+  "geometry": {"coordinates":[8.8227,7.02646],"type":"Point"}
+}

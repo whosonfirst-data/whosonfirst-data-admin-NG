@@ -1,0 +1,66 @@
+{
+  "id": 1209138983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.1998,10.08796,11.1998,10.08796",
+    "geom:latitude":10.08796,
+    "geom:longitude":11.1998,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16001.0",
+    "gn:asciiname":"Lergo Amadu",
+    "gn:country_code":"NG",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332071,
+    "gn:latitude":10.08796,
+    "gn:longitude":11.1998,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lergo Amadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Legro Aba",
+        "Lergo Amadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332071
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dcb349533203730c366cd60a9650a7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138983
+        }
+    ],
+    "wof:id":1209138983,
+    "wof:lastmodified":1537675115,
+    "wof:name":"Lergo Amadu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.1998,
+    10.08796,
+    11.1998,
+    10.08796
+],
+  "geometry": {"coordinates":[11.1998,10.08796],"type":"Point"}
+}

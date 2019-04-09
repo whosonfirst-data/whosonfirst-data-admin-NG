@@ -1,0 +1,68 @@
+{
+  "id": 1259716577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.29624,8.84292,11.29624,8.84292",
+    "geom:latitude":8.84292,
+    "geom:longitude":11.29624,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001",
+    "gn:asciiname":"Bantaje",
+    "gn:country_code":"NG",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871377,
+    "gn:latitude":8.84292,
+    "gn:longitude":11.29624,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bantaje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871377
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d13daf884dd8841584ddc3945b992f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1259716577,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259716577,
+    "wof:lastmodified":1537018659,
+    "wof:name":"Bantaje",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29624,
+    8.84292,
+    11.29624,
+    8.84292
+],
+  "geometry": {"coordinates":[11.29624,8.84292],"type":"Point"}
+}

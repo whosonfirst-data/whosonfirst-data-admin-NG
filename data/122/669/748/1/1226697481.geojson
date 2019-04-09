@@ -1,0 +1,69 @@
+{
+  "id": 1226697481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59093,12.7441,12.59093,12.7441",
+    "geom:latitude":12.7441,
+    "geom:longitude":12.59093,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"122.0",
+    "gn:admin3_code":"12207",
+    "gn:asciiname":"Binduldul",
+    "gn:country_code":"NG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347125,
+    "gn:latitude":12.7441,
+    "gn:longitude":12.59093,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Binduldul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347125
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5c493e6f752afd43121a8a25732f21b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563437,
+            "locality_id":1226697481,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226697481,
+    "wof:lastmodified":1536785653,
+    "wof:name":"Binduldul",
+    "wof:parent_id":1108563437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59093,
+    12.7441,
+    12.59093,
+    12.7441
+],
+  "geometry": {"coordinates":[12.59093,12.7441],"type":"Point"}
+}

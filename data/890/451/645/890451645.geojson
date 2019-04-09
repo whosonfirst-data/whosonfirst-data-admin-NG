@@ -1,0 +1,75 @@
+{
+  "id": 890451645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.35,8.38333,8.35,8.38333",
+    "geom:latitude":8.38333,
+    "geom:longitude":8.35,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":15097,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Doma"
+    ],
+    "name:fre_x_preferred":[
+        "Doma"
+    ],
+    "name:ita_x_preferred":[
+        "Doma"
+    ],
+    "qs:name":"Doma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344600,
+        "qs:id":139752,
+        "wd:id":"Q5289773"
+    },
+    "wof:country":"NG",
+    "wof:created":1469052788,
+    "wof:geomhash":"9a279ac945be1c8b0c93f2fba39b665c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563239,
+            "locality_id":890451645,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":890451645,
+    "wof:lastmodified":1514491603,
+    "wof:name":"Doma",
+    "wof:parent_id":1108563239,
+    "wof:placetype":"locality",
+    "wof:population":15097,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.35,
+    8.38333,
+    8.35,
+    8.38333
+],
+  "geometry": {"coordinates":[8.35,8.38333],"type":"Point"}
+}

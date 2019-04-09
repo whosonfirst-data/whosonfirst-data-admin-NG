@@ -1,0 +1,71 @@
+{
+  "id": 1292932459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8772,9.24358,5.8772,9.24358",
+    "geom:latitude":9.24358,
+    "geom:longitude":5.8772,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Sonkpata",
+    "gn:country_code":"NG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321726,
+    "gn:latitude":9.24358,
+    "gn:longitude":5.8772,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sonkpata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsonpata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321726
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3afc3d46f17df9ba53fdf0190abf8e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1292932459,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1292932459,
+    "wof:lastmodified":1537674970,
+    "wof:name":"Sonkpata",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8772,
+    9.24358,
+    5.8772,
+    9.24358
+],
+  "geometry": {"coordinates":[5.8772,9.24358],"type":"Point"}
+}

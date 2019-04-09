@@ -1,0 +1,73 @@
+{
+  "id": 1327102813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.57398,11.47934,7.57398,11.47934",
+    "geom:latitude":11.47934,
+    "geom:longitude":7.57398,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"417.0",
+    "gn:admin3_code":"41704",
+    "gn:asciiname":"Ungwan Jero",
+    "gn:country_code":"NG",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319963,
+    "gn:latitude":11.47934,
+    "gn:longitude":7.57398,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Jero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jero",
+        "Ungwan Jero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319963
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6101de11d7b0b6a4ba73ffe381718431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563745,
+            "locality_id":1327102813,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1327102813,
+    "wof:lastmodified":1537674929,
+    "wof:name":"Ungwan Jero",
+    "wof:parent_id":1108563745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.57398,
+    11.47934,
+    7.57398,
+    11.47934
+],
+  "geometry": {"coordinates":[7.57398,11.47934],"type":"Point"}
+}

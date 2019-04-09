@@ -1,0 +1,72 @@
+{
+  "id": 1326912243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.15912,6.60312,3.15912,6.60312",
+    "geom:latitude":6.60312,
+    "geom:longitude":3.15912,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Oluke",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325530,
+    "gn:latitude":6.60312,
+    "gn:longitude":3.15912,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oluke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osuke",
+        "Oluke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108562921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325530
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"22e2944157face7453dbb9552059560a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562921,
+            "locality_id":1326912243,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1326912243,
+    "wof:lastmodified":1537675017,
+    "wof:name":"Oluke",
+    "wof:parent_id":1108562921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.15912,
+    6.60312,
+    3.15912,
+    6.60312
+],
+  "geometry": {"coordinates":[3.15912,6.60312],"type":"Point"}
+}

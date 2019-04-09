@@ -1,0 +1,71 @@
+{
+  "id": 1293617599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68404,4.98751,6.68404,4.98751",
+    "geom:latitude":4.98751,
+    "geom:longitude":6.68404,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33010.0",
+    "gn:asciiname":"Imogu",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826165,
+    "gn:latitude":4.98751,
+    "gn:longitude":6.68404,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imugu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826165
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9e0dc9e6a13afa31f2c61592f3ca999c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563303,
+            "locality_id":1293617599,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293617599,
+    "wof:lastmodified":1537675406,
+    "wof:name":"Imogu",
+    "wof:parent_id":1108563303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68404,
+    4.98751,
+    6.68404,
+    4.98751
+],
+  "geometry": {"coordinates":[6.68404,4.98751],"type":"Point"}
+}

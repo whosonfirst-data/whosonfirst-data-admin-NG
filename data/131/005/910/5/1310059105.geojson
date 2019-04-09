@@ -1,0 +1,70 @@
+{
+  "id": 1310059105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.71715,9.08514,11.71715,9.08514",
+    "geom:latitude":9.08514,
+    "geom:longitude":11.71715,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kawuzoko",
+    "gn:country_code":"NG",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209460,
+    "gn:latitude":9.08514,
+    "gn:longitude":11.71715,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kawuzoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kawuzoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209460
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a54ce4d3bcbfb4b47cc909f211be41eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1310059105,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310059105,
+    "wof:lastmodified":1537675501,
+    "wof:name":"Kawuzoko",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.71715,
+    9.08514,
+    11.71715,
+    9.08514
+],
+  "geometry": {"coordinates":[11.71715,9.08514],"type":"Point"}
+}

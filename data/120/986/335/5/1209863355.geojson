@@ -1,0 +1,73 @@
+{
+  "id": 1209863355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.79775,11.0224,12.79775,11.0224",
+    "geom:latitude":11.0224,
+    "geom:longitude":12.79775,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10710",
+    "gn:asciiname":"Gombi",
+    "gn:country_code":"NG",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340448,
+    "gn:latitude":11.0224,
+    "gn:longitude":12.79775,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kombi",
+        "Gombi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340448
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6f4103f2d7c8e34baacb479835dceffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1209863355,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1209863355,
+    "wof:lastmodified":1537675226,
+    "wof:name":"Gombi",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.79775,
+    11.0224,
+    12.79775,
+    11.0224
+],
+  "geometry": {"coordinates":[12.79775,11.0224],"type":"Point"}
+}

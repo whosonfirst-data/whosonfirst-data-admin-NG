@@ -1,0 +1,63 @@
+{
+  "id": 1209134373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84784,13.61874,5.84784,13.61874",
+    "geom:latitude":13.61874,
+    "geom:longitude":5.84784,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60403",
+    "gn:asciiname":"Momosuka",
+    "gn:country_code":"NG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012083,
+    "gn:latitude":13.61874,
+    "gn:longitude":5.84784,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Momosuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012083
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf918c0b32198c6f275fc5b536be4c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134373
+        }
+    ],
+    "wof:id":1209134373,
+    "wof:lastmodified":1536296709,
+    "wof:name":"Momosuka",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84784,
+    13.61874,
+    5.84784,
+    13.61874
+],
+  "geometry": {"coordinates":[5.84784,13.61874],"type":"Point"}
+}

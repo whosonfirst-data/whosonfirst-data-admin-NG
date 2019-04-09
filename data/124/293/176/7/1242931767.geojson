@@ -1,0 +1,68 @@
+{
+  "id": 1242931767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7531,6.03438,8.7531,6.03438",
+    "geom:latitude":6.03438,
+    "geom:longitude":8.7531,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Akparabong",
+    "gn:country_code":"NG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350941,
+    "gn:latitude":6.03438,
+    "gn:longitude":8.7531,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akparabong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350941
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"69698055f3e0261da44ca8c4e81618ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":1242931767,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1242931767,
+    "wof:lastmodified":1537048666,
+    "wof:name":"Akparabong",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7531,
+    6.03438,
+    8.7531,
+    6.03438
+],
+  "geometry": {"coordinates":[8.7531,6.03438],"type":"Point"}
+}

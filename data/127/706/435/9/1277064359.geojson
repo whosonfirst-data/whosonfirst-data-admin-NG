@@ -1,0 +1,68 @@
+{
+  "id": 1277064359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.93405,9.03237,6.93405,9.03237",
+    "geom:latitude":9.03237,
+    "geom:longitude":6.93405,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15003.0",
+    "gn:asciiname":"Dawari",
+    "gn:country_code":"NG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345069,
+    "gn:latitude":9.03237,
+    "gn:longitude":6.93405,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dawari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345069
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5ad7f0e5eaac2b7bfa13b414db040bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563461,
+            "locality_id":1277064359,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1277064359,
+    "wof:lastmodified":1536794014,
+    "wof:name":"Dawari",
+    "wof:parent_id":1108563461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.93405,
+    9.03237,
+    6.93405,
+    9.03237
+],
+  "geometry": {"coordinates":[6.93405,9.03237],"type":"Point"}
+}

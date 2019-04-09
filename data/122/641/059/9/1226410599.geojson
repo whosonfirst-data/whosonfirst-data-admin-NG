@@ -1,0 +1,69 @@
+{
+  "id": 1226410599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.89766,12.57931,7.89766,12.57931",
+    "geom:latitude":12.57931,
+    "geom:longitude":7.89766,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"420.0",
+    "gn:admin3_code":"42002",
+    "gn:asciiname":"Taiba",
+    "gn:country_code":"NG",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998490,
+    "gn:latitude":12.57931,
+    "gn:longitude":7.89766,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Taiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998490
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c8697e4426d9ef9f7f359fc9d99685d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563773,
+            "locality_id":1226410599,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1226410599,
+    "wof:lastmodified":1536696465,
+    "wof:name":"Taiba",
+    "wof:parent_id":1108563773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.89766,
+    12.57931,
+    7.89766,
+    12.57931
+],
+  "geometry": {"coordinates":[7.89766,12.57931],"type":"Point"}
+}

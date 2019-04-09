@@ -1,0 +1,69 @@
+{
+  "id": 1209884601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35169,10.63527,7.35169,10.63527",
+    "geom:latitude":10.63527,
+    "geom:longitude":7.35169,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19004.0",
+    "gn:admin3_code":"KD0401",
+    "gn:asciiname":"Randage",
+    "gn:country_code":"NG",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591188,
+    "gn:latitude":10.63527,
+    "gn:longitude":7.35169,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Randage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591188
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ee4b0cf6bda329e80124f88915d51ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563551,
+            "locality_id":1209884601,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1209884601,
+    "wof:lastmodified":1536393505,
+    "wof:name":"Randage",
+    "wof:parent_id":1108563551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.35169,
+    10.63527,
+    7.35169,
+    10.63527
+],
+  "geometry": {"coordinates":[7.35169,10.63527],"type":"Point"}
+}

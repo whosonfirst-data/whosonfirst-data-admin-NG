@@ -1,0 +1,64 @@
+{
+  "id": 1209049689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.00781,5.86039,5.00781,5.86039",
+    "geom:latitude":5.86039,
+    "geom:longitude":5.00781,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Akerele",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121947,
+    "gn:latitude":5.86039,
+    "gn:longitude":5.00781,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Akerele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akerele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121947
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d942437ea2d5f163aba6d5fb7835a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209049689
+        }
+    ],
+    "wof:id":1209049689,
+    "wof:lastmodified":1537675477,
+    "wof:name":"Akerele",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.00781,
+    5.86039,
+    5.00781,
+    5.86039
+],
+  "geometry": {"coordinates":[5.00781,5.86039],"type":"Point"}
+}

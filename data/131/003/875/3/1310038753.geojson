@@ -1,0 +1,67 @@
+{
+  "id": 1310038753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.07834,11.78233,7.07834,11.78233",
+    "geom:latitude":11.78233,
+    "geom:longitude":7.07834,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Yankara",
+    "gn:country_code":"NG",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318336,
+    "gn:latitude":11.78233,
+    "gn:longitude":7.07834,
+    "gn:modification_date":"2009-05-01",
+    "gn:name":"Yankara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318336
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0f997ec2b137a61b648705b85262d3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563367,
+            "locality_id":1310038753,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1310038753,
+    "wof:lastmodified":1537089574,
+    "wof:name":"Yankara",
+    "wof:parent_id":1108563367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07834,
+    11.78233,
+    7.07834,
+    11.78233
+],
+  "geometry": {"coordinates":[7.07834,11.78233],"type":"Point"}
+}

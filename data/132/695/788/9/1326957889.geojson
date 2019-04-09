@@ -1,0 +1,74 @@
+{
+  "id": 1326957889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15157,6.0954,8.15157,6.0954",
+    "geom:latitude":6.0954,
+    "geom:longitude":8.15157,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007",
+    "gn:asciiname":"Onuebonyi Echara",
+    "gn:country_code":"NG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10273509,
+    "gn:latitude":6.0954,
+    "gn:longitude":8.15157,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onuebonyi Echara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Echara-Onuaboyi",
+        "Echara Onu-Ebonyi",
+        "Echara-Anuaboyi",
+        "Onu Ebonyi Echara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10273509
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"348a9e9ca0ad944e3f5be27957c11473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1326957889,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1326957889,
+    "wof:lastmodified":1537675469,
+    "wof:name":"Onuebonyi Echara",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15157,
+    6.0954,
+    8.15157,
+    6.0954
+],
+  "geometry": {"coordinates":[8.15157,6.0954],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209583973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.60736,11.79809,7.60736,11.79809",
+    "geom:latitude":11.79809,
+    "geom:longitude":7.60736,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"425.0",
+    "gn:admin3_code":"42508",
+    "gn:asciiname":"Ginnery",
+    "gn:country_code":"NG",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340631,
+    "gn:latitude":11.79809,
+    "gn:longitude":7.60736,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ginnery",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340631
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72a5f87e90223d86490d092d166abd08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209583973
+        }
+    ],
+    "wof:id":1209583973,
+    "wof:lastmodified":1536282696,
+    "wof:name":"Ginnery",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.607360000000001,
+    11.79809,
+    7.607360000000001,
+    11.79809
+],
+  "geometry": {"coordinates":[7.60736,11.79809],"type":"Point"}
+}

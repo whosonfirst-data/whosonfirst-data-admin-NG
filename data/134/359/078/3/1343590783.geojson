@@ -1,0 +1,67 @@
+{
+  "id": 1343590783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.40005,5.25897,6.40005,5.25897",
+    "geom:latitude":5.25897,
+    "geom:longitude":6.40005,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Isoko Camp",
+    "gn:country_code":"NG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100256,
+    "gn:latitude":5.25897,
+    "gn:longitude":6.40005,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Isoko Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100256
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"51f4e820e828e4d1ad040cbf4ff4d1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564323,
+            "locality_id":1343590783,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1343590783,
+    "wof:lastmodified":1537053492,
+    "wof:name":"Isoko Camp",
+    "wof:parent_id":1108564323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.40005,
+    5.25897,
+    6.40005,
+    5.25897
+],
+  "geometry": {"coordinates":[6.40005,5.25897],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327074423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2449,8.5698,12.2449,8.5698",
+    "geom:latitude":8.5698,
+    "geom:longitude":12.2449,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Garwa",
+    "gn:country_code":"NG",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341691,
+    "gn:latitude":8.5698,
+    "gn:longitude":12.2449,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341691
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd27f4d48fa9dfc4a13d73065a216aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1327074423,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1327074423,
+    "wof:lastmodified":1536700140,
+    "wof:name":"Garwa",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2449,
+    8.5698,
+    12.2449,
+    8.5698
+],
+  "geometry": {"coordinates":[12.2449,8.5698],"type":"Point"}
+}

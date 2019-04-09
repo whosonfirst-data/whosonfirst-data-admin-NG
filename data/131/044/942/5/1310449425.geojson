@@ -1,0 +1,68 @@
+{
+  "id": 1310449425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49007,7.08422,8.49007,7.08422",
+    "geom:latitude":7.08422,
+    "geom:longitude":8.49007,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010",
+    "gn:asciiname":"Nyughbough",
+    "gn:country_code":"NG",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9269289,
+    "gn:latitude":7.08422,
+    "gn:longitude":8.49007,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nyughbough",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9269289
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0b860199b6fc988d2fa580792268e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1310449425,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1310449425,
+    "wof:lastmodified":1536997108,
+    "wof:name":"Nyughbough",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49007,
+    7.08422,
+    8.49007,
+    7.08422
+],
+  "geometry": {"coordinates":[8.49007,7.08422],"type":"Point"}
+}

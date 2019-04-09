@@ -1,0 +1,73 @@
+{
+  "id": 1193044625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.96667,11.25,4.96667,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":4.96667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27021.0",
+    "gn:asciiname":"Uganda",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320910,
+    "gn:latitude":11.25,
+    "gn:longitude":4.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sindiri",
+        "Uganda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320910
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"50b4c60257899d6dbc36a7524dac6821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564297,
+            "locality_id":1193044625,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1193044625,
+    "wof:lastmodified":1537674959,
+    "wof:name":"Uganda",
+    "wof:parent_id":1108564297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.96667,
+    11.25,
+    4.96667,
+    11.25
+],
+  "geometry": {"coordinates":[4.96667,11.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327362137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43333,7.28333,4.43333,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":4.43333,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30013.0",
+    "gn:asciiname":"Kilibi",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334450,
+    "gn:latitude":7.28333,
+    "gn:longitude":4.43333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kilibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilibi-Oke",
+        "Kilibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108563537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334450
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d623f3f3d286a38202cbdfa8e17781b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563537,
+            "locality_id":1327362137,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1327362137,
+    "wof:lastmodified":1537675141,
+    "wof:name":"Kilibi",
+    "wof:parent_id":1108563537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.43333,
+    7.28333,
+    4.43333,
+    7.28333
+],
+  "geometry": {"coordinates":[4.43333,7.28333],"type":"Point"}
+}

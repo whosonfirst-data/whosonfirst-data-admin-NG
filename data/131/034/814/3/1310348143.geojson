@@ -1,0 +1,74 @@
+{
+  "id": 1310348143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17974,6.35966,6.17974,6.35966",
+    "geom:latitude":6.35966,
+    "geom:longitude":6.17974,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Umulua-Obiogba",
+    "gn:country_code":"NG",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320434,
+    "gn:latitude":6.35966,
+    "gn:longitude":6.17974,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umulua-Obiogba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Umulua-Obiogba"
+    ],
+    "name:eng_x_variant":[
+        "Umuiua-Obiogba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320434
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"78b4bac7bd5e418fea5e664312c6b71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1310348143,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1310348143,
+    "wof:lastmodified":1537674947,
+    "wof:name":"Umulua-Obiogba",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17974,
+    6.35966,
+    6.17974,
+    6.35966
+],
+  "geometry": {"coordinates":[6.17974,6.35966],"type":"Point"}
+}

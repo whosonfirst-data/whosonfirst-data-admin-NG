@@ -1,0 +1,72 @@
+{
+  "id": 1225788221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03012,5.45209,6.03012,5.45209",
+    "geom:latitude":5.45209,
+    "geom:longitude":6.03012,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Ogor",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327641,
+    "gn:latitude":5.45209,
+    "gn:longitude":6.03012,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agor",
+        "Ogor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327641
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aeadaf3a4d4e843224d9dc7bf7ac36ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1225788221,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1225788221,
+    "wof:lastmodified":1537675050,
+    "wof:name":"Ogor",
+    "wof:parent_id":1108564439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03012,
+    5.45209,
+    6.03012,
+    5.45209
+],
+  "geometry": {"coordinates":[6.03012,5.45209],"type":"Point"}
+}

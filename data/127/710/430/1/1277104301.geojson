@@ -1,0 +1,68 @@
+{
+  "id": 1277104301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52376,8.75685,9.52376,8.75685",
+    "geom:latitude":8.75685,
+    "geom:longitude":9.52376,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Dunkul",
+    "gn:country_code":"NG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921999,
+    "gn:latitude":8.75685,
+    "gn:longitude":9.52376,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dunkul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921999
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d5cf256c6edcbcd6c195b00c97e06485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1277104301,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1277104301,
+    "wof:lastmodified":1536736715,
+    "wof:name":"Dunkul",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52376,
+    8.75685,
+    9.52376,
+    8.75685
+],
+  "geometry": {"coordinates":[9.52376,8.75685],"type":"Point"}
+}

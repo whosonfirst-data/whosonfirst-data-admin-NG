@@ -1,0 +1,69 @@
+{
+  "id": 1225874335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31329,13.15986,5.31329,13.15986",
+    "geom:latitude":13.15986,
+    "geom:longitude":5.31329,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61105",
+    "gn:asciiname":"Gidan Ali",
+    "gn:country_code":"NG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012991,
+    "gn:latitude":13.15986,
+    "gn:longitude":5.31329,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012991
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"92ca0c7aa14e07d167495a06505a0535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563875,
+            "locality_id":1225874335,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1225874335,
+    "wof:lastmodified":1536972199,
+    "wof:name":"Gidan Ali",
+    "wof:parent_id":1108563875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31329,
+    13.15986,
+    5.31329,
+    13.15986
+],
+  "geometry": {"coordinates":[5.31329,13.15986],"type":"Point"}
+}

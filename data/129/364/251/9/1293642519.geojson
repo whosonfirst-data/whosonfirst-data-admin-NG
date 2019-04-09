@@ -1,0 +1,68 @@
+{
+  "id": 1293642519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46097,10.07199,12.46097,10.07199",
+    "geom:latitude":10.07199,
+    "geom:longitude":12.46097,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Piri",
+    "gn:country_code":"NG",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836918,
+    "gn:latitude":10.07199,
+    "gn:longitude":12.46097,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Piri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836918
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"62216fc0440ab2f7e0ae959f342917a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1293642519,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293642519,
+    "wof:lastmodified":1537058339,
+    "wof:name":"Piri",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46097,
+    10.07199,
+    12.46097,
+    10.07199
+],
+  "geometry": {"coordinates":[12.46097,10.07199],"type":"Point"}
+}

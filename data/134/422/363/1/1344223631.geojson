@@ -1,0 +1,69 @@
+{
+  "id": 1344223631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99603,11.05866,12.99603,11.05866",
+    "geom:latitude":11.05866,
+    "geom:longitude":12.99603,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10710",
+    "gn:asciiname":"Bukarti",
+    "gn:country_code":"NG",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760776,
+    "gn:latitude":11.05866,
+    "gn:longitude":12.99603,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bukarti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760776
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5756b8da3250c106bf60e332be3788ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1344223631,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1344223631,
+    "wof:lastmodified":1536639253,
+    "wof:name":"Bukarti",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99603,
+    11.05866,
+    12.99603,
+    11.05866
+],
+  "geometry": {"coordinates":[12.99603,11.05866],"type":"Point"}
+}

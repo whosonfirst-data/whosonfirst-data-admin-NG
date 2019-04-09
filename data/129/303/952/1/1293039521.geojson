@@ -1,0 +1,71 @@
+{
+  "id": 1293039521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30292,6.00151,5.30292,6.00151",
+    "geom:latitude":6.00151,
+    "geom:longitude":5.30292,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12014.0",
+    "gn:asciiname":"Abiala",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352914,
+    "gn:latitude":6.00151,
+    "gn:longitude":5.30292,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Abiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abiala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352914
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"68aa4da3c8daa075a5bd3c66e2c05220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564241,
+            "locality_id":1293039521,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1293039521,
+    "wof:lastmodified":1537675396,
+    "wof:name":"Abiala",
+    "wof:parent_id":1108564241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.30292,
+    6.00151,
+    5.30292,
+    6.00151
+],
+  "geometry": {"coordinates":[5.30292,6.00151],"type":"Point"}
+}

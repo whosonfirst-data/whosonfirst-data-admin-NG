@@ -1,0 +1,69 @@
+{
+  "id": 1209784143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.579,9.64677,7.579,9.64677",
+    "geom:latitude":9.64677,
+    "geom:longitude":7.579,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19008",
+    "gn:admin3_code":"KD0803",
+    "gn:asciiname":"Kwaro Tsofuwa",
+    "gn:country_code":"NG",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646541,
+    "gn:latitude":9.64677,
+    "gn:longitude":7.579,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwaro Tsofuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646541
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"804a69f5e2d6ce2e0ddfe53cce6d0ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563739,
+            "locality_id":1209784143,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1209784143,
+    "wof:lastmodified":1536370462,
+    "wof:name":"Kwaro Tsofuwa",
+    "wof:parent_id":1108563739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.579,
+    9.64677,
+    7.579,
+    9.64677
+],
+  "geometry": {"coordinates":[7.579,9.64677],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225972891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69106,12.34319,6.69106,12.34319",
+    "geom:latitude":12.34319,
+    "geom:longitude":6.69106,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80805",
+    "gn:asciiname":"Guidan Bako",
+    "gn:country_code":"NG",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341137,
+    "gn:latitude":12.34319,
+    "gn:longitude":6.69106,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guidan Bako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Bako",
+        "Guidan Bako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341137
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad116d06bc955f6a059431fb8df87a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563799,
+            "locality_id":1225972891,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1225972891,
+    "wof:lastmodified":1537675244,
+    "wof:name":"Guidan Bako",
+    "wof:parent_id":1108563799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69106,
+    12.34319,
+    6.69106,
+    12.34319
+],
+  "geometry": {"coordinates":[6.69106,12.34319],"type":"Point"}
+}

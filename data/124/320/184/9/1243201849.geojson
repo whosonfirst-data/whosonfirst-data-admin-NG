@@ -1,0 +1,68 @@
+{
+  "id": 1243201849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.80682,9.40114,5.80682,9.40114",
+    "geom:latitude":9.40114,
+    "geom:longitude":5.80682,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27013",
+    "gn:asciiname":"Kambu",
+    "gn:country_code":"NG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10308359,
+    "gn:latitude":9.40114,
+    "gn:longitude":5.80682,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kambu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308359
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a885934d663956ef1a52bc6b5c6c0732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563899,
+            "locality_id":1243201849,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243201849,
+    "wof:lastmodified":1536661402,
+    "wof:name":"Kambu",
+    "wof:parent_id":1108563899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.80682,
+    9.40114,
+    5.80682,
+    9.40114
+],
+  "geometry": {"coordinates":[5.80682,9.40114],"type":"Point"}
+}

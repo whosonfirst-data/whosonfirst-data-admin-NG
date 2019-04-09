@@ -1,0 +1,69 @@
+{
+  "id": 1193084495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.54297,11.54116,12.54297,11.54116",
+    "geom:latitude":11.54116,
+    "geom:longitude":12.54297,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"114.0",
+    "gn:admin3_code":"11413",
+    "gn:asciiname":"Tabolo",
+    "gn:country_code":"NG",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322676,
+    "gn:latitude":11.54116,
+    "gn:longitude":12.54297,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tabolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322676
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"46dca2515fc9d2c343cdc75d0a167189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563747,
+            "locality_id":1193084495,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1193084495,
+    "wof:lastmodified":1536377210,
+    "wof:name":"Tabolo",
+    "wof:parent_id":1108563747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.54297,
+    11.54116,
+    12.54297,
+    11.54116
+],
+  "geometry": {"coordinates":[12.54297,11.54116],"type":"Point"}
+}

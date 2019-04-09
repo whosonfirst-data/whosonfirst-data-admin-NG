@@ -1,0 +1,73 @@
+{
+  "id": 1293720517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3569,12.99455,5.3569,12.99455",
+    "geom:latitude":12.99455,
+    "geom:longitude":5.3569,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61110",
+    "gn:asciiname":"Gantamau",
+    "gn:country_code":"NG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342210,
+    "gn:latitude":12.99455,
+    "gn:longitude":5.3569,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gantamau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamamau",
+        "Gantamau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342210
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"beff93ec60fa238db7c7d66000a473e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563875,
+            "locality_id":1293720517,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293720517,
+    "wof:lastmodified":1537675259,
+    "wof:name":"Gantamau",
+    "wof:parent_id":1108563875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3569,
+    12.99455,
+    5.3569,
+    12.99455
+],
+  "geometry": {"coordinates":[5.3569,12.99455],"type":"Point"}
+}

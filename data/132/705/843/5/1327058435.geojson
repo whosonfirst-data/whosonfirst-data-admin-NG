@@ -1,0 +1,71 @@
+{
+  "id": 1327058435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86426,9.73091,6.86426,9.73091",
+    "geom:latitude":9.73091,
+    "geom:longitude":6.86426,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018",
+    "gn:asciiname":"Ja Ape Hill",
+    "gn:country_code":"NG",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409666,
+    "gn:latitude":9.73091,
+    "gn:longitude":6.86426,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ja Ape Hill",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaape Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409666
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f2752c1bf688726a231acab5b5603669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564003,
+            "locality_id":1327058435,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1327058435,
+    "wof:lastmodified":1537675470,
+    "wof:name":"Ja Ape Hill",
+    "wof:parent_id":1108564003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86426,
+    9.73091,
+    6.86426,
+    9.73091
+],
+  "geometry": {"coordinates":[6.86426,9.73091],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293030473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89942,9.54853,8.89942,9.54853",
+    "geom:latitude":9.54853,
+    "geom:longitude":8.89942,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32001.0",
+    "gn:asciiname":"Barakin Gangare",
+    "gn:country_code":"NG",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347722,
+    "gn:latitude":9.54853,
+    "gn:longitude":8.89942,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barakin Gangare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347722
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3eda30b1c2a95dfc46aa4714c9594bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563087,
+            "locality_id":1293030473,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1293030473,
+    "wof:lastmodified":1536949322,
+    "wof:name":"Barakin Gangare",
+    "wof:parent_id":1108563087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89942,
+    9.54853,
+    8.89942,
+    9.54853
+],
+  "geometry": {"coordinates":[8.89942,9.54853],"type":"Point"}
+}

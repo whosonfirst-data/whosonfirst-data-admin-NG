@@ -1,0 +1,70 @@
+{
+  "id": 1209748493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.95482,9.69156,10.95482,9.69156",
+    "geom:latitude":9.69156,
+    "geom:longitude":10.95482,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Rebek",
+    "gn:country_code":"NG",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258916,
+    "gn:latitude":9.69156,
+    "gn:longitude":10.95482,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Rebek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rebek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258916
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f648f0d679f3a8fb1d80b8dc393a7485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564363,
+            "locality_id":1209748493,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1209748493,
+    "wof:lastmodified":1537675512,
+    "wof:name":"Rebek",
+    "wof:parent_id":1108564363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.95482,
+    9.69156,
+    10.95482,
+    9.69156
+],
+  "geometry": {"coordinates":[10.95482,9.69156],"type":"Point"}
+}

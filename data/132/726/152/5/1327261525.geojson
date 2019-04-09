@@ -1,0 +1,67 @@
+{
+  "id": 1327261525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.76947,11.73117,4.76947,11.73117",
+    "geom:latitude":11.73117,
+    "geom:longitude":4.76947,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Gidan Dabawa",
+    "gn:country_code":"NG",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020362,
+    "gn:latitude":11.73117,
+    "gn:longitude":4.76947,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gidan Dabawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020362
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6e5c59a5303126f79fd574dfcb17e98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563809,
+            "locality_id":1327261525,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1327261525,
+    "wof:lastmodified":1536928386,
+    "wof:name":"Gidan Dabawa",
+    "wof:parent_id":1108563809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.76947,
+    11.73117,
+    4.76947,
+    11.73117
+],
+  "geometry": {"coordinates":[4.76947,11.73117],"type":"Point"}
+}

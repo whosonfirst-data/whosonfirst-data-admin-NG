@@ -1,0 +1,69 @@
+{
+  "id": 1242707435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.23198,13.20494,11.23198,13.20494",
+    "geom:latitude":13.20494,
+    "geom:longitude":11.23198,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717",
+    "gn:admin3_code":"71711",
+    "gn:asciiname":"Brutuberia",
+    "gn:country_code":"NG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311937,
+    "gn:latitude":13.20494,
+    "gn:longitude":11.23198,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Brutuberia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311937
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f407d49d7d2656b52726109154bc1771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564549,
+            "locality_id":1242707435,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1242707435,
+    "wof:lastmodified":1536875972,
+    "wof:name":"Brutuberia",
+    "wof:parent_id":1108564549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.23198,
+    13.20494,
+    11.23198,
+    13.20494
+],
+  "geometry": {"coordinates":[11.23198,13.20494],"type":"Point"}
+}

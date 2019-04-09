@@ -1,0 +1,68 @@
+{
+  "id": 1260235625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85968,7.36212,8.85968,7.36212",
+    "geom:latitude":7.36212,
+    "geom:longitude":8.85968,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Iyo",
+    "gn:country_code":"NG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974244,
+    "gn:latitude":7.36212,
+    "gn:longitude":8.85968,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974244
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b88960bf083e325530deda74044e2f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1260235625,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1260235625,
+    "wof:lastmodified":1536777475,
+    "wof:name":"Iyo",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85968,
+    7.36212,
+    8.85968,
+    7.36212
+],
+  "geometry": {"coordinates":[8.85968,7.36212],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276907863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.00729,9.24347,7.00729,9.24347",
+    "geom:latitude":9.24347,
+    "geom:longitude":7.00729,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Izom",
+    "gn:country_code":"NG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336733,
+    "gn:latitude":9.24347,
+    "gn:longitude":7.00729,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Izom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336733
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"07651ef2af2c4fe1d24c68f02272fd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563461,
+            "locality_id":1276907863,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1276907863,
+    "wof:lastmodified":1537003040,
+    "wof:name":"Izom",
+    "wof:parent_id":1108563461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.00729,
+    9.24347,
+    7.00729,
+    9.24347
+],
+  "geometry": {"coordinates":[7.00729,9.24347],"type":"Point"}
+}

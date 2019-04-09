@@ -1,0 +1,72 @@
+{
+  "id": 1226197405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.99357,6.19031,6.99357,6.19031",
+    "geom:latitude":6.19031,
+    "geom:longitude":6.99357,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4013.0",
+    "gn:asciiname":"Abagana",
+    "gn:country_code":"NG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2353122,
+    "gn:latitude":6.19031,
+    "gn:longitude":6.99357,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abagana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abagana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353122,
+        "wk:page":"Abagana"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dee6932980935b0be5b479f84eff1e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564039,
+            "locality_id":1226197405,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1226197405,
+    "wof:lastmodified":1537675399,
+    "wof:name":"Abagana",
+    "wof:parent_id":1108564039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.99357,
+    6.19031,
+    6.99357,
+    6.19031
+],
+  "geometry": {"coordinates":[6.99357,6.19031],"type":"Point"}
+}

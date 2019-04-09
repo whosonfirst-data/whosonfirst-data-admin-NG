@@ -1,0 +1,67 @@
+{
+  "id": 1226489763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.74035,10.78845,11.74035,10.78845",
+    "geom:latitude":10.78845,
+    "geom:longitude":11.74035,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mallam Bindiga",
+    "gn:country_code":"NG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331052,
+    "gn:latitude":10.78845,
+    "gn:longitude":11.74035,
+    "gn:modification_date":"2009-05-14",
+    "gn:name":"Mallam Bindiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331052
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"adf20b7d558a6bf431f30f700e45ee39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563135,
+            "locality_id":1226489763,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226489763,
+    "wof:lastmodified":1537075647,
+    "wof:name":"Mallam Bindiga",
+    "wof:parent_id":1108563135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.74035,
+    10.78845,
+    11.74035,
+    10.78845
+],
+  "geometry": {"coordinates":[11.74035,10.78845],"type":"Point"}
+}

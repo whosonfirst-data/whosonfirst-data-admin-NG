@@ -1,0 +1,68 @@
+{
+  "id": 1259612869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.26149,8.95578,10.26149,8.95578",
+    "geom:latitude":8.95578,
+    "geom:longitude":10.26149,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32017",
+    "gn:asciiname":"Gimbi",
+    "gn:country_code":"NG",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10908066,
+    "gn:latitude":8.95578,
+    "gn:longitude":10.26149,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10908066
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8afb6b54e81b152f02189f2e3c1e22c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564507,
+            "locality_id":1259612869,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259612869,
+    "wof:lastmodified":1536672545,
+    "wof:name":"Gimbi",
+    "wof:parent_id":1108564507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.26149,
+    8.95578,
+    10.26149,
+    8.95578
+],
+  "geometry": {"coordinates":[10.26149,8.95578],"type":"Point"}
+}

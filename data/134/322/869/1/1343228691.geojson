@@ -1,0 +1,69 @@
+{
+  "id": 1343228691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.15725,10.29622,12.15725,10.29622",
+    "geom:latitude":10.29622,
+    "geom:longitude":12.15725,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11203",
+    "gn:asciiname":"Gadina",
+    "gn:country_code":"NG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342362,
+    "gn:latitude":10.29622,
+    "gn:longitude":12.15725,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gadina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342362
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"892565839609504b4a34ff18ca8d3939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1343228691,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1343228691,
+    "wof:lastmodified":1537077803,
+    "wof:name":"Gadina",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.15725,
+    10.29622,
+    12.15725,
+    10.29622
+],
+  "geometry": {"coordinates":[12.15725,10.29622],"type":"Point"}
+}

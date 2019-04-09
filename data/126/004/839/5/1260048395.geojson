@@ -1,0 +1,69 @@
+{
+  "id": 1260048395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.70595,9.89497,7.70595,9.89497",
+    "geom:latitude":9.89497,
+    "geom:longitude":7.70595,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19008.0",
+    "gn:admin3_code":"KD0802",
+    "gn:asciiname":"Kufain",
+    "gn:country_code":"NG",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333653,
+    "gn:latitude":9.89497,
+    "gn:longitude":7.70595,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kufain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333653
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"35ca4dff76fe33fcaf21a343a1db3275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563739,
+            "locality_id":1260048395,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1260048395,
+    "wof:lastmodified":1537037110,
+    "wof:name":"Kufain",
+    "wof:parent_id":1108563739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.70595,
+    9.89497,
+    7.70595,
+    9.89497
+],
+  "geometry": {"coordinates":[7.70595,9.89497],"type":"Point"}
+}

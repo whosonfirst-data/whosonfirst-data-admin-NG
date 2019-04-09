@@ -1,0 +1,73 @@
+{
+  "id": 1344000413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.25834,11.65964,4.25834,11.65964",
+    "geom:latitude":11.65964,
+    "geom:longitude":4.25834,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"513.0",
+    "gn:admin3_code":"51305",
+    "gn:asciiname":"Dadadi",
+    "gn:country_code":"NG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345821,
+    "gn:latitude":11.65964,
+    "gn:longitude":4.25834,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dadadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jadadi",
+        "Dadadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345821
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4d957734fc15aaec55122cdb87b53c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563829,
+            "locality_id":1344000413,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1344000413,
+    "wof:lastmodified":1537675313,
+    "wof:name":"Dadadi",
+    "wof:parent_id":1108563829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.25834,
+    11.65964,
+    4.25834,
+    11.65964
+],
+  "geometry": {"coordinates":[4.25834,11.65964],"type":"Point"}
+}

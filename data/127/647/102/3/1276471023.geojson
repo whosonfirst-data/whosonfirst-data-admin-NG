@@ -1,0 +1,68 @@
+{
+  "id": 1276471023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8521,7.53352,5.8521,7.53352",
+    "geom:latitude":7.53352,
+    "geom:longitude":5.8521,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29001.0",
+    "gn:asciiname":"Boropa",
+    "gn:country_code":"NG",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833078,
+    "gn:latitude":7.53352,
+    "gn:longitude":5.8521,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Boropa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833078
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ae1f246767f9ef7c266ba30255841210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562969,
+            "locality_id":1276471023,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1276471023,
+    "wof:lastmodified":1537088373,
+    "wof:name":"Boropa",
+    "wof:parent_id":1108562969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8521,
+    7.53352,
+    5.8521,
+    7.53352
+],
+  "geometry": {"coordinates":[5.8521,7.53352],"type":"Point"}
+}

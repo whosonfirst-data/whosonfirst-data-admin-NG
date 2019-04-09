@@ -1,0 +1,69 @@
+{
+  "id": 1309757131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18815,10.54365,12.18815,10.54365",
+    "geom:latitude":10.54365,
+    "geom:longitude":12.18815,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11211",
+    "gn:asciiname":"Talkwa",
+    "gn:country_code":"NG",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322519,
+    "gn:latitude":10.54365,
+    "gn:longitude":12.18815,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Talkwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322519
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a1830376ff7a8ee21f40e1f3b7ebb514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1309757131,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1309757131,
+    "wof:lastmodified":1537000630,
+    "wof:name":"Talkwa",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18815,
+    10.54365,
+    12.18815,
+    10.54365
+],
+  "geometry": {"coordinates":[12.18815,10.54365],"type":"Point"}
+}

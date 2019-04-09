@@ -1,0 +1,63 @@
+{
+  "id": 1209584161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48079,9.83071,8.48079,9.83071",
+    "geom:latitude":9.83071,
+    "geom:longitude":8.48079,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19022",
+    "gn:admin3_code":"KD2208",
+    "gn:asciiname":"Talagan",
+    "gn:country_code":"NG",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003120,
+    "gn:latitude":9.83071,
+    "gn:longitude":8.48079,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Talagan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003120
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ab534de32524185321c8b53027b62f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209584161
+        }
+    ],
+    "wof:id":1209584161,
+    "wof:lastmodified":1536282690,
+    "wof:name":"Talagan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.480789999999999,
+    9.83071,
+    8.480789999999999,
+    9.83071
+],
+  "geometry": {"coordinates":[8.48079,9.83071],"type":"Point"}
+}

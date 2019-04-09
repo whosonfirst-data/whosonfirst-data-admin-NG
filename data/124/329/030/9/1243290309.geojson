@@ -1,0 +1,72 @@
+{
+  "id": 1243290309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66319,5.00758,6.66319,5.00758",
+    "geom:latitude":5.00758,
+    "geom:longitude":6.66319,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33002.0",
+    "gn:asciiname":"Ihowo",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101621,
+    "gn:latitude":5.00758,
+    "gn:longitude":6.66319,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ihowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iwowo",
+        "Ihowo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101621
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e40ac204d157e10f3ec23d2175aef31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562945,
+            "locality_id":1243290309,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1243290309,
+    "wof:lastmodified":1537675454,
+    "wof:name":"Ihowo",
+    "wof:parent_id":1108562945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66319,
+    5.00758,
+    6.66319,
+    5.00758
+],
+  "geometry": {"coordinates":[6.66319,5.00758],"type":"Point"}
+}

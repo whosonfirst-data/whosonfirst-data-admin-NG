@@ -1,0 +1,72 @@
+{
+  "id": 1310134283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33333,9.81667,6.33333,9.81667",
+    "geom:latitude":9.81667,
+    "geom:longitude":6.33333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Sabon Gida",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324098,
+    "gn:latitude":9.81667,
+    "gn:longitude":6.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sabon Gida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabon",
+        "Sabon Gida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324098
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"464cef10372a81e9fe61aeffe079223e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1310134283,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310134283,
+    "wof:lastmodified":1537674997,
+    "wof:name":"Sabon Gida",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33333,
+    9.81667,
+    6.33333,
+    9.81667
+],
+  "geometry": {"coordinates":[6.33333,9.81667],"type":"Point"}
+}

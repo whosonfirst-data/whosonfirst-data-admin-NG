@@ -1,0 +1,72 @@
+{
+  "id": 1343887737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33517,11.67824,11.33517,11.67824",
+    "geom:latitude":11.67824,
+    "geom:longitude":11.33517,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70502",
+    "gn:asciiname":"Damagum",
+    "gn:country_code":"NG",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2345550,
+    "gn:latitude":11.67824,
+    "gn:longitude":11.33517,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Damagum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damagun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345550
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"26d4588f79973862753c7224c3841679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1343887737,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1343887737,
+    "wof:lastmodified":1537675311,
+    "wof:name":"Damagum",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33517,
+    11.67824,
+    11.33517,
+    11.67824
+],
+  "geometry": {"coordinates":[11.33517,11.67824],"type":"Point"}
+}

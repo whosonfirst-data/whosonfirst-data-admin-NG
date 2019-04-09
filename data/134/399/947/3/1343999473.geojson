@@ -1,0 +1,68 @@
+{
+  "id": 1343999473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97306,7.52528,3.97306,7.52528",
+    "geom:latitude":7.52528,
+    "geom:longitude":3.97306,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Dalegan",
+    "gn:country_code":"NG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591664,
+    "gn:latitude":7.52528,
+    "gn:longitude":3.97306,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dalegan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591664
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd923c7c70c0399d6a1880db36f7b3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1343999473,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1343999473,
+    "wof:lastmodified":1536963469,
+    "wof:name":"Dalegan",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97306,
+    7.52528,
+    3.97306,
+    7.52528
+],
+  "geometry": {"coordinates":[3.97306,7.52528],"type":"Point"}
+}

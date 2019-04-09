@@ -1,0 +1,122 @@
+{
+  "id": 421186467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008699,
+    "geom:area_square_m":106890489.902478,
+    "geom:bbox":"7.44746633973,6.39687136831,7.63066633973,6.48507136831",
+    "geom:latitude":6.44279,
+    "geom:longitude":7.537675,
+    "iso:country":"NG",
+    "lbl:latitude":6.43782,
+    "lbl:longitude":7.57723,
+    "meso:adm1_name":"Enugu",
+    "meso:diss_me":"Enugu NorthEnugu",
+    "meso:gadm_admin":"Enugu North",
+    "meso:gaul_admin":"Enugusou",
+    "meso:hasc_id":"NG.EN.EN",
+    "meso:mps_x":7.57723,
+    "meso:mps_y":6.43782,
+    "meso:name_local":"Enugu North",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":6.43782,
+    "mps:longitude":7.57723,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Enugu North"
+    ],
+    "name:eng_x_variant":[
+        "Enugusou",
+        "Enugu North"
+    ],
+    "name:yor_x_preferred":[
+        "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 \u00c0r\u00edw\u00e1 \u1eb8n\u00fagu"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Pak Enugu"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Enugu North",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Enugu",
+    "qs:photos":221,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":221,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1092711,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":56058274,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"106.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Enugu",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.EN",
+    "statoids:name":"Enugu North",
+    "statoids:population":"244852",
+    "statoids:statoid":"NG.EN.EN",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56058274,
+        "hasc:id":"NG.EN.EN",
+        "qs:id":1092711,
+        "wd:id":"Q5380874"
+    },
+    "wof:country":"NG",
+    "wof:created":1459009482,
+    "wof:geomhash":"5370c177b183917d4112404551c7c414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421186467,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":421186467,
+    "wof:lastmodified":1536616036,
+    "wof:name":"Enugu North",
+    "wof:parent_id":85675395,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":244852,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"EN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4474663397326,
+    6.39687136831213,
+    7.63066633973263,
+    6.48507136831212
+],
+  "geometry": {"coordinates":[[[7.4601663397326,6.48097136831217],[7.46276633973261,6.48417136831217],[7.47276633973259,6.48507136831212],[7.48106633973259,6.48067136831212],[7.49026633973264,6.47107136831211],[7.49546633973265,6.4658713683121],[7.51116633973263,6.46667136831212],[7.5325663397326,6.4658713683121],[7.55046633973261,6.46537136831212],[7.56316633973261,6.46457136831218],[7.57056633973258,6.46457136831218],[7.57666633973263,6.46667136831212],[7.58456633973258,6.46667136831212],[7.59626633973262,6.4658713683121],[7.60326633973262,6.46237136831214],[7.61556633973265,6.45667136831214],[7.62556633973263,6.45057136831218],[7.63066633973263,6.44817136831211],[7.62556633973263,6.43357136831211],[7.62116633973263,6.42877136831215],[7.61896633973259,6.41997136831217],[7.60246633973259,6.40817136831211],[7.59066633973263,6.40127136831213],[7.58496633973264,6.39777136831217],[7.58146633973259,6.39687136831213],[7.56876633973259,6.40817136831211],[7.55306633973262,6.4169713683121],[7.54346633973261,6.4239713683121],[7.53216633973263,6.42737136831213],[7.51946633973263,6.42827136831217],[7.50026633973261,6.42607136831213],[7.48326633973263,6.4239713683121],[7.46836633973259,6.42257136831217],[7.45236633973258,6.42337136831211],[7.44916633973257,6.43397136831217],[7.4474663397326,6.45057136831218],[7.4531663397326,6.46667136831212],[7.45746633973258,6.47757136831213],[7.4601663397326,6.48097136831217]]],"type":"Polygon"}
+}

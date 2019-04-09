@@ -1,0 +1,68 @@
+{
+  "id": 1343805575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91556,7.06615,8.91556,7.06615",
+    "geom:latitude":7.06615,
+    "geom:longitude":8.91556,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Ngyoloko",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328937,
+    "gn:latitude":7.06615,
+    "gn:longitude":8.91556,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ngyoloko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328937
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f5e0339741aeddd63b1b72e664f302ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1343805575,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343805575,
+    "wof:lastmodified":1536745574,
+    "wof:name":"Ngyoloko",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91556,
+    7.06615,
+    8.91556,
+    7.06615
+],
+  "geometry": {"coordinates":[8.91556,7.06615],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343226131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86147,4.63702,7.86147,4.63702",
+    "geom:latitude":4.63702,
+    "geom:longitude":7.86147,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3024.0",
+    "gn:asciiname":"Mkpok",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330053,
+    "gn:latitude":4.63702,
+    "gn:longitude":7.86147,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mkpok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330053
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0700069ca42c204a4bea88d725b718ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564197,
+            "locality_id":1343226131,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1343226131,
+    "wof:lastmodified":1537081495,
+    "wof:name":"Mkpok",
+    "wof:parent_id":1108564197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86147,
+    4.63702,
+    7.86147,
+    4.63702
+],
+  "geometry": {"coordinates":[7.86147,4.63702],"type":"Point"}
+}

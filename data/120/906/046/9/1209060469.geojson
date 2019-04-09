@@ -1,0 +1,66 @@
+{
+  "id": 1209060469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.323,11.04272,13.323,11.04272",
+    "geom:latitude":11.04272,
+    "geom:longitude":13.323,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11102",
+    "gn:asciiname":"Kaviri-Damboa",
+    "gn:country_code":"NG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334727,
+    "gn:latitude":11.04272,
+    "gn:longitude":13.323,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaviri-Damboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaviri Damboa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334727
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"61e9696242cd07b1e2b72ce0221befa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209060469
+        }
+    ],
+    "wof:id":1209060469,
+    "wof:lastmodified":1537675145,
+    "wof:name":"Kaviri-Damboa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.323,
+    11.04272,
+    13.323,
+    11.04272
+],
+  "geometry": {"coordinates":[13.323,11.04272],"type":"Point"}
+}

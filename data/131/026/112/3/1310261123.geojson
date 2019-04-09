@@ -1,0 +1,72 @@
+{
+  "id": 1310261123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26084,5.83812,8.26084,5.83812",
+    "geom:latitude":5.83812,
+    "geom:longitude":8.26084,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9017.0",
+    "gn:asciiname":"Agoi Ekpo",
+    "gn:country_code":"NG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351809,
+    "gn:latitude":5.83812,
+    "gn:longitude":8.26084,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agoi Ekpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agoi-Ikpo",
+        "Agoi Ekpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351809
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aa391653f39720a3baec19a7354b9b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564525,
+            "locality_id":1310261123,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1310261123,
+    "wof:lastmodified":1537675385,
+    "wof:name":"Agoi Ekpo",
+    "wof:parent_id":1108564525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26084,
+    5.83812,
+    8.26084,
+    5.83812
+],
+  "geometry": {"coordinates":[8.26084,5.83812],"type":"Point"}
+}

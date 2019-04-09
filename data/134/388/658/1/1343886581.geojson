@@ -1,0 +1,72 @@
+{
+  "id": 1343886581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.7869,9.97513,9.7869,9.97513",
+    "geom:latitude":9.97513,
+    "geom:longitude":9.7869,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5002.0",
+    "gn:admin3_code":"BA0217",
+    "gn:asciiname":"Zungur",
+    "gn:country_code":"NG",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317566,
+    "gn:latitude":9.97513,
+    "gn:longitude":9.7869,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zungur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zungur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317566
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dccb915928b2b6a0171859c1ee2662a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563101,
+            "locality_id":1343886581,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1343886581,
+    "wof:lastmodified":1537674896,
+    "wof:name":"Zungur",
+    "wof:parent_id":1108563101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.7869,
+    9.97513,
+    9.7869,
+    9.97513
+],
+  "geometry": {"coordinates":[9.7869,9.97513],"type":"Point"}
+}

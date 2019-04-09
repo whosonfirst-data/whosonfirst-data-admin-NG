@@ -1,0 +1,65 @@
+{
+  "id": 1209167237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90422,5.51848,5.90422,5.51848",
+    "geom:latitude":5.51848,
+    "geom:longitude":5.90422,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10020.0",
+    "gn:asciiname":"Ekakpamre",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343762,
+    "gn:latitude":5.51848,
+    "gn:longitude":5.90422,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ekakpamre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ekakpamre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343762
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9aa0a72abcc324f467b93108bfa09fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209167237
+        }
+    ],
+    "wof:id":1209167237,
+    "wof:lastmodified":1537675283,
+    "wof:name":"Ekakpamre",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90422,
+    5.51848,
+    5.90422,
+    5.51848
+],
+  "geometry": {"coordinates":[5.90422,5.51848],"type":"Point"}
+}

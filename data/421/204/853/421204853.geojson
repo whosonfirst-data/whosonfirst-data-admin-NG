@@ -1,0 +1,99 @@
+{
+  "id": 421204853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.70632,5.96669,8.70632,5.96669",
+    "geom:latitude":5.96669,
+    "geom:longitude":8.70632,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Ikom"
+    ],
+    "name:eng_x_preferred":[
+        "Ikom"
+    ],
+    "name:fre_x_preferred":[
+        "Ikom"
+    ],
+    "name:ger_x_preferred":[
+        "Ikom"
+    ],
+    "name:ita_x_preferred":[
+        "Ikom"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Ikom"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2338242,
+    "qs:gn_pop":79103,
+    "qs:name":"Ikom",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Cross River",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":250403,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1394575,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":116,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338242,
+        "gp:id":1394575,
+        "qs:id":250403,
+        "wd:id":"Q5996091"
+    },
+    "wof:country":"NG",
+    "wof:created":1459010200,
+    "wof:geomhash":"fd67a29e447d04e44ba6078bf1cf76ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":421204853,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":421204853,
+    "wof:lastmodified":1527716186,
+    "wof:name":"Ikom",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:population":79103,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.70632,
+    5.96669,
+    8.70632,
+    5.96669
+],
+  "geometry": {"coordinates":[8.70632,5.96669],"type":"Point"}
+}

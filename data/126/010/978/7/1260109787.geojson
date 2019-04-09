@@ -1,0 +1,69 @@
+{
+  "id": 1260109787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.82531,12.34137,4.82531,12.34137",
+    "geom:latitude":12.34137,
+    "geom:longitude":4.82531,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"618.0",
+    "gn:admin3_code":"61802",
+    "gn:asciiname":"Gyasapode",
+    "gn:country_code":"NG",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040245,
+    "gn:latitude":12.34137,
+    "gn:longitude":4.82531,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gyasapode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040245
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"653415f4591ab67663b5a74c778e7e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564401,
+            "locality_id":1260109787,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1260109787,
+    "wof:lastmodified":1536950557,
+    "wof:name":"Gyasapode",
+    "wof:parent_id":1108564401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.82531,
+    12.34137,
+    4.82531,
+    12.34137
+],
+  "geometry": {"coordinates":[4.82531,12.34137],"type":"Point"}
+}

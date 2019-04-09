@@ -1,0 +1,73 @@
+{
+  "id": 1327092531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.18597,11.2974,8.18597,11.2974",
+    "geom:latitude":11.2974,
+    "geom:longitude":8.18597,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19005.0",
+    "gn:admin3_code":"KD0504",
+    "gn:asciiname":"Ungwan Munkaila",
+    "gn:country_code":"NG",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319847,
+    "gn:latitude":11.2974,
+    "gn:longitude":8.18597,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Munkaila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munkaila",
+        "Ungwan Munkaila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319847
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f71189300498f12cbbb1a81aa04345e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563589,
+            "locality_id":1327092531,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1327092531,
+    "wof:lastmodified":1537674925,
+    "wof:name":"Ungwan Munkaila",
+    "wof:parent_id":1108563589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.18597,
+    11.2974,
+    8.18597,
+    11.2974
+],
+  "geometry": {"coordinates":[8.18597,11.2974],"type":"Point"}
+}

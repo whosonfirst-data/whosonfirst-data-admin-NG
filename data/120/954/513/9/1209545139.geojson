@@ -1,0 +1,62 @@
+{
+  "id": 1209545139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92903,4.58763,6.92903,4.58763",
+    "geom:latitude":4.58763,
+    "geom:longitude":6.92903,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Kala Tuma",
+    "gn:country_code":"NG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335405,
+    "gn:latitude":4.58763,
+    "gn:longitude":6.92903,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kala Tuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335405
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca1dc767e337c8322794437a40d6ac4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545139
+        }
+    ],
+    "wof:id":1209545139,
+    "wof:lastmodified":1536283866,
+    "wof:name":"Kala Tuma",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92903,
+    4.58763,
+    6.92903,
+    4.58763
+],
+  "geometry": {"coordinates":[6.92903,4.58763],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209648255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15842,4.39517,6.15842,4.39517",
+    "geom:latitude":4.39517,
+    "geom:longitude":6.15842,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6001",
+    "gn:asciiname":"Apunhiakiri",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10220312,
+    "gn:latitude":4.39517,
+    "gn:longitude":6.15842,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Apunhiakiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10220312
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ac3d63b64abb6c4e9256c1558da1b322",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648255
+        }
+    ],
+    "wof:id":1209648255,
+    "wof:lastmodified":1536280665,
+    "wof:name":"Apunhiakiri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15842,
+    4.3951699999999985,
+    6.15842,
+    4.3951699999999985
+],
+  "geometry": {"coordinates":[6.15842,4.39517],"type":"Point"}
+}

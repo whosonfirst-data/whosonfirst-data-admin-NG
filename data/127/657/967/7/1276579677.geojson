@@ -1,0 +1,72 @@
+{
+  "id": 1276579677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78359,4.7225,6.78359,4.7225",
+    "geom:latitude":4.7225,
+    "geom:longitude":6.78359,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Erisekiri",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826245,
+    "gn:latitude":4.7225,
+    "gn:longitude":6.78359,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Erisekiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abelkiri",
+        "Frisekiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826245
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"01afea579489403484751a74f3146578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1276579677,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1276579677,
+    "wof:lastmodified":1537675407,
+    "wof:name":"Erisekiri",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78359,
+    4.7225,
+    6.78359,
+    4.7225
+],
+  "geometry": {"coordinates":[6.78359,4.7225],"type":"Point"}
+}

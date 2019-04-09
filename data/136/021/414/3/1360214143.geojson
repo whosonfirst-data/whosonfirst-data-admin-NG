@@ -1,0 +1,68 @@
+{
+  "id": 1360214143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.8209,9.74466,6.8209,9.74466",
+    "geom:latitude":9.74466,
+    "geom:longitude":6.8209,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Gwada Gari",
+    "gn:country_code":"NG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409660,
+    "gn:latitude":9.74466,
+    "gn:longitude":6.8209,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gwada Gari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409660
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8af97482761d714b664c876c292d136a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1360214143,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360214143,
+    "wof:lastmodified":1536759798,
+    "wof:name":"Gwada Gari",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8209,
+    9.74466,
+    6.8209,
+    9.74466
+],
+  "geometry": {"coordinates":[6.8209,9.74466],"type":"Point"}
+}

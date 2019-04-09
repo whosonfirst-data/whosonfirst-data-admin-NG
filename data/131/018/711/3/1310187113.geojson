@@ -1,0 +1,68 @@
+{
+  "id": 1310187113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.64258,6.80587,3.64258,6.80587",
+    "geom:latitude":6.80587,
+    "geom:longitude":3.64258,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28020.0",
+    "gn:asciiname":"Orita-Atoyo",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826440,
+    "gn:latitude":6.80587,
+    "gn:longitude":3.64258,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orita-Atoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108564341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826440
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad7ac415dc4584f96aaaa5b3dcf57dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564341,
+            "locality_id":1310187113,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1310187113,
+    "wof:lastmodified":1536878030,
+    "wof:name":"Orita-Atoyo",
+    "wof:parent_id":1108564341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.64258,
+    6.80587,
+    3.64258,
+    6.80587
+],
+  "geometry": {"coordinates":[3.64258,6.80587],"type":"Point"}
+}

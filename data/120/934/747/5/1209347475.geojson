@@ -1,0 +1,66 @@
+{
+  "id": 1209347475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.29598,6.90197,7.29598,6.90197",
+    "geom:latitude":6.90197,
+    "geom:longitude":7.29598,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14013.0",
+    "gn:asciiname":"Okuje",
+    "gn:country_code":"NG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326866,
+    "gn:latitude":6.90197,
+    "gn:longitude":7.29598,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okuje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okuji",
+        "Okuje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326866
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"087ca2427de88b07f21f1d55511ec969",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347475
+        }
+    ],
+    "wof:id":1209347475,
+    "wof:lastmodified":1537675035,
+    "wof:name":"Okuje",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.29598,
+    6.90197,
+    7.29598,
+    6.90197
+],
+  "geometry": {"coordinates":[7.29598,6.90197],"type":"Point"}
+}

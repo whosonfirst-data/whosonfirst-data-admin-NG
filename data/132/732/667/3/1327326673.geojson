@@ -1,0 +1,71 @@
+{
+  "id": 1327326673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.28299,6.4697,3.28299,6.4697",
+    "geom:latitude":6.4697,
+    "geom:longitude":3.28299,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25004",
+    "gn:asciiname":"Festac Town",
+    "gn:country_code":"NG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10009882,
+    "gn:latitude":6.4697,
+    "gn:longitude":3.28299,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Festac Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Festac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421200121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10009882
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0d6ca77cf0bf2f5e03dfe991158b7a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421200121,
+            "locality_id":1327326673,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1327326673,
+    "wof:lastmodified":1537675468,
+    "wof:name":"Festac Town",
+    "wof:parent_id":421200121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28299,
+    6.4697,
+    3.28299,
+    6.4697
+],
+  "geometry": {"coordinates":[3.28299,6.4697],"type":"Point"}
+}

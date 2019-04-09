@@ -1,0 +1,73 @@
+{
+  "id": 1276703093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38333,6.48333,5.38333,6.48333",
+    "geom:latitude":6.48333,
+    "geom:longitude":5.38333,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12015.0",
+    "gn:asciiname":"Iguokolo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338543,
+    "gn:latitude":6.48333,
+    "gn:longitude":5.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iguokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iguokole",
+        "Iguokolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338543
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"52f4ff4cda19d9789a2312dfcd43bb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564243,
+            "locality_id":1276703093,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1276703093,
+    "wof:lastmodified":1537675200,
+    "wof:name":"Iguokolo",
+    "wof:parent_id":1108564243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38333,
+    6.48333,
+    5.38333,
+    6.48333
+],
+  "geometry": {"coordinates":[5.38333,6.48333],"type":"Point"}
+}

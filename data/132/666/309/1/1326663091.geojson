@@ -1,0 +1,68 @@
+{
+  "id": 1326663091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.0556,7.9923,6.0556,7.9923",
+    "geom:latitude":7.9923,
+    "geom:longitude":6.0556,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23009.0",
+    "gn:asciiname":"Aiyegunle",
+    "gn:country_code":"NG",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6834225,
+    "gn:latitude":7.9923,
+    "gn:longitude":6.0556,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aiyegunle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6834225
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c897cb30c6fe6077b04b8b1a35bd29c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563581,
+            "locality_id":1326663091,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1326663091,
+    "wof:lastmodified":1536795668,
+    "wof:name":"Aiyegunle",
+    "wof:parent_id":1108563581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0556,
+    7.9923,
+    6.0556,
+    7.9923
+],
+  "geometry": {"coordinates":[6.0556,7.9923],"type":"Point"}
+}

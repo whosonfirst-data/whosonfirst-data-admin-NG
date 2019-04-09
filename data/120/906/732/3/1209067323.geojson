@@ -1,0 +1,67 @@
+{
+  "id": 1209067323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.9955,11.82997,7.9955,11.82997",
+    "geom:latitude":11.82997,
+    "geom:longitude":7.9955,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20041.0",
+    "gn:admin3_code":"KN2203",
+    "gn:asciiname":"Dari Kada",
+    "gn:country_code":"NG",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345289,
+    "gn:latitude":11.82997,
+    "gn:longitude":7.9955,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dari Kada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dan Kada",
+        "Dari Kada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345289
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c18a45775fd9dec1390a6ee58ff96040",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209067323
+        }
+    ],
+    "wof:id":1209067323,
+    "wof:lastmodified":1537675308,
+    "wof:name":"Dari Kada",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.9955,
+    11.82997,
+    7.9955,
+    11.82997
+],
+  "geometry": {"coordinates":[7.9955,11.82997],"type":"Point"}
+}

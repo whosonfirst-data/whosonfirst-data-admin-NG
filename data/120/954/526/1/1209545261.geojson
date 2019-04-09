@@ -1,0 +1,63 @@
+{
+  "id": 1209545261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.51554,11.2255,6.51554,11.2255",
+    "geom:latitude":11.2255,
+    "geom:longitude":6.51554,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81007",
+    "gn:asciiname":"Angwan Nababa",
+    "gn:country_code":"NG",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349843,
+    "gn:latitude":11.2255,
+    "gn:longitude":6.51554,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Angwan Nababa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349843
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"44f080ff7e1241a42c05e1b5123e6830",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545261
+        }
+    ],
+    "wof:id":1209545261,
+    "wof:lastmodified":1536283862,
+    "wof:name":"Angwan Nababa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5155400000000006,
+    11.2255,
+    6.5155400000000006,
+    11.2255
+],
+  "geometry": {"coordinates":[6.51554,11.2255],"type":"Point"}
+}

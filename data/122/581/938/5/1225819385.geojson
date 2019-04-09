@@ -1,0 +1,68 @@
+{
+  "id": 1225819385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81929,5.33858,7.81929,5.33858",
+    "geom:latitude":5.33858,
+    "geom:longitude":7.81929,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3015.0",
+    "gn:asciiname":"Ikot Udo",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337924,
+    "gn:latitude":5.33858,
+    "gn:longitude":7.81929,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Udo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337924
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b61fbf02cd4680e9cc08e2b70da68652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563645,
+            "locality_id":1225819385,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1225819385,
+    "wof:lastmodified":1537049684,
+    "wof:name":"Ikot Udo",
+    "wof:parent_id":1108563645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81929,
+    5.33858,
+    7.81929,
+    5.33858
+],
+  "geometry": {"coordinates":[7.81929,5.33858],"type":"Point"}
+}

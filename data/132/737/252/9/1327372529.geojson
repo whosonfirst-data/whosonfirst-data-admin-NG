@@ -1,0 +1,68 @@
+{
+  "id": 1327372529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56667,6.35,5.56667,6.35",
+    "geom:latitude":6.35,
+    "geom:longitude":5.56667,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12002.0",
+    "gn:asciiname":"Oghoghugbo",
+    "gn:country_code":"NG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327692,
+    "gn:latitude":6.35,
+    "gn:longitude":5.56667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oghoghugbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327692
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c9a637084ef5c6729655f7f2953e933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563279,
+            "locality_id":1327372529,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1327372529,
+    "wof:lastmodified":1536767667,
+    "wof:name":"Oghoghugbo",
+    "wof:parent_id":1108563279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56667,
+    6.35,
+    5.56667,
+    6.35
+],
+  "geometry": {"coordinates":[5.56667,6.35],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242605973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.18933,9.07798,8.18933,9.07798",
+    "geom:latitude":9.07798,
+    "geom:longitude":8.18933,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ungwan Jatau Sada",
+    "gn:country_code":"NG",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943482,
+    "gn:latitude":9.07798,
+    "gn:longitude":8.18933,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Ungwan Jatau Sada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108562989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943482
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"67d85bd7e1a63aa8e767b12071528cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562989,
+            "locality_id":1242605973,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1242605973,
+    "wof:lastmodified":1537021901,
+    "wof:name":"Ungwan Jatau Sada",
+    "wof:parent_id":1108562989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.18933,
+    9.07798,
+    8.18933,
+    9.07798
+],
+  "geometry": {"coordinates":[8.18933,9.07798],"type":"Point"}
+}

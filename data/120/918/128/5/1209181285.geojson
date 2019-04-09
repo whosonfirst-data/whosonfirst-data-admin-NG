@@ -1,0 +1,62 @@
+{
+  "id": 1209181285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1911,7.37659,8.1911,7.37659",
+    "geom:latitude":7.37659,
+    "geom:longitude":8.1911,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007.0",
+    "gn:asciiname":"Uzuaban",
+    "gn:country_code":"NG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319464,
+    "gn:latitude":7.37659,
+    "gn:longitude":8.1911,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uzuaban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319464
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72209257658a19e658ef4538a8ef9795",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209181285
+        }
+    ],
+    "wof:id":1209181285,
+    "wof:lastmodified":1536295250,
+    "wof:name":"Uzuaban",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1911,
+    7.376589999999998,
+    8.1911,
+    7.376589999999998
+],
+  "geometry": {"coordinates":[8.1911,7.37659],"type":"Point"}
+}

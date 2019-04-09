@@ -1,0 +1,73 @@
+{
+  "id": 1360018553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.59923,12.32236,4.59923,12.32236",
+    "geom:latitude":12.32236,
+    "geom:longitude":4.59923,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"618.0",
+    "gn:admin3_code":"61805",
+    "gn:asciiname":"Fagga",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342818,
+    "gn:latitude":12.32236,
+    "gn:longitude":4.59923,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Fagga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faga",
+        "Fagga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342818
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca357855527e5a0b904eabd57f8bad5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564401,
+            "locality_id":1360018553,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1360018553,
+    "wof:lastmodified":1537675267,
+    "wof:name":"Fagga",
+    "wof:parent_id":1108564401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.59923,
+    12.32236,
+    4.59923,
+    12.32236
+],
+  "geometry": {"coordinates":[4.59923,12.32236],"type":"Point"}
+}

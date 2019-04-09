@@ -1,0 +1,69 @@
+{
+  "id": 1293069247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32327,12.19273,7.32327,12.19273",
+    "geom:latitude":12.19273,
+    "geom:longitude":7.32327,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"409.0",
+    "gn:admin3_code":"40906",
+    "gn:asciiname":"Dan-Tudu",
+    "gn:country_code":"NG",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998576,
+    "gn:latitude":12.19273,
+    "gn:longitude":7.32327,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dan-Tudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998576
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7377429c4fa2435e5c08a650ce67bd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563205,
+            "locality_id":1293069247,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1293069247,
+    "wof:lastmodified":1536892881,
+    "wof:name":"Dan-Tudu",
+    "wof:parent_id":1108563205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32327,
+    12.19273,
+    7.32327,
+    12.19273
+],
+  "geometry": {"coordinates":[7.32327,12.19273],"type":"Point"}
+}

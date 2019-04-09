@@ -1,0 +1,72 @@
+{
+  "id": 1276363325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40938,10.51145,10.40938,10.51145",
+    "geom:latitude":10.51145,
+    "geom:longitude":10.40938,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1308",
+    "gn:asciiname":"Wuro Chita",
+    "gn:country_code":"NG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318781,
+    "gn:latitude":10.51145,
+    "gn:longitude":10.40938,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wuro Chita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wuro Chita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318781
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"af4f49774075a196c9958a504b6b0c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563819,
+            "locality_id":1276363325,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1276363325,
+    "wof:lastmodified":1537674911,
+    "wof:name":"Wuro Chita",
+    "wof:parent_id":1108563819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40938,
+    10.51145,
+    10.40938,
+    10.51145
+],
+  "geometry": {"coordinates":[10.40938,10.51145],"type":"Point"}
+}

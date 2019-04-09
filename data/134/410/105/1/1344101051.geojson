@@ -1,0 +1,68 @@
+{
+  "id": 1344101051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43237,10.00049,12.43237,10.00049",
+    "geom:latitude":10.00049,
+    "geom:longitude":12.43237,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Charfa",
+    "gn:country_code":"NG",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836845,
+    "gn:latitude":10.00049,
+    "gn:longitude":12.43237,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Charfa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836845
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e243aa12708065e2b2845c56127e136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564375,
+            "locality_id":1344101051,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1344101051,
+    "wof:lastmodified":1536816295,
+    "wof:name":"Charfa",
+    "wof:parent_id":1108564375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43237,
+    10.00049,
+    12.43237,
+    10.00049
+],
+  "geometry": {"coordinates":[12.43237,10.00049],"type":"Point"}
+}

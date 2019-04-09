@@ -1,0 +1,67 @@
+{
+  "id": 1243000873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.36672,7.30622,5.36672,7.30622",
+    "geom:latitude":7.30622,
+    "geom:longitude":5.36672,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Odogun",
+    "gn:country_code":"NG",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833012,
+    "gn:latitude":7.30622,
+    "gn:longitude":5.36672,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Odogun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833012
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8fde06a4c5510241c8465a504817d361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563665,
+            "locality_id":1243000873,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1243000873,
+    "wof:lastmodified":1536951292,
+    "wof:name":"Odogun",
+    "wof:parent_id":1108563665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.36672,
+    7.30622,
+    5.36672,
+    7.30622
+],
+  "geometry": {"coordinates":[5.36672,7.30622],"type":"Point"}
+}

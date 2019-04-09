@@ -1,0 +1,62 @@
+{
+  "id": 1209570277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.08782,6.01634,7.08782,6.01634",
+    "geom:latitude":6.01634,
+    "geom:longitude":7.08782,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4001.0",
+    "gn:asciiname":"Aguata",
+    "gn:country_code":"NG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2351762,
+    "gn:latitude":6.01634,
+    "gn:longitude":7.08782,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aguata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351762
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79f4078b9be962991abd3246f621e3e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209570277
+        }
+    ],
+    "wof:id":1209570277,
+    "wof:lastmodified":1536283106,
+    "wof:name":"Aguata",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.08782,
+    6.0163400000000005,
+    7.08782,
+    6.0163400000000005
+],
+  "geometry": {"coordinates":[7.08782,6.01634],"type":"Point"}
+}

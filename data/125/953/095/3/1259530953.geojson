@@ -1,0 +1,71 @@
+{
+  "id": 1259530953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56575,10.42063,12.56575,10.42063",
+    "geom:latitude":10.42063,
+    "geom:longitude":12.56575,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Gunjuku",
+    "gn:country_code":"NG",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340028,
+    "gn:latitude":10.42063,
+    "gn:longitude":12.56575,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gunjuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gunjuki",
+        "Gunjuku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340028
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c115dce2ee3bb535e8ec4bd2160a1b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1259530953,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259530953,
+    "wof:lastmodified":1537675221,
+    "wof:name":"Gunjuku",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56575,
+    10.42063,
+    12.56575,
+    10.42063
+],
+  "geometry": {"coordinates":[12.56575,10.42063],"type":"Point"}
+}

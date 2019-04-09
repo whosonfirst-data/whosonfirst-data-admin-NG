@@ -1,0 +1,72 @@
+{
+  "id": 1292937025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.17572,7.29862,7.17572,7.29862",
+    "geom:latitude":7.29862,
+    "geom:longitude":7.17572,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23014.0",
+    "gn:asciiname":"Efaku",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343994,
+    "gn:latitude":7.29862,
+    "gn:longitude":7.17572,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Efaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ifaku",
+        "Efaku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343994
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb694deb019db094239c2475f26b7ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564103,
+            "locality_id":1292937025,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1292937025,
+    "wof:lastmodified":1537675288,
+    "wof:name":"Efaku",
+    "wof:parent_id":1108564103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.17572,
+    7.29862,
+    7.17572,
+    7.29862
+],
+  "geometry": {"coordinates":[7.17572,7.29862],"type":"Point"}
+}

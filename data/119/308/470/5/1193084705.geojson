@@ -1,0 +1,68 @@
+{
+  "id": 1193084705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.36248,7.50417,9.36248,7.50417",
+    "geom:latitude":7.50417,
+    "geom:longitude":9.36248,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Agur",
+    "gn:country_code":"NG",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9526504,
+    "gn:latitude":7.50417,
+    "gn:longitude":9.36248,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9526504
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4afd350cb77d8cb45b1b5f42d548be4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1193084705,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1193084705,
+    "wof:lastmodified":1536377003,
+    "wof:name":"Agur",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.36248,
+    7.50417,
+    9.36248,
+    7.50417
+],
+  "geometry": {"coordinates":[9.36248,7.50417],"type":"Point"}
+}

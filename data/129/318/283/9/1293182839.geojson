@@ -1,0 +1,68 @@
+{
+  "id": 1293182839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.35,7.03333,3.35,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":3.35,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Lusabe",
+    "gn:country_code":"NG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331801,
+    "gn:latitude":7.03333,
+    "gn:longitude":3.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lusabe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        421188931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331801
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bd49546a300183cbcaa0b5d0ee4c5c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188931,
+            "locality_id":1293182839,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1293182839,
+    "wof:lastmodified":1536729734,
+    "wof:name":"Lusabe",
+    "wof:parent_id":421188931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.35,
+    7.03333,
+    3.35,
+    7.03333
+],
+  "geometry": {"coordinates":[3.35,7.03333],"type":"Point"}
+}

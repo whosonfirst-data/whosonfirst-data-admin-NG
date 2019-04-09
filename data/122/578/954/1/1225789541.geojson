@@ -1,0 +1,68 @@
+{
+  "id": 1225789541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04789,8.85088,12.04789,8.85088",
+    "geom:latitude":8.85088,
+    "geom:longitude":12.04789,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Koringa",
+    "gn:country_code":"NG",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410906,
+    "gn:latitude":8.85088,
+    "gn:longitude":12.04789,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Koringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410906
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36c484892db2125827b9c267644f4ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1225789541,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1225789541,
+    "wof:lastmodified":1537091573,
+    "wof:name":"Koringa",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04789,
+    8.85088,
+    12.04789,
+    8.85088
+],
+  "geometry": {"coordinates":[12.04789,8.85088],"type":"Point"}
+}

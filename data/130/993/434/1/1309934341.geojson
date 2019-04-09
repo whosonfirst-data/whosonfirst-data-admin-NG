@@ -1,0 +1,68 @@
+{
+  "id": 1309934341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.10872,6.025,8.10872,6.025",
+    "geom:latitude":6.025,
+    "geom:longitude":8.10872,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007.0",
+    "gn:asciiname":"Opuitumo",
+    "gn:country_code":"NG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325864,
+    "gn:latitude":6.025,
+    "gn:longitude":8.10872,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Opuitumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325864
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f05c731f0ac7a6d8502d9a1345880f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1309934341,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1309934341,
+    "wof:lastmodified":1536745687,
+    "wof:name":"Opuitumo",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.10872,
+    6.025,
+    8.10872,
+    6.025
+],
+  "geometry": {"coordinates":[8.10872,6.025],"type":"Point"}
+}

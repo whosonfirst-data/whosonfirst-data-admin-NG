@@ -1,0 +1,68 @@
+{
+  "id": 1343790359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.54728,5.4299,7.54728,5.4299",
+    "geom:latitude":5.4299,
+    "geom:longitude":7.54728,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1005.0",
+    "gn:asciiname":"Nnono",
+    "gn:country_code":"NG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328762,
+    "gn:latitude":5.4299,
+    "gn:longitude":7.54728,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nnono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108563617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328762
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"33e1f86b4c0e132b2a4c1a0103a41427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563617,
+            "locality_id":1343790359,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1343790359,
+    "wof:lastmodified":1536768412,
+    "wof:name":"Nnono",
+    "wof:parent_id":1108563617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.54728,
+    5.4299,
+    7.54728,
+    5.4299
+],
+  "geometry": {"coordinates":[7.54728,5.4299],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293471813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.25,7.01667,3.25,7.01667",
+    "geom:latitude":7.01667,
+    "geom:longitude":3.25,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28006.0",
+    "gn:asciiname":"Baye",
+    "gn:country_code":"NG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347407,
+    "gn:latitude":7.01667,
+    "gn:longitude":3.25,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Baye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347407
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a6ed8b8cf7d000676f1f419a8c4f84cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563351,
+            "locality_id":1293471813,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1293471813,
+    "wof:lastmodified":1536809328,
+    "wof:name":"Baye",
+    "wof:parent_id":1108563351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25,
+    7.01667,
+    3.25,
+    7.01667
+],
+  "geometry": {"coordinates":[3.25,7.01667],"type":"Point"}
+}

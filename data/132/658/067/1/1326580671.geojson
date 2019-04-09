@@ -1,0 +1,69 @@
+{
+  "id": 1326580671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.20973,11.14718,13.20973,11.14718",
+    "geom:latitude":11.14718,
+    "geom:longitude":13.20973,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11102",
+    "gn:asciiname":"Kaguwa",
+    "gn:country_code":"NG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6763841,
+    "gn:latitude":11.14718,
+    "gn:longitude":13.20973,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaguwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6763841
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f18f2e82322b7d7907d6685bd40361bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1326580671,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1326580671,
+    "wof:lastmodified":1536914787,
+    "wof:name":"Kaguwa",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.20973,
+    11.14718,
+    13.20973,
+    11.14718
+],
+  "geometry": {"coordinates":[13.20973,11.14718],"type":"Point"}
+}

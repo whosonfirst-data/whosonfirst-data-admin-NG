@@ -1,0 +1,62 @@
+{
+  "id": 1209568225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14616,5.21465,6.14616,5.21465",
+    "geom:latitude":5.21465,
+    "geom:longitude":6.14616,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10016.0",
+    "gn:asciiname":"Miyegbene",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100602,
+    "gn:latitude":5.21465,
+    "gn:longitude":6.14616,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Miyegbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100602
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2904c0a61f1f6b9df507fd054c9a730f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209568225
+        }
+    ],
+    "wof:id":1209568225,
+    "wof:lastmodified":1536283169,
+    "wof:name":"Miyegbene",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14616,
+    5.21465,
+    6.14616,
+    5.21465
+],
+  "geometry": {"coordinates":[6.14616,5.21465],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242628269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.92331,5.46105,6.92331,5.46105",
+    "geom:latitude":5.46105,
+    "geom:longitude":6.92331,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17026.0",
+    "gn:asciiname":"Obogwe",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101320,
+    "gn:latitude":5.46105,
+    "gn:longitude":6.92331,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obogwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101320
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"140ee02c9292b617c3d11844a90d7912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564253,
+            "locality_id":1242628269,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1242628269,
+    "wof:lastmodified":1536990121,
+    "wof:name":"Obogwe",
+    "wof:parent_id":1108564253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.92331,
+    5.46105,
+    6.92331,
+    5.46105
+],
+  "geometry": {"coordinates":[6.92331,5.46105],"type":"Point"}
+}

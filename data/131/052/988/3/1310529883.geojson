@@ -1,0 +1,68 @@
+{
+  "id": 1310529883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.27231,9.16341,6.27231,9.16341",
+    "geom:latitude":9.16341,
+    "geom:longitude":6.27231,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010",
+    "gn:asciiname":"Ganacigi",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317441,
+    "gn:latitude":9.16341,
+    "gn:longitude":6.27231,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ganacigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317441
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95ae99f28162d307f7f50d50c6584863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1310529883,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310529883,
+    "wof:lastmodified":1536881131,
+    "wof:name":"Ganacigi",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.27231,
+    9.16341,
+    6.27231,
+    9.16341
+],
+  "geometry": {"coordinates":[6.27231,9.16341],"type":"Point"}
+}

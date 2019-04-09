@@ -1,0 +1,68 @@
+{
+  "id": 1293370451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64054,9.3955,7.64054,9.3955",
+    "geom:latitude":9.3955,
+    "geom:longitude":7.64054,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15002",
+    "gn:asciiname":"Tungun-Aduka",
+    "gn:country_code":"NG",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642947,
+    "gn:latitude":9.3955,
+    "gn:longitude":7.64054,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tungun-Aduka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642947
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"41ac3f38c4ffb6306e07928f7330021a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1293370451,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1293370451,
+    "wof:lastmodified":1536955865,
+    "wof:name":"Tungun-Aduka",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64054,
+    9.3955,
+    7.64054,
+    9.3955
+],
+  "geometry": {"coordinates":[7.64054,9.3955],"type":"Point"}
+}

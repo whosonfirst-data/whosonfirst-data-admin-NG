@@ -1,0 +1,72 @@
+{
+  "id": 1327260391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02332,9.57915,6.02332,9.57915",
+    "geom:latitude":9.57915,
+    "geom:longitude":6.02332,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27025.0",
+    "gn:asciiname":"Old Dukusaku",
+    "gn:country_code":"NG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326745,
+    "gn:latitude":9.57915,
+    "gn:longitude":6.02332,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Old Dukusaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dukusaku",
+        "Old Dukusaku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326745
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0a29a4afb5733e901bfcc7650af36218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564517,
+            "locality_id":1327260391,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1327260391,
+    "wof:lastmodified":1537675032,
+    "wof:name":"Old Dukusaku",
+    "wof:parent_id":1108564517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02332,
+    9.57915,
+    6.02332,
+    9.57915
+],
+  "geometry": {"coordinates":[6.02332,9.57915],"type":"Point"}
+}

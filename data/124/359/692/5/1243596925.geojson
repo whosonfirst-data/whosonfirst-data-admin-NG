@@ -1,0 +1,78 @@
+{
+  "id": 1243596925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37231,6.7247,6.37231,6.7247",
+    "geom:latitude":6.7247,
+    "geom:longitude":6.37231,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Amendhoklan",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350105,
+    "gn:latitude":6.7247,
+    "gn:longitude":6.37231,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amendhoklan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amedokai"
+    ],
+    "name:eng_x_variant":[
+        "Amendhokian"
+    ],
+    "name:und_x_variant":[
+        "Amendhokian",
+        "Amendhoklan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350105
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"61809ce3eb3f615acfa29a069f91d144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1243596925,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243596925,
+    "wof:lastmodified":1537675365,
+    "wof:name":"Amendhoklan",
+    "wof:parent_id":1108563317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37231,
+    6.7247,
+    6.37231,
+    6.7247
+],
+  "geometry": {"coordinates":[6.37231,6.7247],"type":"Point"}
+}

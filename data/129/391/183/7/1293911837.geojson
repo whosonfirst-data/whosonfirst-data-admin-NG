@@ -1,0 +1,69 @@
+{
+  "id": 1293911837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63099,12.65593,9.63099,12.65593",
+    "geom:latitude":12.65593,
+    "geom:longitude":9.63099,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18023.0",
+    "gn:admin3_code":"JI2001",
+    "gn:asciiname":"Katika",
+    "gn:country_code":"NG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334825,
+    "gn:latitude":12.65593,
+    "gn:longitude":9.63099,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"27e0e7d3a191cfe36cd026a4a5863b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563925,
+            "locality_id":1293911837,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1293911837,
+    "wof:lastmodified":1536672567,
+    "wof:name":"Katika",
+    "wof:parent_id":1108563925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63099,
+    12.65593,
+    9.63099,
+    12.65593
+],
+  "geometry": {"coordinates":[9.63099,12.65593],"type":"Point"}
+}

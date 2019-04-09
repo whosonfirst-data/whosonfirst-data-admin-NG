@@ -1,0 +1,67 @@
+{
+  "id": 1226711235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41677,5.96001,7.41677,5.96001",
+    "geom:latitude":5.96001,
+    "geom:longitude":7.41677,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Umuellem",
+    "gn:country_code":"NG",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320494,
+    "gn:latitude":5.96001,
+    "gn:longitude":7.41677,
+    "gn:modification_date":"2009-08-04",
+    "gn:name":"Umuellem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320494
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3a63ee41813cdb831d49d79b03c5f5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564459,
+            "locality_id":1226711235,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1226711235,
+    "wof:lastmodified":1536765865,
+    "wof:name":"Umuellem",
+    "wof:parent_id":1108564459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41677,
+    5.96001,
+    7.41677,
+    5.96001
+],
+  "geometry": {"coordinates":[7.41677,5.96001],"type":"Point"}
+}

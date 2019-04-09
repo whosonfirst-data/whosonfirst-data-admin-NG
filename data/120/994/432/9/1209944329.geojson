@@ -1,0 +1,68 @@
+{
+  "id": 1209944329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.05323,7.42024,10.05323,7.42024",
+    "geom:latitude":7.42024,
+    "geom:longitude":10.05323,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012.0",
+    "gn:asciiname":"Adagba",
+    "gn:country_code":"NG",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352632,
+    "gn:latitude":7.42024,
+    "gn:longitude":10.05323,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adagba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352632
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"77fae8d0bbe813b890e99e458429beda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1209944329,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1209944329,
+    "wof:lastmodified":1536387089,
+    "wof:name":"Adagba",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.05323,
+    7.42024,
+    10.05323,
+    7.42024
+],
+  "geometry": {"coordinates":[10.05323,7.42024],"type":"Point"}
+}

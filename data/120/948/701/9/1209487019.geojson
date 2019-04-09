@@ -1,0 +1,62 @@
+{
+  "id": 1209487019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.27083,6.7025,3.27083,6.7025",
+    "geom:latitude":6.7025,
+    "geom:longitude":3.27083,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Iroko",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566709,
+    "gn:latitude":6.7025,
+    "gn:longitude":3.27083,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566709
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"29ae9d0c4cfc8449eb6ae8da73821a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209487019
+        }
+    ],
+    "wof:id":1209487019,
+    "wof:lastmodified":1536285604,
+    "wof:name":"Iroko",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.27083,
+    6.7025,
+    3.27083,
+    6.7025
+],
+  "geometry": {"coordinates":[3.27083,6.7025],"type":"Point"}
+}

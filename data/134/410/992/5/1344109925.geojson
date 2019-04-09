@@ -1,0 +1,71 @@
+{
+  "id": 1344109925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6,5.9,5.6,5.9",
+    "geom:latitude":5.9,
+    "geom:longitude":5.6,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10017.0",
+    "gn:asciiname":"Igoyo",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338587,
+    "gn:latitude":5.9,
+    "gn:longitude":5.6,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Igoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Igoyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338587
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"65c26f82ad3cfc420aa0ed734a7bfd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564337,
+            "locality_id":1344109925,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1344109925,
+    "wof:lastmodified":1537675201,
+    "wof:name":"Igoyo",
+    "wof:parent_id":1108564337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6,
+    5.9,
+    5.6,
+    5.9
+],
+  "geometry": {"coordinates":[5.6,5.9],"type":"Point"}
+}

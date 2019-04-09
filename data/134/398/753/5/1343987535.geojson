@@ -1,0 +1,73 @@
+{
+  "id": 1343987535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.42969,13.60124,4.42969,13.60124",
+    "geom:latitude":13.60124,
+    "geom:longitude":4.42969,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60601",
+    "gn:asciiname":"Kokoki",
+    "gn:country_code":"NG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334139,
+    "gn:latitude":13.60124,
+    "gn:longitude":4.42969,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kokoki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kekoke",
+        "Kokoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334139
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bf2cb48a98af086c4b1e6d87eb76a082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563439,
+            "locality_id":1343987535,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1343987535,
+    "wof:lastmodified":1537675137,
+    "wof:name":"Kokoki",
+    "wof:parent_id":1108563439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.42969,
+    13.60124,
+    4.42969,
+    13.60124
+],
+  "geometry": {"coordinates":[4.42969,13.60124],"type":"Point"}
+}

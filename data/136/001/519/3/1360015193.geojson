@@ -1,0 +1,68 @@
+{
+  "id": 1360015193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.97696,6.1808,4.97696,6.1808",
+    "geom:latitude":6.1808,
+    "geom:longitude":4.97696,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29007.0",
+    "gn:asciiname":"Nyan",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969497,
+    "gn:latitude":6.1808,
+    "gn:longitude":4.97696,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nyan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969497
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"298835e9240050cef257d2c50692105b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563323,
+            "locality_id":1360015193,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1360015193,
+    "wof:lastmodified":1537044754,
+    "wof:name":"Nyan",
+    "wof:parent_id":1108563323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.97696,
+    6.1808,
+    4.97696,
+    6.1808
+],
+  "geometry": {"coordinates":[4.97696,6.1808],"type":"Point"}
+}

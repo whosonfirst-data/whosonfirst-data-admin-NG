@@ -1,0 +1,69 @@
+{
+  "id": 1326886441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49135,9.88195,8.49135,9.88195",
+    "geom:latitude":9.88195,
+    "geom:longitude":8.49135,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19014.0",
+    "gn:admin3_code":"KD1401",
+    "gn:asciiname":"Bakin Kogi",
+    "gn:country_code":"NG",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348144,
+    "gn:latitude":9.88195,
+    "gn:longitude":8.49135,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakin Kogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348144
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"582c19f0f76988bc4a6fbf3d62cc8668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564555,
+            "locality_id":1326886441,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1326886441,
+    "wof:lastmodified":1536970501,
+    "wof:name":"Bakin Kogi",
+    "wof:parent_id":1108564555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49135,
+    9.88195,
+    8.49135,
+    9.88195
+],
+  "geometry": {"coordinates":[8.49135,9.88195],"type":"Point"}
+}

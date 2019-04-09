@@ -1,0 +1,75 @@
+{
+  "id": 1243396389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.51408,10.28489,10.51408,10.28489",
+    "geom:latitude":10.28489,
+    "geom:longitude":10.51408,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1312",
+    "gn:asciiname":"Gulmari",
+    "gn:country_code":"NG",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346478,
+    "gn:latitude":10.28489,
+    "gn:longitude":10.51408,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gulmari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bulmari"
+    ],
+    "name:eng_x_variant":[
+        "Gulmari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346478
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c999a15a6cfe3960352dd1dbe7ba0f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563819,
+            "locality_id":1243396389,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1243396389,
+    "wof:lastmodified":1537675321,
+    "wof:name":"Gulmari",
+    "wof:parent_id":1108563819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.51408,
+    10.28489,
+    10.51408,
+    10.28489
+],
+  "geometry": {"coordinates":[10.51408,10.28489],"type":"Point"}
+}

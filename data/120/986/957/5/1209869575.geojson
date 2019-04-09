@@ -1,0 +1,73 @@
+{
+  "id": 1209869575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.29647,9.3615,12.29647,9.3615",
+    "geom:latitude":9.3615,
+    "geom:longitude":12.29647,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Kulango",
+    "gn:country_code":"NG",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333523,
+    "gn:latitude":9.3615,
+    "gn:longitude":12.29647,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Kulango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalangu",
+        "Kulangu",
+        "Kulango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333523
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"51a3355f8e3d2d976c65c3b001aa3fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1209869575,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1209869575,
+    "wof:lastmodified":1537675130,
+    "wof:name":"Kulango",
+    "wof:parent_id":1108564541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.29647,
+    9.3615,
+    12.29647,
+    9.3615
+],
+  "geometry": {"coordinates":[12.29647,9.3615],"type":"Point"}
+}

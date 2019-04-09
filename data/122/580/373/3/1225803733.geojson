@@ -1,0 +1,68 @@
+{
+  "id": 1225803733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56429,4.99819,7.56429,4.99819",
+    "geom:latitude":4.99819,
+    "geom:longitude":7.56429,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3011.0",
+    "gn:asciiname":"Ikot Oton",
+    "gn:country_code":"NG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7055429,
+    "gn:latitude":4.99819,
+    "gn:longitude":7.56429,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Oton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7055429
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e3efea6b6ea884d12b1ca361fbf231c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563587,
+            "locality_id":1225803733,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1225803733,
+    "wof:lastmodified":1537071377,
+    "wof:name":"Ikot Oton",
+    "wof:parent_id":1108563587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56429,
+    4.99819,
+    7.56429,
+    4.99819
+],
+  "geometry": {"coordinates":[7.56429,4.99819],"type":"Point"}
+}

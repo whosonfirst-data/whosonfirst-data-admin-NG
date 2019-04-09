@@ -1,0 +1,73 @@
+{
+  "id": 1293617401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55922,12.72105,8.55922,12.72105",
+    "geom:latitude":12.72105,
+    "geom:longitude":8.55922,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18019.0",
+    "gn:admin3_code":"JI2704",
+    "gn:asciiname":"Addani",
+    "gn:country_code":"NG",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352588,
+    "gn:latitude":12.72105,
+    "gn:longitude":8.55922,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Addani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adani",
+        "Addani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352588
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"22daefa7312f9b69e5193f2df66e9687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564535,
+            "locality_id":1293617401,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1293617401,
+    "wof:lastmodified":1537675393,
+    "wof:name":"Addani",
+    "wof:parent_id":1108564535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55922,
+    12.72105,
+    8.55922,
+    12.72105
+],
+  "geometry": {"coordinates":[8.55922,12.72105],"type":"Point"}
+}

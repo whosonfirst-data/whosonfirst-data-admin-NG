@@ -1,0 +1,62 @@
+{
+  "id": 1209185835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.91667,6.56667,2.91667,6.56667",
+    "geom:latitude":6.56667,
+    "geom:longitude":2.91667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Igbekun",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338784,
+    "gn:latitude":6.56667,
+    "gn:longitude":2.91667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbekun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338784
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9da3d91bd8e666615dd9da88c9e4e0c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209185835
+        }
+    ],
+    "wof:id":1209185835,
+    "wof:lastmodified":1536295104,
+    "wof:name":"Igbekun",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.91667,
+    6.5666699999999985,
+    2.91667,
+    6.5666699999999985
+],
+  "geometry": {"coordinates":[2.91667,6.56667],"type":"Point"}
+}

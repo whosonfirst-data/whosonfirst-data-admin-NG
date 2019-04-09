@@ -1,0 +1,71 @@
+{
+  "id": 1276692315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89875,10.18384,8.89875,10.18384",
+    "geom:latitude":10.18384,
+    "geom:longitude":8.89875,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32002.0",
+    "gn:asciiname":"Fuskam",
+    "gn:country_code":"NG",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342468,
+    "gn:latitude":10.18384,
+    "gn:longitude":8.89875,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fuskam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fuskam Mata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342468
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f8ba8f3ab181c9c84acc438c89c88e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563095,
+            "locality_id":1276692315,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1276692315,
+    "wof:lastmodified":1537675263,
+    "wof:name":"Fuskam",
+    "wof:parent_id":1108563095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89875,
+    10.18384,
+    8.89875,
+    10.18384
+],
+  "geometry": {"coordinates":[8.89875,10.18384],"type":"Point"}
+}

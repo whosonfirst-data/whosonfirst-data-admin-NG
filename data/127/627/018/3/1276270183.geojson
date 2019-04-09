@@ -1,0 +1,68 @@
+{
+  "id": 1276270183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4193,10.12765,13.4193,10.12765",
+    "geom:latitude":10.12765,
+    "geom:longitude":13.4193,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Mbabi",
+    "gn:country_code":"NG",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760298,
+    "gn:latitude":10.12765,
+    "gn:longitude":13.4193,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760298
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8f77c8c817e0bf5c621eefa9cf23c8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011899,
+            "locality_id":1276270183,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1276270183,
+    "wof:lastmodified":1536861867,
+    "wof:name":"Mbabi",
+    "wof:parent_id":1092011899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4193,
+    10.12765,
+    13.4193,
+    10.12765
+],
+  "geometry": {"coordinates":[13.4193,10.12765],"type":"Point"}
+}

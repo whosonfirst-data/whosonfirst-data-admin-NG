@@ -1,0 +1,69 @@
+{
+  "id": 1277035795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.36511,11.87531,8.36511,11.87531",
+    "geom:latitude":11.87531,
+    "geom:longitude":8.36511,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20036.0",
+    "gn:admin3_code":"KN2805",
+    "gn:asciiname":"Agauwa",
+    "gn:country_code":"NG",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592342,
+    "gn:latitude":11.87531,
+    "gn:longitude":8.36511,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Agauwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592342
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"045c4ea9e18fbbf79ceb5b3f88392c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564303,
+            "locality_id":1277035795,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1277035795,
+    "wof:lastmodified":1536831203,
+    "wof:name":"Agauwa",
+    "wof:parent_id":1108564303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.36511,
+    11.87531,
+    8.36511,
+    11.87531
+],
+  "geometry": {"coordinates":[8.36511,11.87531],"type":"Point"}
+}

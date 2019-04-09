@@ -1,0 +1,68 @@
+{
+  "id": 1344186745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.37907,8.94114,11.37907,8.94114",
+    "geom:latitude":8.94114,
+    "geom:longitude":11.37907,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015",
+    "gn:asciiname":"Shavung",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10875729,
+    "gn:latitude":8.94114,
+    "gn:longitude":11.37907,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shavung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10875729
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2ba1609f4dc760bfd6e417b1e953a16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1344186745,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1344186745,
+    "wof:lastmodified":1536693712,
+    "wof:name":"Shavung",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.37907,
+    8.94114,
+    11.37907,
+    8.94114
+],
+  "geometry": {"coordinates":[11.37907,8.94114],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360041747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7092,5.8278,8.7092,5.8278",
+    "geom:latitude":5.8278,
+    "geom:longitude":8.7092,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9010.0",
+    "gn:asciiname":"Agbotai",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854852,
+    "gn:latitude":5.8278,
+    "gn:longitude":8.7092,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agbotai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854852
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d699283d4f7c402c4255a9f166619efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563349,
+            "locality_id":1360041747,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1360041747,
+    "wof:lastmodified":1537007596,
+    "wof:name":"Agbotai",
+    "wof:parent_id":1108563349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7092,
+    5.8278,
+    8.7092,
+    5.8278
+],
+  "geometry": {"coordinates":[8.7092,5.8278],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1309833699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.32805,11.56493,11.32805,11.56493",
+    "geom:latitude":11.56493,
+    "geom:longitude":11.32805,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70505",
+    "gn:asciiname":"Govana",
+    "gn:country_code":"NG",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340297,
+    "gn:latitude":11.56493,
+    "gn:longitude":11.32805,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Govana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340297
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c5b24b5e5e52ea8852213d5f7ab2dde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1309833699,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1309833699,
+    "wof:lastmodified":1536890679,
+    "wof:name":"Govana",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.32805,
+    11.56493,
+    11.32805,
+    11.56493
+],
+  "geometry": {"coordinates":[11.32805,11.56493],"type":"Point"}
+}

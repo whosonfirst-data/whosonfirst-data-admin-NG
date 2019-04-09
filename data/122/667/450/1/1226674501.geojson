@@ -1,0 +1,68 @@
+{
+  "id": 1226674501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53333,8.81667,6.53333,8.81667",
+    "geom:latitude":8.81667,
+    "geom:longitude":6.53333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27001.0",
+    "gn:asciiname":"Likali",
+    "gn:country_code":"NG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332023,
+    "gn:latitude":8.81667,
+    "gn:longitude":6.53333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Likali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332023
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b21066cad58bae602004424abd788b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562933,
+            "locality_id":1226674501,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226674501,
+    "wof:lastmodified":1536817389,
+    "wof:name":"Likali",
+    "wof:parent_id":1108562933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53333,
+    8.81667,
+    6.53333,
+    8.81667
+],
+  "geometry": {"coordinates":[6.53333,8.81667],"type":"Point"}
+}

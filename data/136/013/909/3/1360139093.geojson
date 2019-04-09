@@ -1,0 +1,68 @@
+{
+  "id": 1360139093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.29478,7.55947,9.29478,7.55947",
+    "geom:latitude":7.55947,
+    "geom:longitude":9.29478,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Uyoo",
+    "gn:country_code":"NG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9526488,
+    "gn:latitude":7.55947,
+    "gn:longitude":9.29478,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uyoo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9526488
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c4779c083055501fc3f3b7cb63bd442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1360139093,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1360139093,
+    "wof:lastmodified":1536866600,
+    "wof:name":"Uyoo",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.29478,
+    7.55947,
+    9.29478,
+    7.55947
+],
+  "geometry": {"coordinates":[9.29478,7.55947],"type":"Point"}
+}

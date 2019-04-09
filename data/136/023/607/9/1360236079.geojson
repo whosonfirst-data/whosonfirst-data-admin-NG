@@ -1,0 +1,69 @@
+{
+  "id": 1360236079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.77454,11.36566,4.77454,11.36566",
+    "geom:latitude":11.36566,
+    "geom:longitude":4.77454,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50905",
+    "gn:asciiname":"Lengi",
+    "gn:country_code":"NG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020291,
+    "gn:latitude":11.36566,
+    "gn:longitude":4.77454,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lengi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020291
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e6ab3bddb7977b7302da847d5ba06bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564347,
+            "locality_id":1360236079,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1360236079,
+    "wof:lastmodified":1536728371,
+    "wof:name":"Lengi",
+    "wof:parent_id":1108564347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.77454,
+    11.36566,
+    4.77454,
+    11.36566
+],
+  "geometry": {"coordinates":[4.77454,11.36566],"type":"Point"}
+}

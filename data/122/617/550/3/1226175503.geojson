@@ -1,0 +1,69 @@
+{
+  "id": 1226175503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21355,12.35216,11.21355,12.35216",
+    "geom:latitude":12.35216,
+    "geom:longitude":11.21355,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"709.0",
+    "gn:admin3_code":"70905",
+    "gn:asciiname":"Daifa",
+    "gn:country_code":"NG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345686,
+    "gn:latitude":12.35216,
+    "gn:longitude":11.21355,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Daifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345686
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f3ae2ae284c7a9fd9afff3e71190ab9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564527,
+            "locality_id":1226175503,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1226175503,
+    "wof:lastmodified":1537033397,
+    "wof:name":"Daifa",
+    "wof:parent_id":1108564527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21355,
+    12.35216,
+    11.21355,
+    12.35216
+],
+  "geometry": {"coordinates":[11.21355,12.35216],"type":"Point"}
+}

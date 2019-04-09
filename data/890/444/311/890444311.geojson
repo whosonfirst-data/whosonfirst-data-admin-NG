@@ -1,0 +1,68 @@
+{
+  "id": 890444311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.82196,12.14082,6.82196,12.14082",
+    "geom:latitude":12.14082,
+    "geom:longitude":6.82196,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":9084,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kotorkoshi"
+    ],
+    "qs:name":"Kwatarkwashi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332733,
+        "qs:id":1035012
+    },
+    "wof:country":"NG",
+    "wof:created":1469052464,
+    "wof:geomhash":"1a15076d831ff072c4bf8939e9a64da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":890444311,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":890444311,
+    "wof:lastmodified":1505343598,
+    "wof:name":"Kwatarkwashi",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:population":9084,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.82196,
+    12.14082,
+    6.82196,
+    12.14082
+],
+  "geometry": {"coordinates":[6.82196,12.14082],"type":"Point"}
+}

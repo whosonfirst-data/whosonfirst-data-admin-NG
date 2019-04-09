@@ -1,0 +1,62 @@
+{
+  "id": 1209242473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41927,7.70672,7.41927,7.70672",
+    "geom:latitude":7.70672,
+    "geom:longitude":7.41927,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23005.0",
+    "gn:asciiname":"Agojeju",
+    "gn:country_code":"NG",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351800,
+    "gn:latitude":7.70672,
+    "gn:longitude":7.41927,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agojeju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351800
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1482e5833ac645a354bf6ccbabe54324",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209242473
+        }
+    ],
+    "wof:id":1209242473,
+    "wof:lastmodified":1536293274,
+    "wof:name":"Agojeju",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41927,
+    7.70672,
+    7.41927,
+    7.70672
+],
+  "geometry": {"coordinates":[7.41927,7.70672],"type":"Point"}
+}

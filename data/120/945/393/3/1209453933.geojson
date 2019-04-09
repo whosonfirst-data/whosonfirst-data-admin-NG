@@ -1,0 +1,62 @@
+{
+  "id": 1209453933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53836,5.3787,5.53836,5.3787",
+    "geom:latitude":5.3787,
+    "geom:longitude":5.53836,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10004.0",
+    "gn:asciiname":"Ogodogodo",
+    "gn:country_code":"NG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028164,
+    "gn:latitude":5.3787,
+    "gn:longitude":5.53836,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogodogodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028164
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"661574632ce913406eee44fb81442a08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209453933
+        }
+    ],
+    "wof:id":1209453933,
+    "wof:lastmodified":1536286593,
+    "wof:name":"Ogodogodo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53836,
+    5.3787,
+    5.53836,
+    5.3787
+],
+  "geometry": {"coordinates":[5.53836,5.3787],"type":"Point"}
+}

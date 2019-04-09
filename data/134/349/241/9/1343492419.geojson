@@ -1,0 +1,72 @@
+{
+  "id": 1343492419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10236,11.35167,11.10236,11.35167",
+    "geom:latitude":11.35167,
+    "geom:longitude":11.10236,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70404",
+    "gn:asciiname":"Jombar",
+    "gn:country_code":"NG",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335971,
+    "gn:latitude":11.35167,
+    "gn:longitude":11.10236,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jombar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jombor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335971
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"32486beb83bda6c7b56cab5f82a23b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563369,
+            "locality_id":1343492419,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1343492419,
+    "wof:lastmodified":1537675162,
+    "wof:name":"Jombar",
+    "wof:parent_id":1108563369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10236,
+    11.35167,
+    11.10236,
+    11.35167
+],
+  "geometry": {"coordinates":[11.10236,11.35167],"type":"Point"}
+}

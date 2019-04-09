@@ -1,0 +1,72 @@
+{
+  "id": 1309743159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78677,11.07471,11.78677,11.07471",
+    "geom:latitude":11.07471,
+    "geom:longitude":11.78677,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"708.0",
+    "gn:admin3_code":"70803",
+    "gn:asciiname":"Ngurunbile",
+    "gn:country_code":"NG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328949,
+    "gn:latitude":11.07471,
+    "gn:longitude":11.78677,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngurunbile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngurunbite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328949
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8d16a61800ec809b08460672bc0735f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563443,
+            "locality_id":1309743159,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1309743159,
+    "wof:lastmodified":1537675074,
+    "wof:name":"Ngurunbile",
+    "wof:parent_id":1108563443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78677,
+    11.07471,
+    11.78677,
+    11.07471
+],
+  "geometry": {"coordinates":[11.78677,11.07471],"type":"Point"}
+}

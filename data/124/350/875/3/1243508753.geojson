@@ -1,0 +1,68 @@
+{
+  "id": 1243508753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.24018,7.01552,8.24018,7.01552",
+    "geom:latitude":7.01552,
+    "geom:longitude":8.24018,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7014.0",
+    "gn:asciiname":"Ichoji",
+    "gn:country_code":"NG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852177,
+    "gn:latitude":7.01552,
+    "gn:longitude":8.24018,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ichoji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852177
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd11d46e0abdead55d4c798e1daa3729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564073,
+            "locality_id":1243508753,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243508753,
+    "wof:lastmodified":1536716143,
+    "wof:name":"Ichoji",
+    "wof:parent_id":1108564073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.24018,
+    7.01552,
+    8.24018,
+    7.01552
+],
+  "geometry": {"coordinates":[8.24018,7.01552],"type":"Point"}
+}

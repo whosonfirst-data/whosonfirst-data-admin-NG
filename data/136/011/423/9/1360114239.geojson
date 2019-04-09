@@ -1,0 +1,68 @@
+{
+  "id": 1360114239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.88333,10.0,6.88333,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":6.88333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27018.0",
+    "gn:asciiname":"Yadna",
+    "gn:country_code":"NG",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318498,
+    "gn:latitude":10.0,
+    "gn:longitude":6.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yadna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318498
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d4af7138703471ec75336cfb4cc5fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564003,
+            "locality_id":1360114239,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360114239,
+    "wof:lastmodified":1536903831,
+    "wof:name":"Yadna",
+    "wof:parent_id":1108564003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.88333,
+    10.0,
+    6.88333,
+    10.0
+],
+  "geometry": {"coordinates":[6.88333,10.0],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209059243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56151,5.88416,6.56151,5.88416",
+    "geom:latitude":5.88416,
+    "geom:longitude":6.56151,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10011.0",
+    "gn:asciiname":"Ozala",
+    "gn:country_code":"NG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100441,
+    "gn:latitude":5.88416,
+    "gn:longitude":6.56151,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ozala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100441
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aae8613f858ea8222be6b482742420f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209059243
+        }
+    ],
+    "wof:id":1209059243,
+    "wof:lastmodified":1536299009,
+    "wof:name":"Ozala",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56151,
+    5.88416,
+    6.56151,
+    5.88416
+],
+  "geometry": {"coordinates":[6.56151,5.88416],"type":"Point"}
+}

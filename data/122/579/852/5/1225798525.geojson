@@ -1,0 +1,68 @@
+{
+  "id": 1225798525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98007,8.74245,11.98007,8.74245",
+    "geom:latitude":8.74245,
+    "geom:longitude":11.98007,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Mbulo Tocha",
+    "gn:country_code":"NG",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330281,
+    "gn:latitude":8.74245,
+    "gn:longitude":11.98007,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbulo Tocha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330281
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8baa9f2e6402bef54afc695672b46076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1225798525,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1225798525,
+    "wof:lastmodified":1537078808,
+    "wof:name":"Mbulo Tocha",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98007,
+    8.74245,
+    11.98007,
+    8.74245
+],
+  "geometry": {"coordinates":[11.98007,8.74245],"type":"Point"}
+}

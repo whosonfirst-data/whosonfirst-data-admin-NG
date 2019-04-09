@@ -1,0 +1,78 @@
+{
+  "id": 1243294955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0658,9.66155,9.0658,9.66155",
+    "geom:latitude":9.66155,
+    "geom:longitude":9.0658,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32001.0",
+    "gn:asciiname":"Barkogi",
+    "gn:country_code":"NG",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348145,
+    "gn:latitude":9.66155,
+    "gn:longitude":9.0658,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Barkogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barkogi"
+    ],
+    "name:eng_x_variant":[
+        "Bar Kogi"
+    ],
+    "name:und_x_variant":[
+        "Barikin Kogi",
+        "Bakin Kogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348145
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"182f941f29f53dc6deb840f8ce32f387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563087,
+            "locality_id":1243294955,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1243294955,
+    "wof:lastmodified":1537675342,
+    "wof:name":"Barkogi",
+    "wof:parent_id":1108563087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0658,
+    9.66155,
+    9.0658,
+    9.66155
+],
+  "geometry": {"coordinates":[9.0658,9.66155],"type":"Point"}
+}

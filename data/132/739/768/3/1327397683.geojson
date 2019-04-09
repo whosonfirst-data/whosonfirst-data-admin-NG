@@ -1,0 +1,73 @@
+{
+  "id": 1327397683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.01667,7.41667,3.01667,7.41667",
+    "geom:latitude":7.41667,
+    "geom:longitude":3.01667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28013.0",
+    "gn:asciiname":"Imala Asipa",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337600,
+    "gn:latitude":7.41667,
+    "gn:longitude":3.01667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imala Asipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashipa",
+        "Imala Asipa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337600
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"329f01add6a59c9afbe5e73aeebc38ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563641,
+            "locality_id":1327397683,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1327397683,
+    "wof:lastmodified":1537675186,
+    "wof:name":"Imala Asipa",
+    "wof:parent_id":1108563641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.01667,
+    7.41667,
+    3.01667,
+    7.41667
+],
+  "geometry": {"coordinates":[3.01667,7.41667],"type":"Point"}
+}

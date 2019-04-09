@@ -1,0 +1,70 @@
+{
+  "id": 1343795023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.66852,10.88362,10.66852,10.88362",
+    "geom:latitude":10.88362,
+    "geom:longitude":10.66852,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Yole",
+    "gn:country_code":"NG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318026,
+    "gn:latitude":10.88362,
+    "gn:longitude":10.66852,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318026
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"18a962eac29d2f4a35a3e0a2b635cdcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1343795023,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1343795023,
+    "wof:lastmodified":1537674901,
+    "wof:name":"Yole",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.66852,
+    10.88362,
+    10.66852,
+    10.88362
+],
+  "geometry": {"coordinates":[10.66852,10.88362],"type":"Point"}
+}

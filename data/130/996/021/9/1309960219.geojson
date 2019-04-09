@@ -1,0 +1,68 @@
+{
+  "id": 1309960219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49264,7.6455,8.49264,7.6455",
+    "geom:latitude":7.6455,
+    "geom:longitude":8.49264,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013",
+    "gn:asciiname":"Diarkume",
+    "gn:country_code":"NG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9509089,
+    "gn:latitude":7.6455,
+    "gn:longitude":8.49264,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Diarkume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9509089
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02b8d06f71d5c6da7459877cc364144f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":1309960219,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1309960219,
+    "wof:lastmodified":1536709015,
+    "wof:name":"Diarkume",
+    "wof:parent_id":1108563933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49264,
+    7.6455,
+    8.49264,
+    7.6455
+],
+  "geometry": {"coordinates":[8.49264,7.6455],"type":"Point"}
+}

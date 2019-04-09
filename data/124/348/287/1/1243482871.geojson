@@ -1,0 +1,69 @@
+{
+  "id": 1243482871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.77486,12.1439,4.77486,12.1439",
+    "geom:latitude":12.1439,
+    "geom:longitude":4.77486,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61003",
+    "gn:asciiname":"Natsini",
+    "gn:country_code":"NG",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329408,
+    "gn:latitude":12.1439,
+    "gn:longitude":4.77486,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Natsini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329408
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e5acf7dd79eb8ddf4b83d7009e321194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563809,
+            "locality_id":1243482871,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1243482871,
+    "wof:lastmodified":1536753094,
+    "wof:name":"Natsini",
+    "wof:parent_id":1108563809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.77486,
+    12.1439,
+    4.77486,
+    12.1439
+],
+  "geometry": {"coordinates":[4.77486,12.1439],"type":"Point"}
+}

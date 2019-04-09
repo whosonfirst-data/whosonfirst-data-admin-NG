@@ -1,0 +1,69 @@
+{
+  "id": 1260008021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.69505,12.12769,4.69505,12.12769",
+    "geom:latitude":12.12769,
+    "geom:longitude":4.69505,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"610.0",
+    "gn:admin3_code":"61004",
+    "gn:asciiname":"Asarara Kaura",
+    "gn:country_code":"NG",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349215,
+    "gn:latitude":12.12769,
+    "gn:longitude":4.69505,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Asarara Kaura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349215
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95bc559ccd35a1797226db314ff10a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563809,
+            "locality_id":1260008021,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1260008021,
+    "wof:lastmodified":1537093503,
+    "wof:name":"Asarara Kaura",
+    "wof:parent_id":1108563809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.69505,
+    12.12769,
+    4.69505,
+    12.12769
+],
+  "geometry": {"coordinates":[4.69505,12.12769],"type":"Point"}
+}

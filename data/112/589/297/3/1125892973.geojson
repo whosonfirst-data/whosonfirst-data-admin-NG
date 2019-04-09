@@ -1,0 +1,81 @@
+{
+  "id": 1125892973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.79536,11.3764,5.79536,11.3764",
+    "geom:latitude":11.3764,
+    "geom:longitude":5.79536,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8157,
+    "gn:population":8157,
+    "iso:country":"NG",
+    "lbl:latitude":11.3764,
+    "lbl:longitude":5.79536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Wasaga"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2319123,
+    "qs_pg:gn_pop":8157,
+    "qs_pg:name":"Wasagu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1034965,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319123,
+        "qs_pg:id":1034965
+    },
+    "wof:country":"NG",
+    "wof:created":1497295408,
+    "wof:geomhash":"0f8dd21b2d40abe45eb1d9e14a491fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564505,
+            "locality_id":1125892973,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1125892973,
+    "wof:lastmodified":1509398911,
+    "wof:name":"Wasagu",
+    "wof:parent_id":1108564505,
+    "wof:placetype":"locality",
+    "wof:population":8157,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.79536,
+    11.3764,
+    5.79536,
+    11.3764
+],
+  "geometry": {"coordinates":[5.79536,11.3764],"type":"Point"}
+}

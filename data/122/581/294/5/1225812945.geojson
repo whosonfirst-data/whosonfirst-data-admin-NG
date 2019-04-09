@@ -1,0 +1,67 @@
+{
+  "id": 1225812945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97566,5.82359,6.97566,5.82359",
+    "geom:latitude":5.82359,
+    "geom:longitude":6.97566,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Umuakabia",
+    "gn:country_code":"NG",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098593,
+    "gn:latitude":5.82359,
+    "gn:longitude":6.97566,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Umuakabia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098593
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7b83750c6c9fd7d2b400a769e3f1c6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564215,
+            "locality_id":1225812945,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1225812945,
+    "wof:lastmodified":1537058538,
+    "wof:name":"Umuakabia",
+    "wof:parent_id":1108564215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97566,
+    5.82359,
+    6.97566,
+    5.82359
+],
+  "geometry": {"coordinates":[6.97566,5.82359],"type":"Point"}
+}

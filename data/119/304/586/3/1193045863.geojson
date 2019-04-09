@@ -1,0 +1,73 @@
+{
+  "id": 1193045863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.73699,12.31486,6.73699,12.31486",
+    "geom:latitude":12.31486,
+    "geom:longitude":6.73699,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80802",
+    "gn:asciiname":"Makarta",
+    "gn:country_code":"NG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320203,
+    "gn:latitude":12.31486,
+    "gn:longitude":6.73699,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makarta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unguwar Makarta",
+        "Makarta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320203
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d382ebb30e0ec7fbcc559727fd26b2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1193045863,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1193045863,
+    "wof:lastmodified":1537674939,
+    "wof:name":"Makarta",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.73699,
+    12.31486,
+    6.73699,
+    12.31486
+],
+  "geometry": {"coordinates":[6.73699,12.31486],"type":"Point"}
+}

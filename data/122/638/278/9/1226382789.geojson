@@ -1,0 +1,64 @@
+{
+  "id": 1226382789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.53969,10.62974,13.53969,10.62974",
+    "geom:latitude":10.62974,
+    "geom:longitude":13.53969,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013.0",
+    "gn:asciiname":"Kamale",
+    "gn:country_code":"NG",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335346,
+    "gn:latitude":10.62974,
+    "gn:longitude":13.53969,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kamale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335346
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a543cf8d5a2f9c9857a431567b48b6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226382789,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226382789,
+    "wof:lastmodified":1536736206,
+    "wof:name":"Kamale",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.53969,
+    10.62974,
+    13.53969,
+    10.62974
+],
+  "geometry": {"coordinates":[13.53969,10.62974],"type":"Point"}
+}

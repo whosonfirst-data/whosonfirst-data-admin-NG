@@ -1,0 +1,72 @@
+{
+  "id": 1310627519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4073,10.40058,10.4073,10.40058",
+    "geom:latitude":10.40058,
+    "geom:longitude":10.4073,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1310",
+    "gn:asciiname":"Cheledi",
+    "gn:country_code":"NG",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346110,
+    "gn:latitude":10.40058,
+    "gn:longitude":10.4073,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cheledi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cheledi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346110
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7c6f11c8066baf8760c1385bad84b738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563819,
+            "locality_id":1310627519,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1310627519,
+    "wof:lastmodified":1537675317,
+    "wof:name":"Cheledi",
+    "wof:parent_id":1108563819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4073,
+    10.40058,
+    10.4073,
+    10.40058
+],
+  "geometry": {"coordinates":[10.4073,10.40058],"type":"Point"}
+}

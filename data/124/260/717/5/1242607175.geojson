@@ -1,0 +1,68 @@
+{
+  "id": 1242607175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03681,9.57441,6.03681,9.57441",
+    "geom:latitude":9.57441,
+    "geom:longitude":6.03681,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27025",
+    "gn:asciiname":"New Lokogoma",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10336983,
+    "gn:latitude":9.57441,
+    "gn:longitude":6.03681,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"New Lokogoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10336983
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"57ce3cb324a837f523ec09a532f14318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564517,
+            "locality_id":1242607175,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1242607175,
+    "wof:lastmodified":1537020260,
+    "wof:name":"New Lokogoma",
+    "wof:parent_id":1108564517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03681,
+    9.57441,
+    6.03681,
+    9.57441
+],
+  "geometry": {"coordinates":[6.03681,9.57441],"type":"Point"}
+}

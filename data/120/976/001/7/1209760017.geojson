@@ -1,0 +1,68 @@
+{
+  "id": 1209760017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68333,9.26667,12.68333,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":12.68333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Jalingo",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336587,
+    "gn:latitude":9.26667,
+    "gn:longitude":12.68333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jalingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336587
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0dcfd4c4bb6a3123273a0b5384c9b9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1209760017,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1209760017,
+    "wof:lastmodified":1536388942,
+    "wof:name":"Jalingo",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68333,
+    9.26667,
+    12.68333,
+    9.26667
+],
+  "geometry": {"coordinates":[12.68333,9.26667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243396311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.67577,9.12539,11.67577,9.12539",
+    "geom:latitude":9.12539,
+    "geom:longitude":11.67577,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Pantilade Area",
+    "gn:country_code":"NG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209444,
+    "gn:latitude":9.12539,
+    "gn:longitude":11.67577,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Pantilade Area",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pantilade Area"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209444
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"175918d66d60e35a45263fbbd21580a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1243396311,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1243396311,
+    "wof:lastmodified":1537675501,
+    "wof:name":"Pantilade Area",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.67577,
+    9.12539,
+    11.67577,
+    9.12539
+],
+  "geometry": {"coordinates":[11.67577,9.12539],"type":"Point"}
+}

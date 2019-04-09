@@ -1,0 +1,74 @@
+{
+  "id": 1259835559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.64719,10.22581,8.64719,10.22581",
+    "geom:latitude":10.22581,
+    "geom:longitude":8.64719,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19017.0",
+    "gn:admin3_code":"KD1707",
+    "gn:asciiname":"Amon Kasa",
+    "gn:country_code":"NG",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350046,
+    "gn:latitude":10.22581,
+    "gn:longitude":8.64719,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Amon Kasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amon Kasa Bisa",
+        "Amon Kasa Villages",
+        "Amon Kasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350046
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c1c90df014907a11b8ea0025c9ee564f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563901,
+            "locality_id":1259835559,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1259835559,
+    "wof:lastmodified":1537675364,
+    "wof:name":"Amon Kasa",
+    "wof:parent_id":1108563901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64719,
+    10.22581,
+    8.64719,
+    10.22581
+],
+  "geometry": {"coordinates":[8.64719,10.22581],"type":"Point"}
+}

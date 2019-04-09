@@ -1,0 +1,68 @@
+{
+  "id": 1293822929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.42289,6.11362,6.42289,6.11362",
+    "geom:latitude":6.11362,
+    "geom:longitude":6.42289,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002",
+    "gn:asciiname":"Ashama Ubulunok",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10366872,
+    "gn:latitude":6.11362,
+    "gn:longitude":6.42289,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ashama Ubulunok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10366872
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5fa54af855d8891cb97f4f03050957f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1293822929,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293822929,
+    "wof:lastmodified":1536800640,
+    "wof:name":"Ashama Ubulunok",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.42289,
+    6.11362,
+    6.42289,
+    6.11362
+],
+  "geometry": {"coordinates":[6.42289,6.11362],"type":"Point"}
+}

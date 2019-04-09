@@ -1,0 +1,84 @@
+{
+  "id": 421194219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.74337,12.96358,5.74337,12.96358",
+    "geom:latitude":12.96358,
+    "geom:longitude":5.74337,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:swa_x_preferred":[
+        "Gwandi"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2342125,
+    "qs:gn_pop":13940,
+    "qs:name":"Gwandi",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Sokoto",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1035057,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1393325,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342125,
+        "gp:id":1393325,
+        "qs:id":1035057,
+        "wd:id":"Q11207969"
+    },
+    "wof:country":"NG",
+    "wof:created":1459009798,
+    "wof:geomhash":"1ec4a6ef711c48ddb4a7fb10c2423c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564289,
+            "locality_id":421194219,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":421194219,
+    "wof:lastmodified":1527716129,
+    "wof:name":"Gwandi",
+    "wof:parent_id":1108564289,
+    "wof:placetype":"locality",
+    "wof:population":13940,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.74337,
+    12.96358,
+    5.74337,
+    12.96358
+],
+  "geometry": {"coordinates":[5.74337,12.96358],"type":"Point"}
+}

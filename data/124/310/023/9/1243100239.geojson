@@ -1,0 +1,70 @@
+{
+  "id": 1243100239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99314,9.96853,10.99314,9.96853",
+    "geom:latitude":9.96853,
+    "geom:longitude":10.99314,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Garin Guda",
+    "gn:country_code":"NG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258944,
+    "gn:latitude":9.96853,
+    "gn:longitude":10.99314,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Garin Guda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Garin Guda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258944
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5f28932b96f38ed54008add3fc723ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1243100239,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1243100239,
+    "wof:lastmodified":1537675513,
+    "wof:name":"Garin Guda",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99314,
+    9.96853,
+    10.99314,
+    9.96853
+],
+  "geometry": {"coordinates":[10.99314,9.96853],"type":"Point"}
+}

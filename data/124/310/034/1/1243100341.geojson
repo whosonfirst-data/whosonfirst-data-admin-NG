@@ -1,0 +1,68 @@
+{
+  "id": 1243100341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24247,4.76213,7.24247,4.76213",
+    "geom:latitude":4.76213,
+    "geom:longitude":7.24247,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33023.0",
+    "gn:asciiname":"Bunu Barana",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346404,
+    "gn:latitude":4.76213,
+    "gn:longitude":7.24247,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bunu Barana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346404
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"56d09655d0c1cc4e49d267b435fead0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564393,
+            "locality_id":1243100341,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1243100341,
+    "wof:lastmodified":1536807193,
+    "wof:name":"Bunu Barana",
+    "wof:parent_id":1108564393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24247,
+    4.76213,
+    7.24247,
+    4.76213
+],
+  "geometry": {"coordinates":[7.24247,4.76213],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310145965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83393,9.14344,11.83393,9.14344",
+    "geom:latitude":9.14344,
+    "geom:longitude":11.83393,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Watame",
+    "gn:country_code":"NG",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210434,
+    "gn:latitude":9.14344,
+    "gn:longitude":11.83393,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Watame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Watame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210434
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed89f5d4ed010b514c680f51671c7920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1310145965,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310145965,
+    "wof:lastmodified":1537675507,
+    "wof:name":"Watame",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83393,
+    9.14344,
+    11.83393,
+    9.14344
+],
+  "geometry": {"coordinates":[11.83393,9.14344],"type":"Point"}
+}

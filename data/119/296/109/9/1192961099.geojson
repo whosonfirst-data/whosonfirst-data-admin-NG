@@ -1,0 +1,74 @@
+{
+  "id": 1192961099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4275,6.80999,6.4275,6.80999",
+    "geom:latitude":6.80999,
+    "geom:longitude":6.4275,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Ebulen",
+    "gn:country_code":"NG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344090,
+    "gn:latitude":6.80999,
+    "gn:longitude":6.4275,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ebulen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ebuen"
+    ],
+    "name:eng_x_variant":[
+        "Ebulen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344090
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"28855e48fd42f2ccbe8104091e33079a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1192961099,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1192961099,
+    "wof:lastmodified":1537675290,
+    "wof:name":"Ebulen",
+    "wof:parent_id":1108563317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4275,
+    6.80999,
+    6.4275,
+    6.80999
+],
+  "geometry": {"coordinates":[6.4275,6.80999],"type":"Point"}
+}

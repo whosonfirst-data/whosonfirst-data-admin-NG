@@ -1,0 +1,69 @@
+{
+  "id": 1277029799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.63046,11.3006,7.63046,11.3006",
+    "geom:latitude":11.3006,
+    "geom:longitude":7.63046,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"408.0",
+    "gn:admin3_code":"40810",
+    "gn:asciiname":"Gidan Madobi",
+    "gn:country_code":"NG",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019647,
+    "gn:latitude":11.3006,
+    "gn:longitude":7.63046,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Madobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019647
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d2276ce326dcbdbcdf1f204d9637c0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563213,
+            "locality_id":1277029799,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1277029799,
+    "wof:lastmodified":1536839171,
+    "wof:name":"Gidan Madobi",
+    "wof:parent_id":1108563213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.63046,
+    11.3006,
+    7.63046,
+    11.3006
+],
+  "geometry": {"coordinates":[7.63046,11.3006],"type":"Point"}
+}

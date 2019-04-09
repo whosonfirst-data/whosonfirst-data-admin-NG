@@ -1,0 +1,62 @@
+{
+  "id": 1209558377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.07767,5.69151,6.07767,5.69151",
+    "geom:latitude":5.69151,
+    "geom:longitude":6.07767,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Oromuru",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098433,
+    "gn:latitude":5.69151,
+    "gn:longitude":6.07767,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oromuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098433
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9e19b7ac70e1a3ae8e110f1674c40e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209558377
+        }
+    ],
+    "wof:id":1209558377,
+    "wof:lastmodified":1536283476,
+    "wof:name":"Oromuru",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07767,
+    5.69151,
+    6.07767,
+    5.69151
+],
+  "geometry": {"coordinates":[6.07767,5.69151],"type":"Point"}
+}

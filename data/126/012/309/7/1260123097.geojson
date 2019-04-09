@@ -1,0 +1,70 @@
+{
+  "id": 1260123097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.17776,5.75824,5.17776,5.75824",
+    "geom:latitude":5.75824,
+    "geom:longitude":5.17776,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Deli II",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121976,
+    "gn:latitude":5.75824,
+    "gn:longitude":5.17776,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Deli II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Deli II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121976
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f6492d07066b040bb5189e1f4f1e811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564499,
+            "locality_id":1260123097,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1260123097,
+    "wof:lastmodified":1537675478,
+    "wof:name":"Deli II",
+    "wof:parent_id":1108564499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.17776,
+    5.75824,
+    5.17776,
+    5.75824
+],
+  "geometry": {"coordinates":[5.17776,5.75824],"type":"Point"}
+}

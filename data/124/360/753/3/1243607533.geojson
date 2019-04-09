@@ -1,0 +1,70 @@
+{
+  "id": 1243607533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.99553,9.20815,11.99553,9.20815",
+    "geom:latitude":9.20815,
+    "geom:longitude":11.99553,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kuki",
+    "gn:country_code":"NG",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210525,
+    "gn:latitude":9.20815,
+    "gn:longitude":11.99553,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210525
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2adecf631e2eaa549105c626eaccc1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1243607533,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243607533,
+    "wof:lastmodified":1537675509,
+    "wof:name":"Kuki",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.99553,
+    9.20815,
+    11.99553,
+    9.20815
+],
+  "geometry": {"coordinates":[11.99553,9.20815],"type":"Point"}
+}

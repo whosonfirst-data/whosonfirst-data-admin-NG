@@ -1,0 +1,74 @@
+{
+  "id": 1293167447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.00343,10.63468,13.00343,10.63468",
+    "geom:latitude":10.63468,
+    "geom:longitude":13.00343,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10201",
+    "gn:asciiname":"Yimilarin Bulayan",
+    "gn:country_code":"NG",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318078,
+    "gn:latitude":10.63468,
+    "gn:longitude":13.00343,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yimilarin Bulayan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yimilarin Bula Mute Gana",
+        "Yimilarin Bulayan",
+        "Yimilarin Bulayani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318078
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"66bcff77d2464d953a101cf13349b814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563037,
+            "locality_id":1293167447,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1293167447,
+    "wof:lastmodified":1537674902,
+    "wof:name":"Yimilarin Bulayan",
+    "wof:parent_id":1108563037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.00343,
+    10.63468,
+    13.00343,
+    10.63468
+],
+  "geometry": {"coordinates":[13.00343,10.63468],"type":"Point"}
+}

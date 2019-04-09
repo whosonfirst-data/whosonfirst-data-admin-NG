@@ -1,0 +1,68 @@
+{
+  "id": 1276717879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0334,5.484,8.0334,5.484",
+    "geom:latitude":5.484,
+    "geom:longitude":8.0334,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Udem",
+    "gn:country_code":"NG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854825,
+    "gn:latitude":5.484,
+    "gn:longitude":8.0334,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Udem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9782df0e59b0faa41b9d08bd132c06b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1276717879,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1276717879,
+    "wof:lastmodified":1536760904,
+    "wof:name":"Udem",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0334,
+    5.484,
+    8.0334,
+    5.484
+],
+  "geometry": {"coordinates":[8.0334,5.484],"type":"Point"}
+}

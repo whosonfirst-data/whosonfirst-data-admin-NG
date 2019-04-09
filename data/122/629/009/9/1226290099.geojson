@@ -1,0 +1,69 @@
+{
+  "id": 1226290099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53517,10.66242,12.53517,10.66242",
+    "geom:latitude":10.66242,
+    "geom:longitude":12.53517,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10208",
+    "gn:asciiname":"Garuhiza",
+    "gn:country_code":"NG",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341711,
+    "gn:latitude":10.66242,
+    "gn:longitude":12.53517,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garuhiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341711
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f97cd85658496c6e134bc0cf6abb39e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563037,
+            "locality_id":1226290099,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226290099,
+    "wof:lastmodified":1536868647,
+    "wof:name":"Garuhiza",
+    "wof:parent_id":1108563037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53517,
+    10.66242,
+    12.53517,
+    10.66242
+],
+  "geometry": {"coordinates":[12.53517,10.66242],"type":"Point"}
+}

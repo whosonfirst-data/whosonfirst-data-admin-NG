@@ -1,0 +1,72 @@
+{
+  "id": 1259749757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27228,13.20247,13.27228,13.20247",
+    "geom:latitude":13.20247,
+    "geom:longitude":13.27228,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10102",
+    "gn:asciiname":"Banowa",
+    "gn:country_code":"NG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347800,
+    "gn:latitude":13.20247,
+    "gn:longitude":13.27228,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Banowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108562899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347800
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"843a3d0f6ad097b675a8712df6f595fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562899,
+            "locality_id":1259749757,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259749757,
+    "wof:lastmodified":1537675337,
+    "wof:name":"Banowa",
+    "wof:parent_id":1108562899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27228,
+    13.20247,
+    13.27228,
+    13.20247
+],
+  "geometry": {"coordinates":[13.27228,13.20247],"type":"Point"}
+}

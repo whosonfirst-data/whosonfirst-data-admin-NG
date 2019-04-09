@@ -1,0 +1,71 @@
+{
+  "id": 1293030409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73587,10.72641,10.73587,10.72641",
+    "geom:latitude":10.72641,
+    "geom:longitude":10.73587,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Wangi",
+    "gn:country_code":"NG",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319213,
+    "gn:latitude":10.72641,
+    "gn:longitude":10.73587,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319213
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ee9bf0a806aca0eafe5f7f327710559a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1293030409,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1293030409,
+    "wof:lastmodified":1537674915,
+    "wof:name":"Wangi",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73587,
+    10.72641,
+    10.73587,
+    10.72641
+],
+  "geometry": {"coordinates":[10.73587,10.72641],"type":"Point"}
+}

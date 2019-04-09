@@ -1,0 +1,68 @@
+{
+  "id": 1310443057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.82111,7.57222,3.82111,7.57222",
+    "geom:latitude":7.57222,
+    "geom:longitude":3.82111,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Onipanu",
+    "gn:country_code":"NG",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591506,
+    "gn:latitude":7.57222,
+    "gn:longitude":3.82111,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onipanu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591506
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"de3529d1bd4a2c7ae11ece2407acd0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1310443057,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1310443057,
+    "wof:lastmodified":1537006222,
+    "wof:name":"Onipanu",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.82111,
+    7.57222,
+    3.82111,
+    7.57222
+],
+  "geometry": {"coordinates":[3.82111,7.57222],"type":"Point"}
+}

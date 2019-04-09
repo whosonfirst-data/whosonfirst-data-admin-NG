@@ -1,0 +1,68 @@
+{
+  "id": 1226498761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.88002,6.76706,8.88002,6.76706",
+    "geom:latitude":6.76706,
+    "geom:longitude":8.88002,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9018.0",
+    "gn:asciiname":"Ibi",
+    "gn:country_code":"NG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914655,
+    "gn:latitude":6.76706,
+    "gn:longitude":8.88002,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914655
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"527f03a0937701cfe56709b01f81b2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564529,
+            "locality_id":1226498761,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226498761,
+    "wof:lastmodified":1537063080,
+    "wof:name":"Ibi",
+    "wof:parent_id":1108564529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.88002,
+    6.76706,
+    8.88002,
+    6.76706
+],
+  "geometry": {"coordinates":[8.88002,6.76706],"type":"Point"}
+}

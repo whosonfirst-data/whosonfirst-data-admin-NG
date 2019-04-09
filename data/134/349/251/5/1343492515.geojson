@@ -1,0 +1,68 @@
+{
+  "id": 1343492515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33293,8.92792,11.33293,8.92792",
+    "geom:latitude":8.92792,
+    "geom:longitude":11.33293,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007",
+    "gn:asciiname":"Pantivor",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871188,
+    "gn:latitude":8.92792,
+    "gn:longitude":11.33293,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pantivor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        421183191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871188
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba83b6b9fa4509fd2d7efd4c45f93cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183191,
+            "locality_id":1343492515,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343492515,
+    "wof:lastmodified":1536700236,
+    "wof:name":"Pantivor",
+    "wof:parent_id":421183191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33293,
+    8.92792,
+    11.33293,
+    8.92792
+],
+  "geometry": {"coordinates":[11.33293,8.92792],"type":"Point"}
+}

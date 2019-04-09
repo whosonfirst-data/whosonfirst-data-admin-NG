@@ -1,0 +1,73 @@
+{
+  "id": 1277136545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.21667,8.2,3.21667,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":3.21667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31017.0",
+    "gn:asciiname":"Baba Ode",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348481,
+    "gn:latitude":8.2,
+    "gn:longitude":3.21667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Baba Ode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baba-awde",
+        "Baba Ode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348481
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ff99ddec55422531247bb84f5910d4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563697,
+            "locality_id":1277136545,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1277136545,
+    "wof:lastmodified":1537675346,
+    "wof:name":"Baba Ode",
+    "wof:parent_id":1108563697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.21667,
+    8.2,
+    3.21667,
+    8.2
+],
+  "geometry": {"coordinates":[3.21667,8.2],"type":"Point"}
+}

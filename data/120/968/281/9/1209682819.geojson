@@ -1,0 +1,62 @@
+{
+  "id": 1209682819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.47087,7.95251,8.47087,7.95251",
+    "geom:latitude":7.95251,
+    "geom:longitude":8.47087,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7006.0",
+    "gn:asciiname":"Nalegh",
+    "gn:country_code":"NG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852949,
+    "gn:latitude":7.95251,
+    "gn:longitude":8.47087,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nalegh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852949
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f6e5e8ab994853163fa00e275748db6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209682819
+        }
+    ],
+    "wof:id":1209682819,
+    "wof:lastmodified":1536279515,
+    "wof:name":"Nalegh",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.47087,
+    7.95251,
+    8.47087,
+    7.95251
+],
+  "geometry": {"coordinates":[8.47087,7.95251],"type":"Point"}
+}

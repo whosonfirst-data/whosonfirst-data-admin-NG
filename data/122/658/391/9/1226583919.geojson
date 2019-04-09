@@ -1,0 +1,67 @@
+{
+  "id": 1226583919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2287,10.2366,12.2287,10.2366",
+    "geom:latitude":10.2366,
+    "geom:longitude":12.2287,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Binda",
+    "gn:country_code":"NG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837073,
+    "gn:latitude":10.2366,
+    "gn:longitude":12.2287,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Binda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108564349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837073
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1290ca58c438c7f4c108bc2af8745b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564349,
+            "locality_id":1226583919,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226583919,
+    "wof:lastmodified":1536945629,
+    "wof:name":"Binda",
+    "wof:parent_id":1108564349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2287,
+    10.2366,
+    12.2287,
+    10.2366
+],
+  "geometry": {"coordinates":[12.2287,10.2366],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1210044947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43635,8.75594,11.43635,8.75594",
+    "geom:latitude":8.75594,
+    "geom:longitude":11.43635,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001.0",
+    "gn:asciiname":"Dangu",
+    "gn:country_code":"NG",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345334,
+    "gn:latitude":8.75594,
+    "gn:longitude":11.43635,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345334
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f804f54afca3d696652ced52eee36521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1210044947,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1210044947,
+    "wof:lastmodified":1536380017,
+    "wof:name":"Dangu",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43635,
+    8.75594,
+    11.43635,
+    8.75594
+],
+  "geometry": {"coordinates":[11.43635,8.75594],"type":"Point"}
+}

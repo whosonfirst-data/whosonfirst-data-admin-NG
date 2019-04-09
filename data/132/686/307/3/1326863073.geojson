@@ -1,0 +1,68 @@
+{
+  "id": 1326863073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06631,9.40792,6.06631,9.40792",
+    "geom:latitude":9.40792,
+    "geom:longitude":6.06631,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Kusomisun",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317205,
+    "gn:latitude":9.40792,
+    "gn:longitude":6.06631,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kusomisun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317205
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"642a22aba6723fc486b85a44fa59d6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1326863073,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1326863073,
+    "wof:lastmodified":1537003596,
+    "wof:name":"Kusomisun",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06631,
+    9.40792,
+    6.06631,
+    9.40792
+],
+  "geometry": {"coordinates":[6.06631,9.40792],"type":"Point"}
+}

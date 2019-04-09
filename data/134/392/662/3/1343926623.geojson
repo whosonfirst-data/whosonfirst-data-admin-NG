@@ -1,0 +1,68 @@
+{
+  "id": 1343926623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.29545,6.01337,8.29545,6.01337",
+    "geom:latitude":6.01337,
+    "geom:longitude":8.29545,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9013.0",
+    "gn:asciiname":"Imabana",
+    "gn:country_code":"NG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914640,
+    "gn:latitude":6.01337,
+    "gn:longitude":8.29545,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imabana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914640
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6bda63e7de93e90d3f73304367656c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564085,
+            "locality_id":1343926623,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343926623,
+    "wof:lastmodified":1537066030,
+    "wof:name":"Imabana",
+    "wof:parent_id":1108564085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.29545,
+    6.01337,
+    8.29545,
+    6.01337
+],
+  "geometry": {"coordinates":[8.29545,6.01337],"type":"Point"}
+}

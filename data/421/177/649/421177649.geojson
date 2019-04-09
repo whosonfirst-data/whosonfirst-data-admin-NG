@@ -1,0 +1,79 @@
+{
+  "id": 421177649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.05,7.36667,9.05,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":9.05,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2318374,
+    "qs:gn_pop":7750,
+    "qs:name":"Yandev",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Benue",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":430571,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1409376,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318374,
+        "gp:id":1409376,
+        "qs:id":430571
+    },
+    "wof:country":"NG",
+    "wof:created":1459009156,
+    "wof:geomhash":"b7344e8c0f7b6330b273d5a0b38ffe17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":421177649,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":421177649,
+    "wof:lastmodified":1505340633,
+    "wof:name":"Yandev",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:population":7750,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.05,
+    7.36667,
+    9.05,
+    7.36667
+],
+  "geometry": {"coordinates":[9.05,7.36667],"type":"Point"}
+}

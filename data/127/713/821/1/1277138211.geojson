@@ -1,0 +1,69 @@
+{
+  "id": 1277138211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.05371,5.57235,7.05371,5.57235",
+    "geom:latitude":5.57235,
+    "geom:longitude":7.05371,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17011.0",
+    "gn:asciiname":"Obazu",
+    "gn:country_code":"NG",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073294,
+    "gn:latitude":5.57235,
+    "gn:longitude":7.05371,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obazu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073294,
+        "wk:page":"Obazu"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b45d7f673187210d8415367f721ebd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563965,
+            "locality_id":1277138211,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1277138211,
+    "wof:lastmodified":1537570033,
+    "wof:name":"Obazu",
+    "wof:parent_id":1108563965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.05371,
+    5.57235,
+    7.05371,
+    5.57235
+],
+  "geometry": {"coordinates":[7.05371,5.57235],"type":"Point"}
+}

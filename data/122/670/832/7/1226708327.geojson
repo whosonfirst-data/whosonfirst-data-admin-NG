@@ -1,0 +1,72 @@
+{
+  "id": 1226708327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5028,4.9391,8.5028,4.9391",
+    "geom:latitude":4.9391,
+    "geom:longitude":8.5028,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9003.0",
+    "gn:asciiname":"Ikot Mbakara",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338027,
+    "gn:latitude":4.9391,
+    "gn:longitude":8.5028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Mbakara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikot Mbakara Ene",
+        "Ikot Mbakara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338027
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5668b8b3a51093c184cbcc916f22a52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562979,
+            "locality_id":1226708327,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226708327,
+    "wof:lastmodified":1537675192,
+    "wof:name":"Ikot Mbakara",
+    "wof:parent_id":1108562979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5028,
+    4.9391,
+    8.5028,
+    4.9391
+],
+  "geometry": {"coordinates":[8.5028,4.9391],"type":"Point"}
+}

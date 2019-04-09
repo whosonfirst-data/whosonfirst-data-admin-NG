@@ -1,0 +1,71 @@
+{
+  "id": 1310265795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1558,11.50087,8.1558,11.50087",
+    "geom:latitude":11.50087,
+    "geom:longitude":8.1558,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Paki",
+    "gn:country_code":"NG",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325121,
+    "gn:latitude":11.50087,
+    "gn:longitude":8.1558,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faiki",
+        "Paki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325121
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"649450d805c37f25687b1c88dffdd53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563823,
+            "locality_id":1310265795,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1310265795,
+    "wof:lastmodified":1537675009,
+    "wof:name":"Paki",
+    "wof:parent_id":1108563823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1558,
+    11.50087,
+    8.1558,
+    11.50087
+],
+  "geometry": {"coordinates":[8.1558,11.50087],"type":"Point"}
+}

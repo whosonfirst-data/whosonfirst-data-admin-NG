@@ -1,0 +1,68 @@
+{
+  "id": 1242610619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64677,5.99453,7.64677,5.99453",
+    "geom:latitude":5.99453,
+    "geom:longitude":7.64677,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14001.0",
+    "gn:asciiname":"Mpu",
+    "gn:country_code":"NG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329842,
+    "gn:latitude":5.99453,
+    "gn:longitude":7.64677,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mpu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329842
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"54c5cd8fdf04c6c0cb697e59886708f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563009,
+            "locality_id":1242610619,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1242610619,
+    "wof:lastmodified":1537015430,
+    "wof:name":"Mpu",
+    "wof:parent_id":1108563009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64677,
+    5.99453,
+    7.64677,
+    5.99453
+],
+  "geometry": {"coordinates":[7.64677,5.99453],"type":"Point"}
+}

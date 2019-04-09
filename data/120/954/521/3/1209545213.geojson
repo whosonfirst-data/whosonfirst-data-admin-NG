@@ -1,0 +1,62 @@
+{
+  "id": 1209545213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.00337,7.79329,5.00337,7.79329",
+    "geom:latitude":7.79329,
+    "geom:longitude":5.00337,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13009.0",
+    "gn:asciiname":"Oke-Atan",
+    "gn:country_code":"NG",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833138,
+    "gn:latitude":7.79329,
+    "gn:longitude":5.00337,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oke-Atan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833138
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"860298f042269dd7412541c83444ff45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545213
+        }
+    ],
+    "wof:id":1209545213,
+    "wof:lastmodified":1536283864,
+    "wof:name":"Oke-Atan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0033699999999985,
+    7.79329,
+    5.0033699999999985,
+    7.79329
+],
+  "geometry": {"coordinates":[5.00337,7.79329],"type":"Point"}
+}

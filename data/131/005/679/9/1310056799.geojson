@@ -1,0 +1,69 @@
+{
+  "id": 1310056799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.39943,12.34568,4.39943,12.34568",
+    "geom:latitude":12.34568,
+    "geom:longitude":4.39943,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"501.0",
+    "gn:admin3_code":"50104",
+    "gn:asciiname":"Bami",
+    "gn:country_code":"NG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040198,
+    "gn:latitude":12.34568,
+    "gn:longitude":4.39943,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108562993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040198
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"50c92da2ab099ba0bec06db3e6b954f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562993,
+            "locality_id":1310056799,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1310056799,
+    "wof:lastmodified":1537064045,
+    "wof:name":"Bami",
+    "wof:parent_id":1108562993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.39943,
+    12.34568,
+    4.39943,
+    12.34568
+],
+  "geometry": {"coordinates":[4.39943,12.34568],"type":"Point"}
+}

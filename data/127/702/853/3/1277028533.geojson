@@ -1,0 +1,68 @@
+{
+  "id": 1277028533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.37001,7.1975,9.37001,7.1975",
+    "geom:latitude":7.1975,
+    "geom:longitude":9.37001,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Iornyagh",
+    "gn:country_code":"NG",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639772,
+    "gn:latitude":7.1975,
+    "gn:longitude":9.37001,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iornyagh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639772
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cbb93af99468a56faf723760d3c99397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1277028533,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1277028533,
+    "wof:lastmodified":1536840840,
+    "wof:name":"Iornyagh",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.37001,
+    7.1975,
+    9.37001,
+    7.1975
+],
+  "geometry": {"coordinates":[9.37001,7.1975],"type":"Point"}
+}

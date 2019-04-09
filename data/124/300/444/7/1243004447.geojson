@@ -1,0 +1,74 @@
+{
+  "id": 1243004447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.83246,4.73989,6.83246,4.73989",
+    "geom:latitude":4.73989,
+    "geom:longitude":6.83246,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33006.0",
+    "gn:asciiname":"Winkiriki Anamo",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593243,
+    "gn:latitude":4.73989,
+    "gn:longitude":6.83246,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Winkiriki Anamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Owinkiri Kalama",
+        "Winkiri Kalama",
+        "Winkiriki Anamo",
+        "Omekwe-Kalama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593243
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"862c1528993307096e98b47fd41cc270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563035,
+            "locality_id":1243004447,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1243004447,
+    "wof:lastmodified":1537675403,
+    "wof:name":"Winkiriki Anamo",
+    "wof:parent_id":1108563035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.83246,
+    4.73989,
+    6.83246,
+    4.73989
+],
+  "geometry": {"coordinates":[6.83246,4.73989],"type":"Point"}
+}

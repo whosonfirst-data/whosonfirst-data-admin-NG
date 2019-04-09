@@ -1,0 +1,73 @@
+{
+  "id": 1326859825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.70723,7.59405,7.70723,7.59405",
+    "geom:latitude":7.59405,
+    "geom:longitude":7.70723,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23003.0",
+    "gn:asciiname":"Oguaobono",
+    "gn:country_code":"NG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327616,
+    "gn:latitude":7.59405,
+    "gn:longitude":7.70723,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oguaobono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogudbono",
+        "Ogudobono",
+        "Oguaobono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327616
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"59e29bb37544e09636ace2deab8c7cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563017,
+            "locality_id":1326859825,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1326859825,
+    "wof:lastmodified":1537675050,
+    "wof:name":"Oguaobono",
+    "wof:parent_id":1108563017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.70723,
+    7.59405,
+    7.70723,
+    7.59405
+],
+  "geometry": {"coordinates":[7.70723,7.59405],"type":"Point"}
+}

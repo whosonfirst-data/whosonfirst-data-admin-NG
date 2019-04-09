@@ -1,0 +1,68 @@
+{
+  "id": 1292954169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.91515,8.7679,11.91515,8.7679",
+    "geom:latitude":8.7679,
+    "geom:longitude":11.91515,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Dainort",
+    "gn:country_code":"NG",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345683,
+    "gn:latitude":8.7679,
+    "gn:longitude":11.91515,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dainort",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345683
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eb017245869638682ccbd1f293085b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1292954169,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1292954169,
+    "wof:lastmodified":1537056485,
+    "wof:name":"Dainort",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.91515,
+    8.7679,
+    11.91515,
+    8.7679
+],
+  "geometry": {"coordinates":[11.91515,8.7679],"type":"Point"}
+}

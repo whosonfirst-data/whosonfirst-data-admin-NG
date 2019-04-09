@@ -1,0 +1,63 @@
+{
+  "id": 1209648273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15821,13.38759,5.15821,13.38759",
+    "geom:latitude":13.38759,
+    "geom:longitude":5.15821,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60702",
+    "gn:asciiname":"Atukuwani",
+    "gn:country_code":"NG",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7016007,
+    "gn:latitude":13.38759,
+    "gn:longitude":5.15821,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Atukuwani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016007
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a6b03bcccddd6c9bc9cbd8ebc27069d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648273
+        }
+    ],
+    "wof:id":1209648273,
+    "wof:lastmodified":1536280664,
+    "wof:name":"Atukuwani",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15821,
+    13.38759,
+    5.15821,
+    13.38759
+],
+  "geometry": {"coordinates":[5.15821,13.38759],"type":"Point"}
+}

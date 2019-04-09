@@ -1,0 +1,73 @@
+{
+  "id": 1326580769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27467,12.14258,4.27467,12.14258",
+    "geom:latitude":12.14258,
+    "geom:longitude":4.27467,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"51406",
+    "gn:asciiname":"Kubiri",
+    "gn:country_code":"NG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333738,
+    "gn:latitude":12.14258,
+    "gn:longitude":4.27467,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kubiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuberi",
+        "Kubiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333738
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c2e6f708605a73cc0022fc1434c1d908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563763,
+            "locality_id":1326580769,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1326580769,
+    "wof:lastmodified":1537675133,
+    "wof:name":"Kubiri",
+    "wof:parent_id":1108563763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27467,
+    12.14258,
+    4.27467,
+    12.14258
+],
+  "geometry": {"coordinates":[4.27467,12.14258],"type":"Point"}
+}

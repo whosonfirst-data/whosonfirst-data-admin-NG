@@ -1,0 +1,68 @@
+{
+  "id": 1360313981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7,9.81667,4.7,9.81667",
+    "geom:latitude":9.81667,
+    "geom:longitude":4.7,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27016.0",
+    "gn:asciiname":"Fellagi",
+    "gn:country_code":"NG",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342653,
+    "gn:latitude":9.81667,
+    "gn:longitude":4.7,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fellagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342653
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d5002ea3563396a16e3fc0b6d69df81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563955,
+            "locality_id":1360313981,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360313981,
+    "wof:lastmodified":1536613100,
+    "wof:name":"Fellagi",
+    "wof:parent_id":1108563955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7,
+    9.81667,
+    4.7,
+    9.81667
+],
+  "geometry": {"coordinates":[4.7,9.81667],"type":"Point"}
+}

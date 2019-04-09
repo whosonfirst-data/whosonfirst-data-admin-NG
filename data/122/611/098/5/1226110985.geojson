@@ -1,0 +1,68 @@
+{
+  "id": 1226110985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48379,4.88426,8.48379,4.88426",
+    "geom:latitude":4.88426,
+    "geom:longitude":8.48379,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9003.0",
+    "gn:asciiname":"Ikot Nakanda",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2338018,
+    "gn:latitude":4.88426,
+    "gn:longitude":8.48379,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Nakanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338018
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5a6d31b15bbdf86b766e80b70026dc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562979,
+            "locality_id":1226110985,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226110985,
+    "wof:lastmodified":1536629377,
+    "wof:name":"Ikot Nakanda",
+    "wof:parent_id":1108562979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48379,
+    4.88426,
+    8.48379,
+    4.88426
+],
+  "geometry": {"coordinates":[8.48379,4.88426],"type":"Point"}
+}

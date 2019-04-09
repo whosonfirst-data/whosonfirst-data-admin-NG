@@ -1,0 +1,68 @@
+{
+  "id": 1225898711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52028,7.08006,8.52028,7.08006",
+    "geom:latitude":7.08006,
+    "geom:longitude":8.52028,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Dyerkyaa",
+    "gn:country_code":"NG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344194,
+    "gn:latitude":7.08006,
+    "gn:longitude":8.52028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dyerkyaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344194
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72cfa19ba35b68f8b592bbc04f339e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1225898711,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1225898711,
+    "wof:lastmodified":1536938227,
+    "wof:name":"Dyerkyaa",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52028,
+    7.08006,
+    8.52028,
+    7.08006
+],
+  "geometry": {"coordinates":[8.52028,7.08006],"type":"Point"}
+}

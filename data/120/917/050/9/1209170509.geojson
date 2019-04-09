@@ -1,0 +1,66 @@
+{
+  "id": 1209170509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.00564,5.30815,8.00564,5.30815",
+    "geom:latitude":5.30815,
+    "geom:longitude":8.00564,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9015.0",
+    "gn:asciiname":"Atan Onoyom",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349014,
+    "gn:latitude":5.30815,
+    "gn:longitude":8.00564,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atan Onoyom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atan",
+        "Atan Onoyom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349014
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cda7b8d23c14314c22c02f179e7aac5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209170509
+        }
+    ],
+    "wof:id":1209170509,
+    "wof:lastmodified":1537675351,
+    "wof:name":"Atan Onoyom",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.00564,
+    5.30815,
+    8.00564,
+    5.30815
+],
+  "geometry": {"coordinates":[8.00564,5.30815],"type":"Point"}
+}

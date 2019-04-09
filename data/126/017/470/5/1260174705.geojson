@@ -1,0 +1,72 @@
+{
+  "id": 1260174705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98339,6.42836,3.98339,6.42836",
+    "geom:latitude":6.42836,
+    "geom:longitude":3.98339,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25007.0",
+    "gn:asciiname":"Idaso",
+    "gn:country_code":"NG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339147,
+    "gn:latitude":6.42836,
+    "gn:longitude":3.98339,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idashaw",
+        "Idaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        1108563313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339147
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca75588328752776d1bef3806115cc94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563313,
+            "locality_id":1260174705,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1260174705,
+    "wof:lastmodified":1537675211,
+    "wof:name":"Idaso",
+    "wof:parent_id":1108563313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98339,
+    6.42836,
+    3.98339,
+    6.42836
+],
+  "geometry": {"coordinates":[3.98339,6.42836],"type":"Point"}
+}

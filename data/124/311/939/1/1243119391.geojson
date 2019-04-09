@@ -1,0 +1,68 @@
+{
+  "id": 1243119391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.18382,5.62405,7.18382,5.62405",
+    "geom:latitude":5.62405,
+    "geom:longitude":7.18382,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17009.0",
+    "gn:asciiname":"Awka",
+    "gn:country_code":"NG",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348774,
+    "gn:latitude":5.62405,
+    "gn:longitude":7.18382,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Awka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348774
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d330109746078283276cba56e68c7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563675,
+            "locality_id":1243119391,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1243119391,
+    "wof:lastmodified":1536780638,
+    "wof:name":"Awka",
+    "wof:parent_id":1108563675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.18382,
+    5.62405,
+    7.18382,
+    5.62405
+],
+  "geometry": {"coordinates":[7.18382,5.62405],"type":"Point"}
+}

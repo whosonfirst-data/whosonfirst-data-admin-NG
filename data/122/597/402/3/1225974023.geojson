@@ -1,0 +1,72 @@
+{
+  "id": 1225974023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.69463,9.62883,9.69463,9.62883",
+    "geom:latitude":9.62883,
+    "geom:longitude":9.69463,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5003.0",
+    "gn:admin3_code":"BA0306",
+    "gn:asciiname":"Bugun",
+    "gn:country_code":"NG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346612,
+    "gn:latitude":9.62883,
+    "gn:longitude":9.69463,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bugun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bugun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346612
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5c5b67a49d008f43958e13bef1a04d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563139,
+            "locality_id":1225974023,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1225974023,
+    "wof:lastmodified":1537675323,
+    "wof:name":"Bugun",
+    "wof:parent_id":1108563139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.69463,
+    9.62883,
+    9.69463,
+    9.62883
+],
+  "geometry": {"coordinates":[9.69463,9.62883],"type":"Point"}
+}

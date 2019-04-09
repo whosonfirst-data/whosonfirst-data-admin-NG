@@ -1,0 +1,66 @@
+{
+  "id": 1209648299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.4371,11.0002,10.4371,11.0002",
+    "geom:latitude":11.0002,
+    "geom:longitude":10.4371,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5005.0",
+    "gn:admin3_code":"BA0501",
+    "gn:asciiname":"Lafiyaru",
+    "gn:country_code":"NG",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332482,
+    "gn:latitude":11.0002,
+    "gn:longitude":10.4371,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lafiyaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lafiyaru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332482
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"01965bffa41ae65fc5b04c1d803695d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648299
+        }
+    ],
+    "wof:id":1209648299,
+    "wof:lastmodified":1537675119,
+    "wof:name":"Lafiyaru",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.4371,
+    11.0002,
+    10.4371,
+    11.0002
+],
+  "geometry": {"coordinates":[10.4371,11.0002],"type":"Point"}
+}

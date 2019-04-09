@@ -1,0 +1,68 @@
+{
+  "id": 1293139603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.1345,5.56624,6.1345,5.56624",
+    "geom:latitude":5.56624,
+    "geom:longitude":6.1345,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10009.0",
+    "gn:asciiname":"Ivrogbo",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098469,
+    "gn:latitude":5.56624,
+    "gn:longitude":6.1345,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ivrogbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098469
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd4f7edad7eaac6e264501fb915a6b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563685,
+            "locality_id":1293139603,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293139603,
+    "wof:lastmodified":1536791946,
+    "wof:name":"Ivrogbo",
+    "wof:parent_id":1108563685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.1345,
+    5.56624,
+    6.1345,
+    5.56624
+],
+  "geometry": {"coordinates":[6.1345,5.56624],"type":"Point"}
+}

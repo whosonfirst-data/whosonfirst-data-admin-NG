@@ -1,0 +1,61 @@
+{
+  "id": 1209544019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56101,5.23356,7.56101,5.23356",
+    "geom:latitude":5.23356,
+    "geom:longitude":7.56101,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Ikot-Mem",
+    "gn:country_code":"NG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074049,
+    "gn:latitude":5.23356,
+    "gn:longitude":7.56101,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ikot-Mem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074049
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2435be834e8ee48caf218c4b454bf00f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544019
+        }
+    ],
+    "wof:id":1209544019,
+    "wof:lastmodified":1536283900,
+    "wof:name":"Ikot-Mem",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56101,
+    5.23356,
+    7.56101,
+    5.23356
+],
+  "geometry": {"coordinates":[7.56101,5.23356],"type":"Point"}
+}

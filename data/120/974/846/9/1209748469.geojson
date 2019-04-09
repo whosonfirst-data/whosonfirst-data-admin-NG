@@ -1,0 +1,73 @@
+{
+  "id": 1209748469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9447,13.50552,4.9447,13.50552",
+    "geom:latitude":13.50552,
+    "geom:longitude":4.9447,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"619.0",
+    "gn:admin3_code":"61904",
+    "gn:asciiname":"Mogamfo",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330005,
+    "gn:latitude":13.50552,
+    "gn:longitude":4.9447,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mogamfo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maganfo",
+        "Mogamfo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330005
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"17c3a471044a0305c3f7cbeef8c07775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564403,
+            "locality_id":1209748469,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1209748469,
+    "wof:lastmodified":1537675089,
+    "wof:name":"Mogamfo",
+    "wof:parent_id":1108564403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9447,
+    13.50552,
+    4.9447,
+    13.50552
+],
+  "geometry": {"coordinates":[4.9447,13.50552],"type":"Point"}
+}

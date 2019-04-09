@@ -1,0 +1,70 @@
+{
+  "id": 1276270175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81213,9.1585,11.81213,9.1585",
+    "geom:latitude":9.1585,
+    "geom:longitude":11.81213,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tuloke",
+    "gn:country_code":"NG",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210433,
+    "gn:latitude":9.1585,
+    "gn:longitude":11.81213,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Tuloke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tuloke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210433
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"97f81524510f0a68f51a495610bef6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1276270175,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1276270175,
+    "wof:lastmodified":1537675507,
+    "wof:name":"Tuloke",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81213,
+    9.1585,
+    11.81213,
+    9.1585
+],
+  "geometry": {"coordinates":[11.81213,9.1585],"type":"Point"}
+}

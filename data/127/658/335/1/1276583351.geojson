@@ -1,0 +1,68 @@
+{
+  "id": 1276583351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31394,10.29415,6.31394,10.29415",
+    "geom:latitude":10.29415,
+    "geom:longitude":6.31394,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Bikwala",
+    "gn:country_code":"NG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347174,
+    "gn:latitude":10.29415,
+    "gn:longitude":6.31394,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bikwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347174
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02a6a8b2a0eef3970b7fa92534d070f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564291,
+            "locality_id":1276583351,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276583351,
+    "wof:lastmodified":1536941959,
+    "wof:name":"Bikwala",
+    "wof:parent_id":1108564291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31394,
+    10.29415,
+    6.31394,
+    10.29415
+],
+  "geometry": {"coordinates":[6.31394,10.29415],"type":"Point"}
+}

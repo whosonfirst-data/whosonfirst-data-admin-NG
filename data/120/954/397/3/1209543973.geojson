@@ -1,0 +1,62 @@
+{
+  "id": 1209543973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58746,5.0843,6.58746,5.0843",
+    "geom:latitude":5.0843,
+    "geom:longitude":6.58746,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33003.0",
+    "gn:asciiname":"Uputabo",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101599,
+    "gn:latitude":5.0843,
+    "gn:longitude":6.58746,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uputabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101599
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76041b3754a44c31d6912e5f39f62a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209543973
+        }
+    ],
+    "wof:id":1209543973,
+    "wof:lastmodified":1536283901,
+    "wof:name":"Uputabo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.587460000000001,
+    5.0843,
+    6.587460000000001,
+    5.0843
+],
+  "geometry": {"coordinates":[6.58746,5.0843],"type":"Point"}
+}

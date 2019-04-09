@@ -1,0 +1,68 @@
+{
+  "id": 1343515835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90571,7.62675,8.90571,7.62675",
+    "geom:latitude":7.62675,
+    "geom:longitude":8.90571,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004.0",
+    "gn:asciiname":"Orhemen Amire",
+    "gn:country_code":"NG",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325793,
+    "gn:latitude":7.62675,
+    "gn:longitude":8.90571,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orhemen Amire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325793
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"efec2d282dc6f200b247ad8bb8e026cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1343515835,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343515835,
+    "wof:lastmodified":1536666468,
+    "wof:name":"Orhemen Amire",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90571,
+    7.62675,
+    8.90571,
+    7.62675
+],
+  "geometry": {"coordinates":[8.90571,7.62675],"type":"Point"}
+}

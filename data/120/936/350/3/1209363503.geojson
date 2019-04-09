@@ -1,0 +1,62 @@
+{
+  "id": 1209363503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01667,7.6,4.01667,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":4.01667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Oluawo",
+    "gn:country_code":"NG",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326372,
+    "gn:latitude":7.6,
+    "gn:longitude":4.01667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oluawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326372
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"303aba7ab65fb587af5c26aaa2cd2fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209363503
+        }
+    ],
+    "wof:id":1209363503,
+    "wof:lastmodified":1536289350,
+    "wof:name":"Oluawo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01667,
+    7.6,
+    4.01667,
+    7.6
+],
+  "geometry": {"coordinates":[4.01667,7.6],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260239581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.33533,10.16612,8.33533,10.16612",
+    "geom:latitude":10.16612,
+    "geom:longitude":8.33533,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19014.0",
+    "gn:admin3_code":"KD1402",
+    "gn:asciiname":"Kuriya",
+    "gn:country_code":"NG",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333218,
+    "gn:latitude":10.16612,
+    "gn:longitude":8.33533,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuriya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333218
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd9579330da65c474ef4c8a6e34aa5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563757,
+            "locality_id":1260239581,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1260239581,
+    "wof:lastmodified":1536772114,
+    "wof:name":"Kuriya",
+    "wof:parent_id":1108563757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.33533,
+    10.16612,
+    8.33533,
+    10.16612
+],
+  "geometry": {"coordinates":[8.33533,10.16612],"type":"Point"}
+}

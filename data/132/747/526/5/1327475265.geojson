@@ -1,0 +1,73 @@
+{
+  "id": 1327475265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7475,7.50417,3.7475,7.50417",
+    "geom:latitude":7.50417,
+    "geom:longitude":3.7475,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Ogunleye",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327567,
+    "gn:latitude":7.50417,
+    "gn:longitude":3.7475,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogunleye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oguneyye",
+        "Ogunleye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327567
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d5f15560fe6571779c12062f0faa2d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1327475265,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1327475265,
+    "wof:lastmodified":1537675049,
+    "wof:name":"Ogunleye",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7475,
+    7.50417,
+    3.7475,
+    7.50417
+],
+  "geometry": {"coordinates":[3.7475,7.50417],"type":"Point"}
+}

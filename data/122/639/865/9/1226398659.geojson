@@ -1,0 +1,68 @@
+{
+  "id": 1226398659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.24794,5.08984,8.24794,5.08984",
+    "geom:latitude":5.08984,
+    "geom:longitude":8.24794,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9015.0",
+    "gn:asciiname":"Adiabo Ikot Ukpa",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352430,
+    "gn:latitude":5.08984,
+    "gn:longitude":8.24794,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adiabo Ikot Ukpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352430
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd566e4a798c49440de524ec768df570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564097,
+            "locality_id":1226398659,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226398659,
+    "wof:lastmodified":1536713761,
+    "wof:name":"Adiabo Ikot Ukpa",
+    "wof:parent_id":1108564097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.24794,
+    5.08984,
+    8.24794,
+    5.08984
+],
+  "geometry": {"coordinates":[8.24794,5.08984],"type":"Point"}
+}

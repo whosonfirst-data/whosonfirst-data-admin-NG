@@ -1,0 +1,67 @@
+{
+  "id": 1360314997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41667,5.11667,6.41667,5.11667",
+    "geom:latitude":5.11667,
+    "geom:longitude":6.41667,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Karama",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335107,
+    "gn:latitude":5.11667,
+    "gn:longitude":6.41667,
+    "gn:modification_date":"2009-10-05",
+    "gn:name":"Karama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335107
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"618625ad8c16ae97ce4098296f308d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564539,
+            "locality_id":1360314997,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1360314997,
+    "wof:lastmodified":1536611544,
+    "wof:name":"Karama",
+    "wof:parent_id":1108564539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41667,
+    5.11667,
+    6.41667,
+    5.11667
+],
+  "geometry": {"coordinates":[6.41667,5.11667],"type":"Point"}
+}

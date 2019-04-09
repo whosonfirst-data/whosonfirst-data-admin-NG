@@ -1,0 +1,71 @@
+{
+  "id": 1344089627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69463,9.79502,6.69463,9.79502",
+    "geom:latitude":9.79502,
+    "geom:longitude":6.69463,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Akaw",
+    "gn:country_code":"NG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10408448,
+    "gn:latitude":9.79502,
+    "gn:longitude":6.69463,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Akawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10408448
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4c972542b9a1bc0b0af179d76125f8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1344089627,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1344089627,
+    "wof:lastmodified":1537675470,
+    "wof:name":"Akaw",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69463,
+    9.79502,
+    6.69463,
+    9.79502
+],
+  "geometry": {"coordinates":[6.69463,9.79502],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209659647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.10287,8.91515,12.10287,8.91515",
+    "geom:latitude":8.91515,
+    "geom:longitude":12.10287,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Wuro Sete",
+    "gn:country_code":"NG",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10418382,
+    "gn:latitude":8.91515,
+    "gn:longitude":12.10287,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Sete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10418382
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b150479c90ca347748d4e4ff72468234",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209659647
+        }
+    ],
+    "wof:id":1209659647,
+    "wof:lastmodified":1536280305,
+    "wof:name":"Wuro Sete",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.10287,
+    8.91515,
+    12.10287,
+    8.91515
+],
+  "geometry": {"coordinates":[12.10287,8.91515],"type":"Point"}
+}

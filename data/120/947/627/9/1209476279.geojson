@@ -1,0 +1,62 @@
+{
+  "id": 1209476279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35,5.48333,7.35,5.48333",
+    "geom:latitude":5.48333,
+    "geom:longitude":7.35,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17004.0",
+    "gn:asciiname":"Eziudo",
+    "gn:country_code":"NG",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342888,
+    "gn:latitude":5.48333,
+    "gn:longitude":7.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eziudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342888
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"787aab5f35bd34e12da9653febdaf85b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209476279
+        }
+    ],
+    "wof:id":1209476279,
+    "wof:lastmodified":1536285926,
+    "wof:name":"Eziudo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.35,
+    5.4833300000000005,
+    7.35,
+    5.4833300000000005
+],
+  "geometry": {"coordinates":[7.35,5.48333],"type":"Point"}
+}

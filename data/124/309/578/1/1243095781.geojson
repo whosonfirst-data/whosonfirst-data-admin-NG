@@ -1,0 +1,69 @@
+{
+  "id": 1243095781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.81456,12.64102,8.81456,12.64102",
+    "geom:latitude":12.64102,
+    "geom:longitude":8.81456,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0202",
+    "gn:asciiname":"Danzago",
+    "gn:country_code":"NG",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974163,
+    "gn:latitude":12.64102,
+    "gn:longitude":8.81456,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Danzago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974163
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7e9ec6f363516e5d9f4b986e74b51e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1243095781,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1243095781,
+    "wof:lastmodified":1536813452,
+    "wof:name":"Danzago",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.81456,
+    12.64102,
+    8.81456,
+    12.64102
+],
+  "geometry": {"coordinates":[8.81456,12.64102],"type":"Point"}
+}

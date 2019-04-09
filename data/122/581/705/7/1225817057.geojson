@@ -1,0 +1,73 @@
+{
+  "id": 1225817057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.81667,6.96667,2.81667,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":2.81667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28004.0",
+    "gn:asciiname":"Ile Igboro",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337733,
+    "gn:latitude":6.96667,
+    "gn:longitude":2.81667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ile Igboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ile Igbawraw",
+        "Ile Igboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337733
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"414c215369974de3de7e06dcc0e90b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563269,
+            "locality_id":1225817057,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1225817057,
+    "wof:lastmodified":1537675189,
+    "wof:name":"Ile Igboro",
+    "wof:parent_id":1108563269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.81667,
+    6.96667,
+    2.81667,
+    6.96667
+],
+  "geometry": {"coordinates":[2.81667,6.96667],"type":"Point"}
+}

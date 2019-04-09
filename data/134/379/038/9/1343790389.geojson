@@ -1,0 +1,69 @@
+{
+  "id": 1343790389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.40539,12.71028,8.40539,12.71028",
+    "geom:latitude":12.71028,
+    "geom:longitude":8.40539,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18019.0",
+    "gn:admin3_code":"JI2702",
+    "gn:asciiname":"Sada",
+    "gn:country_code":"NG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6976889,
+    "gn:latitude":12.71028,
+    "gn:longitude":8.40539,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6976889
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9deedf9ab5ce269f484030ed4e5b306b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564535,
+            "locality_id":1343790389,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1343790389,
+    "wof:lastmodified":1536768369,
+    "wof:name":"Sada",
+    "wof:parent_id":1108564535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.40539,
+    12.71028,
+    8.40539,
+    12.71028
+],
+  "geometry": {"coordinates":[8.40539,12.71028],"type":"Point"}
+}

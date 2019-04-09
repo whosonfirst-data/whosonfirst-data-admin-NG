@@ -1,0 +1,72 @@
+{
+  "id": 1326981725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.28242,6.87604,6.28242,6.87604",
+    "geom:latitude":6.87604,
+    "geom:longitude":6.28242,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12009",
+    "gn:asciiname":"Egho One",
+    "gn:country_code":"NG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636379,
+    "gn:latitude":6.87604,
+    "gn:longitude":6.28242,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egho One",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Egoro",
+        "Egho I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636379
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"43b4049dcbe65d5d975c9000cb388cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563347,
+            "locality_id":1326981725,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1326981725,
+    "wof:lastmodified":1537675471,
+    "wof:name":"Egho One",
+    "wof:parent_id":1108563347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.28242,
+    6.87604,
+    6.28242,
+    6.87604
+],
+  "geometry": {"coordinates":[6.28242,6.87604],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242930439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.1591,5.96778,7.1591,5.96778",
+    "geom:latitude":5.96778,
+    "geom:longitude":7.1591,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4020.0",
+    "gn:asciiname":"Okpulukpu",
+    "gn:country_code":"NG",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326905,
+    "gn:latitude":5.96778,
+    "gn:longitude":7.1591,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpulukpu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326905
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2fd12babf724debccc88aec8961b8372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564225,
+            "locality_id":1242930439,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1242930439,
+    "wof:lastmodified":1537050536,
+    "wof:name":"Okpulukpu",
+    "wof:parent_id":1108564225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.1591,
+    5.96778,
+    7.1591,
+    5.96778
+],
+  "geometry": {"coordinates":[7.1591,5.96778],"type":"Point"}
+}

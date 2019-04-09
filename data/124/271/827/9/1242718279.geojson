@@ -1,0 +1,68 @@
+{
+  "id": 1242718279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02989,8.86027,12.02989,8.86027",
+    "geom:latitude":8.86027,
+    "geom:longitude":12.02989,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Liringo Lede",
+    "gn:country_code":"NG",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410901,
+    "gn:latitude":8.86027,
+    "gn:longitude":12.02989,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Liringo Lede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410901
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4dbdf2bbc291d32718e53a38337fb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1242718279,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1242718279,
+    "wof:lastmodified":1536859750,
+    "wof:name":"Liringo Lede",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02989,
+    8.86027,
+    12.02989,
+    8.86027
+],
+  "geometry": {"coordinates":[12.02989,8.86027],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260228439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54384,7.04134,8.54384,7.04134",
+    "geom:latitude":7.04134,
+    "geom:longitude":8.54384,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Anyo",
+    "gn:country_code":"NG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349705,
+    "gn:latitude":7.04134,
+    "gn:longitude":8.54384,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349705
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d44fe3e9575f60b448e41ba88c9f8d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1260228439,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1260228439,
+    "wof:lastmodified":1536787164,
+    "wof:name":"Anyo",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54384,
+    7.04134,
+    8.54384,
+    7.04134
+],
+  "geometry": {"coordinates":[8.54384,7.04134],"type":"Point"}
+}

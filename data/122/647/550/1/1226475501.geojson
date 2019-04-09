@@ -1,0 +1,68 @@
+{
+  "id": 1226475501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.77542,8.1091,9.77542,8.1091",
+    "geom:latitude":8.1091,
+    "geom:longitude":9.77542,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35006",
+    "gn:asciiname":"Markahuan",
+    "gn:country_code":"NG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9644796,
+    "gn:latitude":8.1091,
+    "gn:longitude":9.77542,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Markahuan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9644796
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ec994b983b44af911e529329eceefd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563513,
+            "locality_id":1226475501,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226475501,
+    "wof:lastmodified":1537096039,
+    "wof:name":"Markahuan",
+    "wof:parent_id":1108563513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.77542,
+    8.1091,
+    9.77542,
+    8.1091
+],
+  "geometry": {"coordinates":[9.77542,8.1091],"type":"Point"}
+}

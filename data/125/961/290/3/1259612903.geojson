@@ -1,0 +1,69 @@
+{
+  "id": 1259612903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43169,10.85152,11.43169,10.85152",
+    "geom:latitude":10.85152,
+    "geom:longitude":11.43169,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16005.0",
+    "gn:asciiname":"Bajoga",
+    "gn:country_code":"NG",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2348203,
+    "gn:latitude":10.85152,
+    "gn:longitude":11.43169,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bajoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348203,
+        "wk:page":"Bajoga"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc7181b68bf6a5011d38c8cbcedff420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563373,
+            "locality_id":1259612903,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1259612903,
+    "wof:lastmodified":1537570021,
+    "wof:name":"Bajoga",
+    "wof:parent_id":1108563373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43169,
+    10.85152,
+    11.43169,
+    10.85152
+],
+  "geometry": {"coordinates":[11.43169,10.85152],"type":"Point"}
+}

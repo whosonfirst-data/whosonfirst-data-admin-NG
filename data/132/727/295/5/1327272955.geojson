@@ -1,0 +1,70 @@
+{
+  "id": 1327272955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30148,5.59276,5.30148,5.59276",
+    "geom:latitude":5.59276,
+    "geom:longitude":5.30148,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ubefan",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321038,
+    "gn:latitude":5.59276,
+    "gn:longitude":5.30148,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Ubefan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ubefan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321038
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ff56631efd20aacc8c7e5dd58750666c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564501,
+            "locality_id":1327272955,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1327272955,
+    "wof:lastmodified":1537674961,
+    "wof:name":"Ubefan",
+    "wof:parent_id":1108564501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.30148,
+    5.59276,
+    5.30148,
+    5.59276
+],
+  "geometry": {"coordinates":[5.30148,5.59276],"type":"Point"}
+}

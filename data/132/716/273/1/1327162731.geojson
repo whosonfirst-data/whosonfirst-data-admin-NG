@@ -1,0 +1,72 @@
+{
+  "id": 1327162731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.24529,12.54169,12.24529,12.54169",
+    "geom:latitude":12.54169,
+    "geom:longitude":12.24529,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70602",
+    "gn:asciiname":"Kiari Karamri",
+    "gn:country_code":"NG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334510,
+    "gn:latitude":12.54169,
+    "gn:longitude":12.24529,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kiari Karamri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L. Karami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334510
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6221d4e8a34d3e52a129fa4a223b5765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563415,
+            "locality_id":1327162731,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1327162731,
+    "wof:lastmodified":1537675142,
+    "wof:name":"Kiari Karamri",
+    "wof:parent_id":1108563415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.24529,
+    12.54169,
+    12.24529,
+    12.54169
+],
+  "geometry": {"coordinates":[12.24529,12.54169],"type":"Point"}
+}

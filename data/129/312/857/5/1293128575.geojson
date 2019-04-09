@@ -1,0 +1,68 @@
+{
+  "id": 1293128575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61667,10.95,5.61667,10.95",
+    "geom:latitude":10.95,
+    "geom:longitude":5.61667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27015.0",
+    "gn:asciiname":"Maburya",
+    "gn:country_code":"NG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331761,
+    "gn:latitude":10.95,
+    "gn:longitude":5.61667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Maburya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331761
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3042104d0265221cc338da2d4008ecbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563947,
+            "locality_id":1293128575,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293128575,
+    "wof:lastmodified":1536807404,
+    "wof:name":"Maburya",
+    "wof:parent_id":1108563947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61667,
+    10.95,
+    5.61667,
+    10.95
+],
+  "geometry": {"coordinates":[5.61667,10.95],"type":"Point"}
+}

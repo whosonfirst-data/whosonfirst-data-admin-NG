@@ -1,0 +1,74 @@
+{
+  "id": 1276601771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85,7.58333,3.85,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":3.85,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Kanike",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335237,
+    "gn:latitude":7.58333,
+    "gn:longitude":3.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kanike",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kannike",
+        "Kaniko",
+        "Kanike"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335237
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1cbbb3dc8700f3d70d0733ec6de9c8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1276601771,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1276601771,
+    "wof:lastmodified":1537675153,
+    "wof:name":"Kanike",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85,
+    7.58333,
+    3.85,
+    7.58333
+],
+  "geometry": {"coordinates":[3.85,7.58333],"type":"Point"}
+}

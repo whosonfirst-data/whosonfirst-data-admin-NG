@@ -1,0 +1,73 @@
+{
+  "id": 1259931335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3318,12.29238,4.3318,12.29238",
+    "geom:latitude":12.29238,
+    "geom:longitude":4.3318,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51103",
+    "gn:asciiname":"Dimbogo",
+    "gn:country_code":"NG",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344822,
+    "gn:latitude":12.29238,
+    "gn:longitude":4.3318,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Dimbogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumbogo",
+        "Dimbogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108562993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344822
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"15e24e6522e913887f1141dc79180a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562993,
+            "locality_id":1259931335,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1259931335,
+    "wof:lastmodified":1537675302,
+    "wof:name":"Dimbogo",
+    "wof:parent_id":1108562993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3318,
+    12.29238,
+    4.3318,
+    12.29238
+],
+  "geometry": {"coordinates":[4.3318,12.29238],"type":"Point"}
+}

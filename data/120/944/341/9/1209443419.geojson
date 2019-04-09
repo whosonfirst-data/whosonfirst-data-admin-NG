@@ -1,0 +1,62 @@
+{
+  "id": 1209443419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63333,8.46667,8.63333,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":8.63333,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26011.0",
+    "gn:asciiname":"Mutundaya",
+    "gn:country_code":"NG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329633,
+    "gn:latitude":8.46667,
+    "gn:longitude":8.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mutundaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329633
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d56aa97cec501f90e855aab6aa3328a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443419
+        }
+    ],
+    "wof:id":1209443419,
+    "wof:lastmodified":1536286891,
+    "wof:name":"Mutundaya",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63333,
+    8.46667,
+    8.63333,
+    8.46667
+],
+  "geometry": {"coordinates":[8.63333,8.46667],"type":"Point"}
+}

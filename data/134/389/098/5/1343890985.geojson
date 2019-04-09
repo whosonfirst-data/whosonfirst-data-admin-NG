@@ -1,0 +1,75 @@
+{
+  "id": 1343890985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.70829,10.1567,10.70829,10.1567",
+    "geom:latitude":10.1567,
+    "geom:longitude":10.70829,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5001.0",
+    "gn:admin3_code":"BA0105",
+    "gn:asciiname":"Abbas",
+    "gn:country_code":"NG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341889,
+    "gn:latitude":10.1567,
+    "gn:longitude":10.70829,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abbas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Garfatu Abbas"
+    ],
+    "name:eng_x_variant":[
+        "Abbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341889
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2d9874964c394e78a5ab2d0be87bcff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1343890985,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1343890985,
+    "wof:lastmodified":1537675256,
+    "wof:name":"Abbas",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.70829,
+    10.1567,
+    10.70829,
+    10.1567
+],
+  "geometry": {"coordinates":[10.70829,10.1567],"type":"Point"}
+}

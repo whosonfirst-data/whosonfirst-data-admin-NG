@@ -1,0 +1,73 @@
+{
+  "id": 1276476045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3,7.61667,4.3,7.61667",
+    "geom:latitude":7.61667,
+    "geom:longitude":4.3,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30002.0",
+    "gn:asciiname":"Kejo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334639,
+    "gn:latitude":7.61667,
+    "gn:longitude":4.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kejo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kejaw",
+        "Kejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108562953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334639
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95362992dc0a65a8a04da29d198cf186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562953,
+            "locality_id":1276476045,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1276476045,
+    "wof:lastmodified":1537675144,
+    "wof:name":"Kejo",
+    "wof:parent_id":1108562953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3,
+    7.61667,
+    4.3,
+    7.61667
+],
+  "geometry": {"coordinates":[4.3,7.61667],"type":"Point"}
+}

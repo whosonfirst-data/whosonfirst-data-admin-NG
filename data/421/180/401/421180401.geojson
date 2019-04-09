@@ -1,0 +1,96 @@
+{
+  "id": 421180401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.41179,10.99375,10.41179,10.99375",
+    "geom:latitude":10.99375,
+    "geom:longitude":10.41179,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Darazo"
+    ],
+    "name:fre_x_preferred":[
+        "Darazo"
+    ],
+    "name:ita_x_preferred":[
+        "Darazo"
+    ],
+    "name:yor_x_preferred":[
+        "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Darazo"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Darazo"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2345152,
+    "qs:gn_pop":18415,
+    "qs:name":"Darazo",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Bauchi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":430265,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1389287,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345152,
+        "gp:id":1389287,
+        "qs:id":430265,
+        "wd:id":"Q5222130"
+    },
+    "wof:country":"NG",
+    "wof:created":1459009254,
+    "wof:geomhash":"dc5dbe80da94a801422fc5b077b7461d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563215,
+            "locality_id":421180401,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":421180401,
+    "wof:lastmodified":1527716235,
+    "wof:name":"Darazo",
+    "wof:parent_id":1108563215,
+    "wof:placetype":"locality",
+    "wof:population":18415,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.41179,
+    10.99375,
+    10.41179,
+    10.99375
+],
+  "geometry": {"coordinates":[10.41179,10.99375],"type":"Point"}
+}

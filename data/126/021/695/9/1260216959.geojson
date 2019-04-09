@@ -1,0 +1,68 @@
+{
+  "id": 1260216959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.68552,7.4581,7.68552,7.4581",
+    "geom:latitude":7.4581,
+    "geom:longitude":7.68552,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23003.0",
+    "gn:asciiname":"Enjema",
+    "gn:country_code":"NG",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343282,
+    "gn:latitude":7.4581,
+    "gn:longitude":7.68552,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Enjema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343282
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9c7a6c97799430c7e935bc1a70454e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563017,
+            "locality_id":1260216959,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1260216959,
+    "wof:lastmodified":1536802257,
+    "wof:name":"Enjema",
+    "wof:parent_id":1108563017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.68552,
+    7.4581,
+    7.68552,
+    7.4581
+],
+  "geometry": {"coordinates":[7.68552,7.4581],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277144625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.94409,6.39067,6.94409,6.39067",
+    "geom:latitude":6.39067,
+    "geom:longitude":6.94409,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4002.0",
+    "gn:asciiname":"Igbariam",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338808,
+    "gn:latitude":6.39067,
+    "gn:longitude":6.94409,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbariam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Igbamam"
+    ],
+    "name:eng_x_variant":[
+        "Igbariam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108562999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338808
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4233f8213020e085816c863589745d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562999,
+            "locality_id":1277144625,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1277144625,
+    "wof:lastmodified":1537675205,
+    "wof:name":"Igbariam",
+    "wof:parent_id":1108562999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.94409,
+    6.39067,
+    6.94409,
+    6.39067
+],
+  "geometry": {"coordinates":[6.94409,6.39067],"type":"Point"}
+}

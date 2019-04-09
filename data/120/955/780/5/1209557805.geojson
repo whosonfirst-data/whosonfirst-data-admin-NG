@@ -1,0 +1,63 @@
+{
+  "id": 1209557805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.17462,11.75123,4.17462,11.75123",
+    "geom:latitude":11.75123,
+    "geom:longitude":4.17462,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"518.0",
+    "gn:admin3_code":"51809",
+    "gn:asciiname":"Gobirage",
+    "gn:country_code":"NG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340538,
+    "gn:latitude":11.75123,
+    "gn:longitude":4.17462,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gobirage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340538
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f2a36fbc47c735f0378c7f1cb738d148",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209557805
+        }
+    ],
+    "wof:id":1209557805,
+    "wof:lastmodified":1536283494,
+    "wof:name":"Gobirage",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.17462,
+    11.75123,
+    4.17462,
+    11.75123
+],
+  "geometry": {"coordinates":[4.17462,11.75123],"type":"Point"}
+}

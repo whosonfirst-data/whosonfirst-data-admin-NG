@@ -1,0 +1,62 @@
+{
+  "id": 1209648263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.79507,6.44841,4.79507,6.44841",
+    "geom:latitude":6.44841,
+    "geom:longitude":4.79507,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29014.0",
+    "gn:asciiname":"Igbo Ayeka",
+    "gn:country_code":"NG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338748,
+    "gn:latitude":6.44841,
+    "gn:longitude":4.79507,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbo Ayeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338748
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d3ede5408649a04e47f7ffb436c0d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648263
+        }
+    ],
+    "wof:id":1209648263,
+    "wof:lastmodified":1536280665,
+    "wof:name":"Igbo Ayeka",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.79507,
+    6.44841,
+    4.79507,
+    6.44841
+],
+  "geometry": {"coordinates":[4.79507,6.44841],"type":"Point"}
+}

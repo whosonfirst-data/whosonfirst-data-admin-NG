@@ -1,0 +1,62 @@
+{
+  "id": 1209443467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.75,10.33333,3.75,10.33333",
+    "geom:latitude":10.33333,
+    "geom:longitude":3.75,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27004.0",
+    "gn:asciiname":"Kwaya",
+    "gn:country_code":"NG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332721,
+    "gn:latitude":10.33333,
+    "gn:longitude":3.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332721
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"634370e69e1b7c728db593d0cb6e27f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443467
+        }
+    ],
+    "wof:id":1209443467,
+    "wof:lastmodified":1536286890,
+    "wof:name":"Kwaya",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.75,
+    10.33333,
+    3.75,
+    10.33333
+],
+  "geometry": {"coordinates":[3.75,10.33333],"type":"Point"}
+}

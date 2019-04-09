@@ -1,0 +1,68 @@
+{
+  "id": 1226675695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.42411,6.79163,7.42411,6.79163",
+    "geom:latitude":6.79163,
+    "geom:longitude":7.42411,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14013",
+    "gn:asciiname":"Ede-Oballa",
+    "gn:country_code":"NG",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9189440,
+    "gn:latitude":6.79163,
+    "gn:longitude":7.42411,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ede-Oballa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9189440
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4088ef1f6db0a86e2c2eea4f5214eeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564059,
+            "locality_id":1226675695,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1226675695,
+    "wof:lastmodified":1536815712,
+    "wof:name":"Ede-Oballa",
+    "wof:parent_id":1108564059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.42411,
+    6.79163,
+    7.42411,
+    6.79163
+],
+  "geometry": {"coordinates":[7.42411,6.79163],"type":"Point"}
+}

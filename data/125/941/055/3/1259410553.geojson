@@ -1,0 +1,68 @@
+{
+  "id": 1259410553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.16667,10.06667,5.16667,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":5.16667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27016.0",
+    "gn:asciiname":"Chafo",
+    "gn:country_code":"NG",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346198,
+    "gn:latitude":10.06667,
+    "gn:longitude":5.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chafo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346198
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"92e345d782ecb2b29c95b1eb54a3e165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563955,
+            "locality_id":1259410553,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1259410553,
+    "wof:lastmodified":1536963536,
+    "wof:name":"Chafo",
+    "wof:parent_id":1108563955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.16667,
+    10.06667,
+    5.16667,
+    10.06667
+],
+  "geometry": {"coordinates":[5.16667,10.06667],"type":"Point"}
+}

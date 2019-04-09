@@ -1,0 +1,68 @@
+{
+  "id": 1310336337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.28857,4.94687,7.28857,4.94687",
+    "geom:latitude":4.94687,
+    "geom:longitude":7.28857,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1014.0",
+    "gn:asciiname":"Owoala",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7052510,
+    "gn:latitude":4.94687,
+    "gn:longitude":7.28857,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Owoala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7052510
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dc0661e312d75aed2f6c9e0b9d5a766f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564455,
+            "locality_id":1310336337,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1310336337,
+    "wof:lastmodified":1536663589,
+    "wof:name":"Owoala",
+    "wof:parent_id":1108564455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.28857,
+    4.94687,
+    7.28857,
+    4.94687
+],
+  "geometry": {"coordinates":[7.28857,4.94687],"type":"Point"}
+}

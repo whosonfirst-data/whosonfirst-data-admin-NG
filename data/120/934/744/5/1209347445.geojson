@@ -1,0 +1,62 @@
+{
+  "id": 1209347445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0589,7.0318,5.0589,7.0318",
+    "geom:latitude":7.0318,
+    "geom:longitude":5.0589,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29008.0",
+    "gn:asciiname":"Igbo-Epo-Owomofewa",
+    "gn:country_code":"NG",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832763,
+    "gn:latitude":7.0318,
+    "gn:longitude":5.0589,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbo-Epo-Owomofewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832763
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95204f359c4aa5d2fc8835ffbff5d4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347445
+        }
+    ],
+    "wof:id":1209347445,
+    "wof:lastmodified":1536289865,
+    "wof:name":"Igbo-Epo-Owomofewa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0589,
+    7.0318,
+    5.0589,
+    7.0318
+],
+  "geometry": {"coordinates":[5.0589,7.0318],"type":"Point"}
+}

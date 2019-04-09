@@ -1,0 +1,71 @@
+{
+  "id": 1310457991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7913,11.35847,8.7913,11.35847",
+    "geom:latitude":11.35847,
+    "geom:longitude":8.7913,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kantudu",
+    "gn:country_code":"NG",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335179,
+    "gn:latitude":11.35847,
+    "gn:longitude":8.7913,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kantudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danbazau",
+        "Kantudu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335179
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7f69a642df020bdd7710b31a92d4693c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564381,
+            "locality_id":1310457991,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1310457991,
+    "wof:lastmodified":1537675152,
+    "wof:name":"Kantudu",
+    "wof:parent_id":1108564381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7913,
+    11.35847,
+    8.7913,
+    11.35847
+],
+  "geometry": {"coordinates":[8.7913,11.35847],"type":"Point"}
+}

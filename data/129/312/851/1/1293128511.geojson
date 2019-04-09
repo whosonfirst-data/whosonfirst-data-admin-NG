@@ -1,0 +1,68 @@
+{
+  "id": 1293128511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.40325,8.85421,11.40325,8.85421",
+    "geom:latitude":8.85421,
+    "geom:longitude":11.40325,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007.0",
+    "gn:asciiname":"Wuro Senbe",
+    "gn:country_code":"NG",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318606,
+    "gn:latitude":8.85421,
+    "gn:longitude":11.40325,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Senbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        421183191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318606
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dec91a1123cb5db60ce1efb4bd2cd90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183191,
+            "locality_id":1293128511,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293128511,
+    "wof:lastmodified":1536807494,
+    "wof:name":"Wuro Senbe",
+    "wof:parent_id":421183191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.40325,
+    8.85421,
+    11.40325,
+    8.85421
+],
+  "geometry": {"coordinates":[11.40325,8.85421],"type":"Point"}
+}

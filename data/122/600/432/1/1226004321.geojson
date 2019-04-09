@@ -1,0 +1,68 @@
+{
+  "id": 1226004321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.75,7.9,3.75,7.9",
+    "geom:latitude":7.9,
+    "geom:longitude":3.75,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31030.0",
+    "gn:asciiname":"Olori Osho",
+    "gn:country_code":"NG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326484,
+    "gn:latitude":7.9,
+    "gn:longitude":3.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olori Osho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326484
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b7930a2872c927507244b529c2c438fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564269,
+            "locality_id":1226004321,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1226004321,
+    "wof:lastmodified":1536785505,
+    "wof:name":"Olori Osho",
+    "wof:parent_id":1108564269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.75,
+    7.9,
+    3.75,
+    7.9
+],
+  "geometry": {"coordinates":[3.75,7.9],"type":"Point"}
+}

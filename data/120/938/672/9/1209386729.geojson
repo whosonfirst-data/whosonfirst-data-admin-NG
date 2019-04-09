@@ -1,0 +1,67 @@
+{
+  "id": 1209386729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.95,6.61667,2.95,6.61667",
+    "geom:latitude":6.61667,
+    "geom:longitude":2.95,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Ijomu",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338364,
+    "gn:latitude":6.61667,
+    "gn:longitude":2.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijomu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ijawmu",
+        "Ijomu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338364
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dead459ecc2a888b258997aba288d1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209386729
+        }
+    ],
+    "wof:id":1209386729,
+    "wof:lastmodified":1537675197,
+    "wof:name":"Ijomu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.95,
+    6.61667,
+    2.95,
+    6.61667
+],
+  "geometry": {"coordinates":[2.95,6.61667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327173069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.87829,5.43818,5.87829,5.43818",
+    "geom:latitude":5.43818,
+    "geom:longitude":5.87829,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10020.0",
+    "gn:asciiname":"Otu-Jeremi",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2325438,
+    "gn:latitude":5.43818,
+    "gn:longitude":5.87829,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Otu-Jeremi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otujeremi",
+        "Jeremi Town",
+        "Otu-Chievwen",
+        "Otu-Ghievwen",
+        "Otughievwen",
+        "Otu-Ughievwen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325438,
+        "wk:page":"Otu_Jeremi"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4637a8534dd76541fa61f19459fe2cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564435,
+            "locality_id":1327173069,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1327173069,
+    "wof:lastmodified":1537675015,
+    "wof:name":"Otu-Jeremi",
+    "wof:parent_id":1108564435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.87829,
+    5.43818,
+    5.87829,
+    5.43818
+],
+  "geometry": {"coordinates":[5.87829,5.43818],"type":"Point"}
+}

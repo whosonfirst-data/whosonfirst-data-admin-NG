@@ -1,0 +1,68 @@
+{
+  "id": 1226777163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95,8.3,5.95,8.3",
+    "geom:latitude":8.3,
+    "geom:longitude":5.95,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23013.0",
+    "gn:asciiname":"Irunda",
+    "gn:country_code":"NG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337279,
+    "gn:latitude":8.3,
+    "gn:longitude":5.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Irunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337279
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64f6e0f4cb74ed8136e0d6dfc0cd69d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563991,
+            "locality_id":1226777163,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1226777163,
+    "wof:lastmodified":1536670410,
+    "wof:name":"Irunda",
+    "wof:parent_id":1108563991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95,
+    8.3,
+    5.95,
+    8.3
+],
+  "geometry": {"coordinates":[5.95,8.3],"type":"Point"}
+}

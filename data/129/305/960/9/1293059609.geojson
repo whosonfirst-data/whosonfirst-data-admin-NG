@@ -1,0 +1,68 @@
+{
+  "id": 1293059609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71375,6.43877,8.71375,6.43877",
+    "geom:latitude":6.43877,
+    "geom:longitude":8.71375,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9016.0",
+    "gn:asciiname":"Akumaye",
+    "gn:country_code":"NG",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350866,
+    "gn:latitude":6.43877,
+    "gn:longitude":8.71375,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akumaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350866
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dcb6d23531f51caff3359840387166ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564121,
+            "locality_id":1293059609,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293059609,
+    "wof:lastmodified":1536907442,
+    "wof:name":"Akumaye",
+    "wof:parent_id":1108564121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71375,
+    6.43877,
+    8.71375,
+    6.43877
+],
+  "geometry": {"coordinates":[8.71375,6.43877],"type":"Point"}
+}

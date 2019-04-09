@@ -1,0 +1,90 @@
+{
+  "id": 1108563301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.011252,
+    "geom:area_square_m":138651761.09208,
+    "geom:bbox":"7.07646633973,4.72297136831,7.20756633973,4.85067136831",
+    "geom:latitude":4.789343,
+    "geom:longitude":7.142977,
+    "iso:country":"NG",
+    "lbl:latitude":4.791161,
+    "lbl:longitude":7.142977,
+    "meso:adm1_name":"Rivers",
+    "meso:diss_me":"ElemeRivers",
+    "meso:gadm_admin":"Eleme",
+    "meso:gaul_admin":"Tai/ekem",
+    "meso:hasc_id":"NG.RI.EL",
+    "meso:mps_x":7.142977,
+    "meso:mps_y":4.791161,
+    "meso:name_local":"Eleme",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":4.791161,
+    "mps:longitude":7.142977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Eleme"
+    ],
+    "name:eng_x_variant":[
+        "Tai/ekem",
+        "Eleme"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"138.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Eleme",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.RI",
+    "statoids:name":"Eleme",
+    "statoids:population":"190884",
+    "statoids:statoid":"NG.RI.EL",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.RI.EL"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057553,
+    "wof:geomhash":"ddd27737338b8db41e552fadaaac0e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563301,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1108563301,
+    "wof:lastmodified":1536615199,
+    "wof:name":"Eleme",
+    "wof:parent_id":85675317,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":190884,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"EL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07646633973261,
+    4.7229713683121,
+    7.20756633973264,
+    4.8506713683121
+],
+  "geometry": {"coordinates":[[[7.07656633973263,4.81397136831212],[7.07846633973263,4.82277136831211],[7.08406633973261,4.83257136831215],[7.09386633973265,4.83897136831215],[7.10396633973264,4.84217136831216],[7.11736633973265,4.84207136831214],[7.12836633973259,4.84157136831216],[7.13846633973257,4.84097136831217],[7.15236633973265,4.8506713683121],[7.16196633973257,4.84447136831212],[7.17116633973261,4.84167136831218],[7.18176633973259,4.83827136831214],[7.18066633973261,4.82197136831218],[7.18846633973263,4.81217136831214],[7.19706633973259,4.80647136831214],[7.20576633973257,4.80127136831212],[7.20756633973264,4.78917136831212],[7.20326633973257,4.7737713683121],[7.19716633973261,4.76687136831211],[7.19346633973262,4.75757136831214],[7.19516633973259,4.74777136831211],[7.18316633973261,4.74367136831216],[7.17566633973262,4.7356713683121],[7.16506633973256,4.72657136831216],[7.15536633973263,4.72477136831218],[7.14526633973264,4.7229713683121],[7.13606633973259,4.72397136831216],[7.11726633973263,4.73907136831213],[7.11186633973259,4.74657136831212],[7.1068663397326,4.7540713683121],[7.10326633973263,4.76247136831212],[7.09916633973259,4.77137136831212],[7.09326633973265,4.78307136831216],[7.08376633973257,4.79247136831214],[7.07646633973261,4.80417136831217],[7.07656633973263,4.81397136831212]]],"type":"Polygon"}
+}

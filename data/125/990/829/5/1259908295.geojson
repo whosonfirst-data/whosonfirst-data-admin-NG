@@ -1,0 +1,75 @@
+{
+  "id": 1259908295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18309,10.14233,10.18309,10.14233",
+    "geom:latitude":10.14233,
+    "geom:longitude":10.18309,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5001.0",
+    "gn:admin3_code":"BA0114",
+    "gn:asciiname":"Gumau Pelu",
+    "gn:country_code":"NG",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340104,
+    "gn:latitude":10.14233,
+    "gn:longitude":10.18309,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gumau Pelu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gumau Pelu"
+    ],
+    "name:eng_x_variant":[
+        "Gumau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340104
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cfa7c02122bf89a7770ab80ed7fc2a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563101,
+            "locality_id":1259908295,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1259908295,
+    "wof:lastmodified":1537675222,
+    "wof:name":"Gumau Pelu",
+    "wof:parent_id":1108563101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18309,
+    10.14233,
+    10.18309,
+    10.14233
+],
+  "geometry": {"coordinates":[10.18309,10.14233],"type":"Point"}
+}

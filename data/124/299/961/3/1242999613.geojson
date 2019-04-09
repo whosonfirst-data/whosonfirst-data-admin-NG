@@ -1,0 +1,75 @@
+{
+  "id": 1242999613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.09247,9.29258,11.09247,9.29258",
+    "geom:latitude":9.29258,
+    "geom:longitude":11.09247,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Murum Salla",
+    "gn:country_code":"NG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323637,
+    "gn:latitude":9.29258,
+    "gn:longitude":11.09247,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Murum Salla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Murum Salla"
+    ],
+    "name:eng_x_variant":[
+        "Sarkin Baka",
+        "Sarkin Bakar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323637
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"66f0c4e580a1f7ac877d87e0cd155f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1242999613,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1242999613,
+    "wof:lastmodified":1537674991,
+    "wof:name":"Murum Salla",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.09247,
+    9.29258,
+    11.09247,
+    9.29258
+],
+  "geometry": {"coordinates":[11.09247,9.29258],"type":"Point"}
+}

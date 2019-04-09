@@ -1,0 +1,72 @@
+{
+  "id": 1242906619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.64469,10.13412,11.64469,10.13412",
+    "geom:latitude":10.13412,
+    "geom:longitude":11.64469,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16011.0",
+    "gn:asciiname":"Jagali",
+    "gn:country_code":"NG",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336683,
+    "gn:latitude":10.13412,
+    "gn:longitude":11.64469,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jagali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jagale",
+        "Jagali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336683
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a526af58c901c5743cc2934c2b96adb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564531,
+            "locality_id":1242906619,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1242906619,
+    "wof:lastmodified":1537675169,
+    "wof:name":"Jagali",
+    "wof:parent_id":1108564531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.64469,
+    10.13412,
+    11.64469,
+    10.13412
+],
+  "geometry": {"coordinates":[11.64469,10.13412],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193190879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.40339,8.85519,12.40339,8.85519",
+    "geom:latitude":8.85519,
+    "geom:longitude":12.40339,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002",
+    "gn:asciiname":"Wuro Marafa",
+    "gn:country_code":"NG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420584,
+    "gn:latitude":8.85519,
+    "gn:longitude":12.40339,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Marafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420584
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b949bfda652a5f78af1bba70a6cc6bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1193190879,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193190879,
+    "wof:lastmodified":1536382955,
+    "wof:name":"Wuro Marafa",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.40339,
+    8.85519,
+    12.40339,
+    8.85519
+],
+  "geometry": {"coordinates":[12.40339,8.85519],"type":"Point"}
+}

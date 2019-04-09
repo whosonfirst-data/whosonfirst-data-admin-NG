@@ -1,0 +1,68 @@
+{
+  "id": 1276364497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.26753,8.9001,11.26753,8.9001",
+    "geom:latitude":8.9001,
+    "geom:longitude":11.26753,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001.0",
+    "gn:asciiname":"Nyakpan",
+    "gn:country_code":"NG",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328538,
+    "gn:latitude":8.9001,
+    "gn:longitude":11.26753,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nyakpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328538
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c2c99acb7fcb9061790b8053a6adb216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1276364497,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276364497,
+    "wof:lastmodified":1536736898,
+    "wof:name":"Nyakpan",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.26753,
+    8.9001,
+    11.26753,
+    8.9001
+],
+  "geometry": {"coordinates":[11.26753,8.9001],"type":"Point"}
+}

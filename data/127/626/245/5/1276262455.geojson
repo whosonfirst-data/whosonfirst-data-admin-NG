@@ -1,0 +1,67 @@
+{
+  "id": 1276262455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93323,9.28328,8.93323,9.28328",
+    "geom:latitude":9.28328,
+    "geom:longitude":8.93323,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Mongor",
+    "gn:country_code":"NG",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055215,
+    "gn:latitude":9.28328,
+    "gn:longitude":8.93323,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mongor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055215
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9ffe4bb71812c6e3aab8f7db3270d543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563143,
+            "locality_id":1276262455,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1276262455,
+    "wof:lastmodified":1536872636,
+    "wof:name":"Mongor",
+    "wof:parent_id":1108563143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93323,
+    9.28328,
+    8.93323,
+    9.28328
+],
+  "geometry": {"coordinates":[8.93323,9.28328],"type":"Point"}
+}

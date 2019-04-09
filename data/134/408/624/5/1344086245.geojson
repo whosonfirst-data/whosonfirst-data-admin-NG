@@ -1,0 +1,68 @@
+{
+  "id": 1344086245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84203,9.28862,5.84203,9.28862",
+    "geom:latitude":9.28862,
+    "geom:longitude":5.84203,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27017",
+    "gn:asciiname":"Soji Tako",
+    "gn:country_code":"NG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308415,
+    "gn:latitude":9.28862,
+    "gn:longitude":5.84203,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Soji Tako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308415
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"90ed4893a0bfe8e647614a01324a3d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563987,
+            "locality_id":1344086245,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1344086245,
+    "wof:lastmodified":1536837526,
+    "wof:name":"Soji Tako",
+    "wof:parent_id":1108563987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84203,
+    9.28862,
+    5.84203,
+    9.28862
+],
+  "geometry": {"coordinates":[5.84203,9.28862],"type":"Point"}
+}

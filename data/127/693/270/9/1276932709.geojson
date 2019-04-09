@@ -1,0 +1,74 @@
+{
+  "id": 1276932709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.01667,10.55,8.01667,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":8.01667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19014.0",
+    "gn:admin3_code":"KD1404",
+    "gn:asciiname":"Wugama",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318928,
+    "gn:latitude":10.55,
+    "gn:longitude":8.01667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wugama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wugana",
+        "Wugama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318928
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b936e8a0ae56facc44624c16003b58ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563803,
+            "locality_id":1276932709,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276932709,
+    "wof:lastmodified":1537674912,
+    "wof:name":"Wugama",
+    "wof:parent_id":1108563803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.01667,
+    10.55,
+    8.01667,
+    10.55
+],
+  "geometry": {"coordinates":[8.01667,10.55],"type":"Point"}
+}

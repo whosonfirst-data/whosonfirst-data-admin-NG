@@ -1,0 +1,67 @@
+{
+  "id": 1209368287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18333,9.66667,12.18333,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":12.18333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2017.0",
+    "gn:asciiname":"Libbo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332044,
+    "gn:latitude":9.66667,
+    "gn:longitude":12.18333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Libbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libu",
+        "Libbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332044
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b54d3834df3faf4e3166a62d04af05c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209368287
+        }
+    ],
+    "wof:id":1209368287,
+    "wof:lastmodified":1537675115,
+    "wof:name":"Libbo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18333,
+    9.66667,
+    12.18333,
+    9.66667
+],
+  "geometry": {"coordinates":[12.18333,9.66667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276175863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83333,6.31667,5.83333,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":5.83333,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12018.0",
+    "gn:asciiname":"Ehorone",
+    "gn:country_code":"NG",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343814,
+    "gn:latitude":6.31667,
+    "gn:longitude":5.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ehorone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343814
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0e9b103f05a6f5a910f0e85de08cc537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564447,
+            "locality_id":1276175863,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1276175863,
+    "wof:lastmodified":1536989151,
+    "wof:name":"Ehorone",
+    "wof:parent_id":1108564447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83333,
+    6.31667,
+    5.83333,
+    6.31667
+],
+  "geometry": {"coordinates":[5.83333,6.31667],"type":"Point"}
+}

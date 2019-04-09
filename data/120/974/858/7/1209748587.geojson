@@ -1,0 +1,68 @@
+{
+  "id": 1209748587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.13377,6.41028,8.13377,6.41028",
+    "geom:latitude":6.41028,
+    "geom:longitude":8.13377,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11004",
+    "gn:asciiname":"Okoria-Nkaliki",
+    "gn:country_code":"NG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9271136,
+    "gn:latitude":6.41028,
+    "gn:longitude":8.13377,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okoria-Nkaliki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9271136
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"629802c84bc12f87109add6d8de19cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563257,
+            "locality_id":1209748587,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1209748587,
+    "wof:lastmodified":1536393840,
+    "wof:name":"Okoria-Nkaliki",
+    "wof:parent_id":1108563257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.13377,
+    6.41028,
+    8.13377,
+    6.41028
+],
+  "geometry": {"coordinates":[8.13377,6.41028],"type":"Point"}
+}

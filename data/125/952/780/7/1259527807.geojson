@@ -1,0 +1,70 @@
+{
+  "id": 1259527807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.72593,9.08301,11.72593,9.08301",
+    "geom:latitude":9.08301,
+    "geom:longitude":11.72593,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bundi",
+    "gn:country_code":"NG",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209461,
+    "gn:latitude":9.08301,
+    "gn:longitude":11.72593,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209461
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2708154188fbb9a0c897270b7445b8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1259527807,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259527807,
+    "wof:lastmodified":1537675501,
+    "wof:name":"Bundi",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.72593,
+    9.08301,
+    11.72593,
+    9.08301
+],
+  "geometry": {"coordinates":[11.72593,9.08301],"type":"Point"}
+}

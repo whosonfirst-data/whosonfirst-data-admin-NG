@@ -1,0 +1,68 @@
+{
+  "id": 1293449383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.45,7.86667,3.45,7.86667",
+    "geom:latitude":7.86667,
+    "geom:longitude":3.45,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31016.0",
+    "gn:asciiname":"Egbebi",
+    "gn:country_code":"NG",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343941,
+    "gn:latitude":7.86667,
+    "gn:longitude":3.45,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egbebi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343941
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a9ed6d1a716ccff0b5229a50f9060bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563667,
+            "locality_id":1293449383,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293449383,
+    "wof:lastmodified":1536841106,
+    "wof:name":"Egbebi",
+    "wof:parent_id":1108563667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.45,
+    7.86667,
+    3.45,
+    7.86667
+],
+  "geometry": {"coordinates":[3.45,7.86667],"type":"Point"}
+}

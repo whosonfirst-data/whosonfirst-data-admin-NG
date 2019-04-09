@@ -1,0 +1,68 @@
+{
+  "id": 1276279415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.82167,7.50806,3.82167,7.50806",
+    "geom:latitude":7.50806,
+    "geom:longitude":3.82167,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Olorunda",
+    "gn:country_code":"NG",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591574,
+    "gn:latitude":7.50806,
+    "gn:longitude":3.82167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olorunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591574
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"15babaeb760066e93b027a10562acd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1276279415,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1276279415,
+    "wof:lastmodified":1536849923,
+    "wof:name":"Olorunda",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.82167,
+    7.50806,
+    3.82167,
+    7.50806
+],
+  "geometry": {"coordinates":[3.82167,7.50806],"type":"Point"}
+}

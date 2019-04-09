@@ -1,0 +1,67 @@
+{
+  "id": 1293516049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.53013,5.03467,7.53013,5.03467",
+    "geom:latitude":5.03467,
+    "geom:longitude":7.53013,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Ikot Inyang Udo",
+    "gn:country_code":"NG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075029,
+    "gn:latitude":5.03467,
+    "gn:longitude":7.53013,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ikot Inyang Udo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075029
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0a5bb2ffd0d0b4f9e23745e89ae3053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563587,
+            "locality_id":1293516049,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1293516049,
+    "wof:lastmodified":1536745737,
+    "wof:name":"Ikot Inyang Udo",
+    "wof:parent_id":1108563587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.53013,
+    5.03467,
+    7.53013,
+    5.03467
+],
+  "geometry": {"coordinates":[7.53013,5.03467],"type":"Point"}
+}

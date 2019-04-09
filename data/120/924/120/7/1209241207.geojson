@@ -1,0 +1,62 @@
+{
+  "id": 1209241207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8535,9.98261,8.8535,9.98261",
+    "geom:latitude":9.98261,
+    "geom:longitude":8.8535,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005.0",
+    "gn:asciiname":"Gamajigo",
+    "gn:country_code":"NG",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342212,
+    "gn:latitude":9.98261,
+    "gn:longitude":8.8535,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gamajigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342212
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a1e5fbbadeaa133d186a30bc5a4e967c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241207
+        }
+    ],
+    "wof:id":1209241207,
+    "wof:lastmodified":1536293314,
+    "wof:name":"Gamajigo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8535,
+    9.98261,
+    8.8535,
+    9.98261
+],
+  "geometry": {"coordinates":[8.8535,9.98261],"type":"Point"}
+}

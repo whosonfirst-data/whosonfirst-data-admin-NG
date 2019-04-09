@@ -1,0 +1,74 @@
+{
+  "id": 1243100365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31007,11.0274,5.31007,11.0274",
+    "geom:latitude":11.0274,
+    "geom:longitude":5.31007,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27021.0",
+    "gn:asciiname":"Sar Shombo",
+    "gn:country_code":"NG",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321220,
+    "gn:latitude":11.0274,
+    "gn:longitude":5.31007,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sar Shombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tungan Sarkin Shombo",
+        "Tungan Sar Shombo",
+        "Tungar Sarkin Shombo",
+        "Sar Shombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321220
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"040917ca25c215857c7232352bf7e9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564297,
+            "locality_id":1243100365,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243100365,
+    "wof:lastmodified":1537674962,
+    "wof:name":"Sar Shombo",
+    "wof:parent_id":1108564297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31007,
+    11.0274,
+    5.31007,
+    11.0274
+],
+  "geometry": {"coordinates":[5.31007,11.0274],"type":"Point"}
+}

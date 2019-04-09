@@ -1,0 +1,68 @@
+{
+  "id": 1343414473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.99423,10.00356,12.99423,10.00356",
+    "geom:latitude":10.00356,
+    "geom:longitude":12.99423,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2018.0",
+    "gn:asciiname":"Wuro Abo",
+    "gn:country_code":"NG",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318851,
+    "gn:latitude":10.00356,
+    "gn:longitude":12.99423,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Abo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318851
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c9aeccdefe3389131e2864876fbcce95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564375,
+            "locality_id":1343414473,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343414473,
+    "wof:lastmodified":1536812206,
+    "wof:name":"Wuro Abo",
+    "wof:parent_id":1108564375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.99423,
+    10.00356,
+    12.99423,
+    10.00356
+],
+  "geometry": {"coordinates":[12.99423,10.00356],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209648367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6245,7.2571,5.6245,7.2571",
+    "geom:latitude":7.2571,
+    "geom:longitude":5.6245,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29018.0",
+    "gn:asciiname":"Ipeme",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337384,
+    "gn:latitude":7.2571,
+    "gn:longitude":5.6245,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ipeme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Owo",
+        "Ipinme",
+        "Ipeme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337384
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd7ddc485b65d8f30b10fae6f97ea381",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648367
+        }
+    ],
+    "wof:id":1209648367,
+    "wof:lastmodified":1537675183,
+    "wof:name":"Ipeme",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6245,
+    7.2571,
+    5.6245,
+    7.2571
+],
+  "geometry": {"coordinates":[5.6245,7.2571],"type":"Point"}
+}

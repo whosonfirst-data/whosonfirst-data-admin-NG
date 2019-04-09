@@ -1,0 +1,62 @@
+{
+  "id": 1209456413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.81667,7.23333,3.81667,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":3.81667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31025.0",
+    "gn:asciiname":"Ikija",
+    "gn:country_code":"NG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338279,
+    "gn:latitude":7.23333,
+    "gn:longitude":3.81667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikija",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338279
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0d3df34aad8bf1bdf2e69542f6758c69",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209456413
+        }
+    ],
+    "wof:id":1209456413,
+    "wof:lastmodified":1536286517,
+    "wof:name":"Ikija",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.81667,
+    7.23333,
+    3.81667,
+    7.23333
+],
+  "geometry": {"coordinates":[3.81667,7.23333],"type":"Point"}
+}

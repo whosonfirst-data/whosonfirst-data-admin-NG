@@ -1,0 +1,70 @@
+{
+  "id": 1293145031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75143,9.23428,11.75143,9.23428",
+    "geom:latitude":9.23428,
+    "geom:longitude":11.75143,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Yadani",
+    "gn:country_code":"NG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210364,
+    "gn:latitude":9.23428,
+    "gn:longitude":11.75143,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Yadani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yadani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210364
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"903b4e67e703ec66ab7dc0b5eed2d98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1293145031,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293145031,
+    "wof:lastmodified":1537675506,
+    "wof:name":"Yadani",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75143,
+    9.23428,
+    11.75143,
+    9.23428
+],
+  "geometry": {"coordinates":[11.75143,9.23428],"type":"Point"}
+}

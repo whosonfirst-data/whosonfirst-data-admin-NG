@@ -1,0 +1,73 @@
+{
+  "id": 1310667379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08863,10.90484,12.08863,10.90484",
+    "geom:latitude":10.90484,
+    "geom:longitude":12.08863,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10501",
+    "gn:asciiname":"Buratai",
+    "gn:country_code":"NG",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346376,
+    "gn:latitude":10.90484,
+    "gn:longitude":12.08863,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Buratai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burutai",
+        "Buratai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346376
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f7d95c476451677e25dda780590813b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563135,
+            "locality_id":1310667379,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1310667379,
+    "wof:lastmodified":1537675320,
+    "wof:name":"Buratai",
+    "wof:parent_id":1108563135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08863,
+    10.90484,
+    12.08863,
+    10.90484
+],
+  "geometry": {"coordinates":[12.08863,10.90484],"type":"Point"}
+}

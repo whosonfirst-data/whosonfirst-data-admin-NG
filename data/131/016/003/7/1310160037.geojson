@@ -1,0 +1,68 @@
+{
+  "id": 1310160037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.30493,7.01899,8.30493,7.01899",
+    "geom:latitude":7.01899,
+    "geom:longitude":8.30493,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7014",
+    "gn:asciiname":"Ijabi",
+    "gn:country_code":"NG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9269303,
+    "gn:latitude":7.01899,
+    "gn:longitude":8.30493,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9269303
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f990a9e9cbff48f98fd74f052dfd689e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564073,
+            "locality_id":1310160037,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1310160037,
+    "wof:lastmodified":1536918579,
+    "wof:name":"Ijabi",
+    "wof:parent_id":1108564073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.30493,
+    7.01899,
+    8.30493,
+    7.01899
+],
+  "geometry": {"coordinates":[8.30493,7.01899],"type":"Point"}
+}

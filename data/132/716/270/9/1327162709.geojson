@@ -1,0 +1,68 @@
+{
+  "id": 1327162709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.18794,7.83797,9.18794,7.83797",
+    "geom:latitude":7.83797,
+    "geom:longitude":9.18794,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Goji",
+    "gn:country_code":"NG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9524115,
+    "gn:latitude":7.83797,
+    "gn:longitude":9.18794,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Goji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9524115
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"208e4b5e10975609f802ef7beafa4baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1327162709,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1327162709,
+    "wof:lastmodified":1537067415,
+    "wof:name":"Goji",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.18794,
+    7.83797,
+    9.18794,
+    7.83797
+],
+  "geometry": {"coordinates":[9.18794,7.83797],"type":"Point"}
+}

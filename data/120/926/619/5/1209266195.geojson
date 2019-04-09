@@ -1,0 +1,65 @@
+{
+  "id": 1209266195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02526,6.95836,6.02526,6.95836",
+    "geom:latitude":6.95836,
+    "geom:longitude":6.02526,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12016.0",
+    "gn:asciiname":"Eteye",
+    "gn:country_code":"NG",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7079880,
+    "gn:latitude":6.95836,
+    "gn:longitude":6.02526,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eteye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ogele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7079880
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e44b764a979be663b30865f442762fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209266195
+        }
+    ],
+    "wof:id":1209266195,
+    "wof:lastmodified":1537675449,
+    "wof:name":"Eteye",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02526,
+    6.95836,
+    6.02526,
+    6.95836
+],
+  "geometry": {"coordinates":[6.02526,6.95836],"type":"Point"}
+}

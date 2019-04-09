@@ -1,0 +1,65 @@
+{
+  "id": 1209648355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.51597,9.11341,11.51597,9.11341",
+    "geom:latitude":9.11341,
+    "geom:longitude":11.51597,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35010.0",
+    "gn:asciiname":"Atawa",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348999,
+    "gn:latitude":9.11341,
+    "gn:longitude":11.51597,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Atawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Atawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348999
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d8f888f5f7d6cf1a5ee08d925510bfb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648355
+        }
+    ],
+    "wof:id":1209648355,
+    "wof:lastmodified":1537675351,
+    "wof:name":"Atawa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.51597,
+    9.11341,
+    11.51597,
+    9.11341
+],
+  "geometry": {"coordinates":[11.51597,9.11341],"type":"Point"}
+}

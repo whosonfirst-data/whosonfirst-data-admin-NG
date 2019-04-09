@@ -1,0 +1,68 @@
+{
+  "id": 1242920645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24395,5.90383,7.24395,5.90383",
+    "geom:latitude":5.90383,
+    "geom:longitude":7.24395,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17019.0",
+    "gn:asciiname":"Ibinta",
+    "gn:country_code":"NG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339251,
+    "gn:latitude":5.90383,
+    "gn:longitude":7.24395,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibinta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        421171419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339251
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b3ef2086719c06722452c9ba442413d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421171419,
+            "locality_id":1242920645,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1242920645,
+    "wof:lastmodified":1537063835,
+    "wof:name":"Ibinta",
+    "wof:parent_id":421171419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24395,
+    5.90383,
+    7.24395,
+    5.90383
+],
+  "geometry": {"coordinates":[7.24395,5.90383],"type":"Point"}
+}

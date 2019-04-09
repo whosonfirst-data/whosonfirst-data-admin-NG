@@ -1,0 +1,80 @@
+{
+  "id": 421196779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.22139,10.45306,13.22139,10.45306",
+    "geom:latitude":10.45306,
+    "geom:longitude":13.22139,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2321057,
+    "qs:gn_pop":11648,
+    "qs:name":"Uba",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Adamawa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1298099,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1407255,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321057,
+        "gp:id":1407255,
+        "qs:id":1298099
+    },
+    "wof:country":"NG",
+    "wof:created":1459009893,
+    "wof:geomhash":"b29fdd7adc71c19f7b0c3ff1b9c81b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":421196779,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":421196779,
+    "wof:lastmodified":1527716365,
+    "wof:name":"Uba",
+    "wof:parent_id":1108563997,
+    "wof:placetype":"locality",
+    "wof:population":11648,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.22139,
+    10.45306,
+    13.22139,
+    10.45306
+],
+  "geometry": {"coordinates":[13.22139,10.45306],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209844157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.66419,6.45636,4.66419,6.45636",
+    "geom:latitude":6.45636,
+    "geom:longitude":4.66419,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29014.0",
+    "gn:asciiname":"Agbere",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969548,
+    "gn:latitude":6.45636,
+    "gn:longitude":4.66419,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agbere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969548
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f930e842a111be9ad795421c0d26d4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564157,
+            "locality_id":1209844157,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1209844157,
+    "wof:lastmodified":1536391425,
+    "wof:name":"Agbere",
+    "wof:parent_id":1108564157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.66419,
+    6.45636,
+    4.66419,
+    6.45636
+],
+  "geometry": {"coordinates":[4.66419,6.45636],"type":"Point"}
+}

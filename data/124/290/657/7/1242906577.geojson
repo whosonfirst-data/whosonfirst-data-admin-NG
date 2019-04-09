@@ -1,0 +1,71 @@
+{
+  "id": 1242906577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.45388,9.07006,8.45388,9.07006",
+    "geom:latitude":9.07006,
+    "geom:longitude":8.45388,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26001.0",
+    "gn:asciiname":"Ancho Waiwai",
+    "gn:country_code":"NG",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349948,
+    "gn:latitude":9.07006,
+    "gn:longitude":8.45388,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ancho Waiwai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anco Waiwai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108562989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349948
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba49693e9466b9c776638dd6775ba9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562989,
+            "locality_id":1242906577,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1242906577,
+    "wof:lastmodified":1537675363,
+    "wof:name":"Ancho Waiwai",
+    "wof:parent_id":1108562989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.45388,
+    9.07006,
+    8.45388,
+    9.07006
+],
+  "geometry": {"coordinates":[8.45388,9.07006],"type":"Point"}
+}

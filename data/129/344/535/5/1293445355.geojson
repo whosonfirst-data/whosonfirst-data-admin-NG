@@ -1,0 +1,67 @@
+{
+  "id": 1293445355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57256,12.80997,8.57256,12.80997",
+    "geom:latitude":12.80997,
+    "geom:longitude":8.57256,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Tsamu",
+    "gn:country_code":"NG",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321867,
+    "gn:latitude":12.80997,
+    "gn:longitude":8.57256,
+    "gn:modification_date":"2009-01-30",
+    "gn:name":"Tsamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321867
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b57fee1cf2ee27685615e5bf5032df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564535,
+            "locality_id":1293445355,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1293445355,
+    "wof:lastmodified":1536846833,
+    "wof:name":"Tsamu",
+    "wof:parent_id":1108564535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57256,
+    12.80997,
+    8.57256,
+    12.80997
+],
+  "geometry": {"coordinates":[8.57256,12.80997],"type":"Point"}
+}

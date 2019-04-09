@@ -1,0 +1,63 @@
+{
+  "id": 1209666457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.10965,11.48057,4.10965,11.48057",
+    "geom:latitude":11.48057,
+    "geom:longitude":4.10965,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50502",
+    "gn:asciiname":"Tunga Kadibo",
+    "gn:country_code":"NG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321452,
+    "gn:latitude":11.48057,
+    "gn:longitude":4.10965,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tunga Kadibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321452
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"71ab1f3aa2695effe1e6f33ccf4f0611",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209666457
+        }
+    ],
+    "wof:id":1209666457,
+    "wof:lastmodified":1536280080,
+    "wof:name":"Tunga Kadibo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.10965,
+    11.48057,
+    4.10965,
+    11.48057
+],
+  "geometry": {"coordinates":[4.10965,11.48057],"type":"Point"}
+}

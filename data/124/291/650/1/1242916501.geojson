@@ -1,0 +1,77 @@
+{
+  "id": 1242916501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.44924,6.36465,6.44924,6.36465",
+    "geom:latitude":6.36465,
+    "geom:longitude":6.44924,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10001.0",
+    "gn:asciiname":"Idumuje-Uno",
+    "gn:country_code":"NG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338927,
+    "gn:latitude":6.36465,
+    "gn:longitude":6.44924,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idumuje-Uno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Idumuje-Uno"
+    ],
+    "name:eng_x_variant":[
+        "Idumujuno"
+    ],
+    "name:und_x_variant":[
+        "Idumujuno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338927
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b24fae253f11f9850b44d7f9d6b520d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563011,
+            "locality_id":1242916501,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1242916501,
+    "wof:lastmodified":1537675207,
+    "wof:name":"Idumuje-Uno",
+    "wof:parent_id":1108563011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.44924,
+    6.36465,
+    6.44924,
+    6.36465
+],
+  "geometry": {"coordinates":[6.44924,6.36465],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260130667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.18414,5.79788,7.18414,5.79788",
+    "geom:latitude":5.79788,
+    "geom:longitude":7.18414,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17005.0",
+    "gn:asciiname":"Ndiuche",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329218,
+    "gn:latitude":5.79788,
+    "gn:longitude":7.18414,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndiuche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329218
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b3055d294111dfb953bbb7a0e10620bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563519,
+            "locality_id":1260130667,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1260130667,
+    "wof:lastmodified":1536920955,
+    "wof:name":"Ndiuche",
+    "wof:parent_id":1108563519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.18414,
+    5.79788,
+    7.18414,
+    5.79788
+],
+  "geometry": {"coordinates":[7.18414,5.79788],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242634381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.81973,6.53364,6.81973,6.53364",
+    "geom:latitude":6.53364,
+    "geom:longitude":6.81973,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4003.0",
+    "gn:asciiname":"Obodola",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328214,
+    "gn:latitude":6.53364,
+    "gn:longitude":6.81973,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obodola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obodola"
+    ],
+    "name:und_x_variant":[
+        "Obadola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328214
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"810712be6e67986f4078f4fdb09d5b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563001,
+            "locality_id":1242634381,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1242634381,
+    "wof:lastmodified":1537675063,
+    "wof:name":"Obodola",
+    "wof:parent_id":1108563001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.81973,
+    6.53364,
+    6.81973,
+    6.53364
+],
+  "geometry": {"coordinates":[6.81973,6.53364],"type":"Point"}
+}

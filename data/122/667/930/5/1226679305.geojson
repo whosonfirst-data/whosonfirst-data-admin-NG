@@ -1,0 +1,68 @@
+{
+  "id": 1226679305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.64894,6.55114,4.64894,6.55114",
+    "geom:latitude":6.55114,
+    "geom:longitude":4.64894,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29014.0",
+    "gn:asciiname":"Ijuodo",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338348,
+    "gn:latitude":6.55114,
+    "gn:longitude":4.64894,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijuodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338348
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d42995670371b752e45f85253e095949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564157,
+            "locality_id":1226679305,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1226679305,
+    "wof:lastmodified":1536810728,
+    "wof:name":"Ijuodo",
+    "wof:parent_id":1108564157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.64894,
+    6.55114,
+    4.64894,
+    6.55114
+],
+  "geometry": {"coordinates":[4.64894,6.55114],"type":"Point"}
+}

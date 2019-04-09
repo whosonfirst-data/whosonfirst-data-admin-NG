@@ -1,0 +1,61 @@
+{
+  "id": 1209147305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9373,12.74282,3.9373,12.74282",
+    "geom:latitude":12.74282,
+    "geom:longitude":3.9373,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Makari",
+    "gn:country_code":"NG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6968325,
+    "gn:latitude":12.74282,
+    "gn:longitude":3.9373,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Makari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6968325
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"68d6a5ce253660ce9e4bcaa51b7cc1ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209147305
+        }
+    ],
+    "wof:id":1209147305,
+    "wof:lastmodified":1536296319,
+    "wof:name":"Makari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9373,
+    12.74282,
+    3.9373,
+    12.74282
+],
+  "geometry": {"coordinates":[3.9373,12.74282],"type":"Point"}
+}

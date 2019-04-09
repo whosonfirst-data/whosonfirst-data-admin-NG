@@ -1,0 +1,62 @@
+{
+  "id": 1209453929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.59448,5.62916,6.59448,5.62916",
+    "geom:latitude":5.62916,
+    "geom:longitude":6.59448,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10011.0",
+    "gn:asciiname":"Keonokpo",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334578,
+    "gn:latitude":5.62916,
+    "gn:longitude":6.59448,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Keonokpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334578
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7113c0e207727bb572edf9042bf8de72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209453929
+        }
+    ],
+    "wof:id":1209453929,
+    "wof:lastmodified":1536286593,
+    "wof:name":"Keonokpo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.59448,
+    5.62916,
+    6.59448,
+    5.62916
+],
+  "geometry": {"coordinates":[6.59448,5.62916],"type":"Point"}
+}

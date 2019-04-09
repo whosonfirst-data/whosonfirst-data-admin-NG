@@ -1,0 +1,68 @@
+{
+  "id": 1260129269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.51667,8.13333,5.51667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":5.51667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24004.0",
+    "gn:asciiname":"Koto",
+    "gn:country_code":"NG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333887,
+    "gn:latitude":8.13333,
+    "gn:longitude":5.51667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Koto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333887
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc9804ba080407d3d5bbeed6885ac34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563297,
+            "locality_id":1260129269,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1260129269,
+    "wof:lastmodified":1536923026,
+    "wof:name":"Koto",
+    "wof:parent_id":1108563297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.51667,
+    8.13333,
+    5.51667,
+    8.13333
+],
+  "geometry": {"coordinates":[5.51667,8.13333],"type":"Point"}
+}

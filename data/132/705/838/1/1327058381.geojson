@@ -1,0 +1,68 @@
+{
+  "id": 1327058381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09797,7.24023,10.09797,7.24023",
+    "geom:latitude":7.24023,
+    "geom:longitude":10.09797,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35013",
+    "gn:asciiname":"Kwonkwe",
+    "gn:country_code":"NG",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10133563,
+    "gn:latitude":7.24023,
+    "gn:longitude":10.09797,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwonkwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10133563
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d9d26a5c841e2d9a8f9d6401a66caa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564477,
+            "locality_id":1327058381,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1327058381,
+    "wof:lastmodified":1536723421,
+    "wof:name":"Kwonkwe",
+    "wof:parent_id":1108564477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09797,
+    7.24023,
+    10.09797,
+    7.24023
+],
+  "geometry": {"coordinates":[10.09797,7.24023],"type":"Point"}
+}

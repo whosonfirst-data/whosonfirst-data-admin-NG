@@ -1,0 +1,77 @@
+{
+  "id": 1193189609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.52715,6.29456,6.52715,6.29456",
+    "geom:latitude":6.29456,
+    "geom:longitude":6.52715,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Ubulo-Okiti",
+    "gn:country_code":"NG",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321015,
+    "gn:latitude":6.29456,
+    "gn:longitude":6.52715,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ubulo-Okiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ubulo-Okiti"
+    ],
+    "name:eng_x_variant":[
+        "Uburukiti"
+    ],
+    "name:und_x_variant":[
+        "Uburukiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321015
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"06d4053f6b1878a3ada46aa9e398ac44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1193189609,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1193189609,
+    "wof:lastmodified":1537674960,
+    "wof:name":"Ubulo-Okiti",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.52715,
+    6.29456,
+    6.52715,
+    6.29456
+],
+  "geometry": {"coordinates":[6.52715,6.29456],"type":"Point"}
+}

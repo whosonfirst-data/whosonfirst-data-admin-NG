@@ -1,0 +1,68 @@
+{
+  "id": 1326957979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.75904,8.52441,10.75904,8.52441",
+    "geom:latitude":8.52441,
+    "geom:longitude":10.75904,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35005.0",
+    "gn:asciiname":"Chul",
+    "gn:country_code":"NG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345935,
+    "gn:latitude":8.52441,
+    "gn:longitude":10.75904,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345935
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8355bfbd5349b0a82fea8e9f525fb937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563403,
+            "locality_id":1326957979,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1326957979,
+    "wof:lastmodified":1536866573,
+    "wof:name":"Chul",
+    "wof:parent_id":1108563403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.75904,
+    8.52441,
+    10.75904,
+    8.52441
+],
+  "geometry": {"coordinates":[10.75904,8.52441],"type":"Point"}
+}

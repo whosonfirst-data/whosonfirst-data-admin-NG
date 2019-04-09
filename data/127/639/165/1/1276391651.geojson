@@ -1,0 +1,71 @@
+{
+  "id": 1276391651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15473,6.13492,6.15473,6.13492",
+    "geom:latitude":6.13492,
+    "geom:longitude":6.15473,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10008.0",
+    "gn:asciiname":"Abavo",
+    "gn:country_code":"NG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353006,
+    "gn:latitude":6.13492,
+    "gn:longitude":6.15473,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abavo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abavo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353006
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb64219c680a88a2e67624a959573891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563585,
+            "locality_id":1276391651,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1276391651,
+    "wof:lastmodified":1537675397,
+    "wof:name":"Abavo",
+    "wof:parent_id":1108563585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15473,
+    6.13492,
+    6.15473,
+    6.13492
+],
+  "geometry": {"coordinates":[6.15473,6.13492],"type":"Point"}
+}

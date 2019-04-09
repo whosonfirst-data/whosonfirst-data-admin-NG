@@ -1,0 +1,62 @@
+{
+  "id": 1209058131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23149,6.49073,5.23149,6.49073",
+    "geom:latitude":6.49073,
+    "geom:longitude":5.23149,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12015.0",
+    "gn:asciiname":"Iguelaho",
+    "gn:country_code":"NG",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6965436,
+    "gn:latitude":6.49073,
+    "gn:longitude":5.23149,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iguelaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6965436
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6150ccebda9db1f2cd944b7cdd87b938",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209058131
+        }
+    ],
+    "wof:id":1209058131,
+    "wof:lastmodified":1536299045,
+    "wof:name":"Iguelaho",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23149,
+    6.49073,
+    5.23149,
+    6.49073
+],
+  "geometry": {"coordinates":[5.23149,6.49073],"type":"Point"}
+}

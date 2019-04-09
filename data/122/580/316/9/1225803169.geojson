@@ -1,0 +1,67 @@
+{
+  "id": 1225803169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.48057,9.32789,7.48057,9.32789",
+    "geom:latitude":9.32789,
+    "geom:longitude":7.48057,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tokolo",
+    "gn:country_code":"NG",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322022,
+    "gn:latitude":9.32789,
+    "gn:longitude":7.48057,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Tokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322022
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6b52b8b7c33942820dfb845cba0fc37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1225803169,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1225803169,
+    "wof:lastmodified":1537072152,
+    "wof:name":"Tokolo",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.48057,
+    9.32789,
+    7.48057,
+    9.32789
+],
+  "geometry": {"coordinates":[7.48057,9.32789],"type":"Point"}
+}

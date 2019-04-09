@@ -1,0 +1,71 @@
+{
+  "id": 1209743787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85106,4.83367,5.85106,4.83367",
+    "geom:latitude":4.83367,
+    "geom:longitude":5.85106,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Azatuta",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040578,
+    "gn:latitude":4.83367,
+    "gn:longitude":5.85106,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Azatuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Azatuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040578
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"38cff049f169b9b94eded31bf1f2a09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563285,
+            "locality_id":1209743787,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1209743787,
+    "wof:lastmodified":1537675438,
+    "wof:name":"Azatuta",
+    "wof:parent_id":1108563285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85106,
+    4.83367,
+    5.85106,
+    4.83367
+],
+  "geometry": {"coordinates":[5.85106,4.83367],"type":"Point"}
+}

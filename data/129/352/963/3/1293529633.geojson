@@ -1,0 +1,68 @@
+{
+  "id": 1293529633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61439,10.10039,12.61439,10.10039",
+    "geom:latitude":10.10039,
+    "geom:longitude":12.61439,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Shima",
+    "gn:country_code":"NG",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323178,
+    "gn:latitude":10.10039,
+    "gn:longitude":12.61439,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323178
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3958cbb4b3def4e3dec99b0681fcd181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1293529633,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293529633,
+    "wof:lastmodified":1536726683,
+    "wof:name":"Shima",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61439,
+    10.10039,
+    12.61439,
+    10.10039
+],
+  "geometry": {"coordinates":[12.61439,10.10039],"type":"Point"}
+}

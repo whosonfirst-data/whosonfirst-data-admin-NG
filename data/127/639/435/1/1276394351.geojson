@@ -1,0 +1,73 @@
+{
+  "id": 1276394351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81848,12.99395,7.81848,12.99395",
+    "geom:latitude":12.99395,
+    "geom:longitude":7.81848,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"426.0",
+    "gn:admin3_code":"42611",
+    "gn:asciiname":"Gwanki",
+    "gn:country_code":"NG",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333303,
+    "gn:latitude":12.99395,
+    "gn:longitude":7.81848,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gwanki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurabo",
+        "Gwanki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333303
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7d52b9269eebdae471a73af7e2783be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563943,
+            "locality_id":1276394351,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1276394351,
+    "wof:lastmodified":1537675128,
+    "wof:name":"Gwanki",
+    "wof:parent_id":1108563943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81848,
+    12.99395,
+    7.81848,
+    12.99395
+],
+  "geometry": {"coordinates":[7.81848,12.99395],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209874789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86815,4.68229,7.86815,4.68229",
+    "geom:latitude":4.68229,
+    "geom:longitude":7.86815,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3024.0",
+    "gn:asciiname":"Ikot Obong",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337983,
+    "gn:latitude":4.68229,
+    "gn:longitude":7.86815,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Obong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337983
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4286e63ce5f076d67584c8da8656cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564197,
+            "locality_id":1209874789,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1209874789,
+    "wof:lastmodified":1536369681,
+    "wof:name":"Ikot Obong",
+    "wof:parent_id":1108564197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86815,
+    4.68229,
+    7.86815,
+    4.68229
+],
+  "geometry": {"coordinates":[7.86815,4.68229],"type":"Point"}
+}

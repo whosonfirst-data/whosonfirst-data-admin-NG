@@ -1,0 +1,90 @@
+{
+  "id": 1108563487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002113,
+    "geom:area_square_m":25911260.582829,
+    "geom:bbox":"3.85146633973,7.35467136831,3.91666633973,7.42037136831",
+    "geom:latitude":7.387616,
+    "geom:longitude":3.884337,
+    "iso:country":"NG",
+    "lbl:latitude":7.390032,
+    "lbl:longitude":3.882114,
+    "meso:adm1_name":"Oyo",
+    "meso:diss_me":"Ibadan North WestOyo",
+    "meso:gadm_admin":"IbadanNorth-West",
+    "meso:gaul_admin":"Ibadannorth",
+    "meso:hasc_id":"NG.OY.IW",
+    "meso:mps_x":3.882114,
+    "meso:mps_y":7.390032,
+    "meso:name_local":"Ibadan North West",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":7.390032,
+    "mps:longitude":3.882114,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ibadan North West"
+    ],
+    "name:eng_x_variant":[
+        "Ibadannorth",
+        "IbadanNorth-West"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"26.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Dugbe/Onireke",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.OY",
+    "statoids:name":"Ibadan North West",
+    "statoids:population":"152834",
+    "statoids:statoid":"NG.OY.IW",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.OY.IW"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057646,
+    "wof:geomhash":"2f60365d005c9afd90b9d85111c352e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563487,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1108563487,
+    "wof:lastmodified":1536615202,
+    "wof:name":"Ibadan North West",
+    "wof:parent_id":85675371,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":152834,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"IW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85146633973258,
+    7.35467136831217,
+    3.91666633973264,
+    7.42037136831211
+],
+  "geometry": {"coordinates":[[[3.87566633973259,7.42037136831211],[3.8776663397326,7.41767136831218],[3.88576633973258,7.40737136831216],[3.88816633973265,7.4056713683121],[3.89276633973258,7.40217136831214],[3.89996633973261,7.3986713683121],[3.90286633973257,7.39577136831214],[3.90616633973259,7.39187136831212],[3.91296633973265,7.3840713683121],[3.91496633973257,7.38177136831213],[3.91666633973264,7.37787136831212],[3.91646633973261,7.37107136831215],[3.91556633973257,7.36587136831213],[3.91316633973259,7.35937136831211],[3.90956633973262,7.35467136831217],[3.90506633973261,7.35957136831214],[3.9030663397326,7.36267136831213],[3.9011663397326,7.36487136831217],[3.89686633973262,7.3675713683121],[3.89206633973257,7.36967136831213],[3.88696633973257,7.37227136831214],[3.88226633973262,7.37397136831211],[3.87586633973262,7.37417136831214],[3.87166633973265,7.37377136831217],[3.86716633973264,7.37297136831215],[3.86376633973261,7.37367136831216],[3.85836633973257,7.37687136831216],[3.85546633973261,7.37827136831218],[3.85146633973258,7.38147136831218],[3.85296633973261,7.38367136831213],[3.85486633973261,7.38907136831218],[3.85626633973263,7.39727136831217],[3.85646633973257,7.4005713683121],[3.8585663397326,7.40297136831217],[3.86246633973261,7.4075713683121],[3.86776633973264,7.41357136831214],[3.87086633973263,7.41887136831217],[3.87566633973259,7.42037136831211]]],"type":"Polygon"}
+}

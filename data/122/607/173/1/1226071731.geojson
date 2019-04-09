@@ -1,0 +1,68 @@
+{
+  "id": 1226071731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75071,7.93758,6.75071,7.93758",
+    "geom:latitude":7.93758,
+    "geom:longitude":6.75071,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23012.0",
+    "gn:asciiname":"Kuroko",
+    "gn:country_code":"NG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333158,
+    "gn:latitude":7.93758,
+    "gn:longitude":6.75071,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kuroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333158
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4f67f8bbb13c8864b720fbd24a28d3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563907,
+            "locality_id":1226071731,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1226071731,
+    "wof:lastmodified":1536687929,
+    "wof:name":"Kuroko",
+    "wof:parent_id":1108563907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75071,
+    7.93758,
+    6.75071,
+    7.93758
+],
+  "geometry": {"coordinates":[6.75071,7.93758],"type":"Point"}
+}

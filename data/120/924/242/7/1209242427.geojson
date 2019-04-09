@@ -1,0 +1,66 @@
+{
+  "id": 1209242427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.51785,7.33732,10.51785,7.33732",
+    "geom:latitude":7.33732,
+    "geom:longitude":10.51785,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Gidan Adi",
+    "gn:country_code":"NG",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341195,
+    "gn:latitude":7.33732,
+    "gn:longitude":10.51785,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Adi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi",
+        "Gidan Adi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341195
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3314d60a1f0ca96aca7ba4d4f4b0d216",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209242427
+        }
+    ],
+    "wof:id":1209242427,
+    "wof:lastmodified":1537675246,
+    "wof:name":"Gidan Adi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.51785,
+    7.33732,
+    10.51785,
+    7.33732
+],
+  "geometry": {"coordinates":[10.51785,7.33732],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260332153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03582,9.09477,12.03582,9.09477",
+    "geom:latitude":9.09477,
+    "geom:longitude":12.03582,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Wuro Gona",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189845,
+    "gn:latitude":9.09477,
+    "gn:longitude":12.03582,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Wuro Gona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wuro Gona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189845
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d911b5efc7b86af65cb066e1b52c734e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1260332153,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1260332153,
+    "wof:lastmodified":1537675491,
+    "wof:name":"Wuro Gona",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03582,
+    9.09477,
+    12.03582,
+    9.09477
+],
+  "geometry": {"coordinates":[12.03582,9.09477],"type":"Point"}
+}

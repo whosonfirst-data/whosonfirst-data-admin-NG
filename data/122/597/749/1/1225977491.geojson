@@ -1,0 +1,69 @@
+{
+  "id": 1225977491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.01241,13.12036,11.01241,13.12036",
+    "geom:latitude":13.12036,
+    "geom:longitude":11.01241,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717.0",
+    "gn:admin3_code":"71709",
+    "gn:asciiname":"Garshelek",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341735,
+    "gn:latitude":13.12036,
+    "gn:longitude":11.01241,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garshelek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341735
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"99205c36eb4ac17ba214fdbbc903d62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564549,
+            "locality_id":1225977491,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1225977491,
+    "wof:lastmodified":1536822659,
+    "wof:name":"Garshelek",
+    "wof:parent_id":1108564549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.01241,
+    13.12036,
+    11.01241,
+    13.12036
+],
+  "geometry": {"coordinates":[11.01241,13.12036],"type":"Point"}
+}

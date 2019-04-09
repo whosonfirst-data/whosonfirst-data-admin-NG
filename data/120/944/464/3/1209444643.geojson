@@ -1,0 +1,62 @@
+{
+  "id": 1209444643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67435,10.19738,6.67435,10.19738",
+    "geom:latitude":10.19738,
+    "geom:longitude":6.67435,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Kuriki",
+    "gn:country_code":"NG",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333228,
+    "gn:latitude":10.19738,
+    "gn:longitude":6.67435,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kuriki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333228
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"82050c7a20b76f8dd1094055da5c5ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444643
+        }
+    ],
+    "wof:id":1209444643,
+    "wof:lastmodified":1536286856,
+    "wof:name":"Kuriki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67435,
+    10.19738,
+    6.67435,
+    10.19738
+],
+  "geometry": {"coordinates":[6.67435,10.19738],"type":"Point"}
+}

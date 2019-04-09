@@ -1,0 +1,72 @@
+{
+  "id": 1327261471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35686,4.88688,7.35686,4.88688",
+    "geom:latitude":4.88688,
+    "geom:longitude":7.35686,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Akwete",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2350792,
+    "gn:latitude":4.88688,
+    "gn:longitude":7.35686,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akwete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0432\u0435\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350792,
+        "wk:page":"Akwete"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47a26b2959e796756b9f75e320af63c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564453,
+            "locality_id":1327261471,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1327261471,
+    "wof:lastmodified":1537570024,
+    "wof:name":"Akwete",
+    "wof:parent_id":1108564453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.35686,
+    4.88688,
+    7.35686,
+    4.88688
+],
+  "geometry": {"coordinates":[7.35686,4.88688],"type":"Point"}
+}

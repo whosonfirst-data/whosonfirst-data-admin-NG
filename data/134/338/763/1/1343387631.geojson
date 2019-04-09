@@ -1,0 +1,68 @@
+{
+  "id": 1343387631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.10212,10.01394,6.10212,10.01394",
+    "geom:latitude":10.01394,
+    "geom:longitude":6.10212,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Ussa",
+    "gn:country_code":"NG",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319596,
+    "gn:latitude":10.01394,
+    "gn:longitude":6.10212,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ussa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319596
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"27623eec21fe16d9f8ea85e1f23e98ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564291,
+            "locality_id":1343387631,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343387631,
+    "wof:lastmodified":1536850352,
+    "wof:name":"Ussa",
+    "wof:parent_id":1108564291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.10212,
+    10.01394,
+    6.10212,
+    10.01394
+],
+  "geometry": {"coordinates":[6.10212,10.01394],"type":"Point"}
+}

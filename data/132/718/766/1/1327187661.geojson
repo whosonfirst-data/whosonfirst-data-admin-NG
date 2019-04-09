@@ -1,0 +1,68 @@
+{
+  "id": 1327187661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33732,10.25867,13.33732,10.25867",
+    "geom:latitude":10.25867,
+    "geom:longitude":13.33732,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Yawa Fulbe",
+    "gn:country_code":"NG",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318217,
+    "gn:latitude":10.25867,
+    "gn:longitude":13.33732,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yawa Fulbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318217
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c00b6eb62c1d26e84241f9aced0711bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1327187661,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1327187661,
+    "wof:lastmodified":1537032892,
+    "wof:name":"Yawa Fulbe",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33732,
+    10.25867,
+    13.33732,
+    10.25867
+],
+  "geometry": {"coordinates":[13.33732,10.25867],"type":"Point"}
+}

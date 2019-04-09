@@ -1,0 +1,67 @@
+{
+  "id": 1226554239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98734,13.29293,8.98734,13.29293",
+    "geom:latitude":13.29293,
+    "geom:longitude":8.98734,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"D'akini",
+    "gn:country_code":"NG",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6731652,
+    "gn:latitude":13.29293,
+    "gn:longitude":8.98734,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"D'\u00e2kini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675285,
+        1092051411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6731652
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"96c487b2b0164bb169a79981c068ed21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051411,
+            "locality_id":1226554239,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":1226554239,
+    "wof:lastmodified":1536984925,
+    "wof:name":"D'akini",
+    "wof:parent_id":1092051411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98734,
+    13.29293,
+    8.98734,
+    13.29293
+],
+  "geometry": {"coordinates":[8.98734,13.29293],"type":"Point"}
+}

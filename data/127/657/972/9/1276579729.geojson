@@ -1,0 +1,69 @@
+{
+  "id": 1276579729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.42129,13.04532,11.42129,13.04532",
+    "geom:latitude":13.04532,
+    "geom:longitude":11.42129,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717.0",
+    "gn:admin3_code":"71704",
+    "gn:asciiname":"Gwaiomari",
+    "gn:country_code":"NG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339856,
+    "gn:latitude":13.04532,
+    "gn:longitude":11.42129,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gwaiomari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339856
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dbd5e28269f3635f853fd0bacde1eee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564547,
+            "locality_id":1276579729,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1276579729,
+    "wof:lastmodified":1536946659,
+    "wof:name":"Gwaiomari",
+    "wof:parent_id":1108564547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.42129,
+    13.04532,
+    11.42129,
+    13.04532
+],
+  "geometry": {"coordinates":[11.42129,13.04532],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209944305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.19226,6.65482,8.19226,6.65482",
+    "geom:latitude":6.65482,
+    "geom:longitude":8.19226,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010.0",
+    "gn:asciiname":"Agbaja",
+    "gn:country_code":"NG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352097,
+    "gn:latitude":6.65482,
+    "gn:longitude":8.19226,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agbaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352097
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79131261a3d8169c7c186072ceac9220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563709,
+            "locality_id":1209944305,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1209944305,
+    "wof:lastmodified":1536387100,
+    "wof:name":"Agbaja",
+    "wof:parent_id":1108563709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.19226,
+    6.65482,
+    8.19226,
+    6.65482
+],
+  "geometry": {"coordinates":[8.19226,6.65482],"type":"Point"}
+}

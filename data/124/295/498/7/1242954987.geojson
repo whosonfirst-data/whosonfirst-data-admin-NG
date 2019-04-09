@@ -1,0 +1,68 @@
+{
+  "id": 1242954987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2,7.2,3.2,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":3.2,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28001.0",
+    "gn:asciiname":"Ijale Papa",
+    "gn:country_code":"NG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338432,
+    "gn:latitude":7.2,
+    "gn:longitude":3.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijale Papa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        421187947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338432
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c74c69e64f80f37c72559291f82ead4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421187947,
+            "locality_id":1242954987,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1242954987,
+    "wof:lastmodified":1537016446,
+    "wof:name":"Ijale Papa",
+    "wof:parent_id":421187947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2,
+    7.2,
+    3.2,
+    7.2
+],
+  "geometry": {"coordinates":[3.2,7.2],"type":"Point"}
+}

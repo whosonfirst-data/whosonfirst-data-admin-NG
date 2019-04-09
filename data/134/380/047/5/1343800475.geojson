@@ -1,0 +1,69 @@
+{
+  "id": 1343800475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.92745,11.44316,3.92745,11.44316",
+    "geom:latitude":11.44316,
+    "geom:longitude":3.92745,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50504",
+    "gn:asciiname":"Tungan Noma",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6960465,
+    "gn:latitude":11.44316,
+    "gn:longitude":3.92745,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tungan Noma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6960465
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4e5c8b384d1b7c3ce6020faeb2beee69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563069,
+            "locality_id":1343800475,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1343800475,
+    "wof:lastmodified":1536753200,
+    "wof:name":"Tungan Noma",
+    "wof:parent_id":1108563069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.92745,
+    11.44316,
+    3.92745,
+    11.44316
+],
+  "geometry": {"coordinates":[3.92745,11.44316],"type":"Point"}
+}

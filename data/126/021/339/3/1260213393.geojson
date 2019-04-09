@@ -1,0 +1,67 @@
+{
+  "id": 1260213393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.19501,12.61667,8.19501,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":8.19501,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Yakassa",
+    "gn:country_code":"NG",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318473,
+    "gn:latitude":12.61667,
+    "gn:longitude":8.19501,
+    "gn:modification_date":"2009-02-13",
+    "gn:name":"Yakassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318473
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f2212b8e0ad68b609e8d7a22404bb6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563643,
+            "locality_id":1260213393,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1260213393,
+    "wof:lastmodified":1536806902,
+    "wof:name":"Yakassa",
+    "wof:parent_id":1108563643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.19501,
+    12.61667,
+    8.19501,
+    12.61667
+],
+  "geometry": {"coordinates":[8.19501,12.61667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209555637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46351,9.12383,12.46351,9.12383",
+    "geom:latitude":9.12383,
+    "geom:longitude":12.46351,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Tuki",
+    "gn:country_code":"NG",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321591,
+    "gn:latitude":9.12383,
+    "gn:longitude":12.46351,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Tuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321591
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5ea3a73804bd444842085e77f48b2266",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209555637
+        }
+    ],
+    "wof:id":1209555637,
+    "wof:lastmodified":1537674968,
+    "wof:name":"Tuki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46351,
+    9.12383,
+    12.46351,
+    9.12383
+],
+  "geometry": {"coordinates":[12.46351,9.12383],"type":"Point"}
+}

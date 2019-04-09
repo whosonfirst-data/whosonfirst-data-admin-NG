@@ -1,0 +1,73 @@
+{
+  "id": 1259340397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.53454,12.26097,7.53454,12.26097",
+    "geom:latitude":12.26097,
+    "geom:longitude":7.53454,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"409.0",
+    "gn:admin3_code":"40910",
+    "gn:asciiname":"Mapawa",
+    "gn:country_code":"NG",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330868,
+    "gn:latitude":12.26097,
+    "gn:longitude":7.53454,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mapawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanshanta",
+        "Mapawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330868
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0f402fbf35e35db517a43596b6331d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563961,
+            "locality_id":1259340397,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1259340397,
+    "wof:lastmodified":1537675100,
+    "wof:name":"Mapawa",
+    "wof:parent_id":1108563961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.53454,
+    12.26097,
+    7.53454,
+    12.26097
+],
+  "geometry": {"coordinates":[7.53454,12.26097],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242624891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2254,11.37981,12.2254,11.37981",
+    "geom:latitude":11.37981,
+    "geom:longitude":12.2254,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ambia",
+    "gn:country_code":"NG",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350137,
+    "gn:latitude":11.37981,
+    "gn:longitude":12.2254,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Ambia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350137
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"37363719fac6538b87a8dcd59ffca589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1242624891,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1242624891,
+    "wof:lastmodified":1536994915,
+    "wof:name":"Ambia",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2254,
+    11.37981,
+    12.2254,
+    11.37981
+],
+  "geometry": {"coordinates":[12.2254,11.37981],"type":"Point"}
+}

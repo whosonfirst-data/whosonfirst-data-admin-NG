@@ -1,0 +1,63 @@
+{
+  "id": 1209362161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45199,11.67481,13.45199,11.67481",
+    "geom:latitude":11.67481,
+    "geom:longitude":13.45199,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"116.0",
+    "gn:admin3_code":"11610",
+    "gn:asciiname":"Bazamri",
+    "gn:country_code":"NG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347398,
+    "gn:latitude":11.67481,
+    "gn:longitude":13.45199,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bazamri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347398
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dde1117a77b509458f5146bf13579f51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209362161
+        }
+    ],
+    "wof:id":1209362161,
+    "wof:lastmodified":1536289386,
+    "wof:name":"Bazamri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45199,
+    11.67481,
+    13.45199,
+    11.67481
+],
+  "geometry": {"coordinates":[13.45199,11.67481],"type":"Point"}
+}

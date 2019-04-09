@@ -1,0 +1,68 @@
+{
+  "id": 1259430391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82867,7.34412,8.82867,7.34412",
+    "geom:latitude":7.34412,
+    "geom:longitude":8.82867,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Uja",
+    "gn:country_code":"NG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974399,
+    "gn:latitude":7.34412,
+    "gn:longitude":8.82867,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974399
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e5e06cd7f3459086507bde21838456d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1259430391,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259430391,
+    "wof:lastmodified":1536935862,
+    "wof:name":"Uja",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82867,
+    7.34412,
+    8.82867,
+    7.34412
+],
+  "geometry": {"coordinates":[8.82867,7.34412],"type":"Point"}
+}

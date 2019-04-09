@@ -1,0 +1,67 @@
+{
+  "id": 1344174923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.99782,9.86727,10.99782,9.86727",
+    "geom:latitude":9.86727,
+    "geom:longitude":10.99782,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Guda Waziri",
+    "gn:country_code":"NG",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11271643,
+    "gn:latitude":9.86727,
+    "gn:longitude":10.99782,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Guda Waziri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11271643
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2cec6c0f9c24263e351ac73c7e628ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1344174923,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1344174923,
+    "wof:lastmodified":1536710721,
+    "wof:name":"Guda Waziri",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.99782,
+    9.86727,
+    10.99782,
+    9.86727
+],
+  "geometry": {"coordinates":[10.99782,9.86727],"type":"Point"}
+}

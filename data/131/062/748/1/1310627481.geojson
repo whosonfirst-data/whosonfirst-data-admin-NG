@@ -1,0 +1,67 @@
+{
+  "id": 1310627481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68827,4.40084,6.68827,4.40084",
+    "geom:latitude":4.40084,
+    "geom:longitude":6.68827,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Agudakiri",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826066,
+    "gn:latitude":4.40084,
+    "gn:longitude":6.68827,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Agudakiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826066
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"553eec5771c45784c3c2633d6aaf4c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1310627481,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1310627481,
+    "wof:lastmodified":1536740933,
+    "wof:name":"Agudakiri",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68827,
+    4.40084,
+    6.68827,
+    4.40084
+],
+  "geometry": {"coordinates":[6.68827,4.40084],"type":"Point"}
+}

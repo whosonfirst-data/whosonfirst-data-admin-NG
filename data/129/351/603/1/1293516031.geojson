@@ -1,0 +1,67 @@
+{
+  "id": 1293516031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.09058,8.94779,9.09058,8.94779",
+    "geom:latitude":8.94779,
+    "geom:longitude":9.09058,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Goelagand",
+    "gn:country_code":"NG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056657,
+    "gn:latitude":8.94779,
+    "gn:longitude":9.09058,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Goelagand",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056657
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02c8ff40b5f6515b4dda001cc151075d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564287,
+            "locality_id":1293516031,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1293516031,
+    "wof:lastmodified":1536745765,
+    "wof:name":"Goelagand",
+    "wof:parent_id":1108564287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.09058,
+    8.94779,
+    9.09058,
+    8.94779
+],
+  "geometry": {"coordinates":[9.09058,8.94779],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309977857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26217,6.74241,3.26217,6.74241",
+    "geom:latitude":6.74241,
+    "geom:longitude":3.26217,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Ijoko",
+    "gn:country_code":"NG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338371,
+    "gn:latitude":6.74241,
+    "gn:longitude":3.26217,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ijoko Station",
+        "Ijoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108562921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338371,
+        "wk:page":"Ijoko"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76f505b54d24b73eeeb95981c0d2ef65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562921,
+            "locality_id":1309977857,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1309977857,
+    "wof:lastmodified":1537675198,
+    "wof:name":"Ijoko",
+    "wof:parent_id":1108562921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26217,
+    6.74241,
+    3.26217,
+    6.74241
+],
+  "geometry": {"coordinates":[3.26217,6.74241],"type":"Point"}
+}

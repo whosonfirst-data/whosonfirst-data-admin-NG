@@ -1,0 +1,67 @@
+{
+  "id": 1327295139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.09596,5.92869,7.09596,5.92869",
+    "geom:latitude":5.92869,
+    "geom:longitude":7.09596,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Amaeshi",
+    "gn:country_code":"NG",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350273,
+    "gn:latitude":5.92869,
+    "gn:longitude":7.09596,
+    "gn:modification_date":"2009-08-19",
+    "gn:name":"Amaeshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108562939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350273
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"00db44634afd5cc1b71b200df99bf2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562939,
+            "locality_id":1327295139,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1327295139,
+    "wof:lastmodified":1536878371,
+    "wof:name":"Amaeshi",
+    "wof:parent_id":1108562939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.09596,
+    5.92869,
+    7.09596,
+    5.92869
+],
+  "geometry": {"coordinates":[7.09596,5.92869],"type":"Point"}
+}

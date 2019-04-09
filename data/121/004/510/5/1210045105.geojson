@@ -1,0 +1,68 @@
+{
+  "id": 1210045105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.47937,9.27537,6.47937,9.27537",
+    "geom:latitude":9.27537,
+    "geom:longitude":6.47937,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010.0",
+    "gn:asciiname":"Mikwegi",
+    "gn:country_code":"NG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330128,
+    "gn:latitude":9.27537,
+    "gn:longitude":6.47937,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mikwegi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330128
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e6ebfcb10bc469a5932f1cf18088c8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1210045105,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1210045105,
+    "wof:lastmodified":1536379860,
+    "wof:name":"Mikwegi",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.47937,
+    9.27537,
+    6.47937,
+    9.27537
+],
+  "geometry": {"coordinates":[6.47937,9.27537],"type":"Point"}
+}

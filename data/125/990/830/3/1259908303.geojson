@@ -1,0 +1,70 @@
+{
+  "id": 1259908303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.26596,13.21969,5.26596,13.21969",
+    "geom:latitude":13.21969,
+    "geom:longitude":5.26596,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61107",
+    "gn:asciiname":"Kware",
+    "gn:country_code":"NG",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2332780,
+    "gn:latitude":13.21969,
+    "gn:longitude":5.26596,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kware",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332780,
+        "wk:page":"Kware"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"120f488cb885a5a96f9c3566471630ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563875,
+            "locality_id":1259908303,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1259908303,
+    "wof:lastmodified":1537569998,
+    "wof:name":"Kware",
+    "wof:parent_id":1108563875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26596,
+    13.21969,
+    5.26596,
+    13.21969
+],
+  "geometry": {"coordinates":[5.26596,13.21969],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260009205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78333,8.06667,6.78333,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":6.78333,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23011.0",
+    "gn:asciiname":"Adaha",
+    "gn:country_code":"NG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352621,
+    "gn:latitude":8.06667,
+    "gn:longitude":6.78333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352621
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72df2709b49f0d1cbba5422c8fbbc2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563827,
+            "locality_id":1260009205,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1260009205,
+    "wof:lastmodified":1537091791,
+    "wof:name":"Adaha",
+    "wof:parent_id":1108563827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78333,
+    8.06667,
+    6.78333,
+    8.06667
+],
+  "geometry": {"coordinates":[6.78333,8.06667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327461449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52058,8.89229,9.52058,8.89229",
+    "geom:latitude":8.89229,
+    "geom:longitude":9.52058,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Sinkwan",
+    "gn:country_code":"NG",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921983,
+    "gn:latitude":8.89229,
+    "gn:longitude":9.52058,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sinkwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921983
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4396848d0a4f35e7ab8831d3d8d062aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1327461449,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1327461449,
+    "wof:lastmodified":1536637863,
+    "wof:name":"Sinkwan",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52058,
+    8.89229,
+    9.52058,
+    8.89229
+],
+  "geometry": {"coordinates":[9.52058,8.89229],"type":"Point"}
+}

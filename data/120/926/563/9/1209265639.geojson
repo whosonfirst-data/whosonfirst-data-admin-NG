@@ -1,0 +1,63 @@
+{
+  "id": 1209265639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.86878,11.39369,4.86878,11.39369",
+    "geom:latitude":11.39369,
+    "geom:longitude":4.86878,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50905",
+    "gn:asciiname":"Farin-Ruwa",
+    "gn:country_code":"NG",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020878,
+    "gn:latitude":11.39369,
+    "gn:longitude":4.86878,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Farin-Ruwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020878
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e357c2f943df0254126cc3e3421e715",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209265639
+        }
+    ],
+    "wof:id":1209265639,
+    "wof:lastmodified":1536292542,
+    "wof:name":"Farin-Ruwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.86878,
+    11.39369,
+    4.86878,
+    11.39369
+],
+  "geometry": {"coordinates":[4.86878,11.39369],"type":"Point"}
+}

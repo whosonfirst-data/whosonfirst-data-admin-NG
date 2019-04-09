@@ -1,0 +1,69 @@
+{
+  "id": 1310434975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.02281,12.80254,9.02281,12.80254",
+    "geom:latitude":12.80254,
+    "geom:longitude":9.02281,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0206",
+    "gn:asciiname":"Tailafia",
+    "gn:country_code":"NG",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322607,
+    "gn:latitude":12.80254,
+    "gn:longitude":9.02281,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tailafia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322607
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e2ac9f67e42c5f095b848dc4a3b53e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1310434975,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1310434975,
+    "wof:lastmodified":1537018092,
+    "wof:name":"Tailafia",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.02281,
+    12.80254,
+    9.02281,
+    12.80254
+],
+  "geometry": {"coordinates":[9.02281,12.80254],"type":"Point"}
+}

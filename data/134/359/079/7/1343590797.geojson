@@ -1,0 +1,71 @@
+{
+  "id": 1343590797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.90326,4.45886,6.90326,4.45886",
+    "geom:latitude":4.45886,
+    "geom:longitude":6.90326,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Erebio",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826109,
+    "gn:latitude":4.45886,
+    "gn:longitude":6.90326,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Erebio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erebia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826109
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c47301c4dc1680ee0978fcc6a3503b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563227,
+            "locality_id":1343590797,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343590797,
+    "wof:lastmodified":1537675405,
+    "wof:name":"Erebio",
+    "wof:parent_id":1108563227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.90326,
+    4.45886,
+    6.90326,
+    4.45886
+],
+  "geometry": {"coordinates":[6.90326,4.45886],"type":"Point"}
+}

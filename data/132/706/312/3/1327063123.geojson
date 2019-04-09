@@ -1,0 +1,68 @@
+{
+  "id": 1327063123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.42448,6.17937,7.42448,6.17937",
+    "geom:latitude":6.17937,
+    "geom:longitude":7.42448,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14002.0",
+    "gn:asciiname":"Amaowele",
+    "gn:country_code":"NG",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350192,
+    "gn:latitude":6.17937,
+    "gn:longitude":7.42448,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amaowele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350192
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ecdb6e807dcaec43ed054223ce97f777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563055,
+            "locality_id":1327063123,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1327063123,
+    "wof:lastmodified":1536716525,
+    "wof:name":"Amaowele",
+    "wof:parent_id":1108563055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.42448,
+    6.17937,
+    7.42448,
+    6.17937
+],
+  "geometry": {"coordinates":[7.42448,6.17937],"type":"Point"}
+}

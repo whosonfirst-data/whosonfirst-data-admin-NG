@@ -1,0 +1,73 @@
+{
+  "id": 1226286851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.37974,9.39772,12.37974,9.39772",
+    "geom:latitude":9.39772,
+    "geom:longitude":12.37974,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Kangli",
+    "gn:country_code":"NG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335246,
+    "gn:latitude":9.39772,
+    "gn:longitude":12.37974,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Kangli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kagalong",
+        "Kangali",
+        "Kangli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335246
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"626efde741557dcc37b14b3f438af651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563431,
+            "locality_id":1226286851,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226286851,
+    "wof:lastmodified":1537675153,
+    "wof:name":"Kangli",
+    "wof:parent_id":1108563431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.37974,
+    9.39772,
+    12.37974,
+    9.39772
+],
+  "geometry": {"coordinates":[12.37974,9.39772],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1108564195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000814,
+    "geom:area_square_m":10012624.088555,
+    "geom:bbox":"6.75596633973,6.12167136831,6.78766633973,6.15577136831",
+    "geom:latitude":6.137089,
+    "geom:longitude":6.772431,
+    "iso:country":"NG",
+    "lbl:latitude":6.138346,
+    "lbl:longitude":6.772733,
+    "meso:adm1_name":"Anambra",
+    "meso:diss_me":"Onitsha SouthAnambra",
+    "meso:gadm_admin":"Anambra East",
+    "meso:gaul_admin":"Onitshan",
+    "meso:hasc_id":"NG.AN.OS",
+    "meso:mps_x":6.772733,
+    "meso:mps_y":6.138346,
+    "meso:name_local":"Onitsha South",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":6.138346,
+    "mps:longitude":6.772733,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Onitsha South"
+    ],
+    "name:eng_x_variant":[
+        "Onitshan",
+        "Anambra East"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"10.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Fegge",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.AN",
+    "statoids:name":"Onitsha South",
+    "statoids:population":"136662",
+    "statoids:statoid":"NG.AN.OS",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.AN.OS"
+    },
+    "wof:country":"NG",
+    "wof:created":1474058008,
+    "wof:geomhash":"00770e7390d54d2c36dc2a9e3a46de1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564195,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1108564195,
+    "wof:lastmodified":1536615213,
+    "wof:name":"Onitsha South",
+    "wof:parent_id":85675375,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":136662,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"OS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75596633973258,
+    6.12167136831212,
+    6.78766633973257,
+    6.15577136831218
+],
+  "geometry": {"coordinates":[[[6.76476633973257,6.15577136831218],[6.76806633973258,6.15267136831211],[6.78106633973263,6.15177136831216],[6.78376633973264,6.14957136831212],[6.78766633973257,6.14267136831213],[6.78766633973257,6.13607136831218],[6.78766633973257,6.12697136831215],[6.78636633973265,6.12347136831211],[6.7789663397326,6.12387136831217],[6.77236633973265,6.12437136831215],[6.76406633973264,6.12167136831212],[6.75596633973258,6.12417136831212],[6.75796633973259,6.13527136831216],[6.76066633973262,6.14777136831213],[6.76476633973257,6.15577136831218]]],"type":"Polygon"}
+}

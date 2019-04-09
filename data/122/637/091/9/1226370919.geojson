@@ -1,0 +1,68 @@
+{
+  "id": 1226370919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26696,10.23242,6.26696,10.23242",
+    "geom:latitude":10.23242,
+    "geom:longitude":6.26696,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Gidan Maiganga",
+    "gn:country_code":"NG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999786,
+    "gn:latitude":10.23242,
+    "gn:longitude":6.26696,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Maiganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999786
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"de0ae01f08b7bae3963b2124fc76cfac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564291,
+            "locality_id":1226370919,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226370919,
+    "wof:lastmodified":1536753401,
+    "wof:name":"Gidan Maiganga",
+    "wof:parent_id":1108564291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26696,
+    10.23242,
+    6.26696,
+    10.23242
+],
+  "geometry": {"coordinates":[6.26696,10.23242],"type":"Point"}
+}

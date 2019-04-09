@@ -1,0 +1,68 @@
+{
+  "id": 1276918529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00216,6.42926,6.00216,6.42926",
+    "geom:latitude":6.42926,
+    "geom:longitude":6.00216,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12018",
+    "gn:asciiname":"Obanisi",
+    "gn:country_code":"NG",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10366867,
+    "gn:latitude":6.42926,
+    "gn:longitude":6.00216,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obanisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10366867
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d4f7d8f03d553786d0d9781f532e6b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564447,
+            "locality_id":1276918529,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1276918529,
+    "wof:lastmodified":1536988636,
+    "wof:name":"Obanisi",
+    "wof:parent_id":1108564447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00216,
+    6.42926,
+    6.00216,
+    6.42926
+],
+  "geometry": {"coordinates":[6.00216,6.42926],"type":"Point"}
+}

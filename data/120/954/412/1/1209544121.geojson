@@ -1,0 +1,62 @@
+{
+  "id": 1209544121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.22605,6.11607,8.22605,6.11607",
+    "geom:latitude":6.11607,
+    "geom:longitude":8.22605,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007",
+    "gn:asciiname":"Okpara",
+    "gn:country_code":"NG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274818,
+    "gn:latitude":6.11607,
+    "gn:longitude":8.22605,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274818
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"07aa4ad399174003f2b5a2d2dd214684",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544121
+        }
+    ],
+    "wof:id":1209544121,
+    "wof:lastmodified":1536283897,
+    "wof:name":"Okpara",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.22605,
+    6.11607,
+    8.22605,
+    6.11607
+],
+  "geometry": {"coordinates":[8.22605,6.11607],"type":"Point"}
+}

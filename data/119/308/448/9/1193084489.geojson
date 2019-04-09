@@ -1,0 +1,67 @@
+{
+  "id": 1193084489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.66982,10.18678,11.66982,10.18678",
+    "geom:latitude":10.18678,
+    "geom:longitude":11.66982,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Dahermo",
+    "gn:country_code":"NG",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345695,
+    "gn:latitude":10.18678,
+    "gn:longitude":11.66982,
+    "gn:modification_date":"2009-05-14",
+    "gn:name":"Dahermo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345695
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f72c8088b7d908d3a382969d83802343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563105,
+            "locality_id":1193084489,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1193084489,
+    "wof:lastmodified":1536377218,
+    "wof:name":"Dahermo",
+    "wof:parent_id":1108563105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.66982,
+    10.18678,
+    11.66982,
+    10.18678
+],
+  "geometry": {"coordinates":[11.66982,10.18678],"type":"Point"}
+}

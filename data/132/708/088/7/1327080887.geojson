@@ -1,0 +1,69 @@
+{
+  "id": 1327080887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.50223,12.55593,8.50223,12.55593",
+    "geom:latitude":12.55593,
+    "geom:longitude":8.50223,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20039.0",
+    "gn:admin3_code":"KN2904",
+    "gn:asciiname":"Kwuha",
+    "gn:country_code":"NG",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974410,
+    "gn:latitude":12.55593,
+    "gn:longitude":8.50223,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwuha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974410
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02d43b60aeee07a2b7dfa26038dce369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563931,
+            "locality_id":1327080887,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1327080887,
+    "wof:lastmodified":1536690746,
+    "wof:name":"Kwuha",
+    "wof:parent_id":1108563931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.50223,
+    12.55593,
+    8.50223,
+    12.55593
+],
+  "geometry": {"coordinates":[8.50223,12.55593],"type":"Point"}
+}

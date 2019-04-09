@@ -1,0 +1,72 @@
+{
+  "id": 1309743129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6301,9.36547,6.6301,9.36547",
+    "geom:latitude":9.36547,
+    "geom:longitude":6.6301,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Yida",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318085,
+    "gn:latitude":9.36547,
+    "gn:longitude":6.6301,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yidna",
+        "Yida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318085
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"36f0594bae5377b8706bf67369f8fd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1309743129,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1309743129,
+    "wof:lastmodified":1537674902,
+    "wof:name":"Yida",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6301,
+    9.36547,
+    6.6301,
+    9.36547
+],
+  "geometry": {"coordinates":[6.6301,9.36547],"type":"Point"}
+}

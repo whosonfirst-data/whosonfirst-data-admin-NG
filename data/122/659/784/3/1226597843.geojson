@@ -1,0 +1,68 @@
+{
+  "id": 1226597843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20874,10.02195,12.20874,10.02195",
+    "geom:latitude":10.02195,
+    "geom:longitude":12.20874,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2017.0",
+    "gn:asciiname":"Parapatu",
+    "gn:country_code":"NG",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836869,
+    "gn:latitude":10.02195,
+    "gn:longitude":12.20874,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Parapatu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836869
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02a1d47f5c27388c902781f4a9103db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564351,
+            "locality_id":1226597843,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226597843,
+    "wof:lastmodified":1536926991,
+    "wof:name":"Parapatu",
+    "wof:parent_id":1108564351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20874,
+    10.02195,
+    12.20874,
+    10.02195
+],
+  "geometry": {"coordinates":[12.20874,10.02195],"type":"Point"}
+}

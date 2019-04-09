@@ -1,0 +1,66 @@
+{
+  "id": 1209545119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9717,7.70402,5.9717,7.70402",
+    "geom:latitude":7.70402,
+    "geom:longitude":5.9717,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23009.0",
+    "gn:asciiname":"Ayere",
+    "gn:country_code":"NG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348658,
+    "gn:latitude":7.70402,
+    "gn:longitude":5.9717,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ayere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aiere",
+        "Ayere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348658
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"609e94a238a8d0cdcc83a9e7c05c02a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545119
+        }
+    ],
+    "wof:id":1209545119,
+    "wof:lastmodified":1537675348,
+    "wof:name":"Ayere",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9717,
+    7.70402,
+    5.9717,
+    7.70402
+],
+  "geometry": {"coordinates":[5.9717,7.70402],"type":"Point"}
+}

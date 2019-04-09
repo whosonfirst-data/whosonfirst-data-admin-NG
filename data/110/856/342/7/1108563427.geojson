@@ -1,0 +1,89 @@
+{
+  "id": 1108563427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.010259,
+    "geom:area_square_m":126439358.067516,
+    "geom:bbox":"7.23466633973,4.59757136831,7.34886633973,4.72927136831",
+    "geom:latitude":4.664309,
+    "geom:longitude":7.294419,
+    "iso:country":"NG",
+    "lbl:latitude":4.66718,
+    "lbl:longitude":7.293332,
+    "meso:adm1_name":"Rivers",
+    "meso:diss_me":"GokanaRivers",
+    "meso:gadm_admin":"Gokana",
+    "meso:gaul_admin":"Gokana",
+    "meso:hasc_id":"NG.RI.GO",
+    "meso:mps_x":7.293332,
+    "meso:mps_y":4.66718,
+    "meso:name_local":"Gokana",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":4.66718,
+    "mps:longitude":7.293332,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gokana"
+    ],
+    "name:eng_x_variant":[
+        "Gokana"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"126.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Kpor",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.RI",
+    "statoids:name":"Gokana",
+    "statoids:population":"228828",
+    "statoids:statoid":"NG.RI.GO",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.RI.GO"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057616,
+    "wof:geomhash":"db8665687d2445f87b0668ff8a63b579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563427,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1108563427,
+    "wof:lastmodified":1536615201,
+    "wof:name":"Gokana",
+    "wof:parent_id":85675317,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":228828,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"GO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23466633973261,
+    4.59757136831216,
+    7.34886633973259,
+    4.7292713683121
+],
+  "geometry": {"coordinates":[[[7.34466633973262,4.7292713683121],[7.34546633973265,4.71717136831218],[7.34716633973262,4.70507136831218],[7.34886633973259,4.69057136831211],[7.34786633973263,4.67797136831212],[7.34406633973263,4.66457136831211],[7.33886633973261,4.65477136831216],[7.33046633973259,4.64127136831214],[7.32856633973259,4.63107136831214],[7.32476633973259,4.61947136831211],[7.32056633973263,4.60877136831213],[7.31536633973261,4.59757136831216],[7.29466633973265,4.60057136831214],[7.28546633973261,4.6034713683121],[7.27586633973259,4.60637136831215],[7.26616633973257,4.61107136831218],[7.25296633973259,4.61767136831213],[7.24796633973261,4.62617136831216],[7.24076633973257,4.64187136831214],[7.24186633973264,4.66627136831217],[7.24836633973257,4.67697136831216],[7.25266633973264,4.68527136831216],[7.2453663397326,4.69377136831211],[7.23466633973261,4.70237136831216],[7.24686633973263,4.7076713683121],[7.25696633973262,4.71047136831213],[7.27446633973258,4.71167136831212],[7.28556633973262,4.71347136831211],[7.29526633973264,4.71387136831216],[7.30496633973258,4.71607136831212],[7.31696633973257,4.72017136831216],[7.32846633973258,4.72057136831212],[7.34466633973262,4.7292713683121]]],"type":"Polygon"}
+}

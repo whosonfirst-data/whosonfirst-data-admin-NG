@@ -1,0 +1,63 @@
+{
+  "id": 1209135409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.60218,13.06103,10.60218,13.06103",
+    "geom:latitude":13.06103,
+    "geom:longitude":10.60218,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717.0",
+    "gn:admin3_code":"71708",
+    "gn:asciiname":"Konkon",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334024,
+    "gn:latitude":13.06103,
+    "gn:longitude":10.60218,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Konkon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334024
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"71d767fb0984aaa52b386a64b3224cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209135409
+        }
+    ],
+    "wof:id":1209135409,
+    "wof:lastmodified":1536296676,
+    "wof:name":"Konkon",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.60218,
+    13.06103,
+    10.60218,
+    13.06103
+],
+  "geometry": {"coordinates":[10.60218,13.06103],"type":"Point"}
+}

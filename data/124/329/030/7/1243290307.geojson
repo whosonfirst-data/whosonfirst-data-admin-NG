@@ -1,0 +1,74 @@
+{
+  "id": 1243290307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.62288,11.66723,6.62288,11.66723",
+    "geom:latitude":11.66723,
+    "geom:longitude":6.62288,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80704",
+    "gn:asciiname":"Ungwan Mallam Sani",
+    "gn:country_code":"NG",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320190,
+    "gn:latitude":11.66723,
+    "gn:longitude":6.62288,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Mallam Sani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallam Sani",
+        "Unguwar Mallam Sani",
+        "Ungwan Mallam Sani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320190
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"534b883ec65b354e1b016215c0901e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563455,
+            "locality_id":1243290307,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1243290307,
+    "wof:lastmodified":1537674939,
+    "wof:name":"Ungwan Mallam Sani",
+    "wof:parent_id":1108563455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.62288,
+    11.66723,
+    6.62288,
+    11.66723
+],
+  "geometry": {"coordinates":[6.62288,11.66723],"type":"Point"}
+}

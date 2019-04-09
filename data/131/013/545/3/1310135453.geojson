@@ -1,0 +1,69 @@
+{
+  "id": 1310135453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.31204,13.28012,11.31204,13.28012",
+    "geom:latitude":13.28012,
+    "geom:longitude":11.31204,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717.0",
+    "gn:admin3_code":"71711",
+    "gn:asciiname":"Karagu",
+    "gn:country_code":"NG",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335115,
+    "gn:latitude":13.28012,
+    "gn:longitude":11.31204,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335115
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"efb9522ea6bceb58cd1404f308c20a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564547,
+            "locality_id":1310135453,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1310135453,
+    "wof:lastmodified":1536953525,
+    "wof:name":"Karagu",
+    "wof:parent_id":1108564547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.31204,
+    13.28012,
+    11.31204,
+    13.28012
+],
+  "geometry": {"coordinates":[11.31204,13.28012],"type":"Point"}
+}

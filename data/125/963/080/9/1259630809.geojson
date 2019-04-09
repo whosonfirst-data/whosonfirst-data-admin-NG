@@ -1,0 +1,72 @@
+{
+  "id": 1259630809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.04643,11.18466,13.04643,11.18466",
+    "geom:latitude":11.18466,
+    "geom:longitude":13.04643,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10702",
+    "gn:asciiname":"Goniri",
+    "gn:country_code":"NG",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340400,
+    "gn:latitude":11.18466,
+    "gn:longitude":13.04643,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Goniri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340400
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4611e227544953bec73651aeb86ec7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1259630809,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259630809,
+    "wof:lastmodified":1537675226,
+    "wof:name":"Goniri",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04643,
+    11.18466,
+    13.04643,
+    11.18466
+],
+  "geometry": {"coordinates":[13.04643,11.18466],"type":"Point"}
+}

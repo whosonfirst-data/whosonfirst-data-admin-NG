@@ -1,0 +1,68 @@
+{
+  "id": 1343589647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.88202,5.4412,7.88202,5.4412",
+    "geom:latitude":5.4412,
+    "geom:longitude":7.88202,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Uburu",
+    "gn:country_code":"NG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321011,
+    "gn:latitude":5.4412,
+    "gn:longitude":7.88202,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uburu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108563031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321011
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6baefd1616f3844e85e602c6c39758ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563031,
+            "locality_id":1343589647,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1343589647,
+    "wof:lastmodified":1537055050,
+    "wof:name":"Uburu",
+    "wof:parent_id":1108563031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.88202,
+    5.4412,
+    7.88202,
+    5.4412
+],
+  "geometry": {"coordinates":[7.88202,5.4412],"type":"Point"}
+}

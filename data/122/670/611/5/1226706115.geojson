@@ -1,0 +1,67 @@
+{
+  "id": 1226706115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.77275,11.39887,8.77275,11.39887",
+    "geom:latitude":11.39887,
+    "geom:longitude":8.77275,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Gacha",
+    "gn:country_code":"NG",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067112,
+    "gn:latitude":11.39887,
+    "gn:longitude":8.77275,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gacha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067112
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"12292409c2a7f928e424b4cdbd51a7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564427,
+            "locality_id":1226706115,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1226706115,
+    "wof:lastmodified":1536773461,
+    "wof:name":"Gacha",
+    "wof:parent_id":1108564427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.77275,
+    11.39887,
+    8.77275,
+    11.39887
+],
+  "geometry": {"coordinates":[8.77275,11.39887],"type":"Point"}
+}

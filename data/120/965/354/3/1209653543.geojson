@@ -1,0 +1,63 @@
+{
+  "id": 1209653543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.34959,12.37829,4.34959,12.37829",
+    "geom:latitude":12.37829,
+    "geom:longitude":4.34959,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"506.0",
+    "gn:admin3_code":"50616",
+    "gn:asciiname":"Bawada",
+    "gn:country_code":"NG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347440,
+    "gn:latitude":12.37829,
+    "gn:longitude":4.34959,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Bawada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347440
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ce1ff0653269778f5106f60fdb2c5634",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209653543
+        }
+    ],
+    "wof:id":1209653543,
+    "wof:lastmodified":1536280510,
+    "wof:name":"Bawada",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.34959,
+    12.37829,
+    4.34959,
+    12.37829
+],
+  "geometry": {"coordinates":[4.34959,12.37829],"type":"Point"}
+}

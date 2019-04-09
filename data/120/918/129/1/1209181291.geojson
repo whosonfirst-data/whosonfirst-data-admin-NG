@@ -1,0 +1,62 @@
+{
+  "id": 1209181291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48844,7.41023,8.48844,7.41023",
+    "geom:latitude":7.41023,
+    "geom:longitude":8.48844,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007",
+    "gn:asciiname":"Aganyam",
+    "gn:country_code":"NG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9267771,
+    "gn:latitude":7.41023,
+    "gn:longitude":8.48844,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aganyam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9267771
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf36a90dc6fed23a6b64c4a49fc05e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209181291
+        }
+    ],
+    "wof:id":1209181291,
+    "wof:lastmodified":1536295249,
+    "wof:name":"Aganyam",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.488439999999999,
+    7.41023,
+    8.488439999999999,
+    7.41023
+],
+  "geometry": {"coordinates":[8.48844,7.41023],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293442729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56527,6.41123,6.56527,6.41123",
+    "geom:latitude":6.41123,
+    "geom:longitude":6.56527,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10001.0",
+    "gn:asciiname":"Ezi",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342915,
+    "gn:latitude":6.41123,
+    "gn:longitude":6.56527,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ezi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342915
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f737fd04575c7dae935288331a1e6fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563011,
+            "locality_id":1293442729,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293442729,
+    "wof:lastmodified":1537675268,
+    "wof:name":"Ezi",
+    "wof:parent_id":1108563011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56527,
+    6.41123,
+    6.56527,
+    6.41123
+],
+  "geometry": {"coordinates":[6.56527,6.41123],"type":"Point"}
+}

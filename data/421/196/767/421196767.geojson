@@ -1,0 +1,82 @@
+{
+  "id": 421196767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.36766,12.08411,4.36766,12.08411",
+    "geom:latitude":12.08411,
+    "geom:longitude":4.36766,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Maiyama"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2331267,
+    "qs:gn_pop":10014,
+    "qs:name":"Maiyema",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Kebbi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1298036,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1399687,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331267,
+        "gp:id":1399687,
+        "qs:id":1298036
+    },
+    "wof:country":"NG",
+    "wof:created":1459009892,
+    "wof:geomhash":"2158ee77f256ee8d6f9116fce4ca7511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563719,
+            "locality_id":421196767,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":421196767,
+    "wof:lastmodified":1505340748,
+    "wof:name":"Maiyema",
+    "wof:parent_id":1108563719,
+    "wof:placetype":"locality",
+    "wof:population":10014,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.36766,
+    12.08411,
+    4.36766,
+    12.08411
+],
+  "geometry": {"coordinates":[4.36766,12.08411],"type":"Point"}
+}

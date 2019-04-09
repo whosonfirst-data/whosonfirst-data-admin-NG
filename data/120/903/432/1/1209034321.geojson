@@ -1,0 +1,63 @@
+{
+  "id": 1209034321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.80244,11.49404,9.80244,11.49404",
+    "geom:latitude":11.49404,
+    "geom:longitude":9.80244,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5016.0",
+    "gn:admin3_code":"BA1601",
+    "gn:asciiname":"Dindibus",
+    "gn:country_code":"NG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344806,
+    "gn:latitude":11.49404,
+    "gn:longitude":9.80244,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dindibus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344806
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca7c325dcd38c29a54d55a1fdc77a8ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209034321
+        }
+    ],
+    "wof:id":1209034321,
+    "wof:lastmodified":1536299751,
+    "wof:name":"Dindibus",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.80244,
+    11.49404,
+    9.80244,
+    11.49404
+],
+  "geometry": {"coordinates":[9.80244,11.49404],"type":"Point"}
+}

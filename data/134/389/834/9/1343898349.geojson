@@ -1,0 +1,68 @@
+{
+  "id": 1343898349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.33081,10.17743,12.33081,10.17743",
+    "geom:latitude":10.17743,
+    "geom:longitude":12.33081,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Bugila",
+    "gn:country_code":"NG",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346618,
+    "gn:latitude":10.17743,
+    "gn:longitude":12.33081,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bugila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346618
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e0692382a7a24690ab95ebdce5e4e8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1343898349,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343898349,
+    "wof:lastmodified":1536609183,
+    "wof:name":"Bugila",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.33081,
+    10.17743,
+    12.33081,
+    10.17743
+],
+  "geometry": {"coordinates":[12.33081,10.17743],"type":"Point"}
+}

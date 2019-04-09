@@ -1,0 +1,68 @@
+{
+  "id": 1276208429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.91667,7.35,2.91667,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":2.91667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28004.0",
+    "gn:asciiname":"Opete",
+    "gn:country_code":"NG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325907,
+    "gn:latitude":7.35,
+    "gn:longitude":2.91667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Opete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325907
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ef091523a11fd14c893e771b10c18f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563269,
+            "locality_id":1276208429,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1276208429,
+    "wof:lastmodified":1536946841,
+    "wof:name":"Opete",
+    "wof:parent_id":1108563269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.91667,
+    7.35,
+    2.91667,
+    7.35
+],
+  "geometry": {"coordinates":[2.91667,7.35],"type":"Point"}
+}

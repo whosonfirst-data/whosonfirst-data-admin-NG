@@ -1,0 +1,62 @@
+{
+  "id": 1209134299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95618,9.47935,5.95618,9.47935",
+    "geom:latitude":9.47935,
+    "geom:longitude":5.95618,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Kagowosi",
+    "gn:country_code":"NG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308334,
+    "gn:latitude":9.47935,
+    "gn:longitude":5.95618,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kagowosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308334
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c33725c9ff67cb61b70e7ade19b6eb28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134299
+        }
+    ],
+    "wof:id":1209134299,
+    "wof:lastmodified":1536296711,
+    "wof:name":"Kagowosi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.956180000000002,
+    9.47935,
+    5.956180000000002,
+    9.47935
+],
+  "geometry": {"coordinates":[5.95618,9.47935],"type":"Point"}
+}

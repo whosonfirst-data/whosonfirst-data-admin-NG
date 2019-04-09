@@ -1,0 +1,68 @@
+{
+  "id": 1260263221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45,9.18333,7.45,9.18333",
+    "geom:latitude":9.18333,
+    "geom:longitude":7.45,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15002.0",
+    "gn:asciiname":"Pewi",
+    "gn:country_code":"NG",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324876,
+    "gn:latitude":9.18333,
+    "gn:longitude":7.45,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pewi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324876
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d50d0f1bf33cfdb297db20e003127636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1260263221,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1260263221,
+    "wof:lastmodified":1536739046,
+    "wof:name":"Pewi",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45,
+    9.18333,
+    7.45,
+    9.18333
+],
+  "geometry": {"coordinates":[7.45,9.18333],"type":"Point"}
+}

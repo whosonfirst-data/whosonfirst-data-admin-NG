@@ -1,0 +1,72 @@
+{
+  "id": 1310064107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91676,6.48642,8.91676,6.48642",
+    "geom:latitude":6.48642,
+    "geom:longitude":8.91676,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9007.0",
+    "gn:asciiname":"Onya",
+    "gn:country_code":"NG",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325952,
+    "gn:latitude":6.48642,
+    "gn:longitude":8.91676,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onyo",
+        "Onya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325952
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dc12aa70731f03692403a14d26644702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563141,
+            "locality_id":1310064107,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1310064107,
+    "wof:lastmodified":1537675024,
+    "wof:name":"Onya",
+    "wof:parent_id":1108563141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91676,
+    6.48642,
+    8.91676,
+    6.48642
+],
+  "geometry": {"coordinates":[8.91676,6.48642],"type":"Point"}
+}

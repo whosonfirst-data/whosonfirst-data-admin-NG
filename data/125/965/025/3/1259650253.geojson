@@ -1,0 +1,69 @@
+{
+  "id": 1259650253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.74606,10.84222,11.74606,10.84222",
+    "geom:latitude":10.84222,
+    "geom:longitude":11.74606,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10505",
+    "gn:asciiname":"Bappa",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347763,
+    "gn:latitude":10.84222,
+    "gn:longitude":11.74606,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bappa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347763
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5062b01c06b8c2ed4cdcea80c481c39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563135,
+            "locality_id":1259650253,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259650253,
+    "wof:lastmodified":1536616329,
+    "wof:name":"Bappa",
+    "wof:parent_id":1108563135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.74606,
+    10.84222,
+    11.74606,
+    10.84222
+],
+  "geometry": {"coordinates":[11.74606,10.84222],"type":"Point"}
+}

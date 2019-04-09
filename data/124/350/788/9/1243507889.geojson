@@ -1,0 +1,70 @@
+{
+  "id": 1243507889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8875,9.05844,11.8875,9.05844",
+    "geom:latitude":9.05844,
+    "geom:longitude":11.8875,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kuma",
+    "gn:country_code":"NG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210506,
+    "gn:latitude":9.05844,
+    "gn:longitude":11.8875,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210506
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ec72bd7277e3640a0722e43e9dc2206c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1243507889,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243507889,
+    "wof:lastmodified":1537675508,
+    "wof:name":"Kuma",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8875,
+    9.05844,
+    11.8875,
+    9.05844
+],
+  "geometry": {"coordinates":[11.8875,9.05844],"type":"Point"}
+}

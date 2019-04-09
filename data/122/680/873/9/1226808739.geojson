@@ -1,0 +1,68 @@
+{
+  "id": 1226808739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.65,8.18333,3.65,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":3.65,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31017.0",
+    "gn:asciiname":"Sule",
+    "gn:country_code":"NG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322796,
+    "gn:latitude":8.18333,
+    "gn:longitude":3.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322796
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a26dea4e351035251bd735eee0d00148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563697,
+            "locality_id":1226808739,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1226808739,
+    "wof:lastmodified":1536623001,
+    "wof:name":"Sule",
+    "wof:parent_id":1108563697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.65,
+    8.18333,
+    3.65,
+    8.18333
+],
+  "geometry": {"coordinates":[3.65,8.18333],"type":"Point"}
+}

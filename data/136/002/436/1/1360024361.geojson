@@ -1,0 +1,74 @@
+{
+  "id": 1360024361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.59066,6.35753,6.59066,6.35753",
+    "geom:latitude":6.35753,
+    "geom:longitude":6.59066,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Akwukwu-Igbo",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2350785,
+    "gn:latitude":6.35753,
+    "gn:longitude":6.59066,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akwukwu-Igbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akwukwu-Igbo"
+    ],
+    "name:eng_x_variant":[
+        "Akwukwu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350785
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8b50c50042554892a8046221859e85a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564231,
+            "locality_id":1360024361,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1360024361,
+    "wof:lastmodified":1537675372,
+    "wof:name":"Akwukwu-Igbo",
+    "wof:parent_id":1108564231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.59066,
+    6.35753,
+    6.59066,
+    6.35753
+],
+  "geometry": {"coordinates":[6.59066,6.35753],"type":"Point"}
+}

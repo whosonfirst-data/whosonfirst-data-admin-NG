@@ -1,0 +1,71 @@
+{
+  "id": 1276472279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82621,10.14006,10.82621,10.14006",
+    "geom:latitude":10.14006,
+    "geom:longitude":10.82621,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16001.0",
+    "gn:asciiname":"Kolmani Musari",
+    "gn:country_code":"NG",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334101,
+    "gn:latitude":10.14006,
+    "gn:longitude":10.82621,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kolmani Musari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kolmani Musari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334101
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8f87e0292eec51a87e6a3f62080cbf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1276472279,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1276472279,
+    "wof:lastmodified":1537675136,
+    "wof:name":"Kolmani Musari",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82621,
+    10.14006,
+    10.82621,
+    10.14006
+],
+  "geometry": {"coordinates":[10.82621,10.14006],"type":"Point"}
+}

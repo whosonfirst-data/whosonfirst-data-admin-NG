@@ -1,0 +1,90 @@
+{
+  "id": 421167633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.66557,6.91002,3.66557,6.91002",
+    "geom:latitude":6.91002,
+    "geom:longitude":3.66557,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Iperu"
+    ],
+    "name:fra_x_preferred":[
+        "Iper\u00fa"
+    ],
+    "name:spa_x_preferred":[
+        "Iper\u00fa"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2337379,
+    "qs:gn_pop":15935,
+    "qs:name":"Iperu",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Ogun",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":139671,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1395216,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":626,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337379,
+        "gp:id":1395216,
+        "qs:id":139671,
+        "wd:id":"Q6064998"
+    },
+    "wof:country":"NG",
+    "wof:created":1459008738,
+    "wof:geomhash":"7a88241293ab7fbd51ba19a5d428666b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563593,
+            "locality_id":421167633,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":421167633,
+    "wof:lastmodified":1527716155,
+    "wof:name":"Iperu",
+    "wof:parent_id":1108563593,
+    "wof:placetype":"locality",
+    "wof:population":15935,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.66557,
+    6.91002,
+    3.66557,
+    6.91002
+],
+  "geometry": {"coordinates":[3.66557,6.91002],"type":"Point"}
+}

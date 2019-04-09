@@ -1,0 +1,62 @@
+{
+  "id": 1209679723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6685,5.1603,7.6685,5.1603",
+    "geom:latitude":5.1603,
+    "geom:longitude":7.6685,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3014.0",
+    "gn:asciiname":"Abiakpo",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074351,
+    "gn:latitude":5.1603,
+    "gn:longitude":7.6685,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abiakpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074351
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c901244cb466b724c2af565dae412c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209679723
+        }
+    ],
+    "wof:id":1209679723,
+    "wof:lastmodified":1536279620,
+    "wof:name":"Abiakpo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6685,
+    5.1603,
+    7.6685,
+    5.1603
+],
+  "geometry": {"coordinates":[7.6685,5.1603],"type":"Point"}
+}

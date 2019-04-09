@@ -1,0 +1,68 @@
+{
+  "id": 1293738295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48078,7.06681,8.48078,7.06681",
+    "geom:latitude":7.06681,
+    "geom:longitude":8.48078,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010",
+    "gn:asciiname":"Inderkyar",
+    "gn:country_code":"NG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9269295,
+    "gn:latitude":7.06681,
+    "gn:longitude":8.48078,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Inderkyar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9269295
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f65f25890988b908924a54070c7ed7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1293738295,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293738295,
+    "wof:lastmodified":1536923464,
+    "wof:name":"Inderkyar",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48078,
+    7.06681,
+    8.48078,
+    7.06681
+],
+  "geometry": {"coordinates":[8.48078,7.06681],"type":"Point"}
+}

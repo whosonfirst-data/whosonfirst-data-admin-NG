@@ -1,0 +1,68 @@
+{
+  "id": 1242717043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31611,5.37774,6.31611,5.37774",
+    "geom:latitude":5.37774,
+    "geom:longitude":6.31611,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10010.0",
+    "gn:asciiname":"Edherie",
+    "gn:country_code":"NG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100165,
+    "gn:latitude":5.37774,
+    "gn:longitude":6.31611,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Edherie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100165
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6e42f82da06105073a2f050adfbb1c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563689,
+            "locality_id":1242717043,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1242717043,
+    "wof:lastmodified":1536861498,
+    "wof:name":"Edherie",
+    "wof:parent_id":1108563689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31611,
+    5.37774,
+    6.31611,
+    5.37774
+],
+  "geometry": {"coordinates":[6.31611,5.37774],"type":"Point"}
+}

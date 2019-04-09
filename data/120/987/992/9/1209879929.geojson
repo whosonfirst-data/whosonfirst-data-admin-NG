@@ -1,0 +1,68 @@
+{
+  "id": 1209879929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97035,6.80866,3.97035,6.80866",
+    "geom:latitude":6.80866,
+    "geom:longitude":3.97035,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28011.0",
+    "gn:asciiname":"Isade",
+    "gn:country_code":"NG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826410,
+    "gn:latitude":6.80866,
+    "gn:longitude":3.97035,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826410
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7b2d2693017a2365a8c6493d7575e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563575,
+            "locality_id":1209879929,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1209879929,
+    "wof:lastmodified":1536395514,
+    "wof:name":"Isade",
+    "wof:parent_id":1108563575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97035,
+    6.80866,
+    3.97035,
+    6.80866
+],
+  "geometry": {"coordinates":[3.97035,6.80866],"type":"Point"}
+}

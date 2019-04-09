@@ -1,0 +1,68 @@
+{
+  "id": 1226752123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96667,6.43333,2.96667,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":2.96667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25006.0",
+    "gn:asciiname":"Ilado",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337790,
+    "gn:latitude":6.43333,
+    "gn:longitude":2.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ilado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421183285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337790
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1ff212166e80ecc3af44ac1aaf297830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183285,
+            "locality_id":1226752123,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1226752123,
+    "wof:lastmodified":1536706568,
+    "wof:name":"Ilado",
+    "wof:parent_id":421183285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96667,
+    6.43333,
+    2.96667,
+    6.43333
+],
+  "geometry": {"coordinates":[2.96667,6.43333],"type":"Point"}
+}

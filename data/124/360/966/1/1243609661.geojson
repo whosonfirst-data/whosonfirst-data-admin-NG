@@ -1,0 +1,69 @@
+{
+  "id": 1243609661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.38418,11.71874,7.38418,11.71874",
+    "geom:latitude":11.71874,
+    "geom:longitude":7.38418,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40109",
+    "gn:asciiname":"Bawa",
+    "gn:country_code":"NG",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019194,
+    "gn:latitude":11.71874,
+    "gn:longitude":7.38418,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019194
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7acd67bb5c2a3deaa921aaae50d7071c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563077,
+            "locality_id":1243609661,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1243609661,
+    "wof:lastmodified":1537064559,
+    "wof:name":"Bawa",
+    "wof:parent_id":1108563077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.38418,
+    11.71874,
+    7.38418,
+    11.71874
+],
+  "geometry": {"coordinates":[7.38418,11.71874],"type":"Point"}
+}

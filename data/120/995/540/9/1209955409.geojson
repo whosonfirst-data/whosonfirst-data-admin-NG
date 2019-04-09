@@ -1,0 +1,71 @@
+{
+  "id": 1209955409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26783,6.87073,6.26783,6.87073",
+    "geom:latitude":6.87073,
+    "geom:longitude":6.26783,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12009",
+    "gn:asciiname":"Egho Two",
+    "gn:country_code":"NG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636380,
+    "gn:latitude":6.87073,
+    "gn:longitude":6.26783,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egho Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Egho II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636380
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb5dd6d46ae607451981d308ef94fdf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563347,
+            "locality_id":1209955409,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1209955409,
+    "wof:lastmodified":1537675471,
+    "wof:name":"Egho Two",
+    "wof:parent_id":1108563347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26783,
+    6.87073,
+    6.26783,
+    6.87073
+],
+  "geometry": {"coordinates":[6.26783,6.87073],"type":"Point"}
+}

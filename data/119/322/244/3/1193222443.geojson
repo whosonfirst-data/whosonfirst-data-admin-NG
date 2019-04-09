@@ -1,0 +1,68 @@
+{
+  "id": 1193222443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.34478,10.14236,12.34478,10.14236",
+    "geom:latitude":10.14236,
+    "geom:longitude":12.34478,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Chonita",
+    "gn:country_code":"NG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345946,
+    "gn:latitude":10.14236,
+    "gn:longitude":12.34478,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chonita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345946
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cbe03e81e0aeaed36a2fc364e4c2cfaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1193222443,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193222443,
+    "wof:lastmodified":1536374069,
+    "wof:name":"Chonita",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.34478,
+    10.14236,
+    12.34478,
+    10.14236
+],
+  "geometry": {"coordinates":[12.34478,10.14236],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209347439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78777,4.74676,6.78777,4.74676",
+    "geom:latitude":4.74676,
+    "geom:longitude":6.78777,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Eferebokiri",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826241,
+    "gn:latitude":4.74676,
+    "gn:longitude":6.78777,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eferebokiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826241
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b25c8496f50c408defb39deaab49e390",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347439
+        }
+    ],
+    "wof:id":1209347439,
+    "wof:lastmodified":1536289865,
+    "wof:name":"Eferebokiri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78777,
+    4.74676,
+    6.78777,
+    4.74676
+],
+  "geometry": {"coordinates":[6.78777,4.74676],"type":"Point"}
+}

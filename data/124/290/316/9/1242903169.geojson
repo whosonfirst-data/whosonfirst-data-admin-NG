@@ -1,0 +1,72 @@
+{
+  "id": 1242903169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9045,5.98188,4.9045,5.98188",
+    "geom:latitude":5.98188,
+    "geom:longitude":4.9045,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Obe",
+    "gn:country_code":"NG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328225,
+    "gn:latitude":5.98188,
+    "gn:longitude":4.9045,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obo",
+        "Obe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328225
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2528a921442f5f368a23541e1d8dfbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1242903169,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1242903169,
+    "wof:lastmodified":1537675063,
+    "wof:name":"Obe",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9045,
+    5.98188,
+    4.9045,
+    5.98188
+],
+  "geometry": {"coordinates":[4.9045,5.98188],"type":"Point"}
+}

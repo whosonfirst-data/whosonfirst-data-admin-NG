@@ -1,0 +1,68 @@
+{
+  "id": 1243307963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.30645,10.22828,13.30645,10.22828",
+    "geom:latitude":10.22828,
+    "geom:longitude":13.30645,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Kidda",
+    "gn:country_code":"NG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760232,
+    "gn:latitude":10.22828,
+    "gn:longitude":13.30645,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kidda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760232
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b9428fb0da05f4afaf26f19f680b6642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1243307963,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243307963,
+    "wof:lastmodified":1537004508,
+    "wof:name":"Kidda",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.30645,
+    10.22828,
+    13.30645,
+    10.22828
+],
+  "geometry": {"coordinates":[13.30645,10.22828],"type":"Point"}
+}

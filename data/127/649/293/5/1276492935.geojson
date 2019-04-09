@@ -1,0 +1,68 @@
+{
+  "id": 1276492935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.98796,5.61366,6.98796,5.61366",
+    "geom:latitude":5.61366,
+    "geom:longitude":6.98796,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17011.0",
+    "gn:asciiname":"Orieama",
+    "gn:country_code":"NG",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098632,
+    "gn:latitude":5.61366,
+    "gn:longitude":6.98796,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orieama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098632
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b22b522741105eb50d5fc3ed2b678706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563965,
+            "locality_id":1276492935,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1276492935,
+    "wof:lastmodified":1537059579,
+    "wof:name":"Orieama",
+    "wof:parent_id":1108563965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.98796,
+    5.61366,
+    6.98796,
+    5.61366
+],
+  "geometry": {"coordinates":[6.98796,5.61366],"type":"Point"}
+}

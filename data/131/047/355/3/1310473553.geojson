@@ -1,0 +1,68 @@
+{
+  "id": 1310473553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.12158,6.83167,3.12158,6.83167",
+    "geom:latitude":6.83167,
+    "geom:longitude":3.12158,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28007.0",
+    "gn:asciiname":"Are-Ago",
+    "gn:country_code":"NG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826255,
+    "gn:latitude":6.83167,
+    "gn:longitude":3.12158,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Are-Ago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826255
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d6faf4edba05b91b254b12e1641f2130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563549,
+            "locality_id":1310473553,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1310473553,
+    "wof:lastmodified":1536962897,
+    "wof:name":"Are-Ago",
+    "wof:parent_id":1108563549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.12158,
+    6.83167,
+    3.12158,
+    6.83167
+],
+  "geometry": {"coordinates":[3.12158,6.83167],"type":"Point"}
+}

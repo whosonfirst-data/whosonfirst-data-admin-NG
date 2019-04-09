@@ -1,0 +1,62 @@
+{
+  "id": 1209138961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32076,6.80947,7.32076,6.80947",
+    "geom:latitude":6.80947,
+    "geom:longitude":7.32076,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14013.0",
+    "gn:asciiname":"Obimo",
+    "gn:country_code":"NG",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328254,
+    "gn:latitude":6.80947,
+    "gn:longitude":7.32076,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328254
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5821d88347884e4aef7499ff940e7e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138961
+        }
+    ],
+    "wof:id":1209138961,
+    "wof:lastmodified":1536296568,
+    "wof:name":"Obimo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.320760000000001,
+    6.80947,
+    7.320760000000001,
+    6.80947
+],
+  "geometry": {"coordinates":[7.32076,6.80947],"type":"Point"}
+}

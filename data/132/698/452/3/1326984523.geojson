@@ -1,0 +1,68 @@
+{
+  "id": 1326984523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.20082,7.20375,9.20082,7.20375",
+    "geom:latitude":7.20375,
+    "geom:longitude":9.20082,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Adamgbe",
+    "gn:country_code":"NG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638373,
+    "gn:latitude":7.20375,
+    "gn:longitude":9.20082,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adamgbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638373
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fea2137a7bb048edce3fcaf17baf58f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1326984523,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326984523,
+    "wof:lastmodified":1536828702,
+    "wof:name":"Adamgbe",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.20082,
+    7.20375,
+    9.20082,
+    7.20375
+],
+  "geometry": {"coordinates":[9.20082,7.20375],"type":"Point"}
+}

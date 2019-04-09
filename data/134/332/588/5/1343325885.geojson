@@ -1,0 +1,68 @@
+{
+  "id": 1343325885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.62943,4.70619,7.62943,4.70619",
+    "geom:latitude":4.70619,
+    "geom:longitude":7.62943,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3026.0",
+    "gn:asciiname":"Ikot Adiaha",
+    "gn:country_code":"NG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338207,
+    "gn:latitude":4.70619,
+    "gn:longitude":7.62943,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Adiaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338207
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf74e35091db04293f6d88595a3cb93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564221,
+            "locality_id":1343325885,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1343325885,
+    "wof:lastmodified":1536941245,
+    "wof:name":"Ikot Adiaha",
+    "wof:parent_id":1108564221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.62943,
+    4.70619,
+    7.62943,
+    4.70619
+],
+  "geometry": {"coordinates":[7.62943,4.70619],"type":"Point"}
+}

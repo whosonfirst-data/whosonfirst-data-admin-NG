@@ -1,0 +1,65 @@
+{
+  "id": 1209167693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16037,9.02803,12.16037,9.02803",
+    "geom:latitude":9.02803,
+    "geom:longitude":12.16037,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Liringo",
+    "gn:country_code":"NG",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331990,
+    "gn:latitude":9.02803,
+    "gn:longitude":12.16037,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Liringo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Liringo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331990
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"88979e89cf637d5ed061b142c375cf3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209167693
+        }
+    ],
+    "wof:id":1209167693,
+    "wof:lastmodified":1537675114,
+    "wof:name":"Liringo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16037,
+    9.02803,
+    12.16037,
+    9.02803
+],
+  "geometry": {"coordinates":[12.16037,9.02803],"type":"Point"}
+}

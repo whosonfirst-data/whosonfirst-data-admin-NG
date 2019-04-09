@@ -1,0 +1,61 @@
+{
+  "id": 1209072845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.32254,10.64015,13.32254,10.64015",
+    "geom:latitude":10.64015,
+    "geom:longitude":13.32254,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kuda",
+    "gn:country_code":"NG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760491,
+    "gn:latitude":10.64015,
+    "gn:longitude":13.32254,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Kuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760491
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bbae90018cf206e685ada57eb25e10bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209072845
+        }
+    ],
+    "wof:id":1209072845,
+    "wof:lastmodified":1536298591,
+    "wof:name":"Kuda",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.32254,
+    10.64015,
+    13.32254,
+    10.64015
+],
+  "geometry": {"coordinates":[13.32254,10.64015],"type":"Point"}
+}

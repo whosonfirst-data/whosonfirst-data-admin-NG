@@ -1,0 +1,71 @@
+{
+  "id": 1343911305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47954,10.84652,13.47954,10.84652",
+    "geom:latitude":10.84652,
+    "geom:longitude":13.47954,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2010",
+    "gn:asciiname":"Wurgoo",
+    "gn:country_code":"NG",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8721985,
+    "gn:latitude":10.84652,
+    "gn:longitude":13.47954,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wurgoo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wurgoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        421185431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8721985
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"938951c7094d457186164073831487ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421185431,
+            "locality_id":1343911305,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343911305,
+    "wof:lastmodified":1537675458,
+    "wof:name":"Wurgoo",
+    "wof:parent_id":421185431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47954,
+    10.84652,
+    13.47954,
+    10.84652
+],
+  "geometry": {"coordinates":[13.47954,10.84652],"type":"Point"}
+}

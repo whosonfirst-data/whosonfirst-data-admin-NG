@@ -1,0 +1,68 @@
+{
+  "id": 1226390099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.312,7.27391,9.312,7.27391",
+    "geom:latitude":7.27391,
+    "geom:longitude":9.312,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Uka",
+    "gn:country_code":"NG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9636845,
+    "gn:latitude":7.27391,
+    "gn:longitude":9.312,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9636845
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"88e482a9f5a007926dd6a2f163f8ef6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1226390099,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226390099,
+    "wof:lastmodified":1536726104,
+    "wof:name":"Uka",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.312,
+    7.27391,
+    9.312,
+    7.27391
+],
+  "geometry": {"coordinates":[9.312,7.27391],"type":"Point"}
+}

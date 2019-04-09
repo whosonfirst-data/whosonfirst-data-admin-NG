@@ -1,0 +1,73 @@
+{
+  "id": 1326763535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31667,7.83333,4.31667,7.83333",
+    "geom:latitude":7.83333,
+    "geom:longitude":4.31667,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30010.0",
+    "gn:asciiname":"Ijimoba",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338377,
+    "gn:latitude":7.83333,
+    "gn:longitude":4.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ijimoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ijimaba",
+        "Ijimoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108563283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338377
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fce9449d5b621ad03f246fba64231f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563283,
+            "locality_id":1326763535,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1326763535,
+    "wof:lastmodified":1537675198,
+    "wof:name":"Ijimoba",
+    "wof:parent_id":1108563283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31667,
+    7.83333,
+    4.31667,
+    7.83333
+],
+  "geometry": {"coordinates":[4.31667,7.83333],"type":"Point"}
+}

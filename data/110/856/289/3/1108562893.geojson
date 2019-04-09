@@ -1,0 +1,90 @@
+{
+  "id": 1108562893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001858,
+    "geom:area_square_m":22880313.578673,
+    "geom:bbox":"7.32016633973,5.06017136831,7.40266633973,5.13457136831",
+    "geom:latitude":5.106895,
+    "geom:longitude":7.37164,
+    "iso:country":"NG",
+    "lbl:latitude":5.118741,
+    "lbl:longitude":7.354453,
+    "meso:adm1_name":"Abia",
+    "meso:diss_me":"Aba NorthAbia",
+    "meso:gadm_admin":"Aba North",
+    "meso:gaul_admin":"Aba",
+    "meso:hasc_id":"NG.AB.AN",
+    "meso:mps_x":7.354453,
+    "meso:mps_y":5.118741,
+    "meso:name_local":"Aba North",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":5.118741,
+    "mps:longitude":7.354453,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Aba North"
+    ],
+    "name:eng_x_variant":[
+        "Aba",
+        "Aba North"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"23.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Eziama",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.AB",
+    "statoids:name":"Aba North",
+    "statoids:population":"107488",
+    "statoids:statoid":"NG.AB.AN",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.AB.AN"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057344,
+    "wof:geomhash":"44e2b182fc6a894f80b59fdfb18ec5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562893,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1108562893,
+    "wof:lastmodified":1536615192,
+    "wof:name":"Aba North",
+    "wof:parent_id":85675305,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":107488,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"AN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32016633973257,
+    5.06017136831216,
+    7.40266633973265,
+    5.13457136831217
+],
+  "geometry": {"coordinates":[[[7.36526633973257,5.1340713683121],[7.36966633973256,5.13457136831217],[7.38216633973262,5.13357136831212],[7.38846633973262,5.12697136831218],[7.39246633973264,5.12127136831218],[7.39776633973258,5.1130713683121],[7.40166633973259,5.10477136831218],[7.4023663397326,5.09817136831215],[7.40266633973265,5.08857136831214],[7.40036633973259,5.07897136831213],[7.39806633973262,5.07067136831212],[7.39246633973264,5.06277136831217],[7.38526633973261,5.06017136831216],[7.38546633973264,5.0647713683121],[7.38616633973265,5.0736713683121],[7.38746633973256,5.0819713683121],[7.38746633973256,5.0895713683121],[7.3864663397326,5.09917136831211],[7.38486633973265,5.11077136831213],[7.38256633973259,5.11537136831215],[7.37686633973259,5.11897136831212],[7.3692663397326,5.12027136831213],[7.36306633973262,5.11637136831212],[7.35636633973257,5.11077136831213],[7.34916633973263,5.10377136831213],[7.34446633973259,5.10047136831211],[7.33456633973263,5.09917136831211],[7.3279663397326,5.09947136831215],[7.32016633973257,5.10297136831211],[7.3324663397326,5.11467136831214],[7.3432663397326,5.12107136831215],[7.35106633973262,5.12547136831214],[7.35696633973265,5.1308713683121],[7.36156633973258,5.13227136831212],[7.36526633973257,5.1340713683121]]],"type":"Polygon"}
+}

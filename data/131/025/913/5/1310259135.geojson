@@ -1,0 +1,72 @@
+{
+  "id": 1310259135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53468,7.99876,8.53468,7.99876",
+    "geom:latitude":7.99876,
+    "geom:longitude":8.53468,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7006.0",
+    "gn:asciiname":"Madaiki",
+    "gn:country_code":"NG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331706,
+    "gn:latitude":7.99876,
+    "gn:longitude":8.53468,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Madaiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madaki",
+        "Madaiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331706
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3812c8400f7003977cc6d0d2ca3fb801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563445,
+            "locality_id":1310259135,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1310259135,
+    "wof:lastmodified":1537675111,
+    "wof:name":"Madaiki",
+    "wof:parent_id":1108563445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53468,
+    7.99876,
+    8.53468,
+    7.99876
+],
+  "geometry": {"coordinates":[8.53468,7.99876],"type":"Point"}
+}

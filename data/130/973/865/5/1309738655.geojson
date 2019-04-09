@@ -1,0 +1,67 @@
+{
+  "id": 1309738655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.53058,13.1052,6.53058,13.1052",
+    "geom:latitude":13.1052,
+    "geom:longitude":6.53058,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Kamarawa",
+    "gn:country_code":"NG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335342,
+    "gn:latitude":13.1052,
+    "gn:longitude":6.53058,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Kamarawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335342
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc8fdbf66f590b14503621ae58a889cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563663,
+            "locality_id":1309738655,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1309738655,
+    "wof:lastmodified":1537026825,
+    "wof:name":"Kamarawa",
+    "wof:parent_id":1108563663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.53058,
+    13.1052,
+    6.53058,
+    13.1052
+],
+  "geometry": {"coordinates":[6.53058,13.1052],"type":"Point"}
+}

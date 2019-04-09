@@ -1,0 +1,71 @@
+{
+  "id": 1226788045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90794,5.78559,5.90794,5.78559",
+    "geom:latitude":5.78559,
+    "geom:longitude":5.90794,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Agbarha",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027909,
+    "gn:latitude":5.78559,
+    "gn:longitude":5.90794,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Agbarha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Agbarha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027909
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2102a9781aa9d04dee29eb38ca6e1749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1226788045,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1226788045,
+    "wof:lastmodified":1537675420,
+    "wof:name":"Agbarha",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90794,
+    5.78559,
+    5.90794,
+    5.78559
+],
+  "geometry": {"coordinates":[5.90794,5.78559],"type":"Point"}
+}

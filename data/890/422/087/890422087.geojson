@@ -1,0 +1,68 @@
+{
+  "id": 890422087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91119,7.37834,7.91119,7.37834",
+    "geom:latitude":7.37834,
+    "geom:longitude":7.91119,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":12814,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Boju",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346896,
+        "gp:id":1387969,
+        "qs:id":139780,
+        "wk:page":"Boju"
+    },
+    "wof:country":"NG",
+    "wof:created":1469051427,
+    "wof:geomhash":"a6a8964e23896d820952ee06d2fd8608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564239,
+            "locality_id":890422087,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":890422087,
+    "wof:lastmodified":1527727163,
+    "wof:name":"Boju",
+    "wof:parent_id":1108564239,
+    "wof:placetype":"locality",
+    "wof:population":12814,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91119,
+    7.37834,
+    7.91119,
+    7.37834
+],
+  "geometry": {"coordinates":[7.91119,7.37834],"type":"Point"}
+}

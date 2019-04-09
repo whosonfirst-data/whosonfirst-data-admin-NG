@@ -1,0 +1,72 @@
+{
+  "id": 1243314505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33423,10.94532,13.33423,10.94532",
+    "geom:latitude":10.94532,
+    "geom:longitude":13.33423,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111",
+    "gn:admin3_code":"11102",
+    "gn:asciiname":"Gomulu",
+    "gn:country_code":"NG",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8721978,
+    "gn:latitude":10.94532,
+    "gn:longitude":13.33423,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gomulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gomulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8721978
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e14433f2cb444588ed2efa7ea6a4ba64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563479,
+            "locality_id":1243314505,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1243314505,
+    "wof:lastmodified":1537675458,
+    "wof:name":"Gomulu",
+    "wof:parent_id":1108563479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33423,
+    10.94532,
+    13.33423,
+    10.94532
+],
+  "geometry": {"coordinates":[13.33423,10.94532],"type":"Point"}
+}

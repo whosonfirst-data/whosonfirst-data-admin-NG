@@ -1,0 +1,74 @@
+{
+  "id": 1343909639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19964,6.68665,6.19964,6.68665",
+    "geom:latitude":6.68665,
+    "geom:longitude":6.19964,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12004.0",
+    "gn:asciiname":"Opoji",
+    "gn:country_code":"NG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325890,
+    "gn:latitude":6.68665,
+    "gn:longitude":6.19964,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Opoji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Opaji"
+    ],
+    "name:eng_x_variant":[
+        "Opoji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325890
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d712e72a2004c1b41d32138e03b4a33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563315,
+            "locality_id":1343909639,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343909639,
+    "wof:lastmodified":1537675023,
+    "wof:name":"Opoji",
+    "wof:parent_id":1108563315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19964,
+    6.68665,
+    6.19964,
+    6.68665
+],
+  "geometry": {"coordinates":[6.19964,6.68665],"type":"Point"}
+}

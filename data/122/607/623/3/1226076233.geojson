@@ -1,0 +1,72 @@
+{
+  "id": 1226076233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.87333,13.09939,10.87333,13.09939",
+    "geom:latitude":13.09939,
+    "geom:longitude":10.87333,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"710.0",
+    "gn:admin3_code":"71008",
+    "gn:asciiname":"Magamari",
+    "gn:country_code":"NG",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341586,
+    "gn:latitude":13.09939,
+    "gn:longitude":10.87333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Magamari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gawo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341586
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ea642c0ea3e9cb46daf8ca57b123f715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563779,
+            "locality_id":1226076233,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1226076233,
+    "wof:lastmodified":1537675253,
+    "wof:name":"Magamari",
+    "wof:parent_id":1108563779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.87333,
+    13.09939,
+    10.87333,
+    13.09939
+],
+  "geometry": {"coordinates":[10.87333,13.09939],"type":"Point"}
+}

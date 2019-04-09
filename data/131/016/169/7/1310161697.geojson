@@ -1,0 +1,67 @@
+{
+  "id": 1310161697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.73361,10.62679,8.73361,10.62679",
+    "geom:latitude":10.62679,
+    "geom:longitude":8.73361,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kagan Dama",
+    "gn:country_code":"NG",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335639,
+    "gn:latitude":10.62679,
+    "gn:longitude":8.73361,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Kagan Dama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335639
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a0e1921d72af919cab889b3d22bf25d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563235,
+            "locality_id":1310161697,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1310161697,
+    "wof:lastmodified":1536916110,
+    "wof:name":"Kagan Dama",
+    "wof:parent_id":1108563235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.73361,
+    10.62679,
+    8.73361,
+    10.62679
+],
+  "geometry": {"coordinates":[8.73361,10.62679],"type":"Point"}
+}

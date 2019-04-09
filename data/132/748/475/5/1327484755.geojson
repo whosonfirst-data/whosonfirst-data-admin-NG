@@ -1,0 +1,67 @@
+{
+  "id": 1327484755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.70503,10.27017,4.70503,10.27017",
+    "geom:latitude":10.27017,
+    "geom:longitude":4.70503,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Usaka",
+    "gn:country_code":"NG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319635,
+    "gn:latitude":10.27017,
+    "gn:longitude":4.70503,
+    "gn:modification_date":"2009-04-20",
+    "gn:name":"Usaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319635
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"903b0fa6ee2a532136af678276a35754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563915,
+            "locality_id":1327484755,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1327484755,
+    "wof:lastmodified":1536602071,
+    "wof:name":"Usaka",
+    "wof:parent_id":1108563915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.70503,
+    10.27017,
+    4.70503,
+    10.27017
+],
+  "geometry": {"coordinates":[4.70503,10.27017],"type":"Point"}
+}

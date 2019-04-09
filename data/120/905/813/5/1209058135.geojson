@@ -1,0 +1,62 @@
+{
+  "id": 1209058135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13475,6.71561,6.13475,6.71561",
+    "geom:latitude":6.71561,
+    "geom:longitude":6.13475,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006",
+    "gn:asciiname":"Ikiarolo",
+    "gn:country_code":"NG",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10645959,
+    "gn:latitude":6.71561,
+    "gn:longitude":6.13475,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikiarolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10645959
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"543eec8dfa1564d626306eaa53b2bba9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209058135
+        }
+    ],
+    "wof:id":1209058135,
+    "wof:lastmodified":1536299044,
+    "wof:name":"Ikiarolo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13475,
+    6.715610000000002,
+    6.13475,
+    6.715610000000002
+],
+  "geometry": {"coordinates":[6.13475,6.71561],"type":"Point"}
+}

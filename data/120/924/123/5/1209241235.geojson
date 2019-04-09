@@ -1,0 +1,62 @@
+{
+  "id": 1209241235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.11059,6.07295,8.11059,6.07295",
+    "geom:latitude":6.07295,
+    "geom:longitude":8.11059,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007",
+    "gn:asciiname":"Agubia",
+    "gn:country_code":"NG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274786,
+    "gn:latitude":6.07295,
+    "gn:longitude":8.11059,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agubia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274786
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a168d882d93e94be9dbdad42479cd89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241235
+        }
+    ],
+    "wof:id":1209241235,
+    "wof:lastmodified":1536293314,
+    "wof:name":"Agubia",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.11059,
+    6.07295,
+    8.11059,
+    6.07295
+],
+  "geometry": {"coordinates":[8.11059,6.07295],"type":"Point"}
+}

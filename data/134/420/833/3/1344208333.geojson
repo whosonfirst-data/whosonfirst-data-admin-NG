@@ -1,0 +1,69 @@
+{
+  "id": 1344208333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68066,12.58345,12.68066,12.58345",
+    "geom:latitude":12.58345,
+    "geom:longitude":12.68066,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"109.0",
+    "gn:admin3_code":"10907",
+    "gn:asciiname":"Ngetera",
+    "gn:country_code":"NG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329023,
+    "gn:latitude":12.58345,
+    "gn:longitude":12.68066,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngetera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329023
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d73033be364c7df8dfedd6a2dd8b5ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563437,
+            "locality_id":1344208333,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1344208333,
+    "wof:lastmodified":1536662376,
+    "wof:name":"Ngetera",
+    "wof:parent_id":1108563437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68066,
+    12.58345,
+    12.68066,
+    12.58345
+],
+  "geometry": {"coordinates":[12.68066,12.58345],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259737513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.29025,7.08874,8.29025,7.08874",
+    "geom:latitude":7.08874,
+    "geom:longitude":8.29025,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7014.0",
+    "gn:asciiname":"Ameka",
+    "gn:country_code":"NG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350112,
+    "gn:latitude":7.08874,
+    "gn:longitude":8.29025,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ameka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angmekka",
+        "Ameke",
+        "Ameka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350112
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a71dd9f5c69dd423c852d6def3e64b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564073,
+            "locality_id":1259737513,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259737513,
+    "wof:lastmodified":1537675365,
+    "wof:name":"Ameka",
+    "wof:parent_id":1108564073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.29025,
+    7.08874,
+    8.29025,
+    7.08874
+],
+  "geometry": {"coordinates":[8.29025,7.08874],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243004379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.51233,9.44762,6.51233,9.44762",
+    "geom:latitude":9.44762,
+    "geom:longitude":6.51233,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Tsalorma",
+    "gn:country_code":"NG",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321882,
+    "gn:latitude":9.44762,
+    "gn:longitude":6.51233,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsalorma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serepma",
+        "Tsalorma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321882
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"99d7d8ac6f90da817c592e63fcc66f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1243004379,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243004379,
+    "wof:lastmodified":1537674971,
+    "wof:name":"Tsalorma",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.51233,
+    9.44762,
+    6.51233,
+    9.44762
+],
+  "geometry": {"coordinates":[6.51233,9.44762],"type":"Point"}
+}

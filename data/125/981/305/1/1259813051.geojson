@@ -1,0 +1,72 @@
+{
+  "id": 1259813051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3831,7.81678,5.3831,7.81678",
+    "geom:latitude":7.81678,
+    "geom:longitude":5.3831,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13016.0",
+    "gn:asciiname":"Itapa-Ekiti",
+    "gn:country_code":"NG",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337051,
+    "gn:latitude":7.81678,
+    "gn:longitude":5.3831,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Itapa-Ekiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Itapa",
+        "Itapa-Ekiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108564259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337051
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"baace32e27958abf5444d746f1d41f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564259,
+            "locality_id":1259813051,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1259813051,
+    "wof:lastmodified":1537675176,
+    "wof:name":"Itapa-Ekiti",
+    "wof:parent_id":1108564259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3831,
+    7.81678,
+    5.3831,
+    7.81678
+],
+  "geometry": {"coordinates":[5.3831,7.81678],"type":"Point"}
+}

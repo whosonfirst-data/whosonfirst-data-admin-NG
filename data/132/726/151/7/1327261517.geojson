@@ -1,0 +1,67 @@
+{
+  "id": 1327261517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.62585,5.84151,7.62585,5.84151",
+    "geom:latitude":5.84151,
+    "geom:longitude":7.62585,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Agunta",
+    "gn:country_code":"NG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351720,
+    "gn:latitude":5.84151,
+    "gn:longitude":7.62585,
+    "gn:modification_date":"2009-08-20",
+    "gn:name":"Agunta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351720
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a34c665896af8b0c8d7e1c5d899cd59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563701,
+            "locality_id":1327261517,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1327261517,
+    "wof:lastmodified":1536928398,
+    "wof:name":"Agunta",
+    "wof:parent_id":1108563701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.62585,
+    5.84151,
+    7.62585,
+    5.84151
+],
+  "geometry": {"coordinates":[7.62585,5.84151],"type":"Point"}
+}

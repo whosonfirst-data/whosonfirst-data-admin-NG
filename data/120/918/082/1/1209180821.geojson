@@ -1,0 +1,63 @@
+{
+  "id": 1209180821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.99341,10.24367,11.99341,10.24367",
+    "geom:latitude":10.24367,
+    "geom:longitude":11.99341,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"127.0",
+    "gn:admin3_code":"12710",
+    "gn:asciiname":"Pitila Market",
+    "gn:country_code":"NG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324832,
+    "gn:latitude":10.24367,
+    "gn:longitude":11.99341,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pitila Market",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324832
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d3c41657497162dc2c81aee30108e10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209180821
+        }
+    ],
+    "wof:id":1209180821,
+    "wof:lastmodified":1536295265,
+    "wof:name":"Pitila Market",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.99341,
+    10.24367,
+    11.99341,
+    10.24367
+],
+  "geometry": {"coordinates":[11.99341,10.24367],"type":"Point"}
+}

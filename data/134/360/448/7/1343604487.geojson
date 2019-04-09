@@ -1,0 +1,74 @@
+{
+  "id": 1343604487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.81402,5.66442,5.81402,5.66442",
+    "geom:latitude":5.66442,
+    "geom:longitude":5.81402,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10013.0",
+    "gn:asciiname":"Okuokpokpo",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351246,
+    "gn:latitude":5.66442,
+    "gn:longitude":5.81402,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Okuokpokpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okuokpokpo"
+    ],
+    "name:eng_x_variant":[
+        "Akadimon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351246
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5561769d7d7f03c780a3d1f35718f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564161,
+            "locality_id":1343604487,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1343604487,
+    "wof:lastmodified":1537675378,
+    "wof:name":"Okuokpokpo",
+    "wof:parent_id":1108564161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81402,
+    5.66442,
+    5.81402,
+    5.66442
+],
+  "geometry": {"coordinates":[5.81402,5.66442],"type":"Point"}
+}

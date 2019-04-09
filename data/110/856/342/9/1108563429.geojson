@@ -1,0 +1,90 @@
+{
+  "id": 1108563429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004272,
+    "geom:area_square_m":51969077.425526,
+    "geom:bbox":"11.1212663397,10.2390713683,11.2011663397,10.3239713683",
+    "geom:latitude":10.286416,
+    "geom:longitude":11.160028,
+    "iso:country":"NG",
+    "lbl:latitude":10.286619,
+    "lbl:longitude":11.160789,
+    "meso:adm1_name":"Gombe",
+    "meso:diss_me":"GombeGombe",
+    "meso:gadm_admin":"Akko",
+    "meso:gaul_admin":"Gombe",
+    "meso:hasc_id":"NG.GO.GO",
+    "meso:mps_x":11.160789,
+    "meso:mps_y":10.286619,
+    "meso:name_local":"Gombe",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":10.286619,
+    "mps:longitude":11.160789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gombe"
+    ],
+    "name:eng_x_variant":[
+        "Gombe",
+        "Akko"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"52.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Gombe",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.GO",
+    "statoids:name":"Gombe",
+    "statoids:population":"268000",
+    "statoids:statoid":"NG.GO.GO",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.GO.GO"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057617,
+    "wof:geomhash":"be836ce50e1200661c6baf7f33a830ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563429,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1108563429,
+    "wof:lastmodified":1536615201,
+    "wof:name":"Gombe",
+    "wof:parent_id":85675381,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":268000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"GO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.12126633973257,
+    10.23907136831211,
+    11.20116633973264,
+    10.32397136831216
+],
+  "geometry": {"coordinates":[[[11.12666633973262,10.32397136831216],[11.13776633973257,10.31787136831211],[11.14706633973262,10.31747136831214],[11.15926633973265,10.31897136831217],[11.16436633973264,10.32077136831216],[11.16606633973262,10.32277136831217],[11.17316633973263,10.32047136831212],[11.18086633973265,10.31307136831215],[11.18316633973261,10.30967136831212],[11.18616633973259,10.30567136831218],[11.19276633973262,10.29707136831213],[11.19866633973265,10.28967136831216],[11.20116633973264,10.28397136831217],[11.20076633973258,10.2758713683121],[11.19786633973262,10.27287136831212],[11.19166633973264,10.26687136831217],[11.18656633973264,10.26097136831215],[11.17856633973259,10.25497136831211],[11.17516633973265,10.2491713683121],[11.17246633973262,10.24097136831211],[11.16556633973264,10.23907136831211],[11.15726633973263,10.24867136831212],[11.15126633973259,10.25667136831217],[11.14296633973259,10.26287136831215],[11.13706633973265,10.26797136831215],[11.13006633973265,10.27357136831213],[11.12576633973258,10.28047136831212],[11.12276633973261,10.28617136831212],[11.1220663397326,10.29137136831213],[11.12136633973259,10.29717136831215],[11.12126633973257,10.30477136831214],[11.12286633973262,10.31117136831215],[11.1239663397326,10.31407136831211],[11.12666633973262,10.32397136831216]]],"type":"Polygon"}
+}

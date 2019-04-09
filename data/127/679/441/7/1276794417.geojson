@@ -1,0 +1,77 @@
+{
+  "id": 1276794417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67585,6.88209,6.67585,6.88209",
+    "geom:latitude":6.88209,
+    "geom:longitude":6.67585,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23006.0",
+    "gn:asciiname":"Onyedega",
+    "gn:country_code":"NG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2325948,
+    "gn:latitude":6.88209,
+    "gn:longitude":6.67585,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onyedega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Onyedega"
+    ],
+    "name:eng_x_variant":[
+        "Onyadega"
+    ],
+    "name:und_x_variant":[
+        "Onyadega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325948
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e9074a1ef10868075a764941829c736f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563497,
+            "locality_id":1276794417,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1276794417,
+    "wof:lastmodified":1537675024,
+    "wof:name":"Onyedega",
+    "wof:parent_id":1108563497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67585,
+    6.88209,
+    6.67585,
+    6.88209
+],
+  "geometry": {"coordinates":[6.67585,6.88209],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293146407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48333,8.53333,4.48333,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":4.48333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24008.0",
+    "gn:asciiname":"Gbako",
+    "gn:country_code":"NG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341500,
+    "gn:latitude":8.53333,
+    "gn:longitude":4.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341500
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"67211ca8b378e434ee0d4a0fc3327e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563639,
+            "locality_id":1293146407,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1293146407,
+    "wof:lastmodified":1536782377,
+    "wof:name":"Gbako",
+    "wof:parent_id":1108563639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48333,
+    8.53333,
+    4.48333,
+    8.53333
+],
+  "geometry": {"coordinates":[4.48333,8.53333],"type":"Point"}
+}

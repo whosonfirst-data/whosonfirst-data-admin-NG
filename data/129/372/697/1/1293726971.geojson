@@ -1,0 +1,68 @@
+{
+  "id": 1293726971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.99294,6.94677,5.99294,6.94677",
+    "geom:latitude":6.94677,
+    "geom:longitude":5.99294,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12016.0",
+    "gn:asciiname":"Okpokhumi",
+    "gn:country_code":"NG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326947,
+    "gn:latitude":6.94677,
+    "gn:longitude":5.99294,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpokhumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326947
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c03a92b0e5f2960f9195b800aff4cf81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564247,
+            "locality_id":1293726971,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1293726971,
+    "wof:lastmodified":1536939719,
+    "wof:name":"Okpokhumi",
+    "wof:parent_id":1108564247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.99294,
+    6.94677,
+    5.99294,
+    6.94677
+],
+  "geometry": {"coordinates":[5.99294,6.94677],"type":"Point"}
+}

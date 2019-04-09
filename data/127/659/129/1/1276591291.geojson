@@ -1,0 +1,70 @@
+{
+  "id": 1276591291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5908,5.52071,5.5908,5.52071",
+    "geom:latitude":5.52071,
+    "geom:longitude":5.5908,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Bomobolo",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028058,
+    "gn:latitude":5.52071,
+    "gn:longitude":5.5908,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bomobolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bomobolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028058
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3414b6ea00f4d46115d12bb8c00bc779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":1276591291,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1276591291,
+    "wof:lastmodified":1537675425,
+    "wof:name":"Bomobolo",
+    "wof:parent_id":1108564503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5908,
+    5.52071,
+    5.5908,
+    5.52071
+],
+  "geometry": {"coordinates":[5.5908,5.52071],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243487357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09929,9.4793,10.09929,9.4793",
+    "geom:latitude":9.4793,
+    "geom:longitude":10.09929,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32007.0",
+    "gn:asciiname":"Turyam",
+    "gn:country_code":"NG",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321156,
+    "gn:latitude":9.4793,
+    "gn:longitude":10.09929,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Turyam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321156
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8fe74f1d7d8e580836b3c5e046f58703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563767,
+            "locality_id":1243487357,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1243487357,
+    "wof:lastmodified":1536746314,
+    "wof:name":"Turyam",
+    "wof:parent_id":1108563767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09929,
+    9.4793,
+    10.09929,
+    9.4793
+],
+  "geometry": {"coordinates":[10.09929,9.4793],"type":"Point"}
+}

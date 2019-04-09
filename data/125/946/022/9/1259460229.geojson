@@ -1,0 +1,72 @@
+{
+  "id": 1259460229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49719,9.23452,7.49719,9.23452",
+    "geom:latitude":9.23452,
+    "geom:longitude":7.49719,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15002.0",
+    "gn:asciiname":"Shere",
+    "gn:country_code":"NG",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323234,
+    "gn:latitude":9.23452,
+    "gn:longitude":7.49719,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Share",
+        "Shere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323234
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2f856d79976aa08cfd8bb9efdc3d4572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1259460229,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1259460229,
+    "wof:lastmodified":1537674987,
+    "wof:name":"Shere",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49719,
+    9.23452,
+    7.49719,
+    9.23452
+],
+  "geometry": {"coordinates":[7.49719,9.23452],"type":"Point"}
+}

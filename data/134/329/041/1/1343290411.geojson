@@ -1,0 +1,68 @@
+{
+  "id": 1343290411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4465,7.2909,5.4465,7.2909",
+    "geom:latitude":7.2909,
+    "geom:longitude":5.4465,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29018.0",
+    "gn:asciiname":"Otayo-Onaiye",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833001,
+    "gn:latitude":7.2909,
+    "gn:longitude":5.4465,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Otayo-Onaiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833001
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a34225f31d9de67c77762478a5c521e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564257,
+            "locality_id":1343290411,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1343290411,
+    "wof:lastmodified":1536990994,
+    "wof:name":"Otayo-Onaiye",
+    "wof:parent_id":1108564257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4465,
+    7.2909,
+    5.4465,
+    7.2909
+],
+  "geometry": {"coordinates":[5.4465,7.2909],"type":"Point"}
+}

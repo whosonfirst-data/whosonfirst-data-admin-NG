@@ -1,0 +1,72 @@
+{
+  "id": 1209898131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23981,6.7053,3.23981,6.7053",
+    "geom:latitude":6.7053,
+    "geom:longitude":3.23981,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Sanngo-Ota",
+    "gn:country_code":"NG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323733,
+    "gn:latitude":6.7053,
+    "gn:longitude":3.23981,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sanngo-Ota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sango-Otta",
+        "Sanngo-Ota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108562921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323733
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bf000ad6521838a29e11582d0b1a0832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562921,
+            "locality_id":1209898131,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1209898131,
+    "wof:lastmodified":1537674992,
+    "wof:name":"Sanngo-Ota",
+    "wof:parent_id":1108562921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23981,
+    6.7053,
+    3.23981,
+    6.7053
+],
+  "geometry": {"coordinates":[3.23981,6.7053],"type":"Point"}
+}

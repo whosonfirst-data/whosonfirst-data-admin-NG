@@ -1,0 +1,71 @@
+{
+  "id": 1193068127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43393,9.2327,12.43393,9.2327",
+    "geom:latitude":9.2327,
+    "geom:longitude":12.43393,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2021.0",
+    "gn:asciiname":"Palade",
+    "gn:country_code":"NG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325099,
+    "gn:latitude":9.2327,
+    "gn:longitude":12.43393,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Palade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Palade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325099
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd5335acc63b179fd768789eabf8b17e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564543,
+            "locality_id":1193068127,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193068127,
+    "wof:lastmodified":1537675009,
+    "wof:name":"Palade",
+    "wof:parent_id":1108564543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43393,
+    9.2327,
+    12.43393,
+    9.2327
+],
+  "geometry": {"coordinates":[12.43393,9.2327],"type":"Point"}
+}

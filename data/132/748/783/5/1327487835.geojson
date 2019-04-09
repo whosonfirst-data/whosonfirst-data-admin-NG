@@ -1,0 +1,68 @@
+{
+  "id": 1327487835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53705,7.15335,8.53705,7.15335",
+    "geom:latitude":7.15335,
+    "geom:longitude":8.53705,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Uchuwe",
+    "gn:country_code":"NG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320998,
+    "gn:latitude":7.15335,
+    "gn:longitude":8.53705,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uchuwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320998
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79a333faefc1d513a5fb3baacadfa445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1327487835,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1327487835,
+    "wof:lastmodified":1537095357,
+    "wof:name":"Uchuwe",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53705,
+    7.15335,
+    8.53705,
+    7.15335
+],
+  "geometry": {"coordinates":[8.53705,7.15335],"type":"Point"}
+}

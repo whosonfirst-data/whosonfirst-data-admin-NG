@@ -1,0 +1,63 @@
+{
+  "id": 1209545189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04387,11.64011,6.04387,11.64011",
+    "geom:latitude":11.64011,
+    "geom:longitude":6.04387,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81004",
+    "gn:asciiname":"Matan Kari",
+    "gn:country_code":"NG",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330614,
+    "gn:latitude":11.64011,
+    "gn:longitude":6.04387,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Matan Kari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330614
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8bc67328fdcfe4e5ce819fd5f099e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545189
+        }
+    ],
+    "wof:id":1209545189,
+    "wof:lastmodified":1536283865,
+    "wof:name":"Matan Kari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04387,
+    11.64011,
+    6.04387,
+    11.64011
+],
+  "geometry": {"coordinates":[6.04387,11.64011],"type":"Point"}
+}

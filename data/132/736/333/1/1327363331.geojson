@@ -1,0 +1,68 @@
+{
+  "id": 1327363331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.88552,9.39141,5.88552,9.39141",
+    "geom:latitude":9.39141,
+    "geom:longitude":5.88552,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27017",
+    "gn:asciiname":"Algeta",
+    "gn:country_code":"NG",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308353,
+    "gn:latitude":9.39141,
+    "gn:longitude":5.88552,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Algeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308353
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f9d9e1353152b6d1ec01bce611caeb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563987,
+            "locality_id":1327363331,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1327363331,
+    "wof:lastmodified":1536781236,
+    "wof:name":"Algeta",
+    "wof:parent_id":1108563987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.88552,
+    9.39141,
+    5.88552,
+    9.39141
+],
+  "geometry": {"coordinates":[5.88552,9.39141],"type":"Point"}
+}

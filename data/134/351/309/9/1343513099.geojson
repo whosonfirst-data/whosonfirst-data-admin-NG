@@ -1,0 +1,77 @@
+{
+  "id": 1343513099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.44775,6.92436,6.44775,6.92436",
+    "geom:latitude":6.92436,
+    "geom:longitude":6.44775,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12009.0",
+    "gn:asciiname":"Eware",
+    "gn:country_code":"NG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343000,
+    "gn:latitude":6.92436,
+    "gn:longitude":6.44775,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eware",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eware"
+    ],
+    "name:eng_x_variant":[
+        "Ewari"
+    ],
+    "name:und_x_variant":[
+        "Ewari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343000
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"23242b5b6a6aca626fec5b5730ea69d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563347,
+            "locality_id":1343513099,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343513099,
+    "wof:lastmodified":1537675271,
+    "wof:name":"Eware",
+    "wof:parent_id":1108563347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.44775,
+    6.92436,
+    6.44775,
+    6.92436
+],
+  "geometry": {"coordinates":[6.44775,6.92436],"type":"Point"}
+}

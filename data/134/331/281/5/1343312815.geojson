@@ -1,0 +1,68 @@
+{
+  "id": 1343312815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75645,5.50663,6.75645,5.50663",
+    "geom:latitude":5.50663,
+    "geom:longitude":6.75645,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17018.0",
+    "gn:asciiname":"Obiakpu",
+    "gn:country_code":"NG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099050,
+    "gn:latitude":5.50663,
+    "gn:longitude":6.75645,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obiakpu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099050
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6e0334f6635389ddbb43532491dddc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564133,
+            "locality_id":1343312815,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1343312815,
+    "wof:lastmodified":1536959479,
+    "wof:name":"Obiakpu",
+    "wof:parent_id":1108564133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75645,
+    5.50663,
+    6.75645,
+    5.50663
+],
+  "geometry": {"coordinates":[6.75645,5.50663],"type":"Point"}
+}

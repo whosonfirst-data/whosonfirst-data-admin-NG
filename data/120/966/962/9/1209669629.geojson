@@ -1,0 +1,62 @@
+{
+  "id": 1209669629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39311,7.13628,9.39311,7.13628",
+    "geom:latitude":7.13628,
+    "geom:longitude":9.39311,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Gbamwuan",
+    "gn:country_code":"NG",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639818,
+    "gn:latitude":7.13628,
+    "gn:longitude":9.39311,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbamwuan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639818
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"62c7f893919e4060b6f9c67382a5888c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209669629
+        }
+    ],
+    "wof:id":1209669629,
+    "wof:lastmodified":1536279971,
+    "wof:name":"Gbamwuan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39311,
+    7.13628,
+    9.39311,
+    7.13628
+],
+  "geometry": {"coordinates":[9.39311,7.13628],"type":"Point"}
+}

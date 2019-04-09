@@ -1,0 +1,68 @@
+{
+  "id": 1276257617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11662,9.10708,6.11662,9.10708",
+    "geom:latitude":9.10708,
+    "geom:longitude":6.11662,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007",
+    "gn:asciiname":"Bidanko",
+    "gn:country_code":"NG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317494,
+    "gn:latitude":9.10708,
+    "gn:longitude":6.11662,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bidanko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317494
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f8b758ac774cede482fb86922a66bdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1276257617,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276257617,
+    "wof:lastmodified":1536879392,
+    "wof:name":"Bidanko",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11662,
+    9.10708,
+    6.11662,
+    9.10708
+],
+  "geometry": {"coordinates":[6.11662,9.10708],"type":"Point"}
+}

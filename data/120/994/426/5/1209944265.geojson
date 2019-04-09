@@ -1,0 +1,72 @@
+{
+  "id": 1209944265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8726,10.12763,5.8726,10.12763",
+    "geom:latitude":10.12763,
+    "geom:longitude":5.8726,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27016.0",
+    "gn:asciiname":"Urau",
+    "gn:country_code":"NG",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319690,
+    "gn:latitude":10.12763,
+    "gn:longitude":5.8726,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Urau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uro",
+        "Urau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319690
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e9a075f682dd33ef3808c73eb9616389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563955,
+            "locality_id":1209944265,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1209944265,
+    "wof:lastmodified":1537674921,
+    "wof:name":"Urau",
+    "wof:parent_id":1108563955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8726,
+    10.12763,
+    5.8726,
+    10.12763
+],
+  "geometry": {"coordinates":[5.8726,10.12763],"type":"Point"}
+}

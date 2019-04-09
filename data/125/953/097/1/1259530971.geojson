@@ -1,0 +1,69 @@
+{
+  "id": 1259530971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.29843,13.10427,13.29843,13.10427",
+    "geom:latitude":13.10427,
+    "geom:longitude":13.29843,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101",
+    "gn:admin3_code":"10102",
+    "gn:asciiname":"Charkari",
+    "gn:country_code":"NG",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8708607,
+    "gn:latitude":13.10427,
+    "gn:longitude":13.29843,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Charkari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8708607
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0a1ddbbfa7fabea66049412fd9b577ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563459,
+            "locality_id":1259530971,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259530971,
+    "wof:lastmodified":1536790958,
+    "wof:name":"Charkari",
+    "wof:parent_id":1108563459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.29843,
+    13.10427,
+    13.29843,
+    13.10427
+],
+  "geometry": {"coordinates":[13.29843,13.10427],"type":"Point"}
+}

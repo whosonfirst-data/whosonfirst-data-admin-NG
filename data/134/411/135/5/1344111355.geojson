@@ -1,0 +1,68 @@
+{
+  "id": 1344111355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.45922,7.00871,9.45922,7.00871",
+    "geom:latitude":7.00871,
+    "geom:longitude":9.45922,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011",
+    "gn:asciiname":"Tsejinagba",
+    "gn:country_code":"NG",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639936,
+    "gn:latitude":7.00871,
+    "gn:longitude":9.45922,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsejinagba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639936
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a0f3062ed65213991509602e5b1f361c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1344111355,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1344111355,
+    "wof:lastmodified":1536802305,
+    "wof:name":"Tsejinagba",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.45922,
+    7.00871,
+    9.45922,
+    7.00871
+],
+  "geometry": {"coordinates":[9.45922,7.00871],"type":"Point"}
+}

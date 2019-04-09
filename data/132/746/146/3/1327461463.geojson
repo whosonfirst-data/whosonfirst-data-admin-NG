@@ -1,0 +1,69 @@
+{
+  "id": 1327461463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.81277,12.38499,9.81277,12.38499",
+    "geom:latitude":12.38499,
+    "geom:longitude":9.81277,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18001.0",
+    "gn:admin3_code":"JI1602",
+    "gn:asciiname":"Askandu",
+    "gn:country_code":"NG",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349116,
+    "gn:latitude":12.38499,
+    "gn:longitude":9.81277,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Askandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349116
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"964c89197b1fa0ebb1ae474617a83df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563797,
+            "locality_id":1327461463,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1327461463,
+    "wof:lastmodified":1536637841,
+    "wof:name":"Askandu",
+    "wof:parent_id":1108563797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.81277,
+    12.38499,
+    9.81277,
+    12.38499
+],
+  "geometry": {"coordinates":[9.81277,12.38499],"type":"Point"}
+}

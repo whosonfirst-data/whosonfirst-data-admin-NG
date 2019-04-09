@@ -1,0 +1,74 @@
+{
+  "id": 1344190123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95833,4.50259,5.95833,4.50259",
+    "geom:latitude":4.50259,
+    "geom:longitude":5.95833,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Eturegbene",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7041141,
+    "gn:latitude":4.50259,
+    "gn:longitude":5.95833,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Eturegbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eturegbene"
+    ],
+    "name:eng_x_variant":[
+        "Etukegbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7041141
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2464dab36e33caa3adcf100af0402a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564377,
+            "locality_id":1344190123,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1344190123,
+    "wof:lastmodified":1537675446,
+    "wof:name":"Eturegbene",
+    "wof:parent_id":1108564377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95833,
+    4.50259,
+    5.95833,
+    4.50259
+],
+  "geometry": {"coordinates":[5.95833,4.50259],"type":"Point"}
+}

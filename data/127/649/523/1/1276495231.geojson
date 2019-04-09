@@ -1,0 +1,68 @@
+{
+  "id": 1276495231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.45,8.56667,4.45,8.56667",
+    "geom:latitude":8.56667,
+    "geom:longitude":4.45,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Debiola",
+    "gn:country_code":"NG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345023,
+    "gn:latitude":8.56667,
+    "gn:longitude":4.45,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Debiola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345023
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f3d16e839bde78d9e8fa20a087042e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563033,
+            "locality_id":1276495231,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1276495231,
+    "wof:lastmodified":1537056723,
+    "wof:name":"Debiola",
+    "wof:parent_id":1108563033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.45,
+    8.56667,
+    4.45,
+    8.56667
+],
+  "geometry": {"coordinates":[4.45,8.56667],"type":"Point"}
+}

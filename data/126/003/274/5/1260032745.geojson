@@ -1,0 +1,71 @@
+{
+  "id": 1260032745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64083,5.56213,5.64083,5.56213",
+    "geom:latitude":5.56213,
+    "geom:longitude":5.64083,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Oteghele",
+    "gn:country_code":"NG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031397,
+    "gn:latitude":5.56213,
+    "gn:longitude":5.64083,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Oteghele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oteghele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031397
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1cfd984e4ac59944608b01a812d04221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":1260032745,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1260032745,
+    "wof:lastmodified":1537675430,
+    "wof:name":"Oteghele",
+    "wof:parent_id":1108564503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64083,
+    5.56213,
+    5.64083,
+    5.56213
+],
+  "geometry": {"coordinates":[5.64083,5.56213],"type":"Point"}
+}

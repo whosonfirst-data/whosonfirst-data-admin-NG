@@ -1,0 +1,68 @@
+{
+  "id": 1360214157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.20193,10.91343,5.20193,10.91343",
+    "geom:latitude":10.91343,
+    "geom:longitude":5.20193,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27021.0",
+    "gn:asciiname":"Genu",
+    "gn:country_code":"NG",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341267,
+    "gn:latitude":10.91343,
+    "gn:longitude":5.20193,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Genu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341267
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1a8aa0f16a4c5a1c4892cc919cd01cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564297,
+            "locality_id":1360214157,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360214157,
+    "wof:lastmodified":1536759779,
+    "wof:name":"Genu",
+    "wof:parent_id":1108564297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.20193,
+    10.91343,
+    5.20193,
+    10.91343
+],
+  "geometry": {"coordinates":[5.20193,10.91343],"type":"Point"}
+}

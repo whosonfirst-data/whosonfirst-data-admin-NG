@@ -1,0 +1,70 @@
+{
+  "id": 1209743869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.98149,9.84633,10.98149,9.84633",
+    "geom:latitude":9.84633,
+    "geom:longitude":10.98149,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Tongo Manarru",
+    "gn:country_code":"NG",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258972,
+    "gn:latitude":9.84633,
+    "gn:longitude":10.98149,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Tongo Manarru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tongo Manarru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258972
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"28b90acadcbe68344720af09677fb340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1209743869,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1209743869,
+    "wof:lastmodified":1537675514,
+    "wof:name":"Tongo Manarru",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.98149,
+    9.84633,
+    10.98149,
+    9.84633
+],
+  "geometry": {"coordinates":[10.98149,9.84633],"type":"Point"}
+}

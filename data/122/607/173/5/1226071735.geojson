@@ -1,0 +1,69 @@
+{
+  "id": 1226071735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.17852,12.88442,5.17852,12.88442",
+    "geom:latitude":12.88442,
+    "geom:longitude":5.17852,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"602.0",
+    "gn:admin3_code":"60209",
+    "gn:asciiname":"Takatuku",
+    "gn:country_code":"NG",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322566,
+    "gn:latitude":12.88442,
+    "gn:longitude":5.17852,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Takatuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322566
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2ae4e445967d79354854b287e63bb27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563137,
+            "locality_id":1226071735,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1226071735,
+    "wof:lastmodified":1536687921,
+    "wof:name":"Takatuku",
+    "wof:parent_id":1108563137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.17852,
+    12.88442,
+    5.17852,
+    12.88442
+],
+  "geometry": {"coordinates":[5.17852,12.88442],"type":"Point"}
+}

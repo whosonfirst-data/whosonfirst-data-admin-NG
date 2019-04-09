@@ -1,0 +1,74 @@
+{
+  "id": 1226800343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.17375,12.67877,4.17375,12.67877",
+    "geom:latitude":12.67877,
+    "geom:longitude":4.17375,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50203",
+    "gn:asciiname":"Kwarew Baggo",
+    "gn:country_code":"NG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332779,
+    "gn:latitude":12.67877,
+    "gn:longitude":4.17375,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwarew Baggo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwarew Bagga",
+        "Kwaren Bagga",
+        "Kwarew Baggo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332779
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dfe33aacd345020aabdfdbf3334aa2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563029,
+            "locality_id":1226800343,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1226800343,
+    "wof:lastmodified":1537675122,
+    "wof:name":"Kwarew Baggo",
+    "wof:parent_id":1108563029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.17375,
+    12.67877,
+    4.17375,
+    12.67877
+],
+  "geometry": {"coordinates":[4.17375,12.67877],"type":"Point"}
+}

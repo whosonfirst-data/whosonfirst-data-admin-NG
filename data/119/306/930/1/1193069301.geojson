@@ -1,0 +1,68 @@
+{
+  "id": 1193069301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.51667,8.13333,3.51667,8.13333",
+    "geom:latitude":8.13333,
+    "geom:longitude":3.51667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31017.0",
+    "gn:asciiname":"Ipapo",
+    "gn:country_code":"NG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337400,
+    "gn:latitude":8.13333,
+    "gn:longitude":3.51667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ipapo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337400
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"caec92bc337e0b90820b38ce9b8a551d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563697,
+            "locality_id":1193069301,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1193069301,
+    "wof:lastmodified":1536369443,
+    "wof:name":"Ipapo",
+    "wof:parent_id":1108563697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.51667,
+    8.13333,
+    3.51667,
+    8.13333
+],
+  "geometry": {"coordinates":[3.51667,8.13333],"type":"Point"}
+}

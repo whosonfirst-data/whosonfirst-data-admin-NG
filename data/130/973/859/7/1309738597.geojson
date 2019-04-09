@@ -1,0 +1,73 @@
+{
+  "id": 1309738597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52094,11.34511,9.52094,11.34511",
+    "geom:latitude":11.34511,
+    "geom:longitude":9.52094,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18022.0",
+    "gn:admin3_code":"JI0308",
+    "gn:asciiname":"Bodinga",
+    "gn:country_code":"NG",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346948,
+    "gn:latitude":11.34511,
+    "gn:longitude":9.52094,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bodinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bodinga (1)",
+        "Bodinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346948
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2a8addcf2c79031b7147f693ce2a87d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563125,
+            "locality_id":1309738597,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1309738597,
+    "wof:lastmodified":1537675327,
+    "wof:name":"Bodinga",
+    "wof:parent_id":1108563125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52094,
+    11.34511,
+    9.52094,
+    11.34511
+],
+  "geometry": {"coordinates":[9.52094,11.34511],"type":"Point"}
+}

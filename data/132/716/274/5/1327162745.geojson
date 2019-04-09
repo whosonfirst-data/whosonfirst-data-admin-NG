@@ -1,0 +1,67 @@
+{
+  "id": 1327162745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3685,8.55348,9.3685,8.55348",
+    "geom:latitude":8.55348,
+    "geom:longitude":9.3685,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Jir",
+    "gn:country_code":"NG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058055,
+    "gn:latitude":8.55348,
+    "gn:longitude":9.3685,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Jir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058055
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"754b93eeed381b68077347e302734f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1327162745,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1327162745,
+    "wof:lastmodified":1537067366,
+    "wof:name":"Jir",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3685,
+    8.55348,
+    9.3685,
+    8.55348
+],
+  "geometry": {"coordinates":[9.3685,8.55348],"type":"Point"}
+}

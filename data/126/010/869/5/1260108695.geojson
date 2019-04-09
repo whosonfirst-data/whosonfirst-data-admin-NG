@@ -1,0 +1,73 @@
+{
+  "id": 1260108695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.51667,7.61667,4.51667,7.61667",
+    "geom:latitude":7.61667,
+    "geom:longitude":4.51667,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30001.0",
+    "gn:asciiname":"Tonkere",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321973,
+    "gn:latitude":7.61667,
+    "gn:longitude":4.51667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tonkere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawnkerre",
+        "Tonkere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108562951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321973
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b43d78600ee42af4adf58a1c228a1c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562951,
+            "locality_id":1260108695,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1260108695,
+    "wof:lastmodified":1537674972,
+    "wof:name":"Tonkere",
+    "wof:parent_id":1108562951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.51667,
+    7.61667,
+    4.51667,
+    7.61667
+],
+  "geometry": {"coordinates":[4.51667,7.61667],"type":"Point"}
+}

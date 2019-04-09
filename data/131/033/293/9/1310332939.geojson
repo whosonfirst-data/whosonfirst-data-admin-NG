@@ -1,0 +1,72 @@
+{
+  "id": 1310332939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.98995,11.80493,6.98995,11.80493",
+    "geom:latitude":11.80493,
+    "geom:longitude":6.98995,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ungwan Mallami",
+    "gn:country_code":"NG",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320193,
+    "gn:latitude":11.80493,
+    "gn:longitude":6.98995,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ungwan Mallami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallami",
+        "Unguwar Mallami",
+        "Ungwan Mallami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320193
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1f41037087ead5aee7df0bb07b07db63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563367,
+            "locality_id":1310332939,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1310332939,
+    "wof:lastmodified":1537674939,
+    "wof:name":"Ungwan Mallami",
+    "wof:parent_id":1108563367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.98995,
+    11.80493,
+    6.98995,
+    11.80493
+],
+  "geometry": {"coordinates":[6.98995,11.80493],"type":"Point"}
+}

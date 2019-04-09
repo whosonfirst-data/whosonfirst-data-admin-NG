@@ -1,0 +1,68 @@
+{
+  "id": 1243211531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.04324,7.77866,9.04324,7.77866",
+    "geom:latitude":7.77866,
+    "geom:longitude":9.04324,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Bii",
+    "gn:country_code":"NG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9523781,
+    "gn:latitude":7.77866,
+    "gn:longitude":9.04324,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bii",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9523781
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f338e3b7663209d9444e2e6ef4e4bf3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1243211531,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243211531,
+    "wof:lastmodified":1536646786,
+    "wof:name":"Bii",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.04324,
+    7.77866,
+    9.04324,
+    7.77866
+],
+  "geometry": {"coordinates":[9.04324,7.77866],"type":"Point"}
+}

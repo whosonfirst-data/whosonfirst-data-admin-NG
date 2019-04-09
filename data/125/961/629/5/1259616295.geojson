@@ -1,0 +1,68 @@
+{
+  "id": 1259616295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.31256,8.93385,11.31256,8.93385",
+    "geom:latitude":8.93385,
+    "geom:longitude":11.31256,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007",
+    "gn:asciiname":"Bazum",
+    "gn:country_code":"NG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871184,
+    "gn:latitude":8.93385,
+    "gn:longitude":11.31256,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bazum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        421183191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871184
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7d93160f487859dacd398e37ed845f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183191,
+            "locality_id":1259616295,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259616295,
+    "wof:lastmodified":1536667574,
+    "wof:name":"Bazum",
+    "wof:parent_id":421183191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.31256,
+    8.93385,
+    11.31256,
+    8.93385
+],
+  "geometry": {"coordinates":[11.31256,8.93385],"type":"Point"}
+}

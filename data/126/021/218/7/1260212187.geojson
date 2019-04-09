@@ -1,0 +1,69 @@
+{
+  "id": 1260212187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73657,13.02681,5.73657,13.02681",
+    "geom:latitude":13.02681,
+    "geom:longitude":5.73657,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"612.0",
+    "gn:admin3_code":"61204",
+    "gn:asciiname":"Tsage",
+    "gn:country_code":"NG",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018270,
+    "gn:latitude":13.02681,
+    "gn:longitude":5.73657,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tsage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018270
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b076a2778d3309f147d2227c6963b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564289,
+            "locality_id":1260212187,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1260212187,
+    "wof:lastmodified":1536808425,
+    "wof:name":"Tsage",
+    "wof:parent_id":1108564289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73657,
+    13.02681,
+    5.73657,
+    13.02681
+],
+  "geometry": {"coordinates":[5.73657,13.02681],"type":"Point"}
+}

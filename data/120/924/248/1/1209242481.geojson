@@ -1,0 +1,62 @@
+{
+  "id": 1209242481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.66452,10.20001,3.66452,10.20001",
+    "geom:latitude":10.20001,
+    "geom:longitude":3.66452,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27004.0",
+    "gn:asciiname":"Emile",
+    "gn:country_code":"NG",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7048956,
+    "gn:latitude":10.20001,
+    "gn:longitude":3.66452,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7048956
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e20af7b2243059f5344a8e79ecc164a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209242481
+        }
+    ],
+    "wof:id":1209242481,
+    "wof:lastmodified":1536293274,
+    "wof:name":"Emile",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.66452,
+    10.20001,
+    3.66452,
+    10.20001
+],
+  "geometry": {"coordinates":[3.66452,10.20001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260037399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.3004,12.85829,7.3004,12.85829",
+    "geom:latitude":12.85829,
+    "geom:longitude":7.3004,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"403.0",
+    "gn:admin3_code":"40304",
+    "gn:asciiname":"Kurmayai",
+    "gn:country_code":"NG",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333208,
+    "gn:latitude":12.85829,
+    "gn:longitude":7.3004,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kurmayai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurmayal",
+        "Kurmayai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333208
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a8643f98ea15743f8576882c75a8e412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563099,
+            "locality_id":1260037399,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1260037399,
+    "wof:lastmodified":1537675127,
+    "wof:name":"Kurmayai",
+    "wof:parent_id":1108563099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.3004,
+    12.85829,
+    7.3004,
+    12.85829
+],
+  "geometry": {"coordinates":[7.3004,12.85829],"type":"Point"}
+}

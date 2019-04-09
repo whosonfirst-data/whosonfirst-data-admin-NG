@@ -1,0 +1,74 @@
+{
+  "id": 1259612925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.32355,13.56387,6.32355,13.56387",
+    "geom:latitude":13.56387,
+    "geom:longitude":6.32355,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"613.0",
+    "gn:admin3_code":"61307",
+    "gn:asciiname":"Sabon Birni",
+    "gn:country_code":"NG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2324178,
+    "gn:latitude":13.56387,
+    "gn:longitude":6.32355,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sabon Birni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sobon Birni",
+        "Sabon Birni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324178,
+        "wk:page":"Sabon_Birni"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"74dc1cb39e5496316f410cfb602898e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564313,
+            "locality_id":1259612925,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1259612925,
+    "wof:lastmodified":1537674998,
+    "wof:name":"Sabon Birni",
+    "wof:parent_id":1108564313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.32355,
+    13.56387,
+    6.32355,
+    13.56387
+],
+  "geometry": {"coordinates":[6.32355,13.56387],"type":"Point"}
+}

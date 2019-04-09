@@ -1,0 +1,69 @@
+{
+  "id": 1327195033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.67475,11.50462,8.67475,11.50462",
+    "geom:latitude":11.50462,
+    "geom:longitude":8.67475,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20033.0",
+    "gn:admin3_code":"KN2309",
+    "gn:asciiname":"Tarai",
+    "gn:country_code":"NG",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322395,
+    "gn:latitude":11.50462,
+    "gn:longitude":8.67475,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tarai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322395
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6ec7d38b4f6314847dc47f39a476ec40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563817,
+            "locality_id":1327195033,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1327195033,
+    "wof:lastmodified":1537022674,
+    "wof:name":"Tarai",
+    "wof:parent_id":1108563817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.67475,
+    11.50462,
+    8.67475,
+    11.50462
+],
+  "geometry": {"coordinates":[8.67475,11.50462],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209648279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.49815,13.52146,5.49815,13.52146",
+    "geom:latitude":13.52146,
+    "geom:longitude":5.49815,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60709",
+    "gn:asciiname":"Zugana",
+    "gn:country_code":"NG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015709,
+    "gn:latitude":13.52146,
+    "gn:longitude":5.49815,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zugana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015709
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc56a941a29b44fb28490bc96574f2c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648279
+        }
+    ],
+    "wof:id":1209648279,
+    "wof:lastmodified":1536280664,
+    "wof:name":"Zugana",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.49815,
+    13.52146,
+    5.49815,
+    13.52146
+],
+  "geometry": {"coordinates":[5.49815,13.52146],"type":"Point"}
+}

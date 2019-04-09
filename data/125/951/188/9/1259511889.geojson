@@ -1,0 +1,71 @@
+{
+  "id": 1259511889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.44283,11.02185,11.44283,11.02185",
+    "geom:latitude":11.02185,
+    "geom:longitude":11.44283,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16005.0",
+    "gn:asciiname":"Kirshigi",
+    "gn:country_code":"NG",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333147,
+    "gn:latitude":11.02185,
+    "gn:longitude":11.44283,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kirshigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kursigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333147
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8b45a8c2ec9b5487af9b3f81f94bff04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563373,
+            "locality_id":1259511889,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1259511889,
+    "wof:lastmodified":1537675126,
+    "wof:name":"Kirshigi",
+    "wof:parent_id":1108563373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.44283,
+    11.02185,
+    11.44283,
+    11.02185
+],
+  "geometry": {"coordinates":[11.44283,11.02185],"type":"Point"}
+}

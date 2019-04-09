@@ -1,0 +1,66 @@
+{
+  "id": 1209357121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85312,12.39073,3.85312,12.39073",
+    "geom:latitude":12.39073,
+    "geom:longitude":3.85312,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50202",
+    "gn:asciiname":"Marina",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330765,
+    "gn:latitude":12.39073,
+    "gn:longitude":3.85312,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Marina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Marina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330765
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"94e7945370f4b4dc8b61418b39eac56e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209357121
+        }
+    ],
+    "wof:id":1209357121,
+    "wof:lastmodified":1537675099,
+    "wof:name":"Marina",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85312,
+    12.39073,
+    3.85312,
+    12.39073
+],
+  "geometry": {"coordinates":[3.85312,12.39073],"type":"Point"}
+}

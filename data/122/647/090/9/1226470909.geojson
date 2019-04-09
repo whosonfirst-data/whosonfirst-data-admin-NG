@@ -1,0 +1,68 @@
+{
+  "id": 1226470909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75,10.11667,6.75,10.11667",
+    "geom:latitude":10.11667,
+    "geom:longitude":6.75,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Ungwan Kawo",
+    "gn:country_code":"NG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319936,
+    "gn:latitude":10.11667,
+    "gn:longitude":6.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ungwan Kawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319936
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"724bd419a45583e6827aa71de4d27241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1226470909,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226470909,
+    "wof:lastmodified":1536606451,
+    "wof:name":"Ungwan Kawo",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75,
+    10.11667,
+    6.75,
+    10.11667
+],
+  "geometry": {"coordinates":[6.75,10.11667],"type":"Point"}
+}

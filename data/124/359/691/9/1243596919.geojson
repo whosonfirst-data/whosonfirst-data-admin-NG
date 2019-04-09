@@ -1,0 +1,77 @@
+{
+  "id": 1243596919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4034,6.61579,6.4034,6.61579",
+    "geom:latitude":6.61579,
+    "geom:longitude":6.4034,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12005.0",
+    "gn:asciiname":"Okhuessan",
+    "gn:country_code":"NG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327155,
+    "gn:latitude":6.61579,
+    "gn:longitude":6.4034,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okhuessan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okhuessan"
+    ],
+    "name:eng_x_variant":[
+        "Okwessan"
+    ],
+    "name:und_x_variant":[
+        "Okwessan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327155
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b44f6187e0c9b13c081e9759eb672790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563319,
+            "locality_id":1243596919,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243596919,
+    "wof:lastmodified":1537675042,
+    "wof:name":"Okhuessan",
+    "wof:parent_id":1108563319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4034,
+    6.61579,
+    6.4034,
+    6.61579
+],
+  "geometry": {"coordinates":[6.4034,6.61579],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193193103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.7,10.63333,8.7,10.63333",
+    "geom:latitude":10.63333,
+    "geom:longitude":8.7,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20020.0",
+    "gn:admin3_code":"KN1105",
+    "gn:asciiname":"Unguwar Tsofon Sariki",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320154,
+    "gn:latitude":10.63333,
+    "gn:longitude":8.7,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Unguwar Tsofon Sariki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsofon Sariki",
+        "Unguwar Tsofon Sariki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320154
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"44920dc674f5f24d95cb309291a96619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563235,
+            "locality_id":1193193103,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1193193103,
+    "wof:lastmodified":1537674936,
+    "wof:name":"Unguwar Tsofon Sariki",
+    "wof:parent_id":1108563235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.7,
+    10.63333,
+    8.7,
+    10.63333
+],
+  "geometry": {"coordinates":[8.7,10.63333],"type":"Point"}
+}

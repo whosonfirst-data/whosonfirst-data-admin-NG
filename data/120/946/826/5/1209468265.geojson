@@ -1,0 +1,62 @@
+{
+  "id": 1209468265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.42595,8.96148,12.42595,8.96148",
+    "geom:latitude":8.96148,
+    "geom:longitude":12.42595,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Madugu",
+    "gn:country_code":"NG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331640,
+    "gn:latitude":8.96148,
+    "gn:longitude":12.42595,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Madugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331640
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a11e6889d05f933b0e11123c0960420",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209468265
+        }
+    ],
+    "wof:id":1209468265,
+    "wof:lastmodified":1536286161,
+    "wof:name":"Madugu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.42595,
+    8.96148,
+    12.42595,
+    8.96148
+],
+  "geometry": {"coordinates":[12.42595,8.96148],"type":"Point"}
+}

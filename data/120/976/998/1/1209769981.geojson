@@ -1,0 +1,68 @@
+{
+  "id": 1209769981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90444,7.26096,8.90444,7.26096",
+    "geom:latitude":7.26096,
+    "geom:longitude":8.90444,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Ahule",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852341,
+    "gn:latitude":7.26096,
+    "gn:longitude":8.90444,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ahule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852341
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b4b215410a78b82476314a39c1d55e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1209769981,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1209769981,
+    "wof:lastmodified":1536384709,
+    "wof:name":"Ahule",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90444,
+    7.26096,
+    8.90444,
+    7.26096
+],
+  "geometry": {"coordinates":[8.90444,7.26096],"type":"Point"}
+}

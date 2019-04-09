@@ -1,0 +1,76 @@
+{
+  "id": 1309759467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16667,8.36667,12.16667,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":12.16667,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Mayo Kordo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330512,
+    "gn:latitude":8.36667,
+    "gn:longitude":12.16667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mayo Kordo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "River Kordo",
+        "Kordo",
+        "Gangseni\u2019s",
+        "M\u0101o-Kordo",
+        "Mayo Kordo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330512
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2e890a6a772830d7752a73c21b9f4c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563389,
+            "locality_id":1309759467,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1309759467,
+    "wof:lastmodified":1537675096,
+    "wof:name":"Mayo Kordo",
+    "wof:parent_id":1108563389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16667,
+    8.36667,
+    12.16667,
+    8.36667
+],
+  "geometry": {"coordinates":[12.16667,8.36667],"type":"Point"}
+}

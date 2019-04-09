@@ -1,0 +1,73 @@
+{
+  "id": 1259636897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.07632,9.46494,12.07632,9.46494",
+    "geom:latitude":9.46494,
+    "geom:longitude":12.07632,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dwan",
+    "gn:country_code":"NG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189533,
+    "gn:latitude":9.46494,
+    "gn:longitude":12.07632,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Dwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dwan"
+    ],
+    "name:eng_x_variant":[
+        "Dwam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189533
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"efa79bfd79e77024827f0a13e82b768a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1259636897,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259636897,
+    "wof:lastmodified":1537675481,
+    "wof:name":"Dwan",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.07632,
+    9.46494,
+    12.07632,
+    9.46494
+],
+  "geometry": {"coordinates":[12.07632,9.46494],"type":"Point"}
+}

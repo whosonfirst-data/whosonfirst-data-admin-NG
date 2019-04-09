@@ -1,0 +1,69 @@
+{
+  "id": 1310063777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.21638,11.14551,8.21638,11.14551",
+    "geom:latitude":11.14551,
+    "geom:longitude":8.21638,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19005.0",
+    "gn:admin3_code":"KD0503",
+    "gn:asciiname":"Ungwan Lemu",
+    "gn:country_code":"NG",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067264,
+    "gn:latitude":11.14551,
+    "gn:longitude":8.21638,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Lemu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067264
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ce404d2ecc8fe0096c3c5298751a600c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563589,
+            "locality_id":1310063777,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1310063777,
+    "wof:lastmodified":1537054464,
+    "wof:name":"Ungwan Lemu",
+    "wof:parent_id":1108563589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.21638,
+    11.14551,
+    8.21638,
+    11.14551
+],
+  "geometry": {"coordinates":[8.21638,11.14551],"type":"Point"}
+}

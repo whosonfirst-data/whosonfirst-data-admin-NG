@@ -1,0 +1,68 @@
+{
+  "id": 1360015199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39969,7.85479,9.39969,7.85479",
+    "geom:latitude":7.85479,
+    "geom:longitude":9.39969,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Buba",
+    "gn:country_code":"NG",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525368,
+    "gn:latitude":7.85479,
+    "gn:longitude":9.39969,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Buba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525368
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f31f4a086be5097f445eb34bd09e6f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1360015199,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1360015199,
+    "wof:lastmodified":1537044744,
+    "wof:name":"Buba",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39969,
+    7.85479,
+    9.39969,
+    7.85479
+],
+  "geometry": {"coordinates":[9.39969,7.85479],"type":"Point"}
+}

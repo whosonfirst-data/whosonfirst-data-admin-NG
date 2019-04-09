@@ -1,0 +1,71 @@
+{
+  "id": 1242806291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.1736,4.88458,7.1736,4.88458",
+    "geom:latitude":4.88458,
+    "geom:longitude":7.1736,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1014.0",
+    "gn:asciiname":"Imo River",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337548,
+    "gn:latitude":4.88458,
+    "gn:longitude":7.1736,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imo River",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u043e-\u0420\u0438\u0432\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337548
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9fbbafd4aa05e0b07a1be54113eada74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564455,
+            "locality_id":1242806291,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1242806291,
+    "wof:lastmodified":1537557096,
+    "wof:name":"Imo River",
+    "wof:parent_id":1108564455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.1736,
+    4.88458,
+    7.1736,
+    4.88458
+],
+  "geometry": {"coordinates":[7.1736,4.88458],"type":"Point"}
+}

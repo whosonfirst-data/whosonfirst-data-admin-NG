@@ -1,0 +1,72 @@
+{
+  "id": 1276583435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33858,9.17185,6.33858,9.17185",
+    "geom:latitude":9.17185,
+    "geom:longitude":6.33858,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27001.0",
+    "gn:asciiname":"Emibinu",
+    "gn:country_code":"NG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343340,
+    "gn:latitude":9.17185,
+    "gn:longitude":6.33858,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emibinu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emibunu",
+        "Emibinu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343340
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"58c75ce38d6a460e4c6f084134ff258a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562933,
+            "locality_id":1276583435,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276583435,
+    "wof:lastmodified":1537675277,
+    "wof:name":"Emibinu",
+    "wof:parent_id":1108562933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33858,
+    9.17185,
+    6.33858,
+    9.17185
+],
+  "geometry": {"coordinates":[6.33858,9.17185],"type":"Point"}
+}

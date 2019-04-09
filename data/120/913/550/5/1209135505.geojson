@@ -1,0 +1,63 @@
+{
+  "id": 1209135505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.99014,12.05743,4.99014,12.05743",
+    "geom:latitude":12.05743,
+    "geom:longitude":4.99014,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80601",
+    "gn:asciiname":"Tulmi",
+    "gn:country_code":"NG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321551,
+    "gn:latitude":12.05743,
+    "gn:longitude":4.99014,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tulmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321551
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f7c9f6ab7497f153dda2a5e8e008b096",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209135505
+        }
+    ],
+    "wof:id":1209135505,
+    "wof:lastmodified":1536296673,
+    "wof:name":"Tulmi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99014,
+    12.05743,
+    4.99014,
+    12.05743
+],
+  "geometry": {"coordinates":[4.99014,12.05743],"type":"Point"}
+}

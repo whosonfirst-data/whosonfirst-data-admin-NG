@@ -1,0 +1,67 @@
+{
+  "id": 1259937573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.70917,11.25136,7.70917,11.25136",
+    "geom:latitude":11.25136,
+    "geom:longitude":7.70917,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Garu",
+    "gn:country_code":"NG",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341725,
+    "gn:latitude":11.25136,
+    "gn:longitude":7.70917,
+    "gn:modification_date":"2009-05-04",
+    "gn:name":"Garu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341725
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bfe85e2faf4afba9d5717c1f2a963a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563847,
+            "locality_id":1259937573,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1259937573,
+    "wof:lastmodified":1536701709,
+    "wof:name":"Garu",
+    "wof:parent_id":1108563847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.70917,
+    11.25136,
+    7.70917,
+    11.25136
+],
+  "geometry": {"coordinates":[7.70917,11.25136],"type":"Point"}
+}

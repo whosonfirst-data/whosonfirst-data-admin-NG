@@ -1,0 +1,73 @@
+{
+  "id": 1326897163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.98846,10.71226,12.98846,10.71226",
+    "geom:latitude":10.71226,
+    "geom:longitude":12.98846,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10602",
+    "gn:asciiname":"Gatamarua Bula-Gaji",
+    "gn:country_code":"NG",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341631,
+    "gn:latitude":10.71226,
+    "gn:longitude":12.98846,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gatamarua Bula-Gaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatamarua",
+        "Gatamarua Bula-Gaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341631
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"08d8b77d3bc9ed44a5eead57e2cccf18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563189,
+            "locality_id":1326897163,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1326897163,
+    "wof:lastmodified":1537675253,
+    "wof:name":"Gatamarua Bula-Gaji",
+    "wof:parent_id":1108563189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.98846,
+    10.71226,
+    12.98846,
+    10.71226
+],
+  "geometry": {"coordinates":[12.98846,10.71226],"type":"Point"}
+}

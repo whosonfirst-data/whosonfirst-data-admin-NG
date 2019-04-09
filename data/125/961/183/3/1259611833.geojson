@@ -1,0 +1,68 @@
+{
+  "id": 1259611833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45233,11.01795,11.45233,11.01795",
+    "geom:latitude":11.01795,
+    "geom:longitude":11.45233,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16005.0",
+    "gn:asciiname":"Sala",
+    "gn:country_code":"NG",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323910,
+    "gn:latitude":11.01795,
+    "gn:longitude":11.45233,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323910
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f2e0eb959293a2ec69609d673eb6567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563373,
+            "locality_id":1259611833,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1259611833,
+    "wof:lastmodified":1536674063,
+    "wof:name":"Sala",
+    "wof:parent_id":1108563373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45233,
+    11.01795,
+    11.45233,
+    11.01795
+],
+  "geometry": {"coordinates":[11.45233,11.01795],"type":"Point"}
+}

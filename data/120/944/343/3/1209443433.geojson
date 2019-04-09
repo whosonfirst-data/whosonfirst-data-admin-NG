@@ -1,0 +1,65 @@
+{
+  "id": 1209443433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32418,6.58963,7.32418,6.58963",
+    "geom:latitude":6.58963,
+    "geom:longitude":7.32418,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14016.0",
+    "gn:asciiname":"Afa",
+    "gn:country_code":"NG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352311,
+    "gn:latitude":6.58963,
+    "gn:longitude":7.32418,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Afa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Affa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352311
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b312e1a168ea8d6e5bf263c23a2ed2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443433
+        }
+    ],
+    "wof:id":1209443433,
+    "wof:lastmodified":1537675390,
+    "wof:name":"Afa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32418,
+    6.58963,
+    7.32418,
+    6.58963
+],
+  "geometry": {"coordinates":[7.32418,6.58963],"type":"Point"}
+}

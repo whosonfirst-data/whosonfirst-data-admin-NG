@@ -1,0 +1,67 @@
+{
+  "id": 1343924533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56634,10.41452,12.56634,10.41452",
+    "geom:latitude":10.41452,
+    "geom:longitude":12.56634,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Garkida",
+    "gn:country_code":"NG",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341763,
+    "gn:latitude":10.41452,
+    "gn:longitude":12.56634,
+    "gn:modification_date":"2009-02-23",
+    "gn:name":"Garkida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341763
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"03d2e299e43b6a6af94214ddb077db71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1343924533,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343924533,
+    "wof:lastmodified":1537068931,
+    "wof:name":"Garkida",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56634,
+    10.41452,
+    12.56634,
+    10.41452
+],
+  "geometry": {"coordinates":[12.56634,10.41452],"type":"Point"}
+}

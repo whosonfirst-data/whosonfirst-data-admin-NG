@@ -1,0 +1,69 @@
+{
+  "id": 1276504669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.43833,10.44569,7.43833,10.44569",
+    "geom:latitude":10.44569,
+    "geom:longitude":7.43833,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19002.0",
+    "gn:admin3_code":"KD0212",
+    "gn:asciiname":"Tsaunin Kura",
+    "gn:country_code":"NG",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7022687,
+    "gn:latitude":10.44569,
+    "gn:longitude":7.43833,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tsaunin Kura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7022687
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"84093b9db1f2a6668beb027705a5b3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563191,
+            "locality_id":1276504669,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1276504669,
+    "wof:lastmodified":1537044780,
+    "wof:name":"Tsaunin Kura",
+    "wof:parent_id":1108563191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.43833,
+    10.44569,
+    7.43833,
+    10.44569
+],
+  "geometry": {"coordinates":[7.43833,10.44569],"type":"Point"}
+}

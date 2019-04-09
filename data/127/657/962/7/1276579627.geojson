@@ -1,0 +1,68 @@
+{
+  "id": 1276579627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.2,6.75,11.2,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":11.2,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35011.0",
+    "gn:asciiname":"Leme",
+    "gn:country_code":"NG",
+    "gn:dem":1550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332100,
+    "gn:latitude":6.75,
+    "gn:longitude":11.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Leme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332100
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cebaacd8b5d59ead0643d64060fd7519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564339,
+            "locality_id":1276579627,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276579627,
+    "wof:lastmodified":1536946792,
+    "wof:name":"Leme",
+    "wof:parent_id":1108564339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.2,
+    6.75,
+    11.2,
+    6.75
+],
+  "geometry": {"coordinates":[11.2,6.75],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1192964893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53561,12.17207,8.53561,12.17207",
+    "geom:latitude":12.17207,
+    "geom:longitude":8.53561,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20040.0",
+    "gn:admin3_code":"KN3005",
+    "gn:asciiname":"Kuru",
+    "gn:country_code":"NG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333161,
+    "gn:latitude":12.17207,
+    "gn:longitude":8.53561,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuro",
+        "Kuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333161
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7f9dd61e5bf1a21ca041e02ba06e8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563977,
+            "locality_id":1192964893,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1192964893,
+    "wof:lastmodified":1537675126,
+    "wof:name":"Kuru",
+    "wof:parent_id":1108563977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53561,
+    12.17207,
+    8.53561,
+    12.17207
+],
+  "geometry": {"coordinates":[8.53561,12.17207],"type":"Point"}
+}

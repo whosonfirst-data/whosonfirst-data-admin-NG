@@ -1,0 +1,76 @@
+{
+  "id": 421199447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.73591,6.80422,3.73591,6.80422",
+    "geom:latitude":6.80422,
+    "geom:longitude":3.73591,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2351561,
+    "qs:gn_pop":0,
+    "qs:name":"Aiyepe",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Ogun",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":193770,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1384606,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108564095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351561,
+        "gp:id":1384606,
+        "qs:id":193770
+    },
+    "wof:country":"NG",
+    "wof:created":1459009989,
+    "wof:geomhash":"7dffba9d533854798064727d26fe7a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564095,
+            "locality_id":421199447,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":421199447,
+    "wof:lastmodified":1500018045,
+    "wof:name":"Aiyepe",
+    "wof:parent_id":1108564095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.73591,
+    6.80422,
+    3.73591,
+    6.80422
+],
+  "geometry": {"coordinates":[3.73591,6.80422],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209676879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24847,5.6204,7.24847,5.6204",
+    "geom:latitude":5.6204,
+    "geom:longitude":7.24847,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17003.0",
+    "gn:asciiname":"Umu-Eleke",
+    "gn:country_code":"NG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320497,
+    "gn:latitude":5.6204,
+    "gn:longitude":7.24847,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umu-Eleke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320497
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"84dd50319515c928cbad23fcd8394e45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209676879
+        }
+    ],
+    "wof:id":1209676879,
+    "wof:lastmodified":1536279719,
+    "wof:name":"Umu-Eleke",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.248469999999998,
+    5.6204,
+    7.248469999999998,
+    5.6204
+],
+  "geometry": {"coordinates":[7.24847,5.6204],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260341915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.81667,9.65,11.81667,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":11.81667,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2009.0",
+    "gn:asciiname":"Lafia",
+    "gn:country_code":"NG",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332514,
+    "gn:latitude":9.65,
+    "gn:longitude":11.81667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lafia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332514
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4228acb78eb197a2b4976b6e6a73444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563889,
+            "locality_id":1260341915,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1260341915,
+    "wof:lastmodified":1536632410,
+    "wof:name":"Lafia",
+    "wof:parent_id":1108563889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.81667,
+    9.65,
+    11.81667,
+    9.65
+],
+  "geometry": {"coordinates":[11.81667,9.65],"type":"Point"}
+}

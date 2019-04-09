@@ -1,0 +1,62 @@
+{
+  "id": 1209046781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92693,8.67619,11.92693,8.67619",
+    "geom:latitude":8.67619,
+    "geom:longitude":11.92693,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Gamfu Baba",
+    "gn:country_code":"NG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867050,
+    "gn:latitude":8.67619,
+    "gn:longitude":11.92693,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gamfu Baba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867050
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"224d0670a6e364b7f0668eb3dfbf8f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209046781
+        }
+    ],
+    "wof:id":1209046781,
+    "wof:lastmodified":1536299372,
+    "wof:name":"Gamfu Baba",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92693,
+    8.67619,
+    11.92693,
+    8.67619
+],
+  "geometry": {"coordinates":[11.92693,8.67619],"type":"Point"}
+}

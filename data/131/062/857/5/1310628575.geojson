@@ -1,0 +1,68 @@
+{
+  "id": 1310628575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.60493,6.50396,4.60493,6.50396",
+    "geom:latitude":6.50396,
+    "geom:longitude":4.60493,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29014.0",
+    "gn:asciiname":"Ira",
+    "gn:country_code":"NG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337347,
+    "gn:latitude":6.50396,
+    "gn:longitude":4.60493,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337347
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"234f556247f3081a9695df8e3c869b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564157,
+            "locality_id":1310628575,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1310628575,
+    "wof:lastmodified":1536739402,
+    "wof:name":"Ira",
+    "wof:parent_id":1108564157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.60493,
+    6.50396,
+    4.60493,
+    6.50396
+],
+  "geometry": {"coordinates":[4.60493,6.50396],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326797657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.36662,7.0973,8.36662,7.0973",
+    "geom:latitude":7.0973,
+    "geom:longitude":8.36662,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007.0",
+    "gn:asciiname":"Igwe",
+    "gn:country_code":"NG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852228,
+    "gn:latitude":7.0973,
+    "gn:longitude":8.36662,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852228
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f11a447757ac553381f0accc54508446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563473,
+            "locality_id":1326797657,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326797657,
+    "wof:lastmodified":1537095465,
+    "wof:name":"Igwe",
+    "wof:parent_id":1108563473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.36662,
+    7.0973,
+    8.36662,
+    7.0973
+],
+  "geometry": {"coordinates":[8.36662,7.0973],"type":"Point"}
+}

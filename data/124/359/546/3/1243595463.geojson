@@ -1,0 +1,68 @@
+{
+  "id": 1243595463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.05,8.85,4.05,8.85",
+    "geom:latitude":8.85,
+    "geom:longitude":4.05,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31024.0",
+    "gn:asciiname":"Elemere",
+    "gn:country_code":"NG",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343499,
+    "gn:latitude":8.85,
+    "gn:longitude":4.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Elemere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343499
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fcb7917819215a261e2cad1b8f5758b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564175,
+            "locality_id":1243595463,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1243595463,
+    "wof:lastmodified":1537084466,
+    "wof:name":"Elemere",
+    "wof:parent_id":1108564175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.05,
+    8.85,
+    4.05,
+    8.85
+],
+  "geometry": {"coordinates":[4.05,8.85],"type":"Point"}
+}

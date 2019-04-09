@@ -1,0 +1,73 @@
+{
+  "id": 1243000865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78057,12.05954,6.78057,12.05954",
+    "geom:latitude":12.05954,
+    "geom:longitude":6.78057,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80706",
+    "gn:asciiname":"Guidan Idi",
+    "gn:country_code":"NG",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340983,
+    "gn:latitude":12.05954,
+    "gn:longitude":6.78057,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guidan Idi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Idi",
+        "Guidan Idi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340983
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"49738be23c321766129ad6fd73e34d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1243000865,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1243000865,
+    "wof:lastmodified":1537675239,
+    "wof:name":"Guidan Idi",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78057,
+    12.05954,
+    6.78057,
+    12.05954
+],
+  "geometry": {"coordinates":[6.78057,12.05954],"type":"Point"}
+}

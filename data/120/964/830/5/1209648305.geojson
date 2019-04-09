@@ -1,0 +1,62 @@
+{
+  "id": 1209648305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.32835,7.88076,10.32835,7.88076",
+    "geom:latitude":7.88076,
+    "geom:longitude":10.32835,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35003.0",
+    "gn:asciiname":"Tseva",
+    "gn:country_code":"NG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321764,
+    "gn:latitude":7.88076,
+    "gn:longitude":10.32835,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321764
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"21d02d1dba7f3b86387ab80f2624c360",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648305
+        }
+    ],
+    "wof:id":1209648305,
+    "wof:lastmodified":1536280663,
+    "wof:name":"Tseva",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.32835,
+    7.88076,
+    10.32835,
+    7.88076
+],
+  "geometry": {"coordinates":[10.32835,7.88076],"type":"Point"}
+}

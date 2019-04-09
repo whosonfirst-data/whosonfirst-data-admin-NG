@@ -1,0 +1,72 @@
+{
+  "id": 1343619115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.72929,12.67155,7.72929,12.67155",
+    "geom:latitude":12.67155,
+    "geom:longitude":7.72929,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"406.0",
+    "gn:admin3_code":"40602",
+    "gn:asciiname":"Charanchi",
+    "gn:country_code":"NG",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2346098,
+    "gn:latitude":12.67155,
+    "gn:longitude":7.72929,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Charanchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheranchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346098
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a3ccfe9d69b227cf345bd6da07701cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563187,
+            "locality_id":1343619115,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1343619115,
+    "wof:lastmodified":1537675316,
+    "wof:name":"Charanchi",
+    "wof:parent_id":1108563187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.72929,
+    12.67155,
+    7.72929,
+    12.67155
+],
+  "geometry": {"coordinates":[7.72929,12.67155],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243609665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80436,11.83651,7.80436,11.83651",
+    "geom:latitude":11.83651,
+    "geom:longitude":7.80436,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"425.0",
+    "gn:admin3_code":"42506",
+    "gn:asciiname":"Ungwan Gari",
+    "gn:country_code":"NG",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320005,
+    "gn:latitude":11.83651,
+    "gn:longitude":7.80436,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Gari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320005
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9cdc1f45c4ca83b2a150a0e6d963475a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563745,
+            "locality_id":1243609665,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1243609665,
+    "wof:lastmodified":1537064551,
+    "wof:name":"Ungwan Gari",
+    "wof:parent_id":1108563745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80436,
+    11.83651,
+    7.80436,
+    11.83651
+],
+  "geometry": {"coordinates":[7.80436,11.83651],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259631043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.12982,7.38512,9.12982,7.38512",
+    "geom:latitude":7.38512,
+    "geom:longitude":9.12982,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Mamadu",
+    "gn:country_code":"NG",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633960,
+    "gn:latitude":7.38512,
+    "gn:longitude":9.12982,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mamadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633960
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"78d8c60f11024e751809e0d154fecc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1259631043,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259631043,
+    "wof:lastmodified":1536645700,
+    "wof:name":"Mamadu",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.12982,
+    7.38512,
+    9.12982,
+    7.38512
+],
+  "geometry": {"coordinates":[9.12982,7.38512],"type":"Point"}
+}

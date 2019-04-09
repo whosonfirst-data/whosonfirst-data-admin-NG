@@ -1,0 +1,69 @@
+{
+  "id": 1276364617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.24545,13.57499,6.24545,13.57499",
+    "geom:latitude":13.57499,
+    "geom:longitude":6.24545,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"613.0",
+    "gn:admin3_code":"61306",
+    "gn:asciiname":"Makuwana",
+    "gn:country_code":"NG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331134,
+    "gn:latitude":13.57499,
+    "gn:longitude":6.24545,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makuwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331134
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e9d45b57fbe4d4983a4d530a820a4de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564313,
+            "locality_id":1276364617,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1276364617,
+    "wof:lastmodified":1536736740,
+    "wof:name":"Makuwana",
+    "wof:parent_id":1108564313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.24545,
+    13.57499,
+    6.24545,
+    13.57499
+],
+  "geometry": {"coordinates":[6.24545,13.57499],"type":"Point"}
+}

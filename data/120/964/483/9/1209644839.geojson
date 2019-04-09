@@ -1,0 +1,65 @@
+{
+  "id": 1209644839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13164,9.48822,6.13164,9.48822",
+    "geom:latitude":9.48822,
+    "geom:longitude":6.13164,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Twugi",
+    "gn:country_code":"NG",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317066,
+    "gn:latitude":9.48822,
+    "gn:longitude":6.13164,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Twugi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317066
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3ccd2188d9a04f6bf4b0f108c77a4a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644839
+        }
+    ],
+    "wof:id":1209644839,
+    "wof:lastmodified":1537675469,
+    "wof:name":"Twugi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13164,
+    9.48822,
+    6.13164,
+    9.48822
+],
+  "geometry": {"coordinates":[6.13164,9.48822],"type":"Point"}
+}

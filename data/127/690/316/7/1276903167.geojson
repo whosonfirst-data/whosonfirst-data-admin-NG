@@ -1,0 +1,70 @@
+{
+  "id": 1276903167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03215,9.32323,11.03215,9.32323",
+    "geom:latitude":9.32323,
+    "geom:longitude":11.03215,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Bakera",
+    "gn:country_code":"NG",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307796,
+    "gn:latitude":9.32323,
+    "gn:longitude":11.03215,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bakera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bakera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307796
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f707d8e8aa8ab56dace5d5f84085e42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1276903167,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276903167,
+    "wof:lastmodified":1537675524,
+    "wof:name":"Bakera",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03215,
+    9.32323,
+    11.03215,
+    9.32323
+],
+  "geometry": {"coordinates":[11.03215,9.32323],"type":"Point"}
+}

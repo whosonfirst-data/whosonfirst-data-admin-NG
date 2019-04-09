@@ -1,0 +1,62 @@
+{
+  "id": 1209278129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.2066,6.71933,4.2066,6.71933",
+    "geom:latitude":6.71933,
+    "geom:longitude":4.2066,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28008.0",
+    "gn:asciiname":"Imayan",
+    "gn:country_code":"NG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826451,
+    "gn:latitude":6.71933,
+    "gn:longitude":4.2066,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imayan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826451
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7f82b0a16c1a6c1a88da4a94a0c3cb6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209278129
+        }
+    ],
+    "wof:id":1209278129,
+    "wof:lastmodified":1536292120,
+    "wof:name":"Imayan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2066,
+    6.71933,
+    4.2066,
+    6.71933
+],
+  "geometry": {"coordinates":[4.2066,6.71933],"type":"Point"}
+}

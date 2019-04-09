@@ -1,0 +1,72 @@
+{
+  "id": 1226586979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.8401,5.79422,5.8401,5.79422",
+    "geom:latitude":5.79422,
+    "geom:longitude":5.8401,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10006.0",
+    "gn:asciiname":"Onyobru Waterside",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027904,
+    "gn:latitude":5.79422,
+    "gn:longitude":5.8401,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Onyobru Waterside",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onyobru",
+        "Onyobru Waterside"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027904
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"af9b42e82e491cee7a5e5c05eb6216c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563335,
+            "locality_id":1226586979,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226586979,
+    "wof:lastmodified":1537675419,
+    "wof:name":"Onyobru Waterside",
+    "wof:parent_id":1108563335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8401,
+    5.79422,
+    5.8401,
+    5.79422
+],
+  "geometry": {"coordinates":[5.8401,5.79422],"type":"Point"}
+}

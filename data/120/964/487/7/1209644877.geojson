@@ -1,0 +1,62 @@
+{
+  "id": 1209644877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35,7.45,4.35,7.45",
+    "geom:latitude":7.45,
+    "geom:longitude":4.35,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30001.0",
+    "gn:asciiname":"Akiriboto Elede",
+    "gn:country_code":"NG",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351037,
+    "gn:latitude":7.45,
+    "gn:longitude":4.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akiriboto Elede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351037
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4c87448c3a46568fad5df40ac546e2b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644877
+        }
+    ],
+    "wof:id":1209644877,
+    "wof:lastmodified":1536280768,
+    "wof:name":"Akiriboto Elede",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35,
+    7.45,
+    4.35,
+    7.45
+],
+  "geometry": {"coordinates":[4.35,7.45],"type":"Point"}
+}

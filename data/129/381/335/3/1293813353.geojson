@@ -1,0 +1,68 @@
+{
+  "id": 1293813353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17233,4.31843,6.17233,4.31843",
+    "geom:latitude":4.31843,
+    "geom:longitude":6.17233,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6001.0",
+    "gn:asciiname":"Egelefie",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593214,
+    "gn:latitude":4.31843,
+    "gn:longitude":6.17233,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egelefie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593214
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a5bb07cb95e8c9831cdd06b4f85f5373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563159,
+            "locality_id":1293813353,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1293813353,
+    "wof:lastmodified":1536813823,
+    "wof:name":"Egelefie",
+    "wof:parent_id":1108563159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17233,
+    4.31843,
+    6.17233,
+    4.31843
+],
+  "geometry": {"coordinates":[6.17233,4.31843],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209342957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89245,12.55624,8.89245,12.55624",
+    "geom:latitude":12.55624,
+    "geom:longitude":8.89245,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0211",
+    "gn:asciiname":"Takwasa",
+    "gn:country_code":"NG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322539,
+    "gn:latitude":12.55624,
+    "gn:longitude":8.89245,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Takwasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322539
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6dd20b81f8ca0d1295f8821e5a03f351",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342957
+        }
+    ],
+    "wof:id":1209342957,
+    "wof:lastmodified":1536290005,
+    "wof:name":"Takwasa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.89245,
+    12.55624,
+    8.89245,
+    12.55624
+],
+  "geometry": {"coordinates":[8.89245,12.55624],"type":"Point"}
+}

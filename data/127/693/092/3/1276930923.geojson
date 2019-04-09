@@ -1,0 +1,68 @@
+{
+  "id": 1276930923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.15706,7.30552,9.15706,7.30552",
+    "geom:latitude":7.30552,
+    "geom:longitude":9.15706,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Tseadogo",
+    "gn:country_code":"NG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9634091,
+    "gn:latitude":7.30552,
+    "gn:longitude":9.15706,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseadogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9634091
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4a17787b7fa4c7eb3859cd5b002a4da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1276930923,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276930923,
+    "wof:lastmodified":1536972549,
+    "wof:name":"Tseadogo",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.15706,
+    7.30552,
+    9.15706,
+    7.30552
+],
+  "geometry": {"coordinates":[9.15706,7.30552],"type":"Point"}
+}

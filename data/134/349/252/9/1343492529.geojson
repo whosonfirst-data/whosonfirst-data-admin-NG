@@ -1,0 +1,68 @@
+{
+  "id": 1343492529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.971,7.6488,6.971,7.6488",
+    "geom:latitude":7.6488,
+    "geom:longitude":6.971,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23005.0",
+    "gn:asciiname":"Chakpale",
+    "gn:country_code":"NG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346187,
+    "gn:latitude":7.6488,
+    "gn:longitude":6.971,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chakpale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346187
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bacf641b924b4e9fcef467376207d516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563229,
+            "locality_id":1343492529,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1343492529,
+    "wof:lastmodified":1536700216,
+    "wof:name":"Chakpale",
+    "wof:parent_id":1108563229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.971,
+    7.6488,
+    6.971,
+    7.6488
+],
+  "geometry": {"coordinates":[6.971,7.6488],"type":"Point"}
+}

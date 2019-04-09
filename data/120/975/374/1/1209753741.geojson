@@ -1,0 +1,73 @@
+{
+  "id": 1209753741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75751,12.83295,4.75751,12.83295",
+    "geom:latitude":12.83295,
+    "geom:longitude":4.75751,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50404",
+    "gn:asciiname":"Tundun Dumi",
+    "gn:country_code":"NG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321665,
+    "gn:latitude":12.83295,
+    "gn:longitude":4.75751,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tundun Dumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tudun Dumi",
+        "Tundun Dumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321665
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"30f0f74d9c087a16adfe4ddaea7325df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563049,
+            "locality_id":1209753741,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1209753741,
+    "wof:lastmodified":1537674969,
+    "wof:name":"Tundun Dumi",
+    "wof:parent_id":1108563049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75751,
+    12.83295,
+    4.75751,
+    12.83295
+],
+  "geometry": {"coordinates":[4.75751,12.83295],"type":"Point"}
+}

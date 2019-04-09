@@ -1,0 +1,68 @@
+{
+  "id": 1343441397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.47278,9.18472,7.47278,9.18472",
+    "geom:latitude":9.18472,
+    "geom:longitude":7.47278,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15002.0",
+    "gn:asciiname":"Kogi",
+    "gn:country_code":"NG",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334225,
+    "gn:latitude":9.18472,
+    "gn:longitude":7.47278,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334225
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"01b6b7c9e25151a9fec57167ca8f5e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1343441397,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1343441397,
+    "wof:lastmodified":1536774448,
+    "wof:name":"Kogi",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.47278,
+    9.18472,
+    7.47278,
+    9.18472
+],
+  "geometry": {"coordinates":[7.47278,9.18472],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209544015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.78444,9.20645,10.78444,9.20645",
+    "geom:latitude":9.20645,
+    "geom:longitude":10.78444,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Godobe",
+    "gn:country_code":"NG",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324034,
+    "gn:latitude":9.20645,
+    "gn:longitude":10.78444,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Godobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Godobe"
+    ],
+    "name:und_x_variant":[
+        "Yamma",
+        "Sabuwar Yamma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324034
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b524383339321338093a2ce0b55b69b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544015
+        }
+    ],
+    "wof:id":1209544015,
+    "wof:lastmodified":1537674996,
+    "wof:name":"Godobe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.78444,
+    9.20645,
+    10.78444,
+    9.20645
+],
+  "geometry": {"coordinates":[10.78444,9.20645],"type":"Point"}
+}

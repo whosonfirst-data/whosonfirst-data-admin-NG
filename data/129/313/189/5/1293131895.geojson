@@ -1,0 +1,73 @@
+{
+  "id": 1293131895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.16603,12.79609,5.16603,12.79609",
+    "geom:latitude":12.79609,
+    "geom:longitude":5.16603,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"602.0",
+    "gn:admin3_code":"60201",
+    "gn:asciiname":"Darbela",
+    "gn:country_code":"NG",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344975,
+    "gn:latitude":12.79609,
+    "gn:longitude":5.16603,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Darbela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delhera",
+        "Darbela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344975
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8ce1f8a4261ad04ba20cac4f428fc5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563137,
+            "locality_id":1293131895,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293131895,
+    "wof:lastmodified":1537675304,
+    "wof:name":"Darbela",
+    "wof:parent_id":1108563137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.16603,
+    12.79609,
+    5.16603,
+    12.79609
+],
+  "geometry": {"coordinates":[5.16603,12.79609],"type":"Point"}
+}

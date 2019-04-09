@@ -1,0 +1,68 @@
+{
+  "id": 1226275601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.48182,5.5799,7.48182,5.5799",
+    "geom:latitude":5.5799,
+    "geom:longitude":7.48182,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1016.0",
+    "gn:asciiname":"Umuawa",
+    "gn:country_code":"NG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320545,
+    "gn:latitude":5.5799,
+    "gn:longitude":7.48182,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umuawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320545
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5cf48be02996cbdf99fb6e8007c745a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564463,
+            "locality_id":1226275601,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1226275601,
+    "wof:lastmodified":1536890246,
+    "wof:name":"Umuawa",
+    "wof:parent_id":1108564463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.48182,
+    5.5799,
+    7.48182,
+    5.5799
+],
+  "geometry": {"coordinates":[7.48182,5.5799],"type":"Point"}
+}

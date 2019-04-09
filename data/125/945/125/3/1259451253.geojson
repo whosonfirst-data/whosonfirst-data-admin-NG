@@ -1,0 +1,69 @@
+{
+  "id": 1259451253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.47899,11.72349,7.47899,11.72349",
+    "geom:latitude":11.72349,
+    "geom:longitude":7.47899,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"425.0",
+    "gn:admin3_code":"42505",
+    "gn:asciiname":"Shuwaki",
+    "gn:country_code":"NG",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019186,
+    "gn:latitude":11.72349,
+    "gn:longitude":7.47899,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shuwaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019186
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"32e1753da08141f12ae3c90151a3679c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563769,
+            "locality_id":1259451253,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1259451253,
+    "wof:lastmodified":1536905392,
+    "wof:name":"Shuwaki",
+    "wof:parent_id":1108563769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.47899,
+    11.72349,
+    7.47899,
+    11.72349
+],
+  "geometry": {"coordinates":[7.47899,11.72349],"type":"Point"}
+}

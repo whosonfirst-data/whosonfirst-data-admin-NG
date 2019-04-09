@@ -1,0 +1,63 @@
+{
+  "id": 1209147301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83333,11.7,4.83333,11.7",
+    "geom:latitude":11.7,
+    "geom:longitude":4.83333,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50906",
+    "gn:asciiname":"Bula Mairmi",
+    "gn:country_code":"NG",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346516,
+    "gn:latitude":11.7,
+    "gn:longitude":4.83333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bula Mairmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346516
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"db7f5a391e1b047f34f7877c0eb323ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209147301
+        }
+    ],
+    "wof:id":1209147301,
+    "wof:lastmodified":1536296319,
+    "wof:name":"Bula Mairmi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83333,
+    11.7,
+    4.83333,
+    11.7
+],
+  "geometry": {"coordinates":[4.83333,11.7],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326874461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.05863,8.57571,12.05863,8.57571",
+    "geom:latitude":8.57571,
+    "geom:longitude":12.05863,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Gangisi",
+    "gn:country_code":"NG",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342067,
+    "gn:latitude":8.57571,
+    "gn:longitude":12.05863,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gangisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342067
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d3afd6cc507d181e6669ada4d472fa98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1326874461,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1326874461,
+    "wof:lastmodified":1536987238,
+    "wof:name":"Gangisi",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05863,
+    8.57571,
+    12.05863,
+    8.57571
+],
+  "geometry": {"coordinates":[12.05863,8.57571],"type":"Point"}
+}

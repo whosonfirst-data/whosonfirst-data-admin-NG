@@ -1,0 +1,68 @@
+{
+  "id": 1260345073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5158,4.9025,8.5158,4.9025",
+    "geom:latitude":4.9025,
+    "geom:longitude":8.5158,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9003.0",
+    "gn:asciiname":"Ikot Eyo Edem",
+    "gn:country_code":"NG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338062,
+    "gn:latitude":4.9025,
+    "gn:longitude":8.5158,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Eyo Edem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338062
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1dfb64849c3878844fae3b87900de2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562979,
+            "locality_id":1260345073,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1260345073,
+    "wof:lastmodified":1536627932,
+    "wof:name":"Ikot Eyo Edem",
+    "wof:parent_id":1108562979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5158,
+    4.9025,
+    8.5158,
+    4.9025
+],
+  "geometry": {"coordinates":[8.5158,4.9025],"type":"Point"}
+}

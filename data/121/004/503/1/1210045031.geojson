@@ -1,0 +1,73 @@
+{
+  "id": 1210045031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.49861,12.34947,6.49861,12.34947",
+    "geom:latitude":12.34947,
+    "geom:longitude":6.49861,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80508",
+    "gn:asciiname":"Guidan Buzu",
+    "gn:country_code":"NG",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341094,
+    "gn:latitude":12.34947,
+    "gn:longitude":6.49861,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guidan Buzu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Buzu",
+        "Guidan Buzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341094
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e0f2714b744ae89a4c5ff29ea31b6626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1210045031,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1210045031,
+    "wof:lastmodified":1537675243,
+    "wof:name":"Guidan Buzu",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.49861,
+    12.34947,
+    6.49861,
+    12.34947
+],
+  "geometry": {"coordinates":[6.49861,12.34947],"type":"Point"}
+}

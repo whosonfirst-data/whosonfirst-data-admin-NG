@@ -1,0 +1,67 @@
+{
+  "id": 1209263881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.45,8.33333,4.45,8.33333",
+    "geom:latitude":8.33333,
+    "geom:longitude":4.45,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Eggon Fulani",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343876,
+    "gn:latitude":8.33333,
+    "gn:longitude":4.45,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eggon Fulani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asani",
+        "Eggon Fulani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343876
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"25ebee637624abd1af7c8ae44977dbe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209263881
+        }
+    ],
+    "wof:id":1209263881,
+    "wof:lastmodified":1537675286,
+    "wof:name":"Eggon Fulani",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.45,
+    8.33333,
+    4.45,
+    8.33333
+],
+  "geometry": {"coordinates":[4.45,8.33333],"type":"Point"}
+}

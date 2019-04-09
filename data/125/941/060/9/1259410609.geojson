@@ -1,0 +1,72 @@
+{
+  "id": 1259410609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.89633,13.17835,10.89633,13.17835",
+    "geom:latitude":13.17835,
+    "geom:longitude":10.89633,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"710.0",
+    "gn:admin3_code":"71008",
+    "gn:asciiname":"Ndijiu",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329267,
+    "gn:latitude":13.17835,
+    "gn:longitude":10.89633,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndijiu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinjaidia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329267
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c449a2fa6db02130fe5d7b5d1493017c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564549,
+            "locality_id":1259410609,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1259410609,
+    "wof:lastmodified":1537675079,
+    "wof:name":"Ndijiu",
+    "wof:parent_id":1108564549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.89633,
+    13.17835,
+    10.89633,
+    13.17835
+],
+  "geometry": {"coordinates":[10.89633,13.17835],"type":"Point"}
+}

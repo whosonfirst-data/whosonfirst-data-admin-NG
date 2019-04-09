@@ -1,0 +1,69 @@
+{
+  "id": 1243015725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33607,13.59416,13.33607,13.59416",
+    "geom:latitude":13.59416,
+    "geom:longitude":13.33607,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10110",
+    "gn:asciiname":"Bosombarari",
+    "gn:country_code":"NG",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6786923,
+    "gn:latitude":13.59416,
+    "gn:longitude":13.33607,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bosombarari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108562899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786923
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c4e6a61076b5185fe6a5acff07f5f224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562899,
+            "locality_id":1243015725,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1243015725,
+    "wof:lastmodified":1536930173,
+    "wof:name":"Bosombarari",
+    "wof:parent_id":1108562899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33607,
+    13.59416,
+    13.33607,
+    13.59416
+],
+  "geometry": {"coordinates":[13.33607,13.59416],"type":"Point"}
+}

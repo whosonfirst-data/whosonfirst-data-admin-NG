@@ -1,0 +1,68 @@
+{
+  "id": 1225977431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.08878,6.27745,8.08878,6.27745",
+    "geom:latitude":6.27745,
+    "geom:longitude":8.08878,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11001.0",
+    "gn:asciiname":"Ugbuloke",
+    "gn:country_code":"NG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320841,
+    "gn:latitude":6.27745,
+    "gn:longitude":8.08878,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugbuloke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108562905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320841
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a050a9c7003aff4e9e533c0b65e32bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562905,
+            "locality_id":1225977431,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1225977431,
+    "wof:lastmodified":1536822737,
+    "wof:name":"Ugbuloke",
+    "wof:parent_id":1108562905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.08878,
+    6.27745,
+    8.08878,
+    6.27745
+],
+  "geometry": {"coordinates":[8.08878,6.27745],"type":"Point"}
+}

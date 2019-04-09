@@ -1,0 +1,69 @@
+{
+  "id": 1343399269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.88873,11.60796,3.88873,11.60796",
+    "geom:latitude":11.60796,
+    "geom:longitude":3.88873,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"518.0",
+    "gn:admin3_code":"51801",
+    "gn:asciiname":"Tungan Alhaji",
+    "gn:country_code":"NG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6960401,
+    "gn:latitude":11.60796,
+    "gn:longitude":3.88873,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tungan Alhaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6960401
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c68cfdf3ddcbf1f1192f89df30db3caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563207,
+            "locality_id":1343399269,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1343399269,
+    "wof:lastmodified":1536833470,
+    "wof:name":"Tungan Alhaji",
+    "wof:parent_id":1108563207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.88873,
+    11.60796,
+    3.88873,
+    11.60796
+],
+  "geometry": {"coordinates":[3.88873,11.60796],"type":"Point"}
+}

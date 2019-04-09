@@ -1,0 +1,72 @@
+{
+  "id": 1260030871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.03029,10.60371,13.03029,10.60371",
+    "geom:latitude":10.60371,
+    "geom:longitude":13.03029,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"102",
+    "gn:admin3_code":"10210",
+    "gn:asciiname":"Rumirigo",
+    "gn:country_code":"NG",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8741788,
+    "gn:latitude":10.60371,
+    "gn:longitude":13.03029,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rumirigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rumirigo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8741788
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8d68dc19a1dc8e020311755615518b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563037,
+            "locality_id":1260030871,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1260030871,
+    "wof:lastmodified":1537675460,
+    "wof:name":"Rumirigo",
+    "wof:parent_id":1108563037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.03029,
+    10.60371,
+    13.03029,
+    10.60371
+],
+  "geometry": {"coordinates":[13.03029,10.60371],"type":"Point"}
+}

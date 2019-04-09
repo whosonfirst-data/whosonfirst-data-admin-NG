@@ -1,0 +1,73 @@
+{
+  "id": 1327460431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41258,7.18682,7.41258,7.18682",
+    "geom:latitude":7.18682,
+    "geom:longitude":7.41258,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23018.0",
+    "gn:asciiname":"Adum Afo",
+    "gn:country_code":"NG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352328,
+    "gn:latitude":7.18682,
+    "gn:longitude":7.41258,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adum Afo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adum Afaw",
+        "Adum",
+        "Adum Afo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352328
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa639384a3aae5eb6c09cb4ed765a2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564169,
+            "locality_id":1327460431,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1327460431,
+    "wof:lastmodified":1537675391,
+    "wof:name":"Adum Afo",
+    "wof:parent_id":1108564169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41258,
+    7.18682,
+    7.41258,
+    7.18682
+],
+  "geometry": {"coordinates":[7.41258,7.18682],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226717643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86451,5.77934,6.86451,5.77934",
+    "geom:latitude":5.77934,
+    "geom:longitude":6.86451,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4012.0",
+    "gn:asciiname":"Ayinneji",
+    "gn:country_code":"NG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098603,
+    "gn:latitude":5.77934,
+    "gn:longitude":6.86451,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ayinneji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098603
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7cf29ea915140c4ae00804b9c1cade90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563565,
+            "locality_id":1226717643,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1226717643,
+    "wof:lastmodified":1536756228,
+    "wof:name":"Ayinneji",
+    "wof:parent_id":1108563565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86451,
+    5.77934,
+    6.86451,
+    5.77934
+],
+  "geometry": {"coordinates":[6.86451,5.77934],"type":"Point"}
+}

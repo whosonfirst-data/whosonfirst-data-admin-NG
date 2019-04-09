@@ -1,0 +1,68 @@
+{
+  "id": 1242902035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56764,8.78127,9.56764,8.78127",
+    "geom:latitude":8.78127,
+    "geom:longitude":9.56764,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Kwala",
+    "gn:country_code":"NG",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922694,
+    "gn:latitude":8.78127,
+    "gn:longitude":9.56764,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922694
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"090a554764458fdde27be15a76b600be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1242902035,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1242902035,
+    "wof:lastmodified":1537090279,
+    "wof:name":"Kwala",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56764,
+    8.78127,
+    9.56764,
+    8.78127
+],
+  "geometry": {"coordinates":[9.56764,8.78127],"type":"Point"}
+}

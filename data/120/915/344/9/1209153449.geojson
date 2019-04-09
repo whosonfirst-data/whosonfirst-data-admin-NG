@@ -1,0 +1,62 @@
+{
+  "id": 1209153449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98406,5.12952,5.98406,5.12952",
+    "geom:latitude":5.12952,
+    "geom:longitude":5.98406,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10016.0",
+    "gn:asciiname":"Odorubo",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327948,
+    "gn:latitude":5.12952,
+    "gn:longitude":5.98406,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Odorubo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327948
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b148eb5a7aa42fa57af79eaf2e63a44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209153449
+        }
+    ],
+    "wof:id":1209153449,
+    "wof:lastmodified":1536296133,
+    "wof:name":"Odorubo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98406,
+    5.1295199999999985,
+    5.98406,
+    5.1295199999999985
+],
+  "geometry": {"coordinates":[5.98406,5.12952],"type":"Point"}
+}

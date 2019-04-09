@@ -1,0 +1,68 @@
+{
+  "id": 1310034049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61171,5.59878,7.61171,5.59878",
+    "geom:latitude":5.59878,
+    "geom:longitude":7.61171,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Ndiobo",
+    "gn:country_code":"NG",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075604,
+    "gn:latitude":5.59878,
+    "gn:longitude":7.61171,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndiobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        421183311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075604
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1c8d67d12b8558c207bf149a6dd6bb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183311,
+            "locality_id":1310034049,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1310034049,
+    "wof:lastmodified":1537096421,
+    "wof:name":"Ndiobo",
+    "wof:parent_id":421183311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61171,
+    5.59878,
+    7.61171,
+    5.59878
+],
+  "geometry": {"coordinates":[7.61171,5.59878],"type":"Point"}
+}

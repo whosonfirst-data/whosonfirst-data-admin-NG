@@ -1,0 +1,62 @@
+{
+  "id": 1209356087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.84028,7.26778,3.84028,7.26778",
+    "geom:latitude":7.26778,
+    "geom:longitude":3.84028,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31025.0",
+    "gn:asciiname":"Akinsipe",
+    "gn:country_code":"NG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592598,
+    "gn:latitude":7.26778,
+    "gn:longitude":3.84028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akinsipe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592598
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2de6f33cba2ccd84e7d82a928d1d117a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209356087
+        }
+    ],
+    "wof:id":1209356087,
+    "wof:lastmodified":1536289579,
+    "wof:name":"Akinsipe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.84028,
+    7.26778,
+    3.84028,
+    7.26778
+],
+  "geometry": {"coordinates":[3.84028,7.26778],"type":"Point"}
+}

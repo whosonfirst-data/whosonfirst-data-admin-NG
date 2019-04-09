@@ -1,0 +1,69 @@
+{
+  "id": 1276175211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.10073,12.83861,14.10073,12.83861",
+    "geom:latitude":12.83861,
+    "geom:longitude":14.10073,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"123.0",
+    "gn:admin3_code":"12305",
+    "gn:asciiname":"Doron Kirta",
+    "gn:country_code":"NG",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6783200,
+    "gn:latitude":12.83861,
+    "gn:longitude":14.10073,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Doron Kirta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6783200
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"edc694a4a2578630d62e978b377db555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563853,
+            "locality_id":1276175211,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1276175211,
+    "wof:lastmodified":1536990022,
+    "wof:name":"Doron Kirta",
+    "wof:parent_id":1108563853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.10073,
+    12.83861,
+    14.10073,
+    12.83861
+],
+  "geometry": {"coordinates":[14.10073,12.83861],"type":"Point"}
+}

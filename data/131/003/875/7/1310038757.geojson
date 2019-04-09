@@ -1,0 +1,73 @@
+{
+  "id": 1310038757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.92167,10.18722,5.92167,10.18722",
+    "geom:latitude":10.18722,
+    "geom:longitude":5.92167,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27015.0",
+    "gn:asciiname":"Urudu",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344273,
+    "gn:latitude":10.18722,
+    "gn:longitude":5.92167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Urudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durugu",
+        "Urudu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344273
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"847a4f4b2555dc241c38541d330866cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563947,
+            "locality_id":1310038757,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310038757,
+    "wof:lastmodified":1537675294,
+    "wof:name":"Urudu",
+    "wof:parent_id":1108563947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.92167,
+    10.18722,
+    5.92167,
+    10.18722
+],
+  "geometry": {"coordinates":[5.92167,10.18722],"type":"Point"}
+}

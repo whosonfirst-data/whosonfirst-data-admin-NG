@@ -1,0 +1,70 @@
+{
+  "id": 1343501347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04176,9.06103,12.04176,9.06103",
+    "geom:latitude":9.06103,
+    "geom:longitude":12.04176,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dansari",
+    "gn:country_code":"NG",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189874,
+    "gn:latitude":9.06103,
+    "gn:longitude":12.04176,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Dansari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dansari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189874
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d8e6099f0be584498e8e5f3a40cd4f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1343501347,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343501347,
+    "wof:lastmodified":1537675492,
+    "wof:name":"Dansari",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04176,
+    9.06103,
+    12.04176,
+    9.06103
+],
+  "geometry": {"coordinates":[12.04176,9.06103],"type":"Point"}
+}

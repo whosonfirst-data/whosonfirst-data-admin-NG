@@ -1,0 +1,66 @@
+{
+  "id": 1209648331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.59327,9.33529,6.59327,9.33529",
+    "geom:latitude":9.33529,
+    "geom:longitude":6.59327,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Giagodna",
+    "gn:country_code":"NG",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341211,
+    "gn:latitude":9.33529,
+    "gn:longitude":6.59327,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Giagodna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Girgondna",
+        "Giagodna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341211
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fba5e0bf2d5af700d32fda0649fee35d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648331
+        }
+    ],
+    "wof:id":1209648331,
+    "wof:lastmodified":1537675247,
+    "wof:name":"Giagodna",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.59327,
+    9.33529,
+    6.59327,
+    9.33529
+],
+  "geometry": {"coordinates":[6.59327,9.33529],"type":"Point"}
+}

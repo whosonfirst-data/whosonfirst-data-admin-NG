@@ -1,0 +1,68 @@
+{
+  "id": 1243100247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.07648,9.53086,6.07648,9.53086",
+    "geom:latitude":9.53086,
+    "geom:longitude":6.07648,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Lagga",
+    "gn:country_code":"NG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332461,
+    "gn:latitude":9.53086,
+    "gn:longitude":6.07648,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lagga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332461
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e96b5cabb4e1da2c2782690907c40224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1243100247,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243100247,
+    "wof:lastmodified":1536807323,
+    "wof:name":"Lagga",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07648,
+    9.53086,
+    6.07648,
+    9.53086
+],
+  "geometry": {"coordinates":[6.07648,9.53086],"type":"Point"}
+}

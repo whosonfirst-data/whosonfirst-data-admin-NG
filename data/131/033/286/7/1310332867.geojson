@@ -1,0 +1,71 @@
+{
+  "id": 1310332867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75943,7.64314,5.75943,7.64314",
+    "geom:latitude":7.64314,
+    "geom:longitude":5.75943,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29002.0",
+    "gn:asciiname":"Oke-Agbe",
+    "gn:country_code":"NG",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2327283,
+    "gn:latitude":7.64314,
+    "gn:longitude":5.75943,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oke-Agbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okeagbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327283
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b56c98f9d2d94653aa2f665924feefb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562971,
+            "locality_id":1310332867,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1310332867,
+    "wof:lastmodified":1537675044,
+    "wof:name":"Oke-Agbe",
+    "wof:parent_id":1108562971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75943,
+    7.64314,
+    5.75943,
+    7.64314
+],
+  "geometry": {"coordinates":[5.75943,7.64314],"type":"Point"}
+}

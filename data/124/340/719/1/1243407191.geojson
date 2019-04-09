@@ -1,0 +1,77 @@
+{
+  "id": 1243407191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.57628,6.34285,6.57628,6.34285",
+    "geom:latitude":6.34285,
+    "geom:longitude":6.57628,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Atumo",
+    "gn:country_code":"NG",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348902,
+    "gn:latitude":6.34285,
+    "gn:longitude":6.57628,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Atumo"
+    ],
+    "name:eng_x_variant":[
+        "Atuma"
+    ],
+    "name:und_x_variant":[
+        "Atuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348902
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c1855da9c4b61afe8303d831cbe43c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564231,
+            "locality_id":1243407191,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243407191,
+    "wof:lastmodified":1537675350,
+    "wof:name":"Atumo",
+    "wof:parent_id":1108564231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.57628,
+    6.34285,
+    6.57628,
+    6.34285
+],
+  "geometry": {"coordinates":[6.57628,6.34285],"type":"Point"}
+}

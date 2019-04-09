@@ -1,0 +1,71 @@
+{
+  "id": 1277116745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.38333,9.33333,12.38333,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":12.38333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Bogalere",
+    "gn:country_code":"NG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346928,
+    "gn:latitude":9.33333,
+    "gn:longitude":12.38333,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Bogalere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bogalere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346928
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f971c7700935261464f0737c54219a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1277116745,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1277116745,
+    "wof:lastmodified":1537675327,
+    "wof:name":"Bogalere",
+    "wof:parent_id":1108564541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.38333,
+    9.33333,
+    12.38333,
+    9.33333
+],
+  "geometry": {"coordinates":[12.38333,9.33333],"type":"Point"}
+}

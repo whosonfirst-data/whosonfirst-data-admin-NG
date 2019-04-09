@@ -1,0 +1,74 @@
+{
+  "id": 1310234561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.74178,13.48414,4.74178,13.48414",
+    "geom:latitude":13.48414,
+    "geom:longitude":4.74178,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60603",
+    "gn:asciiname":"Kotohari",
+    "gn:country_code":"NG",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333027,
+    "gn:latitude":13.48414,
+    "gn:longitude":4.74178,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kotohari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuafuri",
+        "Kutufari",
+        "Kotohari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333027
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"deea6d5c16afc88f0167e4d6a83caa90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563439,
+            "locality_id":1310234561,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1310234561,
+    "wof:lastmodified":1537675125,
+    "wof:name":"Kotohari",
+    "wof:parent_id":1108563439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.74178,
+    13.48414,
+    4.74178,
+    13.48414
+],
+  "geometry": {"coordinates":[4.74178,13.48414],"type":"Point"}
+}

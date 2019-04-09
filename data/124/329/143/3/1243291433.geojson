@@ -1,0 +1,73 @@
+{
+  "id": 1243291433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.45978,11.87886,11.45978,11.87886",
+    "geom:latitude":11.87886,
+    "geom:longitude":11.45978,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70512",
+    "gn:asciiname":"Kwoliula",
+    "gn:country_code":"NG",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332668,
+    "gn:latitude":11.87886,
+    "gn:longitude":11.45978,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwoliula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwoi\u2019ula",
+        "Kwol\u2019ula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332668
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8d0cd2e89b833369db026fb977f7e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1243291433,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1243291433,
+    "wof:lastmodified":1537675121,
+    "wof:name":"Kwoliula",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.45978,
+    11.87886,
+    11.45978,
+    11.87886
+],
+  "geometry": {"coordinates":[11.45978,11.87886],"type":"Point"}
+}

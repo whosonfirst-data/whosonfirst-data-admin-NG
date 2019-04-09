@@ -1,0 +1,73 @@
+{
+  "id": 1243484063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.45229,4.88529,6.45229,4.88529",
+    "geom:latitude":4.88529,
+    "geom:longitude":6.45229,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33001.0",
+    "gn:asciiname":"Amerikpoko",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350097,
+    "gn:latitude":4.88529,
+    "gn:longitude":6.45229,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amerikpoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emerikpoko",
+        "Amerikopoko",
+        "Amerikpoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350097
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"21b410058c31db2c65d71ef20df997e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562915,
+            "locality_id":1243484063,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1243484063,
+    "wof:lastmodified":1537675364,
+    "wof:name":"Amerikpoko",
+    "wof:parent_id":1108562915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.45229,
+    4.88529,
+    6.45229,
+    4.88529
+],
+  "geometry": {"coordinates":[6.45229,4.88529],"type":"Point"}
+}

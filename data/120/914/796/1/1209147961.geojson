@@ -1,0 +1,64 @@
+{
+  "id": 1209147961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.20349,5.87426,5.20349,5.87426",
+    "geom:latitude":5.87426,
+    "geom:longitude":5.20349,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Ugbere",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121959,
+    "gn:latitude":5.87426,
+    "gn:longitude":5.20349,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Ugbere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ugbere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121959
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9d93f5714d22d04c08cbe7a318917d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209147961
+        }
+    ],
+    "wof:id":1209147961,
+    "wof:lastmodified":1537675478,
+    "wof:name":"Ugbere",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.20349,
+    5.87426,
+    5.20349,
+    5.87426
+],
+  "geometry": {"coordinates":[5.20349,5.87426],"type":"Point"}
+}

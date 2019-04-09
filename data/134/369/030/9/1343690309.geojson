@@ -1,0 +1,72 @@
+{
+  "id": 1343690309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96373,4.74658,6.96373,4.74658",
+    "geom:latitude":4.74658,
+    "geom:longitude":6.96373,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33008.0",
+    "gn:asciiname":"Old Bakana",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326749,
+    "gn:latitude":4.74658,
+    "gn:longitude":6.96373,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Old Bakana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bush Bakana",
+        "Old Bakana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326749
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6116e6dee846105b32be61688a8199d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563227,
+            "locality_id":1343690309,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343690309,
+    "wof:lastmodified":1537675032,
+    "wof:name":"Old Bakana",
+    "wof:parent_id":1108563227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96373,
+    4.74658,
+    6.96373,
+    4.74658
+],
+  "geometry": {"coordinates":[6.96373,4.74658],"type":"Point"}
+}

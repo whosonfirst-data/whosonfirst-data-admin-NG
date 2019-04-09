@@ -1,0 +1,77 @@
+{
+  "id": 1209959715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.5296,6.43052,6.5296,6.43052",
+    "geom:latitude":6.43052,
+    "geom:longitude":6.5296,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10001.0",
+    "gn:asciiname":"Achala-Ezi",
+    "gn:country_code":"NG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352699,
+    "gn:latitude":6.43052,
+    "gn:longitude":6.5296,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Achala-Ezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Achala-Ezi"
+    ],
+    "name:eng_x_variant":[
+        "Achaca-Ezi"
+    ],
+    "name:und_x_variant":[
+        "Achaca-Ezi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352699
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"de00df3f066d76d9e81e3d7f0a729164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563011,
+            "locality_id":1209959715,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1209959715,
+    "wof:lastmodified":1537675394,
+    "wof:name":"Achala-Ezi",
+    "wof:parent_id":1108563011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5296,
+    6.43052,
+    6.5296,
+    6.43052
+],
+  "geometry": {"coordinates":[6.5296,6.43052],"type":"Point"}
+}

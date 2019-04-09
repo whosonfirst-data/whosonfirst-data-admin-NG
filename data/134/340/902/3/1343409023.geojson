@@ -1,0 +1,71 @@
+{
+  "id": 1343409023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82995,7.47555,8.82995,7.47555",
+    "geom:latitude":7.47555,
+    "geom:longitude":8.82995,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Kuwan",
+    "gn:country_code":"NG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852549,
+    "gn:latitude":7.47555,
+    "gn:longitude":8.82995,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kuwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852549
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fefa3fc8eb83f0cd3efd25164c56c438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1343409023,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343409023,
+    "wof:lastmodified":1537675409,
+    "wof:name":"Kuwan",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82995,
+    7.47555,
+    8.82995,
+    7.47555
+],
+  "geometry": {"coordinates":[8.82995,7.47555],"type":"Point"}
+}

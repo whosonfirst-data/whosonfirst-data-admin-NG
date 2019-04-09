@@ -1,0 +1,72 @@
+{
+  "id": 1293842473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.075,4.9398,8.075,4.9398",
+    "geom:latitude":4.9398,
+    "geom:longitude":8.075,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3029.0",
+    "gn:asciiname":"Issiet",
+    "gn:country_code":"NG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6915278,
+    "gn:latitude":4.9398,
+    "gn:longitude":8.075,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Issiet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isiel",
+        "Issiet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6915278
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"45f5465b657082d5175b09bc41c999c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564471,
+            "locality_id":1293842473,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1293842473,
+    "wof:lastmodified":1537675411,
+    "wof:name":"Issiet",
+    "wof:parent_id":1108564471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.075,
+    4.9398,
+    8.075,
+    4.9398
+],
+  "geometry": {"coordinates":[8.075,4.9398],"type":"Point"}
+}

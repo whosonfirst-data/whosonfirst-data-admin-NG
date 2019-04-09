@@ -1,0 +1,68 @@
+{
+  "id": 1309763165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.0504,5.97706,7.0504,5.97706",
+    "geom:latitude":5.97706,
+    "geom:longitude":7.0504,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4001.0",
+    "gn:asciiname":"Amaekwulu",
+    "gn:country_code":"NG",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350274,
+    "gn:latitude":5.97706,
+    "gn:longitude":7.0504,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amaekwulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108562939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350274
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3cba72accbc2b1aec456354b7304dad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562939,
+            "locality_id":1309763165,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1309763165,
+    "wof:lastmodified":1536991880,
+    "wof:name":"Amaekwulu",
+    "wof:parent_id":1108562939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.0504,
+    5.97706,
+    7.0504,
+    5.97706
+],
+  "geometry": {"coordinates":[7.0504,5.97706],"type":"Point"}
+}

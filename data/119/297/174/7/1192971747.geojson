@@ -1,0 +1,68 @@
+{
+  "id": 1192971747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56232,10.8958,13.56232,10.8958",
+    "geom:latitude":10.8958,
+    "geom:longitude":13.56232,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Wuro Achaba Villages",
+    "gn:country_code":"NG",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318849,
+    "gn:latitude":10.8958,
+    "gn:longitude":13.56232,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Achaba Villages",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        421185431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318849
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4b3452ca52d60f78ea68d85c5f0a02f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421185431,
+            "locality_id":1192971747,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1192971747,
+    "wof:lastmodified":1536377569,
+    "wof:name":"Wuro Achaba Villages",
+    "wof:parent_id":421185431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56232,
+    10.8958,
+    13.56232,
+    10.8958
+],
+  "geometry": {"coordinates":[13.56232,10.8958],"type":"Point"}
+}

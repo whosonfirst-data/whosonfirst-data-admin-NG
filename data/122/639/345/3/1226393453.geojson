@@ -1,0 +1,69 @@
+{
+  "id": 1226393453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30068,11.67455,12.30068,11.67455",
+    "geom:latitude":11.67455,
+    "geom:longitude":12.30068,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"114.0",
+    "gn:admin3_code":"11414",
+    "gn:asciiname":"Kurnari",
+    "gn:country_code":"NG",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333165,
+    "gn:latitude":11.67455,
+    "gn:longitude":12.30068,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kurnari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333165
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"af7ea0aa8b7ff0f88c060b95ff87c576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563747,
+            "locality_id":1226393453,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226393453,
+    "wof:lastmodified":1536721321,
+    "wof:name":"Kurnari",
+    "wof:parent_id":1108563747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30068,
+    11.67455,
+    12.30068,
+    11.67455
+],
+  "geometry": {"coordinates":[12.30068,11.67455],"type":"Point"}
+}

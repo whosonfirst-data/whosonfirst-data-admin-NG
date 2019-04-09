@@ -1,0 +1,69 @@
+{
+  "id": 1277107791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46384,11.19565,6.46384,11.19565",
+    "geom:latitude":11.19565,
+    "geom:longitude":6.46384,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81007",
+    "gn:asciiname":"Ungwan-Makeri",
+    "gn:country_code":"NG",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7040111,
+    "gn:latitude":11.19565,
+    "gn:longitude":6.46384,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan-Makeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040111
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b14e380ae1b8db2911cf3bbf111eeda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563953,
+            "locality_id":1277107791,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1277107791,
+    "wof:lastmodified":1536731853,
+    "wof:name":"Ungwan-Makeri",
+    "wof:parent_id":1108563953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46384,
+    11.19565,
+    6.46384,
+    11.19565
+],
+  "geometry": {"coordinates":[6.46384,11.19565],"type":"Point"}
+}

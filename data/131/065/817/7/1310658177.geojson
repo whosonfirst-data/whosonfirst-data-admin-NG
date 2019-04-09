@@ -1,0 +1,73 @@
+{
+  "id": 1310658177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6423,12.84718,8.6423,12.84718",
+    "geom:latitude":12.84718,
+    "geom:longitude":8.6423,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40407",
+    "gn:asciiname":"Maibara",
+    "gn:country_code":"NG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331475,
+    "gn:latitude":12.84718,
+    "gn:longitude":8.6423,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maibara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maribara",
+        "Maibara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331475
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"397ba09892faa7650b3ec048e57a7ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563103,
+            "locality_id":1310658177,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1310658177,
+    "wof:lastmodified":1537675108,
+    "wof:name":"Maibara",
+    "wof:parent_id":1108563103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6423,
+    12.84718,
+    8.6423,
+    12.84718
+],
+  "geometry": {"coordinates":[8.6423,12.84718],"type":"Point"}
+}

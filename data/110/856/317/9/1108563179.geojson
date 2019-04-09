@@ -1,0 +1,90 @@
+{
+  "id": 1108563179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.07525,
+    "geom:area_square_m":918296700.905132,
+    "geom:bbox":"7.24976633973,9.15347136831,7.73006633973,9.43157136831",
+    "geom:latitude":9.276258,
+    "geom:longitude":7.503016,
+    "iso:country":"NG",
+    "lbl:latitude":9.264751,
+    "lbl:longitude":7.499378,
+    "meso:adm1_name":"Federal Capital Territory",
+    "meso:diss_me":"BwariFederal Capital Territory",
+    "meso:gadm_admin":"Bwari",
+    "meso:gaul_admin":"Abujamun",
+    "meso:hasc_id":"NG.FC.BW",
+    "meso:mps_x":7.499378,
+    "meso:mps_y":9.264751,
+    "meso:name_local":"Bwari",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":9.264751,
+    "mps:longitude":7.499378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bwari"
+    ],
+    "name:eng_x_variant":[
+        "Abujamun",
+        "Bwari"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"914.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Bwari",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.FC",
+    "statoids:name":"Bwari",
+    "statoids:population":"227216",
+    "statoids:statoid":"NG.FC.BW",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.FC.BW"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057494,
+    "wof:geomhash":"b3e0fe428e587638dacac4cd264cc783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1108563179,
+    "wof:lastmodified":1536615197,
+    "wof:name":"Bwari",
+    "wof:parent_id":85675457,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":227216,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"BW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24976633973259,
+    9.15347136831215,
+    7.73006633973258,
+    9.43157136831212
+],
+  "geometry": {"coordinates":[[[7.38816633973257,9.34987136831216],[7.39386633973257,9.35397136831211],[7.3985663397326,9.35747136831216],[7.41766633973261,9.36707136831217],[7.44516633973264,9.36947136831215],[7.46306633973265,9.36827136831216],[7.47626633973263,9.37057136831212],[7.49656633973262,9.36227136831212],[7.50976633973261,9.36107136831213],[7.58986633973261,9.43157136831212],[7.6723663397326,9.41127136831213],[7.71956633973262,9.34637136831212],[7.73006633973258,9.33197136831215],[7.66756633973264,9.3036713683121],[7.60336633973263,9.16147136831212],[7.58716633973259,9.16147136831212],[7.58286633973261,9.15987136831216],[7.5300663397326,9.16727136831213],[7.44406633973257,9.16787136831212],[7.41206633973263,9.16467136831212],[7.3832663397326,9.16567136831217],[7.36776633973256,9.15667136831216],[7.33206633973263,9.15987136831216],[7.30536633973264,9.15347136831215],[7.26686633973258,9.15347136831215],[7.24976633973259,9.15577136831212],[7.38816633973257,9.34987136831216]]],"type":"Polygon"}
+}

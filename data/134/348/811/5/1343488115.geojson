@@ -1,0 +1,73 @@
+{
+  "id": 1343488115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69372,12.18684,6.69372,12.18684",
+    "geom:latitude":12.18684,
+    "geom:longitude":6.69372,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80709",
+    "gn:asciiname":"Guidan Begini",
+    "gn:country_code":"NG",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341110,
+    "gn:latitude":12.18684,
+    "gn:longitude":6.69372,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guidan Begini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Begini",
+        "Guidan Begini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341110
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8075f60947e6ddab30d2d35e507b9d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1343488115,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1343488115,
+    "wof:lastmodified":1537675243,
+    "wof:name":"Guidan Begini",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69372,
+    12.18684,
+    6.69372,
+    12.18684
+],
+  "geometry": {"coordinates":[6.69372,12.18684],"type":"Point"}
+}

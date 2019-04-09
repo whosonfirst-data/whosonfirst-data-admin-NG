@@ -1,0 +1,77 @@
+{
+  "id": 1243115247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66315,6.32218,6.66315,6.32218",
+    "geom:latitude":6.32218,
+    "geom:longitude":6.66315,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Ochonkie",
+    "gn:country_code":"NG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328108,
+    "gn:latitude":6.32218,
+    "gn:longitude":6.66315,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ochonkie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ochonkie"
+    ],
+    "name:eng_x_variant":[
+        "Ochankie"
+    ],
+    "name:und_x_variant":[
+        "Ochankie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328108
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f39fe18b2a2924c8a065c5047a27db9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564231,
+            "locality_id":1243115247,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243115247,
+    "wof:lastmodified":1537675061,
+    "wof:name":"Ochonkie",
+    "wof:parent_id":1108564231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66315,
+    6.32218,
+    6.66315,
+    6.32218
+],
+  "geometry": {"coordinates":[6.66315,6.32218],"type":"Point"}
+}

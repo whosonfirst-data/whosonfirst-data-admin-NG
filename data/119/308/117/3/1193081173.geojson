@@ -1,0 +1,68 @@
+{
+  "id": 1193081173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43622,10.0648,12.43622,10.0648",
+    "geom:latitude":10.0648,
+    "geom:longitude":12.43622,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Ghohta",
+    "gn:country_code":"NG",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836911,
+    "gn:latitude":10.0648,
+    "gn:longitude":12.43622,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ghohta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836911
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e69aae94c8d76535d37f3b08b6cd11f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1193081173,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193081173,
+    "wof:lastmodified":1536380598,
+    "wof:name":"Ghohta",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43622,
+    10.0648,
+    12.43622,
+    10.0648
+],
+  "geometry": {"coordinates":[12.43622,10.0648],"type":"Point"}
+}

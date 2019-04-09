@@ -1,0 +1,68 @@
+{
+  "id": 1293055997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.84322,5.90771,6.84322,5.90771",
+    "geom:latitude":5.90771,
+    "geom:longitude":6.84322,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4012.0",
+    "gn:asciiname":"Orkija",
+    "gn:country_code":"NG",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098541,
+    "gn:latitude":5.90771,
+    "gn:longitude":6.84322,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orkija",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098541
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b72076507daf281a3edd72f072e003fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563565,
+            "locality_id":1293055997,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1293055997,
+    "wof:lastmodified":1536912767,
+    "wof:name":"Orkija",
+    "wof:parent_id":1108563565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.84322,
+    5.90771,
+    6.84322,
+    5.90771
+],
+  "geometry": {"coordinates":[6.84322,5.90771],"type":"Point"}
+}

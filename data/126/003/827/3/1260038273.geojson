@@ -1,0 +1,68 @@
+{
+  "id": 1260038273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.15471,5.43623,8.15471,5.43623",
+    "geom:latitude":5.43623,
+    "geom:longitude":8.15471,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Ndeokpai",
+    "gn:country_code":"NG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329315,
+    "gn:latitude":5.43623,
+    "gn:longitude":8.15471,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndeokpai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329315
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"338d6d8b7606b208a71d84b7c9d07895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1260038273,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1260038273,
+    "wof:lastmodified":1537051144,
+    "wof:name":"Ndeokpai",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.15471,
+    5.43623,
+    8.15471,
+    5.43623
+],
+  "geometry": {"coordinates":[8.15471,5.43623],"type":"Point"}
+}

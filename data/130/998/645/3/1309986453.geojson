@@ -1,0 +1,71 @@
+{
+  "id": 1309986453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.66736,9.40884,7.66736,9.40884",
+    "geom:latitude":9.40884,
+    "geom:longitude":7.66736,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kudiri",
+    "gn:country_code":"NG",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333680,
+    "gn:latitude":9.40884,
+    "gn:longitude":7.66736,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kudiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuduri",
+        "Kudiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333680
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6fc812f7516e59f41dc104c8b6e3f609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1309986453,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1309986453,
+    "wof:lastmodified":1537675132,
+    "wof:name":"Kudiri",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.66736,
+    9.40884,
+    7.66736,
+    9.40884
+],
+  "geometry": {"coordinates":[7.66736,9.40884],"type":"Point"}
+}

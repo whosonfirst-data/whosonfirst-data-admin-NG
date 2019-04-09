@@ -1,0 +1,63 @@
+{
+  "id": 1209257035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.72788,11.70416,3.72788,11.70416",
+    "geom:latitude":11.70416,
+    "geom:longitude":3.72788,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"508.0",
+    "gn:admin3_code":"50809",
+    "gn:asciiname":"Diggi",
+    "gn:country_code":"NG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344877,
+    "gn:latitude":11.70416,
+    "gn:longitude":3.72788,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Diggi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344877
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"45df749ebd1fe14f879324be07a54955",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209257035
+        }
+    ],
+    "wof:id":1209257035,
+    "wof:lastmodified":1536292820,
+    "wof:name":"Diggi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.72788,
+    11.70416,
+    3.72788,
+    11.70416
+],
+  "geometry": {"coordinates":[3.72788,11.70416],"type":"Point"}
+}

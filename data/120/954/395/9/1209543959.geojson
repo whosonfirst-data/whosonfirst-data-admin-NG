@@ -1,0 +1,65 @@
+{
+  "id": 1209543959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.21794,9.89024,11.21794,9.89024",
+    "geom:latitude":9.89024,
+    "geom:longitude":11.21794,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16003.0",
+    "gn:asciiname":"Billiri",
+    "gn:country_code":"NG",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2347154,
+    "gn:latitude":9.89024,
+    "gn:longitude":11.21794,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Billiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biliri Laushi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347154
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bcc63d9f44b0826194f247455c6a2501",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209543959
+        }
+    ],
+    "wof:id":1209543959,
+    "wof:lastmodified":1537675331,
+    "wof:name":"Billiri",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.21794,
+    9.89024,
+    11.21794,
+    9.89024
+],
+  "geometry": {"coordinates":[11.21794,9.89024],"type":"Point"}
+}

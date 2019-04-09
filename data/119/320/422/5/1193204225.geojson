@@ -1,0 +1,68 @@
+{
+  "id": 1193204225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.58922,10.26798,12.58922,10.26798",
+    "geom:latitude":10.26798,
+    "geom:longitude":12.58922,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Kwata",
+    "gn:country_code":"NG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332746,
+    "gn:latitude":10.26798,
+    "gn:longitude":12.58922,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332746
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e49b7aebee8ff2bffee22e394ae28616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1193204225,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193204225,
+    "wof:lastmodified":1536369496,
+    "wof:name":"Kwata",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58922,
+    10.26798,
+    12.58922,
+    10.26798
+],
+  "geometry": {"coordinates":[12.58922,10.26798],"type":"Point"}
+}

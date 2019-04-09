@@ -1,0 +1,68 @@
+{
+  "id": 1243176611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3572,6.63769,3.3572,6.63769",
+    "geom:latitude":6.63769,
+    "geom:longitude":3.3572,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25011.0",
+    "gn:asciiname":"Omole",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566692,
+    "gn:latitude":6.63769,
+    "gn:longitude":3.3572,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Omole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421181827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566692
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79bd42a2aab49e7ad1ad6850e64d3487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421181827,
+            "locality_id":1243176611,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1243176611,
+    "wof:lastmodified":1536697800,
+    "wof:name":"Omole",
+    "wof:parent_id":421181827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3572,
+    6.63769,
+    3.3572,
+    6.63769
+],
+  "geometry": {"coordinates":[3.3572,6.63769],"type":"Point"}
+}

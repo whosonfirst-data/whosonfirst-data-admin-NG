@@ -1,0 +1,68 @@
+{
+  "id": 1259616319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19527,9.37102,6.19527,9.37102",
+    "geom:latitude":9.37102,
+    "geom:longitude":6.19527,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010",
+    "gn:asciiname":"Sonkan",
+    "gn:country_code":"NG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10317198,
+    "gn:latitude":9.37102,
+    "gn:longitude":6.19527,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sonkan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317198
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9d5390459c21d3bdfa29e3ef7921b0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1259616319,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1259616319,
+    "wof:lastmodified":1536667536,
+    "wof:name":"Sonkan",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19527,
+    9.37102,
+    6.19527,
+    9.37102
+],
+  "geometry": {"coordinates":[6.19527,9.37102],"type":"Point"}
+}

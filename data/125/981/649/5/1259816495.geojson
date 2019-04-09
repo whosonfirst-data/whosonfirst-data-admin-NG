@@ -1,0 +1,69 @@
+{
+  "id": 1259816495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.15118,12.02351,7.15118,12.02351",
+    "geom:latitude":12.02351,
+    "geom:longitude":7.15118,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"813.0",
+    "gn:admin3_code":"81310",
+    "gn:asciiname":"Gurbi",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998604,
+    "gn:latitude":12.02351,
+    "gn:longitude":7.15118,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gurbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998604
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a61e0b1b2904420db913545c559c01ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563769,
+            "locality_id":1259816495,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1259816495,
+    "wof:lastmodified":1536874838,
+    "wof:name":"Gurbi",
+    "wof:parent_id":1108563769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.15118,
+    12.02351,
+    7.15118,
+    12.02351
+],
+  "geometry": {"coordinates":[7.15118,12.02351],"type":"Point"}
+}

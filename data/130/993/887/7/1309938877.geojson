@@ -1,0 +1,73 @@
+{
+  "id": 1309938877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.9727,4.80836,6.9727,4.80836",
+    "geom:latitude":4.80836,
+    "geom:longitude":6.9727,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33015.0",
+    "gn:asciiname":"Mgbuosimiri",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591144,
+    "gn:latitude":4.80836,
+    "gn:longitude":6.9727,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mgbuosimiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nbuosimiri",
+        "Mgbuosimiri",
+        "Mgbuosimini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591144
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dd9aad7add3becd131a197ecd49f3cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564071,
+            "locality_id":1309938877,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1309938877,
+    "wof:lastmodified":1537675401,
+    "wof:name":"Mgbuosimiri",
+    "wof:parent_id":1108564071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.9727,
+    4.80836,
+    6.9727,
+    4.80836
+],
+  "geometry": {"coordinates":[6.9727,4.80836],"type":"Point"}
+}

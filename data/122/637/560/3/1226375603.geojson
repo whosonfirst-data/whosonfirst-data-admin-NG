@@ -1,0 +1,68 @@
+{
+  "id": 1226375603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.23494,10.16007,11.23494,10.16007",
+    "geom:latitude":10.16007,
+    "geom:longitude":11.23494,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16001.0",
+    "gn:asciiname":"Kobini",
+    "gn:country_code":"NG",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334280,
+    "gn:latitude":10.16007,
+    "gn:longitude":11.23494,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kobini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334280
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ab8f7ca24b5be33ef48028cabbf24d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1226375603,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1226375603,
+    "wof:lastmodified":1536746341,
+    "wof:name":"Kobini",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.23494,
+    10.16007,
+    11.23494,
+    10.16007
+],
+  "geometry": {"coordinates":[11.23494,10.16007],"type":"Point"}
+}

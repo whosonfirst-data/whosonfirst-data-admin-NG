@@ -1,0 +1,68 @@
+{
+  "id": 1226777187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.77569,9.52623,6.77569,9.52623",
+    "geom:latitude":9.52623,
+    "geom:longitude":6.77569,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019",
+    "gn:asciiname":"Gewi",
+    "gn:country_code":"NG",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409731,
+    "gn:latitude":9.52623,
+    "gn:longitude":6.77569,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gewi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409731
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e56dc9be81b6ca237f81031d34ab80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1226777187,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226777187,
+    "wof:lastmodified":1536670374,
+    "wof:name":"Gewi",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.77569,
+    9.52623,
+    6.77569,
+    9.52623
+],
+  "geometry": {"coordinates":[6.77569,9.52623],"type":"Point"}
+}

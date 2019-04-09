@@ -1,0 +1,71 @@
+{
+  "id": 1309832673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.39591,11.01459,11.39591,11.01459",
+    "geom:latitude":11.01459,
+    "geom:longitude":11.39591,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16005.0",
+    "gn:asciiname":"Jumbor",
+    "gn:country_code":"NG",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335972,
+    "gn:latitude":11.01459,
+    "gn:longitude":11.39591,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jumbor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jombor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335972
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"523df58f0ec3fc3ab97b98f406aeece7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563373,
+            "locality_id":1309832673,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1309832673,
+    "wof:lastmodified":1537675162,
+    "wof:name":"Jumbor",
+    "wof:parent_id":1108563373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.39591,
+    11.01459,
+    11.39591,
+    11.01459
+],
+  "geometry": {"coordinates":[11.39591,11.01459],"type":"Point"}
+}

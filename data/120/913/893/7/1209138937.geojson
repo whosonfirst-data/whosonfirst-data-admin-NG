@@ -1,0 +1,62 @@
+{
+  "id": 1209138937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.97669,9.30189,5.97669,9.30189",
+    "geom:latitude":9.30189,
+    "geom:longitude":5.97669,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Yisa Nnadzuma",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10308391,
+    "gn:latitude":9.30189,
+    "gn:longitude":5.97669,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yisa Nnadzuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308391
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c1c8e4e593a368bf2a55d39a6032809f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138937
+        }
+    ],
+    "wof:id":1209138937,
+    "wof:lastmodified":1536296569,
+    "wof:name":"Yisa Nnadzuma",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9766900000000005,
+    9.30189,
+    5.9766900000000005,
+    9.30189
+],
+  "geometry": {"coordinates":[5.97669,9.30189],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226776161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71667,8.26667,8.71667,8.26667",
+    "geom:latitude":8.26667,
+    "geom:longitude":8.71667,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26011.0",
+    "gn:asciiname":"Awana",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348808,
+    "gn:latitude":8.26667,
+    "gn:longitude":8.71667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awena",
+        "Awana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348808
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bc3971544340440c426b1bbc6f9fcd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564075,
+            "locality_id":1226776161,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1226776161,
+    "wof:lastmodified":1537675349,
+    "wof:name":"Awana",
+    "wof:parent_id":1108564075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71667,
+    8.26667,
+    8.71667,
+    8.26667
+],
+  "geometry": {"coordinates":[8.71667,8.26667],"type":"Point"}
+}

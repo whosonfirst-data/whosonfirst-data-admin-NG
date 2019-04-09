@@ -1,0 +1,64 @@
+{
+  "id": 1209448103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.05316,9.45466,11.05316,9.45466",
+    "geom:latitude":9.45466,
+    "geom:longitude":11.05316,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Damzo",
+    "gn:country_code":"NG",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307707,
+    "gn:latitude":9.45466,
+    "gn:longitude":11.05316,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Damzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Damzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307707
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fcd56da476dd17722cb7cb1619df0343",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209448103
+        }
+    ],
+    "wof:id":1209448103,
+    "wof:lastmodified":1537675521,
+    "wof:name":"Damzo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.05316,
+    9.45466,
+    11.05316,
+    9.45466
+],
+  "geometry": {"coordinates":[11.05316,9.45466],"type":"Point"}
+}

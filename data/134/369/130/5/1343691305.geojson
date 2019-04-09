@@ -1,0 +1,68 @@
+{
+  "id": 1343691305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.2508,6.56712,7.2508,6.56712",
+    "geom:latitude":6.56712,
+    "geom:longitude":7.2508,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14016",
+    "gn:asciiname":"Amofea-Agu",
+    "gn:country_code":"NG",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9189429,
+    "gn:latitude":6.56712,
+    "gn:longitude":7.2508,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amofea-Agu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9189429
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c79d20fe8dc50d1b4b767665a7dc176e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564433,
+            "locality_id":1343691305,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1343691305,
+    "wof:lastmodified":1536911082,
+    "wof:name":"Amofea-Agu",
+    "wof:parent_id":1108564433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.2508,
+    6.56712,
+    7.2508,
+    6.56712
+],
+  "geometry": {"coordinates":[7.2508,6.56712],"type":"Point"}
+}

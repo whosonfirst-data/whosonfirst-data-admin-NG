@@ -1,0 +1,72 @@
+{
+  "id": 1276907945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39754,9.79494,9.39754,9.79494",
+    "geom:latitude":9.79494,
+    "geom:longitude":9.39754,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5017.0",
+    "gn:admin3_code":"BA1706",
+    "gn:asciiname":"Kardam",
+    "gn:country_code":"NG",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335060,
+    "gn:latitude":9.79494,
+    "gn:longitude":9.39754,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kardam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kardam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335060
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fcd30f9d70f382add7630391ba3f3112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564391,
+            "locality_id":1276907945,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1276907945,
+    "wof:lastmodified":1537675150,
+    "wof:name":"Kardam",
+    "wof:parent_id":1108564391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39754,
+    9.79494,
+    9.39754,
+    9.79494
+],
+  "geometry": {"coordinates":[9.39754,9.79494],"type":"Point"}
+}

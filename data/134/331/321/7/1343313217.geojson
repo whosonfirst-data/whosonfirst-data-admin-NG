@@ -1,0 +1,74 @@
+{
+  "id": 1343313217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.01667,10.9,5.01667,10.9",
+    "geom:latitude":10.9,
+    "geom:longitude":5.01667,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"515.0",
+    "gn:admin3_code":"51506",
+    "gn:asciiname":"Mabiro",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331768,
+    "gn:latitude":10.9,
+    "gn:longitude":5.01667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mabiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabirio",
+        "Mabiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331768
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ea79417223a475b827d77abbe8253b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564027,
+            "locality_id":1343313217,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1343313217,
+    "wof:lastmodified":1537675111,
+    "wof:name":"Mabiro",
+    "wof:parent_id":1108564027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.01667,
+    10.9,
+    5.01667,
+    10.9
+],
+  "geometry": {"coordinates":[5.01667,10.9],"type":"Point"}
+}

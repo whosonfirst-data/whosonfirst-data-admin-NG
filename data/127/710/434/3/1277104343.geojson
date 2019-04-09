@@ -1,0 +1,71 @@
+{
+  "id": 1277104343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7342,6.2737,7.7342,6.2737",
+    "geom:latitude":6.2737,
+    "geom:longitude":7.7342,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11008.0",
+    "gn:asciiname":"Ezzagu",
+    "gn:country_code":"NG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342885,
+    "gn:latitude":6.2737,
+    "gn:longitude":7.7342,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ezzagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ezza-Agu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342885
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"000da6717a005e6d18404fcf97d486fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563671,
+            "locality_id":1277104343,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1277104343,
+    "wof:lastmodified":1537675268,
+    "wof:name":"Ezzagu",
+    "wof:parent_id":1108563671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7342,
+    6.2737,
+    7.7342,
+    6.2737
+],
+  "geometry": {"coordinates":[7.7342,6.2737],"type":"Point"}
+}

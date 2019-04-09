@@ -1,0 +1,72 @@
+{
+  "id": 1309938925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.91667,9.35,5.91667,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":5.91667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Malam Gana",
+    "gn:country_code":"NG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321227,
+    "gn:latitude":9.35,
+    "gn:longitude":5.91667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Malam Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tungan Malam Gana",
+        "Tungar Malam Gana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321227
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc5c59558684216e522e55c7b1163c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1309938925,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1309938925,
+    "wof:lastmodified":1537674963,
+    "wof:name":"Malam Gana",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.91667,
+    9.35,
+    5.91667,
+    9.35
+],
+  "geometry": {"coordinates":[5.91667,9.35],"type":"Point"}
+}

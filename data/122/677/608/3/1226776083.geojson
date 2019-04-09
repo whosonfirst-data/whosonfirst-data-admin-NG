@@ -1,0 +1,70 @@
+{
+  "id": 1226776083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03075,9.43962,11.03075,9.43962",
+    "geom:latitude":9.43962,
+    "geom:longitude":11.03075,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Kamau",
+    "gn:country_code":"NG",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307706,
+    "gn:latitude":9.43962,
+    "gn:longitude":11.03075,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kamau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kamau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307706
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6349055ae07ac41c448f5001f3451804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1226776083,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226776083,
+    "wof:lastmodified":1537675521,
+    "wof:name":"Kamau",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03075,
+    9.43962,
+    11.03075,
+    9.43962
+],
+  "geometry": {"coordinates":[11.03075,9.43962],"type":"Point"}
+}

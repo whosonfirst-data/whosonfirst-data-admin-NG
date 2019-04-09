@@ -1,0 +1,68 @@
+{
+  "id": 1243345387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.95,7.3,2.95,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":2.95,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28004.0",
+    "gn:asciiname":"Laniyan",
+    "gn:country_code":"NG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332271,
+    "gn:latitude":7.3,
+    "gn:longitude":2.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Laniyan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332271
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"752405739d4fd78cb6c41cac97d0b829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563269,
+            "locality_id":1243345387,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1243345387,
+    "wof:lastmodified":1536951490,
+    "wof:name":"Laniyan",
+    "wof:parent_id":1108563269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.95,
+    7.3,
+    2.95,
+    7.3
+],
+  "geometry": {"coordinates":[2.95,7.3],"type":"Point"}
+}

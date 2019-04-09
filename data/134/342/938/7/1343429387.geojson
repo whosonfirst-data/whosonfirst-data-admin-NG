@@ -1,0 +1,74 @@
+{
+  "id": 1343429387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.16693,9.19456,8.16693,9.19456",
+    "geom:latitude":9.19456,
+    "geom:longitude":8.16693,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19020.0",
+    "gn:admin3_code":"KD2011",
+    "gn:asciiname":"Ungwan Ali Nungu",
+    "gn:country_code":"NG",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332812,
+    "gn:latitude":9.19456,
+    "gn:longitude":8.16693,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Ali Nungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwakwasa",
+        "Kwankwasa",
+        "Ungwan Ali Nungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332812
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b1f66624331375e4fe48f40b96a8c415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563721,
+            "locality_id":1343429387,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1343429387,
+    "wof:lastmodified":1537675122,
+    "wof:name":"Ungwan Ali Nungu",
+    "wof:parent_id":1108563721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.16693,
+    9.19456,
+    8.16693,
+    9.19456
+],
+  "geometry": {"coordinates":[8.16693,9.19456],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293622075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13266,4.80029,6.13266,4.80029",
+    "geom:latitude":4.80029,
+    "geom:longitude":6.13266,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Luduon",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331892,
+    "gn:latitude":4.80029,
+    "gn:longitude":6.13266,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Luduon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331892
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fccd5b17b775be0e0bc393c86a90380e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564377,
+            "locality_id":1293622075,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1293622075,
+    "wof:lastmodified":1537087065,
+    "wof:name":"Luduon",
+    "wof:parent_id":1108564377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13266,
+    4.80029,
+    6.13266,
+    4.80029
+],
+  "geometry": {"coordinates":[6.13266,4.80029],"type":"Point"}
+}

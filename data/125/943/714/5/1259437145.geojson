@@ -1,0 +1,68 @@
+{
+  "id": 1259437145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.06156,7.86896,8.06156,7.86896",
+    "geom:latitude":7.86896,
+    "geom:longitude":8.06156,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7002.0",
+    "gn:asciiname":"Akwu",
+    "gn:country_code":"NG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852909,
+    "gn:latitude":7.86896,
+    "gn:longitude":8.06156,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akwu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108562935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852909
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"41523ebd0bbd090dacd0fc95bbf8c021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562935,
+            "locality_id":1259437145,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259437145,
+    "wof:lastmodified":1536926260,
+    "wof:name":"Akwu",
+    "wof:parent_id":1108562935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.06156,
+    7.86896,
+    8.06156,
+    7.86896
+],
+  "geometry": {"coordinates":[8.06156,7.86896],"type":"Point"}
+}

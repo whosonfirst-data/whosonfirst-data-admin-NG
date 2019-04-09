@@ -1,0 +1,69 @@
+{
+  "id": 1292969005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.34674,12.19339,7.34674,12.19339",
+    "geom:latitude":12.19339,
+    "geom:longitude":7.34674,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"409.0",
+    "gn:admin3_code":"40906",
+    "gn:asciiname":"Metevino",
+    "gn:country_code":"NG",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998575,
+    "gn:latitude":12.19339,
+    "gn:longitude":7.34674,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Metevino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998575
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"94025abc03b42c38c4558cb3a71772af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563205,
+            "locality_id":1292969005,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1292969005,
+    "wof:lastmodified":1537036021,
+    "wof:name":"Metevino",
+    "wof:parent_id":1108563205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.34674,
+    12.19339,
+    7.34674,
+    12.19339
+],
+  "geometry": {"coordinates":[7.34674,12.19339],"type":"Point"}
+}

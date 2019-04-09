@@ -1,0 +1,71 @@
+{
+  "id": 1293533813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3878,8.99311,12.3878,8.99311",
+    "geom:latitude":8.99311,
+    "geom:longitude":12.3878,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Tawa",
+    "gn:country_code":"NG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322299,
+    "gn:latitude":8.99311,
+    "gn:longitude":12.3878,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Tawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322299
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e34d9fa83f2e334db30b5d2fa4305b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1293533813,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293533813,
+    "wof:lastmodified":1537674975,
+    "wof:name":"Tawa",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3878,
+    8.99311,
+    12.3878,
+    8.99311
+],
+  "geometry": {"coordinates":[12.3878,8.99311],"type":"Point"}
+}

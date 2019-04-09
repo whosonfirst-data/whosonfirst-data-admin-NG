@@ -1,0 +1,67 @@
+{
+  "id": 1209182619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.38796,9.52148,8.38796,9.52148",
+    "geom:latitude":9.52148,
+    "geom:longitude":8.38796,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19007.0",
+    "gn:admin3_code":"KD0710",
+    "gn:asciiname":"Tafan",
+    "gn:country_code":"NG",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322657,
+    "gn:latitude":9.52148,
+    "gn:longitude":8.38796,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tafan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tafam",
+        "Tafan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322657
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"acff649728628e86bb24f813e8c1b2e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209182619
+        }
+    ],
+    "wof:id":1209182619,
+    "wof:lastmodified":1537674980,
+    "wof:name":"Tafan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.38796,
+    9.52148,
+    8.38796,
+    9.52148
+],
+  "geometry": {"coordinates":[8.38796,9.52148],"type":"Point"}
+}

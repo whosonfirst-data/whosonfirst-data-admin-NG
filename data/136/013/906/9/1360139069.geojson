@@ -1,0 +1,68 @@
+{
+  "id": 1360139069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.0912,7.14959,9.0912,7.14959",
+    "geom:latitude":7.14959,
+    "geom:longitude":9.0912,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Ortema",
+    "gn:country_code":"NG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637900,
+    "gn:latitude":7.14959,
+    "gn:longitude":9.0912,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ortema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637900
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3540ac1d380474c55c6f18257a1689b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1360139069,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1360139069,
+    "wof:lastmodified":1536866641,
+    "wof:name":"Ortema",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.0912,
+    7.14959,
+    9.0912,
+    7.14959
+],
+  "geometry": {"coordinates":[9.0912,7.14959],"type":"Point"}
+}

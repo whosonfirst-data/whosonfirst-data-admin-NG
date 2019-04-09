@@ -1,0 +1,64 @@
+{
+  "id": 1209241271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.652,9.23605,11.652,9.23605",
+    "geom:latitude":9.23605,
+    "geom:longitude":11.652,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Mayo Karlahi",
+    "gn:country_code":"NG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209369,
+    "gn:latitude":9.23605,
+    "gn:longitude":11.652,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Mayo Karlahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mayo Karlahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209369
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6c2343c1f35667c43e3d30a95d024554",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241271
+        }
+    ],
+    "wof:id":1209241271,
+    "wof:lastmodified":1537675500,
+    "wof:name":"Mayo Karlahi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.652,
+    9.23605,
+    11.652,
+    9.23605
+],
+  "geometry": {"coordinates":[11.652,9.23605],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326580657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.05447,10.05293,12.05447,10.05293",
+    "geom:latitude":10.05293,
+    "geom:longitude":12.05447,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"127.0",
+    "gn:admin3_code":"12706",
+    "gn:asciiname":"Hamma Aji",
+    "gn:country_code":"NG",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339600,
+    "gn:latitude":10.05293,
+    "gn:longitude":12.05447,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hamma Aji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108564349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339600
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"29cecd2e3871421e09ba1730fca80a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564349,
+            "locality_id":1326580657,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1326580657,
+    "wof:lastmodified":1536914810,
+    "wof:name":"Hamma Aji",
+    "wof:parent_id":1108564349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05447,
+    10.05293,
+    12.05447,
+    10.05293
+],
+  "geometry": {"coordinates":[12.05447,10.05293],"type":"Point"}
+}

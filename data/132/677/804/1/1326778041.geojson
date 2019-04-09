@@ -1,0 +1,69 @@
+{
+  "id": 1326778041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52483,12.77303,13.52483,12.77303",
+    "geom:latitude":12.77303,
+    "geom:longitude":13.52483,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"123",
+    "gn:admin3_code":"12307",
+    "gn:asciiname":"Yuramti",
+    "gn:country_code":"NG",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8723604,
+    "gn:latitude":12.77303,
+    "gn:longitude":13.52483,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yuramti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8723604
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb9adba989771da4a135b673c5054258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563853,
+            "locality_id":1326778041,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1326778041,
+    "wof:lastmodified":1536627973,
+    "wof:name":"Yuramti",
+    "wof:parent_id":1108563853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52483,
+    12.77303,
+    13.52483,
+    12.77303
+],
+  "geometry": {"coordinates":[13.52483,12.77303],"type":"Point"}
+}

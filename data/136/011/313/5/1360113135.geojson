@@ -1,0 +1,69 @@
+{
+  "id": 1360113135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56768,13.59142,5.56768,13.59142",
+    "geom:latitude":13.59142,
+    "geom:longitude":5.56768,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"604.0",
+    "gn:admin3_code":"60411",
+    "gn:asciiname":"Salamawa",
+    "gn:country_code":"NG",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015964,
+    "gn:latitude":13.59142,
+    "gn:longitude":5.56768,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Salamawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015964
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b9a52eedee5e6215511cb7381bf9ba8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563383,
+            "locality_id":1360113135,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1360113135,
+    "wof:lastmodified":1536905460,
+    "wof:name":"Salamawa",
+    "wof:parent_id":1108563383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56768,
+    13.59142,
+    5.56768,
+    13.59142
+],
+  "geometry": {"coordinates":[5.56768,13.59142],"type":"Point"}
+}

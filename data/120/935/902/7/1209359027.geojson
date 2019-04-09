@@ -1,0 +1,65 @@
+{
+  "id": 1209359027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.42884,9.00032,12.42884,9.00032",
+    "geom:latitude":9.00032,
+    "geom:longitude":12.42884,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002",
+    "gn:asciiname":"Sayil",
+    "gn:country_code":"NG",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420466,
+    "gn:latitude":9.00032,
+    "gn:longitude":12.42884,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Sayil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sayil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420466
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f9c94048106760cadf45f40357a1f5c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209359027
+        }
+    ],
+    "wof:id":1209359027,
+    "wof:lastmodified":1537675471,
+    "wof:name":"Sayil",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.42884,
+    9.00032,
+    12.42884,
+    9.00032
+],
+  "geometry": {"coordinates":[12.42884,9.00032],"type":"Point"}
+}

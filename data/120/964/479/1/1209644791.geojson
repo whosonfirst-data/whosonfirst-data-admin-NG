@@ -1,0 +1,65 @@
+{
+  "id": 1209644791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.51728,4.96696,5.51728,4.96696",
+    "geom:latitude":4.96696,
+    "geom:longitude":5.51728,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Gbaghagbene",
+    "gn:country_code":"NG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040504,
+    "gn:latitude":4.96696,
+    "gn:longitude":5.51728,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Gbaghagbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gbaghagbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040504
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0f6093dff2dd0b942578af7d50dc7a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644791
+        }
+    ],
+    "wof:id":1209644791,
+    "wof:lastmodified":1537675434,
+    "wof:name":"Gbaghagbene",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.51728,
+    4.96696,
+    5.51728,
+    4.96696
+],
+  "geometry": {"coordinates":[5.51728,4.96696],"type":"Point"}
+}

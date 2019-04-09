@@ -1,0 +1,74 @@
+{
+  "id": 1243507391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.94372,5.71143,5.94372,5.71143",
+    "geom:latitude":5.71143,
+    "geom:longitude":5.94372,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10005.0",
+    "gn:asciiname":"Okovwavwa",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027953,
+    "gn:latitude":5.71143,
+    "gn:longitude":5.94372,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Okovwavwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okovwavwa"
+    ],
+    "name:eng_x_variant":[
+        "Okunu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027953
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d756c69382bdbb4b8876b117db68f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563333,
+            "locality_id":1243507391,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243507391,
+    "wof:lastmodified":1537675422,
+    "wof:name":"Okovwavwa",
+    "wof:parent_id":1108563333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.94372,
+    5.71143,
+    5.94372,
+    5.71143
+],
+  "geometry": {"coordinates":[5.94372,5.71143],"type":"Point"}
+}

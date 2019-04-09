@@ -1,0 +1,68 @@
+{
+  "id": 1310349561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.02184,8.56985,12.02184,8.56985",
+    "geom:latitude":8.56985,
+    "geom:longitude":12.02184,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Desel",
+    "gn:country_code":"NG",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344924,
+    "gn:latitude":8.56985,
+    "gn:longitude":12.02184,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Desel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344924
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ecc84701db8fb79a588e6153f57d25fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1310349561,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310349561,
+    "wof:lastmodified":1536643846,
+    "wof:name":"Desel",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.02184,
+    8.56985,
+    12.02184,
+    8.56985
+],
+  "geometry": {"coordinates":[12.02184,8.56985],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260378745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52759,9.05345,7.52759,9.05345",
+    "geom:latitude":9.05345,
+    "geom:longitude":7.52759,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Asokoro",
+    "gn:country_code":"NG",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349107,
+    "gn:latitude":9.05345,
+    "gn:longitude":7.52759,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Asokoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aso",
+        "Asokoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        421178395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349107
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"67145faf6ff357ae56e6565bfecca918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":1260378745,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1260378745,
+    "wof:lastmodified":1537675352,
+    "wof:name":"Asokoro",
+    "wof:parent_id":421178395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52759,
+    9.05345,
+    7.52759,
+    9.05345
+],
+  "geometry": {"coordinates":[7.52759,9.05345],"type":"Point"}
+}

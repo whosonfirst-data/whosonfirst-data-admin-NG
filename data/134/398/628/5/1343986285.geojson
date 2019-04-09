@@ -1,0 +1,68 @@
+{
+  "id": 1343986285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19928,7.62066,6.19928,7.62066",
+    "geom:latitude":7.62066,
+    "geom:longitude":6.19928,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23016.0",
+    "gn:asciiname":"Obangede",
+    "gn:country_code":"NG",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":6834204,
+    "gn:latitude":7.62066,
+    "gn:longitude":6.19928,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obangede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6834204
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6f86c36f08b58c96a11c1ba53c209cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564151,
+            "locality_id":1343986285,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1343986285,
+    "wof:lastmodified":1536982119,
+    "wof:name":"Obangede",
+    "wof:parent_id":1108564151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19928,
+    7.62066,
+    6.19928,
+    7.62066
+],
+  "geometry": {"coordinates":[6.19928,7.62066],"type":"Point"}
+}

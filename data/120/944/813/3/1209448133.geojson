@@ -1,0 +1,63 @@
+{
+  "id": 1209448133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.16642,12.99953,11.16642,12.99953",
+    "geom:latitude":12.99953,
+    "geom:longitude":11.16642,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717",
+    "gn:admin3_code":"71702",
+    "gn:asciiname":"Sherifori",
+    "gn:country_code":"NG",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311984,
+    "gn:latitude":12.99953,
+    "gn:longitude":11.16642,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sherifori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311984
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b519be63d784be2a9477aa734099e297",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209448133
+        }
+    ],
+    "wof:id":1209448133,
+    "wof:lastmodified":1536286754,
+    "wof:name":"Sherifori",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.16642,
+    12.99953,
+    11.16642,
+    12.99953
+],
+  "geometry": {"coordinates":[11.16642,12.99953],"type":"Point"}
+}

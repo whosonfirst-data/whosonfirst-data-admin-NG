@@ -1,0 +1,68 @@
+{
+  "id": 1293055377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63605,7.38853,8.63605,7.38853",
+    "geom:latitude":7.38853,
+    "geom:longitude":8.63605,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Uandel",
+    "gn:country_code":"NG",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321076,
+    "gn:latitude":7.38853,
+    "gn:longitude":8.63605,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uandel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321076
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d6080e3cd97c35ea602c5bf987b9e932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1293055377,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293055377,
+    "wof:lastmodified":1536913690,
+    "wof:name":"Uandel",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63605,
+    7.38853,
+    8.63605,
+    7.38853
+],
+  "geometry": {"coordinates":[8.63605,7.38853],"type":"Point"}
+}

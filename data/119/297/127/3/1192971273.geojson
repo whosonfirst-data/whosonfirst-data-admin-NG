@@ -1,0 +1,71 @@
+{
+  "id": 1192971273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15477,6.31375,6.15477,6.31375",
+    "geom:latitude":6.31375,
+    "geom:longitude":6.15477,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10008.0",
+    "gn:asciiname":"Ahimua",
+    "gn:country_code":"NG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351665,
+    "gn:latitude":6.31375,
+    "gn:longitude":6.15477,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ahimua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ahimua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351665
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f19d69ff972cb2aba8f53ab1f3b8c933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563585,
+            "locality_id":1192971273,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1192971273,
+    "wof:lastmodified":1537675383,
+    "wof:name":"Ahimua",
+    "wof:parent_id":1108563585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15477,
+    6.31375,
+    6.15477,
+    6.31375
+],
+  "geometry": {"coordinates":[6.15477,6.31375],"type":"Point"}
+}

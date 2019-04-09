@@ -1,0 +1,71 @@
+{
+  "id": 1260332143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.26148,10.2537,13.26148,10.2537",
+    "geom:latitude":10.2537,
+    "geom:longitude":13.26148,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014",
+    "gn:asciiname":"Gaya",
+    "gn:country_code":"NG",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742780,
+    "gn:latitude":10.2537,
+    "gn:longitude":13.26148,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742780
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0b83199302aff33d7aeea4ace67af1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":1260332143,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1260332143,
+    "wof:lastmodified":1537675462,
+    "wof:name":"Gaya",
+    "wof:parent_id":1108563997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.26148,
+    10.2537,
+    13.26148,
+    10.2537
+],
+  "geometry": {"coordinates":[13.26148,10.2537],"type":"Point"}
+}

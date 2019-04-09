@@ -1,0 +1,74 @@
+{
+  "id": 1193176029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15878,6.28822,6.15878,6.28822",
+    "geom:latitude":6.28822,
+    "geom:longitude":6.15878,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10008.0",
+    "gn:asciiname":"Alijemisi",
+    "gn:country_code":"NG",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350418,
+    "gn:latitude":6.28822,
+    "gn:longitude":6.15878,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alijemisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alisime"
+    ],
+    "name:eng_x_variant":[
+        "Alijemisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350418
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc88b7cbe245e91547d307961e9cb8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563585,
+            "locality_id":1193176029,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1193176029,
+    "wof:lastmodified":1537675369,
+    "wof:name":"Alijemisi",
+    "wof:parent_id":1108563585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15878,
+    6.28822,
+    6.15878,
+    6.28822
+],
+  "geometry": {"coordinates":[6.15878,6.28822],"type":"Point"}
+}

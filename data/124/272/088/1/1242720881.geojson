@@ -1,0 +1,77 @@
+{
+  "id": 1242720881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.22591,6.4977,6.22591,6.4977",
+    "geom:latitude":6.4977,
+    "geom:longitude":6.22591,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12010.0",
+    "gn:asciiname":"Ebelle",
+    "gn:country_code":"NG",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344132,
+    "gn:latitude":6.4977,
+    "gn:longitude":6.22591,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ebelle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ebelle"
+    ],
+    "name:eng_x_variant":[
+        "Ebele"
+    ],
+    "name:und_x_variant":[
+        "Ebele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344132
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"25d37d152658cae3e68b76a6e6d3fb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563563,
+            "locality_id":1242720881,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1242720881,
+    "wof:lastmodified":1537675291,
+    "wof:name":"Ebelle",
+    "wof:parent_id":1108563563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.22591,
+    6.4977,
+    6.22591,
+    6.4977
+],
+  "geometry": {"coordinates":[6.22591,6.4977],"type":"Point"}
+}

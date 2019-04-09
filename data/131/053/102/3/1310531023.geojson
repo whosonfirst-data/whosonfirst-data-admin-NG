@@ -1,0 +1,68 @@
+{
+  "id": 1310531023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.06667,8.11667,9.06667,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":9.06667,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26002.0",
+    "gn:asciiname":"Sheigba",
+    "gn:country_code":"NG",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323275,
+    "gn:latitude":8.11667,
+    "gn:longitude":9.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sheigba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323275
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bad1ac6f7b1ab9ba443b8b2151101e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563053,
+            "locality_id":1310531023,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1310531023,
+    "wof:lastmodified":1536879422,
+    "wof:name":"Sheigba",
+    "wof:parent_id":1108563053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.06667,
+    8.11667,
+    9.06667,
+    8.11667
+],
+  "geometry": {"coordinates":[9.06667,8.11667],"type":"Point"}
+}

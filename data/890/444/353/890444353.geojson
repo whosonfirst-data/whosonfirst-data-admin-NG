@@ -1,0 +1,68 @@
+{
+  "id": 890444353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93472,11.28444,5.93472,11.28444",
+    "geom:latitude":11.28444,
+    "geom:longitude":5.93472,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":8361,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Bena",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347304,
+        "gp:id":1387643,
+        "qs:id":1035085,
+        "wk:page":"Bena"
+    },
+    "wof:country":"NG",
+    "wof:created":1469052465,
+    "wof:geomhash":"74c510a6cd40641bfe7f99fbce8794be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564505,
+            "locality_id":890444353,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":890444353,
+    "wof:lastmodified":1527782127,
+    "wof:name":"Bena",
+    "wof:parent_id":1108564505,
+    "wof:placetype":"locality",
+    "wof:population":8361,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93472,
+    11.28444,
+    5.93472,
+    11.28444
+],
+  "geometry": {"coordinates":[5.93472,11.28444],"type":"Point"}
+}

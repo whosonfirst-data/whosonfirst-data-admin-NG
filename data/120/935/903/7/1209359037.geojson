@@ -1,0 +1,64 @@
+{
+  "id": 1209359037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08161,9.08159,12.08161,9.08159",
+    "geom:latitude":9.08159,
+    "geom:longitude":12.08161,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Jauro Bapaji",
+    "gn:country_code":"NG",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189895,
+    "gn:latitude":9.08159,
+    "gn:longitude":12.08161,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Jauro Bapaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jauro Bapaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189895
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1189b1e57494ee262f848a10cc448593",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209359037
+        }
+    ],
+    "wof:id":1209359037,
+    "wof:lastmodified":1537675493,
+    "wof:name":"Jauro Bapaji",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08161,
+    9.08159,
+    12.08161,
+    9.08159
+],
+  "geometry": {"coordinates":[12.08161,9.08159],"type":"Point"}
+}

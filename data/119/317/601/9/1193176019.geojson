@@ -1,0 +1,69 @@
+{
+  "id": 1193176019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.9,5.75,5.9,5.75",
+    "geom:latitude":5.75,
+    "geom:longitude":5.9,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10005.0",
+    "gn:asciiname":"Ovu",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325376,
+    "gn:latitude":5.75,
+    "gn:longitude":5.9,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325376,
+        "wk:page":"Ovu"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"972d42bdb37a228f4a7a90c6f4674dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563333,
+            "locality_id":1193176019,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1193176019,
+    "wof:lastmodified":1537569983,
+    "wof:name":"Ovu",
+    "wof:parent_id":1108563333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.9,
+    5.75,
+    5.9,
+    5.75
+],
+  "geometry": {"coordinates":[5.9,5.75],"type":"Point"}
+}

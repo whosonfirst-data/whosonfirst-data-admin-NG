@@ -1,0 +1,72 @@
+{
+  "id": 1310174083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.64769,6.307,8.64769,6.307",
+    "geom:latitude":6.307,
+    "geom:longitude":8.64769,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9011.0",
+    "gn:asciiname":"Nlul Two",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328774,
+    "gn:latitude":6.307,
+    "gn:longitude":8.64769,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nlul Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nlul",
+        "Nlul Two"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328774
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cb1b9e0ddde869e3636f72df1694c5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563599,
+            "locality_id":1310174083,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1310174083,
+    "wof:lastmodified":1537675071,
+    "wof:name":"Nlul Two",
+    "wof:parent_id":1108563599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.64769,
+    6.307,
+    8.64769,
+    6.307
+],
+  "geometry": {"coordinates":[8.64769,6.307],"type":"Point"}
+}

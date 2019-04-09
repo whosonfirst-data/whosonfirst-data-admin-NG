@@ -1,0 +1,65 @@
+{
+  "id": 1209559651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49455,10.69129,13.49455,10.69129",
+    "geom:latitude":10.69129,
+    "geom:longitude":13.49455,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2010",
+    "gn:asciiname":"Palam",
+    "gn:country_code":"NG",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8722214,
+    "gn:latitude":10.69129,
+    "gn:longitude":13.49455,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Palam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Palam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8722214
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"698c420bb4cd8a2aa92efad90ed66f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209559651
+        }
+    ],
+    "wof:id":1209559651,
+    "wof:lastmodified":1537675459,
+    "wof:name":"Palam",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49455,
+    10.69129,
+    13.49455,
+    10.69129
+],
+  "geometry": {"coordinates":[13.49455,10.69129],"type":"Point"}
+}

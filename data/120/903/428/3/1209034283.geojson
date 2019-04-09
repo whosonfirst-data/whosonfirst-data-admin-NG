@@ -1,0 +1,62 @@
+{
+  "id": 1209034283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.361,10.18309,6.361,10.18309",
+    "geom:latitude":10.18309,
+    "geom:longitude":6.361,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Gidan Idi",
+    "gn:country_code":"NG",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999774,
+    "gn:latitude":10.18309,
+    "gn:longitude":6.361,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Idi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999774
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fcd67b88fed850893b2afaae536aa108",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209034283
+        }
+    ],
+    "wof:id":1209034283,
+    "wof:lastmodified":1536299752,
+    "wof:name":"Gidan Idi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3610000000000015,
+    10.18309,
+    6.3610000000000015,
+    10.18309
+],
+  "geometry": {"coordinates":[6.361,10.18309],"type":"Point"}
+}

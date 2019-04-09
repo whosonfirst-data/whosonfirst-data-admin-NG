@@ -1,0 +1,69 @@
+{
+  "id": 1293547463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.28245,9.94646,8.28245,9.94646",
+    "geom:latitude":9.94646,
+    "geom:longitude":8.28245,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19022.0",
+    "gn:admin3_code":"KD2202",
+    "gn:asciiname":"Bato",
+    "gn:country_code":"NG",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347488,
+    "gn:latitude":9.94646,
+    "gn:longitude":8.28245,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347488
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9f6e6ac9b38eb9e5da809870626ece94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564555,
+            "locality_id":1293547463,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1293547463,
+    "wof:lastmodified":1536701071,
+    "wof:name":"Bato",
+    "wof:parent_id":1108564555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.28245,
+    9.94646,
+    8.28245,
+    9.94646
+],
+  "geometry": {"coordinates":[8.28245,9.94646],"type":"Point"}
+}

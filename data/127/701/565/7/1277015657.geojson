@@ -1,0 +1,72 @@
+{
+  "id": 1277015657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.52201,9.05476,6.52201,9.05476",
+    "geom:latitude":9.05476,
+    "geom:longitude":6.52201,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27001.0",
+    "gn:asciiname":"Shabaisa",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323445,
+    "gn:latitude":9.05476,
+    "gn:longitude":6.52201,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shabaisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pati Kasan",
+        "Shabaisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323445
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e2b4f0824c304d710f860b2c25f348b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562933,
+            "locality_id":1277015657,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1277015657,
+    "wof:lastmodified":1537674989,
+    "wof:name":"Shabaisa",
+    "wof:parent_id":1108562933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.52201,
+    9.05476,
+    6.52201,
+    9.05476
+],
+  "geometry": {"coordinates":[6.52201,9.05476],"type":"Point"}
+}

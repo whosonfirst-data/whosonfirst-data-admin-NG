@@ -1,0 +1,73 @@
+{
+  "id": 1327464961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.47676,13.49541,5.47676,13.49541",
+    "geom:latitude":13.49541,
+    "geom:longitude":5.47676,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"608.0",
+    "gn:admin3_code":"60811",
+    "gn:asciiname":"Dangkado",
+    "gn:country_code":"NG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345343,
+    "gn:latitude":13.49541,
+    "gn:longitude":5.47676,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dangkado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dankado",
+        "Dangkado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345343
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f488960b50b23e088c1df6030fd75ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563405,
+            "locality_id":1327464961,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1327464961,
+    "wof:lastmodified":1537675309,
+    "wof:name":"Dangkado",
+    "wof:parent_id":1108563405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.47676,
+    13.49541,
+    5.47676,
+    13.49541
+],
+  "geometry": {"coordinates":[5.47676,13.49541],"type":"Point"}
+}

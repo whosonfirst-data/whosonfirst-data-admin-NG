@@ -1,0 +1,71 @@
+{
+  "id": 1226386799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35359,10.55695,13.35359,10.55695",
+    "geom:latitude":10.55695,
+    "geom:longitude":13.35359,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Mumwuldo",
+    "gn:country_code":"NG",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8722267,
+    "gn:latitude":10.55695,
+    "gn:longitude":13.35359,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mumwuldo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mumwuldo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8722267
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"823be71d8a82ccd78aee51189a131d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563969,
+            "locality_id":1226386799,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226386799,
+    "wof:lastmodified":1537675459,
+    "wof:name":"Mumwuldo",
+    "wof:parent_id":1108563969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35359,
+    10.55695,
+    13.35359,
+    10.55695
+],
+  "geometry": {"coordinates":[13.35359,10.55695],"type":"Point"}
+}

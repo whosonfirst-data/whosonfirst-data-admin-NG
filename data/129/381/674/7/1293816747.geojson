@@ -1,0 +1,68 @@
+{
+  "id": 1293816747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90037,9.48682,5.90037,9.48682",
+    "geom:latitude":9.48682,
+    "geom:longitude":5.90037,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27017",
+    "gn:asciiname":"Yanmigi",
+    "gn:country_code":"NG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308329,
+    "gn:latitude":9.48682,
+    "gn:longitude":5.90037,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yanmigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308329
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1014751695c69a20c69a848ac5de3a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563987,
+            "locality_id":1293816747,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293816747,
+    "wof:lastmodified":1536809131,
+    "wof:name":"Yanmigi",
+    "wof:parent_id":1108563987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90037,
+    9.48682,
+    5.90037,
+    9.48682
+],
+  "geometry": {"coordinates":[5.90037,9.48682],"type":"Point"}
+}

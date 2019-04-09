@@ -1,0 +1,68 @@
+{
+  "id": 1242706303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.50686,7.36997,10.50686,7.36997",
+    "geom:latitude":7.36997,
+    "geom:longitude":10.50686,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Ago",
+    "gn:country_code":"NG",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351877,
+    "gn:latitude":7.36997,
+    "gn:longitude":10.50686,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351877
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc64a2225b95387198d937b251b53689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1242706303,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1242706303,
+    "wof:lastmodified":1536877671,
+    "wof:name":"Ago",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.50686,
+    7.36997,
+    10.50686,
+    7.36997
+],
+  "geometry": {"coordinates":[10.50686,7.36997],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226372083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66658,9.85194,9.66658,9.85194",
+    "geom:latitude":9.85194,
+    "geom:longitude":9.66658,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5017.0",
+    "gn:admin3_code":"BA1711",
+    "gn:asciiname":"Dulem",
+    "gn:country_code":"NG",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344398,
+    "gn:latitude":9.85194,
+    "gn:longitude":9.66658,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dulem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dulem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344398
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"48255e8b14f44b96bd90f00a535734c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564391,
+            "locality_id":1226372083,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1226372083,
+    "wof:lastmodified":1537675296,
+    "wof:name":"Dulem",
+    "wof:parent_id":1108564391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66658,
+    9.85194,
+    9.66658,
+    9.85194
+],
+  "geometry": {"coordinates":[9.66658,9.85194],"type":"Point"}
+}

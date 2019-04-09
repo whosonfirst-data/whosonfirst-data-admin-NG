@@ -1,0 +1,62 @@
+{
+  "id": 1209342923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.19767,7.02705,7.19767,7.02705",
+    "geom:latitude":7.02705,
+    "geom:longitude":7.19767,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23008.0",
+    "gn:asciiname":"Alakwa",
+    "gn:country_code":"NG",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350612,
+    "gn:latitude":7.02705,
+    "gn:longitude":7.19767,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350612
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca3d2a6ea7ac54b695b385f8c21ec669",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342923
+        }
+    ],
+    "wof:id":1209342923,
+    "wof:lastmodified":1536290006,
+    "wof:name":"Alakwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.19767,
+    7.02705,
+    7.19767,
+    7.02705
+],
+  "geometry": {"coordinates":[7.19767,7.02705],"type":"Point"}
+}

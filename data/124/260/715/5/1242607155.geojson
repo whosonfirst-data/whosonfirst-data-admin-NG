@@ -1,0 +1,73 @@
+{
+  "id": 1242607155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.70379,4.84141,6.70379,4.84141",
+    "geom:latitude":4.84141,
+    "geom:longitude":6.70379,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33001.0",
+    "gn:asciiname":"Serebia",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323482,
+    "gn:latitude":4.84141,
+    "gn:longitude":6.70379,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Serebia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sereobia",
+        "Seregbia",
+        "Serebia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323482
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d5a91d76b473fdf51d41d1e9ee472b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562915,
+            "locality_id":1242607155,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1242607155,
+    "wof:lastmodified":1537674989,
+    "wof:name":"Serebia",
+    "wof:parent_id":1108562915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.70379,
+    4.84141,
+    6.70379,
+    4.84141
+],
+  "geometry": {"coordinates":[6.70379,4.84141],"type":"Point"}
+}

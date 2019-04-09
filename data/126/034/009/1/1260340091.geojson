@@ -1,0 +1,68 @@
+{
+  "id": 1260340091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93976,6.93167,5.93976,6.93167",
+    "geom:latitude":6.93167,
+    "geom:longitude":5.93976,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12017.0",
+    "gn:asciiname":"Ovbiokhuan",
+    "gn:country_code":"NG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6965363,
+    "gn:latitude":6.93167,
+    "gn:longitude":5.93976,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ovbiokhuan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6965363
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8d8e5c19aec25ba62a40fd5c4fd54dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564249,
+            "locality_id":1260340091,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1260340091,
+    "wof:lastmodified":1536635020,
+    "wof:name":"Ovbiokhuan",
+    "wof:parent_id":1108564249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93976,
+    6.93167,
+    5.93976,
+    6.93167
+],
+  "geometry": {"coordinates":[5.93976,6.93167],"type":"Point"}
+}

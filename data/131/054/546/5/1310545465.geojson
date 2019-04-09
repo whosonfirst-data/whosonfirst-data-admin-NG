@@ -1,0 +1,71 @@
+{
+  "id": 1310545465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.31224,8.7643,12.31224,8.7643",
+    "geom:latitude":8.7643,
+    "geom:longitude":12.31224,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Banshara",
+    "gn:country_code":"NG",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10419877,
+    "gn:latitude":8.7643,
+    "gn:longitude":12.31224,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Banshara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banchara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10419877
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bf4afa9303cb4204dd37febb2ac19611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1310545465,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310545465,
+    "wof:lastmodified":1537675471,
+    "wof:name":"Banshara",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.31224,
+    8.7643,
+    12.31224,
+    8.7643
+],
+  "geometry": {"coordinates":[12.31224,8.7643],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1310035197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.40077,12.7482,8.40077,12.7482",
+    "geom:latitude":12.7482,
+    "geom:longitude":8.40077,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18019.0",
+    "gn:admin3_code":"JI2710",
+    "gn:asciiname":"Zungunba",
+    "gn:country_code":"NG",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317567,
+    "gn:latitude":12.7482,
+    "gn:longitude":8.40077,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zungunba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317567
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"272fdd24b58c3c9375d22afd4233fb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564535,
+            "locality_id":1310035197,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1310035197,
+    "wof:lastmodified":1537094782,
+    "wof:name":"Zungunba",
+    "wof:parent_id":1108564535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.40077,
+    12.7482,
+    8.40077,
+    12.7482
+],
+  "geometry": {"coordinates":[8.40077,12.7482],"type":"Point"}
+}

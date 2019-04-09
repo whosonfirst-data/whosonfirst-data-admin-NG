@@ -1,0 +1,63 @@
+{
+  "id": 1209241275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.53938,12.70146,9.53938,12.70146",
+    "geom:latitude":12.70146,
+    "geom:longitude":9.53938,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18023.0",
+    "gn:admin3_code":"JI2006",
+    "gn:asciiname":"Lalashi",
+    "gn:country_code":"NG",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332375,
+    "gn:latitude":12.70146,
+    "gn:longitude":9.53938,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lalashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332375
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"375c6dd168b87dde9d877cf9e956e0da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241275
+        }
+    ],
+    "wof:id":1209241275,
+    "wof:lastmodified":1536293312,
+    "wof:name":"Lalashi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.53938,
+    12.70146,
+    9.53938,
+    12.70146
+],
+  "geometry": {"coordinates":[9.53938,12.70146],"type":"Point"}
+}

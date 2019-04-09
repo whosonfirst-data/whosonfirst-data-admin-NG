@@ -1,0 +1,68 @@
+{
+  "id": 1344196157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83545,6.84302,5.83545,6.84302",
+    "geom:latitude":6.84302,
+    "geom:longitude":5.83545,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12017.0",
+    "gn:asciiname":"Ugbeturu",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320886,
+    "gn:latitude":6.84302,
+    "gn:longitude":5.83545,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugbeturu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320886
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"97385aa0942bcd80b8489cf386b190ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564249,
+            "locality_id":1344196157,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1344196157,
+    "wof:lastmodified":1536679733,
+    "wof:name":"Ugbeturu",
+    "wof:parent_id":1108564249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83545,
+    6.84302,
+    5.83545,
+    6.84302
+],
+  "geometry": {"coordinates":[5.83545,6.84302],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327180871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.16667,11.98333,9.16667,11.98333",
+    "geom:latitude":11.98333,
+    "geom:longitude":9.16667,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20004.0",
+    "gn:admin3_code":"KN0106",
+    "gn:asciiname":"Kafin Karya",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335671,
+    "gn:latitude":11.98333,
+    "gn:longitude":9.16667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kafin Karya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zungou Kariya",
+        "Kafin Karva",
+        "Kafin Karya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108562959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335671
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"258a727620d29cf7b1ffe145ef232ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562959,
+            "locality_id":1327180871,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1327180871,
+    "wof:lastmodified":1537675158,
+    "wof:name":"Kafin Karya",
+    "wof:parent_id":1108562959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.16667,
+    11.98333,
+    9.16667,
+    11.98333
+],
+  "geometry": {"coordinates":[9.16667,11.98333],"type":"Point"}
+}

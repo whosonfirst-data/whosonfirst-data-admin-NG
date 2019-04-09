@@ -1,0 +1,63 @@
+{
+  "id": 1209282629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.19453,11.29361,7.19453,11.29361",
+    "geom:latitude":11.29361,
+    "geom:longitude":7.19453,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"407.0",
+    "gn:admin3_code":"40710",
+    "gn:asciiname":"Gidan Liman",
+    "gn:country_code":"NG",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019679,
+    "gn:latitude":11.29361,
+    "gn:longitude":7.19453,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Liman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019679
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"557d23fd24bd37bb172f3bd40b591c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209282629
+        }
+    ],
+    "wof:id":1209282629,
+    "wof:lastmodified":1536291967,
+    "wof:name":"Gidan Liman",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.19453,
+    11.29361,
+    7.19453,
+    11.29361
+],
+  "geometry": {"coordinates":[7.19453,11.29361],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360213125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.22045,6.2074,8.22045,6.2074",
+    "geom:latitude":6.2074,
+    "geom:longitude":8.22045,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11001.0",
+    "gn:asciiname":"Echialike",
+    "gn:country_code":"NG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344068,
+    "gn:latitude":6.2074,
+    "gn:longitude":8.22045,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Echialike",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Echialiki",
+        "Echialike"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108562905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344068
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9ead6b53b6507adb05220a54a17b7921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562905,
+            "locality_id":1360213125,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1360213125,
+    "wof:lastmodified":1537675289,
+    "wof:name":"Echialike",
+    "wof:parent_id":1108562905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.22045,
+    6.2074,
+    8.22045,
+    6.2074
+],
+  "geometry": {"coordinates":[8.22045,6.2074],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327058439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81753,6.10945,7.81753,6.10945",
+    "geom:latitude":6.10945,
+    "geom:longitude":7.81753,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11013.0",
+    "gn:asciiname":"Onicha",
+    "gn:country_code":"NG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326146,
+    "gn:latitude":6.10945,
+    "gn:longitude":7.81753,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onicha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onicha-Uburu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108564189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326146
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"17a1f35d374acc4ee983baafaa8e1ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564189,
+            "locality_id":1327058439,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1327058439,
+    "wof:lastmodified":1537675026,
+    "wof:name":"Onicha",
+    "wof:parent_id":1108564189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81753,
+    6.10945,
+    7.81753,
+    6.10945
+],
+  "geometry": {"coordinates":[7.81753,6.10945],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310558473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.91417,6.20954,6.91417,6.20954",
+    "geom:latitude":6.20954,
+    "geom:longitude":6.91417,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4021.0",
+    "gn:asciiname":"Umunya",
+    "gn:country_code":"NG",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320453,
+    "gn:latitude":6.20954,
+    "gn:longitude":6.91417,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umunya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Umuinya"
+    ],
+    "name:eng_x_variant":[
+        "Umunya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320453
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"46532d0d9334664622aeea03b02697be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564261,
+            "locality_id":1310558473,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1310558473,
+    "wof:lastmodified":1537674948,
+    "wof:name":"Umunya",
+    "wof:parent_id":1108564261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.91417,
+    6.20954,
+    6.91417,
+    6.20954
+],
+  "geometry": {"coordinates":[6.91417,6.20954],"type":"Point"}
+}

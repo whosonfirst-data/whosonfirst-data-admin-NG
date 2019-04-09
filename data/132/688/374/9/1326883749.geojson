@@ -1,0 +1,68 @@
+{
+  "id": 1326883749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.84931,8.62365,11.84931,8.62365",
+    "geom:latitude":8.62365,
+    "geom:longitude":11.84931,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Kubbi",
+    "gn:country_code":"NG",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333743,
+    "gn:latitude":8.62365,
+    "gn:longitude":11.84931,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kubbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333743
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7ed705e1700a4a5f553cb38ddcdf919f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1326883749,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1326883749,
+    "wof:lastmodified":1536974259,
+    "wof:name":"Kubbi",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.84931,
+    8.62365,
+    11.84931,
+    8.62365
+],
+  "geometry": {"coordinates":[11.84931,8.62365],"type":"Point"}
+}

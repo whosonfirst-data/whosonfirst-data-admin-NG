@@ -1,0 +1,72 @@
+{
+  "id": 1293520595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.57335,9.666,6.57335,9.666",
+    "geom:latitude":9.666,
+    "geom:longitude":6.57335,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27005.0",
+    "gn:asciiname":"Tudun Fulani",
+    "gn:country_code":"NG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321664,
+    "gn:latitude":9.666,
+    "gn:longitude":6.57335,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tudun Fulani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tudun Filani",
+        "Tudun Fulani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321664
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ce7825be05da4dc77ed54f5d1ffad01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563157,
+            "locality_id":1293520595,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293520595,
+    "wof:lastmodified":1537674969,
+    "wof:name":"Tudun Fulani",
+    "wof:parent_id":1108563157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.57335,
+    9.666,
+    6.57335,
+    9.666
+],
+  "geometry": {"coordinates":[6.57335,9.666],"type":"Point"}
+}

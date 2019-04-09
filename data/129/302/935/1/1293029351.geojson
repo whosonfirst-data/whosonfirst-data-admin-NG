@@ -1,0 +1,68 @@
+{
+  "id": 1293029351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.22175,9.34234,6.22175,9.34234",
+    "geom:latitude":9.34234,
+    "geom:longitude":6.22175,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010",
+    "gn:asciiname":"Daniya",
+    "gn:country_code":"NG",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317310,
+    "gn:latitude":9.34234,
+    "gn:longitude":6.22175,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Daniya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317310
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1150bd1801793b4442cf26432d7bc0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1293029351,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293029351,
+    "wof:lastmodified":1536950888,
+    "wof:name":"Daniya",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.22175,
+    9.34234,
+    6.22175,
+    9.34234
+],
+  "geometry": {"coordinates":[6.22175,9.34234],"type":"Point"}
+}

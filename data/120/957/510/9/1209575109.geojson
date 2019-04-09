@@ -1,0 +1,62 @@
+{
+  "id": 1209575109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85,8.01667,3.85,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":3.85,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31030.0",
+    "gn:asciiname":"Alawo",
+    "gn:country_code":"NG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350496,
+    "gn:latitude":8.01667,
+    "gn:longitude":3.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350496
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2b4dcee5ddfec081955acea93c2e3414",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209575109
+        }
+    ],
+    "wof:id":1209575109,
+    "wof:lastmodified":1536282963,
+    "wof:name":"Alawo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85,
+    8.01667,
+    3.85,
+    8.01667
+],
+  "geometry": {"coordinates":[3.85,8.01667],"type":"Point"}
+}

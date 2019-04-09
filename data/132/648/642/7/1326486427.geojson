@@ -1,0 +1,69 @@
+{
+  "id": 1326486427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.1705,10.50809,6.1705,10.50809",
+    "geom:latitude":10.50809,
+    "geom:longitude":6.1705,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19001.0",
+    "gn:admin3_code":"KD0106",
+    "gn:asciiname":"Bitari",
+    "gn:country_code":"NG",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347005,
+    "gn:latitude":10.50809,
+    "gn:longitude":6.1705,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bitari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347005
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1aaeb4ecf2c4e06d71ebd88c1aee685c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563133,
+            "locality_id":1326486427,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1326486427,
+    "wof:lastmodified":1537048101,
+    "wof:name":"Bitari",
+    "wof:parent_id":1108563133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.1705,
+    10.50809,
+    6.1705,
+    10.50809
+],
+  "geometry": {"coordinates":[6.1705,10.50809],"type":"Point"}
+}

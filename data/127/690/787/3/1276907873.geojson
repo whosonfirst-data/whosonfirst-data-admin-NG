@@ -1,0 +1,68 @@
+{
+  "id": 1276907873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17932,9.20296,6.17932,9.20296",
+    "geom:latitude":9.20296,
+    "geom:longitude":6.17932,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Ajakpa",
+    "gn:country_code":"NG",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317428,
+    "gn:latitude":9.20296,
+    "gn:longitude":6.17932,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ajakpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317428
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9155e6ee505724b01ef8c4cd737e04ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1276907873,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276907873,
+    "wof:lastmodified":1537003025,
+    "wof:name":"Ajakpa",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17932,
+    9.20296,
+    6.17932,
+    9.20296
+],
+  "geometry": {"coordinates":[6.17932,9.20296],"type":"Point"}
+}

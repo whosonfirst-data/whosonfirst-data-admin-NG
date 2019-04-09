@@ -1,0 +1,77 @@
+{
+  "id": 890416433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86345,4.73407,6.86345,4.73407",
+    "geom:latitude":4.73407,
+    "geom:longitude":6.86345,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":135404,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Buguma"
+    ],
+    "name:eng_x_preferred":[
+        "Buguma"
+    ],
+    "name:unk_x_variant":[
+        "Bugama"
+    ],
+    "qs:name":"Buguma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346615,
+        "qs:id":139773,
+        "wd:id":"Q4986278",
+        "wk:page":"Buguma"
+    },
+    "wof:country":"NG",
+    "wof:created":1469051134,
+    "wof:geomhash":"e8f0fc91ac068ad873eebb3f6f82c533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563035,
+            "locality_id":890416433,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":890416433,
+    "wof:lastmodified":1527792805,
+    "wof:name":"Buguma",
+    "wof:parent_id":1108563035,
+    "wof:placetype":"locality",
+    "wof:population":135404,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86345,
+    4.73407,
+    6.86345,
+    4.73407
+],
+  "geometry": {"coordinates":[6.86345,4.73407],"type":"Point"}
+}

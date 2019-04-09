@@ -1,0 +1,62 @@
+{
+  "id": 1209262181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.32032,7.70191,8.32032,7.70191",
+    "geom:latitude":7.70191,
+    "geom:longitude":8.32032,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7008",
+    "gn:asciiname":"Tseatu",
+    "gn:country_code":"NG",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9507337,
+    "gn:latitude":7.70191,
+    "gn:longitude":8.32032,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseatu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9507337
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"56e99f1512f2938c7e7c502bc516a689",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209262181
+        }
+    ],
+    "wof:id":1209262181,
+    "wof:lastmodified":1536292651,
+    "wof:name":"Tseatu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.320319999999999,
+    7.701910000000002,
+    8.320319999999999,
+    7.701910000000002
+],
+  "geometry": {"coordinates":[8.32032,7.70191],"type":"Point"}
+}

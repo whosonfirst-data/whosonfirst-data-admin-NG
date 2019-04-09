@@ -1,0 +1,68 @@
+{
+  "id": 1226798031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.83944,7.57889,3.83944,7.57889",
+    "geom:latitude":7.57889,
+    "geom:longitude":3.83944,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Okelekan",
+    "gn:country_code":"NG",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591530,
+    "gn:latitude":7.57889,
+    "gn:longitude":3.83944,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okelekan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591530
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"44681cb2248e6441282aaf3c78f99c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1226798031,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1226798031,
+    "wof:lastmodified":1536639397,
+    "wof:name":"Okelekan",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.83944,
+    7.57889,
+    3.83944,
+    7.57889
+],
+  "geometry": {"coordinates":[3.83944,7.57889],"type":"Point"}
+}

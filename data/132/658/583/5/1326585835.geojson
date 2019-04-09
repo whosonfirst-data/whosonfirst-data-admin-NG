@@ -1,0 +1,71 @@
+{
+  "id": 1326585835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52007,11.18101,8.52007,11.18101",
+    "geom:latitude":11.18101,
+    "geom:longitude":8.52007,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Yalwa",
+    "gn:country_code":"NG",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318434,
+    "gn:latitude":11.18101,
+    "gn:longitude":8.52007,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yalwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yalwa (5)",
+        "Yalwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318434
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"742bd545b8d7312162597b564d136bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564427,
+            "locality_id":1326585835,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1326585835,
+    "wof:lastmodified":1537674906,
+    "wof:name":"Yalwa",
+    "wof:parent_id":1108564427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52007,
+    11.18101,
+    8.52007,
+    11.18101
+],
+  "geometry": {"coordinates":[8.52007,11.18101],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209170265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.92507,11.2552,7.92507,11.2552",
+    "geom:latitude":11.2552,
+    "geom:longitude":7.92507,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19018.0",
+    "gn:admin3_code":"KD1809",
+    "gn:asciiname":"Ungwan Mallam Bala",
+    "gn:country_code":"NG",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019783,
+    "gn:latitude":11.2552,
+    "gn:longitude":7.92507,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Mallam Bala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019783
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa88588cbea411cb60a8c6a5554480d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209170265
+        }
+    ],
+    "wof:id":1209170265,
+    "wof:lastmodified":1536295605,
+    "wof:name":"Ungwan Mallam Bala",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.92507,
+    11.2552,
+    7.92507,
+    11.2552
+],
+  "geometry": {"coordinates":[7.92507,11.2552],"type":"Point"}
+}

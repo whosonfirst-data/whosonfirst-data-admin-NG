@@ -1,0 +1,62 @@
+{
+  "id": 1209050893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.62288,10.89371,13.62288,10.89371",
+    "geom:latitude":10.89371,
+    "geom:longitude":13.62288,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2010.0",
+    "gn:asciiname":"Mararaba",
+    "gn:country_code":"NG",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760549,
+    "gn:latitude":10.89371,
+    "gn:longitude":13.62288,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mararaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760549
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6ce0573de95caf0f3fd08c7fa146dd1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209050893
+        }
+    ],
+    "wof:id":1209050893,
+    "wof:lastmodified":1536299253,
+    "wof:name":"Mararaba",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.62288,
+    10.89371,
+    13.62288,
+    10.89371
+],
+  "geometry": {"coordinates":[13.62288,10.89371],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360214213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1,8.03333,5.1,8.03333",
+    "geom:latitude":8.03333,
+    "geom:longitude":5.1,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13015.0",
+    "gn:asciiname":"Ekan Meje",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343759,
+    "gn:latitude":8.03333,
+    "gn:longitude":5.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekan Meje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekan",
+        "Ekan Meje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343759
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0d2374877dc50eae88b1d68bddcf94c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563983,
+            "locality_id":1360214213,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1360214213,
+    "wof:lastmodified":1537675283,
+    "wof:name":"Ekan Meje",
+    "wof:parent_id":1108563983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1,
+    8.03333,
+    5.1,
+    8.03333
+],
+  "geometry": {"coordinates":[5.1,8.03333],"type":"Point"}
+}

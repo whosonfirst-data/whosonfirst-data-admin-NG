@@ -1,0 +1,68 @@
+{
+  "id": 1243116447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83333,8.0,11.83333,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":11.83333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2019.0",
+    "gn:asciiname":"Mayo Dukwam",
+    "gn:country_code":"NG",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330533,
+    "gn:latitude":8.0,
+    "gn:longitude":11.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mayo Dukwam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330533
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b50a7a9a1774967b6ba05485805b7eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564419,
+            "locality_id":1243116447,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243116447,
+    "wof:lastmodified":1536784867,
+    "wof:name":"Mayo Dukwam",
+    "wof:parent_id":1108564419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83333,
+    8.0,
+    11.83333,
+    8.0
+],
+  "geometry": {"coordinates":[11.83333,8.0],"type":"Point"}
+}

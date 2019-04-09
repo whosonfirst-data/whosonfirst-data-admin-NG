@@ -1,0 +1,68 @@
+{
+  "id": 1310433851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63333,8.76667,8.63333,8.76667",
+    "geom:latitude":8.76667,
+    "geom:longitude":8.63333,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26010.0",
+    "gn:asciiname":"Bekyano Kasa",
+    "gn:country_code":"NG",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347355,
+    "gn:latitude":8.76667,
+    "gn:longitude":8.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bekyano Kasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347355
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0e5d8508053f38896b2ac75ef4d56e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564009,
+            "locality_id":1310433851,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1310433851,
+    "wof:lastmodified":1537019589,
+    "wof:name":"Bekyano Kasa",
+    "wof:parent_id":1108564009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63333,
+    8.76667,
+    8.63333,
+    8.76667
+],
+  "geometry": {"coordinates":[8.63333,8.76667],"type":"Point"}
+}

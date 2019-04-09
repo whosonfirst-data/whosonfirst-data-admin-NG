@@ -1,0 +1,68 @@
+{
+  "id": 1260341911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95496,10.22013,12.95496,10.22013",
+    "geom:latitude":10.22013,
+    "geom:longitude":12.95496,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Machanda",
+    "gn:country_code":"NG",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331753,
+    "gn:latitude":10.22013,
+    "gn:longitude":12.95496,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Machanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331753
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa55fd6cb3d79864f9050cc0f5333d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563485,
+            "locality_id":1260341911,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1260341911,
+    "wof:lastmodified":1536632414,
+    "wof:name":"Machanda",
+    "wof:parent_id":1108563485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95496,
+    10.22013,
+    12.95496,
+    10.22013
+],
+  "geometry": {"coordinates":[12.95496,10.22013],"type":"Point"}
+}

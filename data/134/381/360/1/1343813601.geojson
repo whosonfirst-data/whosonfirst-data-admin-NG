@@ -1,0 +1,73 @@
+{
+  "id": 1343813601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75181,12.67397,8.75181,12.67397",
+    "geom:latitude":12.67397,
+    "geom:longitude":8.75181,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"404.0",
+    "gn:admin3_code":"40406",
+    "gn:asciiname":"Botsotsowar Daura",
+    "gn:country_code":"NG",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340030,
+    "gn:latitude":12.67397,
+    "gn:longitude":8.75181,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Botsotsowar Daura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gunji",
+        "Botsotsowar Daura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340030
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e9ea895119dec0f6db2bfd313726ea30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1343813601,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1343813601,
+    "wof:lastmodified":1537675221,
+    "wof:name":"Botsotsowar Daura",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75181,
+    12.67397,
+    8.75181,
+    12.67397
+],
+  "geometry": {"coordinates":[8.75181,12.67397],"type":"Point"}
+}

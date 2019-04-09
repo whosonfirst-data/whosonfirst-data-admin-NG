@@ -1,0 +1,69 @@
+{
+  "id": 1309738587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.3371,12.0997,10.3371,12.0997",
+    "geom:latitude":12.0997,
+    "geom:longitude":10.3371,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5020",
+    "gn:admin3_code":"BA2006",
+    "gn:asciiname":"Gargamarau",
+    "gn:country_code":"NG",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10187776,
+    "gn:latitude":12.0997,
+    "gn:longitude":10.3371,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gargamarau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10187776
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"43f4e1474c89f7eae2cb5d6f925ede7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564553,
+            "locality_id":1309738587,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1309738587,
+    "wof:lastmodified":1537026926,
+    "wof:name":"Gargamarau",
+    "wof:parent_id":1108564553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3371,
+    12.0997,
+    10.3371,
+    12.0997
+],
+  "geometry": {"coordinates":[10.3371,12.0997],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226675789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61186,9.44878,6.61186,9.44878",
+    "geom:latitude":9.44878,
+    "geom:longitude":6.61186,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Sefu",
+    "gn:country_code":"NG",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323536,
+    "gn:latitude":9.44878,
+    "gn:longitude":6.61186,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sefu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323536
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"14e3b96bece8b221dc44c22818c304b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1226675789,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226675789,
+    "wof:lastmodified":1536815583,
+    "wof:name":"Sefu",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61186,
+    9.44878,
+    6.61186,
+    9.44878
+],
+  "geometry": {"coordinates":[6.61186,9.44878],"type":"Point"}
+}

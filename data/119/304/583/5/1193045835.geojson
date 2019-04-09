@@ -1,0 +1,69 @@
+{
+  "id": 1193045835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38758,13.37415,5.38758,13.37415",
+    "geom:latitude":13.37415,
+    "geom:longitude":5.38758,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"607.0",
+    "gn:admin3_code":"60710",
+    "gn:asciiname":"Ilela",
+    "gn:country_code":"NG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012689,
+    "gn:latitude":13.37415,
+    "gn:longitude":5.38758,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ilela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012689
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7cebdef3af7b0b06739a3cbfb13cedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563405,
+            "locality_id":1193045835,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1193045835,
+    "wof:lastmodified":1536371067,
+    "wof:name":"Ilela",
+    "wof:parent_id":1108563405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38758,
+    13.37415,
+    5.38758,
+    13.37415
+],
+  "geometry": {"coordinates":[5.38758,13.37415],"type":"Point"}
+}

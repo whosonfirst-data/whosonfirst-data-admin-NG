@@ -1,0 +1,62 @@
+{
+  "id": 1209354817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30129,8.61505,12.30129,8.61505",
+    "geom:latitude":8.61505,
+    "geom:longitude":12.30129,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Adambaki",
+    "gn:country_code":"NG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352602,
+    "gn:latitude":8.61505,
+    "gn:longitude":12.30129,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adambaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352602
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c06bc4e1925a05dea01ee05cb2cc12f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209354817
+        }
+    ],
+    "wof:id":1209354817,
+    "wof:lastmodified":1536289622,
+    "wof:name":"Adambaki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30129,
+    8.61505,
+    12.30129,
+    8.61505
+],
+  "geometry": {"coordinates":[12.30129,8.61505],"type":"Point"}
+}

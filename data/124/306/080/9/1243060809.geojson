@@ -1,0 +1,74 @@
+{
+  "id": 1243060809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.89283,6.51386,3.89283,6.51386",
+    "geom:latitude":6.51386,
+    "geom:longitude":3.89283,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25009.0",
+    "gn:asciiname":"Okunegun",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326845,
+    "gn:latitude":6.51386,
+    "gn:longitude":3.89283,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okunegun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Egun",
+        "Okoyogun",
+        "Oke Egun",
+        "Okunegun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421171305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326845
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f02e8619b5c643cccfd91a64ac5a714b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421171305,
+            "locality_id":1243060809,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1243060809,
+    "wof:lastmodified":1537675035,
+    "wof:name":"Okunegun",
+    "wof:parent_id":421171305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.89283,
+    6.51386,
+    3.89283,
+    6.51386
+],
+  "geometry": {"coordinates":[3.89283,6.51386],"type":"Point"}
+}

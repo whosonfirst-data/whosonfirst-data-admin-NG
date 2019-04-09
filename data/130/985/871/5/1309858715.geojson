@@ -1,0 +1,72 @@
+{
+  "id": 1309858715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19252,5.21362,6.19252,5.21362",
+    "geom:latitude":5.21362,
+    "geom:longitude":6.19252,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10016.0",
+    "gn:asciiname":"Koloiliare II",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100670,
+    "gn:latitude":5.21362,
+    "gn:longitude":6.19252,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Koloiliare II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koloware II",
+        "Koloiliare II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100670
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4bed7d9c0ad60447f73bb6a9c255e34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564277,
+            "locality_id":1309858715,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1309858715,
+    "wof:lastmodified":1537675452,
+    "wof:name":"Koloiliare II",
+    "wof:parent_id":1108564277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19252,
+    5.21362,
+    6.19252,
+    5.21362
+],
+  "geometry": {"coordinates":[6.19252,5.21362],"type":"Point"}
+}

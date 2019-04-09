@@ -1,0 +1,68 @@
+{
+  "id": 1344089575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4,9.86667,11.4,9.86667",
+    "geom:latitude":9.86667,
+    "geom:longitude":11.4,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16007.0",
+    "gn:asciiname":"Awak",
+    "gn:country_code":"NG",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348818,
+    "gn:latitude":9.86667,
+    "gn:longitude":11.4,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348818
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"22be85da25c0b234f314e3aa210dd3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563765,
+            "locality_id":1344089575,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1344089575,
+    "wof:lastmodified":1536832677,
+    "wof:name":"Awak",
+    "wof:parent_id":1108563765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4,
+    9.86667,
+    11.4,
+    9.86667
+],
+  "geometry": {"coordinates":[11.4,9.86667],"type":"Point"}
+}

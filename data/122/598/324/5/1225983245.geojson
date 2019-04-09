@@ -1,0 +1,68 @@
+{
+  "id": 1225983245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59383,6.2995,5.59383,6.2995",
+    "geom:latitude":6.2995,
+    "geom:longitude":5.59383,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12012.0",
+    "gn:asciiname":"Oko",
+    "gn:country_code":"NG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327124,
+    "gn:latitude":6.2995,
+    "gn:longitude":5.59383,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        421188929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327124
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1114ea26174868b9bf80fdfa36e66fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188929,
+            "locality_id":1225983245,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1225983245,
+    "wof:lastmodified":1536814462,
+    "wof:name":"Oko",
+    "wof:parent_id":421188929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59383,
+    6.2995,
+    5.59383,
+    6.2995
+],
+  "geometry": {"coordinates":[5.59383,6.2995],"type":"Point"}
+}

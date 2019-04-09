@@ -1,0 +1,70 @@
+{
+  "id": 1309859215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03865,9.08258,12.03865,9.08258",
+    "geom:latitude":9.08258,
+    "geom:longitude":12.03865,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Filingo",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189852,
+    "gn:latitude":9.08258,
+    "gn:longitude":12.03865,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Filingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Filingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189852
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ec610c4cd5bb6a3790bfedbfb6bb1538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1309859215,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1309859215,
+    "wof:lastmodified":1537675491,
+    "wof:name":"Filingo",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03865,
+    9.08258,
+    12.03865,
+    9.08258
+],
+  "geometry": {"coordinates":[12.03865,9.08258],"type":"Point"}
+}

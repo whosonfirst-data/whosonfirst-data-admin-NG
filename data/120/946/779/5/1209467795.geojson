@@ -1,0 +1,62 @@
+{
+  "id": 1209467795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.59113,5.61916,6.59113,5.61916",
+    "geom:latitude":5.61916,
+    "geom:longitude":6.59113,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10011.0",
+    "gn:asciiname":"Ise Edeugbana",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100518,
+    "gn:latitude":5.61916,
+    "gn:longitude":6.59113,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ise Edeugbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100518
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1d71c4c77811d15da78ef1a578bc76e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209467795
+        }
+    ],
+    "wof:id":1209467795,
+    "wof:lastmodified":1536286176,
+    "wof:name":"Ise Edeugbana",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.5911300000000015,
+    5.61916,
+    6.5911300000000015,
+    5.61916
+],
+  "geometry": {"coordinates":[6.59113,5.61916],"type":"Point"}
+}

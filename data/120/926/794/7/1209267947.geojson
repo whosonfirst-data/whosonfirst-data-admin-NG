@@ -1,0 +1,65 @@
+{
+  "id": 1209267947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43333,9.5,12.43333,9.5",
+    "geom:latitude":9.5,
+    "geom:longitude":12.43333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Karal",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335108,
+    "gn:latitude":9.5,
+    "gn:longitude":12.43333,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Karal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335108
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7c6e5f59e90a3c29dd5b2f0cf104a9f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209267947
+        }
+    ],
+    "wof:id":1209267947,
+    "wof:lastmodified":1537675151,
+    "wof:name":"Karal",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43333,
+    9.5,
+    12.43333,
+    9.5
+],
+  "geometry": {"coordinates":[12.43333,9.5],"type":"Point"}
+}

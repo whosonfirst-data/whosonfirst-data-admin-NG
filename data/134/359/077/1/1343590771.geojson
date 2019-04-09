@@ -1,0 +1,67 @@
+{
+  "id": 1343590771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.57184,5.9562,7.57184,5.9562",
+    "geom:latitude":5.9562,
+    "geom:longitude":7.57184,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Ngwogwa",
+    "gn:country_code":"NG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073206,
+    "gn:latitude":5.9562,
+    "gn:longitude":7.57184,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ngwogwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073206
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d7af6c73b6a6e78690ac124ee638839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563701,
+            "locality_id":1343590771,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1343590771,
+    "wof:lastmodified":1537053511,
+    "wof:name":"Ngwogwa",
+    "wof:parent_id":1108563701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.57184,
+    5.9562,
+    7.57184,
+    5.9562
+],
+  "geometry": {"coordinates":[7.57184,5.9562],"type":"Point"}
+}

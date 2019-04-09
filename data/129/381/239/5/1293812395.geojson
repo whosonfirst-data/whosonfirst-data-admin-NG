@@ -1,0 +1,68 @@
+{
+  "id": 1293812395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64386,9.77461,6.64386,9.77461",
+    "geom:latitude":9.77461,
+    "geom:longitude":6.64386,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Gidan Agbalo",
+    "gn:country_code":"NG",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10408440,
+    "gn:latitude":9.77461,
+    "gn:longitude":6.64386,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Agbalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10408440
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1f92f3aacbc4ca39fbec102614bb12e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1293812395,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293812395,
+    "wof:lastmodified":1536815129,
+    "wof:name":"Gidan Agbalo",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64386,
+    9.77461,
+    6.64386,
+    9.77461
+],
+  "geometry": {"coordinates":[6.64386,9.77461],"type":"Point"}
+}

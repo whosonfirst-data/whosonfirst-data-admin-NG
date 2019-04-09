@@ -1,0 +1,67 @@
+{
+  "id": 1209033237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74383,12.38674,6.74383,12.38674",
+    "geom:latitude":12.38674,
+    "geom:longitude":6.74383,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80802",
+    "gn:asciiname":"Kwolo",
+    "gn:country_code":"NG",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320219,
+    "gn:latitude":12.38674,
+    "gn:longitude":6.74383,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unguwar Kwolo",
+        "Kwolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320219
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"97e4638635f97daf5d9605e01fe3e654",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209033237
+        }
+    ],
+    "wof:id":1209033237,
+    "wof:lastmodified":1537674941,
+    "wof:name":"Kwolo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74383,
+    12.38674,
+    6.74383,
+    12.38674
+],
+  "geometry": {"coordinates":[6.74383,12.38674],"type":"Point"}
+}

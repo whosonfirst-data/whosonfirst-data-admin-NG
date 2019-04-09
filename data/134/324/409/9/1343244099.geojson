@@ -1,0 +1,73 @@
+{
+  "id": 1343244099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.83333,6.8,2.83333,6.8",
+    "geom:latitude":6.8,
+    "geom:longitude":2.83333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28005.0",
+    "gn:asciiname":"Obanla",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328346,
+    "gn:latitude":6.8,
+    "gn:longitude":2.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obanla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obamla",
+        "Obanla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328346
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fda359f608f03092efe4d2e3806ff9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563271,
+            "locality_id":1343244099,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1343244099,
+    "wof:lastmodified":1537675066,
+    "wof:name":"Obanla",
+    "wof:parent_id":1108563271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.83333,
+    6.8,
+    2.83333,
+    6.8
+],
+  "geometry": {"coordinates":[2.83333,6.8],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209138851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.51955,8.83314,9.51955,8.83314",
+    "geom:latitude":8.83314,
+    "geom:longitude":9.51955,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Tsoro",
+    "gn:country_code":"NG",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10921985,
+    "gn:latitude":8.83314,
+    "gn:longitude":9.51955,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10921985
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bd5e56510e46764add4c6612165531eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138851
+        }
+    ],
+    "wof:id":1209138851,
+    "wof:lastmodified":1536296571,
+    "wof:name":"Tsoro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.51955,
+    8.83314,
+    9.51955,
+    8.83314
+],
+  "geometry": {"coordinates":[9.51955,8.83314],"type":"Point"}
+}

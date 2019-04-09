@@ -1,0 +1,72 @@
+{
+  "id": 1276220005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.48474,6.45013,3.48474,6.45013",
+    "geom:latitude":6.45013,
+    "geom:longitude":3.48474,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25008.0",
+    "gn:asciiname":"Moba",
+    "gn:country_code":"NG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330038,
+    "gn:latitude":6.45013,
+    "gn:longitude":3.48474,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Moba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mobba",
+        "Moba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421189639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330038
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dbcfa68c504c74d3345fb8ef5a0bce1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421189639,
+            "locality_id":1276220005,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1276220005,
+    "wof:lastmodified":1537675090,
+    "wof:name":"Moba",
+    "wof:parent_id":421189639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.48474,
+    6.45013,
+    3.48474,
+    6.45013
+],
+  "geometry": {"coordinates":[3.48474,6.45013],"type":"Point"}
+}

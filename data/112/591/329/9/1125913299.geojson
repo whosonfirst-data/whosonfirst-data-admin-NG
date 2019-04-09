@@ -1,0 +1,109 @@
+{
+  "id": 1125913299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.41667,8.6,6.41667,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":6.41667,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":26821,
+    "gn:population":26821,
+    "iso:country":"NG",
+    "lbl:latitude":8.6,
+    "lbl:longitude":6.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Baro"
+    ],
+    "name:dut_x_preferred":[
+        "Baro"
+    ],
+    "name:eng_x_preferred":[
+        "Baro"
+    ],
+    "name:fre_x_preferred":[
+        "Baro"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10e0\u10dd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e8\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Baro"
+    ],
+    "name:pol_x_preferred":[
+        "Baro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Barbo"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2347592,
+    "qs_pg:gn_pop":26821,
+    "qs_pg:name":"Baro",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1035088,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347592,
+        "qs_pg:id":1035088,
+        "wd:id":"Q3635086"
+    },
+    "wof:country":"NG",
+    "wof:created":1497296218,
+    "wof:geomhash":"daec97cd35cd64a02ef04c737e9c5d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563895,
+            "locality_id":1125913299,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1125913299,
+    "wof:lastmodified":1514491577,
+    "wof:name":"Baro",
+    "wof:parent_id":1108563895,
+    "wof:placetype":"locality",
+    "wof:population":26821,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.41667,
+    8.6,
+    6.41667,
+    8.6
+],
+  "geometry": {"coordinates":[6.41667,8.6],"type":"Point"}
+}

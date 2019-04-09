@@ -1,0 +1,63 @@
+{
+  "id": 1209682387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88577,10.93953,12.88577,10.93953",
+    "geom:latitude":10.93953,
+    "geom:longitude":12.88577,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10604",
+    "gn:asciiname":"Bolakel Villages",
+    "gn:country_code":"NG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346869,
+    "gn:latitude":10.93953,
+    "gn:longitude":12.88577,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bolakel Villages",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346869
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"499a912c6f7676b3a48b81a79c60886f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209682387
+        }
+    ],
+    "wof:id":1209682387,
+    "wof:lastmodified":1536279529,
+    "wof:name":"Bolakel Villages",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88577,
+    10.93953,
+    12.88577,
+    10.93953
+],
+  "geometry": {"coordinates":[12.88577,10.93953],"type":"Point"}
+}

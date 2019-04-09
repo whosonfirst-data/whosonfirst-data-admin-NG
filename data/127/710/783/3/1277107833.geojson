@@ -1,0 +1,68 @@
+{
+  "id": 1277107833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.27561,10.89311,11.27561,10.89311",
+    "geom:latitude":10.89311,
+    "geom:longitude":11.27561,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16009.0",
+    "gn:asciiname":"Garin Abba",
+    "gn:country_code":"NG",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341866,
+    "gn:latitude":10.89311,
+    "gn:longitude":11.27561,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garin Abba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341866
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc7078377c5fb97bc4a40f333d758d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564005,
+            "locality_id":1277107833,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1277107833,
+    "wof:lastmodified":1536731797,
+    "wof:name":"Garin Abba",
+    "wof:parent_id":1108564005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.27561,
+    10.89311,
+    11.27561,
+    10.89311
+],
+  "geometry": {"coordinates":[11.27561,10.89311],"type":"Point"}
+}

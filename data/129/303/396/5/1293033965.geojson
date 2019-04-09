@@ -1,0 +1,67 @@
+{
+  "id": 1293033965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78366,6.81333,5.78366,6.81333",
+    "geom:latitude":6.81333,
+    "geom:longitude":5.78366,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Ogolo",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6965432,
+    "gn:latitude":6.81333,
+    "gn:longitude":5.78366,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ogolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6965432
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"78f9f3765408fa46462ea7ecc1948dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564249,
+            "locality_id":1293033965,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1293033965,
+    "wof:lastmodified":1536944467,
+    "wof:name":"Ogolo",
+    "wof:parent_id":1108564249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78366,
+    6.81333,
+    5.78366,
+    6.81333
+],
+  "geometry": {"coordinates":[5.78366,6.81333],"type":"Point"}
+}

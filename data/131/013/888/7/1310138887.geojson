@@ -1,0 +1,72 @@
+{
+  "id": 1310138887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.88263,4.73299,6.88263,4.73299",
+    "geom:latitude":4.73299,
+    "geom:longitude":6.88263,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33006.0",
+    "gn:asciiname":"Obenibokiri",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328300,
+    "gn:latitude":4.73299,
+    "gn:longitude":6.88263,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obenibokiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekirikiri",
+        "Obenibokiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328300
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9295d0b19ad07910a7565058eb15a55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563035,
+            "locality_id":1310138887,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1310138887,
+    "wof:lastmodified":1537675065,
+    "wof:name":"Obenibokiri",
+    "wof:parent_id":1108563035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.88263,
+    4.73299,
+    6.88263,
+    4.73299
+],
+  "geometry": {"coordinates":[6.88263,4.73299],"type":"Point"}
+}

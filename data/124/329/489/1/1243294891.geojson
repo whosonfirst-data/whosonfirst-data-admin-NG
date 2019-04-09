@@ -1,0 +1,68 @@
+{
+  "id": 1243294891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.8466,9.0016,7.8466,9.0016",
+    "geom:latitude":9.0016,
+    "geom:longitude":7.8466,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004",
+    "gn:asciiname":"Angwan Kato",
+    "gn:country_code":"NG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641666,
+    "gn:latitude":9.0016,
+    "gn:longitude":7.8466,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Angwan Kato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641666
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4c318d7887534a30c19b6e70f1899c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563785,
+            "locality_id":1243294891,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1243294891,
+    "wof:lastmodified":1537023026,
+    "wof:name":"Angwan Kato",
+    "wof:parent_id":1108563785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8466,
+    9.0016,
+    7.8466,
+    9.0016
+],
+  "geometry": {"coordinates":[7.8466,9.0016],"type":"Point"}
+}

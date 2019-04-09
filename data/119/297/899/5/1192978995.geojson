@@ -1,0 +1,72 @@
+{
+  "id": 1192978995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.6,9.66667,4.6,9.66667",
+    "geom:latitude":9.66667,
+    "geom:longitude":4.6,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Leaba",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324059,
+    "gn:latitude":9.66667,
+    "gn:longitude":4.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Leaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabon Leaba",
+        "Leaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324059
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7c3bb4fa4ffdb9e611e2d06d93a317b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563955,
+            "locality_id":1192978995,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1192978995,
+    "wof:lastmodified":1537674997,
+    "wof:name":"Leaba",
+    "wof:parent_id":1108563955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6,
+    9.66667,
+    4.6,
+    9.66667
+],
+  "geometry": {"coordinates":[4.6,9.66667],"type":"Point"}
+}

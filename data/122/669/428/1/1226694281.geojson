@@ -1,0 +1,68 @@
+{
+  "id": 1226694281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.4506,10.42054,13.4506,10.42054",
+    "geom:latitude":10.42054,
+    "geom:longitude":13.4506,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013.0",
+    "gn:asciiname":"Duvi",
+    "gn:country_code":"NG",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344213,
+    "gn:latitude":10.42054,
+    "gn:longitude":13.4506,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Duvi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344213
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a3aa1ff93d0d09d9c849192acaf882c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563969,
+            "locality_id":1226694281,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226694281,
+    "wof:lastmodified":1536790173,
+    "wof:name":"Duvi",
+    "wof:parent_id":1108563969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.4506,
+    10.42054,
+    13.4506,
+    10.42054
+],
+  "geometry": {"coordinates":[13.4506,10.42054],"type":"Point"}
+}

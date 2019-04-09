@@ -1,0 +1,72 @@
+{
+  "id": 1344204871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.49314,12.2193,12.49314,12.2193",
+    "geom:latitude":12.2193,
+    "geom:longitude":12.49314,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"120.0",
+    "gn:admin3_code":"12003",
+    "gn:asciiname":"Gombarambo",
+    "gn:country_code":"NG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340454,
+    "gn:latitude":12.2193,
+    "gn:longitude":12.49314,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gombarambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gombaram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340454
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"553e0f9f749e35496ac2fdde697164b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563917,
+            "locality_id":1344204871,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1344204871,
+    "wof:lastmodified":1537675227,
+    "wof:name":"Gombarambo",
+    "wof:parent_id":1108563917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.49314,
+    12.2193,
+    12.49314,
+    12.2193
+],
+  "geometry": {"coordinates":[12.49314,12.2193],"type":"Point"}
+}

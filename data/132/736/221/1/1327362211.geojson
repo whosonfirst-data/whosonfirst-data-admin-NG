@@ -1,0 +1,68 @@
+{
+  "id": 1327362211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.46298,6.31289,7.46298,6.31289",
+    "geom:latitude":6.31289,
+    "geom:longitude":7.46298,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14012",
+    "gn:asciiname":"Amibo",
+    "gn:country_code":"NG",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9182350,
+    "gn:latitude":6.31289,
+    "gn:longitude":7.46298,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9182350
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"75577f9263cef621c46201389e9287b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564043,
+            "locality_id":1327362211,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1327362211,
+    "wof:lastmodified":1536782840,
+    "wof:name":"Amibo",
+    "wof:parent_id":1108564043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.46298,
+    6.31289,
+    7.46298,
+    6.31289
+],
+  "geometry": {"coordinates":[7.46298,6.31289],"type":"Point"}
+}

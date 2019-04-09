@@ -1,0 +1,78 @@
+{
+  "id": 1125764707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.64227,12.49382,4.64227,12.49382",
+    "geom:latitude":12.49382,
+    "geom:longitude":4.64227,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10018,
+    "gn:population":10018,
+    "iso:country":"NG",
+    "lbl:latitude":12.49382,
+    "lbl:longitude":4.64227,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2339811,
+    "qs_pg:gn_pop":10018,
+    "qs_pg:name":"Gwandu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1035051,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339811,
+        "qs_pg:id":1035051
+    },
+    "wof:country":"NG",
+    "wof:created":1497289820,
+    "wof:geomhash":"a8eb5cae36b58c3f1f99901a417fc666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563465,
+            "locality_id":1125764707,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1125764707,
+    "wof:lastmodified":1509390619,
+    "wof:name":"Gwandu",
+    "wof:parent_id":1108563465,
+    "wof:placetype":"locality",
+    "wof:population":10018,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.64227,
+    12.49382,
+    4.64227,
+    12.49382
+],
+  "geometry": {"coordinates":[4.64227,12.49382],"type":"Point"}
+}

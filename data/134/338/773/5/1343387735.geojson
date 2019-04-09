@@ -1,0 +1,68 @@
+{
+  "id": 1343387735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.9789,7.62486,9.9789,7.62486",
+    "geom:latitude":7.62486,
+    "geom:longitude":9.9789,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35003",
+    "gn:asciiname":"Tsengeigh",
+    "gn:country_code":"NG",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532477,
+    "gn:latitude":7.62486,
+    "gn:longitude":9.9789,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsengeigh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532477
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"507cf05dd40f2e45cd0e4e8c6d2bbb34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563241,
+            "locality_id":1343387735,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343387735,
+    "wof:lastmodified":1536850204,
+    "wof:name":"Tsengeigh",
+    "wof:parent_id":1108563241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.9789,
+    7.62486,
+    9.9789,
+    7.62486
+],
+  "geometry": {"coordinates":[9.9789,7.62486],"type":"Point"}
+}

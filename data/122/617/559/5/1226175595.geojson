@@ -1,0 +1,68 @@
+{
+  "id": 1226175595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.61071,8.80903,11.61071,8.80903",
+    "geom:latitude":8.80903,
+    "geom:longitude":11.61071,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015.0",
+    "gn:asciiname":"Donkun Tukur",
+    "gn:country_code":"NG",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344556,
+    "gn:latitude":8.80903,
+    "gn:longitude":11.61071,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Donkun Tukur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344556
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"890aa5a34520ec94d8747b7c052fdccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1226175595,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226175595,
+    "wof:lastmodified":1537033267,
+    "wof:name":"Donkun Tukur",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.61071,
+    8.80903,
+    11.61071,
+    8.80903
+],
+  "geometry": {"coordinates":[11.61071,8.80903],"type":"Point"}
+}

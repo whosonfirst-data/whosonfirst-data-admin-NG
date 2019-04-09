@@ -1,0 +1,72 @@
+{
+  "id": 1226072713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33821,9.31727,6.33821,9.31727",
+    "geom:latitude":9.31727,
+    "geom:longitude":6.33821,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010.0",
+    "gn:asciiname":"Zutungi",
+    "gn:country_code":"NG",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317544,
+    "gn:latitude":9.31727,
+    "gn:longitude":6.33821,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zutungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuzungi",
+        "Zutungi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317544
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"37a975a9dbe01d16c80373b3d0e991eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1226072713,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226072713,
+    "wof:lastmodified":1537674895,
+    "wof:name":"Zutungi",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33821,
+    9.31727,
+    6.33821,
+    9.31727
+],
+  "geometry": {"coordinates":[6.33821,9.31727],"type":"Point"}
+}

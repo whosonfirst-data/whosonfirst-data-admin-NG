@@ -1,0 +1,125 @@
+{
+  "id": 421169331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002358,
+    "geom:area_square_m":28519159.345117,
+    "geom:bbox":"8.49186633973,11.9291713683,8.59156633973,11.9898713683",
+    "geom:latitude":11.956181,
+    "geom:longitude":8.542836,
+    "iso:country":"NG",
+    "lbl:latitude":11.962247,
+    "lbl:longitude":8.546235,
+    "meso:adm1_name":"Kano",
+    "meso:diss_me":"TarauniKano",
+    "meso:gadm_admin":"Fagge",
+    "meso:gaul_admin":"Nassaraw",
+    "meso:hasc_id":"NG.KN.TR",
+    "meso:mps_x":8.546235,
+    "meso:mps_y":11.962247,
+    "meso:name_local":"Tarauni",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":11.962247,
+    "mps:longitude":8.546235,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Tarauni"
+    ],
+    "name:eng_x_variant":[
+        "Nassaraw",
+        "Fagge"
+    ],
+    "name:spa_x_preferred":[
+        "Tarauni"
+    ],
+    "name:yor_x_preferred":[
+        "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Tarauni"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Tarauni"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tarauni",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Kano",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1205885,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":56057889,
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"28.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Ungwa Uku",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.KN",
+    "statoids:name":"Tarauni",
+    "statoids:population":"221367",
+    "statoids:statoid":"NG.KN.TR",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56057889,
+        "hasc:id":"NG.KN.TR",
+        "qs:id":1205885,
+        "wd:id":"Q9081916"
+    },
+    "wof:country":"NG",
+    "wof:created":1459008805,
+    "wof:geomhash":"17a63d8df7df13ef039a5ba55e39993d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421169331,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":421169331,
+    "wof:lastmodified":1536615898,
+    "wof:name":"Tarauni",
+    "wof:parent_id":85675425,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":221367,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"TR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49186633973257,
+    11.92917136831218,
+    8.59156633973265,
+    11.98987136831214
+],
+  "geometry": {"coordinates":[[[8.53226633973262,11.97657136831214],[8.53336633973259,11.9800713683121],[8.53306633973264,11.9870713683121],[8.53266633973259,11.98987136831214],[8.53536633973261,11.98947136831217],[8.54126633973264,11.98507136831218],[8.54576633973264,11.98267136831211],[8.54966633973257,11.98067136831218],[8.55906633973264,11.9762713683121],[8.56506633973259,11.97177136831218],[8.5721663397326,11.96857136831218],[8.58276633973257,11.96537136831218],[8.58986633973259,11.96217136831217],[8.59156633973265,11.9597713683121],[8.58656633973257,11.95617136831213],[8.58086633973257,11.95367136831214],[8.5740663397326,11.94877136831217],[8.57056633973264,11.94867136831215],[8.5613663397326,11.94607136831214],[8.55326633973262,11.94347136831214],[8.54626633973263,11.94207136831212],[8.5416663397326,11.94077136831211],[8.53476633973261,11.9381713683121],[8.52786633973263,11.93567136831211],[8.52106633973256,11.93187136831211],[8.51526633973264,11.93057136831211],[8.50946633973263,11.92917136831218],[8.50246633973263,11.93017136831214],[8.49186633973257,11.93327136831213],[8.49756633973256,11.93697136831211],[8.50206633973257,11.93947136831211],[8.50886633973263,11.94547136831215],[8.51226633973258,11.94797136831214],[8.51796633973257,11.9527713683121],[8.52136633973261,11.95637136831216],[8.52686633973258,11.9635713683121],[8.53126633973257,11.9730713683121],[8.53226633973262,11.97657136831214]]],"type":"Polygon"}
+}

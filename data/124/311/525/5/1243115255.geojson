@@ -1,0 +1,71 @@
+{
+  "id": 1243115255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56483,5.98754,5.56483,5.98754",
+    "geom:latitude":5.98754,
+    "geom:longitude":5.56483,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10023.0",
+    "gn:asciiname":"Igbogilete",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027813,
+    "gn:latitude":5.98754,
+    "gn:longitude":5.56483,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Igbogilete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Igbogilete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027813
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"927bcee9d8a5370dcce789b489aed11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564499,
+            "locality_id":1243115255,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243115255,
+    "wof:lastmodified":1537675415,
+    "wof:name":"Igbogilete",
+    "wof:parent_id":1108564499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56483,
+    5.98754,
+    5.56483,
+    5.98754
+],
+  "geometry": {"coordinates":[5.56483,5.98754],"type":"Point"}
+}

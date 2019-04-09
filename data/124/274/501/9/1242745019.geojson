@@ -1,0 +1,68 @@
+{
+  "id": 1242745019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97037,7.20929,8.97037,7.20929",
+    "geom:latitude":7.20929,
+    "geom:longitude":8.97037,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Ater",
+    "gn:country_code":"NG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348986,
+    "gn:latitude":7.20929,
+    "gn:longitude":8.97037,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ater",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348986
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aaa8a3b0fcd57accfb3be822a252b625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1242745019,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1242745019,
+    "wof:lastmodified":1536821802,
+    "wof:name":"Ater",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97037,
+    7.20929,
+    8.97037,
+    7.20929
+],
+  "geometry": {"coordinates":[8.97037,7.20929],"type":"Point"}
+}

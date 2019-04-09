@@ -1,0 +1,63 @@
+{
+  "id": 1209049069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9849,11.42199,4.9849,11.42199",
+    "geom:latitude":11.42199,
+    "geom:longitude":4.9849,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50901",
+    "gn:asciiname":"Kangahi",
+    "gn:country_code":"NG",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020577,
+    "gn:latitude":11.42199,
+    "gn:longitude":4.9849,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kangahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020577
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf1a14ef7cd156ac0a104736656099d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209049069
+        }
+    ],
+    "wof:id":1209049069,
+    "wof:lastmodified":1536299309,
+    "wof:name":"Kangahi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9849,
+    11.42199,
+    4.9849,
+    11.42199
+],
+  "geometry": {"coordinates":[4.9849,11.42199],"type":"Point"}
+}

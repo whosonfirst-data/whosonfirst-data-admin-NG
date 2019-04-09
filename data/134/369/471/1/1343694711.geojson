@@ -1,0 +1,69 @@
+{
+  "id": 1343694711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65116,12.5647,8.65116,12.5647",
+    "geom:latitude":12.5647,
+    "geom:longitude":8.65116,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0209",
+    "gn:asciiname":"Tassawa",
+    "gn:country_code":"NG",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322331,
+    "gn:latitude":12.5647,
+    "gn:longitude":8.65116,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tassawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322331
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"22ac386d8ec13faf1f3662e762b2738f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563199,
+            "locality_id":1343694711,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1343694711,
+    "wof:lastmodified":1536905956,
+    "wof:name":"Tassawa",
+    "wof:parent_id":1108563199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65116,
+    12.5647,
+    8.65116,
+    12.5647
+],
+  "geometry": {"coordinates":[8.65116,12.5647],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243583473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78208,4.88375,5.78208,4.88375",
+    "geom:latitude":4.88375,
+    "geom:longitude":5.78208,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Egbemo Angalabri",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040582,
+    "gn:latitude":4.88375,
+    "gn:longitude":5.78208,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Egbemo Angalabri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Egbemo Angalabri"
+    ],
+    "name:eng_x_variant":[
+        "Egbemangalabiri",
+        "Egbemangalabiri-Market",
+        "Egbidiama-Market"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040582
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4d64f62d6a4d46021103bb200d3ff23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563285,
+            "locality_id":1243583473,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1243583473,
+    "wof:lastmodified":1537675438,
+    "wof:name":"Egbemo Angalabri",
+    "wof:parent_id":1108563285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78208,
+    4.88375,
+    5.78208,
+    4.88375
+],
+  "geometry": {"coordinates":[5.78208,4.88375],"type":"Point"}
+}

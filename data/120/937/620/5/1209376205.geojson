@@ -1,0 +1,62 @@
+{
+  "id": 1209376205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.35192,5.79284,7.35192,5.79284",
+    "geom:latitude":5.79284,
+    "geom:longitude":7.35192,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17019.0",
+    "gn:asciiname":"Ogeh",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327703,
+    "gn:latitude":5.79284,
+    "gn:longitude":7.35192,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogeh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327703
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f3d07715576187f9c3b4a8f02384f767",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209376205
+        }
+    ],
+    "wof:id":1209376205,
+    "wof:lastmodified":1536288942,
+    "wof:name":"Ogeh",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.35192,
+    5.79284,
+    7.35192,
+    5.79284
+],
+  "geometry": {"coordinates":[7.35192,5.79284],"type":"Point"}
+}

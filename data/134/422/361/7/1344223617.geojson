@@ -1,0 +1,69 @@
+{
+  "id": 1344223617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.90433,10.07959,11.90433,10.07959",
+    "geom:latitude":10.07959,
+    "geom:longitude":11.90433,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"127.0",
+    "gn:admin3_code":"12704",
+    "gn:asciiname":"Lechina",
+    "gn:country_code":"NG",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332156,
+    "gn:latitude":10.07959,
+    "gn:longitude":11.90433,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lechina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108564349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332156
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"552967642fc8b9f3d477bc858a9b99b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564349,
+            "locality_id":1344223617,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1344223617,
+    "wof:lastmodified":1536639273,
+    "wof:name":"Lechina",
+    "wof:parent_id":1108564349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.90433,
+    10.07959,
+    11.90433,
+    10.07959
+],
+  "geometry": {"coordinates":[11.90433,10.07959],"type":"Point"}
+}

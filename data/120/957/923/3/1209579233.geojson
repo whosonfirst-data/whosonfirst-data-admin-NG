@@ -1,0 +1,66 @@
+{
+  "id": 1209579233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.05974,6.87715,4.05974,6.87715",
+    "geom:latitude":6.87715,
+    "geom:longitude":4.05974,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28010.0",
+    "gn:asciiname":"Imomo",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337553,
+    "gn:latitude":6.87715,
+    "gn:longitude":4.05974,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imowo",
+        "Imomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337553
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64aab9ff3b8b9a72caffedcc27015f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209579233
+        }
+    ],
+    "wof:id":1209579233,
+    "wof:lastmodified":1537675185,
+    "wof:name":"Imomo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.05974,
+    6.87715,
+    4.05974,
+    6.87715
+],
+  "geometry": {"coordinates":[4.05974,6.87715],"type":"Point"}
+}

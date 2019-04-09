@@ -1,0 +1,65 @@
+{
+  "id": 1209644861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.77227,4.94107,6.77227,4.94107",
+    "geom:latitude":4.94107,
+    "geom:longitude":6.77227,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33010.0",
+    "gn:asciiname":"Ovogo",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591082,
+    "gn:latitude":4.94107,
+    "gn:longitude":6.77227,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ovogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591082
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e94b71f68a954eafdc90022847b06850",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644861
+        }
+    ],
+    "wof:id":1209644861,
+    "wof:lastmodified":1537675400,
+    "wof:name":"Ovogo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.77227,
+    4.94107,
+    6.77227,
+    4.94107
+],
+  "geometry": {"coordinates":[6.77227,4.94107],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226482397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17182,8.80013,12.17182,8.80013",
+    "geom:latitude":8.80013,
+    "geom:longitude":12.17182,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Jauro Amadu",
+    "gn:country_code":"NG",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10418527,
+    "gn:latitude":8.80013,
+    "gn:longitude":12.17182,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jauro Amadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10418527
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"df7772e13ce361e624122a4fa9ea6fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1226482397,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226482397,
+    "wof:lastmodified":1537086072,
+    "wof:name":"Jauro Amadu",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17182,
+    8.80013,
+    12.17182,
+    8.80013
+],
+  "geometry": {"coordinates":[12.17182,8.80013],"type":"Point"}
+}

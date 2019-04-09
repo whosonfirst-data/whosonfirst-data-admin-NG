@@ -1,0 +1,69 @@
+{
+  "id": 1293229135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.27983,12.20695,10.27983,12.20695",
+    "geom:latitude":12.20695,
+    "geom:longitude":10.27983,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5020",
+    "gn:admin3_code":"BA2003",
+    "gn:asciiname":"Manjungwa",
+    "gn:country_code":"NG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10187747,
+    "gn:latitude":12.20695,
+    "gn:longitude":10.27983,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Manjungwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10187747
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e9e8d4fd167dc1da58e50774a6f284b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564553,
+            "locality_id":1293229135,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1293229135,
+    "wof:lastmodified":1536662662,
+    "wof:name":"Manjungwa",
+    "wof:parent_id":1108564553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.27983,
+    12.20695,
+    10.27983,
+    12.20695
+],
+  "geometry": {"coordinates":[10.27983,12.20695],"type":"Point"}
+}

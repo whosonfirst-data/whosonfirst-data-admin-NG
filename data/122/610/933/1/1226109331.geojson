@@ -1,0 +1,68 @@
+{
+  "id": 1226109331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52205,6.90063,9.52205,6.90063",
+    "geom:latitude":6.90063,
+    "geom:longitude":9.52205,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011.0",
+    "gn:asciiname":"Kighir",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334483,
+    "gn:latitude":6.90063,
+    "gn:longitude":9.52205,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kighir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334483
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e55425b31a45937ec580c514d420797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1226109331,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226109331,
+    "wof:lastmodified":1536631955,
+    "wof:name":"Kighir",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52205,
+    6.90063,
+    9.52205,
+    6.90063
+],
+  "geometry": {"coordinates":[9.52205,6.90063],"type":"Point"}
+}

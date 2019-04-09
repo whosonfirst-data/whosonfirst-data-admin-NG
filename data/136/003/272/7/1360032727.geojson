@@ -1,0 +1,73 @@
+{
+  "id": 1360032727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.22302,10.59945,12.22302,10.59945",
+    "geom:latitude":10.59945,
+    "geom:longitude":12.22302,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"105.0",
+    "gn:admin3_code":"10510",
+    "gn:asciiname":"Yawe",
+    "gn:country_code":"NG",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318214,
+    "gn:latitude":10.59945,
+    "gn:longitude":12.22302,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yohwi",
+        "Yawe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318214
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7fc766cfbec8a6fe3c851e08cd792db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563135,
+            "locality_id":1360032727,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1360032727,
+    "wof:lastmodified":1537674903,
+    "wof:name":"Yawe",
+    "wof:parent_id":1108563135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.22302,
+    10.59945,
+    12.22302,
+    10.59945
+],
+  "geometry": {"coordinates":[12.22302,10.59945],"type":"Point"}
+}

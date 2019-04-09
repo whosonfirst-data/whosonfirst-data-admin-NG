@@ -1,0 +1,63 @@
+{
+  "id": 1209164637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.78081,12.11613,8.78081,12.11613",
+    "geom:latitude":12.11613,
+    "geom:longitude":8.78081,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20016.0",
+    "gn:admin3_code":"KN1308",
+    "gn:asciiname":"Nguruma",
+    "gn:country_code":"NG",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974886,
+    "gn:latitude":12.11613,
+    "gn:longitude":8.78081,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nguruma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974886
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d80a11b2f861ef9a6b2aae18a22eeb42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209164637
+        }
+    ],
+    "wof:id":1209164637,
+    "wof:lastmodified":1536295788,
+    "wof:name":"Nguruma",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.78081,
+    12.11613,
+    8.78081,
+    12.11613
+],
+  "geometry": {"coordinates":[8.78081,12.11613],"type":"Point"}
+}

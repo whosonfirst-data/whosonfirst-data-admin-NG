@@ -1,0 +1,72 @@
+{
+  "id": 1293359143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4744,4.9266,8.4744,4.9266",
+    "geom:latitude":4.9266,
+    "geom:longitude":8.4744,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9003.0",
+    "gn:asciiname":"Ikot Ene",
+    "gn:country_code":"NG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338094,
+    "gn:latitude":4.9266,
+    "gn:longitude":8.4744,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Ene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikot Ene Etim",
+        "Ikot Ene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338094
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"37d13b1f96c1bd4792fe1f41f5d82cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562979,
+            "locality_id":1293359143,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293359143,
+    "wof:lastmodified":1537675193,
+    "wof:name":"Ikot Ene",
+    "wof:parent_id":1108562979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4744,
+    4.9266,
+    8.4744,
+    4.9266
+],
+  "geometry": {"coordinates":[8.4744,4.9266],"type":"Point"}
+}

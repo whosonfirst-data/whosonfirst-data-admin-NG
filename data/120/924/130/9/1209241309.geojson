@@ -1,0 +1,63 @@
+{
+  "id": 1209241309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75295,10.44974,8.75295,10.44974",
+    "geom:latitude":10.44974,
+    "geom:longitude":8.75295,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5018.0",
+    "gn:admin3_code":"BA1810",
+    "gn:asciiname":"Rahama Bauchi",
+    "gn:country_code":"NG",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324620,
+    "gn:latitude":10.44974,
+    "gn:longitude":8.75295,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rahama Bauchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324620
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca9b2474ce20278cdefeb4f5bdc7b5c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241309
+        }
+    ],
+    "wof:id":1209241309,
+    "wof:lastmodified":1536293311,
+    "wof:name":"Rahama Bauchi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75295,
+    10.44974,
+    8.75295,
+    10.44974
+],
+  "geometry": {"coordinates":[8.75295,10.44974],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209033213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.44213,12.01507,6.44213,12.01507",
+    "geom:latitude":12.01507,
+    "geom:longitude":6.44213,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81002",
+    "gn:asciiname":"Maji",
+    "gn:country_code":"NG",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331233,
+    "gn:latitude":12.01507,
+    "gn:longitude":6.44213,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331233
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"da331eb0d6f7db2ce9d529f75afbc958",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209033213
+        }
+    ],
+    "wof:id":1209033213,
+    "wof:lastmodified":1536299784,
+    "wof:name":"Maji",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4421300000000015,
+    12.01507,
+    6.4421300000000015,
+    12.01507
+],
+  "geometry": {"coordinates":[6.44213,12.01507],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260018611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.69269,5.99255,5.69269,5.99255",
+    "geom:latitude":5.99255,
+    "geom:longitude":5.69269,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10006.0",
+    "gn:asciiname":"Onaghagha",
+    "gn:country_code":"NG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027818,
+    "gn:latitude":5.99255,
+    "gn:longitude":5.69269,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Onaghagha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Onaghagha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027818
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d6e2a9e17957c96fc09200efa8edff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563335,
+            "locality_id":1260018611,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1260018611,
+    "wof:lastmodified":1537675416,
+    "wof:name":"Onaghagha",
+    "wof:parent_id":1108563335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.69269,
+    5.99255,
+    5.69269,
+    5.99255
+],
+  "geometry": {"coordinates":[5.69269,5.99255],"type":"Point"}
+}

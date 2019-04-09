@@ -1,0 +1,66 @@
+{
+  "id": 1209545221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.70291,10.10345,4.70291,10.10345",
+    "geom:latitude":10.10345,
+    "geom:longitude":4.70291,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27014.0",
+    "gn:asciiname":"Shagwa",
+    "gn:country_code":"NG",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323403,
+    "gn:latitude":10.10345,
+    "gn:longitude":4.70291,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shagwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shakwa",
+        "Shagwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323403
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"da2f9fe479085abb72d6ebb11b06d409",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545221
+        }
+    ],
+    "wof:id":1209545221,
+    "wof:lastmodified":1537674988,
+    "wof:name":"Shagwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.70291,
+    10.10345,
+    4.70291,
+    10.10345
+],
+  "geometry": {"coordinates":[4.70291,10.10345],"type":"Point"}
+}

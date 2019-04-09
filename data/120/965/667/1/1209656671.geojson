@@ -1,0 +1,67 @@
+{
+  "id": 1209656671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.5,7.58333,3.5,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":3.5,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31012.0",
+    "gn:asciiname":"Erin Aboro",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343196,
+    "gn:latitude":7.58333,
+    "gn:longitude":3.5,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Erin Aboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erin",
+        "Erin Aboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343196
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"826b6b632a334fe154dc3c49cced95e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209656671
+        }
+    ],
+    "wof:id":1209656671,
+    "wof:lastmodified":1537675275,
+    "wof:name":"Erin Aboro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.5,
+    7.58333,
+    3.5,
+    7.58333
+],
+  "geometry": {"coordinates":[3.5,7.58333],"type":"Point"}
+}

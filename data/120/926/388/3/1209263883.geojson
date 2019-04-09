@@ -1,0 +1,62 @@
+{
+  "id": 1209263883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.41667,8.31667,4.41667,8.31667",
+    "geom:latitude":8.31667,
+    "geom:longitude":4.41667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Olofe",
+    "gn:country_code":"NG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326652,
+    "gn:latitude":8.31667,
+    "gn:longitude":4.41667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326652
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"16ad9b6a17ee4356c148fe7d3869650a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209263883
+        }
+    ],
+    "wof:id":1209263883,
+    "wof:lastmodified":1536292601,
+    "wof:name":"Olofe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.41667,
+    8.31667,
+    4.41667,
+    8.31667
+],
+  "geometry": {"coordinates":[4.41667,8.31667],"type":"Point"}
+}

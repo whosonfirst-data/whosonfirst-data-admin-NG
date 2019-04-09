@@ -1,0 +1,69 @@
+{
+  "id": 1310543519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27426,11.34768,4.27426,11.34768",
+    "geom:latitude":11.34768,
+    "geom:longitude":4.27426,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"513.0",
+    "gn:admin3_code":"51312",
+    "gn:asciiname":"Tungan Gimba",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020670,
+    "gn:latitude":11.34768,
+    "gn:longitude":4.27426,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tungan Gimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020670
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c1322d6a4c657575b2175e0cf930fb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563069,
+            "locality_id":1310543519,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1310543519,
+    "wof:lastmodified":1536860742,
+    "wof:name":"Tungan Gimba",
+    "wof:parent_id":1108563069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27426,
+    11.34768,
+    4.27426,
+    11.34768
+],
+  "geometry": {"coordinates":[4.27426,11.34768],"type":"Point"}
+}

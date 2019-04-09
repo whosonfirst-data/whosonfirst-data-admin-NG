@@ -1,0 +1,72 @@
+{
+  "id": 1293542777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.16937,8.79499,12.16937,8.79499",
+    "geom:latitude":8.79499,
+    "geom:longitude":12.16937,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Pakorgel",
+    "gn:country_code":"NG",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325111,
+    "gn:latitude":8.79499,
+    "gn:longitude":12.16937,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pakorgel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakorgel",
+        "Pakorgel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325111
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"93cdd9c352422ceee4bf41dcb6854d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1293542777,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293542777,
+    "wof:lastmodified":1537675009,
+    "wof:name":"Pakorgel",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.16937,
+    8.79499,
+    12.16937,
+    8.79499
+],
+  "geometry": {"coordinates":[12.16937,8.79499],"type":"Point"}
+}

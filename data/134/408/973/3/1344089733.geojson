@@ -1,0 +1,69 @@
+{
+  "id": 1344089733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.45922,12.59323,8.45922,12.59323",
+    "geom:latitude":12.59323,
+    "geom:longitude":8.45922,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18010.0",
+    "gn:admin3_code":"JI1705",
+    "gn:asciiname":"Galoru",
+    "gn:country_code":"NG",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6978357,
+    "gn:latitude":12.59323,
+    "gn:longitude":8.45922,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Galoru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6978357
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5801c7232572ed76ef26a36626c58ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564311,
+            "locality_id":1344089733,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1344089733,
+    "wof:lastmodified":1536832452,
+    "wof:name":"Galoru",
+    "wof:parent_id":1108564311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.45922,
+    12.59323,
+    8.45922,
+    12.59323
+],
+  "geometry": {"coordinates":[8.45922,12.59323],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209947783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41405,6.5453,7.41405,6.5453",
+    "geom:latitude":6.5453,
+    "geom:longitude":7.41405,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14016.0",
+    "gn:asciiname":"Ohum",
+    "gn:country_code":"NG",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327451,
+    "gn:latitude":6.5453,
+    "gn:longitude":7.41405,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ohum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awhum",
+        "Ohum",
+        "Okum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327451
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"37ef06497f2d399fa193a9247f86a8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564433,
+            "locality_id":1209947783,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1209947783,
+    "wof:lastmodified":1537675047,
+    "wof:name":"Ohum",
+    "wof:parent_id":1108564433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41405,
+    6.5453,
+    7.41405,
+    6.5453
+],
+  "geometry": {"coordinates":[7.41405,6.5453],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226076303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20233,9.33909,6.20233,9.33909",
+    "geom:latitude":9.33909,
+    "geom:longitude":6.20233,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010",
+    "gn:asciiname":"Chigo",
+    "gn:country_code":"NG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317309,
+    "gn:latitude":9.33909,
+    "gn:longitude":6.20233,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317309
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e377670bdeba7bf14ea485f1f0c5081a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1226076303,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226076303,
+    "wof:lastmodified":1536681207,
+    "wof:name":"Chigo",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20233,
+    9.33909,
+    6.20233,
+    9.33909
+],
+  "geometry": {"coordinates":[6.20233,9.33909],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209157381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2125,7.4063,6.2125,7.4063",
+    "geom:latitude":7.4063,
+    "geom:longitude":6.2125,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12001.0",
+    "gn:asciiname":"Makeke",
+    "gn:country_code":"NG",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331194,
+    "gn:latitude":7.4063,
+    "gn:longitude":6.2125,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Makeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331194
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dd3d9ad1fd7c0b5c776e45ee4af144b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209157381
+        }
+    ],
+    "wof:id":1209157381,
+    "wof:lastmodified":1536296015,
+    "wof:name":"Makeke",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2125,
+    7.4063,
+    6.2125,
+    7.4063
+],
+  "geometry": {"coordinates":[6.2125,7.4063],"type":"Point"}
+}

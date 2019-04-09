@@ -1,0 +1,74 @@
+{
+  "id": 1276258827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31913,13.54318,4.31913,13.54318",
+    "geom:latitude":13.54318,
+    "geom:longitude":4.31913,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"606.0",
+    "gn:admin3_code":"60608",
+    "gn:asciiname":"Darusa",
+    "gn:country_code":"NG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344262,
+    "gn:latitude":13.54318,
+    "gn:longitude":4.31913,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Darusa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durusa Kadiri",
+        "Darusa",
+        "Darousa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344262
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e7fb111c09c58ae7d86d4d4aa7bef88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563439,
+            "locality_id":1276258827,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1276258827,
+    "wof:lastmodified":1537675293,
+    "wof:name":"Darusa",
+    "wof:parent_id":1108563439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31913,
+    13.54318,
+    4.31913,
+    13.54318
+],
+  "geometry": {"coordinates":[4.31913,13.54318],"type":"Point"}
+}

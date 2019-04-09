@@ -1,0 +1,66 @@
+{
+  "id": 1209018733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73333,6.63333,2.73333,6.63333",
+    "geom:latitude":6.63333,
+    "geom:longitude":2.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ikolaja",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338247,
+    "gn:latitude":6.63333,
+    "gn:longitude":2.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ikolaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikawlaji",
+        "Ikolaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338247
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72af18cc0fb832711558a426781ca296",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209018733
+        }
+    ],
+    "wof:id":1209018733,
+    "wof:lastmodified":1537675195,
+    "wof:name":"Ikolaja",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73333,
+    6.63333,
+    2.73333,
+    6.63333
+],
+  "geometry": {"coordinates":[2.73333,6.63333],"type":"Point"}
+}

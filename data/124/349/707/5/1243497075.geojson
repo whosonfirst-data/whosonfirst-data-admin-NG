@@ -1,0 +1,71 @@
+{
+  "id": 1243497075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.29241,6.77979,6.29241,6.77979",
+    "geom:latitude":6.77979,
+    "geom:longitude":6.29241,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12004.0",
+    "gn:asciiname":"Ibhole",
+    "gn:country_code":"NG",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339206,
+    "gn:latitude":6.77979,
+    "gn:longitude":6.29241,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibhole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ibore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339206
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eaf1fd9e0ef5b7a3053bd0aef9d23f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563315,
+            "locality_id":1243497075,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1243497075,
+    "wof:lastmodified":1537675212,
+    "wof:name":"Ibhole",
+    "wof:parent_id":1108563315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.29241,
+    6.77979,
+    6.29241,
+    6.77979
+],
+  "geometry": {"coordinates":[6.29241,6.77979],"type":"Point"}
+}

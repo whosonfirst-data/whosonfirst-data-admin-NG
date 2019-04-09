@@ -1,0 +1,66 @@
+{
+  "id": 1209548653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74534,10.59738,6.74534,10.59738",
+    "geom:latitude":10.59738,
+    "geom:longitude":6.74534,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Gunki",
+    "gn:country_code":"NG",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340026,
+    "gn:latitude":10.59738,
+    "gn:longitude":6.74534,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gunki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baraje",
+        "Gunki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340026
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"26b5b70fd9f8a5893f3b2dbe38db242d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209548653
+        }
+    ],
+    "wof:id":1209548653,
+    "wof:lastmodified":1537675221,
+    "wof:name":"Gunki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74534,
+    10.59738,
+    6.74534,
+    10.59738
+],
+  "geometry": {"coordinates":[6.74534,10.59738],"type":"Point"}
+}

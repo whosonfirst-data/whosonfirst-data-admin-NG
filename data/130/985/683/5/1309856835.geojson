@@ -1,0 +1,75 @@
+{
+  "id": 1309856835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96667,11.26667,13.96667,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":13.96667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11109",
+    "gn:asciiname":"Ndabakora",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329381,
+    "gn:latitude":11.26667,
+    "gn:longitude":13.96667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndabakora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndaba",
+        "Ndafa",
+        "Ndabakora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632245,
+        85669933,
+        1092011759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329381
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2041a83b54350fcdea645793ab8266e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632245,
+            "county_id":1092011759,
+            "locality_id":1309856835,
+            "region_id":85669933
+        }
+    ],
+    "wof:id":1309856835,
+    "wof:lastmodified":1537675081,
+    "wof:name":"Ndabakora",
+    "wof:parent_id":1092011759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96667,
+    11.26667,
+    13.96667,
+    11.26667
+],
+  "geometry": {"coordinates":[13.96667,11.26667],"type":"Point"}
+}

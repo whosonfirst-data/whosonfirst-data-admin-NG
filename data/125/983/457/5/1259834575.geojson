@@ -1,0 +1,75 @@
+{
+  "id": 1259834575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74768,6.01277,6.74768,6.01277",
+    "geom:latitude":6.01277,
+    "geom:longitude":6.74768,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4016.0",
+    "gn:asciiname":"Atani",
+    "gn:country_code":"NG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2349019,
+    "gn:latitude":6.01277,
+    "gn:longitude":6.74768,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Atani",
+    "gn:population":230000,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Atani"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349019,
+        "wk:page":"Atani"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4898e4801104c8963ab956aa56030d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564109,
+            "locality_id":1259834575,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1259834575,
+    "wof:lastmodified":1537675351,
+    "wof:name":"Atani",
+    "wof:parent_id":1108564109,
+    "wof:placetype":"locality",
+    "wof:population":230000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74768,
+    6.01277,
+    6.74768,
+    6.01277
+],
+  "geometry": {"coordinates":[6.74768,6.01277],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209644843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.13742,11.29462,11.13742,11.29462",
+    "geom:latitude":11.29462,
+    "geom:longitude":11.13742,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70408",
+    "gn:asciiname":"Jabbe",
+    "gn:country_code":"NG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336439,
+    "gn:latitude":11.29462,
+    "gn:longitude":11.13742,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jabbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Japde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336439
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"58e9daa0d27794b8109fa2a7283bebd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644843
+        }
+    ],
+    "wof:id":1209644843,
+    "wof:lastmodified":1537675167,
+    "wof:name":"Jabbe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.13742,
+    11.29462,
+    11.13742,
+    11.29462
+],
+  "geometry": {"coordinates":[11.13742,11.29462],"type":"Point"}
+}

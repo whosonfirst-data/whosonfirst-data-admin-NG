@@ -1,0 +1,68 @@
+{
+  "id": 1225997611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3713,5.48609,6.3713,5.48609",
+    "geom:latitude":5.48609,
+    "geom:longitude":6.3713,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10009.0",
+    "gn:asciiname":"Eziro Camp",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099094,
+    "gn:latitude":5.48609,
+    "gn:longitude":6.3713,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eziro Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099094
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3e0656dc4944ff380797df1a05115baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563685,
+            "locality_id":1225997611,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1225997611,
+    "wof:lastmodified":1536794924,
+    "wof:name":"Eziro Camp",
+    "wof:parent_id":1108563685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3713,
+    5.48609,
+    6.3713,
+    5.48609
+],
+  "geometry": {"coordinates":[6.3713,5.48609],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327378303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.85577,9.07415,11.85577,9.07415",
+    "geom:latitude":9.07415,
+    "geom:longitude":11.85577,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Gashu",
+    "gn:country_code":"NG",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210453,
+    "gn:latitude":9.07415,
+    "gn:longitude":11.85577,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Gashu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gashu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210453
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"41d7f1e6d7ec837ade9ff971346b4822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1327378303,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1327378303,
+    "wof:lastmodified":1537675507,
+    "wof:name":"Gashu",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.85577,
+    9.07415,
+    11.85577,
+    9.07415
+],
+  "geometry": {"coordinates":[11.85577,9.07415],"type":"Point"}
+}

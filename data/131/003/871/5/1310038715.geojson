@@ -1,0 +1,68 @@
+{
+  "id": 1310038715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4638,8.79731,11.4638,8.79731",
+    "geom:latitude":8.79731,
+    "geom:longitude":11.4638,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015",
+    "gn:asciiname":"Gbekinto",
+    "gn:country_code":"NG",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10876695,
+    "gn:latitude":8.79731,
+    "gn:longitude":11.4638,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbekinto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10876695
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b8a017f41ff60abe7448a3861a13ad44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1310038715,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1310038715,
+    "wof:lastmodified":1537089629,
+    "wof:name":"Gbekinto",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4638,
+    8.79731,
+    11.4638,
+    8.79731
+],
+  "geometry": {"coordinates":[11.4638,8.79731],"type":"Point"}
+}

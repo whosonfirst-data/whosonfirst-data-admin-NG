@@ -1,0 +1,73 @@
+{
+  "id": 1326558461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.88333,7.3,4.88333,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":4.88333,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29011.0",
+    "gn:asciiname":"Bamikemo",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347916,
+    "gn:latitude":7.3,
+    "gn:longitude":4.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bamikemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamikamo",
+        "Bamikemo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347916
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ea133269bfbb43e813c3007b86f15d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563623,
+            "locality_id":1326558461,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1326558461,
+    "wof:lastmodified":1537675339,
+    "wof:name":"Bamikemo",
+    "wof:parent_id":1108563623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88333,
+    7.3,
+    4.88333,
+    7.3
+],
+  "geometry": {"coordinates":[4.88333,7.3],"type":"Point"}
+}

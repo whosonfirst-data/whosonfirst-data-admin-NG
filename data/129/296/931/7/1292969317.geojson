@@ -1,0 +1,67 @@
+{
+  "id": 1292969317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53447,11.17708,8.53447,11.17708",
+    "geom:latitude":11.17708,
+    "geom:longitude":8.53447,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Makera",
+    "gn:country_code":"NG",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331188,
+    "gn:latitude":11.17708,
+    "gn:longitude":8.53447,
+    "gn:modification_date":"2009-08-14",
+    "gn:name":"Makera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331188
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d475fd708fe6a461227c08c108bb013f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564427,
+            "locality_id":1292969317,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1292969317,
+    "wof:lastmodified":1537035591,
+    "wof:name":"Makera",
+    "wof:parent_id":1108564427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53447,
+    11.17708,
+    8.53447,
+    11.17708
+],
+  "geometry": {"coordinates":[8.53447,11.17708],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243586867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.17619,6.97328,7.17619,6.97328",
+    "geom:latitude":6.97328,
+    "geom:longitude":7.17619,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23008",
+    "gn:asciiname":"Agejojo",
+    "gn:country_code":"NG",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9189876,
+    "gn:latitude":6.97328,
+    "gn:longitude":7.17619,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agejojo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9189876
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ce1f6d4f6f9f105c56535b951a0881e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563553,
+            "locality_id":1243586867,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1243586867,
+    "wof:lastmodified":1537096790,
+    "wof:name":"Agejojo",
+    "wof:parent_id":1108563553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.17619,
+    6.97328,
+    7.17619,
+    6.97328
+],
+  "geometry": {"coordinates":[7.17619,6.97328],"type":"Point"}
+}

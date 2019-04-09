@@ -1,0 +1,70 @@
+{
+  "id": 1242619779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.74244,10.83505,4.74244,10.83505",
+    "geom:latitude":10.83505,
+    "geom:longitude":4.74244,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"520.0",
+    "gn:admin3_code":"52005",
+    "gn:asciiname":"Yelwa",
+    "gn:country_code":"NG",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2318152,
+    "gn:latitude":10.83505,
+    "gn:longitude":4.74244,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yelwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318152,
+        "wk:page":"Yelwa"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1513b87c53891d4fb07cf5e8126a8e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564537,
+            "locality_id":1242619779,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1242619779,
+    "wof:lastmodified":1537569973,
+    "wof:name":"Yelwa",
+    "wof:parent_id":1108564537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.74244,
+    10.83505,
+    4.74244,
+    10.83505
+],
+  "geometry": {"coordinates":[4.74244,10.83505],"type":"Point"}
+}

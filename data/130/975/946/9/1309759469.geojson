@@ -1,0 +1,68 @@
+{
+  "id": 1309759469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48006,8.71464,12.48006,8.71464",
+    "geom:latitude":8.71464,
+    "geom:longitude":12.48006,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Shede",
+    "gn:country_code":"NG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323287,
+    "gn:latitude":8.71464,
+    "gn:longitude":12.48006,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323287
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"68196a205ab0e9378f10b2b593b37a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1309759469,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1309759469,
+    "wof:lastmodified":1536997232,
+    "wof:name":"Shede",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48006,
+    8.71464,
+    12.48006,
+    8.71464
+],
+  "geometry": {"coordinates":[12.48006,8.71464],"type":"Point"}
+}

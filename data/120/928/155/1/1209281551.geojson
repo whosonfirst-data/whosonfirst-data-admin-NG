@@ -1,0 +1,62 @@
+{
+  "id": 1209281551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.05668,6.93386,8.05668,6.93386",
+    "geom:latitude":6.93386,
+    "geom:longitude":8.05668,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7001.0",
+    "gn:asciiname":"Ikpomoloko",
+    "gn:country_code":"NG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914560,
+    "gn:latitude":6.93386,
+    "gn:longitude":8.05668,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikpomoloko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914560
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c3c2af7fbad7e79795ad488021b62711",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209281551
+        }
+    ],
+    "wof:id":1209281551,
+    "wof:lastmodified":1536292004,
+    "wof:name":"Ikpomoloko",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.05668,
+    6.933860000000001,
+    8.05668,
+    6.933860000000001
+],
+  "geometry": {"coordinates":[8.05668,6.93386],"type":"Point"}
+}

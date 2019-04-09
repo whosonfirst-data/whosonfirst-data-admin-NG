@@ -1,0 +1,67 @@
+{
+  "id": 1209347591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.0701,11.65259,11.0701,11.65259",
+    "geom:latitude":11.65259,
+    "geom:longitude":11.0701,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"71411",
+    "gn:asciiname":"Gandabura",
+    "gn:country_code":"NG",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342131,
+    "gn:latitude":11.65259,
+    "gn:longitude":11.0701,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gandabura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gandadura",
+        "Gandabura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342131
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5fc4b97bda2600ba5b3932a5f8ede324",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347591
+        }
+    ],
+    "wof:id":1209347591,
+    "wof:lastmodified":1537675259,
+    "wof:name":"Gandabura",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.0701,
+    11.65259,
+    11.0701,
+    11.65259
+],
+  "geometry": {"coordinates":[11.0701,11.65259],"type":"Point"}
+}

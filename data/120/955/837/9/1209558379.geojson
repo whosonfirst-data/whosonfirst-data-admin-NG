@@ -1,0 +1,64 @@
+{
+  "id": 1209558379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30879,5.59094,5.30879,5.59094",
+    "geom:latitude":5.59094,
+    "geom:longitude":5.30879,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Bafa",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11122041,
+    "gn:latitude":5.59094,
+    "gn:longitude":5.30879,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Bafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11122041
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fdb6cc87d71a4cb034d3e81431714c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209558379
+        }
+    ],
+    "wof:id":1209558379,
+    "wof:lastmodified":1537675479,
+    "wof:name":"Bafa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.30879,
+    5.59094,
+    5.30879,
+    5.59094
+],
+  "geometry": {"coordinates":[5.30879,5.59094],"type":"Point"}
+}

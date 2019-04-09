@@ -1,0 +1,69 @@
+{
+  "id": 1192968575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.29204,12.1993,8.29204,12.1993",
+    "geom:latitude":12.1993,
+    "geom:longitude":8.29204,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20031.0",
+    "gn:admin3_code":"KN0501",
+    "gn:asciiname":"Yakasai",
+    "gn:country_code":"NG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592504,
+    "gn:latitude":12.1993,
+    "gn:longitude":8.29204,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yakasai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592504
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca33b6dbb9c45009f6f20999c6930513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563115,
+            "locality_id":1192968575,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1192968575,
+    "wof:lastmodified":1536380803,
+    "wof:name":"Yakasai",
+    "wof:parent_id":1108563115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.29204,
+    12.1993,
+    8.29204,
+    12.1993
+],
+  "geometry": {"coordinates":[8.29204,12.1993],"type":"Point"}
+}

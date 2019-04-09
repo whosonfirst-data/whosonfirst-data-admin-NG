@@ -1,0 +1,68 @@
+{
+  "id": 1293842227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90641,6.51345,8.90641,6.51345",
+    "geom:latitude":6.51345,
+    "geom:longitude":8.90641,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9016.0",
+    "gn:asciiname":"Mpamgbenyi",
+    "gn:country_code":"NG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329846,
+    "gn:latitude":6.51345,
+    "gn:longitude":8.90641,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mpamgbenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329846
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"14293c1feecb1bb4f905a9c5b9b8bf12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564121,
+            "locality_id":1293842227,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293842227,
+    "wof:lastmodified":1536773580,
+    "wof:name":"Mpamgbenyi",
+    "wof:parent_id":1108564121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90641,
+    6.51345,
+    8.90641,
+    6.51345
+],
+  "geometry": {"coordinates":[8.90641,6.51345],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293750695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.39782,7.2677,9.39782,7.2677",
+    "geom:latitude":7.2677,
+    "geom:longitude":9.39782,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Imam",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637025,
+    "gn:latitude":7.2677,
+    "gn:longitude":9.39782,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637025
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7d29ff655f23eb32614f461c59579a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1293750695,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293750695,
+    "wof:lastmodified":1536905039,
+    "wof:name":"Imam",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.39782,
+    7.2677,
+    9.39782,
+    7.2677
+],
+  "geometry": {"coordinates":[9.39782,7.2677],"type":"Point"}
+}

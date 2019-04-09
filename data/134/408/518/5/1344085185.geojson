@@ -1,0 +1,73 @@
+{
+  "id": 1344085185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.93056,12.68167,8.93056,12.68167",
+    "geom:latitude":12.68167,
+    "geom:longitude":8.93056,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0206",
+    "gn:asciiname":"Bakarkuka",
+    "gn:country_code":"NG",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348177,
+    "gn:latitude":12.68167,
+    "gn:longitude":8.93056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakarkuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakarkura",
+        "Bakarkuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348177
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cee86e223b974af458c843c3e11628b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1344085185,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1344085185,
+    "wof:lastmodified":1537675342,
+    "wof:name":"Bakarkuka",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.93056,
+    12.68167,
+    8.93056,
+    12.68167
+],
+  "geometry": {"coordinates":[8.93056,12.68167],"type":"Point"}
+}

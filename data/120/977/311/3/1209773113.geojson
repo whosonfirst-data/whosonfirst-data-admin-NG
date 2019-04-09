@@ -1,0 +1,69 @@
+{
+  "id": 1209773113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.25093,13.06315,8.25093,13.06315",
+    "geom:latitude":13.06315,
+    "geom:longitude":8.25093,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"424.0",
+    "gn:admin3_code":"42408",
+    "gn:asciiname":"Yarogel",
+    "gn:country_code":"NG",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318257,
+    "gn:latitude":13.06315,
+    "gn:longitude":8.25093,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yarogel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318257
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4677d563ba7c558e42b9257898cb39d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563221,
+            "locality_id":1209773113,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1209773113,
+    "wof:lastmodified":1536381747,
+    "wof:name":"Yarogel",
+    "wof:parent_id":1108563221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.25093,
+    13.06315,
+    8.25093,
+    13.06315
+],
+  "geometry": {"coordinates":[8.25093,13.06315],"type":"Point"}
+}

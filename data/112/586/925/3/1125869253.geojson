@@ -1,0 +1,100 @@
+{
+  "id": 1125869253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3,9.58333,8.3,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":8.3,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":79522,
+    "gn:population":79522,
+    "iso:country":"NG",
+    "lbl:latitude":9.58333,
+    "lbl:longitude":8.3,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0444\u0430\u043d\u0447\u0430\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Kafanchan"
+    ],
+    "name:eng_x_preferred":[
+        "Kafanchan"
+    ],
+    "name:fre_x_preferred":[
+        "Kafanchan"
+    ],
+    "name:pol_x_preferred":[
+        "Kanfanchan"
+    ],
+    "name:rum_x_preferred":[
+        "Kafanchan"
+    ],
+    "name:unk_x_variant":[
+        "Kafanchan Junction"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2335713,
+    "qs_pg:gn_pop":79522,
+    "qs_pg:name":"Kafachan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":139658,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335713,
+        "qs_pg:id":139658,
+        "wd:id":"Q6346073"
+    },
+    "wof:country":"NG",
+    "wof:created":1497294207,
+    "wof:geomhash":"0ce7194844d62a48b74eb824f7be4425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563721,
+            "locality_id":1125869253,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1125869253,
+    "wof:lastmodified":1514491642,
+    "wof:name":"Kafachan",
+    "wof:parent_id":1108563721,
+    "wof:placetype":"locality",
+    "wof:population":79522,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3,
+    9.58333,
+    8.3,
+    9.58333
+],
+  "geometry": {"coordinates":[8.3,9.58333],"type":"Point"}
+}

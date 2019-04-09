@@ -1,0 +1,71 @@
+{
+  "id": 1309857461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46643,6.55983,6.46643,6.55983",
+    "geom:latitude":6.55983,
+    "geom:longitude":6.46643,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12005.0",
+    "gn:asciiname":"Emu-Eguare",
+    "gn:country_code":"NG",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343307,
+    "gn:latitude":6.55983,
+    "gn:longitude":6.46643,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emu-Eguare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Emu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343307
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ca376f7c67cf708005d53d8c7205d0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563319,
+            "locality_id":1309857461,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1309857461,
+    "wof:lastmodified":1537675276,
+    "wof:name":"Emu-Eguare",
+    "wof:parent_id":1108563319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46643,
+    6.55983,
+    6.46643,
+    6.55983
+],
+  "geometry": {"coordinates":[6.46643,6.55983],"type":"Point"}
+}

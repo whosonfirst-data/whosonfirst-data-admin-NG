@@ -1,0 +1,74 @@
+{
+  "id": 890436343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.65761,11.84864,3.65761,11.84864",
+    "geom:latitude":11.84864,
+    "geom:longitude":3.65761,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":25568,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0431\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kambo"
+    ],
+    "qs:name":"Kamba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335333,
+        "gp:id":1508821,
+        "qs:id":91280,
+        "wk:page":"Kamba"
+    },
+    "wof:country":"NG",
+    "wof:created":1469052108,
+    "wof:geomhash":"49e00c47f8bde703f61723b7944cab06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563207,
+            "locality_id":890436343,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":890436343,
+    "wof:lastmodified":1527735407,
+    "wof:name":"Kamba",
+    "wof:parent_id":1108563207,
+    "wof:placetype":"locality",
+    "wof:population":25568,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.65761,
+    11.84864,
+    3.65761,
+    11.84864
+],
+  "geometry": {"coordinates":[3.65761,11.84864],"type":"Point"}
+}

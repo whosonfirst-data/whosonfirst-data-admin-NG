@@ -1,0 +1,62 @@
+{
+  "id": 1209443377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75892,9.57651,8.75892,9.57651",
+    "geom:latitude":9.57651,
+    "geom:longitude":8.75892,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32015.0",
+    "gn:asciiname":"Kaku",
+    "gn:country_code":"NG",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335467,
+    "gn:latitude":9.57651,
+    "gn:longitude":8.75892,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335467
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ad1bf6838234a3c5ec32eff984c8557e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443377
+        }
+    ],
+    "wof:id":1209443377,
+    "wof:lastmodified":1536286893,
+    "wof:name":"Kaku",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75892,
+    9.57651,
+    8.75892,
+    9.57651
+],
+  "geometry": {"coordinates":[8.75892,9.57651],"type":"Point"}
+}

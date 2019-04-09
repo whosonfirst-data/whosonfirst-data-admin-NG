@@ -1,0 +1,68 @@
+{
+  "id": 1260326047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.70782,5.17636,5.70782,5.17636",
+    "geom:latitude":5.17636,
+    "geom:longitude":5.70782,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10004.0",
+    "gn:asciiname":"Nikorogha",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028227,
+    "gn:latitude":5.17636,
+    "gn:longitude":5.70782,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nikorogha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028227
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fa4122fc0ad39ebce842e24fd51e9a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563177,
+            "locality_id":1260326047,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1260326047,
+    "wof:lastmodified":1536654818,
+    "wof:name":"Nikorogha",
+    "wof:parent_id":1108563177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.70782,
+    5.17636,
+    5.70782,
+    5.17636
+],
+  "geometry": {"coordinates":[5.70782,5.17636],"type":"Point"}
+}

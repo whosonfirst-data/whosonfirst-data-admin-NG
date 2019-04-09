@@ -1,0 +1,72 @@
+{
+  "id": 1309837091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.10453,6.14356,5.10453,6.14356",
+    "geom:latitude":6.14356,
+    "geom:longitude":5.10453,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29007.0",
+    "gn:asciiname":"Agborogbenakuku",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351966,
+    "gn:latitude":6.14356,
+    "gn:longitude":5.10453,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agborogbenakuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agborogbenekuku",
+        "Agborogbenakuku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351966
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"23cb54f572f0a8017d09e2bf3ba3ec1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563323,
+            "locality_id":1309837091,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1309837091,
+    "wof:lastmodified":1537675386,
+    "wof:name":"Agborogbenakuku",
+    "wof:parent_id":1108563323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.10453,
+    6.14356,
+    5.10453,
+    6.14356
+],
+  "geometry": {"coordinates":[5.10453,6.14356],"type":"Point"}
+}

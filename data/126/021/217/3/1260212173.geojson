@@ -1,0 +1,67 @@
+{
+  "id": 1260212173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.25333,4.42111,6.25333,4.42111",
+    "geom:latitude":4.42111,
+    "geom:longitude":6.25333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Orukiri",
+    "gn:country_code":"NG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325645,
+    "gn:latitude":4.42111,
+    "gn:longitude":6.25333,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Orukiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325645
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b728e9486fcfe13318482bf32d95d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564021,
+            "locality_id":1260212173,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1260212173,
+    "wof:lastmodified":1536808441,
+    "wof:name":"Orukiri",
+    "wof:parent_id":1108564021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.25333,
+    4.42111,
+    6.25333,
+    4.42111
+],
+  "geometry": {"coordinates":[6.25333,4.42111],"type":"Point"}
+}

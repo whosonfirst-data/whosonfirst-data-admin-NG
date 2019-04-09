@@ -1,0 +1,73 @@
+{
+  "id": 1326957987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.01794,12.41872,10.01794,12.41872",
+    "geom:latitude":12.41872,
+    "geom:longitude":10.01794,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18013.0",
+    "gn:admin3_code":"JI0108",
+    "gn:asciiname":"Gidan Gandu",
+    "gn:country_code":"NG",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341028,
+    "gn:latitude":12.41872,
+    "gn:longitude":10.01794,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Gandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guidan Gandu",
+        "Gandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341028
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7785b105d5bb9f7730dca8e882202b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563051,
+            "locality_id":1326957987,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1326957987,
+    "wof:lastmodified":1537675241,
+    "wof:name":"Gidan Gandu",
+    "wof:parent_id":1108563051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.01794,
+    12.41872,
+    10.01794,
+    12.41872
+],
+  "geometry": {"coordinates":[10.01794,12.41872],"type":"Point"}
+}

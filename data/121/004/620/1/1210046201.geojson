@@ -1,0 +1,68 @@
+{
+  "id": 1210046201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.42639,8.98594,11.42639,8.98594",
+    "geom:latitude":8.98594,
+    "geom:longitude":11.42639,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015",
+    "gn:asciiname":"Ungwar Nari",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871410,
+    "gn:latitude":8.98594,
+    "gn:longitude":11.42639,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ungwar Nari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871410
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"729ddadca2110c7dec8cf76a6861e2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1210046201,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1210046201,
+    "wof:lastmodified":1536378720,
+    "wof:name":"Ungwar Nari",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.42639,
+    8.98594,
+    11.42639,
+    8.98594
+],
+  "geometry": {"coordinates":[11.42639,8.98594],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293343643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.24475,9.49969,12.24475,9.49969",
+    "geom:latitude":9.49969,
+    "geom:longitude":12.24475,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sware",
+    "gn:country_code":"NG",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189581,
+    "gn:latitude":9.49969,
+    "gn:longitude":12.24475,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Sware",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sware"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189581
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dc2d1aca873f3d159f271a38fa8c5473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1293343643,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293343643,
+    "wof:lastmodified":1537675482,
+    "wof:name":"Sware",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.24475,
+    9.49969,
+    12.24475,
+    9.49969
+],
+  "geometry": {"coordinates":[12.24475,9.49969],"type":"Point"}
+}

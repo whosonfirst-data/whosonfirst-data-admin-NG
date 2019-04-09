@@ -1,0 +1,74 @@
+{
+  "id": 1276274749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.00572,9.89647,12.00572,9.89647",
+    "geom:latitude":9.89647,
+    "geom:longitude":12.00572,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2017.0",
+    "gn:asciiname":"Shelleng",
+    "gn:country_code":"NG",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2323264,
+    "gn:latitude":9.89647,
+    "gn:longitude":12.00572,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shelleng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shellen",
+        "Shellem",
+        "Shelleng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323264,
+        "wk:page":"Shelleng"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0629f6399b70b210855e2d2c857167ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564351,
+            "locality_id":1276274749,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1276274749,
+    "wof:lastmodified":1537674987,
+    "wof:name":"Shelleng",
+    "wof:parent_id":1108564351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.00572,
+    9.89647,
+    12.00572,
+    9.89647
+],
+  "geometry": {"coordinates":[12.00572,9.89647],"type":"Point"}
+}

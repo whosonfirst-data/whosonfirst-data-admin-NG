@@ -1,0 +1,73 @@
+{
+  "id": 1226294481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67977,6.52458,6.67977,6.52458",
+    "geom:latitude":6.52458,
+    "geom:longitude":6.67977,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Odekpe",
+    "gn:country_code":"NG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7318694,
+    "gn:latitude":6.52458,
+    "gn:longitude":6.67977,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Odekpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Odekpe"
+    ],
+    "name:eng_x_variant":[
+        "Odekpu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318694
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7839babc886ff13ac1cb08d272a65d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563001,
+            "locality_id":1226294481,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1226294481,
+    "wof:lastmodified":1537675454,
+    "wof:name":"Odekpe",
+    "wof:parent_id":1108563001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67977,
+    6.52458,
+    6.67977,
+    6.52458
+],
+  "geometry": {"coordinates":[6.67977,6.52458],"type":"Point"}
+}

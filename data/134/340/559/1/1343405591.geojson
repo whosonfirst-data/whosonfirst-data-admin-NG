@@ -1,0 +1,71 @@
+{
+  "id": 1343405591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.41986,9.05103,12.41986,9.05103",
+    "geom:latitude":9.05103,
+    "geom:longitude":12.41986,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Sheba",
+    "gn:country_code":"NG",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323294,
+    "gn:latitude":9.05103,
+    "gn:longitude":12.41986,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Sheba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sheba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323294
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72b0606cf457f8ecc98d4fd7564286e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1343405591,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343405591,
+    "wof:lastmodified":1537674987,
+    "wof:name":"Sheba",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.41986,
+    9.05103,
+    12.41986,
+    9.05103
+],
+  "geometry": {"coordinates":[12.41986,9.05103],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226718505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.76985,10.4104,7.76985,10.4104",
+    "geom:latitude":10.4104,
+    "geom:longitude":7.76985,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19012.0",
+    "gn:admin3_code":"KD1209",
+    "gn:asciiname":"Rumau",
+    "gn:country_code":"NG",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324321,
+    "gn:latitude":10.4104,
+    "gn:longitude":7.76985,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rumau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rimau",
+        "Rumau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324321
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64eba126fe2d7f3a218c45eb8e400c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563803,
+            "locality_id":1226718505,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1226718505,
+    "wof:lastmodified":1537675000,
+    "wof:name":"Rumau",
+    "wof:parent_id":1108563803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.76985,
+    10.4104,
+    7.76985,
+    10.4104
+],
+  "geometry": {"coordinates":[7.76985,10.4104],"type":"Point"}
+}

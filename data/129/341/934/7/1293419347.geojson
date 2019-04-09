@@ -1,0 +1,68 @@
+{
+  "id": 1293419347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.79923,7.6704,9.79923,7.6704",
+    "geom:latitude":7.6704,
+    "geom:longitude":9.79923,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Anini",
+    "gn:country_code":"NG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532291,
+    "gn:latitude":7.6704,
+    "gn:longitude":9.79923,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532291
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9e7cb3e76a69a19c59c7198b68e602c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1293419347,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293419347,
+    "wof:lastmodified":1536884853,
+    "wof:name":"Anini",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.79923,
+    7.6704,
+    9.79923,
+    7.6704
+],
+  "geometry": {"coordinates":[9.79923,7.6704],"type":"Point"}
+}

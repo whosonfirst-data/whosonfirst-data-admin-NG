@@ -1,0 +1,64 @@
+{
+  "id": 1209655367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.9638,9.31422,11.9638,9.31422",
+    "geom:latitude":9.31422,
+    "geom:longitude":11.9638,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Shafa",
+    "gn:country_code":"NG",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209966,
+    "gn:latitude":9.31422,
+    "gn:longitude":11.9638,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Shafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209966
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8701fac223d20c0e466e2a6271743e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209655367
+        }
+    ],
+    "wof:id":1209655367,
+    "wof:lastmodified":1537675504,
+    "wof:name":"Shafa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.9638,
+    9.31422,
+    11.9638,
+    9.31422
+],
+  "geometry": {"coordinates":[11.9638,9.31422],"type":"Point"}
+}

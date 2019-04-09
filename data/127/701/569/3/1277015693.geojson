@@ -1,0 +1,71 @@
+{
+  "id": 1277015693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.33695,9.02031,8.33695,9.02031",
+    "geom:latitude":9.02031,
+    "geom:longitude":8.33695,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26001.0",
+    "gn:asciiname":"Ancho",
+    "gn:country_code":"NG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349949,
+    "gn:latitude":9.02031,
+    "gn:longitude":8.33695,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ancho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anco Baba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108562989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349949
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"227195156a4ad758948d5483f74c853d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562989,
+            "locality_id":1277015693,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1277015693,
+    "wof:lastmodified":1537675363,
+    "wof:name":"Ancho",
+    "wof:parent_id":1108562989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.33695,
+    9.02031,
+    8.33695,
+    9.02031
+],
+  "geometry": {"coordinates":[8.33695,9.02031],"type":"Point"}
+}

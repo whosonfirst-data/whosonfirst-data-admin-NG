@@ -1,0 +1,69 @@
+{
+  "id": 1310255797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88501,10.55059,11.88501,10.55059",
+    "geom:latitude":10.55059,
+    "geom:longitude":11.88501,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"118.0",
+    "gn:admin3_code":"11806",
+    "gn:asciiname":"Ribadu",
+    "gn:country_code":"NG",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324536,
+    "gn:latitude":10.55059,
+    "gn:longitude":11.88501,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ribadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324536
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f86bd9e73f52abb4ed976c82cb820f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563877,
+            "locality_id":1310255797,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1310255797,
+    "wof:lastmodified":1536780250,
+    "wof:name":"Ribadu",
+    "wof:parent_id":1108563877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88501,
+    10.55059,
+    11.88501,
+    10.55059
+],
+  "geometry": {"coordinates":[11.88501,10.55059],"type":"Point"}
+}

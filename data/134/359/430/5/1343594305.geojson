@@ -1,0 +1,67 @@
+{
+  "id": 1343594305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6641,4.48472,6.6641,4.48472",
+    "geom:latitude":4.48472,
+    "geom:longitude":6.6641,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Jacobkiri",
+    "gn:country_code":"NG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826060,
+    "gn:latitude":4.48472,
+    "gn:longitude":6.6641,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Jacobkiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826060
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"82d9c79245db4d0ec408df0d5ab7a89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1343594305,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343594305,
+    "wof:lastmodified":1537048527,
+    "wof:name":"Jacobkiri",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6641,
+    4.48472,
+    6.6641,
+    4.48472
+],
+  "geometry": {"coordinates":[6.6641,4.48472],"type":"Point"}
+}

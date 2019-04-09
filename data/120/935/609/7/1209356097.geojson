@@ -1,0 +1,62 @@
+{
+  "id": 1209356097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.2,7.93333,4.2,7.93333",
+    "geom:latitude":7.93333,
+    "geom:longitude":4.2,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31023.0",
+    "gn:asciiname":"Ibere",
+    "gn:country_code":"NG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339304,
+    "gn:latitude":7.93333,
+    "gn:longitude":4.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339304
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd6464eec627add6ef9b575b8b58c62b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209356097
+        }
+    ],
+    "wof:id":1209356097,
+    "wof:lastmodified":1536289579,
+    "wof:name":"Ibere",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2,
+    7.9333300000000015,
+    4.2,
+    7.9333300000000015
+],
+  "geometry": {"coordinates":[4.2,7.93333],"type":"Point"}
+}

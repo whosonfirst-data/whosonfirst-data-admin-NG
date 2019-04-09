@@ -1,0 +1,68 @@
+{
+  "id": 1343328717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.09084,7.50066,9.09084,7.50066",
+    "geom:latitude":7.50066,
+    "geom:longitude":9.09084,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Azenda",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525931,
+    "gn:latitude":7.50066,
+    "gn:longitude":9.09084,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Azenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525931
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64e6dbd6b410cc87e39080fc6ca12683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1343328717,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343328717,
+    "wof:lastmodified":1536937271,
+    "wof:name":"Azenda",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.09084,
+    7.50066,
+    9.09084,
+    7.50066
+],
+  "geometry": {"coordinates":[9.09084,7.50066],"type":"Point"}
+}

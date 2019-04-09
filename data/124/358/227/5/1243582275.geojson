@@ -1,0 +1,74 @@
+{
+  "id": 1243582275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.44169,11.01003,11.44169,11.01003",
+    "geom:latitude":11.01003,
+    "geom:longitude":11.44169,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16005.0",
+    "gn:asciiname":"Nonowa",
+    "gn:country_code":"NG",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328889,
+    "gn:latitude":11.01003,
+    "gn:longitude":11.44169,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nonowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ninowo",
+        "Ninowa",
+        "Nonowa",
+        "Nayinawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328889
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"91d3ba00157d2a3adf3e8d360bded9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563373,
+            "locality_id":1243582275,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1243582275,
+    "wof:lastmodified":1537675073,
+    "wof:name":"Nonowa",
+    "wof:parent_id":1108563373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.44169,
+    11.01003,
+    11.44169,
+    11.01003
+],
+  "geometry": {"coordinates":[11.44169,11.01003],"type":"Point"}
+}

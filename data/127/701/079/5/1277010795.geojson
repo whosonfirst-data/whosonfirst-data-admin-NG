@@ -1,0 +1,68 @@
+{
+  "id": 1277010795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.63861,9.70894,6.63861,9.70894",
+    "geom:latitude":9.70894,
+    "geom:longitude":6.63861,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27005",
+    "gn:asciiname":"Gidan Dagma",
+    "gn:country_code":"NG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410120,
+    "gn:latitude":9.70894,
+    "gn:longitude":6.63861,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Dagma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410120
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5c9e0c23e796e9aec616a7f5d1601370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563157,
+            "locality_id":1277010795,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1277010795,
+    "wof:lastmodified":1536864412,
+    "wof:name":"Gidan Dagma",
+    "wof:parent_id":1108563157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.63861,
+    9.70894,
+    6.63861,
+    9.70894
+],
+  "geometry": {"coordinates":[6.63861,9.70894],"type":"Point"}
+}

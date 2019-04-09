@@ -1,0 +1,69 @@
+{
+  "id": 1343629837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.29737,11.01131,8.29737,11.01131",
+    "geom:latitude":11.01131,
+    "geom:longitude":8.29737,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19015.0",
+    "gn:admin3_code":"KD1508",
+    "gn:asciiname":"Bakara",
+    "gn:country_code":"NG",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348181,
+    "gn:latitude":11.01131,
+    "gn:longitude":8.29737,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bakara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348181
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5657cb1845c2f3a0bee3e9882b29652f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563845,
+            "locality_id":1343629837,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1343629837,
+    "wof:lastmodified":1536998563,
+    "wof:name":"Bakara",
+    "wof:parent_id":1108563845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.29737,
+    11.01131,
+    8.29737,
+    11.01131
+],
+  "geometry": {"coordinates":[8.29737,11.01131],"type":"Point"}
+}

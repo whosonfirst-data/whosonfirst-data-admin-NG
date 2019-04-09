@@ -1,0 +1,70 @@
+{
+  "id": 1226486551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.73606,9.05959,11.73606,9.05959",
+    "geom:latitude":9.05959,
+    "geom:longitude":11.73606,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Damera",
+    "gn:country_code":"NG",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209467,
+    "gn:latitude":9.05959,
+    "gn:longitude":11.73606,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Damera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Damera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209467
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"40158a6b5e6aafa66361438a706af89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1226486551,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226486551,
+    "wof:lastmodified":1537675501,
+    "wof:name":"Damera",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73606,
+    9.05959,
+    11.73606,
+    9.05959
+],
+  "geometry": {"coordinates":[11.73606,9.05959],"type":"Point"}
+}

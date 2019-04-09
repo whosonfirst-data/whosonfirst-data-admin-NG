@@ -1,0 +1,68 @@
+{
+  "id": 1193219477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.75,8.0,2.75,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":2.75,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31018.0",
+    "gn:asciiname":"Aiyegun",
+    "gn:country_code":"NG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351586,
+    "gn:latitude":8.0,
+    "gn:longitude":2.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aiyegun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351586
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"101326b3cd16c1b1e5491f0b857e98b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563703,
+            "locality_id":1193219477,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1193219477,
+    "wof:lastmodified":1536376992,
+    "wof:name":"Aiyegun",
+    "wof:parent_id":1108563703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.75,
+    8.0,
+    2.75,
+    8.0
+],
+  "geometry": {"coordinates":[2.75,8.0],"type":"Point"}
+}

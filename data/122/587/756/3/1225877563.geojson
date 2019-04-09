@@ -1,0 +1,73 @@
+{
+  "id": 1225877563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68291,12.10564,6.68291,12.10564",
+    "geom:latitude":12.10564,
+    "geom:longitude":6.68291,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80710",
+    "gn:asciiname":"Guidan Ladi",
+    "gn:country_code":"NG",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340922,
+    "gn:latitude":12.10564,
+    "gn:longitude":6.68291,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guidan Ladi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Ladi",
+        "Guidan Ladi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340922
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f25f54d547ee07e949563a25ff85be4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563455,
+            "locality_id":1225877563,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1225877563,
+    "wof:lastmodified":1537675237,
+    "wof:name":"Guidan Ladi",
+    "wof:parent_id":1108563455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68291,
+    12.10564,
+    6.68291,
+    12.10564
+],
+  "geometry": {"coordinates":[6.68291,12.10564],"type":"Point"}
+}

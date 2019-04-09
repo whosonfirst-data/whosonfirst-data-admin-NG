@@ -1,0 +1,68 @@
+{
+  "id": 1326581279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.1003,7.0788,6.1003,7.0788",
+    "geom:latitude":7.0788,
+    "geom:longitude":6.1003,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12016.0",
+    "gn:asciiname":"Isokka",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6834161,
+    "gn:latitude":7.0788,
+    "gn:longitude":6.1003,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isokka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6834161
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6eeeeed80caa8e18e8a15fcaf1579172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564247,
+            "locality_id":1326581279,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1326581279,
+    "wof:lastmodified":1536913884,
+    "wof:name":"Isokka",
+    "wof:parent_id":1108564247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.1003,
+    7.0788,
+    6.1003,
+    7.0788
+],
+  "geometry": {"coordinates":[6.1003,7.0788],"type":"Point"}
+}

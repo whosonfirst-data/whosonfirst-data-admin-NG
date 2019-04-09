@@ -1,0 +1,68 @@
+{
+  "id": 1292967847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.79908,7.87826,8.79908,7.87826",
+    "geom:latitude":7.87826,
+    "geom:longitude":8.79908,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7006.0",
+    "gn:asciiname":"Icheabu",
+    "gn:country_code":"NG",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852915,
+    "gn:latitude":7.87826,
+    "gn:longitude":8.79908,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Icheabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852915
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"91b66e2dd5bdf16040914c7990e1c154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563445,
+            "locality_id":1292967847,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1292967847,
+    "wof:lastmodified":1537037621,
+    "wof:name":"Icheabu",
+    "wof:parent_id":1108563445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.79908,
+    7.87826,
+    8.79908,
+    7.87826
+],
+  "geometry": {"coordinates":[8.79908,7.87826],"type":"Point"}
+}

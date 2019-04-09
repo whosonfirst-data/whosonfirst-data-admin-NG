@@ -1,0 +1,73 @@
+{
+  "id": 1310138855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18333,7.88333,11.18333,7.88333",
+    "geom:latitude":7.88333,
+    "geom:longitude":11.18333,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35004.0",
+    "gn:asciiname":"Gangumi",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342031,
+    "gn:latitude":7.88333,
+    "gn:longitude":11.18333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gangumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gangome",
+        "Gangumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342031
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a612f37244c052a7cf6827c04d05c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563401,
+            "locality_id":1310138855,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1310138855,
+    "wof:lastmodified":1537675258,
+    "wof:name":"Gangumi",
+    "wof:parent_id":1108563401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18333,
+    7.88333,
+    11.18333,
+    7.88333
+],
+  "geometry": {"coordinates":[11.18333,7.88333],"type":"Point"}
+}

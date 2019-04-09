@@ -1,0 +1,67 @@
+{
+  "id": 1259934275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.35433,10.64015,13.35433,10.64015",
+    "geom:latitude":10.64015,
+    "geom:longitude":13.35433,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Vilegwa",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760497,
+    "gn:latitude":10.64015,
+    "gn:longitude":13.35433,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Vilegwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760497
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f86c41ab22d420d63dc584003f9efe17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563969,
+            "locality_id":1259934275,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259934275,
+    "wof:lastmodified":1536706460,
+    "wof:name":"Vilegwa",
+    "wof:parent_id":1108563969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.35433,
+    10.64015,
+    13.35433,
+    10.64015
+],
+  "geometry": {"coordinates":[13.35433,10.64015],"type":"Point"}
+}

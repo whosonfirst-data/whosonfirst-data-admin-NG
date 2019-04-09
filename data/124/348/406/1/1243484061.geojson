@@ -1,0 +1,68 @@
+{
+  "id": 1243484061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05737,9.35994,6.05737,9.35994",
+    "geom:latitude":9.35994,
+    "geom:longitude":6.05737,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Ndabachi",
+    "gn:country_code":"NG",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317259,
+    "gn:latitude":9.35994,
+    "gn:longitude":6.05737,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndabachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317259
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"197c7b3b90802448f623b38a473fd8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1243484061,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243484061,
+    "wof:lastmodified":1536751301,
+    "wof:name":"Ndabachi",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05737,
+    9.35994,
+    6.05737,
+    9.35994
+],
+  "geometry": {"coordinates":[6.05737,9.35994],"type":"Point"}
+}

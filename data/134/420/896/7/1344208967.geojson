@@ -1,0 +1,73 @@
+{
+  "id": 1344208967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98333,7.46667,5.98333,7.46667",
+    "geom:latitude":7.46667,
+    "geom:longitude":5.98333,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12001.0",
+    "gn:asciiname":"Ikiran",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338274,
+    "gn:latitude":7.46667,
+    "gn:longitude":5.98333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikiran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebuni",
+        "Ikiran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108562977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338274
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ab550dc5f546c8f4b745693d65c9ddc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562977,
+            "locality_id":1344208967,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1344208967,
+    "wof:lastmodified":1537675196,
+    "wof:name":"Ikiran",
+    "wof:parent_id":1108562977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98333,
+    7.46667,
+    5.98333,
+    7.46667
+],
+  "geometry": {"coordinates":[5.98333,7.46667],"type":"Point"}
+}

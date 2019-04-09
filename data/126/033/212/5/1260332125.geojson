@@ -1,0 +1,68 @@
+{
+  "id": 1260332125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.34909,10.48736,13.34909,10.48736",
+    "geom:latitude":10.48736,
+    "geom:longitude":13.34909,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2013.0",
+    "gn:asciiname":"Suzawa",
+    "gn:country_code":"NG",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760466,
+    "gn:latitude":10.48736,
+    "gn:longitude":13.34909,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Suzawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760466
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e884e715d5f86f5988c1cc17c31072ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563969,
+            "locality_id":1260332125,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1260332125,
+    "wof:lastmodified":1536646347,
+    "wof:name":"Suzawa",
+    "wof:parent_id":1108563969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.34909,
+    10.48736,
+    13.34909,
+    10.48736
+],
+  "geometry": {"coordinates":[13.34909,10.48736],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309743173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.33333,7.73333,11.33333,7.73333",
+    "geom:latitude":7.73333,
+    "geom:longitude":11.33333,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35004.0",
+    "gn:asciiname":"Zore",
+    "gn:country_code":"NG",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317627,
+    "gn:latitude":7.73333,
+    "gn:longitude":11.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317627
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9cfcbd79f349dab0ee7fdf651ea3ca19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563401,
+            "locality_id":1309743173,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1309743173,
+    "wof:lastmodified":1537020593,
+    "wof:name":"Zore",
+    "wof:parent_id":1108563401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.33333,
+    7.73333,
+    11.33333,
+    7.73333
+],
+  "geometry": {"coordinates":[11.33333,7.73333],"type":"Point"}
+}

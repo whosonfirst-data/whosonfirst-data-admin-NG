@@ -1,0 +1,68 @@
+{
+  "id": 1276169549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.13333,9.06667,3.13333,9.06667",
+    "geom:latitude":9.06667,
+    "geom:longitude":3.13333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24002.0",
+    "gn:asciiname":"Wobiro",
+    "gn:country_code":"NG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318992,
+    "gn:latitude":9.06667,
+    "gn:longitude":3.13333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wobiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318992
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"affe957e73c95b0cde3ed52c2af381c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563089,
+            "locality_id":1276169549,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1276169549,
+    "wof:lastmodified":1536997540,
+    "wof:name":"Wobiro",
+    "wof:parent_id":1108563089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.13333,
+    9.06667,
+    3.13333,
+    9.06667
+],
+  "geometry": {"coordinates":[3.13333,9.06667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310331659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.04343,6.23097,8.04343,6.23097",
+    "geom:latitude":6.23097,
+    "geom:longitude":8.04343,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11005.0",
+    "gn:asciiname":"Ezzo-Abia",
+    "gn:country_code":"NG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342882,
+    "gn:latitude":6.23097,
+    "gn:longitude":8.04343,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ezzo-Abia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ezza Abia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342882
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"186f1fa13f0b850f79dd533c45017a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563357,
+            "locality_id":1310331659,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1310331659,
+    "wof:lastmodified":1537675268,
+    "wof:name":"Ezzo-Abia",
+    "wof:parent_id":1108563357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.04343,
+    6.23097,
+    8.04343,
+    6.23097
+],
+  "geometry": {"coordinates":[8.04343,6.23097],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243391901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.31126,9.87134,6.31126,9.87134",
+    "geom:latitude":9.87134,
+    "geom:longitude":6.31126,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022.0",
+    "gn:asciiname":"Rawo",
+    "gn:country_code":"NG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324567,
+    "gn:latitude":9.87134,
+    "gn:longitude":6.31126,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lawo",
+        "Rawo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324567
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5945783c5ac792e57c2cb3244b9ae3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1243391901,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1243391901,
+    "wof:lastmodified":1537675004,
+    "wof:name":"Rawo",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.31126,
+    9.87134,
+    6.31126,
+    9.87134
+],
+  "geometry": {"coordinates":[6.31126,9.87134],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225973985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8961,7.32371,10.8961,7.32371",
+    "geom:latitude":7.32371,
+    "geom:longitude":10.8961,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Haruna",
+    "gn:country_code":"NG",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339566,
+    "gn:latitude":7.32371,
+    "gn:longitude":10.8961,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Haruna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339566
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ee3ff1fb7551fda191471972857fe4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1225973985,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1225973985,
+    "wof:lastmodified":1536827760,
+    "wof:name":"Haruna",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8961,
+    7.32371,
+    10.8961,
+    7.32371
+],
+  "geometry": {"coordinates":[10.8961,7.32371],"type":"Point"}
+}

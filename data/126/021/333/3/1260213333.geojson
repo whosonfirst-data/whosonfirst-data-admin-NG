@@ -1,0 +1,69 @@
+{
+  "id": 1260213333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85035,12.41725,8.85035,12.41725",
+    "geom:latitude":12.41725,
+    "geom:longitude":8.85035,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18024.0",
+    "gn:admin3_code":"JI0804",
+    "gn:asciiname":"Asayaya",
+    "gn:country_code":"NG",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974787,
+    "gn:latitude":12.41725,
+    "gn:longitude":8.85035,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Asayaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974787
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f32e84f5d113eabd7eb4d28926252da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563393,
+            "locality_id":1260213333,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1260213333,
+    "wof:lastmodified":1536806978,
+    "wof:name":"Asayaya",
+    "wof:parent_id":1108563393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85035,
+    12.41725,
+    8.85035,
+    12.41725
+],
+  "geometry": {"coordinates":[8.85035,12.41725],"type":"Point"}
+}

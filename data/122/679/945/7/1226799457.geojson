@@ -1,0 +1,73 @@
+{
+  "id": 1226799457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.86349,11.41721,7.86349,11.41721",
+    "geom:latitude":11.41721,
+    "geom:longitude":7.86349,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20032.0",
+    "gn:admin3_code":"KN3403",
+    "gn:asciiname":"Ungwan Mallam Mamudu",
+    "gn:country_code":"NG",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319870,
+    "gn:latitude":11.41721,
+    "gn:longitude":7.86349,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Mallam Mamudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallam Mamudu",
+        "Ungwan Mallam Mamudu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319870
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cacd39615689551b6bf54182c25f8116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564309,
+            "locality_id":1226799457,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1226799457,
+    "wof:lastmodified":1537674926,
+    "wof:name":"Ungwan Mallam Mamudu",
+    "wof:parent_id":1108564309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.86349,
+    11.41721,
+    7.86349,
+    11.41721
+],
+  "geometry": {"coordinates":[7.86349,11.41721],"type":"Point"}
+}

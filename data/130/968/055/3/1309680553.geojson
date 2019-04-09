@@ -1,0 +1,69 @@
+{
+  "id": 1309680553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.17364,11.03478,7.17364,11.03478",
+    "geom:latitude":11.03478,
+    "geom:longitude":7.17364,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19003.0",
+    "gn:admin3_code":"KD0307",
+    "gn:asciiname":"Basurfe",
+    "gn:country_code":"NG",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019871,
+    "gn:latitude":11.03478,
+    "gn:longitude":7.17364,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Basurfe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019871
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"61ac65b75f0ea71aed9f677d3d2d8b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563425,
+            "locality_id":1309680553,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1309680553,
+    "wof:lastmodified":1536612332,
+    "wof:name":"Basurfe",
+    "wof:parent_id":1108563425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.17364,
+    11.03478,
+    7.17364,
+    11.03478
+],
+  "geometry": {"coordinates":[7.17364,11.03478],"type":"Point"}
+}

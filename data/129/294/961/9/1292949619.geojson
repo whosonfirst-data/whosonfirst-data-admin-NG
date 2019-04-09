@@ -1,0 +1,68 @@
+{
+  "id": 1292949619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.2,7.95,4.2,7.95",
+    "geom:latitude":7.95,
+    "geom:longitude":4.2,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31023.0",
+    "gn:asciiname":"Aiyetoro",
+    "gn:country_code":"NG",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351534,
+    "gn:latitude":7.95,
+    "gn:longitude":4.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aiyetoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351534
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"51660b2aeda096a3680e8066fc310432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564117,
+            "locality_id":1292949619,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1292949619,
+    "wof:lastmodified":1537062679,
+    "wof:name":"Aiyetoro",
+    "wof:parent_id":1108564117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2,
+    7.95,
+    4.2,
+    7.95
+],
+  "geometry": {"coordinates":[4.2,7.95],"type":"Point"}
+}

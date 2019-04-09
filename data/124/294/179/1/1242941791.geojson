@@ -1,0 +1,68 @@
+{
+  "id": 1242941791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.02892,5.44994,8.02892,5.44994",
+    "geom:latitude":5.44994,
+    "geom:longitude":8.02892,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Akpasip",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350937,
+    "gn:latitude":5.44994,
+    "gn:longitude":8.02892,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akpasip",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350937
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"546278a92c4317ab61574d2ec846e702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1242941791,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1242941791,
+    "wof:lastmodified":1537034762,
+    "wof:name":"Akpasip",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.02892,
+    5.44994,
+    8.02892,
+    5.44994
+],
+  "geometry": {"coordinates":[8.02892,5.44994],"type":"Point"}
+}

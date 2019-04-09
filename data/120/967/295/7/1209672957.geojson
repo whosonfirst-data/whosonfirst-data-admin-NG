@@ -1,0 +1,63 @@
+{
+  "id": 1209672957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.25521,12.21609,7.25521,12.21609",
+    "geom:latitude":12.21609,
+    "geom:longitude":7.25521,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"409.0",
+    "gn:admin3_code":"40907",
+    "gn:asciiname":"Dan Geza",
+    "gn:country_code":"NG",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998577,
+    "gn:latitude":12.21609,
+    "gn:longitude":7.25521,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dan Geza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998577
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"247a82fcb9d158fe8f1cfbbb5fedd174",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209672957
+        }
+    ],
+    "wof:id":1209672957,
+    "wof:lastmodified":1536279853,
+    "wof:name":"Dan Geza",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.255210000000001,
+    12.21609,
+    7.255210000000001,
+    12.21609
+],
+  "geometry": {"coordinates":[7.25521,12.21609],"type":"Point"}
+}

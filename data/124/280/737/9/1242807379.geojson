@@ -1,0 +1,73 @@
+{
+  "id": 1242807379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63205,10.24207,9.63205,10.24207",
+    "geom:latitude":10.24207,
+    "geom:longitude":9.63205,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5018.0",
+    "gn:admin3_code":"BA1805",
+    "gn:asciiname":"Diehiki",
+    "gn:country_code":"NG",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344889,
+    "gn:latitude":10.24207,
+    "gn:longitude":9.63205,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Diehiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bichiki",
+        "Diehiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344889
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f33f0019e44b63baa7baa54325e31e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564391,
+            "locality_id":1242807379,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1242807379,
+    "wof:lastmodified":1537675303,
+    "wof:name":"Diehiki",
+    "wof:parent_id":1108564391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63205,
+    10.24207,
+    9.63205,
+    10.24207
+],
+  "geometry": {"coordinates":[9.63205,10.24207],"type":"Point"}
+}

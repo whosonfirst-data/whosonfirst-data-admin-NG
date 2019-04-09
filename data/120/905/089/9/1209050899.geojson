@@ -1,0 +1,62 @@
+{
+  "id": 1209050899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.19599,9.90654,13.19599,9.90654",
+    "geom:latitude":9.90654,
+    "geom:longitude":13.19599,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Bangumo",
+    "gn:country_code":"NG",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8675634,
+    "gn:latitude":9.90654,
+    "gn:longitude":13.19599,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bangumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8675634
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b86af85a17357cca91b0bc0c0b633630",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209050899
+        }
+    ],
+    "wof:id":1209050899,
+    "wof:lastmodified":1536299253,
+    "wof:name":"Bangumo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.19599,
+    9.90654,
+    13.19599,
+    9.90654
+],
+  "geometry": {"coordinates":[13.19599,9.90654],"type":"Point"}
+}

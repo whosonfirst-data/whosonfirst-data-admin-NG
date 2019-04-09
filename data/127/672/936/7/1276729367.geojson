@@ -1,0 +1,68 @@
+{
+  "id": 1276729367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.04749,6.72071,8.04749,6.72071",
+    "geom:latitude":6.72071,
+    "geom:longitude":8.04749,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7001.0",
+    "gn:asciiname":"Icheri",
+    "gn:country_code":"NG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6914565,
+    "gn:latitude":6.72071,
+    "gn:longitude":8.04749,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Icheri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108562923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6914565
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0b04cee381bfbfd1cde034b2112c3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562923,
+            "locality_id":1276729367,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276729367,
+    "wof:lastmodified":1536744958,
+    "wof:name":"Icheri",
+    "wof:parent_id":1108562923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.04749,
+    6.72071,
+    8.04749,
+    6.72071
+],
+  "geometry": {"coordinates":[8.04749,6.72071],"type":"Point"}
+}

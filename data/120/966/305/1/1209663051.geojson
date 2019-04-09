@@ -1,0 +1,62 @@
+{
+  "id": 1209663051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.61765,7.17654,8.61765,7.17654",
+    "geom:latitude":7.17654,
+    "geom:longitude":8.61765,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Nyityo",
+    "gn:country_code":"NG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328433,
+    "gn:latitude":7.17654,
+    "gn:longitude":8.61765,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nyityo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328433
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a1772a315505a5910199e0c4327c2f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209663051
+        }
+    ],
+    "wof:id":1209663051,
+    "wof:lastmodified":1536280187,
+    "wof:name":"Nyityo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.61765,
+    7.176539999999998,
+    8.61765,
+    7.176539999999998
+],
+  "geometry": {"coordinates":[8.61765,7.17654],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327384347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.74714,11.40981,7.74714,11.40981",
+    "geom:latitude":11.40981,
+    "geom:longitude":7.74714,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20032.0",
+    "gn:admin3_code":"KN3408",
+    "gn:asciiname":"Ungwan Barau",
+    "gn:country_code":"NG",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319875,
+    "gn:latitude":11.40981,
+    "gn:longitude":7.74714,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Barau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallam Barau",
+        "Ungwan Mallam Barau",
+        "Ungwan Barau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319875
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc57492bc1ca5a3af8300cf2c06bf281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564309,
+            "locality_id":1327384347,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1327384347,
+    "wof:lastmodified":1537674926,
+    "wof:name":"Ungwan Barau",
+    "wof:parent_id":1108564309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.74714,
+    11.40981,
+    7.74714,
+    11.40981
+],
+  "geometry": {"coordinates":[7.74714,11.40981],"type":"Point"}
+}

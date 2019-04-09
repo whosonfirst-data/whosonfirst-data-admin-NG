@@ -1,0 +1,68 @@
+{
+  "id": 1243112257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.96321,8.84809,11.96321,8.84809",
+    "geom:latitude":8.84809,
+    "geom:longitude":11.96321,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Ngabelani",
+    "gn:country_code":"NG",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329100,
+    "gn:latitude":8.84809,
+    "gn:longitude":11.96321,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ngabelani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329100
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a675baa7ae2a390f7c803fa3a9c90a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1243112257,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243112257,
+    "wof:lastmodified":1536790691,
+    "wof:name":"Ngabelani",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.96321,
+    8.84809,
+    11.96321,
+    8.84809
+],
+  "geometry": {"coordinates":[11.96321,8.84809],"type":"Point"}
+}

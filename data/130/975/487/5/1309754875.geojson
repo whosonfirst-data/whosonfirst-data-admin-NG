@@ -1,0 +1,71 @@
+{
+  "id": 1309754875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.17181,8.2444,4.17181,8.2444",
+    "geom:latitude":8.2444,
+    "geom:longitude":4.17181,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31028.0",
+    "gn:asciiname":"Ikoyi-Ile",
+    "gn:country_code":"NG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2337886,
+    "gn:latitude":8.2444,
+    "gn:longitude":4.17181,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikoyi-Ile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikoyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337886
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1033422a772ed113ca96327f19024e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564205,
+            "locality_id":1309754875,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1309754875,
+    "wof:lastmodified":1537675191,
+    "wof:name":"Ikoyi-Ile",
+    "wof:parent_id":1108564205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.17181,
+    8.2444,
+    4.17181,
+    8.2444
+],
+  "geometry": {"coordinates":[4.17181,8.2444],"type":"Point"}
+}

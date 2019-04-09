@@ -1,0 +1,69 @@
+{
+  "id": 1360251565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69168,11.6605,13.69168,11.6605",
+    "geom:latitude":11.6605,
+    "geom:longitude":13.69168,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10301",
+    "gn:asciiname":"Gremari",
+    "gn:country_code":"NG",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340276,
+    "gn:latitude":11.6605,
+    "gn:longitude":13.69168,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gremari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340276
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d6a853b657e84eaf29370e4a7a388616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563837,
+            "locality_id":1360251565,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1360251565,
+    "wof:lastmodified":1536705836,
+    "wof:name":"Gremari",
+    "wof:parent_id":1108563837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69168,
+    11.6605,
+    13.69168,
+    11.6605
+],
+  "geometry": {"coordinates":[13.69168,11.6605],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209568729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.19291,8.51689,12.19291,8.51689",
+    "geom:latitude":8.51689,
+    "geom:longitude":12.19291,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Banshe",
+    "gn:country_code":"NG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347794,
+    "gn:latitude":8.51689,
+    "gn:longitude":12.19291,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Banshe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jegu",
+        "Banshe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347794
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1d4e8da611f53fc1a104bd15e5d13d65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209568729
+        }
+    ],
+    "wof:id":1209568729,
+    "wof:lastmodified":1537675337,
+    "wof:name":"Banshe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.19291,
+    8.51689,
+    12.19291,
+    8.51689
+],
+  "geometry": {"coordinates":[12.19291,8.51689],"type":"Point"}
+}

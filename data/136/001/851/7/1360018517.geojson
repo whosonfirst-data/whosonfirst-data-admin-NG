@@ -1,0 +1,72 @@
+{
+  "id": 1360018517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.76858,4.90305,6.76858,4.90305",
+    "geom:latitude":4.90305,
+    "geom:longitude":6.76858,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33010.0",
+    "gn:asciiname":"Rumuehua",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591087,
+    "gn:latitude":4.90305,
+    "gn:longitude":6.76858,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rumuehua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumuafo",
+        "Rumuehuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591087
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d9ec1f2948103a1dfe5b3f928df74162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563303,
+            "locality_id":1360018517,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1360018517,
+    "wof:lastmodified":1537675401,
+    "wof:name":"Rumuehua",
+    "wof:parent_id":1108563303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76858,
+    4.90305,
+    6.76858,
+    4.90305
+],
+  "geometry": {"coordinates":[6.76858,4.90305],"type":"Point"}
+}

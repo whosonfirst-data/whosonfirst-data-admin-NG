@@ -1,0 +1,66 @@
+{
+  "id": 1209388763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0845,4.627,8.0845,4.627",
+    "geom:latitude":4.627,
+    "geom:longitude":8.0845,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3004.0",
+    "gn:asciiname":"Ntete",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328662,
+    "gn:latitude":4.627,
+    "gn:longitude":8.0845,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ntete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntete\u2019s",
+        "Ntete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328662
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b69d2ffc2ed0b692dc42f1537007a7f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209388763
+        }
+    ],
+    "wof:id":1209388763,
+    "wof:lastmodified":1537675069,
+    "wof:name":"Ntete",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0845,
+    4.627,
+    8.0845,
+    4.627
+],
+  "geometry": {"coordinates":[8.0845,4.627],"type":"Point"}
+}

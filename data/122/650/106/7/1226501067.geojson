@@ -1,0 +1,68 @@
+{
+  "id": 1226501067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0426,5.143,8.0426,5.143",
+    "geom:latitude":5.143,
+    "geom:longitude":8.0426,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3016.0",
+    "gn:asciiname":"Ika Oku",
+    "gn:country_code":"NG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338329,
+    "gn:latitude":5.143,
+    "gn:longitude":8.0426,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ika Oku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338329
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6cae56357aba1a813a8535e395e410bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563699,
+            "locality_id":1226501067,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1226501067,
+    "wof:lastmodified":1537059950,
+    "wof:name":"Ika Oku",
+    "wof:parent_id":1108563699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0426,
+    5.143,
+    8.0426,
+    5.143
+],
+  "geometry": {"coordinates":[8.0426,5.143],"type":"Point"}
+}

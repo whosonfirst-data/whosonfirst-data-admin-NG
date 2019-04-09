@@ -1,0 +1,91 @@
+{
+  "id": 421193639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.93333,9.98333,10.93333,9.98333",
+    "geom:latitude":9.98333,
+    "geom:longitude":10.93333,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Pindiga"
+    ],
+    "name:hrv_x_preferred":[
+        "H\u00f5ne jezik"
+    ],
+    "name:pms_x_preferred":[
+        "Lenga Hone"
+    ],
+    "name:swa_x_preferred":[
+        "Kihone"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2324857,
+    "qs:gn_pop":106322,
+    "qs:name":"Pindiga",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Gombe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":944757,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1404399,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324857,
+        "gp:id":1404399,
+        "qs:id":944757
+    },
+    "wof:country":"NG",
+    "wof:created":1459009778,
+    "wof:geomhash":"56573930a37e3ffbdaf8c8da1788a62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":421193639,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":421193639,
+    "wof:lastmodified":1505340736,
+    "wof:name":"Pindiga",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:population":106322,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.93333,
+    9.98333,
+    10.93333,
+    9.98333
+],
+  "geometry": {"coordinates":[10.93333,9.98333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243273817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.75,6.78333,2.75,6.78333",
+    "geom:latitude":6.78333,
+    "geom:longitude":2.75,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Iledu",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337740,
+    "gn:latitude":6.78333,
+    "gn:longitude":2.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iledu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iledun",
+        "Iledu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337740
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e1bad8ab6df9e200d93cef70d171236d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563647,
+            "locality_id":1243273817,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1243273817,
+    "wof:lastmodified":1537675189,
+    "wof:name":"Iledu",
+    "wof:parent_id":1108563647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.75,
+    6.78333,
+    2.75,
+    6.78333
+],
+  "geometry": {"coordinates":[2.75,6.78333],"type":"Point"}
+}

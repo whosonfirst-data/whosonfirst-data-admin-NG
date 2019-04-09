@@ -1,0 +1,67 @@
+{
+  "id": 1209057585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.25629,12.32109,4.25629,12.32109",
+    "geom:latitude":12.32109,
+    "geom:longitude":4.25629,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"511.0",
+    "gn:admin3_code":"51103",
+    "gn:asciiname":"Basaura",
+    "gn:country_code":"NG",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347561,
+    "gn:latitude":12.32109,
+    "gn:longitude":4.25629,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Basaura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basabra",
+        "Basaura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347561
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"12887082aacdb0d982f077b556a7b5e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209057585
+        }
+    ],
+    "wof:id":1209057585,
+    "wof:lastmodified":1537675334,
+    "wof:name":"Basaura",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.25629,
+    12.32109,
+    4.25629,
+    12.32109
+],
+  "geometry": {"coordinates":[4.25629,12.32109],"type":"Point"}
+}

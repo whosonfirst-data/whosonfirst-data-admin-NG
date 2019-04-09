@@ -1,0 +1,62 @@
+{
+  "id": 1209278465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.01563,5.09815,8.01563,5.09815",
+    "geom:latitude":5.09815,
+    "geom:longitude":8.01563,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3029.0",
+    "gn:asciiname":"Eman Uruan",
+    "gn:country_code":"NG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343369,
+    "gn:latitude":5.09815,
+    "gn:longitude":8.01563,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eman Uruan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343369
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b068e2d0bc6ae61c89feb5aaec8f2017",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209278465
+        }
+    ],
+    "wof:id":1209278465,
+    "wof:lastmodified":1536292109,
+    "wof:name":"Eman Uruan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.01563,
+    5.09815,
+    8.01563,
+    5.09815
+],
+  "geometry": {"coordinates":[8.01563,5.09815],"type":"Point"}
+}

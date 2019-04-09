@@ -1,0 +1,68 @@
+{
+  "id": 1226076253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.33928,10.88498,4.33928,10.88498",
+    "geom:latitude":10.88498,
+    "geom:longitude":4.33928,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27004.0",
+    "gn:asciiname":"Gidan Mallam Garba",
+    "gn:country_code":"NG",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014548,
+    "gn:latitude":10.88498,
+    "gn:longitude":4.33928,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Mallam Garba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014548
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"394f2935f48f57dff88fb413792bf86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563153,
+            "locality_id":1226076253,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226076253,
+    "wof:lastmodified":1536681279,
+    "wof:name":"Gidan Mallam Garba",
+    "wof:parent_id":1108563153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.33928,
+    10.88498,
+    4.33928,
+    10.88498
+],
+  "geometry": {"coordinates":[4.33928,10.88498],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293230217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.10889,10.59777,10.10889,10.59777",
+    "geom:latitude":10.59777,
+    "geom:longitude":10.10889,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5008.0",
+    "gn:admin3_code":"BA0810",
+    "gn:asciiname":"Dasha",
+    "gn:country_code":"NG",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345124,
+    "gn:latitude":10.59777,
+    "gn:longitude":10.10889,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dasha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345124
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d87f20215d4a00d72da5b72105999799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563391,
+            "locality_id":1293230217,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1293230217,
+    "wof:lastmodified":1537675306,
+    "wof:name":"Dasha",
+    "wof:parent_id":1108563391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.10889,
+    10.59777,
+    10.10889,
+    10.59777
+],
+  "geometry": {"coordinates":[10.10889,10.59777],"type":"Point"}
+}

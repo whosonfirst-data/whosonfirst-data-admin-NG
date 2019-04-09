@@ -1,0 +1,72 @@
+{
+  "id": 1293942079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61024,5.281,7.61024,5.281",
+    "geom:latitude":5.281,
+    "geom:longitude":7.61024,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3022.0",
+    "gn:asciiname":"Abia-Okpo",
+    "gn:country_code":"NG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352909,
+    "gn:latitude":5.281,
+    "gn:longitude":7.61024,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abia-Okpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abia Okpo Ikotukana",
+        "Abia-Okpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108564079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352909
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc276d08fb002de6d7c2b1e23e2c41b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564079,
+            "locality_id":1293942079,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1293942079,
+    "wof:lastmodified":1537675396,
+    "wof:name":"Abia-Okpo",
+    "wof:parent_id":1108564079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61024,
+    5.281,
+    7.61024,
+    5.281
+],
+  "geometry": {"coordinates":[7.61024,5.281],"type":"Point"}
+}

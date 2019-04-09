@@ -1,0 +1,62 @@
+{
+  "id": 1209242365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6917,7.0879,5.6917,7.0879",
+    "geom:latitude":7.0879,
+    "geom:longitude":5.6917,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29018.0",
+    "gn:asciiname":"Olebaki",
+    "gn:country_code":"NG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326725,
+    "gn:latitude":7.0879,
+    "gn:longitude":5.6917,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olebaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326725
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eb015e752a7d1253fffbd65f0bb25ae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209242365
+        }
+    ],
+    "wof:id":1209242365,
+    "wof:lastmodified":1536293278,
+    "wof:name":"Olebaki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6917,
+    7.0879,
+    5.6917,
+    7.0879
+],
+  "geometry": {"coordinates":[5.6917,7.0879],"type":"Point"}
+}

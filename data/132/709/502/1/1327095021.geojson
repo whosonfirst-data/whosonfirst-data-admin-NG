@@ -1,0 +1,68 @@
+{
+  "id": 1327095021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.5,8.5,4.5,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":4.5,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24008.0",
+    "gn:asciiname":"Akamo",
+    "gn:country_code":"NG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351221,
+    "gn:latitude":8.5,
+    "gn:longitude":4.5,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351221
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"949bfa8b2c635a9b472521aeeb047422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563639,
+            "locality_id":1327095021,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1327095021,
+    "wof:lastmodified":1536670230,
+    "wof:name":"Akamo",
+    "wof:parent_id":1108563639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5,
+    8.5,
+    4.5,
+    8.5
+],
+  "geometry": {"coordinates":[4.5,8.5],"type":"Point"}
+}

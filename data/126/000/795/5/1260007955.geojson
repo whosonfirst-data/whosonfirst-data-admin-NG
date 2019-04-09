@@ -1,0 +1,71 @@
+{
+  "id": 1260007955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.91904,7.64433,9.91904,7.64433",
+    "geom:latitude":7.64433,
+    "geom:longitude":9.91904,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35003",
+    "gn:asciiname":"Hayongo",
+    "gn:country_code":"NG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532469,
+    "gn:latitude":7.64433,
+    "gn:longitude":9.91904,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hayongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haayongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532469
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"370024f8b4d2eb870484bd851fe5f430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563241,
+            "locality_id":1260007955,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1260007955,
+    "wof:lastmodified":1537675465,
+    "wof:name":"Hayongo",
+    "wof:parent_id":1108563241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.91904,
+    7.64433,
+    9.91904,
+    7.64433
+],
+  "geometry": {"coordinates":[9.91904,7.64433],"type":"Point"}
+}

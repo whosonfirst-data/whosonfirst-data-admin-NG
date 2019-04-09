@@ -1,0 +1,68 @@
+{
+  "id": 1309753771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.3345,7.03225,9.3345,7.03225",
+    "geom:latitude":7.03225,
+    "geom:longitude":9.3345,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022",
+    "gn:asciiname":"Tseeneke",
+    "gn:country_code":"NG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9639711,
+    "gn:latitude":7.03225,
+    "gn:longitude":9.3345,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseeneke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9639711
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c8657abafd26b95cbffa61bc09edcef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564475,
+            "locality_id":1309753771,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1309753771,
+    "wof:lastmodified":1537005360,
+    "wof:name":"Tseeneke",
+    "wof:parent_id":1108564475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.3345,
+    7.03225,
+    9.3345,
+    7.03225
+],
+  "geometry": {"coordinates":[9.3345,7.03225],"type":"Point"}
+}

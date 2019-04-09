@@ -1,0 +1,74 @@
+{
+  "id": 1243095771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75675,7.67359,5.75675,7.67359",
+    "geom:latitude":7.67359,
+    "geom:longitude":5.75675,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29002.0",
+    "gn:asciiname":"Oyin Akoko",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:elevation":"485.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325943,
+    "gn:latitude":7.67359,
+    "gn:longitude":5.75675,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oyin Akoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onyin",
+        "Oyin Akoko",
+        "Onyin Akoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325943
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ac2664ce18f2c73671705773798c8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562971,
+            "locality_id":1243095771,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1243095771,
+    "wof:lastmodified":1537675024,
+    "wof:name":"Oyin Akoko",
+    "wof:parent_id":1108562971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75675,
+    7.67359,
+    5.75675,
+    7.67359
+],
+  "geometry": {"coordinates":[5.75675,7.67359],"type":"Point"}
+}

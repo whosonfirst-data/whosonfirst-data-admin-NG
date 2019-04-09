@@ -1,0 +1,68 @@
+{
+  "id": 1293145037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.83333,9.35,12.83333,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":12.83333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Faran",
+    "gn:country_code":"NG",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342726,
+    "gn:latitude":9.35,
+    "gn:longitude":12.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Faran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342726
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f09f2899ff472a867ad823fee1b7cc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1293145037,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293145037,
+    "wof:lastmodified":1536784351,
+    "wof:name":"Faran",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.83333,
+    9.35,
+    12.83333,
+    9.35
+],
+  "geometry": {"coordinates":[12.83333,9.35],"type":"Point"}
+}

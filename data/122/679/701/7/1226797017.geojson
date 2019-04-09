@@ -1,0 +1,68 @@
+{
+  "id": 1226797017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.55476,6.68388,9.55476,6.68388",
+    "geom:latitude":6.68388,
+    "geom:longitude":9.55476,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011.0",
+    "gn:asciiname":"Ihemba",
+    "gn:country_code":"NG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338506,
+    "gn:latitude":6.68388,
+    "gn:longitude":9.55476,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ihemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338506
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"18fa79c61e81007c42e605d53e2f964e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1226797017,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226797017,
+    "wof:lastmodified":1536640902,
+    "wof:name":"Ihemba",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.55476,
+    6.68388,
+    9.55476,
+    6.68388
+],
+  "geometry": {"coordinates":[9.55476,6.68388],"type":"Point"}
+}

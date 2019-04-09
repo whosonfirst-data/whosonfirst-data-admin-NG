@@ -1,0 +1,72 @@
+{
+  "id": 1226198735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.91235,5.90334,8.91235,5.90334",
+    "geom:latitude":5.90334,
+    "geom:longitude":8.91235,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9010.0",
+    "gn:asciiname":"Obokum",
+    "gn:country_code":"NG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328201,
+    "gn:latitude":5.90334,
+    "gn:longitude":8.91235,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obokum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "British Obokum",
+        "Obokum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328201
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"00bd64acb215f668138d8d3fb8a10d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563349,
+            "locality_id":1226198735,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226198735,
+    "wof:lastmodified":1537675063,
+    "wof:name":"Obokum",
+    "wof:parent_id":1108563349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.91235,
+    5.90334,
+    8.91235,
+    5.90334
+],
+  "geometry": {"coordinates":[8.91235,5.90334],"type":"Point"}
+}

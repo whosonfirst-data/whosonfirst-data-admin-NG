@@ -1,0 +1,68 @@
+{
+  "id": 1259946977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.08283,7.74101,9.08283,7.74101",
+    "geom:latitude":7.74101,
+    "geom:longitude":9.08283,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7012",
+    "gn:asciiname":"Bamu",
+    "gn:country_code":"NG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525817,
+    "gn:latitude":7.74101,
+    "gn:longitude":9.08283,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525817
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ed0504179fce497193d9fc507b440708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563905,
+            "locality_id":1259946977,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1259946977,
+    "wof:lastmodified":1536687875,
+    "wof:name":"Bamu",
+    "wof:parent_id":1108563905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.08283,
+    7.74101,
+    9.08283,
+    7.74101
+],
+  "geometry": {"coordinates":[9.08283,7.74101],"type":"Point"}
+}

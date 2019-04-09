@@ -1,0 +1,63 @@
+{
+  "id": 1209669423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.26256,10.40447,12.26256,10.40447",
+    "geom:latitude":10.40447,
+    "geom:longitude":12.26256,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11209",
+    "gn:asciiname":"Ngwalangwalam",
+    "gn:country_code":"NG",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328945,
+    "gn:latitude":10.40447,
+    "gn:longitude":12.26256,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngwalangwalam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328945
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e003942f9ad6156bf13ae38465cc81f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209669423
+        }
+    ],
+    "wof:id":1209669423,
+    "wof:lastmodified":1536279978,
+    "wof:name":"Ngwalangwalam",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.26256,
+    10.40447,
+    12.26256,
+    10.40447
+],
+  "geometry": {"coordinates":[12.26256,10.40447],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209863519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.04669,7.31622,9.04669,7.31622",
+    "geom:latitude":7.31622,
+    "geom:longitude":9.04669,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Mkar",
+    "gn:country_code":"NG",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330062,
+    "gn:latitude":7.31622,
+    "gn:longitude":9.04669,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mkar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330062
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8b806c4bc378ff1f4a239f13541147eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1209863519,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1209863519,
+    "wof:lastmodified":1536381152,
+    "wof:name":"Mkar",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.04669,
+    7.31622,
+    9.04669,
+    7.31622
+],
+  "geometry": {"coordinates":[9.04669,7.31622],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226475547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.73441,10.79259,10.73441,10.79259",
+    "geom:latitude":10.79259,
+    "geom:longitude":10.73441,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Gidan Bani",
+    "gn:country_code":"NG",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341131,
+    "gn:latitude":10.79259,
+    "gn:longitude":10.73441,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Bani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gidan Bani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341131
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a35950afefb0afb5336c886af16b67c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1226475547,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1226475547,
+    "wof:lastmodified":1537675244,
+    "wof:name":"Gidan Bani",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.73441,
+    10.79259,
+    10.73441,
+    10.79259
+],
+  "geometry": {"coordinates":[10.73441,10.79259],"type":"Point"}
+}

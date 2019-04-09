@@ -1,0 +1,72 @@
+{
+  "id": 1242707419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24709,6.9467,7.24709,6.9467",
+    "geom:latitude":6.9467,
+    "geom:longitude":7.24709,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14013.0",
+    "gn:asciiname":"Ugwaka",
+    "gn:country_code":"NG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320797,
+    "gn:latitude":6.9467,
+    "gn:longitude":7.24709,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugwaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igwaka",
+        "Ugwaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320797
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c8e65c7139dad22b5a0a3aaeff66e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564059,
+            "locality_id":1242707419,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1242707419,
+    "wof:lastmodified":1537674955,
+    "wof:name":"Ugwaka",
+    "wof:parent_id":1108564059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24709,
+    6.9467,
+    7.24709,
+    6.9467
+],
+  "geometry": {"coordinates":[7.24709,6.9467],"type":"Point"}
+}

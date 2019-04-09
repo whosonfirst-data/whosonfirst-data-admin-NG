@@ -1,0 +1,62 @@
+{
+  "id": 1209048035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85778,7.2675,3.85778,7.2675",
+    "geom:latitude":7.2675,
+    "geom:longitude":3.85778,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31025.0",
+    "gn:asciiname":"Alomaja",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350345,
+    "gn:latitude":7.2675,
+    "gn:longitude":3.85778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alomaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350345
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2fcb158a25892da0752a1157d781fcac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209048035
+        }
+    ],
+    "wof:id":1209048035,
+    "wof:lastmodified":1536299333,
+    "wof:name":"Alomaja",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85778,
+    7.2675,
+    3.85778,
+    7.2675
+],
+  "geometry": {"coordinates":[3.85778,7.2675],"type":"Point"}
+}

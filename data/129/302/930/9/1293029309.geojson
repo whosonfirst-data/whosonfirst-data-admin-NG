@@ -1,0 +1,71 @@
+{
+  "id": 1293029309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.14139,6.10532,8.14139,6.10532",
+    "geom:latitude":6.10532,
+    "geom:longitude":8.14139,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007",
+    "gn:asciiname":"Ubiagu",
+    "gn:country_code":"NG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274527,
+    "gn:latitude":6.10532,
+    "gn:longitude":8.14139,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ubiagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ubuagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274527
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1956ed0c959cfcf56d0d465297d8a7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1293029309,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1293029309,
+    "wof:lastmodified":1537675464,
+    "wof:name":"Ubiagu",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.14139,
+    6.10532,
+    8.14139,
+    6.10532
+],
+  "geometry": {"coordinates":[8.14139,6.10532],"type":"Point"}
+}

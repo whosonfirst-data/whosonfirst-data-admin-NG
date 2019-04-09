@@ -1,0 +1,68 @@
+{
+  "id": 1193082613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.95,8.96667,4.95,8.96667",
+    "geom:latitude":8.96667,
+    "geom:longitude":4.95,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24003.0",
+    "gn:asciiname":"Sotagi",
+    "gn:country_code":"NG",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322855,
+    "gn:latitude":8.96667,
+    "gn:longitude":4.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sotagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322855
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e3b0fb674c9923007299c0e7a1194ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563265,
+            "locality_id":1193082613,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1193082613,
+    "wof:lastmodified":1536379136,
+    "wof:name":"Sotagi",
+    "wof:parent_id":1108563265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.95,
+    8.96667,
+    4.95,
+    8.96667
+],
+  "geometry": {"coordinates":[4.95,8.96667],"type":"Point"}
+}

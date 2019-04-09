@@ -1,0 +1,68 @@
+{
+  "id": 1243411189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.94559,6.07995,6.94559,6.07995",
+    "geom:latitude":6.07995,
+    "geom:longitude":6.94559,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4011",
+    "gn:asciiname":"Alor",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420784,
+    "gn:latitude":6.07995,
+    "gn:longitude":6.94559,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420784
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"330051179be486be508ca830ac650eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563527,
+            "locality_id":1243411189,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1243411189,
+    "wof:lastmodified":1536855225,
+    "wof:name":"Alor",
+    "wof:parent_id":1108563527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.94559,
+    6.07995,
+    6.94559,
+    6.07995
+],
+  "geometry": {"coordinates":[6.94559,6.07995],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209263293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.11667,7.43333,4.11667,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":4.11667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31005.0",
+    "gn:asciiname":"Sola",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322896,
+    "gn:latitude":7.43333,
+    "gn:longitude":4.11667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322896
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4aa254113c1a8578a66a7c13b8a8a75c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209263293
+        }
+    ],
+    "wof:id":1209263293,
+    "wof:lastmodified":1536292621,
+    "wof:name":"Sola",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.11667,
+    7.4333300000000015,
+    4.11667,
+    7.4333300000000015
+],
+  "geometry": {"coordinates":[4.11667,7.43333],"type":"Point"}
+}

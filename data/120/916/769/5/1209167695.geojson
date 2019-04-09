@@ -1,0 +1,65 @@
+{
+  "id": 1209167695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.30425,9.48862,12.30425,9.48862",
+    "geom:latitude":9.48862,
+    "geom:longitude":12.30425,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Geren",
+    "gn:country_code":"NG",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341258,
+    "gn:latitude":9.48862,
+    "gn:longitude":12.30425,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Geren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gereng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341258
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"84edf8a6370a481609651f019535cdf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209167695
+        }
+    ],
+    "wof:id":1209167695,
+    "wof:lastmodified":1537675248,
+    "wof:name":"Geren",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.30425,
+    9.48862,
+    12.30425,
+    9.48862
+],
+  "geometry": {"coordinates":[12.30425,9.48862],"type":"Point"}
+}

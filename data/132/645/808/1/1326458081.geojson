@@ -1,0 +1,69 @@
+{
+  "id": 1326458081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.17781,11.62864,11.17781,11.62864",
+    "geom:latitude":11.62864,
+    "geom:longitude":11.17781,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"714.0",
+    "gn:admin3_code":"71411",
+    "gn:asciiname":"Ibra",
+    "gn:country_code":"NG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339200,
+    "gn:latitude":11.62864,
+    "gn:longitude":11.17781,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ibra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339200
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9f87d008a0309cb8588bf85fde2f1f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564285,
+            "locality_id":1326458081,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1326458081,
+    "wof:lastmodified":1537087786,
+    "wof:name":"Ibra",
+    "wof:parent_id":1108564285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.17781,
+    11.62864,
+    11.17781,
+    11.62864
+],
+  "geometry": {"coordinates":[11.17781,11.62864],"type":"Point"}
+}

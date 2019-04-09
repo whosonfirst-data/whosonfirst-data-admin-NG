@@ -1,0 +1,68 @@
+{
+  "id": 1259441493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81596,5.10646,7.81596,5.10646",
+    "geom:latitude":5.10646,
+    "geom:longitude":7.81596,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3012.0",
+    "gn:asciiname":"Nkara-Obio",
+    "gn:country_code":"NG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328839,
+    "gn:latitude":5.10646,
+    "gn:longitude":7.81596,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nkara-Obio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328839
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a3d71c4c90490d6a5617a106487e04b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563601,
+            "locality_id":1259441493,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1259441493,
+    "wof:lastmodified":1536919946,
+    "wof:name":"Nkara-Obio",
+    "wof:parent_id":1108563601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81596,
+    5.10646,
+    7.81596,
+    5.10646
+],
+  "geometry": {"coordinates":[7.81596,5.10646],"type":"Point"}
+}

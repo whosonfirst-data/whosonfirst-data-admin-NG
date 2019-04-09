@@ -1,0 +1,72 @@
+{
+  "id": 1293813487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17385,4.31091,6.17385,4.31091",
+    "geom:latitude":4.31091,
+    "geom:longitude":6.17385,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6001.0",
+    "gn:asciiname":"Tubuama",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321547,
+    "gn:latitude":4.31091,
+    "gn:longitude":6.17385,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tubuama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuluama",
+        "Liama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321547
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3214ba359beb3457bd0375a1ab3ef0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563159,
+            "locality_id":1293813487,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1293813487,
+    "wof:lastmodified":1537674967,
+    "wof:name":"Tubuama",
+    "wof:parent_id":1108563159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17385,
+    4.31091,
+    6.17385,
+    4.31091
+],
+  "geometry": {"coordinates":[6.17385,4.31091],"type":"Point"}
+}

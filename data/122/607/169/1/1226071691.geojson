@@ -1,0 +1,68 @@
+{
+  "id": 1226071691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79934,6.16185,7.79934,6.16185",
+    "geom:latitude":6.16185,
+    "geom:longitude":7.79934,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11013.0",
+    "gn:asciiname":"Omoniko",
+    "gn:country_code":"NG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326212,
+    "gn:latitude":6.16185,
+    "gn:longitude":7.79934,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Omoniko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108564189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326212
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"de077a97371e18d7d5eb701cfe52fdcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564189,
+            "locality_id":1226071691,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1226071691,
+    "wof:lastmodified":1536687990,
+    "wof:name":"Omoniko",
+    "wof:parent_id":1108564189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.79934,
+    6.16185,
+    7.79934,
+    6.16185
+],
+  "geometry": {"coordinates":[7.79934,6.16185],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293052241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.90424,11.52871,4.90424,11.52871",
+    "geom:latitude":11.52871,
+    "geom:longitude":4.90424,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50908",
+    "gn:asciiname":"Gidan-Bala",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341135,
+    "gn:latitude":11.52871,
+    "gn:longitude":4.90424,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan-Bala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341135
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"02e18f6e7208f8bdb529f371cc259e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563365,
+            "locality_id":1293052241,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1293052241,
+    "wof:lastmodified":1536918356,
+    "wof:name":"Gidan-Bala",
+    "wof:parent_id":1108563365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.90424,
+    11.52871,
+    4.90424,
+    11.52871
+],
+  "geometry": {"coordinates":[4.90424,11.52871],"type":"Point"}
+}

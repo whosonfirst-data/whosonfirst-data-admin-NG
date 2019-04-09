@@ -1,0 +1,69 @@
+{
+  "id": 1327085381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.62337,11.09723,12.62337,11.09723",
+    "geom:latitude":11.09723,
+    "geom:longitude":12.62337,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"107.0",
+    "gn:admin3_code":"10707",
+    "gn:asciiname":"Munfi",
+    "gn:country_code":"NG",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329723,
+    "gn:latitude":11.09723,
+    "gn:longitude":12.62337,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Munfi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329723
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8b708e3b6b1d722feb7cfccf28152e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1327085381,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1327085381,
+    "wof:lastmodified":1536684159,
+    "wof:name":"Munfi",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.62337,
+    11.09723,
+    12.62337,
+    11.09723
+],
+  "geometry": {"coordinates":[12.62337,11.09723],"type":"Point"}
+}

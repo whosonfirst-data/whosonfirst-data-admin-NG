@@ -1,0 +1,68 @@
+{
+  "id": 1310172469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.26797,7.15711,8.26797,7.15711",
+    "geom:latitude":7.15711,
+    "geom:longitude":8.26797,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7019",
+    "gn:asciiname":"Tseawarga",
+    "gn:country_code":"NG",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9269281,
+    "gn:latitude":7.15711,
+    "gn:longitude":8.26797,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseawarga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9269281
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"908d3463095785e407a9c41b0e4cd9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564239,
+            "locality_id":1310172469,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1310172469,
+    "wof:lastmodified":1536900126,
+    "wof:name":"Tseawarga",
+    "wof:parent_id":1108564239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.26797,
+    7.15711,
+    8.26797,
+    7.15711
+],
+  "geometry": {"coordinates":[8.26797,7.15711],"type":"Point"}
+}

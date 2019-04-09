@@ -1,0 +1,68 @@
+{
+  "id": 1276149093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26397,9.18425,6.26397,9.18425",
+    "geom:latitude":9.18425,
+    "geom:longitude":6.26397,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010",
+    "gn:asciiname":"Mandzwakwa",
+    "gn:country_code":"NG",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317435,
+    "gn:latitude":9.18425,
+    "gn:longitude":6.26397,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mandzwakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317435
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1eef66875ce19df27f34d98af6312642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1276149093,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1276149093,
+    "wof:lastmodified":1537024634,
+    "wof:name":"Mandzwakwa",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26397,
+    9.18425,
+    6.26397,
+    9.18425
+],
+  "geometry": {"coordinates":[6.26397,9.18425],"type":"Point"}
+}

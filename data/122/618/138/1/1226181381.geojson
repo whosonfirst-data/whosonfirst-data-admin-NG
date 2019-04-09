@@ -1,0 +1,72 @@
+{
+  "id": 1226181381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.65311,5.62156,5.65311,5.62156",
+    "geom:latitude":5.62156,
+    "geom:longitude":5.65311,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Ughotor Waterside",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320825,
+    "gn:latitude":5.62156,
+    "gn:longitude":5.65311,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ughotor Waterside",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ughoton-Waterside",
+        "Ughotor Waterside"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"df56a97a2300502ff7ae8230f2091b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":1226181381,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226181381,
+    "wof:lastmodified":1537674956,
+    "wof:name":"Ughotor Waterside",
+    "wof:parent_id":1108564503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65311,
+    5.62156,
+    5.65311,
+    5.62156
+],
+  "geometry": {"coordinates":[5.65311,5.62156],"type":"Point"}
+}

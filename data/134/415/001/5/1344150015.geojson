@@ -1,0 +1,73 @@
+{
+  "id": 1344150015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9,6.43333,2.9,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":2.9,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25006.0",
+    "gn:asciiname":"Ajara",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351465,
+    "gn:latitude":6.43333,
+    "gn:longitude":2.9,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ajara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajara Agamaden",
+        "Ajara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421183285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351465
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c36a2745d099c7a9c06eb275429c6ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183285,
+            "locality_id":1344150015,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1344150015,
+    "wof:lastmodified":1537675381,
+    "wof:name":"Ajara",
+    "wof:parent_id":421183285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9,
+    6.43333,
+    2.9,
+    6.43333
+],
+  "geometry": {"coordinates":[2.9,6.43333],"type":"Point"}
+}

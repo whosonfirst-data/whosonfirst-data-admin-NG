@@ -1,0 +1,63 @@
+{
+  "id": 1209037839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03125,11.20148,12.03125,11.20148",
+    "geom:latitude":11.20148,
+    "geom:longitude":12.03125,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"707.0",
+    "gn:admin3_code":"70701",
+    "gn:asciiname":"Buni",
+    "gn:country_code":"NG",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346415,
+    "gn:latitude":11.20148,
+    "gn:longitude":12.03125,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Buni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346415
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a6f54aef7a62dafb92a1642752de7e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209037839
+        }
+    ],
+    "wof:id":1209037839,
+    "wof:lastmodified":1536299643,
+    "wof:name":"Buni",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03125,
+    11.20148,
+    12.03125,
+    11.20148
+],
+  "geometry": {"coordinates":[12.03125,11.20148],"type":"Point"}
+}

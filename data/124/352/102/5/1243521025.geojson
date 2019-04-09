@@ -1,0 +1,72 @@
+{
+  "id": 1243521025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50286,13.03452,13.50286,13.03452",
+    "geom:latitude":13.03452,
+    "geom:longitude":13.50286,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"110.0",
+    "gn:admin3_code":"11008",
+    "gn:asciiname":"Agiri",
+    "gn:country_code":"NG",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351884,
+    "gn:latitude":13.03452,
+    "gn:longitude":13.50286,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Agiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351884
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b642cb62a8a237e6561f3ff5c7b9fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563853,
+            "locality_id":1243521025,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1243521025,
+    "wof:lastmodified":1537675386,
+    "wof:name":"Agiri",
+    "wof:parent_id":1108563853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50286,
+    13.03452,
+    13.50286,
+    13.03452
+],
+  "geometry": {"coordinates":[13.50286,13.03452],"type":"Point"}
+}

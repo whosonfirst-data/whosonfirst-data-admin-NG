@@ -1,0 +1,73 @@
+{
+  "id": 1260239591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.83979,10.53941,6.83979,10.53941",
+    "geom:latitude":10.53941,
+    "geom:longitude":6.83979,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19002.0",
+    "gn:admin3_code":"KD0206",
+    "gn:asciiname":"Marinai",
+    "gn:country_code":"NG",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330763,
+    "gn:latitude":10.53941,
+    "gn:longitude":6.83979,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Marinai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakin Kogi",
+        "Marinai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330763
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"00655a4901bddb76b083b3686d1d8cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563191,
+            "locality_id":1260239591,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1260239591,
+    "wof:lastmodified":1537675099,
+    "wof:name":"Marinai",
+    "wof:parent_id":1108563191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.83979,
+    10.53941,
+    6.83979,
+    10.53941
+],
+  "geometry": {"coordinates":[6.83979,10.53941],"type":"Point"}
+}

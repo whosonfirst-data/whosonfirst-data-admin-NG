@@ -1,0 +1,71 @@
+{
+  "id": 1293617487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.77016,10.56721,10.77016,10.56721",
+    "geom:latitude":10.56721,
+    "geom:longitude":10.77016,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Zange",
+    "gn:country_code":"NG",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317831,
+    "gn:latitude":10.56721,
+    "gn:longitude":10.77016,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zange"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317831
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0152df35d1035436c49e0ba9a874b8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1293617487,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1293617487,
+    "wof:lastmodified":1537674899,
+    "wof:name":"Zange",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.77016,
+    10.56721,
+    10.77016,
+    10.56721
+],
+  "geometry": {"coordinates":[10.77016,10.56721],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310531097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66772,4.35764,6.66772,4.35764",
+    "geom:latitude":4.35764,
+    "geom:longitude":6.66772,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33004.0",
+    "gn:asciiname":"Isomobio",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826073,
+    "gn:latitude":4.35764,
+    "gn:longitude":6.66772,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isomobio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isomabio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826073
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79f91ea729e28b3e63213088804b4bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1310531097,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1310531097,
+    "wof:lastmodified":1537675405,
+    "wof:name":"Isomobio",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66772,
+    4.35764,
+    6.66772,
+    4.35764
+],
+  "geometry": {"coordinates":[6.66772,4.35764],"type":"Point"}
+}

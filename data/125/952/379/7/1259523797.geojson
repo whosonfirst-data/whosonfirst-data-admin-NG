@@ -1,0 +1,70 @@
+{
+  "id": 1259523797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.93931,9.12123,11.93931,9.12123",
+    "geom:latitude":9.12123,
+    "geom:longitude":11.93931,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Wuro Yesso",
+    "gn:country_code":"NG",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210555,
+    "gn:latitude":9.12123,
+    "gn:longitude":11.93931,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Wuro Yesso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wuro Yesso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210555
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76462f17010e36cd13b478661ab8871a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1259523797,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259523797,
+    "wof:lastmodified":1537675510,
+    "wof:name":"Wuro Yesso",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93931,
+    9.12123,
+    11.93931,
+    9.12123
+],
+  "geometry": {"coordinates":[11.93931,9.12123],"type":"Point"}
+}

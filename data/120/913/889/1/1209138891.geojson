@@ -1,0 +1,62 @@
+{
+  "id": 1209138891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21667,7.71667,4.21667,7.71667",
+    "geom:latitude":7.71667,
+    "geom:longitude":4.21667,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30026.0",
+    "gn:asciiname":"Amere",
+    "gn:country_code":"NG",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350100,
+    "gn:latitude":7.71667,
+    "gn:longitude":4.21667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350100
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bab2c6eb79920e761b1f4e1c4a6c463c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138891
+        }
+    ],
+    "wof:id":1209138891,
+    "wof:lastmodified":1536296570,
+    "wof:name":"Amere",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21667,
+    7.71667,
+    4.21667,
+    7.71667
+],
+  "geometry": {"coordinates":[4.21667,7.71667],"type":"Point"}
+}

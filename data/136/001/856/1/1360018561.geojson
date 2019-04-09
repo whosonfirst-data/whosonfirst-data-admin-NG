@@ -1,0 +1,67 @@
+{
+  "id": 1360018561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10123,11.27461,11.10123,11.27461",
+    "geom:latitude":11.27461,
+    "geom:longitude":11.10123,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Fali",
+    "gn:country_code":"NG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342774,
+    "gn:latitude":11.27461,
+    "gn:longitude":11.10123,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Fali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342774
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"23a83eecf182345216714d93f07184fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564005,
+            "locality_id":1360018561,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1360018561,
+    "wof:lastmodified":1537039973,
+    "wof:name":"Fali",
+    "wof:parent_id":1108564005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10123,
+    11.27461,
+    11.10123,
+    11.27461
+],
+  "geometry": {"coordinates":[11.10123,11.27461],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260008011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.4115,6.47807,7.4115,6.47807",
+    "geom:latitude":6.47807,
+    "geom:longitude":7.4115,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14016.0",
+    "gn:asciiname":"Abor",
+    "gn:country_code":"NG",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352818,
+    "gn:latitude":6.47807,
+    "gn:longitude":7.4115,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abo",
+        "Abor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352818,
+        "wk:page":"Abor%2C_Enugu"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aec4701e7f88e3d1f0d0e43c58bc2eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564433,
+            "locality_id":1260008011,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1260008011,
+    "wof:lastmodified":1537675395,
+    "wof:name":"Abor",
+    "wof:parent_id":1108564433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4115,
+    6.47807,
+    7.4115,
+    6.47807
+],
+  "geometry": {"coordinates":[7.4115,6.47807],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343525155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.02359,6.70303,3.02359,6.70303",
+    "geom:latitude":6.70303,
+    "geom:longitude":3.02359,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28005.0",
+    "gn:asciiname":"Adekanbi",
+    "gn:country_code":"NG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352507,
+    "gn:latitude":6.70303,
+    "gn:longitude":3.02359,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adekanbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352507
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ceb7b60b59966121165288394e439750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563271,
+            "locality_id":1343525155,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1343525155,
+    "wof:lastmodified":1536652921,
+    "wof:name":"Adekanbi",
+    "wof:parent_id":1108563271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.02359,
+    6.70303,
+    3.02359,
+    6.70303
+],
+  "geometry": {"coordinates":[3.02359,6.70303],"type":"Point"}
+}

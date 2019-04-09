@@ -1,0 +1,70 @@
+{
+  "id": 1226095523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.03451,9.23075,12.03451,9.23075",
+    "geom:latitude":9.23075,
+    "geom:longitude":12.03451,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Wuro Bokki",
+    "gn:country_code":"NG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189802,
+    "gn:latitude":9.23075,
+    "gn:longitude":12.03451,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Wuro Bokki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wuro Bokki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189802
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"83c6d4800893b674302d379e5574abf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563231,
+            "locality_id":1226095523,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226095523,
+    "wof:lastmodified":1537675489,
+    "wof:name":"Wuro Bokki",
+    "wof:parent_id":1108563231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.03451,
+    9.23075,
+    12.03451,
+    9.23075
+],
+  "geometry": {"coordinates":[12.03451,9.23075],"type":"Point"}
+}

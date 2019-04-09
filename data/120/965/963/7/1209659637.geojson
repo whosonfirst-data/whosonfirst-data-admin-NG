@@ -1,0 +1,62 @@
+{
+  "id": 1209659637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1,8.23333,12.1,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":12.1,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Karandan",
+    "gn:country_code":"NG",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335089,
+    "gn:latitude":8.23333,
+    "gn:longitude":12.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Karandan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335089
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf818d488a319937df2333e4a30738fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209659637
+        }
+    ],
+    "wof:id":1209659637,
+    "wof:lastmodified":1536280305,
+    "wof:name":"Karandan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1,
+    8.23333,
+    12.1,
+    8.23333
+],
+  "geometry": {"coordinates":[12.1,8.23333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209771645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61667,9.65,7.61667,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":7.61667,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19008.0",
+    "gn:admin3_code":"KD0803",
+    "gn:asciiname":"Kintaru",
+    "gn:country_code":"NG",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334395,
+    "gn:latitude":9.65,
+    "gn:longitude":7.61667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kintaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334395
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"080ebd8fba6f851d1fe461c7a2d255dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563739,
+            "locality_id":1209771645,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1209771645,
+    "wof:lastmodified":1536383221,
+    "wof:name":"Kintaru",
+    "wof:parent_id":1108563739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61667,
+    9.65,
+    7.61667,
+    9.65
+],
+  "geometry": {"coordinates":[7.61667,9.65],"type":"Point"}
+}

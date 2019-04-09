@@ -1,0 +1,68 @@
+{
+  "id": 1310234473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05884,10.17398,6.05884,10.17398",
+    "geom:latitude":10.17398,
+    "geom:longitude":6.05884,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Gidan Haruna",
+    "gn:country_code":"NG",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999803,
+    "gn:latitude":10.17398,
+    "gn:longitude":6.05884,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Haruna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999803
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"35d3c24913c9ab37ee099ef8c9bf8582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564291,
+            "locality_id":1310234473,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310234473,
+    "wof:lastmodified":1536810136,
+    "wof:name":"Gidan Haruna",
+    "wof:parent_id":1108564291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05884,
+    10.17398,
+    6.05884,
+    10.17398
+],
+  "geometry": {"coordinates":[6.05884,10.17398],"type":"Point"}
+}

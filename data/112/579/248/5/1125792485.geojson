@@ -1,0 +1,85 @@
+{
+  "id": 1125792485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.38333,9.6,8.38333,9.6",
+    "geom:latitude":9.6,
+    "geom:longitude":8.38333,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":77008,
+    "gn:population":77008,
+    "iso:country":"NG",
+    "lbl:latitude":9.6,
+    "lbl:longitude":8.38333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kagoro"
+    ],
+    "name:eng_x_preferred":[
+        "Kagoro"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2335614,
+    "qs_pg:gn_pop":77008,
+    "qs_pg:name":"Kagoro",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":139656,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335614,
+        "qs_pg:id":139656,
+        "wd:id":"Q6346637"
+    },
+    "wof:country":"NG",
+    "wof:created":1497290917,
+    "wof:geomhash":"ec7dc27f92e1c7282f250feccf47dee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563801,
+            "locality_id":1125792485,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1125792485,
+    "wof:lastmodified":1514491642,
+    "wof:name":"Kagoro",
+    "wof:parent_id":1108563801,
+    "wof:placetype":"locality",
+    "wof:population":77008,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.38333,
+    9.6,
+    8.38333,
+    9.6
+],
+  "geometry": {"coordinates":[8.38333,9.6],"type":"Point"}
+}

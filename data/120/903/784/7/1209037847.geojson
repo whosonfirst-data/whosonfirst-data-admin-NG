@@ -1,0 +1,63 @@
+{
+  "id": 1209037847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59941,12.6139,8.59941,12.6139",
+    "geom:latitude":12.6139,
+    "geom:longitude":8.59941,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18010.0",
+    "gn:admin3_code":"JI1703",
+    "gn:asciiname":"Kacika",
+    "gn:country_code":"NG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6974395,
+    "gn:latitude":12.6139,
+    "gn:longitude":8.59941,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kacika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6974395
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7634b8e5808c7744d9461c988dd8c589",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209037847
+        }
+    ],
+    "wof:id":1209037847,
+    "wof:lastmodified":1536299642,
+    "wof:name":"Kacika",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59941,
+    12.6139,
+    8.59941,
+    12.6139
+],
+  "geometry": {"coordinates":[8.59941,12.6139],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243096953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.3138,10.27852,10.3138,10.27852",
+    "geom:latitude":10.27852,
+    "geom:longitude":10.3138,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5013.0",
+    "gn:admin3_code":"BA1301",
+    "gn:asciiname":"Dembori",
+    "gn:country_code":"NG",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344963,
+    "gn:latitude":10.27852,
+    "gn:longitude":10.3138,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dembori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dembori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344963
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a2ba95f51933722628621a7c526fdd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1243096953,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1243096953,
+    "wof:lastmodified":1537675304,
+    "wof:name":"Dembori",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.3138,
+    10.27852,
+    10.3138,
+    10.27852
+],
+  "geometry": {"coordinates":[10.3138,10.27852],"type":"Point"}
+}

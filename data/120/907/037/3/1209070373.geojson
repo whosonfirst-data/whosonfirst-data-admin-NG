@@ -1,0 +1,62 @@
+{
+  "id": 1209070373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7201,4.70761,7.7201,4.70761",
+    "geom:latitude":4.70761,
+    "geom:longitude":7.7201,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3018.0",
+    "gn:asciiname":"Ikot Udo Idem",
+    "gn:country_code":"NG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337922,
+    "gn:latitude":4.70761,
+    "gn:longitude":7.7201,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Udo Idem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337922
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3c48c4c603503cb7d3a107f0d99fd8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209070373
+        }
+    ],
+    "wof:id":1209070373,
+    "wof:lastmodified":1536298667,
+    "wof:name":"Ikot Udo Idem",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7201,
+    4.70761,
+    7.7201,
+    4.70761
+],
+  "geometry": {"coordinates":[7.7201,4.70761],"type":"Point"}
+}

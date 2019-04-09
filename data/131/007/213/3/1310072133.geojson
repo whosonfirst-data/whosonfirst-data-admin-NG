@@ -1,0 +1,69 @@
+{
+  "id": 1310072133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.05234,10.42766,12.05234,10.42766",
+    "geom:latitude":10.42766,
+    "geom:longitude":12.05234,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11203",
+    "gn:asciiname":"Telasa",
+    "gn:country_code":"NG",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6837187,
+    "gn:latitude":10.42766,
+    "gn:longitude":12.05234,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Telasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6837187
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7752c0817489110b8ea5b6bfa5bce5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1310072133,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1310072133,
+    "wof:lastmodified":1537042966,
+    "wof:name":"Telasa",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.05234,
+    10.42766,
+    12.05234,
+    10.42766
+],
+  "geometry": {"coordinates":[12.05234,10.42766],"type":"Point"}
+}

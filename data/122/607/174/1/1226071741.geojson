@@ -1,0 +1,73 @@
+{
+  "id": 1226071741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56667,6.75,5.56667,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":5.56667,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29017.0",
+    "gn:asciiname":"Falodun",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342770,
+    "gn:latitude":6.75,
+    "gn:longitude":5.56667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Falodun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faloden",
+        "Falodun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342770
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8e96d3893abe517d64454a89cf81ff8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564229,
+            "locality_id":1226071741,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1226071741,
+    "wof:lastmodified":1537675266,
+    "wof:name":"Falodun",
+    "wof:parent_id":1108564229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56667,
+    6.75,
+    5.56667,
+    6.75
+],
+  "geometry": {"coordinates":[5.56667,6.75],"type":"Point"}
+}

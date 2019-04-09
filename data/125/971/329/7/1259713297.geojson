@@ -1,0 +1,65 @@
+{
+  "id": 1259713297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39447,4.43643,7.39447,4.43643",
+    "geom:latitude":4.43643,
+    "geom:longitude":7.39447,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33005.0",
+    "gn:asciiname":"Ebon-Okolo",
+    "gn:country_code":"NG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7053236,
+    "gn:latitude":4.43643,
+    "gn:longitude":7.39447,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ebon-Okolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7053236
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"190b80fb37cbdddd296e8f2a5f831fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "locality_id":1259713297,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259713297,
+    "wof:lastmodified":1537023227,
+    "wof:name":"Ebon-Okolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39447,
+    4.43643,
+    7.39447,
+    4.43643
+],
+  "geometry": {"coordinates":[7.39447,4.43643],"type":"Point"}
+}

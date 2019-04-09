@@ -1,0 +1,65 @@
+{
+  "id": 1209267447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64743,6.23712,6.64743,6.23712",
+    "geom:latitude":6.23712,
+    "geom:longitude":6.64743,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Okpanam",
+    "gn:country_code":"NG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326994,
+    "gn:latitude":6.23712,
+    "gn:longitude":6.64743,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpanam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okpanam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326994
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d813cbb881139fa75dc7affe6f56cc06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209267447
+        }
+    ],
+    "wof:id":1209267447,
+    "wof:lastmodified":1537675038,
+    "wof:name":"Okpanam",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64743,
+    6.23712,
+    6.64743,
+    6.23712
+],
+  "geometry": {"coordinates":[6.64743,6.23712],"type":"Point"}
+}

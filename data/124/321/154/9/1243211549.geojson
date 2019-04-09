@@ -1,0 +1,72 @@
+{
+  "id": 1243211549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93788,7.4829,7.93788,7.4829",
+    "geom:latitude":7.4829,
+    "geom:longitude":7.93788,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7019.0",
+    "gn:asciiname":"Ogodumu",
+    "gn:country_code":"NG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327658,
+    "gn:latitude":7.4829,
+    "gn:longitude":7.93788,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogodumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogodum",
+        "Ogodumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327658
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e21a6c10288c3d91e57c39acbba9bb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564239,
+            "locality_id":1243211549,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243211549,
+    "wof:lastmodified":1537675051,
+    "wof:name":"Ogodumu",
+    "wof:parent_id":1108564239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93788,
+    7.4829,
+    7.93788,
+    7.4829
+],
+  "geometry": {"coordinates":[7.93788,7.4829],"type":"Point"}
+}

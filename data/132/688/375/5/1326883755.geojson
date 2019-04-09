@@ -1,0 +1,70 @@
+{
+  "id": 1326883755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.96437,9.0855,11.96437,9.0855",
+    "geom:latitude":9.0855,
+    "geom:longitude":11.96437,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Burba",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210513,
+    "gn:latitude":9.0855,
+    "gn:longitude":11.96437,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Burba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Burba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210513
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b687c223820f25ecf55d41291b7f8603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1326883755,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1326883755,
+    "wof:lastmodified":1537675508,
+    "wof:name":"Burba",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.96437,
+    9.0855,
+    11.96437,
+    9.0855
+],
+  "geometry": {"coordinates":[11.96437,9.0855],"type":"Point"}
+}

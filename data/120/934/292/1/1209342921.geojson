@@ -1,0 +1,62 @@
+{
+  "id": 1209342921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.31601,6.35538,8.31601,6.35538",
+    "geom:latitude":6.35538,
+    "geom:longitude":8.31601,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010",
+    "gn:asciiname":"Akparata",
+    "gn:country_code":"NG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9272950,
+    "gn:latitude":6.35538,
+    "gn:longitude":8.31601,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akparata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9272950
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72b20e2344ed5d4dfe872d1815a5f6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342921
+        }
+    ],
+    "wof:id":1209342921,
+    "wof:lastmodified":1536290006,
+    "wof:name":"Akparata",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.31601,
+    6.35538,
+    8.31601,
+    6.35538
+],
+  "geometry": {"coordinates":[8.31601,6.35538],"type":"Point"}
+}

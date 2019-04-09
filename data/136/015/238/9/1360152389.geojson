@@ -1,0 +1,72 @@
+{
+  "id": 1360152389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.94278,5.85321,6.94278,5.85321",
+    "geom:latitude":5.85321,
+    "geom:longitude":6.94278,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4012.0",
+    "gn:asciiname":"Osonachu",
+    "gn:country_code":"NG",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325552,
+    "gn:latitude":5.85321,
+    "gn:longitude":6.94278,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Osonachu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osunachu",
+        "Osonachu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325552
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6ea8566c9040e77ac1d445bc048162c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563565,
+            "locality_id":1360152389,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1360152389,
+    "wof:lastmodified":1537675018,
+    "wof:name":"Osonachu",
+    "wof:parent_id":1108563565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.94278,
+    5.85321,
+    6.94278,
+    5.85321
+],
+  "geometry": {"coordinates":[6.94278,5.85321],"type":"Point"}
+}

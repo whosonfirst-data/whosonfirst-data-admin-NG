@@ -1,0 +1,66 @@
+{
+  "id": 1209342955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.67115,10.27246,3.67115,10.27246",
+    "geom:latitude":10.27246,
+    "geom:longitude":3.67115,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27004.0",
+    "gn:asciiname":"Dekola",
+    "gn:country_code":"NG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344987,
+    "gn:latitude":10.27246,
+    "gn:longitude":3.67115,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dekola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dekala",
+        "Dekola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344987
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9c4a55df1b2cb1e53d3e776d8717cb3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209342955
+        }
+    ],
+    "wof:id":1209342955,
+    "wof:lastmodified":1537675304,
+    "wof:name":"Dekola",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.67115,
+    10.27246,
+    3.67115,
+    10.27246
+],
+  "geometry": {"coordinates":[3.67115,10.27246],"type":"Point"}
+}

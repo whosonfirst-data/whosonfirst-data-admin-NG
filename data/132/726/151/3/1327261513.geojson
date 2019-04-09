@@ -1,0 +1,68 @@
+{
+  "id": 1327261513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69273,4.83757,6.69273,4.83757",
+    "geom:latitude":4.83757,
+    "geom:longitude":6.69273,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33001.0",
+    "gn:asciiname":"Digriga",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826205,
+    "gn:latitude":4.83757,
+    "gn:longitude":6.69273,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Digriga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826205
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0f7ad637685cfa91f90dfd0f3a807cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562915,
+            "locality_id":1327261513,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1327261513,
+    "wof:lastmodified":1536928404,
+    "wof:name":"Digriga",
+    "wof:parent_id":1108562915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69273,
+    4.83757,
+    6.69273,
+    4.83757
+],
+  "geometry": {"coordinates":[6.69273,4.83757],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1360242971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.31639,9.40143,8.31639,9.40143",
+    "geom:latitude":9.40143,
+    "geom:longitude":8.31639,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19007",
+    "gn:admin3_code":"KD0705",
+    "gn:asciiname":"Ninte",
+    "gn:country_code":"NG",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943412,
+    "gn:latitude":9.40143,
+    "gn:longitude":8.31639,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ninte",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943412
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"792b146a554eecc97720b22ff431d35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563721,
+            "locality_id":1360242971,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1360242971,
+    "wof:lastmodified":1536718371,
+    "wof:name":"Ninte",
+    "wof:parent_id":1108563721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.31639,
+    9.40143,
+    8.31639,
+    9.40143
+],
+  "geometry": {"coordinates":[8.31639,9.40143],"type":"Point"}
+}

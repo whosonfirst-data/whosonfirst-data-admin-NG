@@ -1,0 +1,73 @@
+{
+  "id": 1276170431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.94521,12.01702,7.94521,12.01702",
+    "geom:latitude":12.01702,
+    "geom:longitude":7.94521,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20013.0",
+    "gn:admin3_code":"KN3502",
+    "gn:asciiname":"Duchi",
+    "gn:country_code":"NG",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344255,
+    "gn:latitude":12.01702,
+    "gn:longitude":7.94521,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Duchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dushi",
+        "Duchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344255
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b1787f344963c83e747511d934880ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564345,
+            "locality_id":1276170431,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1276170431,
+    "wof:lastmodified":1537675293,
+    "wof:name":"Duchi",
+    "wof:parent_id":1108564345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.94521,
+    12.01702,
+    7.94521,
+    12.01702
+],
+  "geometry": {"coordinates":[7.94521,12.01702],"type":"Point"}
+}

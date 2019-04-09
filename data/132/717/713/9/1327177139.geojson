@@ -1,0 +1,71 @@
+{
+  "id": 1327177139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.88421,5.72742,5.88421,5.72742",
+    "geom:latitude":5.72742,
+    "geom:longitude":5.88421,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10005.0",
+    "gn:asciiname":"Ovwere",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027921,
+    "gn:latitude":5.72742,
+    "gn:longitude":5.88421,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ovwere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ovwere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027921
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b4f0f4a8d4627ed78c55dd1f6d0a34fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563333,
+            "locality_id":1327177139,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1327177139,
+    "wof:lastmodified":1537675420,
+    "wof:name":"Ovwere",
+    "wof:parent_id":1108563333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.88421,
+    5.72742,
+    5.88421,
+    5.72742
+],
+  "geometry": {"coordinates":[5.88421,5.72742],"type":"Point"}
+}

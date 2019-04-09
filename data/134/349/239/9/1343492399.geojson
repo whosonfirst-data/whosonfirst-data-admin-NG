@@ -1,0 +1,68 @@
+{
+  "id": 1343492399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6336,9.60002,8.6336,9.60002",
+    "geom:latitude":9.60002,
+    "geom:longitude":8.6336,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32015.0",
+    "gn:asciiname":"Loka",
+    "gn:country_code":"NG",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331953,
+    "gn:latitude":9.60002,
+    "gn:longitude":8.6336,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Loka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331953
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a6f178978573d22f9a20464aa8a68f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564307,
+            "locality_id":1343492399,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1343492399,
+    "wof:lastmodified":1536700399,
+    "wof:name":"Loka",
+    "wof:parent_id":1108564307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6336,
+    9.60002,
+    8.6336,
+    9.60002
+],
+  "geometry": {"coordinates":[8.6336,9.60002],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343291475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.9407,4.88803,6.9407,4.88803",
+    "geom:latitude":4.88803,
+    "geom:longitude":6.9407,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33015.0",
+    "gn:asciiname":"Rumuekei",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591109,
+    "gn:latitude":4.88803,
+    "gn:longitude":6.9407,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rumuekei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumu-Epeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591109
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5fa845cf9cfc917b1d7c2ade70c6a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564071,
+            "locality_id":1343291475,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343291475,
+    "wof:lastmodified":1537675401,
+    "wof:name":"Rumuekei",
+    "wof:parent_id":1108564071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.9407,
+    4.88803,
+    6.9407,
+    4.88803
+],
+  "geometry": {"coordinates":[6.9407,4.88803],"type":"Point"}
+}

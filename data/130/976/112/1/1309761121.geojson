@@ -1,0 +1,68 @@
+{
+  "id": 1309761121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66122,5.76957,6.66122,5.76957",
+    "geom:latitude":5.76957,
+    "geom:longitude":6.66122,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4016.0",
+    "gn:asciiname":"Akiri-Ogidi",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100498,
+    "gn:latitude":5.76957,
+    "gn:longitude":6.66122,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akiri-Ogidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100498
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7118a3a5b1532191e6ac8bc2712af15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564109,
+            "locality_id":1309761121,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1309761121,
+    "wof:lastmodified":1536994828,
+    "wof:name":"Akiri-Ogidi",
+    "wof:parent_id":1108564109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66122,
+    5.76957,
+    6.66122,
+    5.76957
+],
+  "geometry": {"coordinates":[6.66122,5.76957],"type":"Point"}
+}

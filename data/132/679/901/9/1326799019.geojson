@@ -1,0 +1,73 @@
+{
+  "id": 1326799019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49024,10.92571,7.49024,10.92571",
+    "geom:latitude":10.92571,
+    "geom:longitude":7.49024,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19004.0",
+    "gn:admin3_code":"KD0406",
+    "gn:asciiname":"Tarabbe",
+    "gn:country_code":"NG",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321966,
+    "gn:latitude":10.92571,
+    "gn:longitude":7.49024,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tarabbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torabbe",
+        "Tarabbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321966
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0b3d805b0e25af958d55c57010d1d364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563551,
+            "locality_id":1326799019,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1326799019,
+    "wof:lastmodified":1537674972,
+    "wof:name":"Tarabbe",
+    "wof:parent_id":1108563551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49024,
+    10.92571,
+    7.49024,
+    10.92571
+],
+  "geometry": {"coordinates":[7.49024,10.92571],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276497077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56773,10.45911,12.56773,10.45911",
+    "geom:latitude":10.45911,
+    "geom:longitude":12.56773,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mubba",
+    "gn:country_code":"NG",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329823,
+    "gn:latitude":10.45911,
+    "gn:longitude":12.56773,
+    "gn:modification_date":"2009-03-09",
+    "gn:name":"Mubba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329823
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ef34fa5d0e9f7e5bbc48e3cc57b41ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1276497077,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1276497077,
+    "wof:lastmodified":1537054389,
+    "wof:name":"Mubba",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56773,
+    10.45911,
+    12.56773,
+    10.45911
+],
+  "geometry": {"coordinates":[12.56773,10.45911],"type":"Point"}
+}

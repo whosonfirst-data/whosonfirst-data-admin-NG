@@ -1,0 +1,68 @@
+{
+  "id": 1226470849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.23667,9.28594,6.23667,9.28594",
+    "geom:latitude":9.28594,
+    "geom:longitude":6.23667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010.0",
+    "gn:asciiname":"Gbirafu",
+    "gn:country_code":"NG",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341392,
+    "gn:latitude":9.28594,
+    "gn:longitude":6.23667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbirafu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341392
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cb4cff903b85038cddecf213ea7d9480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1226470849,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226470849,
+    "wof:lastmodified":1536606543,
+    "wof:name":"Gbirafu",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.23667,
+    9.28594,
+    6.23667,
+    9.28594
+],
+  "geometry": {"coordinates":[6.23667,9.28594],"type":"Point"}
+}

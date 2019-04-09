@@ -1,0 +1,63 @@
+{
+  "id": 1209134341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.2106,12.96826,6.2106,12.96826",
+    "geom:latitude":12.96826,
+    "geom:longitude":6.2106,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80903",
+    "gn:asciiname":"Ruduno",
+    "gn:country_code":"NG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324374,
+    "gn:latitude":12.96826,
+    "gn:longitude":6.2106,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ruduno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324374
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5f044c962f6be60b0f172d081a4f1fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134341
+        }
+    ],
+    "wof:id":1209134341,
+    "wof:lastmodified":1536296710,
+    "wof:name":"Ruduno",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.2106,
+    12.96826,
+    6.2106,
+    12.96826
+],
+  "geometry": {"coordinates":[6.2106,12.96826],"type":"Point"}
+}

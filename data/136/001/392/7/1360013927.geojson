@@ -1,0 +1,72 @@
+{
+  "id": 1360013927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.97755,13.00911,10.97755,13.00911",
+    "geom:latitude":13.00911,
+    "geom:longitude":10.97755,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"717.0",
+    "gn:admin3_code":"71705",
+    "gn:asciiname":"Yammia",
+    "gn:country_code":"NG",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336263,
+    "gn:latitude":13.00911,
+    "gn:longitude":10.97755,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yammia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336263
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"763f9a994fd73095f1fca92177c237e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564549,
+            "locality_id":1360013927,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1360013927,
+    "wof:lastmodified":1537675166,
+    "wof:name":"Yammia",
+    "wof:parent_id":1108564549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.97755,
+    13.00911,
+    10.97755,
+    13.00911
+],
+  "geometry": {"coordinates":[10.97755,13.00911],"type":"Point"}
+}

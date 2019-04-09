@@ -1,0 +1,71 @@
+{
+  "id": 1327486417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.70862,5.77463,5.70862,5.77463",
+    "geom:latitude":5.77463,
+    "geom:longitude":5.70862,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10017.0",
+    "gn:asciiname":"Ituru",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336973,
+    "gn:latitude":5.77463,
+    "gn:longitude":5.70862,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ituru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ituru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336973
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b66147ad9e7cf79ac5695f70669dc78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564337,
+            "locality_id":1327486417,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1327486417,
+    "wof:lastmodified":1537675174,
+    "wof:name":"Ituru",
+    "wof:parent_id":1108564337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.70862,
+    5.77463,
+    5.70862,
+    5.77463
+],
+  "geometry": {"coordinates":[5.70862,5.77463],"type":"Point"}
+}

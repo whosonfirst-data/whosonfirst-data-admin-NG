@@ -1,0 +1,68 @@
+{
+  "id": 1344185665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83333,9.08333,5.83333,9.08333",
+    "geom:latitude":9.08333,
+    "geom:longitude":5.83333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Makun",
+    "gn:country_code":"NG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331144,
+    "gn:latitude":9.08333,
+    "gn:longitude":5.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Makun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331144
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5a20651c6a0d87cc8b0c5768728c9745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1344185665,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1344185665,
+    "wof:lastmodified":1536695255,
+    "wof:name":"Makun",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83333,
+    9.08333,
+    5.83333,
+    9.08333
+],
+  "geometry": {"coordinates":[5.83333,9.08333],"type":"Point"}
+}

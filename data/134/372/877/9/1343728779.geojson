@@ -1,0 +1,69 @@
+{
+  "id": 1343728779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46729,13.31624,13.46729,13.31624",
+    "geom:latitude":13.31624,
+    "geom:longitude":13.46729,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"117.0",
+    "gn:admin3_code":"11706",
+    "gn:asciiname":"Kangarwa",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6786867,
+    "gn:latitude":13.31624,
+    "gn:longitude":13.46729,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kangarwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108562899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6786867
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a28bc2487fbd82ea3b0d5079f42526a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562899,
+            "locality_id":1343728779,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1343728779,
+    "wof:lastmodified":1536855456,
+    "wof:name":"Kangarwa",
+    "wof:parent_id":1108562899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46729,
+    13.31624,
+    13.46729,
+    13.31624
+],
+  "geometry": {"coordinates":[13.46729,13.31624],"type":"Point"}
+}

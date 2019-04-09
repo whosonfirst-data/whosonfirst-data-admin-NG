@@ -1,0 +1,63 @@
+{
+  "id": 1209037857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.86496,10.46765,8.86496,10.46765",
+    "geom:latitude":10.46765,
+    "geom:longitude":8.86496,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5018.0",
+    "gn:admin3_code":"BA1808",
+    "gn:asciiname":"Bishiwai",
+    "gn:country_code":"NG",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347021,
+    "gn:latitude":10.46765,
+    "gn:longitude":8.86496,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bishiwai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347021
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"43603e352c62f9464cd5e7ac7023178f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209037857
+        }
+    ],
+    "wof:id":1209037857,
+    "wof:lastmodified":1536299642,
+    "wof:name":"Bishiwai",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.86496,
+    10.46765,
+    8.86496,
+    10.46765
+],
+  "geometry": {"coordinates":[8.86496,10.46765],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1108563491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00222,
+    "geom:area_square_m":27227239.545604,
+    "geom:bbox":"3.87566633973,7.37107136831,3.94776633973,7.43287136831",
+    "geom:latitude":7.406093,
+    "geom:longitude":3.913302,
+    "iso:country":"NG",
+    "lbl:latitude":7.407583,
+    "lbl:longitude":3.91576,
+    "meso:adm1_name":"Oyo",
+    "meso:diss_me":"Ibadan NorthOyo",
+    "meso:gadm_admin":"IbadanNorth",
+    "meso:gaul_admin":"Ibadannorth",
+    "meso:hasc_id":"NG.OY.IB",
+    "meso:mps_x":3.91576,
+    "meso:mps_y":7.407583,
+    "meso:name_local":"Ibadan North",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":7.407583,
+    "mps:longitude":3.91576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ibadan North"
+    ],
+    "name:eng_x_variant":[
+        "Ibadannorth",
+        "IbadanNorth"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"27.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Agodi",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.OY",
+    "statoids:name":"Ibadan North",
+    "statoids:population":"306795",
+    "statoids:statoid":"NG.OY.IB",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.OY.IB"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057647,
+    "wof:geomhash":"18e04a3d5ffba46a8ef9493241dceb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1108563491,
+    "wof:lastmodified":1536615202,
+    "wof:name":"Ibadan North",
+    "wof:parent_id":85675371,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":306795,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"IB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.87566633973259,
+    7.37107136831215,
+    3.94776633973263,
+    7.43287136831217
+],
+  "geometry": {"coordinates":[[[3.92876633973264,7.41927136831213],[3.94026633973264,7.4050713683121],[3.94646633973262,7.39557136831211],[3.94776633973263,7.39347136831217],[3.94296633973258,7.39187136831212],[3.94016633973263,7.3891713683121],[3.93766633973264,7.38697136831215],[3.93496633973262,7.38257136831216],[3.92896633973257,7.37627136831216],[3.92566633973265,7.37357136831214],[3.92156633973261,7.37247136831217],[3.91646633973261,7.37107136831215],[3.91666633973264,7.37787136831212],[3.91496633973257,7.38177136831213],[3.91296633973265,7.3840713683121],[3.90616633973259,7.39187136831212],[3.90286633973257,7.39577136831214],[3.89996633973261,7.3986713683121],[3.89276633973258,7.40217136831214],[3.88816633973265,7.4056713683121],[3.88576633973258,7.40737136831216],[3.8776663397326,7.41767136831218],[3.87566633973259,7.42037136831211],[3.87986633973264,7.42337136831217],[3.88456633973259,7.42747136831213],[3.89956633973264,7.43287136831217],[3.91046633973257,7.43147136831215],[3.92326633973258,7.42467136831218],[3.92876633973264,7.41927136831213]]],"type":"Polygon"}
+}

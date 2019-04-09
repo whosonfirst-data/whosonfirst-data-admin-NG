@@ -1,0 +1,68 @@
+{
+  "id": 1226372195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3814,7.8383,8.3814,7.8383",
+    "geom:latitude":7.8383,
+    "geom:longitude":8.3814,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26003.0",
+    "gn:asciiname":"Utagudu",
+    "gn:country_code":"NG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319573,
+    "gn:latitude":7.8383,
+    "gn:longitude":8.3814,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Utagudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319573
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b963e5f92581c4d9e3e2b939f2356bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563239,
+            "locality_id":1226372195,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1226372195,
+    "wof:lastmodified":1536751503,
+    "wof:name":"Utagudu",
+    "wof:parent_id":1108563239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3814,
+    7.8383,
+    8.3814,
+    7.8383
+],
+  "geometry": {"coordinates":[8.3814,7.8383],"type":"Point"}
+}

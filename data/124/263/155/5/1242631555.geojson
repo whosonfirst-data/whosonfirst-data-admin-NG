@@ -1,0 +1,74 @@
+{
+  "id": 1242631555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96076,12.0185,13.96076,12.0185",
+    "geom:latitude":12.0185,
+    "geom:longitude":13.96076,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"108.0",
+    "gn:admin3_code":"10809",
+    "gn:asciiname":"Antul",
+    "gn:country_code":"NG",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349749,
+    "gn:latitude":12.0185,
+    "gn:longitude":13.96076,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Antul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amtel",
+        "Amtul",
+        "Antul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349749
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"293512f5f3beec175a4690ad4e07fa43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563233,
+            "locality_id":1242631555,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1242631555,
+    "wof:lastmodified":1537675360,
+    "wof:name":"Antul",
+    "wof:parent_id":1108563233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96076,
+    12.0185,
+    13.96076,
+    12.0185
+],
+  "geometry": {"coordinates":[13.96076,12.0185],"type":"Point"}
+}

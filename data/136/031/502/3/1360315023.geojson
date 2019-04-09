@@ -1,0 +1,71 @@
+{
+  "id": 1360315023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.85634,10.76091,10.85634,10.76091",
+    "geom:latitude":10.76091,
+    "geom:longitude":10.85634,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Bani Gayi",
+    "gn:country_code":"NG",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347830,
+    "gn:latitude":10.76091,
+    "gn:longitude":10.85634,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bani Gayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bani Gayi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347830
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6a8e0f65e842d5984d40a13951f2746e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1360315023,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1360315023,
+    "wof:lastmodified":1537675338,
+    "wof:name":"Bani Gayi",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.85634,
+    10.76091,
+    10.85634,
+    10.76091
+],
+  "geometry": {"coordinates":[10.85634,10.76091],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343690249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.18731,9.3143,11.18731,9.3143",
+    "geom:latitude":9.3143,
+    "geom:longitude":11.18731,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Karim Lamido",
+    "gn:country_code":"NG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2335003,
+    "gn:latitude":9.3143,
+    "gn:longitude":11.18731,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Karim Lamido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karmi Lamido"
+    ],
+    "name:und_x_variant":[
+        "Kogin Lamido",
+        "Karim Lamido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335003
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3c694f424d1ebb00c5f430901457ffdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1343690249,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1343690249,
+    "wof:lastmodified":1537675150,
+    "wof:name":"Karim Lamido",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.18731,
+    9.3143,
+    11.18731,
+    9.3143
+],
+  "geometry": {"coordinates":[11.18731,9.3143],"type":"Point"}
+}

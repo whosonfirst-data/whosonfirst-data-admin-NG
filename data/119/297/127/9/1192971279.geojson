@@ -1,0 +1,71 @@
+{
+  "id": 1192971279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.59816,6.45306,6.59816,6.45306",
+    "geom:latitude":6.45306,
+    "geom:longitude":6.59816,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Okuta",
+    "gn:country_code":"NG",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326812,
+    "gn:latitude":6.45306,
+    "gn:longitude":6.59816,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okuta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326812
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6b27789000e94cd72639ecd0165e2be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564231,
+            "locality_id":1192971279,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1192971279,
+    "wof:lastmodified":1537675034,
+    "wof:name":"Okuta",
+    "wof:parent_id":1108564231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.59816,
+    6.45306,
+    6.59816,
+    6.45306
+],
+  "geometry": {"coordinates":[6.59816,6.45306],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226172209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.44213,7.56914,7.44213,7.56914",
+    "geom:latitude":7.56914,
+    "geom:longitude":7.44213,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23005.0",
+    "gn:asciiname":"Ola",
+    "gn:country_code":"NG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326776,
+    "gn:latitude":7.56914,
+    "gn:longitude":7.44213,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olah",
+        "Ola",
+        "Olo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326776
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aa2e63f8827fbcc7de6c76a4d3ad9053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563229,
+            "locality_id":1226172209,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1226172209,
+    "wof:lastmodified":1537675033,
+    "wof:name":"Ola",
+    "wof:parent_id":1108563229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.44213,
+    7.56914,
+    7.44213,
+    7.56914
+],
+  "geometry": {"coordinates":[7.44213,7.56914],"type":"Point"}
+}

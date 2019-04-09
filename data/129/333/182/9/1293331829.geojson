@@ -1,0 +1,73 @@
+{
+  "id": 1293331829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8275,7.61333,3.8275,7.61333",
+    "geom:latitude":7.61333,
+    "geom:longitude":3.8275,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Akoje",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351010,
+    "gn:latitude":7.61333,
+    "gn:longitude":3.8275,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akoje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akawje",
+        "Akoje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351010
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"334700f805253c3027d0ecd72383d239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1293331829,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293331829,
+    "wof:lastmodified":1537675375,
+    "wof:name":"Akoje",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8275,
+    7.61333,
+    3.8275,
+    7.61333
+],
+  "geometry": {"coordinates":[3.8275,7.61333],"type":"Point"}
+}

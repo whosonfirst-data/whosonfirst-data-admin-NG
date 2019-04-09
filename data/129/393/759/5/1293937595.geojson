@@ -1,0 +1,69 @@
+{
+  "id": 1293937595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.05513,10.90228,13.05513,10.90228",
+    "geom:latitude":10.90228,
+    "geom:longitude":13.05513,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10603",
+    "gn:asciiname":"Kwamjilari Gana",
+    "gn:country_code":"NG",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760353,
+    "gn:latitude":10.90228,
+    "gn:longitude":13.05513,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwamjilari Gana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760353
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a97159ca2e75c90be84196c725e59549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563203,
+            "locality_id":1293937595,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1293937595,
+    "wof:lastmodified":1536634172,
+    "wof:name":"Kwamjilari Gana",
+    "wof:parent_id":1108563203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.05513,
+    10.90228,
+    13.05513,
+    10.90228
+],
+  "geometry": {"coordinates":[13.05513,10.90228],"type":"Point"}
+}

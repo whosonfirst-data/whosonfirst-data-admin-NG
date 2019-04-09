@@ -1,0 +1,72 @@
+{
+  "id": 1327362215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.28005,4.80982,7.28005,4.80982",
+    "geom:latitude":4.80982,
+    "geom:longitude":7.28005,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33021.0",
+    "gn:asciiname":"Egburu",
+    "gn:country_code":"NG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343891,
+    "gn:latitude":4.80982,
+    "gn:longitude":7.28005,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egburu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eberu",
+        "Egburu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343891
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e7866a32846f6e9e3aec37c0ec7cdaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564265,
+            "locality_id":1327362215,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1327362215,
+    "wof:lastmodified":1537675286,
+    "wof:name":"Egburu",
+    "wof:parent_id":1108564265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.28005,
+    4.80982,
+    7.28005,
+    4.80982
+],
+  "geometry": {"coordinates":[7.28005,4.80982],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276700255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.46075,10.92371,13.46075,10.92371",
+    "geom:latitude":10.92371,
+    "geom:longitude":13.46075,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Thaltsila I",
+    "gn:country_code":"NG",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760529,
+    "gn:latitude":10.92371,
+    "gn:longitude":13.46075,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"Thaltsila I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760529
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8bf17f2e0429e59789548fc7f57abb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563479,
+            "locality_id":1276700255,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1276700255,
+    "wof:lastmodified":1536784549,
+    "wof:name":"Thaltsila I",
+    "wof:parent_id":1108563479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.46075,
+    10.92371,
+    13.46075,
+    10.92371
+],
+  "geometry": {"coordinates":[13.46075,10.92371],"type":"Point"}
+}

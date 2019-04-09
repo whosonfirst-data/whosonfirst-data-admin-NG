@@ -1,0 +1,68 @@
+{
+  "id": 1343387705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.02105,4.81046,7.02105,4.81046",
+    "geom:latitude":4.81046,
+    "geom:longitude":7.02105,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33022.0",
+    "gn:asciiname":"Oroworokwo",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591741,
+    "gn:latitude":4.81046,
+    "gn:longitude":7.02105,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oroworokwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591741
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"38fcbd70c2e04f4a329194c71c936710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564283,
+            "locality_id":1343387705,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343387705,
+    "wof:lastmodified":1536850244,
+    "wof:name":"Oroworokwo",
+    "wof:parent_id":1108564283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.02105,
+    4.81046,
+    7.02105,
+    4.81046
+],
+  "geometry": {"coordinates":[7.02105,4.81046],"type":"Point"}
+}

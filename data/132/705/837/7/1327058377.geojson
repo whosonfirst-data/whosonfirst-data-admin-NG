@@ -1,0 +1,71 @@
+{
+  "id": 1327058377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.64997,10.78625,10.64997,10.78625",
+    "geom:latitude":10.78625,
+    "geom:longitude":10.64997,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Wuro Dama",
+    "gn:country_code":"NG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318779,
+    "gn:latitude":10.78625,
+    "gn:longitude":10.64997,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Dama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wuro Dama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318779
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8feab4527ef77c87748a0e2bc5852b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1327058377,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1327058377,
+    "wof:lastmodified":1537674910,
+    "wof:name":"Wuro Dama",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.64997,
+    10.78625,
+    10.64997,
+    10.78625
+],
+  "geometry": {"coordinates":[10.64997,10.78625],"type":"Point"}
+}

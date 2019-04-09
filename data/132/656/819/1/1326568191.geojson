@@ -1,0 +1,69 @@
+{
+  "id": 1326568191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.6713,12.90394,4.6713,12.90394",
+    "geom:latitude":12.90394,
+    "geom:longitude":4.6713,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"504.0",
+    "gn:admin3_code":"50406",
+    "gn:asciiname":"Kawari",
+    "gn:country_code":"NG",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334709,
+    "gn:latitude":12.90394,
+    "gn:longitude":4.6713,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kawari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334709
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a004cab42c738b64d80da540ce0b2427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563049,
+            "locality_id":1326568191,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1326568191,
+    "wof:lastmodified":1536932891,
+    "wof:name":"Kawari",
+    "wof:parent_id":1108563049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6713,
+    12.90394,
+    4.6713,
+    12.90394
+],
+  "geometry": {"coordinates":[4.6713,12.90394],"type":"Point"}
+}

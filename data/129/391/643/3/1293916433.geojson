@@ -1,0 +1,73 @@
+{
+  "id": 1293916433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08333,10.6,6.08333,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":6.08333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27015.0",
+    "gn:asciiname":"Adoka",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352366,
+    "gn:latitude":10.6,
+    "gn:longitude":6.08333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adoko",
+        "Adoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352366
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bcb8e3c32772f0656763640e8db43ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563947,
+            "locality_id":1293916433,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293916433,
+    "wof:lastmodified":1537675391,
+    "wof:name":"Adoka",
+    "wof:parent_id":1108563947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08333,
+    10.6,
+    6.08333,
+    10.6
+],
+  "geometry": {"coordinates":[6.08333,10.6],"type":"Point"}
+}

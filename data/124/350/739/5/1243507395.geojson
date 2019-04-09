@@ -1,0 +1,67 @@
+{
+  "id": 1243507395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.17924,5.5149,5.17924,5.5149",
+    "geom:latitude":5.5149,
+    "geom:longitude":5.17924,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Panripon",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11122016,
+    "gn:latitude":5.5149,
+    "gn:longitude":5.17924,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Panripon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Panripon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11122016
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cd71bcae600f459acd2047fcd514d4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "locality_id":1243507395,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243507395,
+    "wof:lastmodified":1537675479,
+    "wof:name":"Panripon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.17924,
+    5.5149,
+    5.17924,
+    5.5149
+],
+  "geometry": {"coordinates":[5.17924,5.5149],"type":"Point"}
+}

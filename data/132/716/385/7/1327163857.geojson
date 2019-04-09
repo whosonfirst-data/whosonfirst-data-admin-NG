@@ -1,0 +1,67 @@
+{
+  "id": 1327163857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.09532,8.96362,9.09532,8.96362",
+    "geom:latitude":8.96362,
+    "geom:longitude":9.09532,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Doop",
+    "gn:country_code":"NG",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056650,
+    "gn:latitude":8.96362,
+    "gn:longitude":9.09532,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Doop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056650
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c40c1716c3a44e7ec1c797579b4c56a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564287,
+            "locality_id":1327163857,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1327163857,
+    "wof:lastmodified":1537065787,
+    "wof:name":"Doop",
+    "wof:parent_id":1108564287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.09532,
+    8.96362,
+    9.09532,
+    8.96362
+],
+  "geometry": {"coordinates":[9.09532,8.96362],"type":"Point"}
+}

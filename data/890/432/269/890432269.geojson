@@ -1,0 +1,65 @@
+{
+  "id": 890432269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.8343,6.58862,4.8343,6.58862",
+    "geom:latitude":6.58862,
+    "geom:longitude":4.8343,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":8611,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Agbabu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352110,
+        "qs:id":278567
+    },
+    "wof:country":"NG",
+    "wof:created":1469051935,
+    "wof:geomhash":"f788cb35b67895b495f772e2aabf6fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564157,
+            "locality_id":890432269,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":890432269,
+    "wof:lastmodified":1505343528,
+    "wof:name":"Agbabu",
+    "wof:parent_id":1108564157,
+    "wof:placetype":"locality",
+    "wof:population":8611,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8343,
+    6.58862,
+    4.8343,
+    6.58862
+],
+  "geometry": {"coordinates":[4.8343,6.58862],"type":"Point"}
+}

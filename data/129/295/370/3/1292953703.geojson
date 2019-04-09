@@ -1,0 +1,71 @@
+{
+  "id": 1292953703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74254,6.14507,6.74254,6.14507",
+    "geom:latitude":6.14507,
+    "geom:longitude":6.74254,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10015.0",
+    "gn:asciiname":"Oko Camp",
+    "gn:country_code":"NG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327105,
+    "gn:latitude":6.14507,
+    "gn:longitude":6.74254,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oko Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327105
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f9c1547e5b9b90bb4a69ad82f7ac104b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564233,
+            "locality_id":1292953703,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1292953703,
+    "wof:lastmodified":1537675041,
+    "wof:name":"Oko Camp",
+    "wof:parent_id":1108564233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74254,
+    6.14507,
+    6.74254,
+    6.14507
+],
+  "geometry": {"coordinates":[6.74254,6.14507],"type":"Point"}
+}

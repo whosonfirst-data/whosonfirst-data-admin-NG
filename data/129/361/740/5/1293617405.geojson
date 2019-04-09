@@ -1,0 +1,67 @@
+{
+  "id": 1293617405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.78798,10.32237,8.78798,10.32237",
+    "geom:latitude":10.32237,
+    "geom:longitude":8.78798,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kobonka",
+    "gn:country_code":"NG",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334276,
+    "gn:latitude":10.32237,
+    "gn:longitude":8.78798,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Kobonka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334276
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"19470d3e18213b5590e025175e64cab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563095,
+            "locality_id":1293617405,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1293617405,
+    "wof:lastmodified":1537093848,
+    "wof:name":"Kobonka",
+    "wof:parent_id":1108563095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.78798,
+    10.32237,
+    8.78798,
+    10.32237
+],
+  "geometry": {"coordinates":[8.78798,10.32237],"type":"Point"}
+}

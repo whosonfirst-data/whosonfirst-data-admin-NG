@@ -1,0 +1,72 @@
+{
+  "id": 1259541859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.3451,5.3884,8.3451,5.3884",
+    "geom:latitude":5.3884,
+    "geom:longitude":8.3451,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9002.0",
+    "gn:asciiname":"Ebinjok",
+    "gn:country_code":"NG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344118,
+    "gn:latitude":5.3884,
+    "gn:longitude":8.3451,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ebinjok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebijok",
+        "Ebinjok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344118
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c728a1a8d39ce780bd59a8e5d76c8619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562961,
+            "locality_id":1259541859,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1259541859,
+    "wof:lastmodified":1537675291,
+    "wof:name":"Ebinjok",
+    "wof:parent_id":1108562961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.3451,
+    5.3884,
+    8.3451,
+    5.3884
+],
+  "geometry": {"coordinates":[8.3451,5.3884],"type":"Point"}
+}

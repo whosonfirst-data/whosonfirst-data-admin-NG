@@ -1,0 +1,67 @@
+{
+  "id": 1277069817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.67581,6.51685,3.67581,6.51685",
+    "geom:latitude":6.51685,
+    "geom:longitude":3.67581,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ison",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826342,
+    "gn:latitude":6.51685,
+    "gn:longitude":3.67581,
+    "gn:modification_date":"2009-01-04",
+    "gn:name":"Ison",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        1108563313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826342
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"231585abb29a30731e3f1e61719cf858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563313,
+            "locality_id":1277069817,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1277069817,
+    "wof:lastmodified":1536786749,
+    "wof:name":"Ison",
+    "wof:parent_id":1108563313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.67581,
+    6.51685,
+    3.67581,
+    6.51685
+],
+  "geometry": {"coordinates":[3.67581,6.51685],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343512201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.76755,5.3504,6.76755,5.3504",
+    "geom:latitude":5.3504,
+    "geom:longitude":6.76755,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17018.0",
+    "gn:asciiname":"Awara",
+    "gn:country_code":"NG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348804,
+    "gn:latitude":5.3504,
+    "gn:longitude":6.76755,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awarra",
+        "Awara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108564133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348804
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7ac8fca8aca85a4e9e0ed7842bddfde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564133,
+            "locality_id":1343512201,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1343512201,
+    "wof:lastmodified":1537675349,
+    "wof:name":"Awara",
+    "wof:parent_id":1108564133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76755,
+    5.3504,
+    6.76755,
+    5.3504
+],
+  "geometry": {"coordinates":[6.76755,5.3504],"type":"Point"}
+}

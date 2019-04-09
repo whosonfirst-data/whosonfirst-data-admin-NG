@@ -1,0 +1,71 @@
+{
+  "id": 1276476091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.69785,10.61091,10.69785,10.61091",
+    "geom:latitude":10.61091,
+    "geom:longitude":10.69785,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Bomala",
+    "gn:country_code":"NG",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346839,
+    "gn:latitude":10.61091,
+    "gn:longitude":10.69785,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bomala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bomala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346839
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"665c9977cce5810bd977ac51e6415e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1276476091,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1276476091,
+    "wof:lastmodified":1537675326,
+    "wof:name":"Bomala",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.69785,
+    10.61091,
+    10.69785,
+    10.61091
+],
+  "geometry": {"coordinates":[10.69785,10.61091],"type":"Point"}
+}

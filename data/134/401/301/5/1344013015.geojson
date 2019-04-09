@@ -1,0 +1,71 @@
+{
+  "id": 1344013015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96138,6.03636,6.96138,6.03636",
+    "geom:latitude":6.03636,
+    "geom:longitude":6.96138,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4011.0",
+    "gn:asciiname":"Akwa-Etiti",
+    "gn:country_code":"NG",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350818,
+    "gn:latitude":6.03636,
+    "gn:longitude":6.96138,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akwa-Etiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akwa-Etiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350818
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cfa884967de3c0fd46a9ef70c6dbcfc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563527,
+            "locality_id":1344013015,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1344013015,
+    "wof:lastmodified":1537675373,
+    "wof:name":"Akwa-Etiti",
+    "wof:parent_id":1108563527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96138,
+    6.03636,
+    6.96138,
+    6.03636
+],
+  "geometry": {"coordinates":[6.96138,6.03636],"type":"Point"}
+}

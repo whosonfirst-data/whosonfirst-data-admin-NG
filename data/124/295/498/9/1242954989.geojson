@@ -1,0 +1,74 @@
+{
+  "id": 1242954989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.76667,7.36667,2.76667,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":2.76667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28004.0",
+    "gn:asciiname":"Sakara",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323945,
+    "gn:latitude":7.36667,
+    "gn:longitude":2.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sakara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeye",
+        "Shakara",
+        "Sakara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323945
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7edead866bc8e9e18da786af6d8bfbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563269,
+            "locality_id":1242954989,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1242954989,
+    "wof:lastmodified":1537674995,
+    "wof:name":"Sakara",
+    "wof:parent_id":1108563269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.76667,
+    7.36667,
+    2.76667,
+    7.36667
+],
+  "geometry": {"coordinates":[2.76667,7.36667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1292933477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.01028,6.17621,8.01028,6.17621",
+    "geom:latitude":6.17621,
+    "geom:longitude":8.01028,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11006",
+    "gn:asciiname":"Eka",
+    "gn:country_code":"NG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9273969,
+    "gn:latitude":6.17621,
+    "gn:longitude":8.01028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9273969
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ffd1a4d267aa11dc1ad72efbd4b6a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563359,
+            "locality_id":1292933477,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1292933477,
+    "wof:lastmodified":1537085770,
+    "wof:name":"Eka",
+    "wof:parent_id":1108563359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.01028,
+    6.17621,
+    8.01028,
+    6.17621
+],
+  "geometry": {"coordinates":[8.01028,6.17621],"type":"Point"}
+}

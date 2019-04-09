@@ -1,0 +1,68 @@
+{
+  "id": 1360243599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.63475,4.67252,7.63475,4.67252",
+    "geom:latitude":4.67252,
+    "geom:longitude":7.63475,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3013.0",
+    "gn:asciiname":"Ikot Obio Akpan",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337998,
+    "gn:latitude":4.67252,
+    "gn:longitude":7.63475,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Obio Akpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337998
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fc84ecde0171a6ccf796d24b8a08ae97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563605,
+            "locality_id":1360243599,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1360243599,
+    "wof:lastmodified":1536717443,
+    "wof:name":"Ikot Obio Akpan",
+    "wof:parent_id":1108563605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.63475,
+    4.67252,
+    7.63475,
+    4.67252
+],
+  "geometry": {"coordinates":[7.63475,4.67252],"type":"Point"}
+}

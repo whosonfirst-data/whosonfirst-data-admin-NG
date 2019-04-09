@@ -1,0 +1,62 @@
+{
+  "id": 1209134307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98396,9.27184,5.98396,9.27184",
+    "geom:latitude":9.27184,
+    "geom:longitude":5.98396,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Yilkocita",
+    "gn:country_code":"NG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308430,
+    "gn:latitude":9.27184,
+    "gn:longitude":5.98396,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yilkocita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308430
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c9658b6fee0943d96b7c910313d0f9c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209134307
+        }
+    ],
+    "wof:id":1209134307,
+    "wof:lastmodified":1536296711,
+    "wof:name":"Yilkocita",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98396,
+    9.27184,
+    5.98396,
+    9.27184
+],
+  "geometry": {"coordinates":[5.98396,9.27184],"type":"Point"}
+}

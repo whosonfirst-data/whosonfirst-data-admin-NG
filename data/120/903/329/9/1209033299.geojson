@@ -1,0 +1,63 @@
+{
+  "id": 1209033299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.89614,10.47782,8.89614,10.47782",
+    "geom:latitude":10.47782,
+    "geom:longitude":8.89614,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5018.0",
+    "gn:admin3_code":"BA1808",
+    "gn:asciiname":"Wundi",
+    "gn:country_code":"NG",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318897,
+    "gn:latitude":10.47782,
+    "gn:longitude":8.89614,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318897
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0d845c1fe1c6a178d78ea8a75ef70d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209033299
+        }
+    ],
+    "wof:id":1209033299,
+    "wof:lastmodified":1536299782,
+    "wof:name":"Wundi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.896139999999997,
+    10.47782,
+    8.896139999999997,
+    10.47782
+],
+  "geometry": {"coordinates":[8.89614,10.47782],"type":"Point"}
+}

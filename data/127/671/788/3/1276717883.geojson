@@ -1,0 +1,68 @@
+{
+  "id": 1276717883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01667,5.98333,9.01667,5.98333",
+    "geom:latitude":5.98333,
+    "geom:longitude":9.01667,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9007.0",
+    "gn:asciiname":"Abunerok",
+    "gn:country_code":"NG",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352734,
+    "gn:latitude":5.98333,
+    "gn:longitude":9.01667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abunerok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352734
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6941be9ea76c42788caed96453cd81ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563141,
+            "locality_id":1276717883,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1276717883,
+    "wof:lastmodified":1536760896,
+    "wof:name":"Abunerok",
+    "wof:parent_id":1108563141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01667,
+    5.98333,
+    9.01667,
+    5.98333
+],
+  "geometry": {"coordinates":[9.01667,5.98333],"type":"Point"}
+}

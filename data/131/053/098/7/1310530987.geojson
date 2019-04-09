@@ -1,0 +1,72 @@
+{
+  "id": 1310530987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58595,9.367,6.58595,9.367",
+    "geom:latitude":9.367,
+    "geom:longitude":6.58595,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Nubupe",
+    "gn:country_code":"NG",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328634,
+    "gn:latitude":9.367,
+    "gn:longitude":6.58595,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nubupe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nogopi",
+        "Nubupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328634
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2dcfd678fec7975a384d24bea5ce5cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1310530987,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310530987,
+    "wof:lastmodified":1537675069,
+    "wof:name":"Nubupe",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58595,
+    9.367,
+    6.58595,
+    9.367
+],
+  "geometry": {"coordinates":[6.58595,9.367],"type":"Point"}
+}

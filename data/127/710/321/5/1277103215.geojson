@@ -1,0 +1,68 @@
+{
+  "id": 1277103215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.32579,5.21649,6.32579,5.21649",
+    "geom:latitude":5.21649,
+    "geom:longitude":6.32579,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6006.0",
+    "gn:asciiname":"Kayan-Iwakade",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100716,
+    "gn:latitude":5.21649,
+    "gn:longitude":6.32579,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kayan-Iwakade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100716
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd04d1943f882f3c7ed4bf0f8f93b443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564323,
+            "locality_id":1277103215,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1277103215,
+    "wof:lastmodified":1536738210,
+    "wof:name":"Kayan-Iwakade",
+    "wof:parent_id":1108564323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.32579,
+    5.21649,
+    6.32579,
+    5.21649
+],
+  "geometry": {"coordinates":[6.32579,5.21649],"type":"Point"}
+}

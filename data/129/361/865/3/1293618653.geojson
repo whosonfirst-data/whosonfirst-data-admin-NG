@@ -1,0 +1,70 @@
+{
+  "id": 1293618653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.08052,9.13249,11.08052,9.13249",
+    "geom:latitude":9.13249,
+    "geom:longitude":11.08052,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Bandawa",
+    "gn:country_code":"NG",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307831,
+    "gn:latitude":9.13249,
+    "gn:longitude":11.08052,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bandawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bandawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307831
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"07730170a51e446f88afc8152871f6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1293618653,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293618653,
+    "wof:lastmodified":1537675525,
+    "wof:name":"Bandawa",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.08052,
+    9.13249,
+    11.08052,
+    9.13249
+],
+  "geometry": {"coordinates":[11.08052,9.13249],"type":"Point"}
+}

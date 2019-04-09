@@ -1,0 +1,71 @@
+{
+  "id": 1260113259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.61384,9.02167,9.61384,9.02167",
+    "geom:latitude":9.02167,
+    "geom:longitude":9.61384,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32012",
+    "gn:asciiname":"Tunkus",
+    "gn:country_code":"NG",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10322706,
+    "gn:latitude":9.02167,
+    "gn:longitude":9.61384,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Tunkus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tunkus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322706
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b28b2191a92953203d5b914cfa0bc954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563973,
+            "locality_id":1260113259,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1260113259,
+    "wof:lastmodified":1537675469,
+    "wof:name":"Tunkus",
+    "wof:parent_id":1108563973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.61384,
+    9.02167,
+    9.61384,
+    9.02167
+],
+  "geometry": {"coordinates":[9.61384,9.02167],"type":"Point"}
+}

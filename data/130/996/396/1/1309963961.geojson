@@ -1,0 +1,74 @@
+{
+  "id": 1309963961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.15,11.01667,7.15,11.01667",
+    "geom:latitude":11.01667,
+    "geom:longitude":7.15,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19003.0",
+    "gn:admin3_code":"KD0307",
+    "gn:asciiname":"Ungwan Guduba",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319991,
+    "gn:latitude":11.01667,
+    "gn:longitude":7.15,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Guduba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angwan Guduba",
+        "Ungwan Guduba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319991
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4d0a202f2ba1d23878dfda32b2368fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563133,
+            "locality_id":1309963961,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1309963961,
+    "wof:lastmodified":1537674930,
+    "wof:name":"Ungwan Guduba",
+    "wof:parent_id":1108563133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.15,
+    11.01667,
+    7.15,
+    11.01667
+],
+  "geometry": {"coordinates":[7.15,11.01667],"type":"Point"}
+}

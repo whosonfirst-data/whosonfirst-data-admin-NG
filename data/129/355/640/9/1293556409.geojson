@@ -1,0 +1,68 @@
+{
+  "id": 1293556409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.888,7.3668,8.888,7.3668",
+    "geom:latitude":7.3668,
+    "geom:longitude":8.888,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Aya",
+    "gn:country_code":"NG",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974229,
+    "gn:latitude":7.3668,
+    "gn:longitude":8.888,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974229
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e8349ef0ac8de78c816cb39c211a23a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1293556409,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293556409,
+    "wof:lastmodified":1536687930,
+    "wof:name":"Aya",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.888,
+    7.3668,
+    8.888,
+    7.3668
+],
+  "geometry": {"coordinates":[8.888,7.3668],"type":"Point"}
+}

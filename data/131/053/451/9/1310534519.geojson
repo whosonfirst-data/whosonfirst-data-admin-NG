@@ -1,0 +1,68 @@
+{
+  "id": 1310534519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56135,4.68771,6.56135,4.68771",
+    "geom:latitude":4.68771,
+    "geom:longitude":6.56135,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33004.0",
+    "gn:asciiname":"Tengelekiri",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322225,
+    "gn:latitude":4.68771,
+    "gn:longitude":6.56135,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tengelekiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322225
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a7546e3568ff095a1d8c3bb7d3e30b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1310534519,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1310534519,
+    "wof:lastmodified":1536874133,
+    "wof:name":"Tengelekiri",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56135,
+    4.68771,
+    6.56135,
+    4.68771
+],
+  "geometry": {"coordinates":[6.56135,4.68771],"type":"Point"}
+}

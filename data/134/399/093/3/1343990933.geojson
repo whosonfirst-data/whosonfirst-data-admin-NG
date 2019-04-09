@@ -1,0 +1,73 @@
+{
+  "id": 1343990933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.29451,9.01598,8.29451,9.01598",
+    "geom:latitude":9.01598,
+    "geom:longitude":8.29451,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26010.0",
+    "gn:asciiname":"Ungwan Zaria",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324451,
+    "gn:latitude":9.01598,
+    "gn:longitude":8.29451,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Ungwan Zaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rinze",
+        "Ancho",
+        "Ungwan Zaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108562989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324451
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e5b5902d226fb8c5f83b93d1bc266b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562989,
+            "locality_id":1343990933,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1343990933,
+    "wof:lastmodified":1537675002,
+    "wof:name":"Ungwan Zaria",
+    "wof:parent_id":1108562989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.29451,
+    9.01598,
+    8.29451,
+    9.01598
+],
+  "geometry": {"coordinates":[8.29451,9.01598],"type":"Point"}
+}

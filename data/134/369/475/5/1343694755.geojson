@@ -1,0 +1,72 @@
+{
+  "id": 1343694755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.25359,12.19154,10.25359,12.19154",
+    "geom:latitude":12.19154,
+    "geom:longitude":10.25359,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5020.0",
+    "gn:admin3_code":"BA2003",
+    "gn:asciiname":"Koyamri",
+    "gn:country_code":"NG",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351707,
+    "gn:latitude":12.19154,
+    "gn:longitude":10.25359,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Koyamri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agusha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351707
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ec916755e0ff479dba61b28a62064bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564553,
+            "locality_id":1343694755,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1343694755,
+    "wof:lastmodified":1537675384,
+    "wof:name":"Koyamri",
+    "wof:parent_id":1108564553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.25359,
+    12.19154,
+    10.25359,
+    12.19154
+],
+  "geometry": {"coordinates":[10.25359,12.19154],"type":"Point"}
+}

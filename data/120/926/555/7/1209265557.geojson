@@ -1,0 +1,63 @@
+{
+  "id": 1209265557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.73047,11.4711,13.73047,11.4711",
+    "geom:latitude":11.4711,
+    "geom:longitude":13.73047,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10312",
+    "gn:asciiname":"Shiam",
+    "gn:country_code":"NG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323213,
+    "gn:latitude":11.4711,
+    "gn:longitude":13.73047,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323213
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"989e0b92aca70215cde065857ba6903d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209265557
+        }
+    ],
+    "wof:id":1209265557,
+    "wof:lastmodified":1536292545,
+    "wof:name":"Shiam",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.73047,
+    11.4711,
+    13.73047,
+    11.4711
+],
+  "geometry": {"coordinates":[13.73047,11.4711],"type":"Point"}
+}

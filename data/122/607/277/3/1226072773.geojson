@@ -1,0 +1,68 @@
+{
+  "id": 1226072773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.72824,6.54624,4.72824,6.54624",
+    "geom:latitude":6.54624,
+    "geom:longitude":4.72824,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29014",
+    "gn:asciiname":"Ikale",
+    "gn:country_code":"NG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427310,
+    "gn:latitude":6.54624,
+    "gn:longitude":4.72824,
+    "gn:modification_date":"2017-01-08",
+    "gn:name":"Ikale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427310
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e80879458467ee1402ddd91727008872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564157,
+            "locality_id":1226072773,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1226072773,
+    "wof:lastmodified":1536686386,
+    "wof:name":"Ikale",
+    "wof:parent_id":1108564157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.72824,
+    6.54624,
+    4.72824,
+    6.54624
+],
+  "geometry": {"coordinates":[4.72824,6.54624],"type":"Point"}
+}

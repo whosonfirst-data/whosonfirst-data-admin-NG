@@ -1,0 +1,71 @@
+{
+  "id": 1209972779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.56222,10.69591,8.56222,10.69591",
+    "geom:latitude":10.69591,
+    "geom:longitude":8.56222,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Gidan Makera",
+    "gn:country_code":"NG",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340867,
+    "gn:latitude":10.69591,
+    "gn:longitude":8.56222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gidan Makera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makera",
+        "Gidan Makera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340867
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"86fcc82ce6c900fab8f2fa85101b5637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563235,
+            "locality_id":1209972779,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1209972779,
+    "wof:lastmodified":1537675235,
+    "wof:name":"Gidan Makera",
+    "wof:parent_id":1108563235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.56222,
+    10.69591,
+    8.56222,
+    10.69591
+],
+  "geometry": {"coordinates":[8.56222,10.69591],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209138913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.2484,7.0845,5.2484,7.0845",
+    "geom:latitude":7.0845,
+    "geom:longitude":5.2484,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29008.0",
+    "gn:asciiname":"Ajegunel",
+    "gn:country_code":"NG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833176,
+    "gn:latitude":7.0845,
+    "gn:longitude":5.2484,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ajegunel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajegunle",
+        "Ajegunel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833176
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f474d19725685630851c317362ed1d7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138913
+        }
+    ],
+    "wof:id":1209138913,
+    "wof:lastmodified":1537675408,
+    "wof:name":"Ajegunel",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2484,
+    7.0845,
+    5.2484,
+    7.0845
+],
+  "geometry": {"coordinates":[5.2484,7.0845],"type":"Point"}
+}

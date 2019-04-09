@@ -1,0 +1,67 @@
+{
+  "id": 1343589699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.36752,5.28389,6.36752,5.28389",
+    "geom:latitude":5.28389,
+    "geom:longitude":6.36752,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Osiobe Camp",
+    "gn:country_code":"NG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100245,
+    "gn:latitude":5.28389,
+    "gn:longitude":6.36752,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Osiobe Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100245
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7c0fc1f05244c9dca1cf4177fa78df62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564323,
+            "locality_id":1343589699,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1343589699,
+    "wof:lastmodified":1537054978,
+    "wof:name":"Osiobe Camp",
+    "wof:parent_id":1108564323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.36752,
+    5.28389,
+    6.36752,
+    5.28389
+],
+  "geometry": {"coordinates":[6.36752,5.28389],"type":"Point"}
+}

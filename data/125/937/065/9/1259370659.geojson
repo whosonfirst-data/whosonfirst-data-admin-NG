@@ -1,0 +1,68 @@
+{
+  "id": 1259370659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.61418,9.38585,7.61418,9.38585",
+    "geom:latitude":9.38585,
+    "geom:longitude":7.61418,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15002.0",
+    "gn:asciiname":"Dakaa",
+    "gn:country_code":"NG",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345662,
+    "gn:latitude":9.38585,
+    "gn:longitude":7.61418,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dakaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345662
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"df5dff3da93ef41a6417a7de0625c687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563179,
+            "locality_id":1259370659,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1259370659,
+    "wof:lastmodified":1537019877,
+    "wof:name":"Dakaa",
+    "wof:parent_id":1108563179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.61418,
+    9.38585,
+    7.61418,
+    9.38585
+],
+  "geometry": {"coordinates":[7.61418,9.38585],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360313895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33333,10.33333,6.33333,10.33333",
+    "geom:latitude":10.33333,
+    "geom:longitude":6.33333,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Gidan Damao",
+    "gn:country_code":"NG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341085,
+    "gn:latitude":10.33333,
+    "gn:longitude":6.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Damao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341085
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c151cc6dcda335de12ca9b26f0d41ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564291,
+            "locality_id":1360313895,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1360313895,
+    "wof:lastmodified":1536613234,
+    "wof:name":"Gidan Damao",
+    "wof:parent_id":1108564291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33333,
+    10.33333,
+    6.33333,
+    10.33333
+],
+  "geometry": {"coordinates":[6.33333,10.33333],"type":"Point"}
+}

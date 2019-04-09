@@ -1,0 +1,69 @@
+{
+  "id": 1209745015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.69372,12.0016,6.69372,12.0016",
+    "geom:latitude":12.0016,
+    "geom:longitude":6.69372,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80710",
+    "gn:asciiname":"Jira",
+    "gn:country_code":"NG",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336025,
+    "gn:latitude":12.0016,
+    "gn:longitude":6.69372,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336025
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3b7071e7faf74f2896d322960745b95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563455,
+            "locality_id":1209745015,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1209745015,
+    "wof:lastmodified":1536395398,
+    "wof:name":"Jira",
+    "wof:parent_id":1108563455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.69372,
+    12.0016,
+    6.69372,
+    12.0016
+],
+  "geometry": {"coordinates":[6.69372,12.0016],"type":"Point"}
+}

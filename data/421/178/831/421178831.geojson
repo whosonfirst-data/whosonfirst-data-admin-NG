@@ -1,0 +1,82 @@
+{
+  "id": 421178831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.81411,5.1009,6.81411,5.1009",
+    "geom:latitude":5.1009,
+    "geom:longitude":6.81411,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2343512,
+    "qs:gn_pop":20620,
+    "qs:name":"Elele",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Rivers",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":139734,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1390478,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343512,
+        "gp:id":1390478,
+        "qs:id":139734,
+        "wd:id":"Q5358800",
+        "wk:page":"Elele"
+    },
+    "wof:country":"NG",
+    "wof:created":1459009195,
+    "wof:geomhash":"e688c02c98d59f61768b04093f3c3227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563611,
+            "locality_id":421178831,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":421178831,
+    "wof:lastmodified":1527717726,
+    "wof:name":"Elele",
+    "wof:parent_id":1108563611,
+    "wof:placetype":"locality",
+    "wof:population":20620,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.81411,
+    5.1009,
+    6.81411,
+    5.1009
+],
+  "geometry": {"coordinates":[6.81411,5.1009],"type":"Point"}
+}

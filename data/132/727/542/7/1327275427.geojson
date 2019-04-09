@@ -1,0 +1,68 @@
+{
+  "id": 1327275427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.26667,8.23333,4.26667,8.23333",
+    "geom:latitude":8.23333,
+    "geom:longitude":4.26667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31028.0",
+    "gn:asciiname":"Akije",
+    "gn:country_code":"NG",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351112,
+    "gn:latitude":8.23333,
+    "gn:longitude":4.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akije",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351112
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c6d92b1076153c40ad6772ff29df635c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564205,
+            "locality_id":1327275427,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1327275427,
+    "wof:lastmodified":1536907753,
+    "wof:name":"Akije",
+    "wof:parent_id":1108564205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.26667,
+    8.23333,
+    4.26667,
+    8.23333
+],
+  "geometry": {"coordinates":[4.26667,8.23333],"type":"Point"}
+}

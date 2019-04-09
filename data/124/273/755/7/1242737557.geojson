@@ -1,0 +1,68 @@
+{
+  "id": 1242737557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.58333,7.51667,3.58333,7.51667",
+    "geom:latitude":7.51667,
+    "geom:longitude":3.58333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Abimba",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352886,
+    "gn:latitude":7.51667,
+    "gn:longitude":3.58333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352886
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b2df9134953ef216aecab95cbc0f498b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1242737557,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1242737557,
+    "wof:lastmodified":1536832468,
+    "wof:name":"Abimba",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.58333,
+    7.51667,
+    3.58333,
+    7.51667
+],
+  "geometry": {"coordinates":[3.58333,7.51667],"type":"Point"}
+}

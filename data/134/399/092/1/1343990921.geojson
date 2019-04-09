@@ -1,0 +1,71 @@
+{
+  "id": 1343990921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.40548,6.38697,8.40548,6.38697",
+    "geom:latitude":6.38697,
+    "geom:longitude":8.40548,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11010",
+    "gn:asciiname":"Okomenyi",
+    "gn:country_code":"NG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9273566,
+    "gn:latitude":6.38697,
+    "gn:longitude":8.40548,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okomenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okumenyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9273566
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f295058a0fc8e11c6e8f1ae1888cabf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563709,
+            "locality_id":1343990921,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1343990921,
+    "wof:lastmodified":1537675464,
+    "wof:name":"Okomenyi",
+    "wof:parent_id":1108563709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.40548,
+    6.38697,
+    8.40548,
+    6.38697
+],
+  "geometry": {"coordinates":[8.40548,6.38697],"type":"Point"}
+}

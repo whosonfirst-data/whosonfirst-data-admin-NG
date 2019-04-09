@@ -1,0 +1,72 @@
+{
+  "id": 1309739709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.9607,7.4773,6.9607,7.4773",
+    "geom:latitude":7.4773,
+    "geom:longitude":6.9607,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23005.0",
+    "gn:asciiname":"Ibreda",
+    "gn:country_code":"NG",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339197,
+    "gn:latitude":7.4773,
+    "gn:longitude":6.9607,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibreda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibredu",
+        "Ibreda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339197
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd15d0b51c8a05d6a0b233cf170567d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563229,
+            "locality_id":1309739709,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1309739709,
+    "wof:lastmodified":1537675212,
+    "wof:name":"Ibreda",
+    "wof:parent_id":1108563229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.9607,
+    7.4773,
+    6.9607,
+    7.4773
+],
+  "geometry": {"coordinates":[6.9607,7.4773],"type":"Point"}
+}

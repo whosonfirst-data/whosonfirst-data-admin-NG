@@ -1,0 +1,65 @@
+{
+  "id": 1209153439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46809,6.19233,6.46809,6.19233",
+    "geom:latitude":6.19233,
+    "geom:longitude":6.46809,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Ubulu-Unor",
+    "gn:country_code":"NG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321013,
+    "gn:latitude":6.19233,
+    "gn:longitude":6.46809,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ubulu-Unor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ubulu-Unor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321013
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"49c50c7dc5b6d5ac123dc2b6348e1077",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209153439
+        }
+    ],
+    "wof:id":1209153439,
+    "wof:lastmodified":1537674960,
+    "wof:name":"Ubulu-Unor",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46809,
+    6.19233,
+    6.46809,
+    6.19233
+],
+  "geometry": {"coordinates":[6.46809,6.19233],"type":"Point"}
+}

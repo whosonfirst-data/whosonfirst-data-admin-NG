@@ -1,0 +1,68 @@
+{
+  "id": 1310234515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89815,9.36551,5.89815,9.36551",
+    "geom:latitude":9.36551,
+    "geom:longitude":5.89815,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Dikko",
+    "gn:country_code":"NG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308375,
+    "gn:latitude":9.36551,
+    "gn:longitude":5.89815,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dikko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308375
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"74a9e67dba3b614dade6626a977272a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1310234515,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1310234515,
+    "wof:lastmodified":1536810082,
+    "wof:name":"Dikko",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89815,
+    9.36551,
+    5.89815,
+    9.36551
+],
+  "geometry": {"coordinates":[5.89815,9.36551],"type":"Point"}
+}

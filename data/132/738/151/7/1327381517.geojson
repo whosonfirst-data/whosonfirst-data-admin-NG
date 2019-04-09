@@ -1,0 +1,69 @@
+{
+  "id": 1327381517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.28944,10.51514,12.28944,10.51514",
+    "geom:latitude":10.51514,
+    "geom:longitude":12.28944,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"112.0",
+    "gn:admin3_code":"11204",
+    "gn:asciiname":"Kuvul",
+    "gn:country_code":"NG",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333010,
+    "gn:latitude":10.51514,
+    "gn:longitude":12.28944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuvul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333010
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"64adb65867419c44366d14cee0f8e643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1327381517,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1327381517,
+    "wof:lastmodified":1536754346,
+    "wof:name":"Kuvul",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.28944,
+    10.51514,
+    12.28944,
+    10.51514
+],
+  "geometry": {"coordinates":[12.28944,10.51514],"type":"Point"}
+}

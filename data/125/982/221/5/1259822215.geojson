@@ -1,0 +1,68 @@
+{
+  "id": 1259822215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.16584,6.84484,6.16584,6.84484",
+    "geom:latitude":6.84484,
+    "geom:longitude":6.16584,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12016",
+    "gn:asciiname":"Erha",
+    "gn:country_code":"NG",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642521,
+    "gn:latitude":6.84484,
+    "gn:longitude":6.16584,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Erha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642521
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd5c1534714f409c0f18e35a6ab251b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564247,
+            "locality_id":1259822215,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1259822215,
+    "wof:lastmodified":1536866213,
+    "wof:name":"Erha",
+    "wof:parent_id":1108564247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.16584,
+    6.84484,
+    6.16584,
+    6.84484
+],
+  "geometry": {"coordinates":[6.16584,6.84484],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326863195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.27778,8.32917,7.27778,8.32917",
+    "geom:latitude":8.32917,
+    "geom:longitude":7.27778,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26012.0",
+    "gn:asciiname":"Moru",
+    "gn:country_code":"NG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329906,
+    "gn:latitude":8.32917,
+    "gn:longitude":7.27778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Moru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329906
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c552fc438cf8b42af7b9d4d74dde6058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564417,
+            "locality_id":1326863195,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1326863195,
+    "wof:lastmodified":1537003426,
+    "wof:name":"Moru",
+    "wof:parent_id":1108564417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.27778,
+    8.32917,
+    7.27778,
+    8.32917
+],
+  "geometry": {"coordinates":[7.27778,8.32917],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243324477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.02858,11.81185,8.02858,11.81185",
+    "geom:latitude":11.81185,
+    "geom:longitude":8.02858,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20041.0",
+    "gn:admin3_code":"KN2203",
+    "gn:asciiname":"Unguwan Kwari",
+    "gn:country_code":"NG",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320279,
+    "gn:latitude":11.81185,
+    "gn:longitude":8.02858,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Unguwan Kwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320279
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a8037e2fd7ab7a68227447516a1dfbd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563781,
+            "locality_id":1243324477,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1243324477,
+    "wof:lastmodified":1536980891,
+    "wof:name":"Unguwan Kwari",
+    "wof:parent_id":1108563781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.02858,
+    11.81185,
+    8.02858,
+    11.81185
+],
+  "geometry": {"coordinates":[8.02858,11.81185],"type":"Point"}
+}

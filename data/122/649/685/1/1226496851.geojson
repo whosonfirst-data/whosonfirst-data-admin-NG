@@ -1,0 +1,68 @@
+{
+  "id": 1226496851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49291,7.52477,8.49291,7.52477",
+    "geom:latitude":7.52477,
+    "geom:longitude":8.49291,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007",
+    "gn:asciiname":"Ate",
+    "gn:country_code":"NG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9509597,
+    "gn:latitude":7.52477,
+    "gn:longitude":8.49291,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9509597
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e18a2305ae6866e7c8e5041e60f9890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563473,
+            "locality_id":1226496851,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226496851,
+    "wof:lastmodified":1537065749,
+    "wof:name":"Ate",
+    "wof:parent_id":1108563473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49291,
+    7.52477,
+    8.49291,
+    7.52477
+],
+  "geometry": {"coordinates":[8.49291,7.52477],"type":"Point"}
+}

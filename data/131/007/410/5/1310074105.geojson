@@ -1,0 +1,73 @@
+{
+  "id": 1310074105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.78612,11.2638,6.78612,11.2638",
+    "geom:latitude":11.2638,
+    "geom:longitude":6.78612,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19001.0",
+    "gn:admin3_code":"KD0105",
+    "gn:asciiname":"Kwadaga",
+    "gn:country_code":"NG",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332969,
+    "gn:latitude":11.2638,
+    "gn:longitude":6.78612,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwadaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwdaga",
+        "Kwadaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332969
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eeb832f706c0f7203716b8912bbb1741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563133,
+            "locality_id":1310074105,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1310074105,
+    "wof:lastmodified":1537675124,
+    "wof:name":"Kwadaga",
+    "wof:parent_id":1108563133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.78612,
+    11.2638,
+    6.78612,
+    11.2638
+],
+  "geometry": {"coordinates":[6.78612,11.2638],"type":"Point"}
+}

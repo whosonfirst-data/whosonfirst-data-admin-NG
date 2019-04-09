@@ -1,0 +1,63 @@
+{
+  "id": 1209453253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.95069,12.55641,3.95069,12.55641",
+    "geom:latitude":12.55641,
+    "geom:longitude":3.95069,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50204",
+    "gn:asciiname":"Ungwan Toho",
+    "gn:country_code":"NG",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319757,
+    "gn:latitude":12.55641,
+    "gn:longitude":3.95069,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Toho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319757
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72065ac5f1cf383cd326a91bb8c1a976",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209453253
+        }
+    ],
+    "wof:id":1209453253,
+    "wof:lastmodified":1536286614,
+    "wof:name":"Ungwan Toho",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.95069,
+    12.55641,
+    3.95069,
+    12.55641
+],
+  "geometry": {"coordinates":[3.95069,12.55641],"type":"Point"}
+}

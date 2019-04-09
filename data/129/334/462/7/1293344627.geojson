@@ -1,0 +1,68 @@
+{
+  "id": 1293344627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.59693,7.19682,8.59693,7.19682",
+    "geom:latitude":7.19682,
+    "geom:longitude":8.59693,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Agber",
+    "gn:country_code":"NG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352026,
+    "gn:latitude":7.19682,
+    "gn:longitude":8.59693,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352026
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eaf37a3fdc6f5de0bc89fe840ad89c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1293344627,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1293344627,
+    "wof:lastmodified":1536992285,
+    "wof:name":"Agber",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.59693,
+    7.19682,
+    8.59693,
+    7.19682
+],
+  "geometry": {"coordinates":[8.59693,7.19682],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209443417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.37711,10.94214,10.37711,10.94214",
+    "geom:latitude":10.94214,
+    "geom:longitude":10.37711,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5005.0",
+    "gn:admin3_code":"BA0502",
+    "gn:asciiname":"Bingi",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347122,
+    "gn:latitude":10.94214,
+    "gn:longitude":10.37711,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bingi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bingi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347122
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"823d6efcaf2815e80b9b3e439fc54226",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443417
+        }
+    ],
+    "wof:id":1209443417,
+    "wof:lastmodified":1537675330,
+    "wof:name":"Bingi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.37711,
+    10.94214,
+    10.37711,
+    10.94214
+],
+  "geometry": {"coordinates":[10.37711,10.94214],"type":"Point"}
+}

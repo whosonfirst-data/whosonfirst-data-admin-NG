@@ -1,0 +1,73 @@
+{
+  "id": 1343295057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.80861,10.58806,5.80861,10.58806",
+    "geom:latitude":10.58806,
+    "geom:longitude":5.80861,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27015.0",
+    "gn:asciiname":"Kwau",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332726,
+    "gn:latitude":10.58806,
+    "gn:longitude":5.80861,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwawu",
+        "Kwau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332726
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2dcb26239b6945595c1aa0f1dbf12589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563947,
+            "locality_id":1343295057,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343295057,
+    "wof:lastmodified":1537675122,
+    "wof:name":"Kwau",
+    "wof:parent_id":1108563947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.80861,
+    10.58806,
+    5.80861,
+    10.58806
+],
+  "geometry": {"coordinates":[5.80861,10.58806],"type":"Point"}
+}

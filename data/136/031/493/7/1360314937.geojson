@@ -1,0 +1,70 @@
+{
+  "id": 1360314937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83175,9.7137,10.83175,9.7137",
+    "geom:latitude":9.7137,
+    "geom:longitude":10.83175,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Kariminti",
+    "gn:country_code":"NG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258983,
+    "gn:latitude":9.7137,
+    "gn:longitude":10.83175,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Kariminti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kariminti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258983
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9c50b9dc85802b7cc29d0e4ba96044d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1360314937,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1360314937,
+    "wof:lastmodified":1537675515,
+    "wof:name":"Kariminti",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83175,
+    9.7137,
+    10.83175,
+    9.7137
+],
+  "geometry": {"coordinates":[10.83175,9.7137],"type":"Point"}
+}

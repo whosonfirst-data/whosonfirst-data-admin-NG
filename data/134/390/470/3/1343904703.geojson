@@ -1,0 +1,67 @@
+{
+  "id": 1343904703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.73081,12.29577,8.73081,12.29577",
+    "geom:latitude":12.29577,
+    "geom:longitude":8.73081,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Zedawa",
+    "gn:country_code":"NG",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317726,
+    "gn:latitude":12.29577,
+    "gn:longitude":8.73081,
+    "gn:modification_date":"2009-01-29",
+    "gn:name":"Zedawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317726
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f2a8f5a13b07e07a0691effa50286eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563199,
+            "locality_id":1343904703,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1343904703,
+    "wof:lastmodified":1537097058,
+    "wof:name":"Zedawa",
+    "wof:parent_id":1108563199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.73081,
+    12.29577,
+    8.73081,
+    12.29577
+],
+  "geometry": {"coordinates":[8.73081,12.29577],"type":"Point"}
+}

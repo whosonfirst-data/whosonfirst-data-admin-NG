@@ -1,0 +1,65 @@
+{
+  "id": 1209659619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.39123,8.99697,12.39123,8.99697",
+    "geom:latitude":8.99697,
+    "geom:longitude":12.39123,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002",
+    "gn:asciiname":"Shidiki",
+    "gn:country_code":"NG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10420457,
+    "gn:latitude":8.99697,
+    "gn:longitude":12.39123,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Shidiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shidiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10420457
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b0db59396e419189d27f9a5b631a2f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209659619
+        }
+    ],
+    "wof:id":1209659619,
+    "wof:lastmodified":1537675471,
+    "wof:name":"Shidiki",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.39123,
+    8.99697,
+    12.39123,
+    8.99697
+],
+  "geometry": {"coordinates":[12.39123,8.99697],"type":"Point"}
+}

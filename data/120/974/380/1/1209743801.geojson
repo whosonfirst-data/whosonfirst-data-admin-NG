@@ -1,0 +1,69 @@
+{
+  "id": 1209743801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61496,12.17759,6.61496,12.17759",
+    "geom:latitude":12.17759,
+    "geom:longitude":6.61496,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"807.0",
+    "gn:admin3_code":"80701",
+    "gn:asciiname":"Farakuwa",
+    "gn:country_code":"NG",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342729,
+    "gn:latitude":12.17759,
+    "gn:longitude":6.61496,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Farakuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342729
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9e5ba919e07aada06283aff822806af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563455,
+            "locality_id":1209743801,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1209743801,
+    "wof:lastmodified":1536395930,
+    "wof:name":"Farakuwa",
+    "wof:parent_id":1108563455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61496,
+    12.17759,
+    6.61496,
+    12.17759
+],
+  "geometry": {"coordinates":[6.61496,12.17759],"type":"Point"}
+}

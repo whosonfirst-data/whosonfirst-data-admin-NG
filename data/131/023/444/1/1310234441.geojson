@@ -1,0 +1,68 @@
+{
+  "id": 1310234441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.26457,7.55431,5.26457,7.55431",
+    "geom:latitude":7.55431,
+    "geom:longitude":5.26457,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13001.0",
+    "gn:asciiname":"Igirigiri",
+    "gn:country_code":"NG",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833083,
+    "gn:latitude":7.55431,
+    "gn:longitude":5.26457,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igirigiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108562919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833083
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1737231a8a01dbe23fec4e60692c1ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562919,
+            "locality_id":1310234441,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1310234441,
+    "wof:lastmodified":1536810179,
+    "wof:name":"Igirigiri",
+    "wof:parent_id":1108562919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26457,
+    7.55431,
+    5.26457,
+    7.55431
+],
+  "geometry": {"coordinates":[5.26457,7.55431],"type":"Point"}
+}

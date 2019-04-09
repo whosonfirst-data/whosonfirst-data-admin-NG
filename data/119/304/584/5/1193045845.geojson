@@ -1,0 +1,72 @@
+{
+  "id": 1193045845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.10867,9.75815,9.10867,9.75815",
+    "geom:latitude":9.75815,
+    "geom:longitude":9.10867,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32004.0",
+    "gn:asciiname":"Fursum",
+    "gn:country_code":"NG",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342474,
+    "gn:latitude":9.75815,
+    "gn:longitude":9.10867,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Fursum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fursum (2)",
+        "Fursum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342474
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe58308e487fa1befacd5e035f2e6f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563729,
+            "locality_id":1193045845,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1193045845,
+    "wof:lastmodified":1537675263,
+    "wof:name":"Fursum",
+    "wof:parent_id":1108563729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.10867,
+    9.75815,
+    9.10867,
+    9.75815
+],
+  "geometry": {"coordinates":[9.10867,9.75815],"type":"Point"}
+}

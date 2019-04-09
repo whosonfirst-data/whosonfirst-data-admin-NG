@@ -1,0 +1,68 @@
+{
+  "id": 1243311161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.79158,7.55769,9.79158,7.55769",
+    "geom:latitude":7.55769,
+    "geom:longitude":9.79158,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Akayar",
+    "gn:country_code":"NG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532231,
+    "gn:latitude":7.55769,
+    "gn:longitude":9.79158,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akayar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532231
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eac7f3f5bb56cd6d956130b1affc5ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1243311161,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243311161,
+    "wof:lastmodified":1536999891,
+    "wof:name":"Akayar",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.79158,
+    7.55769,
+    9.79158,
+    7.55769
+],
+  "geometry": {"coordinates":[9.79158,7.55769],"type":"Point"}
+}

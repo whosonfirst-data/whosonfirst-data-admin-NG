@@ -1,0 +1,66 @@
+{
+  "id": 1209648269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75067,11.03823,11.75067,11.03823",
+    "geom:latitude":11.03823,
+    "geom:longitude":11.75067,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"708.0",
+    "gn:admin3_code":"70804",
+    "gn:asciiname":"Jouro-Ahmadu",
+    "gn:country_code":"NG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351661,
+    "gn:latitude":11.03823,
+    "gn:longitude":11.75067,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jouro-Ahmadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahmadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351661
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e893b3a79b4f7078daf10a767d0f8ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209648269
+        }
+    ],
+    "wof:id":1209648269,
+    "wof:lastmodified":1537675383,
+    "wof:name":"Jouro-Ahmadu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75067,
+    11.03823,
+    11.75067,
+    11.03823
+],
+  "geometry": {"coordinates":[11.75067,11.03823],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243505607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.39167,12.73778,4.39167,12.73778",
+    "geom:latitude":12.73778,
+    "geom:longitude":4.39167,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"503.0",
+    "gn:admin3_code":"50311",
+    "gn:asciiname":"Zazagawa",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317734,
+    "gn:latitude":12.73778,
+    "gn:longitude":4.39167,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zazagawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zazzagawa",
+        "Zazagawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317734
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f5133bf8f23556f620f1c2880335e965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563029,
+            "locality_id":1243505607,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1243505607,
+    "wof:lastmodified":1537674898,
+    "wof:name":"Zazagawa",
+    "wof:parent_id":1108563029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.39167,
+    12.73778,
+    4.39167,
+    12.73778
+],
+  "geometry": {"coordinates":[4.39167,12.73778],"type":"Point"}
+}

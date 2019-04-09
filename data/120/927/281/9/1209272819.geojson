@@ -1,0 +1,62 @@
+{
+  "id": 1209272819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.75517,6.8593,8.75517,6.8593",
+    "geom:latitude":6.8593,
+    "geom:longitude":8.75517,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9018.0",
+    "gn:asciiname":"Gabu",
+    "gn:country_code":"NG",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342416,
+    "gn:latitude":6.8593,
+    "gn:longitude":8.75517,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342416
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0b22b889b7da7d9399c18142cfb350e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209272819
+        }
+    ],
+    "wof:id":1209272819,
+    "wof:lastmodified":1536292299,
+    "wof:name":"Gabu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.75517,
+    6.8593,
+    8.75517,
+    6.8593
+],
+  "geometry": {"coordinates":[8.75517,6.8593],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209554369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.44733,5.20023,5.44733,5.20023",
+    "geom:latitude":5.20023,
+    "geom:longitude":5.44733,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Arunton",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121121,
+    "gn:latitude":5.20023,
+    "gn:longitude":5.44733,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Arunton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Arunton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121121
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f0e930adf64e5dceeb3268597344ac64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209554369
+        }
+    ],
+    "wof:id":1209554369,
+    "wof:lastmodified":1537675476,
+    "wof:name":"Arunton",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.44733,
+    5.20023,
+    5.44733,
+    5.20023
+],
+  "geometry": {"coordinates":[5.44733,5.20023],"type":"Point"}
+}

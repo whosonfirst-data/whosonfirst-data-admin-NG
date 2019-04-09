@@ -1,0 +1,79 @@
+{
+  "id": 421167649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4952,11.29621,6.4952,11.29621",
+    "geom:latitude":11.29621,
+    "geom:longitude":6.4952,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2345213,
+    "qs:gn_pop":7568,
+    "qs:name":"Dan Sadau",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Zamfara",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":139768,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1389115,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345213,
+        "gp:id":1389115,
+        "qs:id":139768
+    },
+    "wof:country":"NG",
+    "wof:created":1459008739,
+    "wof:geomhash":"a341bcc61841950065412ae0c66eba53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563953,
+            "locality_id":421167649,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":421167649,
+    "wof:lastmodified":1505340587,
+    "wof:name":"Dan Sadau",
+    "wof:parent_id":1108563953,
+    "wof:placetype":"locality",
+    "wof:population":7568,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4952,
+    11.29621,
+    6.4952,
+    11.29621
+],
+  "geometry": {"coordinates":[6.4952,11.29621],"type":"Point"}
+}

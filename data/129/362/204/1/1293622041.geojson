@@ -1,0 +1,68 @@
+{
+  "id": 1293622041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.76667,7.43333,4.76667,7.43333",
+    "geom:latitude":7.43333,
+    "geom:longitude":4.76667,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30003.0",
+    "gn:asciiname":"Idiroko",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339014,
+    "gn:latitude":7.43333,
+    "gn:longitude":4.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idiroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108563041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339014
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b0e9a8a107b1c9228dd0edb60ba8641e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563041,
+            "locality_id":1293622041,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1293622041,
+    "wof:lastmodified":1537087116,
+    "wof:name":"Idiroko",
+    "wof:parent_id":1108563041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.76667,
+    7.43333,
+    4.76667,
+    7.43333
+],
+  "geometry": {"coordinates":[4.76667,7.43333],"type":"Point"}
+}

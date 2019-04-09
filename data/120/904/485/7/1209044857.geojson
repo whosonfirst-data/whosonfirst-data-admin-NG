@@ -1,0 +1,67 @@
+{
+  "id": 1209044857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.81675,11.71614,3.81675,11.71614",
+    "geom:latitude":11.71614,
+    "geom:longitude":3.81675,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"508.0",
+    "gn:admin3_code":"50804",
+    "gn:asciiname":"Tunga",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321277,
+    "gn:latitude":11.71614,
+    "gn:longitude":3.81675,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tungan Noma",
+        "Tunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321277
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e315a3471b9800e2317479249fb67751",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209044857
+        }
+    ],
+    "wof:id":1209044857,
+    "wof:lastmodified":1537674964,
+    "wof:name":"Tunga",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.81675,
+    11.71614,
+    3.81675,
+    11.71614
+],
+  "geometry": {"coordinates":[3.81675,11.71614],"type":"Point"}
+}

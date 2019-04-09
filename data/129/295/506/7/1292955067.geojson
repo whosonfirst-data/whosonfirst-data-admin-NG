@@ -1,0 +1,68 @@
+{
+  "id": 1292955067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.50914,7.30771,8.50914,7.30771",
+    "geom:latitude":7.30771,
+    "geom:longitude":8.50914,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007.0",
+    "gn:asciiname":"Adou",
+    "gn:country_code":"NG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352350,
+    "gn:latitude":7.30771,
+    "gn:longitude":8.50914,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352350
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f2840f3db0f343df5de43c60fb2c2f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563473,
+            "locality_id":1292955067,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1292955067,
+    "wof:lastmodified":1537055261,
+    "wof:name":"Adou",
+    "wof:parent_id":1108563473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.50914,
+    7.30771,
+    8.50914,
+    7.30771
+],
+  "geometry": {"coordinates":[8.50914,7.30771],"type":"Point"}
+}

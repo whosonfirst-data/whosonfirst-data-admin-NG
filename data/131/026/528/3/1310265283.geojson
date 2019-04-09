@@ -1,0 +1,68 @@
+{
+  "id": 1310265283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.56667,8.58333,4.56667,8.58333",
+    "geom:latitude":8.58333,
+    "geom:longitude":4.56667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Shao",
+    "gn:country_code":"NG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323332,
+    "gn:latitude":8.58333,
+    "gn:longitude":4.56667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323332
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0b60612532df4291f7246cfe6796da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563995,
+            "locality_id":1310265283,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1310265283,
+    "wof:lastmodified":1536766471,
+    "wof:name":"Shao",
+    "wof:parent_id":1108563995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.56667,
+    8.58333,
+    4.56667,
+    8.58333
+],
+  "geometry": {"coordinates":[4.56667,8.58333],"type":"Point"}
+}

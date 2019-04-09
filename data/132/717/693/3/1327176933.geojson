@@ -1,0 +1,68 @@
+{
+  "id": 1327176933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96974,7.19372,5.96974,7.19372",
+    "geom:latitude":7.19372,
+    "geom:longitude":5.96974,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12016.0",
+    "gn:asciiname":"Imafun",
+    "gn:country_code":"NG",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337607,
+    "gn:latitude":7.19372,
+    "gn:longitude":5.96974,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imafun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337607
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5dc0358c00e5f9838346ef1ac1230b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564247,
+            "locality_id":1327176933,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1327176933,
+    "wof:lastmodified":1537047709,
+    "wof:name":"Imafun",
+    "wof:parent_id":1108564247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96974,
+    7.19372,
+    5.96974,
+    7.19372
+],
+  "geometry": {"coordinates":[5.96974,7.19372],"type":"Point"}
+}

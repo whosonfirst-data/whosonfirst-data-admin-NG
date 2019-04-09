@@ -1,0 +1,74 @@
+{
+  "id": 1343886475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.11667,9.18333,5.11667,9.18333",
+    "geom:latitude":9.18333,
+    "geom:longitude":5.11667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27017.0",
+    "gn:asciiname":"Tungar Ndachi Dagwaji",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321223,
+    "gn:latitude":9.18333,
+    "gn:longitude":5.11667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tungar Ndachi Dagwaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndachi Dagwaji",
+        "Tungan Ndachi Dagwaji",
+        "Tungar Ndachi Dagwaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321223
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8148579c7f8207414073aae1af3ceaa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563987,
+            "locality_id":1343886475,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343886475,
+    "wof:lastmodified":1537674963,
+    "wof:name":"Tungar Ndachi Dagwaji",
+    "wof:parent_id":1108563987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11667,
+    9.18333,
+    5.11667,
+    9.18333
+],
+  "geometry": {"coordinates":[5.11667,9.18333],"type":"Point"}
+}

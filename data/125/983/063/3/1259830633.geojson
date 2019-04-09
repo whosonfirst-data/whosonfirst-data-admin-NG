@@ -1,0 +1,69 @@
+{
+  "id": 1259830633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92667,11.28796,13.92667,11.28796",
+    "geom:latitude":11.28796,
+    "geom:longitude":13.92667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"111.0",
+    "gn:admin3_code":"11109",
+    "gn:asciiname":"Alkirenik",
+    "gn:country_code":"NG",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759484,
+    "gn:latitude":11.28796,
+    "gn:longitude":13.92667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alkirenik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759484
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4fd7ff5593c61029e7332a16706995f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563479,
+            "locality_id":1259830633,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259830633,
+    "wof:lastmodified":1536854314,
+    "wof:name":"Alkirenik",
+    "wof:parent_id":1108563479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92667,
+    11.28796,
+    13.92667,
+    11.28796
+],
+  "geometry": {"coordinates":[13.92667,11.28796],"type":"Point"}
+}

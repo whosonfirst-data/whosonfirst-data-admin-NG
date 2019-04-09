@@ -1,0 +1,72 @@
+{
+  "id": 1343525511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.79362,5.02576,7.79362,5.02576",
+    "geom:latitude":5.02576,
+    "geom:longitude":7.79362,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3001.0",
+    "gn:asciiname":"Uruk Uso",
+    "gn:country_code":"NG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319645,
+    "gn:latitude":5.02576,
+    "gn:longitude":7.79362,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uruk Uso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uruk Usor",
+        "Uruk Uso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108562903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319645
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"847fdb6650d8b7b90fb01066c9154996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562903,
+            "locality_id":1343525511,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1343525511,
+    "wof:lastmodified":1537674920,
+    "wof:name":"Uruk Uso",
+    "wof:parent_id":1108562903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.79362,
+    5.02576,
+    7.79362,
+    5.02576
+],
+  "geometry": {"coordinates":[7.79362,5.02576],"type":"Point"}
+}

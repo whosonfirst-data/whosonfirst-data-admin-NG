@@ -1,0 +1,68 @@
+{
+  "id": 1293542779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.19037,9.65681,13.19037,9.65681",
+    "geom:latitude":9.65681,
+    "geom:longitude":13.19037,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Youlel",
+    "gn:country_code":"NG",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8675530,
+    "gn:latitude":9.65681,
+    "gn:longitude":13.19037,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Youlel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8675530
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"34a9e8811f917cf60fff719a46590c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563927,
+            "locality_id":1293542779,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293542779,
+    "wof:lastmodified":1536707840,
+    "wof:name":"Youlel",
+    "wof:parent_id":1108563927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.19037,
+    9.65681,
+    13.19037,
+    9.65681
+],
+  "geometry": {"coordinates":[13.19037,9.65681],"type":"Point"}
+}

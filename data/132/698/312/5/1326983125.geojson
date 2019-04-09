@@ -1,0 +1,71 @@
+{
+  "id": 1326983125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4,5.23333,5.4,5.23333",
+    "geom:latitude":5.23333,
+    "geom:longitude":5.4,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10004.0",
+    "gn:asciiname":"Mbu Ntu",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330277,
+    "gn:latitude":5.23333,
+    "gn:longitude":5.4,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Mbu Ntu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mbu Ntu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330277
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"38ee9c3eb49ea4792ab526a97a6af744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563177,
+            "locality_id":1326983125,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1326983125,
+    "wof:lastmodified":1537675093,
+    "wof:name":"Mbu Ntu",
+    "wof:parent_id":1108563177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4,
+    5.23333,
+    5.4,
+    5.23333
+],
+  "geometry": {"coordinates":[5.4,5.23333],"type":"Point"}
+}

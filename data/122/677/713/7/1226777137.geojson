@@ -1,0 +1,73 @@
+{
+  "id": 1226777137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20277,12.46603,6.20277,12.46603",
+    "geom:latitude":12.46603,
+    "geom:longitude":6.20277,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"809.0",
+    "gn:admin3_code":"80902",
+    "gn:asciiname":"Bokolori",
+    "gn:country_code":"NG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346882,
+    "gn:latitude":12.46603,
+    "gn:longitude":6.20277,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bokolori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakolori",
+        "Bokolori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346882
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a39a770bf6bee9a52cd405903fb5481e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563945,
+            "locality_id":1226777137,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1226777137,
+    "wof:lastmodified":1537675326,
+    "wof:name":"Bokolori",
+    "wof:parent_id":1108563945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20277,
+    12.46603,
+    6.20277,
+    12.46603
+],
+  "geometry": {"coordinates":[6.20277,12.46603],"type":"Point"}
+}

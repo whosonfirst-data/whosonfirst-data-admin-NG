@@ -1,0 +1,69 @@
+{
+  "id": 1225801173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.4589,10.83506,7.4589,10.83506",
+    "geom:latitude":10.83506,
+    "geom:longitude":7.4589,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19004.0",
+    "gn:admin3_code":"KD0410",
+    "gn:asciiname":"Jiura",
+    "gn:country_code":"NG",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336003,
+    "gn:latitude":10.83506,
+    "gn:longitude":7.4589,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jiura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336003
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2bf81b3e4d304b7a810a6e95e20e71e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563551,
+            "locality_id":1225801173,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1225801173,
+    "wof:lastmodified":1537075040,
+    "wof:name":"Jiura",
+    "wof:parent_id":1108563551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4589,
+    10.83506,
+    7.4589,
+    10.83506
+],
+  "geometry": {"coordinates":[7.4589,10.83506],"type":"Point"}
+}

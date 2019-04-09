@@ -1,0 +1,70 @@
+{
+  "id": 1259501447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.71667,6.95,2.71667,6.95",
+    "geom:latitude":6.95,
+    "geom:longitude":2.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Obelle",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328305,
+    "gn:latitude":6.95,
+    "gn:longitude":2.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obelle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awbele",
+        "Obelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632247,
+        85668821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328305
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"59ae83156881a527d85ecbd73613f8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "locality_id":1259501447,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":1259501447,
+    "wof:lastmodified":1537675065,
+    "wof:name":"Obelle",
+    "wof:parent_id":85668821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.71667,
+    6.95,
+    2.71667,
+    6.95
+],
+  "geometry": {"coordinates":[2.71667,6.95],"type":"Point"}
+}

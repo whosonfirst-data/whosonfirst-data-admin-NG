@@ -1,0 +1,68 @@
+{
+  "id": 1343609159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.43418,7.76914,9.43418,7.76914",
+    "geom:latitude":7.76914,
+    "geom:longitude":9.43418,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Tseaii",
+    "gn:country_code":"NG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525742,
+    "gn:latitude":7.76914,
+    "gn:longitude":9.43418,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseaii",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108564451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525742
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e95c47b44f983e74373f4ae8f555e411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564451,
+            "locality_id":1343609159,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343609159,
+    "wof:lastmodified":1537027887,
+    "wof:name":"Tseaii",
+    "wof:parent_id":1108564451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.43418,
+    7.76914,
+    9.43418,
+    7.76914
+],
+  "geometry": {"coordinates":[9.43418,7.76914],"type":"Point"}
+}

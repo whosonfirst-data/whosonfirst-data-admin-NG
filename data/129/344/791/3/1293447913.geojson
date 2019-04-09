@@ -1,0 +1,69 @@
+{
+  "id": 1293447913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.32221,9.71323,8.32221,9.71323",
+    "geom:latitude":9.71323,
+    "geom:longitude":8.32221,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19022",
+    "gn:admin3_code":"KD2205",
+    "gn:asciiname":"Rebok",
+    "gn:country_code":"NG",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003189,
+    "gn:latitude":9.71323,
+    "gn:longitude":8.32221,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rebok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003189
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6ceb9575b4add2c8671614ad4ef675a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564555,
+            "locality_id":1293447913,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1293447913,
+    "wof:lastmodified":1536843218,
+    "wof:name":"Rebok",
+    "wof:parent_id":1108564555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.32221,
+    9.71323,
+    8.32221,
+    9.71323
+],
+  "geometry": {"coordinates":[8.32221,9.71323],"type":"Point"}
+}

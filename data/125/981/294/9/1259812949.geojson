@@ -1,0 +1,72 @@
+{
+  "id": 1259812949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.77373,6.35608,4.77373,6.35608",
+    "geom:latitude":6.35608,
+    "geom:longitude":4.77373,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Lerinrin",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332068,
+    "gn:latitude":6.35608,
+    "gn:longitude":4.77373,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lerinrin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lerinin",
+        "Lerinrin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332068
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"297befb51e289fceff3b261657d8db8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1259812949,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1259812949,
+    "wof:lastmodified":1537675115,
+    "wof:name":"Lerinrin",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.77373,
+    6.35608,
+    4.77373,
+    6.35608
+],
+  "geometry": {"coordinates":[4.77373,6.35608],"type":"Point"}
+}

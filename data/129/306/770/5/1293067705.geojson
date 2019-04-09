@@ -1,0 +1,69 @@
+{
+  "id": 1293067705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94206,11.46943,13.94206,11.46943",
+    "geom:latitude":11.46943,
+    "geom:longitude":13.94206,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"103.0",
+    "gn:admin3_code":"10306",
+    "gn:asciiname":"Bula Muge",
+    "gn:country_code":"NG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346506,
+    "gn:latitude":11.46943,
+    "gn:longitude":13.94206,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bula Muge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346506
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e91b7f884845af59ad8b0e939a281522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563085,
+            "locality_id":1293067705,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1293067705,
+    "wof:lastmodified":1536895206,
+    "wof:name":"Bula Muge",
+    "wof:parent_id":1108563085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94206,
+    11.46943,
+    13.94206,
+    11.46943
+],
+  "geometry": {"coordinates":[13.94206,11.46943],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243392961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.46167,4.63013,6.46167,4.63013",
+    "geom:latitude":4.63013,
+    "geom:longitude":6.46167,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6001.0",
+    "gn:asciiname":"Idema",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339127,
+    "gn:latitude":4.63013,
+    "gn:longitude":6.46167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idoma",
+        "Idema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339127
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dbda7c55be3366279988c5545f9c5e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563159,
+            "locality_id":1243392961,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1243392961,
+    "wof:lastmodified":1537675210,
+    "wof:name":"Idema",
+    "wof:parent_id":1108563159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.46167,
+    4.63013,
+    6.46167,
+    4.63013
+],
+  "geometry": {"coordinates":[6.46167,4.63013],"type":"Point"}
+}

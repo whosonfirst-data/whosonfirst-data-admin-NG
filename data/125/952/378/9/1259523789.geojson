@@ -1,0 +1,68 @@
+{
+  "id": 1259523789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65939,10.17621,12.65939,10.17621",
+    "geom:latitude":10.17621,
+    "geom:longitude":12.65939,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Njuda",
+    "gn:country_code":"NG",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328852,
+    "gn:latitude":10.17621,
+    "gn:longitude":12.65939,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Njuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328852
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"be9fc4e1250396b64b5406b6b823daea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1259523789,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259523789,
+    "wof:lastmodified":1536800897,
+    "wof:name":"Njuda",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65939,
+    10.17621,
+    12.65939,
+    10.17621
+],
+  "geometry": {"coordinates":[12.65939,10.17621],"type":"Point"}
+}

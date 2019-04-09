@@ -1,0 +1,74 @@
+{
+  "id": 1310273381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97095,11.15404,6.97095,11.15404",
+    "geom:latitude":11.15404,
+    "geom:longitude":6.97095,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19003.0",
+    "gn:admin3_code":"KD0305",
+    "gn:asciiname":"Kwahu",
+    "gn:country_code":"NG",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332934,
+    "gn:latitude":11.15404,
+    "gn:longitude":6.97095,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwahu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunga Kwahu",
+        "Tungan Kwahu",
+        "Kwahu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332934
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"810a4acfde374f87c70f8771dd7ed996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563133,
+            "locality_id":1310273381,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1310273381,
+    "wof:lastmodified":1537675123,
+    "wof:name":"Kwahu",
+    "wof:parent_id":1108563133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97095,
+    11.15404,
+    6.97095,
+    11.15404
+],
+  "geometry": {"coordinates":[6.97095,11.15404],"type":"Point"}
+}

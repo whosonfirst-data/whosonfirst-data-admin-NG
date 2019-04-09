@@ -1,0 +1,67 @@
+{
+  "id": 1259716675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4237,7.37321,5.4237,7.37321",
+    "geom:latitude":7.37321,
+    "geom:longitude":5.4237,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Atoba",
+    "gn:country_code":"NG",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833052,
+    "gn:latitude":7.37321,
+    "gn:longitude":5.4237,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Atoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833052
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"66cb97e0ff28b5b30f64f0ff5ea76821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563665,
+            "locality_id":1259716675,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1259716675,
+    "wof:lastmodified":1537018528,
+    "wof:name":"Atoba",
+    "wof:parent_id":1108563665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4237,
+    7.37321,
+    5.4237,
+    7.37321
+],
+  "geometry": {"coordinates":[5.4237,7.37321],"type":"Point"}
+}

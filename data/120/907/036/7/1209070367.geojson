@@ -1,0 +1,62 @@
+{
+  "id": 1209070367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.69425,5.26757,7.69425,5.26757",
+    "geom:latitude":5.26757,
+    "geom:longitude":7.69425,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3022.0",
+    "gn:asciiname":"Ikpe-Mbak-Eyop",
+    "gn:country_code":"NG",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337855,
+    "gn:latitude":5.26757,
+    "gn:longitude":7.69425,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikpe-Mbak-Eyop",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337855
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"377694a89c0a85c844236b38965a58b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209070367
+        }
+    ],
+    "wof:id":1209070367,
+    "wof:lastmodified":1536298667,
+    "wof:name":"Ikpe-Mbak-Eyop",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.69425,
+    5.26757,
+    7.69425,
+    5.26757
+],
+  "geometry": {"coordinates":[7.69425,5.26757],"type":"Point"}
+}

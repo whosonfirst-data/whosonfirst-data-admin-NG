@@ -1,0 +1,68 @@
+{
+  "id": 1327261459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33997,10.1455,6.33997,10.1455",
+    "geom:latitude":10.1455,
+    "geom:longitude":6.33997,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Gidan Tukura",
+    "gn:country_code":"NG",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999778,
+    "gn:latitude":10.1455,
+    "gn:longitude":6.33997,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Tukura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999778
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"301b6e5550162957f5e74af0e0204b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564291,
+            "locality_id":1327261459,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1327261459,
+    "wof:lastmodified":1536928482,
+    "wof:name":"Gidan Tukura",
+    "wof:parent_id":1108564291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33997,
+    10.1455,
+    6.33997,
+    10.1455
+],
+  "geometry": {"coordinates":[6.33997,10.1455],"type":"Point"}
+}

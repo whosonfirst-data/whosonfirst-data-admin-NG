@@ -1,0 +1,68 @@
+{
+  "id": 1327264949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.22657,9.92198,6.22657,9.92198",
+    "geom:latitude":9.92198,
+    "geom:longitude":6.22657,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27020.0",
+    "gn:asciiname":"Kwange",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332830,
+    "gn:latitude":9.92198,
+    "gn:longitude":6.22657,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kwange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332830
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0316572ae4a0558cb33f336fcd50708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564291,
+            "locality_id":1327264949,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1327264949,
+    "wof:lastmodified":1536923411,
+    "wof:name":"Kwange",
+    "wof:parent_id":1108564291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.22657,
+    9.92198,
+    6.22657,
+    9.92198
+],
+  "geometry": {"coordinates":[6.22657,9.92198],"type":"Point"}
+}

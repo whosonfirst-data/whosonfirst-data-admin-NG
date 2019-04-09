@@ -1,0 +1,65 @@
+{
+  "id": 1209253633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53217,5.8467,5.53217,5.8467",
+    "geom:latitude":5.8467,
+    "geom:longitude":5.53217,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Obagboro",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328375,
+    "gn:latitude":5.8467,
+    "gn:longitude":5.53217,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Obagboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obagboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328375
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ff0d7501e16417dbb4dbb1ea2f081f3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209253633
+        }
+    ],
+    "wof:id":1209253633,
+    "wof:lastmodified":1537675066,
+    "wof:name":"Obagboro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53217,
+    5.8467,
+    5.53217,
+    5.8467
+],
+  "geometry": {"coordinates":[5.53217,5.8467],"type":"Point"}
+}

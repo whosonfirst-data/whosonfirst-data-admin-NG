@@ -1,0 +1,71 @@
+{
+  "id": 1310057263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.79896,5.9899,5.79896,5.9899",
+    "geom:latitude":5.9899,
+    "geom:longitude":5.79896,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Ugbakele",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027832,
+    "gn:latitude":5.9899,
+    "gn:longitude":5.79896,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ugbakele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ugbakele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027832
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b4330df43f08541af1f5c93854bb10db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1310057263,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1310057263,
+    "wof:lastmodified":1537675416,
+    "wof:name":"Ugbakele",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.79896,
+    5.9899,
+    5.79896,
+    5.9899
+],
+  "geometry": {"coordinates":[5.79896,5.9899],"type":"Point"}
+}

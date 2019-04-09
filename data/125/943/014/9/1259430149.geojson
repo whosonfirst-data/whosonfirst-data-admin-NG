@@ -1,0 +1,69 @@
+{
+  "id": 1259430149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21365,11.86807,14.21365,11.86807",
+    "geom:latitude":11.86807,
+    "geom:longitude":14.21365,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"108.0",
+    "gn:admin3_code":"10810",
+    "gn:asciiname":"Kaldangari",
+    "gn:country_code":"NG",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776085,
+    "gn:latitude":11.86807,
+    "gn:longitude":14.21365,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaldangari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776085
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ffa1938279acaed80056bdeb7fea7c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563233,
+            "locality_id":1259430149,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259430149,
+    "wof:lastmodified":1536936206,
+    "wof:name":"Kaldangari",
+    "wof:parent_id":1108563233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21365,
+    11.86807,
+    14.21365,
+    11.86807
+],
+  "geometry": {"coordinates":[14.21365,11.86807],"type":"Point"}
+}

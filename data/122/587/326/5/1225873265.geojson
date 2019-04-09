@@ -1,0 +1,72 @@
+{
+  "id": 1225873265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99592,12.81662,8.99592,12.81662",
+    "geom:latitude":12.81662,
+    "geom:longitude":8.99592,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Baba Mutum",
+    "gn:country_code":"NG",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347049,
+    "gn:latitude":12.81662,
+    "gn:longitude":8.99592,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baba Mutum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mutum",
+        "Birnin Mutum",
+        "Baba Mutum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347049
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"89d47afc5805155dc4ea83375b6808b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1225873265,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1225873265,
+    "wof:lastmodified":1537675329,
+    "wof:name":"Baba Mutum",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99592,
+    12.81662,
+    8.99592,
+    12.81662
+],
+  "geometry": {"coordinates":[8.99592,12.81662],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193044737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.72659,10.80379,4.72659,10.80379",
+    "geom:latitude":10.80379,
+    "geom:longitude":4.72659,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Baha",
+    "gn:country_code":"NG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014599,
+    "gn:latitude":10.80379,
+    "gn:longitude":4.72659,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Baha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014599
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0ea94c028b3b0a75161e3ed1df2631f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564537,
+            "locality_id":1193044737,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1193044737,
+    "wof:lastmodified":1536372188,
+    "wof:name":"Baha",
+    "wof:parent_id":1108564537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.72659,
+    10.80379,
+    4.72659,
+    10.80379
+],
+  "geometry": {"coordinates":[4.72659,10.80379],"type":"Point"}
+}

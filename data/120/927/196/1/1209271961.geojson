@@ -1,0 +1,63 @@
+{
+  "id": 1209271961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91541,12.60819,7.91541,12.60819",
+    "geom:latitude":12.60819,
+    "geom:longitude":7.91541,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"405.0",
+    "gn:admin3_code":"40510",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"NG",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322508,
+    "gn:latitude":12.60819,
+    "gn:longitude":7.91541,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322508
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e3a34a9376cf6411c489d1ee6cd9f36a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209271961
+        }
+    ],
+    "wof:id":1209271961,
+    "wof:lastmodified":1536292327,
+    "wof:name":"Tama",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91541,
+    12.60819,
+    7.91541,
+    12.60819
+],
+  "geometry": {"coordinates":[7.91541,12.60819],"type":"Point"}
+}

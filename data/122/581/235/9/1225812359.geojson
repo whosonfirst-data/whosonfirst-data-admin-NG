@@ -1,0 +1,68 @@
+{
+  "id": 1225812359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6654,7.29655,8.6654,7.29655",
+    "geom:latitude":7.29655,
+    "geom:longitude":8.6654,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Unaso",
+    "gn:country_code":"NG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320308,
+    "gn:latitude":7.29655,
+    "gn:longitude":8.6654,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Unaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320308
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d8350064278c2a5027cb6fda4a2eb50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1225812359,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1225812359,
+    "wof:lastmodified":1537059349,
+    "wof:name":"Unaso",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6654,
+    7.29655,
+    8.6654,
+    7.29655
+],
+  "geometry": {"coordinates":[8.6654,7.29655],"type":"Point"}
+}

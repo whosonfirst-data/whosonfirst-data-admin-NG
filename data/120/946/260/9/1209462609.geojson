@@ -1,0 +1,62 @@
+{
+  "id": 1209462609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.97061,7.186,8.97061,7.186",
+    "geom:latitude":7.186,
+    "geom:longitude":8.97061,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7022.0",
+    "gn:asciiname":"Akase",
+    "gn:country_code":"NG",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351180,
+    "gn:latitude":7.186,
+    "gn:longitude":8.97061,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351180
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f35ebacb1450642f25ec3e53b976191b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209462609
+        }
+    ],
+    "wof:id":1209462609,
+    "wof:lastmodified":1536286331,
+    "wof:name":"Akase",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.97061,
+    7.186,
+    8.97061,
+    7.186
+],
+  "geometry": {"coordinates":[8.97061,7.186],"type":"Point"}
+}

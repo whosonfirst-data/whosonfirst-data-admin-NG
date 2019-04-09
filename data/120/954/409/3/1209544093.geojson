@@ -1,0 +1,62 @@
+{
+  "id": 1209544093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.95136,9.93299,8.95136,9.93299",
+    "geom:latitude":9.93299,
+    "geom:longitude":8.95136,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005.0",
+    "gn:asciiname":"Passa Bonga",
+    "gn:country_code":"NG",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324970,
+    "gn:latitude":9.93299,
+    "gn:longitude":8.95136,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Passa Bonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324970
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1f592c2bc886117062395bcc15de3742",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544093
+        }
+    ],
+    "wof:id":1209544093,
+    "wof:lastmodified":1536283897,
+    "wof:name":"Passa Bonga",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.951360000000003,
+    9.93299,
+    8.951360000000003,
+    9.93299
+],
+  "geometry": {"coordinates":[8.95136,9.93299],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343617921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.90424,5.2371,7.90424,5.2371",
+    "geom:latitude":5.2371,
+    "geom:longitude":7.90424,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ikot Mbuk",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074014,
+    "gn:latitude":5.2371,
+    "gn:longitude":7.90424,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Ikot Mbuk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074014
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c903eb5d0f842efb6816850876de359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563511,
+            "locality_id":1343617921,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1343617921,
+    "wof:lastmodified":1537015792,
+    "wof:name":"Ikot Mbuk",
+    "wof:parent_id":1108563511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.90424,
+    5.2371,
+    7.90424,
+    5.2371
+],
+  "geometry": {"coordinates":[7.90424,5.2371],"type":"Point"}
+}

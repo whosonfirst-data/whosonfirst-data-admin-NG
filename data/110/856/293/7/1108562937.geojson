@@ -1,0 +1,89 @@
+{
+  "id": 1108562937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000898,
+    "geom:area_square_m":11034361.441384,
+    "geom:bbox":"3.29876633973,6.60437136831,3.33766633973,6.64737136831",
+    "geom:latitude":6.623403,
+    "geom:longitude":3.315929,
+    "iso:country":"NG",
+    "lbl:latitude":6.623915,
+    "lbl:longitude":3.312393,
+    "meso:adm1_name":"Lagos",
+    "meso:diss_me":"AgegeLagos",
+    "meso:gadm_admin":"Agege",
+    "meso:gaul_admin":"Agege",
+    "meso:hasc_id":"NG.LA.AG",
+    "meso:mps_x":3.312393,
+    "meso:mps_y":6.623915,
+    "meso:name_local":"Agege",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":6.623915,
+    "mps:longitude":3.312393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Agege"
+    ],
+    "name:eng_x_variant":[
+        "Agege"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"11.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Agege",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.LA",
+    "statoids:name":"Agege",
+    "statoids:population":"459939",
+    "statoids:statoid":"NG.LA.AG",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.LA.AG"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057365,
+    "wof:geomhash":"b20275b9555df9be117a16cdeff97a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562937,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1108562937,
+    "wof:lastmodified":1536615193,
+    "wof:name":"Agege",
+    "wof:parent_id":85675343,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":459939,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"AG",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2987663397326,
+    6.60437136831218,
+    3.33766633973261,
+    6.64737136831215
+],
+  "geometry": {"coordinates":[[[3.30716633973262,6.64737136831215],[3.31556633973263,6.64657136831213],[3.32566633973263,6.62147136831218],[3.32876633973262,6.62317136831215],[3.33426633973259,6.62417136831211],[3.33766633973261,6.61717136831211],[3.3368663397326,6.61327136831218],[3.32986633973259,6.61237136831215],[3.33136633973263,6.60547136831216],[3.32796633973259,6.60727136831214],[3.32506633973263,6.60767136831211],[3.32176633973261,6.60747136831217],[3.31906633973259,6.60597136831214],[3.31626633973264,6.60437136831218],[3.31216633973261,6.60637136831211],[3.30906633973262,6.60867136831216],[3.30616633973256,6.61137136831218],[3.30456633973261,6.61567136831216],[3.30156633973263,6.61927136831213],[3.2987663397326,6.62297136831212],[3.29956633973262,6.62587136831217],[3.30716633973262,6.64467136831213],[3.30716633973262,6.64737136831215]]],"type":"Polygon"}
+}

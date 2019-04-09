@@ -1,0 +1,67 @@
+{
+  "id": 1310529845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.8378,11.2067,10.8378,11.2067",
+    "geom:latitude":11.2067,
+    "geom:longitude":10.8378,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Sabon Gari",
+    "gn:country_code":"NG",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854036,
+    "gn:latitude":11.2067,
+    "gn:longitude":10.8378,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Sabon Gari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854036
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"13dc5ec09efd12e0e9c706412602b554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563215,
+            "locality_id":1310529845,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1310529845,
+    "wof:lastmodified":1536881188,
+    "wof:name":"Sabon Gari",
+    "wof:parent_id":1108563215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.8378,
+    11.2067,
+    10.8378,
+    11.2067
+],
+  "geometry": {"coordinates":[10.8378,11.2067],"type":"Point"}
+}

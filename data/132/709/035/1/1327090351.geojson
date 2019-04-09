@@ -1,0 +1,67 @@
+{
+  "id": 1327090351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.57693,10.70886,8.57693,10.70886",
+    "geom:latitude":10.70886,
+    "geom:longitude":8.57693,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kurfi",
+    "gn:country_code":"NG",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333240,
+    "gn:latitude":10.70886,
+    "gn:longitude":8.57693,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Kurfi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333240
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d32bbb090ee1ad586be8b64b30e584de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563235,
+            "locality_id":1327090351,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1327090351,
+    "wof:lastmodified":1536676983,
+    "wof:name":"Kurfi",
+    "wof:parent_id":1108563235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.57693,
+    10.70886,
+    8.57693,
+    10.70886
+],
+  "geometry": {"coordinates":[8.57693,10.70886],"type":"Point"}
+}

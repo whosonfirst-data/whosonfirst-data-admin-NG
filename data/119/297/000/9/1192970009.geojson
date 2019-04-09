@@ -1,0 +1,68 @@
+{
+  "id": 1192970009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.02872,6.24031,6.02872,6.24031",
+    "geom:latitude":6.24031,
+    "geom:longitude":6.02872,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013",
+    "gn:asciiname":"Obayanlor",
+    "gn:country_code":"NG",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10353764,
+    "gn:latitude":6.24031,
+    "gn:longitude":6.02872,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obayanlor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10353764
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"24a68e2063e9af2be7c7514464d130cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1192970009,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1192970009,
+    "wof:lastmodified":1536379327,
+    "wof:name":"Obayanlor",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.02872,
+    6.24031,
+    6.02872,
+    6.24031
+],
+  "geometry": {"coordinates":[6.02872,6.24031],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243306203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27826,12.25056,4.27826,12.25056",
+    "geom:latitude":12.25056,
+    "geom:longitude":4.27826,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"514.0",
+    "gn:admin3_code":"51410",
+    "gn:asciiname":"Mayalo",
+    "gn:country_code":"NG",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330556,
+    "gn:latitude":12.25056,
+    "gn:longitude":4.27826,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Mayalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayala",
+        "Mayalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330556
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e5072bc0fce5a783a8622fbe7079ffdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563763,
+            "locality_id":1243306203,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1243306203,
+    "wof:lastmodified":1537675097,
+    "wof:name":"Mayalo",
+    "wof:parent_id":1108563763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27826,
+    12.25056,
+    4.27826,
+    12.25056
+],
+  "geometry": {"coordinates":[4.27826,12.25056],"type":"Point"}
+}

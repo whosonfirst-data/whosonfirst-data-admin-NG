@@ -1,0 +1,65 @@
+{
+  "id": 1209458039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76885,5.65039,5.76885,5.65039",
+    "geom:latitude":5.65039,
+    "geom:longitude":5.76885,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10013.0",
+    "gn:asciiname":"Okuotomewo",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326826,
+    "gn:latitude":5.65039,
+    "gn:longitude":5.76885,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Okuotomewo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okuotomewo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326826
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2bac35566213e3f10c42f8851e6cf09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209458039
+        }
+    ],
+    "wof:id":1209458039,
+    "wof:lastmodified":1537675034,
+    "wof:name":"Okuotomewo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76885,
+    5.65039,
+    5.76885,
+    5.65039
+],
+  "geometry": {"coordinates":[5.76885,5.65039],"type":"Point"}
+}

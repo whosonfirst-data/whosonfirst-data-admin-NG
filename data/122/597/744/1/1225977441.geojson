@@ -1,0 +1,68 @@
+{
+  "id": 1225977441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.28333,8.1,9.28333,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":9.28333,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26002.0",
+    "gn:asciiname":"Gindin Kete",
+    "gn:country_code":"NG",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340645,
+    "gn:latitude":8.1,
+    "gn:longitude":9.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gindin Kete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340645
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb36b927d8d01f6f763a144ff3fd97af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563053,
+            "locality_id":1225977441,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1225977441,
+    "wof:lastmodified":1536822726,
+    "wof:name":"Gindin Kete",
+    "wof:parent_id":1108563053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.28333,
+    8.1,
+    9.28333,
+    8.1
+],
+  "geometry": {"coordinates":[9.28333,8.1],"type":"Point"}
+}

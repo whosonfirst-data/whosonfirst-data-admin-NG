@@ -1,0 +1,68 @@
+{
+  "id": 1259727811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.46451,10.05528,12.46451,10.05528",
+    "geom:latitude":10.05528,
+    "geom:longitude":12.46451,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Chawa",
+    "gn:country_code":"NG",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6836901,
+    "gn:latitude":10.05528,
+    "gn:longitude":12.46451,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6836901
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cecc109f2d45e431d99e495723b36a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563423,
+            "locality_id":1259727811,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259727811,
+    "wof:lastmodified":1537002514,
+    "wof:name":"Chawa",
+    "wof:parent_id":1108563423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.46451,
+    10.05528,
+    12.46451,
+    10.05528
+],
+  "geometry": {"coordinates":[12.46451,10.05528],"type":"Point"}
+}

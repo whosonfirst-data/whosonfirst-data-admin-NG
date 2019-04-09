@@ -1,0 +1,68 @@
+{
+  "id": 1310534449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18858,7.19446,10.18858,7.19446",
+    "geom:latitude":7.19446,
+    "geom:longitude":10.18858,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35013.0",
+    "gn:asciiname":"Kumtso",
+    "gn:country_code":"NG",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333441,
+    "gn:latitude":7.19446,
+    "gn:longitude":10.18858,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kumtso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333441
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4caeb872b0ed5aaf86990dc40257e5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564477,
+            "locality_id":1310534449,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1310534449,
+    "wof:lastmodified":1536874234,
+    "wof:name":"Kumtso",
+    "wof:parent_id":1108564477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18858,
+    7.19446,
+    10.18858,
+    7.19446
+],
+  "geometry": {"coordinates":[10.18858,7.19446],"type":"Point"}
+}

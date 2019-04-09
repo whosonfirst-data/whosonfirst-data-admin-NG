@@ -1,0 +1,62 @@
+{
+  "id": 1209592961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.40578,9.09998,7.40578,9.09998",
+    "geom:latitude":9.09998,
+    "geom:longitude":7.40578,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Gwarinpa",
+    "gn:country_code":"NG",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339768,
+    "gn:latitude":9.09998,
+    "gn:longitude":7.40578,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gwarinpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339768
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a64b746cdf66e04691a742d80e9d00e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209592961
+        }
+    ],
+    "wof:id":1209592961,
+    "wof:lastmodified":1536282418,
+    "wof:name":"Gwarinpa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.40578,
+    9.09998,
+    7.40578,
+    9.09998
+],
+  "geometry": {"coordinates":[7.40578,9.09998],"type":"Point"}
+}

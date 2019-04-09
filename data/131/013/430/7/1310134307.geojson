@@ -1,0 +1,68 @@
+{
+  "id": 1310134307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.69313,9.96691,8.69313,9.96691",
+    "geom:latitude":9.96691,
+    "geom:longitude":8.69313,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32002.0",
+    "gn:asciiname":"Zagun",
+    "gn:country_code":"NG",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317914,
+    "gn:latitude":9.96691,
+    "gn:longitude":8.69313,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zagun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317914
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b2f30b5b2653fb81a6e1fc5ad2607b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563095,
+            "locality_id":1310134307,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1310134307,
+    "wof:lastmodified":1536955152,
+    "wof:name":"Zagun",
+    "wof:parent_id":1108563095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.69313,
+    9.96691,
+    8.69313,
+    9.96691
+],
+  "geometry": {"coordinates":[8.69313,9.96691],"type":"Point"}
+}

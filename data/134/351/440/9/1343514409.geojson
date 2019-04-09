@@ -1,0 +1,71 @@
+{
+  "id": 1343514409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.27316,6.02242,6.27316,6.02242",
+    "geom:latitude":6.02242,
+    "geom:longitude":6.27316,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10008.0",
+    "gn:asciiname":"Obi-Deke",
+    "gn:country_code":"NG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7090715,
+    "gn:latitude":6.02242,
+    "gn:longitude":6.27316,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obi-Deke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obi-Deke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7090715
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a44ec68c04a217a0de55ac63e325f0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563585,
+            "locality_id":1343514409,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1343514409,
+    "wof:lastmodified":1537675451,
+    "wof:name":"Obi-Deke",
+    "wof:parent_id":1108563585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.27316,
+    6.02242,
+    6.27316,
+    6.02242
+],
+  "geometry": {"coordinates":[6.27316,6.02242],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276915521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.1977,10.30075,13.1977,10.30075",
+    "geom:latitude":10.30075,
+    "geom:longitude":13.1977,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014",
+    "gn:asciiname":"Mbawa",
+    "gn:country_code":"NG",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742772,
+    "gn:latitude":10.30075,
+    "gn:longitude":13.1977,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mbawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742772
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a33a999fd1161b3194868feea0ffdc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":1276915521,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1276915521,
+    "wof:lastmodified":1537675461,
+    "wof:name":"Mbawa",
+    "wof:parent_id":1108563997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.1977,
+    10.30075,
+    13.1977,
+    10.30075
+],
+  "geometry": {"coordinates":[13.1977,10.30075],"type":"Point"}
+}

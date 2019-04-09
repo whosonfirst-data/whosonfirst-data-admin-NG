@@ -1,0 +1,73 @@
+{
+  "id": 1259349469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70502,10.69378,12.70502,10.69378",
+    "geom:latitude":10.69378,
+    "geom:longitude":12.70502,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"102.0",
+    "gn:admin3_code":"10207",
+    "gn:asciiname":"Pupanyunyu",
+    "gn:country_code":"NG",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324727,
+    "gn:latitude":10.69378,
+    "gn:longitude":12.70502,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pupanyunyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pupaniuniu",
+        "Pupanyunyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324727
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"18c852ba17c0d50ed33f27364ba79336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563037,
+            "locality_id":1259349469,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1259349469,
+    "wof:lastmodified":1537675005,
+    "wof:name":"Pupanyunyu",
+    "wof:parent_id":1108563037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70502,
+    10.69378,
+    12.70502,
+    10.69378
+],
+  "geometry": {"coordinates":[12.70502,10.69378],"type":"Point"}
+}

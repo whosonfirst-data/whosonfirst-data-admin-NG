@@ -1,0 +1,73 @@
+{
+  "id": 1243504709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.36211,11.85985,8.36211,11.85985",
+    "geom:latitude":11.85985,
+    "geom:longitude":8.36211,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20036.0",
+    "gn:admin3_code":"KN2805",
+    "gn:asciiname":"Kafin Agur",
+    "gn:country_code":"NG",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335695,
+    "gn:latitude":11.85985,
+    "gn:longitude":8.36211,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kafin Agur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K. Agur",
+        "Kafin Agur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335695
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3de0e065b19a8e0dd1f3714292cfe1d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563911,
+            "locality_id":1243504709,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1243504709,
+    "wof:lastmodified":1537675159,
+    "wof:name":"Kafin Agur",
+    "wof:parent_id":1108563911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.36211,
+    11.85985,
+    8.36211,
+    11.85985
+],
+  "geometry": {"coordinates":[8.36211,11.85985],"type":"Point"}
+}

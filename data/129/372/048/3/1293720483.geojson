@@ -1,0 +1,69 @@
+{
+  "id": 1293720483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45,12.93333,5.45,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":5.45,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60304",
+    "gn:asciiname":"Gidan Basamu",
+    "gn:country_code":"NG",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341124,
+    "gn:latitude":12.93333,
+    "gn:longitude":5.45,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Basamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341124
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4b0b66cc4f052d28d42d329e66c8a26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563211,
+            "locality_id":1293720483,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293720483,
+    "wof:lastmodified":1536948911,
+    "wof:name":"Gidan Basamu",
+    "wof:parent_id":1108563211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45,
+    12.93333,
+    5.45,
+    12.93333
+],
+  "geometry": {"coordinates":[5.45,12.93333],"type":"Point"}
+}

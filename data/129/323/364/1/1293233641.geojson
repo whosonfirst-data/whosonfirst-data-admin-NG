@@ -1,0 +1,67 @@
+{
+  "id": 1293233641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83847,12.41131,5.83847,12.41131",
+    "geom:latitude":12.41131,
+    "geom:longitude":5.83847,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Damri",
+    "gn:country_code":"NG",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345466,
+    "gn:latitude":12.41131,
+    "gn:longitude":5.83847,
+    "gn:modification_date":"2009-07-07",
+    "gn:name":"Damri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345466
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4909b6b2164079da22658ea375d74ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563079,
+            "locality_id":1293233641,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1293233641,
+    "wof:lastmodified":1536656169,
+    "wof:name":"Damri",
+    "wof:parent_id":1108563079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83847,
+    12.41131,
+    5.83847,
+    12.41131
+],
+  "geometry": {"coordinates":[5.83847,12.41131],"type":"Point"}
+}

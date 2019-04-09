@@ -1,0 +1,77 @@
+{
+  "id": 1277119645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.30775,6.0822,6.30775,6.0822",
+    "geom:latitude":6.0822,
+    "geom:longitude":6.30775,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10008.0",
+    "gn:asciiname":"Ekuku-Agbor",
+    "gn:country_code":"NG",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350876,
+    "gn:latitude":6.0822,
+    "gn:longitude":6.30775,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekuku-Agbor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ekuku-Agbor"
+    ],
+    "name:eng_x_variant":[
+        "Akuku-Agbo"
+    ],
+    "name:und_x_variant":[
+        "Akuku-Agbor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350876
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f6507f9479a8499b38a70366ceb1ab2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563585,
+            "locality_id":1277119645,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1277119645,
+    "wof:lastmodified":1537675374,
+    "wof:name":"Ekuku-Agbor",
+    "wof:parent_id":1108563585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.30775,
+    6.0822,
+    6.30775,
+    6.0822
+],
+  "geometry": {"coordinates":[6.30775,6.0822],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 421180397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01117,6.73971,7.01117,6.73971",
+    "geom:latitude":6.73971,
+    "geom:longitude":7.01117,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2352589,
+    "qs:gn_pop":6161,
+    "qs:name":"Adani",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Enugu",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":430204,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1383872,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108564485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352589,
+        "gp:id":1383872,
+        "qs:id":430204,
+        "wd:id":"Q4680628"
+    },
+    "wof:country":"NG",
+    "wof:created":1459009254,
+    "wof:geomhash":"12ba296af05af840b8e1ed8bf989b02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564485,
+            "locality_id":421180397,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":421180397,
+    "wof:lastmodified":1527716234,
+    "wof:name":"Adani",
+    "wof:parent_id":1108564485,
+    "wof:placetype":"locality",
+    "wof:population":6161,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01117,
+    6.73971,
+    7.01117,
+    6.73971
+],
+  "geometry": {"coordinates":[7.01117,6.73971],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209045531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.38475,6.00352,6.38475,6.00352",
+    "geom:latitude":6.00352,
+    "geom:longitude":6.38475,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10012.0",
+    "gn:asciiname":"Atuar-Etiti",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348916,
+    "gn:latitude":6.00352,
+    "gn:longitude":6.38475,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atuar-Etiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Atuar-Etiti"
+    ],
+    "name:eng_x_variant":[
+        "Atuar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348916
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"606c97e300e9c3cca4fbe75c1116e69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209045531
+        }
+    ],
+    "wof:id":1209045531,
+    "wof:lastmodified":1537675351,
+    "wof:name":"Atuar-Etiti",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.38475,
+    6.00352,
+    6.38475,
+    6.00352
+],
+  "geometry": {"coordinates":[6.38475,6.00352],"type":"Point"}
+}

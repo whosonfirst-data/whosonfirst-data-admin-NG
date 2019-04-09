@@ -1,0 +1,62 @@
+{
+  "id": 1209266197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73333,6.23333,5.73333,6.23333",
+    "geom:latitude":6.23333,
+    "geom:longitude":5.73333,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12011.0",
+    "gn:asciiname":"Idumohen",
+    "gn:country_code":"NG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338932,
+    "gn:latitude":6.23333,
+    "gn:longitude":5.73333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idumohen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338932
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"778f2d4efc70fcc5354a36c8e4303766",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209266197
+        }
+    ],
+    "wof:id":1209266197,
+    "wof:lastmodified":1536292522,
+    "wof:name":"Idumohen",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7333300000000005,
+    6.2333300000000005,
+    5.7333300000000005,
+    6.2333300000000005
+],
+  "geometry": {"coordinates":[5.73333,6.23333],"type":"Point"}
+}

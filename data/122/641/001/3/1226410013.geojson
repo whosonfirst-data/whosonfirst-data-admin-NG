@@ -1,0 +1,68 @@
+{
+  "id": 1226410013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.97176,5.98255,6.97176,5.98255",
+    "geom:latitude":5.98255,
+    "geom:longitude":6.97176,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4015.0",
+    "gn:asciiname":"Ekpara",
+    "gn:country_code":"NG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098529,
+    "gn:latitude":5.98255,
+    "gn:longitude":6.97176,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekpara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098529
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6cdc56d94351148a63880e58fa30b1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564051,
+            "locality_id":1226410013,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1226410013,
+    "wof:lastmodified":1536697313,
+    "wof:name":"Ekpara",
+    "wof:parent_id":1108564051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.97176,
+    5.98255,
+    6.97176,
+    5.98255
+],
+  "geometry": {"coordinates":[6.97176,5.98255],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193165537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71667,8.53333,8.71667,8.53333",
+    "geom:latitude":8.53333,
+    "geom:longitude":8.71667,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26008.0",
+    "gn:asciiname":"Yelwata",
+    "gn:country_code":"NG",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318133,
+    "gn:latitude":8.53333,
+    "gn:longitude":8.71667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yelwata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318133
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"313283a5eb3f8bb60c230000b48cf30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563879,
+            "locality_id":1193165537,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1193165537,
+    "wof:lastmodified":1536364590,
+    "wof:name":"Yelwata",
+    "wof:parent_id":1108563879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71667,
+    8.53333,
+    8.71667,
+    8.53333
+],
+  "geometry": {"coordinates":[8.71667,8.53333],"type":"Point"}
+}

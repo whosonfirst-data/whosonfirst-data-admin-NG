@@ -1,0 +1,73 @@
+{
+  "id": 1293325653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1553,13.25862,5.1553,13.25862",
+    "geom:latitude":13.25862,
+    "geom:longitude":5.1553,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"611.0",
+    "gn:admin3_code":"61109",
+    "gn:asciiname":"Gundinga",
+    "gn:country_code":"NG",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340059,
+    "gn:latitude":13.25862,
+    "gn:longitude":5.1553,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gundinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gundunga",
+        "Gundinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340059
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47a10e88de2633be27a85f545e3e26e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563875,
+            "locality_id":1293325653,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1293325653,
+    "wof:lastmodified":1537675222,
+    "wof:name":"Gundinga",
+    "wof:parent_id":1108563875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1553,
+    13.25862,
+    5.1553,
+    13.25862
+],
+  "geometry": {"coordinates":[5.1553,13.25862],"type":"Point"}
+}

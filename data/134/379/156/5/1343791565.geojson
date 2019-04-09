@@ -1,0 +1,71 @@
+{
+  "id": 1343791565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.05805,7.41172,5.05805,7.41172",
+    "geom:latitude":7.41172,
+    "geom:longitude":5.05805,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29009.0",
+    "gn:asciiname":"Igbara-Oke",
+    "gn:country_code":"NG",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2338809,
+    "gn:latitude":7.41172,
+    "gn:longitude":5.05805,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbara-Oke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Igbaraoke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        421176769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338809
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e205192e6abdd59251f1ec19fb7fe60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421176769,
+            "locality_id":1343791565,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1343791565,
+    "wof:lastmodified":1537675205,
+    "wof:name":"Igbara-Oke",
+    "wof:parent_id":421176769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.05805,
+    7.41172,
+    5.05805,
+    7.41172
+],
+  "geometry": {"coordinates":[5.05805,7.41172],"type":"Point"}
+}

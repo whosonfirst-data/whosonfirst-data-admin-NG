@@ -1,0 +1,68 @@
+{
+  "id": 1276258767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61966,5.54287,6.61966,5.54287",
+    "geom:latitude":5.54287,
+    "geom:longitude":6.61966,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33016.0",
+    "gn:asciiname":"Onoagbai",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100553,
+    "gn:latitude":5.54287,
+    "gn:longitude":6.61966,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onoagbai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100553
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dbb8079bc52a4c811c92eda9c64d64bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564105,
+            "locality_id":1276258767,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1276258767,
+    "wof:lastmodified":1536877789,
+    "wof:name":"Onoagbai",
+    "wof:parent_id":1108564105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61966,
+    5.54287,
+    6.61966,
+    5.54287
+],
+  "geometry": {"coordinates":[6.61966,5.54287],"type":"Point"}
+}

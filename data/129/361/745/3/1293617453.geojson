@@ -1,0 +1,68 @@
+{
+  "id": 1293617453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.6321,6.43545,4.6321,6.43545",
+    "geom:latitude":6.43545,
+    "geom:longitude":4.6321,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Imoluwa",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337554,
+    "gn:latitude":6.43545,
+    "gn:longitude":4.6321,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imoluwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337554
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0ca83c16cc071076cf24106e5d15cdc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1293617453,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1293617453,
+    "wof:lastmodified":1537093774,
+    "wof:name":"Imoluwa",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.6321,
+    6.43545,
+    4.6321,
+    6.43545
+],
+  "geometry": {"coordinates":[4.6321,6.43545],"type":"Point"}
+}

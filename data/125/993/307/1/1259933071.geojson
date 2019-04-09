@@ -1,0 +1,68 @@
+{
+  "id": 1259933071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.20869,5.23858,6.20869,5.23858",
+    "geom:latitude":5.23858,
+    "geom:longitude":6.20869,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10016.0",
+    "gn:asciiname":"Anisa III",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100677,
+    "gn:latitude":5.23858,
+    "gn:longitude":6.20869,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anisa III",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100677
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"60fe2e0e6011fba459ad7a037f3323a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564277,
+            "locality_id":1259933071,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1259933071,
+    "wof:lastmodified":1536708216,
+    "wof:name":"Anisa III",
+    "wof:parent_id":1108564277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.20869,
+    5.23858,
+    6.20869,
+    5.23858
+],
+  "geometry": {"coordinates":[6.20869,5.23858],"type":"Point"}
+}

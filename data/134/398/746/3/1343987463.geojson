@@ -1,0 +1,71 @@
+{
+  "id": 1343987463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.6192,9.37128,9.6192,9.37128",
+    "geom:latitude":9.37128,
+    "geom:longitude":9.6192,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32008",
+    "gn:asciiname":"Kwal",
+    "gn:country_code":"NG",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10323499,
+    "gn:latitude":9.37128,
+    "gn:longitude":9.6192,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Kwal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kwal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10323499
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9d00931479d40f7a1d007823a85930d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563771,
+            "locality_id":1343987463,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1343987463,
+    "wof:lastmodified":1537675470,
+    "wof:name":"Kwal",
+    "wof:parent_id":1108563771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.6192,
+    9.37128,
+    9.6192,
+    9.37128
+],
+  "geometry": {"coordinates":[9.6192,9.37128],"type":"Point"}
+}

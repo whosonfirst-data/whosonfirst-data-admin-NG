@@ -1,0 +1,63 @@
+{
+  "id": 1209666381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.22235,13.38738,13.22235,13.38738",
+    "geom:latitude":13.38738,
+    "geom:longitude":13.22235,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10101",
+    "gn:asciiname":"Bidawa",
+    "gn:country_code":"NG",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347201,
+    "gn:latitude":13.38738,
+    "gn:longitude":13.22235,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bidawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347201
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7336b0df4465f66ff32f6efb098c5117",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209666381
+        }
+    ],
+    "wof:id":1209666381,
+    "wof:lastmodified":1536280083,
+    "wof:name":"Bidawa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.22235,
+    13.38738,
+    13.22235,
+    13.38738
+],
+  "geometry": {"coordinates":[13.22235,13.38738],"type":"Point"}
+}

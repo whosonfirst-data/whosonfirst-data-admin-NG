@@ -1,0 +1,67 @@
+{
+  "id": 1193198753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.51807,5.43259,6.51807,5.43259",
+    "geom:latitude":5.43259,
+    "geom:longitude":6.51807,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Bomadi",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101309,
+    "gn:latitude":5.43259,
+    "gn:longitude":6.51807,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Bomadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101309
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"78da94d6361edbc634ad7eba5599681a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564105,
+            "locality_id":1193198753,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1193198753,
+    "wof:lastmodified":1536375109,
+    "wof:name":"Bomadi",
+    "wof:parent_id":1108564105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.51807,
+    5.43259,
+    6.51807,
+    5.43259
+],
+  "geometry": {"coordinates":[6.51807,5.43259],"type":"Point"}
+}

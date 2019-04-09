@@ -1,0 +1,90 @@
+{
+  "id": 1108563887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002956,
+    "geom:area_square_m":36321495.78503,
+    "geom:bbox":"3.36366633973,6.46317136831,3.45216633973,6.52377136831",
+    "geom:latitude":6.497946,
+    "geom:longitude":3.402217,
+    "iso:country":"NG",
+    "lbl:latitude":6.500186,
+    "lbl:longitude":3.401547,
+    "meso:adm1_name":"Lagos",
+    "meso:diss_me":"Lagos MainlandLagos",
+    "meso:gadm_admin":"LagosIsland",
+    "meso:gaul_admin":"Mainland",
+    "meso:hasc_id":"NG.LA.LM",
+    "meso:mps_x":3.401547,
+    "meso:mps_y":6.500186,
+    "meso:name_local":"Lagos Mainland",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":6.500186,
+    "mps:longitude":3.401547,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lagos Mainland"
+    ],
+    "name:eng_x_variant":[
+        "Mainland",
+        "LagosIsland"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"19.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Lagos Mainland",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.LA",
+    "statoids:name":"Lagos Mainland",
+    "statoids:population":"317720",
+    "statoids:statoid":"NG.LA.LM",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.LA.LM"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057852,
+    "wof:geomhash":"9b74b50a4737bce083e9cdfa448db3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563887,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1108563887,
+    "wof:lastmodified":1536615208,
+    "wof:name":"Lagos Mainland",
+    "wof:parent_id":85675343,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":317720,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"LM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.36366633973261,
+    6.46317136831216,
+    3.45216633973263,
+    6.52377136831211
+],
+  "geometry": {"coordinates":[[[3.3642663397326,6.47587136831216],[3.36646633973265,6.47847136831217],[3.36936633973261,6.48067136831212],[3.37226633973257,6.48087136831215],[3.37586633973262,6.48087136831215],[3.38096633973263,6.48017136831214],[3.3839663397326,6.48157136831216],[3.36836633973265,6.51857136831218],[3.37716633973263,6.52087136831215],[3.38156633973262,6.52277136831215],[3.3896663397326,6.52377136831211],[3.39886633973264,6.52377136831211],[3.40546633973259,6.52327136831213],[3.41396633973262,6.52017136831214],[3.43596633973259,6.51457136831215],[3.45216633973263,6.51107136831211],[3.44356633973258,6.50017136831218],[3.42476633973262,6.48727136831216],[3.4099663397326,6.4779713683121],[3.3940663397326,6.46817136831215],[3.38726633973262,6.46687136831215],[3.38116633973257,6.46317136831216],[3.37926633973257,6.46657136831211],[3.37576633973261,6.46857136831212],[3.36966633973265,6.46777136831219],[3.36466633973257,6.46697136831216],[3.36366633973261,6.47147136831217],[3.3642663397326,6.47587136831216]]],"type":"Polygon"}
+}

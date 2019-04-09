@@ -1,0 +1,68 @@
+{
+  "id": 1209845343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97052,7.50947,9.97052,7.50947",
+    "geom:latitude":7.50947,
+    "geom:longitude":9.97052,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012",
+    "gn:asciiname":"Tseagbe",
+    "gn:country_code":"NG",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532511,
+    "gn:latitude":7.50947,
+    "gn:longitude":9.97052,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseagbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532511
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8d52faca4817a10889e3c2dd4e1e53e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564397,
+            "locality_id":1209845343,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1209845343,
+    "wof:lastmodified":1536390913,
+    "wof:name":"Tseagbe",
+    "wof:parent_id":1108564397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97052,
+    7.50947,
+    9.97052,
+    7.50947
+],
+  "geometry": {"coordinates":[9.97052,7.50947],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259816485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80938,6.08877,7.80938,6.08877",
+    "geom:latitude":6.08877,
+    "geom:longitude":7.80938,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11013.0",
+    "gn:asciiname":"Eneagu",
+    "gn:country_code":"NG",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343290,
+    "gn:latitude":6.08877,
+    "gn:longitude":7.80938,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eneagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enuago",
+        "Eneagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108564189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343290
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0e41bb98f3da4f6ee2072de920dbb342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564189,
+            "locality_id":1259816485,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1259816485,
+    "wof:lastmodified":1537675276,
+    "wof:name":"Eneagu",
+    "wof:parent_id":1108564189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.80938,
+    6.08877,
+    7.80938,
+    6.08877
+],
+  "geometry": {"coordinates":[7.80938,6.08877],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360318335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.04114,11.88071,11.04114,11.88071",
+    "geom:latitude":11.88071,
+    "geom:longitude":11.04114,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"712.0",
+    "gn:admin3_code":"71216",
+    "gn:asciiname":"Gurbana",
+    "gn:country_code":"NG",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342444,
+    "gn:latitude":11.88071,
+    "gn:longitude":11.04114,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gurbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabakau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342444
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47271e15987a74c39e5074b2d7f6fda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564007,
+            "locality_id":1360318335,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1360318335,
+    "wof:lastmodified":1537675262,
+    "wof:name":"Gurbana",
+    "wof:parent_id":1108564007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.04114,
+    11.88071,
+    11.04114,
+    11.88071
+],
+  "geometry": {"coordinates":[11.04114,11.88071],"type":"Point"}
+}

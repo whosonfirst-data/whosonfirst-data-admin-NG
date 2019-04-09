@@ -1,0 +1,62 @@
+{
+  "id": 1209643795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9691,9.93191,8.9691,9.93191",
+    "geom:latitude":9.93191,
+    "geom:longitude":8.9691,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005",
+    "gn:asciiname":"Bar Bonga",
+    "gn:country_code":"NG",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112633,
+    "gn:latitude":9.93191,
+    "gn:longitude":8.9691,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bar Bonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112633
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d55f6a66102a21f0bbb01f20d8957674",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209643795
+        }
+    ],
+    "wof:id":1209643795,
+    "wof:lastmodified":1536280800,
+    "wof:name":"Bar Bonga",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9691,
+    9.93191,
+    8.9691,
+    9.93191
+],
+  "geometry": {"coordinates":[8.9691,9.93191],"type":"Point"}
+}

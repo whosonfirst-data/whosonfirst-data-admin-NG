@@ -1,0 +1,68 @@
+{
+  "id": 1293642035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14576,6.30565,6.14576,6.30565",
+    "geom:latitude":6.30565,
+    "geom:longitude":6.14576,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10008",
+    "gn:asciiname":"Owuwu Two",
+    "gn:country_code":"NG",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10366869,
+    "gn:latitude":6.30565,
+    "gn:longitude":6.14576,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Owuwu Two",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10366869
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b80fb8c965a9c3974374a70cbea08071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563585,
+            "locality_id":1293642035,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1293642035,
+    "wof:lastmodified":1537059017,
+    "wof:name":"Owuwu Two",
+    "wof:parent_id":1108563585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14576,
+    6.30565,
+    6.14576,
+    6.30565
+],
+  "geometry": {"coordinates":[6.14576,6.30565],"type":"Point"}
+}

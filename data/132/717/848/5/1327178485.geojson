@@ -1,0 +1,70 @@
+{
+  "id": 1327178485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.40333,9.19207,12.40333,9.19207",
+    "geom:latitude":9.19207,
+    "geom:longitude":12.40333,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Danbore",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189723,
+    "gn:latitude":9.19207,
+    "gn:longitude":12.40333,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Danbore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Danbore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189723
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b1dbdeb3931f78440eece2486df21617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1327178485,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1327178485,
+    "wof:lastmodified":1537675486,
+    "wof:name":"Danbore",
+    "wof:parent_id":1108564541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.40333,
+    9.19207,
+    12.40333,
+    9.19207
+],
+  "geometry": {"coordinates":[12.40333,9.19207],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243608541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.46229,7.40771,9.46229,7.40771",
+    "geom:latitude":7.40771,
+    "geom:longitude":9.46229,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7009",
+    "gn:asciiname":"Tsegbajime",
+    "gn:country_code":"NG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9637083,
+    "gn:latitude":7.40771,
+    "gn:longitude":9.46229,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsegbajime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9637083
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eb751167bf8d5d6e87bdb243b6ad574a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563791,
+            "locality_id":1243608541,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243608541,
+    "wof:lastmodified":1537066122,
+    "wof:name":"Tsegbajime",
+    "wof:parent_id":1108563791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.46229,
+    7.40771,
+    9.46229,
+    7.40771
+],
+  "geometry": {"coordinates":[9.46229,7.40771],"type":"Point"}
+}

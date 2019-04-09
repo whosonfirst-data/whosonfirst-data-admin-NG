@@ -1,0 +1,71 @@
+{
+  "id": 1226385551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98905,5.74345,5.98905,5.74345",
+    "geom:latitude":5.74345,
+    "geom:longitude":5.98905,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10005.0",
+    "gn:asciiname":"Eku",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027912,
+    "gn:latitude":5.74345,
+    "gn:longitude":5.98905,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Eku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027912
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a6d606bbe193064dbddf648e96f46ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563333,
+            "locality_id":1226385551,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226385551,
+    "wof:lastmodified":1537675420,
+    "wof:name":"Eku",
+    "wof:parent_id":1108563333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98905,
+    5.74345,
+    5.98905,
+    5.74345
+],
+  "geometry": {"coordinates":[5.98905,5.74345],"type":"Point"}
+}

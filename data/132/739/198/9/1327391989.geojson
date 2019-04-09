@@ -1,0 +1,74 @@
+{
+  "id": 1327391989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33333,10.81667,6.33333,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":6.33333,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19001.0",
+    "gn:admin3_code":"KD0102",
+    "gn:asciiname":"Shuakan Dawa",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323073,
+    "gn:latitude":10.81667,
+    "gn:longitude":6.33333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shuakan Dawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuakun Dawa",
+        "Shuakan Dawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323073
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"278e2f80f082c25ac7319c3fbbcb9d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563133,
+            "locality_id":1327391989,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1327391989,
+    "wof:lastmodified":1537674985,
+    "wof:name":"Shuakan Dawa",
+    "wof:parent_id":1108563133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33333,
+    10.81667,
+    6.33333,
+    10.81667
+],
+  "geometry": {"coordinates":[6.33333,10.81667],"type":"Point"}
+}

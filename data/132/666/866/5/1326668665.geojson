@@ -1,0 +1,68 @@
+{
+  "id": 1326668665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.35518,6.83088,6.35518,6.83088",
+    "geom:latitude":6.83088,
+    "geom:longitude":6.35518,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12009",
+    "gn:asciiname":"Ekilor",
+    "gn:country_code":"NG",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636392,
+    "gn:latitude":6.83088,
+    "gn:longitude":6.35518,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekilor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636392
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"97335635defda7127f7611a6492199b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563347,
+            "locality_id":1326668665,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1326668665,
+    "wof:lastmodified":1536787821,
+    "wof:name":"Ekilor",
+    "wof:parent_id":1108563347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.35518,
+    6.83088,
+    6.35518,
+    6.83088
+],
+  "geometry": {"coordinates":[6.35518,6.83088],"type":"Point"}
+}

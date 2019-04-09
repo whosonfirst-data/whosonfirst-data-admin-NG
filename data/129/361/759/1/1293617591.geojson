@@ -1,0 +1,72 @@
+{
+  "id": 1293617591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.03554,7.16594,7.03554,7.16594",
+    "geom:latitude":7.16594,
+    "geom:longitude":7.03554,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23008.0",
+    "gn:asciiname":"Obedamagu",
+    "gn:country_code":"NG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328317,
+    "gn:latitude":7.16594,
+    "gn:longitude":7.03554,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obedamagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abedamegu",
+        "Obedamagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328317
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c02c0a08b62f0dc390f3c9d5c9f52b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563553,
+            "locality_id":1293617591,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1293617591,
+    "wof:lastmodified":1537675065,
+    "wof:name":"Obedamagu",
+    "wof:parent_id":1108563553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.03554,
+    7.16594,
+    7.03554,
+    7.16594
+],
+  "geometry": {"coordinates":[7.03554,7.16594],"type":"Point"}
+}

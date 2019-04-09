@@ -1,0 +1,68 @@
+{
+  "id": 1293428461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.11637,6.41858,5.11637,6.41858",
+    "geom:latitude":6.41858,
+    "geom:longitude":5.11637,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12015.0",
+    "gn:asciiname":"Ago-Isobo",
+    "gn:country_code":"NG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351804,
+    "gn:latitude":6.41858,
+    "gn:longitude":5.11637,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago-Isobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351804
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"18bd4fb9ed55ecde1f9946387267338d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564243,
+            "locality_id":1293428461,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1293428461,
+    "wof:lastmodified":1536871046,
+    "wof:name":"Ago-Isobo",
+    "wof:parent_id":1108564243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11637,
+    6.41858,
+    5.11637,
+    6.41858
+],
+  "geometry": {"coordinates":[5.11637,6.41858],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260108699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68827,9.38523,6.68827,9.38523",
+    "geom:latitude":9.38523,
+    "geom:longitude":6.68827,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27019.0",
+    "gn:asciiname":"Gbansegodan",
+    "gn:country_code":"NG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341468,
+    "gn:latitude":9.38523,
+    "gn:longitude":6.68827,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbansegodan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341468
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e4e2764692aca9d6f67cdfd563fdd021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564273,
+            "locality_id":1260108699,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1260108699,
+    "wof:lastmodified":1536952051,
+    "wof:name":"Gbansegodan",
+    "wof:parent_id":1108564273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68827,
+    9.38523,
+    6.68827,
+    9.38523
+],
+  "geometry": {"coordinates":[6.68827,9.38523],"type":"Point"}
+}

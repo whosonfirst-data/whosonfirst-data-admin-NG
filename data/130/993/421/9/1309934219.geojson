@@ -1,0 +1,68 @@
+{
+  "id": 1309934219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4599,7.1262,5.4599,7.1262",
+    "geom:latitude":7.1262,
+    "geom:longitude":5.4599,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29018.0",
+    "gn:asciiname":"Obasoto",
+    "gn:country_code":"NG",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832842,
+    "gn:latitude":7.1262,
+    "gn:longitude":5.4599,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obasoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108564257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832842
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f996655c4e5ab001d4b0d7ef820bf0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564257,
+            "locality_id":1309934219,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1309934219,
+    "wof:lastmodified":1536745871,
+    "wof:name":"Obasoto",
+    "wof:parent_id":1108564257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4599,
+    7.1262,
+    5.4599,
+    7.1262
+],
+  "geometry": {"coordinates":[5.4599,7.1262],"type":"Point"}
+}

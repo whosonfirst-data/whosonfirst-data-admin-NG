@@ -1,0 +1,69 @@
+{
+  "id": 1243487453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.98324,10.16216,8.98324,10.16216",
+    "geom:latitude":10.16216,
+    "geom:longitude":8.98324,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5018.0",
+    "gn:admin3_code":"BA1812",
+    "gn:asciiname":"Martari",
+    "gn:country_code":"NG",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330720,
+    "gn:latitude":10.16216,
+    "gn:longitude":8.98324,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Martari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108564415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330720
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d68c4f1930ac7e30f1bb5d4457ffac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564415,
+            "locality_id":1243487453,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1243487453,
+    "wof:lastmodified":1536746169,
+    "wof:name":"Martari",
+    "wof:parent_id":1108564415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.98324,
+    10.16216,
+    8.98324,
+    10.16216
+],
+  "geometry": {"coordinates":[8.98324,10.16216],"type":"Point"}
+}

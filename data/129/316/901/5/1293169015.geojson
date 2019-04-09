@@ -1,0 +1,69 @@
+{
+  "id": 1293169015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.26918,11.50104,7.26918,11.50104",
+    "geom:latitude":11.50104,
+    "geom:longitude":7.26918,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"414.0",
+    "gn:admin3_code":"41407",
+    "gn:asciiname":"Tadi",
+    "gn:country_code":"NG",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019477,
+    "gn:latitude":11.50104,
+    "gn:longitude":7.26918,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019477
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0a7d100f722585c1c3f81b4438dd5128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563377,
+            "locality_id":1293169015,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1293169015,
+    "wof:lastmodified":1536749212,
+    "wof:name":"Tadi",
+    "wof:parent_id":1108563377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.26918,
+    11.50104,
+    7.26918,
+    11.50104
+],
+  "geometry": {"coordinates":[7.26918,11.50104],"type":"Point"}
+}

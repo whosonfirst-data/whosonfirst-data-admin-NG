@@ -1,0 +1,63 @@
+{
+  "id": 1209265543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.86788,10.10525,11.86788,10.10525",
+    "geom:latitude":10.10525,
+    "geom:longitude":11.86788,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"127.0",
+    "gn:admin3_code":"12701",
+    "gn:asciiname":"Dama",
+    "gn:country_code":"NG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345557,
+    "gn:latitude":10.10525,
+    "gn:longitude":11.86788,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345557
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"720c8af4c985ca386da49aef3eab7472",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209265543
+        }
+    ],
+    "wof:id":1209265543,
+    "wof:lastmodified":1536292545,
+    "wof:name":"Dama",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.86788,
+    10.10525,
+    11.86788,
+    10.10525
+],
+  "geometry": {"coordinates":[11.86788,10.10525],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421175931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.4909,11.8072,12.4909,11.8072",
+    "geom:latitude":11.8072,
+    "geom:longitude":12.4909,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Benisheik"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2347279,
+    "qs:gn_pop":9825,
+    "qs:name":"Benisheikh",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Borno",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1035084,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1387661,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347279,
+        "gp:id":1387661,
+        "qs:id":1035084
+    },
+    "wof:country":"NG",
+    "wof:created":1459009084,
+    "wof:geomhash":"ed3dca66d143f550b0f560fc36494705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563747,
+            "locality_id":421175931,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":421175931,
+    "wof:lastmodified":1505340626,
+    "wof:name":"Benisheikh",
+    "wof:parent_id":1108563747,
+    "wof:placetype":"locality",
+    "wof:population":9825,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.4909,
+    11.8072,
+    12.4909,
+    11.8072
+],
+  "geometry": {"coordinates":[12.4909,11.8072],"type":"Point"}
+}

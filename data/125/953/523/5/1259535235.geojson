@@ -1,0 +1,71 @@
+{
+  "id": 1259535235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.22565,6.54657,6.22565,6.54657",
+    "geom:latitude":6.54657,
+    "geom:longitude":6.22565,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12010",
+    "gn:asciiname":"Egbiki-Igueben",
+    "gn:country_code":"NG",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10645956,
+    "gn:latitude":6.54657,
+    "gn:longitude":6.22565,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egbiki-Igueben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Egbiki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10645956
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"535ad041a30b8b7f69eddb4808e7deeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563563,
+            "locality_id":1259535235,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1259535235,
+    "wof:lastmodified":1537675472,
+    "wof:name":"Egbiki-Igueben",
+    "wof:parent_id":1108563563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.22565,
+    6.54657,
+    6.22565,
+    6.54657
+],
+  "geometry": {"coordinates":[6.22565,6.54657],"type":"Point"}
+}

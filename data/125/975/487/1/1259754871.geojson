@@ -1,0 +1,72 @@
+{
+  "id": 1259754871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68156,6.96459,3.68156,6.96459",
+    "geom:latitude":6.96459,
+    "geom:longitude":3.68156,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28019.0",
+    "gn:asciiname":"Ode-Remo",
+    "gn:country_code":"NG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328059,
+    "gn:latitude":6.96459,
+    "gn:longitude":3.68156,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ode-Remo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ode",
+        "Ode-Remo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108564295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328059
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9fd6feb6256826ee14abfe80065c9e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564295,
+            "locality_id":1259754871,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1259754871,
+    "wof:lastmodified":1537675060,
+    "wof:name":"Ode-Remo",
+    "wof:parent_id":1108564295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68156,
+    6.96459,
+    3.68156,
+    6.96459
+],
+  "geometry": {"coordinates":[3.68156,6.96459],"type":"Point"}
+}

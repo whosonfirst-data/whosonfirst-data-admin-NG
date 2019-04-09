@@ -1,0 +1,72 @@
+{
+  "id": 1293422885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1594,7.9823,5.1594,7.9823",
+    "geom:latitude":7.9823,
+    "geom:longitude":5.1594,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13015.0",
+    "gn:asciiname":"Igogo",
+    "gn:country_code":"NG",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338597,
+    "gn:latitude":7.9823,
+    "gn:longitude":5.1594,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gogo",
+        "Igogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338597
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4aa8c59268615e22405430b0d582569c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563983,
+            "locality_id":1293422885,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1293422885,
+    "wof:lastmodified":1537675201,
+    "wof:name":"Igogo",
+    "wof:parent_id":1108563983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1594,
+    7.9823,
+    5.1594,
+    7.9823
+],
+  "geometry": {"coordinates":[5.1594,7.9823],"type":"Point"}
+}

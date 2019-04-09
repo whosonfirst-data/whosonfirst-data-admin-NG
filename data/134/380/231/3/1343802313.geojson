@@ -1,0 +1,70 @@
+{
+  "id": 1343802313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.11255,9.13569,12.11255,9.13569",
+    "geom:latitude":9.13569,
+    "geom:longitude":12.11255,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Yolde Boile",
+    "gn:country_code":"NG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189910,
+    "gn:latitude":9.13569,
+    "gn:longitude":12.11255,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Yolde Boile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yolde Boile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189910
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"97b80028fbfd8f9f7fe28c8bc0059383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1343802313,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343802313,
+    "wof:lastmodified":1537675493,
+    "wof:name":"Yolde Boile",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.11255,
+    9.13569,
+    12.11255,
+    9.13569
+],
+  "geometry": {"coordinates":[12.11255,9.13569],"type":"Point"}
+}

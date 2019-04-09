@@ -1,0 +1,77 @@
+{
+  "id": 1192971281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.67224,6.45648,6.67224,6.45648",
+    "geom:latitude":6.45648,
+    "geom:longitude":6.67224,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Illah Waterside",
+    "gn:country_code":"NG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337688,
+    "gn:latitude":6.45648,
+    "gn:longitude":6.67224,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Illah Waterside",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Illah Waterside"
+    ],
+    "name:eng_x_variant":[
+        "Allah"
+    ],
+    "name:und_x_variant":[
+        "Allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337688
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"320864333ed2b0a19caaeb3108fb9468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564231,
+            "locality_id":1192971281,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1192971281,
+    "wof:lastmodified":1537675187,
+    "wof:name":"Illah Waterside",
+    "wof:parent_id":1108564231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.67224,
+    6.45648,
+    6.67224,
+    6.45648
+],
+  "geometry": {"coordinates":[6.67224,6.45648],"type":"Point"}
+}

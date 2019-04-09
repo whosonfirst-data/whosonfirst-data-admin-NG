@@ -1,0 +1,69 @@
+{
+  "id": 890441407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.58361,7.99917,7.58361,7.99917",
+    "geom:latitude":7.99917,
+    "geom:longitude":7.58361,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":9737,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Bagana"
+    ],
+    "qs:name":"Bugana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108564179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348298,
+        "gp:id":1386929,
+        "qs:id":278561
+    },
+    "wof:country":"NG",
+    "wof:created":1469052322,
+    "wof:geomhash":"50894e15248abe55b2f93ae210116ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564179,
+            "locality_id":890441407,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":890441407,
+    "wof:lastmodified":1505343582,
+    "wof:name":"Bugana",
+    "wof:parent_id":1108564179,
+    "wof:placetype":"locality",
+    "wof:population":9737,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.58361,
+    7.99917,
+    7.58361,
+    7.99917
+],
+  "geometry": {"coordinates":[7.58361,7.99917],"type":"Point"}
+}

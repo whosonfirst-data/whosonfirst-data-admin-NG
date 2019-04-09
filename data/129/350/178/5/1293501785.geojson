@@ -1,0 +1,72 @@
+{
+  "id": 1293501785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.9,9.25,12.9,9.25",
+    "geom:latitude":9.25,
+    "geom:longitude":12.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Chikito",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346045,
+    "gn:latitude":9.25,
+    "gn:longitude":12.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chikito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chikit",
+        "Chikito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346045
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b2bb7b8420f9e9a97065841465c76896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1293501785,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293501785,
+    "wof:lastmodified":1537675316,
+    "wof:name":"Chikito",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.9,
+    9.25,
+    12.9,
+    9.25
+],
+  "geometry": {"coordinates":[12.9,9.25],"type":"Point"}
+}

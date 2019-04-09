@@ -1,0 +1,68 @@
+{
+  "id": 1293630703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.87139,7.64111,3.87139,7.64111",
+    "geom:latitude":7.64111,
+    "geom:longitude":3.87139,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Ojutaiye",
+    "gn:country_code":"NG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327342,
+    "gn:latitude":7.64111,
+    "gn:longitude":3.87139,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ojutaiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327342
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb79da763116217f99cd667e02ce9430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1293630703,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293630703,
+    "wof:lastmodified":1537074650,
+    "wof:name":"Ojutaiye",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.87139,
+    7.64111,
+    3.87139,
+    7.64111
+],
+  "geometry": {"coordinates":[3.87139,7.64111],"type":"Point"}
+}

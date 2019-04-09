@@ -1,0 +1,73 @@
+{
+  "id": 1243403087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.13333,7.58333,4.13333,7.58333",
+    "geom:latitude":7.58333,
+    "geom:longitude":4.13333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31020.0",
+    "gn:asciiname":"Oguro",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327528,
+    "gn:latitude":7.58333,
+    "gn:longitude":4.13333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oguro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogunro",
+        "Oguro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327528
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0ba73abd00d078a488c2a33dd0f8c6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563881,
+            "locality_id":1243403087,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1243403087,
+    "wof:lastmodified":1537675048,
+    "wof:name":"Oguro",
+    "wof:parent_id":1108563881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.13333,
+    7.58333,
+    4.13333,
+    7.58333
+],
+  "geometry": {"coordinates":[4.13333,7.58333],"type":"Point"}
+}

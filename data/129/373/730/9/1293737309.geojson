@@ -1,0 +1,72 @@
+{
+  "id": 1293737309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.2986,8.91419,12.2986,8.91419",
+    "geom:latitude":8.91419,
+    "geom:longitude":12.2986,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Mbirai",
+    "gn:country_code":"NG",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330325,
+    "gn:latitude":8.91419,
+    "gn:longitude":12.2986,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbirai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Billa",
+        "Mbirai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330325
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e837e8a51bd0594f058c0112a4616bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1293737309,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293737309,
+    "wof:lastmodified":1537675094,
+    "wof:name":"Mbirai",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.2986,
+    8.91419,
+    12.2986,
+    8.91419
+],
+  "geometry": {"coordinates":[12.2986,8.91419],"type":"Point"}
+}

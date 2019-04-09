@@ -1,0 +1,71 @@
+{
+  "id": 1309938911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.12529,9.53559,9.12529,9.53559",
+    "geom:latitude":9.53559,
+    "geom:longitude":9.12529,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32011.0",
+    "gn:asciiname":"Gaude",
+    "gn:country_code":"NG",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341611,
+    "gn:latitude":9.53559,
+    "gn:longitude":9.12529,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Gaude",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gaude"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341611
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6e5ad5fd4f6d327fd9f098187f89f113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563941,
+            "locality_id":1309938911,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1309938911,
+    "wof:lastmodified":1537675253,
+    "wof:name":"Gaude",
+    "wof:parent_id":1108563941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.12529,
+    9.53559,
+    9.12529,
+    9.53559
+],
+  "geometry": {"coordinates":[9.12529,9.53559],"type":"Point"}
+}

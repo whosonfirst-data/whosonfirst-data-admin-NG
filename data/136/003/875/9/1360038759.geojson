@@ -1,0 +1,68 @@
+{
+  "id": 1360038759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.17894,8.7535,12.17894,8.7535",
+    "geom:latitude":8.7535,
+    "geom:longitude":12.17894,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Sarkin Yanma",
+    "gn:country_code":"NG",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323617,
+    "gn:latitude":8.7535,
+    "gn:longitude":12.17894,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sarkin Yanma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323617
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eac6152f45df9334fe76beae57655e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1360038759,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1360038759,
+    "wof:lastmodified":1537011895,
+    "wof:name":"Sarkin Yanma",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.17894,
+    8.7535,
+    12.17894,
+    8.7535
+],
+  "geometry": {"coordinates":[12.17894,8.7535],"type":"Point"}
+}

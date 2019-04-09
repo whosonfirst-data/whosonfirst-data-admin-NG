@@ -1,0 +1,63 @@
+{
+  "id": 1209548609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.55301,13.47822,5.55301,13.47822",
+    "geom:latitude":13.47822,
+    "geom:longitude":5.55301,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"605.0",
+    "gn:admin3_code":"60502",
+    "gn:asciiname":"Gidan Pawa",
+    "gn:country_code":"NG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012554,
+    "gn:latitude":13.47822,
+    "gn:longitude":5.55301,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Pawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012554
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dfdf0d6127ae3ce1b6cb229082fde4a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209548609
+        }
+    ],
+    "wof:id":1209548609,
+    "wof:lastmodified":1536283765,
+    "wof:name":"Gidan Pawa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.55301,
+    13.47822,
+    5.55301,
+    13.47822
+],
+  "geometry": {"coordinates":[5.55301,13.47822],"type":"Point"}
+}

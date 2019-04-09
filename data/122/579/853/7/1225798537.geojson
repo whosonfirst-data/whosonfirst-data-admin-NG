@@ -1,0 +1,72 @@
+{
+  "id": 1225798537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.13083,10.0576,13.13083,10.0576",
+    "geom:latitude":10.0576,
+    "geom:longitude":13.13083,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Wuro Kawu",
+    "gn:country_code":"NG",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318676,
+    "gn:latitude":10.0576,
+    "gn:longitude":13.13083,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Kawu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawu",
+        "Wuro Kawu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318676
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"facd6d62de19b4e6a34551af9cab7c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563927,
+            "locality_id":1225798537,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1225798537,
+    "wof:lastmodified":1537674909,
+    "wof:name":"Wuro Kawu",
+    "wof:parent_id":1108563927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.13083,
+    10.0576,
+    13.13083,
+    10.0576
+],
+  "geometry": {"coordinates":[13.13083,10.0576],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292962183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.16273,5.82001,7.16273,5.82001",
+    "geom:latitude":5.82001,
+    "geom:longitude":7.16273,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17006.0",
+    "gn:asciiname":"Umu Akam",
+    "gn:country_code":"NG",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320570,
+    "gn:latitude":5.82001,
+    "gn:longitude":7.16273,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umu Akam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umu Akan",
+        "Umu Akam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320570
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aace119b8be6011999c2839c97e70262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563521,
+            "locality_id":1292962183,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1292962183,
+    "wof:lastmodified":1537674951,
+    "wof:name":"Umu Akam",
+    "wof:parent_id":1108563521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.16273,
+    5.82001,
+    7.16273,
+    5.82001
+],
+  "geometry": {"coordinates":[7.16273,5.82001],"type":"Point"}
+}

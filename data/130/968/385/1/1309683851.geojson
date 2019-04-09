@@ -1,0 +1,72 @@
+{
+  "id": 1309683851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.48842,6.76413,3.48842,6.76413",
+    "geom:latitude":6.76413,
+    "geom:longitude":3.48842,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28020.0",
+    "gn:asciiname":"Shimawa",
+    "gn:country_code":"NG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323009,
+    "gn:latitude":6.76413,
+    "gn:longitude":3.48842,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shimawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simawa",
+        "Shimawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108564341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323009
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5f9b8230274545737d3d016583cffadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564341,
+            "locality_id":1309683851,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1309683851,
+    "wof:lastmodified":1537674984,
+    "wof:name":"Shimawa",
+    "wof:parent_id":1108564341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.48842,
+    6.76413,
+    3.48842,
+    6.76413
+],
+  "geometry": {"coordinates":[3.48842,6.76413],"type":"Point"}
+}

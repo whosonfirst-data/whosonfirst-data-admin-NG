@@ -1,0 +1,62 @@
+{
+  "id": 1209046751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.09811,10.02246,12.09811,10.02246",
+    "geom:latitude":10.02246,
+    "geom:longitude":12.09811,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2017.0",
+    "gn:asciiname":"Ruhul",
+    "gn:country_code":"NG",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324337,
+    "gn:latitude":10.02246,
+    "gn:longitude":12.09811,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ruhul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324337
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"18d805b4957f8fb8dbfdcee258baacd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209046751
+        }
+    ],
+    "wof:id":1209046751,
+    "wof:lastmodified":1536299373,
+    "wof:name":"Ruhul",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.09811,
+    10.02246,
+    12.09811,
+    10.02246
+],
+  "geometry": {"coordinates":[12.09811,10.02246],"type":"Point"}
+}

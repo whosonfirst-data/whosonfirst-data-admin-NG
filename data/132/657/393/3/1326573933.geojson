@@ -1,0 +1,73 @@
+{
+  "id": 1326573933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.75,9.53333,12.75,9.53333",
+    "geom:latitude":9.53333,
+    "geom:longitude":12.75,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Wuro Yolde",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318569,
+    "gn:latitude":9.53333,
+    "gn:longitude":12.75,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Yolde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yolde",
+        "Wuro Yolde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318569
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1bedc660a00bb49c48be3997b6096003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1326573933,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1326573933,
+    "wof:lastmodified":1537674907,
+    "wof:name":"Wuro Yolde",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.75,
+    9.53333,
+    12.75,
+    9.53333
+],
+  "geometry": {"coordinates":[12.75,9.53333],"type":"Point"}
+}

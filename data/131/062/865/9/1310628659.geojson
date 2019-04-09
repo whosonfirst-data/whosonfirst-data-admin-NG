@@ -1,0 +1,71 @@
+{
+  "id": 1310628659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98359,4.4402,5.98359,4.4402",
+    "geom:latitude":4.4402,
+    "geom:longitude":5.98359,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Akaragbene",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040424,
+    "gn:latitude":4.4402,
+    "gn:longitude":5.98359,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Akaragbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akaragbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040424
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"efbb23230a8e9a202cd9a841e66e3779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564377,
+            "locality_id":1310628659,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1310628659,
+    "wof:lastmodified":1537675433,
+    "wof:name":"Akaragbene",
+    "wof:parent_id":1108564377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98359,
+    4.4402,
+    5.98359,
+    4.4402
+],
+  "geometry": {"coordinates":[5.98359,4.4402],"type":"Point"}
+}

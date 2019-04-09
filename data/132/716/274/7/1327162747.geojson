@@ -1,0 +1,67 @@
+{
+  "id": 1327162747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43871,13.15671,6.43871,13.15671",
+    "geom:latitude":13.15671,
+    "geom:longitude":6.43871,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Tukudawa",
+    "gn:country_code":"NG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321587,
+    "gn:latitude":13.15671,
+    "gn:longitude":6.43871,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Tukudawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321587
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f345b13d59aba09d7ba4306b0cb16066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563663,
+            "locality_id":1327162747,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1327162747,
+    "wof:lastmodified":1537067363,
+    "wof:name":"Tukudawa",
+    "wof:parent_id":1108563663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43871,
+    13.15671,
+    6.43871,
+    13.15671
+],
+  "geometry": {"coordinates":[6.43871,13.15671],"type":"Point"}
+}

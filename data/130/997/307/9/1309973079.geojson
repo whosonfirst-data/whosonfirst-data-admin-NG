@@ -1,0 +1,68 @@
+{
+  "id": 1309973079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.63711,6.89817,9.63711,6.89817",
+    "geom:latitude":6.89817,
+    "geom:longitude":9.63711,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011.0",
+    "gn:asciiname":"Ayama",
+    "gn:country_code":"NG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348688,
+    "gn:latitude":6.89817,
+    "gn:longitude":9.63711,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ayama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348688
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"35ae7bb1306fc0e29da36a3a671dc87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1309973079,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1309973079,
+    "wof:lastmodified":1536690239,
+    "wof:name":"Ayama",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.63711,
+    6.89817,
+    9.63711,
+    6.89817
+],
+  "geometry": {"coordinates":[9.63711,6.89817],"type":"Point"}
+}

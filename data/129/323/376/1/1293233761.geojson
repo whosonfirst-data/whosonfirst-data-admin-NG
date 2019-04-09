@@ -1,0 +1,68 @@
+{
+  "id": 1293233761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.29192,8.96916,11.29192,8.96916",
+    "geom:latitude":8.96916,
+    "geom:longitude":11.29192,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007",
+    "gn:asciiname":"Yazan",
+    "gn:country_code":"NG",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871156,
+    "gn:latitude":8.96916,
+    "gn:longitude":11.29192,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yazan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        421183191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871156
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd7772a3a1e3af58a4061d29a34002b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183191,
+            "locality_id":1293233761,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293233761,
+    "wof:lastmodified":1536655987,
+    "wof:name":"Yazan",
+    "wof:parent_id":421183191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.29192,
+    8.96916,
+    11.29192,
+    8.96916
+],
+  "geometry": {"coordinates":[11.29192,8.96916],"type":"Point"}
+}

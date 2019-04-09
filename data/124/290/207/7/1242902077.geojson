@@ -1,0 +1,68 @@
+{
+  "id": 1242902077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.20944,6.15846,8.20944,6.15846",
+    "geom:latitude":6.15846,
+    "geom:longitude":8.20944,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11007",
+    "gn:asciiname":"Inyibichiri",
+    "gn:country_code":"NG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274817,
+    "gn:latitude":6.15846,
+    "gn:longitude":8.20944,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Inyibichiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274817
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"869fc30b2b3fd30f11e64acad824c21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563613,
+            "locality_id":1242902077,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1242902077,
+    "wof:lastmodified":1537090217,
+    "wof:name":"Inyibichiri",
+    "wof:parent_id":1108563613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.20944,
+    6.15846,
+    8.20944,
+    6.15846
+],
+  "geometry": {"coordinates":[8.20944,6.15846],"type":"Point"}
+}

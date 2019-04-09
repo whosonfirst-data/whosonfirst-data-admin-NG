@@ -1,0 +1,73 @@
+{
+  "id": 1276363253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1233,12.63792,5.1233,12.63792",
+    "geom:latitude":12.63792,
+    "geom:longitude":5.1233,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"614.0",
+    "gn:admin3_code":"61407",
+    "gn:asciiname":"Dundeji",
+    "gn:country_code":"NG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345407,
+    "gn:latitude":12.63792,
+    "gn:longitude":5.1233,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dundeji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dandaji",
+        "Dundeji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108564343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345407
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d8e42309ff70d56ac8979d4738c9818a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564343,
+            "locality_id":1276363253,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1276363253,
+    "wof:lastmodified":1537675309,
+    "wof:name":"Dundeji",
+    "wof:parent_id":1108564343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1233,
+    12.63792,
+    5.1233,
+    12.63792
+],
+  "geometry": {"coordinates":[5.1233,12.63792],"type":"Point"}
+}

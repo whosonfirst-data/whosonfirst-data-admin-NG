@@ -1,0 +1,65 @@
+{
+  "id": 1209466589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.30648,6.69898,6.30648,6.69898",
+    "geom:latitude":6.69898,
+    "geom:longitude":6.30648,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Ekomodda",
+    "gn:country_code":"NG",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343680,
+    "gn:latitude":6.69898,
+    "gn:longitude":6.30648,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekomodda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ekomodda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343680
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b851cc78d8ad9b462d6a223f2fc232c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209466589
+        }
+    ],
+    "wof:id":1209466589,
+    "wof:lastmodified":1537675281,
+    "wof:name":"Ekomodda",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.30648,
+    6.69898,
+    6.30648,
+    6.69898
+],
+  "geometry": {"coordinates":[6.30648,6.69898],"type":"Point"}
+}

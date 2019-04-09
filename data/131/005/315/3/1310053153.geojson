@@ -1,0 +1,68 @@
+{
+  "id": 1310053153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8212,7.28361,8.8212,7.28361",
+    "geom:latitude":7.28361,
+    "geom:longitude":8.8212,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Taave",
+    "gn:country_code":"NG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974814,
+    "gn:latitude":7.28361,
+    "gn:longitude":8.8212,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Taave",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974814
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a8f292d1182765a3c6737cb1ac385bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1310053153,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1310053153,
+    "wof:lastmodified":1537069037,
+    "wof:name":"Taave",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8212,
+    7.28361,
+    8.8212,
+    7.28361
+],
+  "geometry": {"coordinates":[8.8212,7.28361],"type":"Point"}
+}

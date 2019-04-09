@@ -1,0 +1,73 @@
+{
+  "id": 1193205427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.58333,7.66667,3.58333,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":3.58333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31012.0",
+    "gn:asciiname":"Ogbontosa",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327726,
+    "gn:latitude":7.66667,
+    "gn:longitude":3.58333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogbontosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akinbode",
+        "Ogbontosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327726
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7bca3661a8461432287174eec23b3646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563501,
+            "locality_id":1193205427,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1193205427,
+    "wof:lastmodified":1537675052,
+    "wof:name":"Ogbontosa",
+    "wof:parent_id":1108563501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.58333,
+    7.66667,
+    3.58333,
+    7.66667
+],
+  "geometry": {"coordinates":[3.58333,7.66667],"type":"Point"}
+}

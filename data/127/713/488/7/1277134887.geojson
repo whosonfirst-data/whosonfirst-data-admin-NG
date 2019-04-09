@@ -1,0 +1,67 @@
+{
+  "id": 1277134887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.12322,11.40094,8.12322,11.40094",
+    "geom:latitude":11.40094,
+    "geom:longitude":8.12322,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Gidan Garbari",
+    "gn:country_code":"NG",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7066686,
+    "gn:latitude":11.40094,
+    "gn:longitude":8.12322,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gidan Garbari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7066686
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"409bd3514c2d776655180c81dd30db3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563589,
+            "locality_id":1277134887,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1277134887,
+    "wof:lastmodified":1536692804,
+    "wof:name":"Gidan Garbari",
+    "wof:parent_id":1108563589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.12322,
+    11.40094,
+    8.12322,
+    11.40094
+],
+  "geometry": {"coordinates":[8.12322,11.40094],"type":"Point"}
+}

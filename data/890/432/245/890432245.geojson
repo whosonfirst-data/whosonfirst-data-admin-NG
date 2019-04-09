@@ -1,0 +1,87 @@
+{
+  "id": 890432245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28333,9.21667,11.28333,9.21667",
+    "geom:latitude":9.21667,
+    "geom:longitude":11.28333,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:pop":12657,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Lau"
+    ],
+    "name:fre_x_preferred":[
+        "Lau"
+    ],
+    "name:glg_x_preferred":[
+        "Lau"
+    ],
+    "name:ita_x_preferred":[
+        "Lau"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u060c \u0646\u0627\u0626\u062c\u0631\u06cc\u0627"
+    ],
+    "name:yor_x_preferred":[
+        "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Lau"
+    ],
+    "qs:name":"Lau",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332197,
+        "gp:id":1399019,
+        "qs:id":278504,
+        "wd:id":"Q6497586",
+        "wk:page":"Lau"
+    },
+    "wof:country":"NG",
+    "wof:created":1469051933,
+    "wof:geomhash":"ce0d3eacc3957ccd1c93d829145b15de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":890432245,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":890432245,
+    "wof:lastmodified":1527793033,
+    "wof:name":"Lau",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:population":12657,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28333,
+    9.21667,
+    11.28333,
+    9.21667
+],
+  "geometry": {"coordinates":[11.28333,9.21667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243484045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.36219,11.25888,6.36219,11.25888",
+    "geom:latitude":11.25888,
+    "geom:longitude":6.36219,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"810.0",
+    "gn:admin3_code":"81007",
+    "gn:asciiname":"Baba-Doka",
+    "gn:country_code":"NG",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348542,
+    "gn:latitude":11.25888,
+    "gn:longitude":6.36219,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Baba-Doka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungwan Dangaladima",
+        "Baba-Doka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348542
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f877673220a038ec674f1104df72aefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563953,
+            "locality_id":1243484045,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1243484045,
+    "wof:lastmodified":1537675346,
+    "wof:name":"Baba-Doka",
+    "wof:parent_id":1108563953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.36219,
+    11.25888,
+    6.36219,
+    11.25888
+],
+  "geometry": {"coordinates":[6.36219,11.25888],"type":"Point"}
+}

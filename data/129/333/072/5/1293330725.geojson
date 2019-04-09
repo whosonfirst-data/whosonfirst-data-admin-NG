@@ -1,0 +1,68 @@
+{
+  "id": 1293330725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98626,8.68233,11.98626,8.68233",
+    "geom:latitude":8.68233,
+    "geom:longitude":11.98626,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Gangtuben",
+    "gn:country_code":"NG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342033,
+    "gn:latitude":8.68233,
+    "gn:longitude":11.98626,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gangtuben",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342033
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"82b189ae8a0a2c6821629a276ab4d2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1293330725,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293330725,
+    "wof:lastmodified":1537012246,
+    "wof:name":"Gangtuben",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98626,
+    8.68233,
+    11.98626,
+    8.68233
+],
+  "geometry": {"coordinates":[11.98626,8.68233],"type":"Point"}
+}

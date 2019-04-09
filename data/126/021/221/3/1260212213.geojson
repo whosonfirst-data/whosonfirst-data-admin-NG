@@ -1,0 +1,70 @@
+{
+  "id": 1260212213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.53608,9.39347,11.53608,9.39347",
+    "geom:latitude":9.39347,
+    "geom:longitude":11.53608,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Kpoi",
+    "gn:country_code":"NG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209208,
+    "gn:latitude":9.39347,
+    "gn:longitude":11.53608,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kpoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kpoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209208
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c51bc4f4e8962349684e9a1aab96a832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563897,
+            "locality_id":1260212213,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1260212213,
+    "wof:lastmodified":1537675497,
+    "wof:name":"Kpoi",
+    "wof:parent_id":1108563897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.53608,
+    9.39347,
+    11.53608,
+    9.39347
+],
+  "geometry": {"coordinates":[11.53608,9.39347],"type":"Point"}
+}

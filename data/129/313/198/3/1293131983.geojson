@@ -1,0 +1,68 @@
+{
+  "id": 1293131983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.44271,4.88033,7.44271,4.88033",
+    "geom:latitude":4.88033,
+    "geom:longitude":7.44271,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Obakwu",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7052702,
+    "gn:latitude":4.88033,
+    "gn:longitude":7.44271,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obakwu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7052702
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6c093cad56802be8e667a5c6b7792e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564453,
+            "locality_id":1293131983,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1293131983,
+    "wof:lastmodified":1536802665,
+    "wof:name":"Obakwu",
+    "wof:parent_id":1108564453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.44271,
+    4.88033,
+    7.44271,
+    4.88033
+],
+  "geometry": {"coordinates":[7.44271,4.88033],"type":"Point"}
+}

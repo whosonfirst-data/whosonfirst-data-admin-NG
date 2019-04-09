@@ -1,0 +1,68 @@
+{
+  "id": 1310038793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.79309,7.72802,5.79309,7.72802",
+    "geom:latitude":7.72802,
+    "geom:longitude":5.79309,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29002.0",
+    "gn:asciiname":"Eriti",
+    "gn:country_code":"NG",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343174,
+    "gn:latitude":7.72802,
+    "gn:longitude":5.79309,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eriti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343174
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4113cdbd41c550516b9cca9c5e5ebbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562971,
+            "locality_id":1310038793,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1310038793,
+    "wof:lastmodified":1537089518,
+    "wof:name":"Eriti",
+    "wof:parent_id":1108562971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.79309,
+    7.72802,
+    5.79309,
+    7.72802
+],
+  "geometry": {"coordinates":[5.79309,7.72802],"type":"Point"}
+}

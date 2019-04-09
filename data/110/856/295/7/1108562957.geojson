@@ -1,0 +1,90 @@
+{
+  "id": 1108562957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001001,
+    "geom:area_square_m":12298327.273777,
+    "geom:bbox":"3.31646633973,6.43487136831,3.35726633973,6.47487136831",
+    "geom:latitude":6.45355,
+    "geom:longitude":3.337495,
+    "iso:country":"NG",
+    "lbl:latitude":6.453449,
+    "lbl:longitude":3.337107,
+    "meso:adm1_name":"Lagos",
+    "meso:diss_me":"Ajeromi-IfelodunLagos",
+    "meso:gadm_admin":"Ajeromi/Ifelodun",
+    "meso:gaul_admin":"Ojo",
+    "meso:hasc_id":"NG.LA.AI",
+    "meso:mps_x":3.337107,
+    "meso:mps_y":6.453449,
+    "meso:name_local":"Ajeromi-Ifelodun",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":6.453449,
+    "mps:longitude":3.337107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ajeromi-Ifelodun"
+    ],
+    "name:eng_x_variant":[
+        "Ojo",
+        "Ajeromi/Ifelodun"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"12.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Ajeromi/Ifelodun",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.LA",
+    "statoids:name":"Ajeromi-Ifelodun",
+    "statoids:population":"684105",
+    "statoids:statoid":"NG.LA.AI",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.LA.AI"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057375,
+    "wof:geomhash":"d3b8b05a7bf01e1ceb8da53ba8a608cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1108562957,
+    "wof:lastmodified":1536615193,
+    "wof:name":"Ajeromi-Ifelodun",
+    "wof:parent_id":85675343,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":684105,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"AI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.31646633973258,
+    6.43487136831212,
+    3.3572663397326,
+    6.47487136831211
+],
+  "geometry": {"coordinates":[[[3.31646633973258,6.45907136831212],[3.3210663397326,6.46037136831213],[3.33546633973258,6.47047136831212],[3.33976633973264,6.47337136831217],[3.34166633973264,6.47487136831211],[3.34536633973263,6.47057136831213],[3.34866633973264,6.46567136831216],[3.34886633973258,6.4620713683121],[3.35696633973265,6.46257136831217],[3.3572663397326,6.45687136831217],[3.35696633973265,6.4525713683121],[3.35236633973263,6.45187136831218],[3.35236633973263,6.44757136831211],[3.35046633973263,6.44357136831218],[3.34976633973262,6.4353713683121],[3.34506633973258,6.43487136831212],[3.34126633973258,6.43607136831211],[3.3388663397326,6.43637136831215],[3.33556633973259,6.43877136831213],[3.32966633973256,6.44007136831213],[3.32316633973263,6.44127136831212],[3.32056633973262,6.44447136831213],[3.3191663397326,6.44917136831216],[3.31776633973259,6.45167136831216],[3.31646633973258,6.45467136831213],[3.31646633973258,6.45907136831212]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226012451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.98444,6.25704,6.98444,6.25704",
+    "geom:latitude":6.25704,
+    "geom:longitude":6.98444,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4008.0",
+    "gn:asciiname":"Norgu",
+    "gn:country_code":"NG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328758,
+    "gn:latitude":6.25704,
+    "gn:longitude":6.98444,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Norgu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nogu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328758
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"30edfc8a85438200583926c9f59e3ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563245,
+            "locality_id":1226012451,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1226012451,
+    "wof:lastmodified":1537675070,
+    "wof:name":"Norgu",
+    "wof:parent_id":1108563245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.98444,
+    6.25704,
+    6.98444,
+    6.25704
+],
+  "geometry": {"coordinates":[6.98444,6.25704],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260212025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.49286,10.46701,5.49286,10.46701",
+    "geom:latitude":10.46701,
+    "geom:longitude":5.49286,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27011.0",
+    "gn:asciiname":"Udara",
+    "gn:country_code":"NG",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320984,
+    "gn:latitude":10.46701,
+    "gn:longitude":5.49286,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Udara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Udora",
+        "Udara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320984
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d152f691354c37b8c835979b632d82e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563841,
+            "locality_id":1260212025,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1260212025,
+    "wof:lastmodified":1537674960,
+    "wof:name":"Udara",
+    "wof:parent_id":1108563841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.49286,
+    10.46701,
+    5.49286,
+    10.46701
+],
+  "geometry": {"coordinates":[5.49286,10.46701],"type":"Point"}
+}

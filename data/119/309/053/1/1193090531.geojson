@@ -1,0 +1,68 @@
+{
+  "id": 1193090531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.89525,8.8431,11.89525,8.8431",
+    "geom:latitude":8.8431,
+    "geom:longitude":11.89525,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Bura Yamsi",
+    "gn:country_code":"NG",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866617,
+    "gn:latitude":8.8431,
+    "gn:longitude":11.89525,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bura Yamsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866617
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b848f7cb1893bfe8ecdee5b929212de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1193090531,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193090531,
+    "wof:lastmodified":1536371148,
+    "wof:name":"Bura Yamsi",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.89525,
+    8.8431,
+    11.89525,
+    8.8431
+],
+  "geometry": {"coordinates":[11.89525,8.8431],"type":"Point"}
+}

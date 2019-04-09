@@ -1,0 +1,68 @@
+{
+  "id": 1309739693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1131,7.2215,5.1131,7.2215",
+    "geom:latitude":7.2215,
+    "geom:longitude":5.1131,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29006.0",
+    "gn:asciiname":"Alabidon",
+    "gn:country_code":"NG",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832935,
+    "gn:latitude":7.2215,
+    "gn:longitude":5.1131,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alabidon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832935
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"982f2c72c9c245933802512e703472f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562987,
+            "locality_id":1309739693,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1309739693,
+    "wof:lastmodified":1537025391,
+    "wof:name":"Alabidon",
+    "wof:parent_id":1108562987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1131,
+    7.2215,
+    5.1131,
+    7.2215
+],
+  "geometry": {"coordinates":[5.1131,7.2215],"type":"Point"}
+}

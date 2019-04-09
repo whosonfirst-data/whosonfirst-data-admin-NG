@@ -1,0 +1,68 @@
+{
+  "id": 1343905687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.71409,7.12116,8.71409,7.12116",
+    "geom:latitude":7.12116,
+    "geom:longitude":8.71409,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Uanshu",
+    "gn:country_code":"NG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321069,
+    "gn:latitude":7.12116,
+    "gn:longitude":8.71409,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uanshu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321069
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"28ca6eea285e96bdbdde703f3ff4db84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1343905687,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343905687,
+    "wof:lastmodified":1537095866,
+    "wof:name":"Uanshu",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.71409,
+    7.12116,
+    8.71409,
+    7.12116
+],
+  "geometry": {"coordinates":[8.71409,7.12116],"type":"Point"}
+}

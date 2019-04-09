@@ -1,0 +1,73 @@
+{
+  "id": 1242638371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84406,12.21017,8.84406,12.21017",
+    "geom:latitude":12.21017,
+    "geom:longitude":8.84406,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20016.0",
+    "gn:admin3_code":"KN1302",
+    "gn:asciiname":"Garin Danga",
+    "gn:country_code":"NG",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341076,
+    "gn:latitude":12.21017,
+    "gn:longitude":8.84406,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garin Danga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Danga",
+        "Garin Danga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341076
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c003ce5d3bfee38a72288d89efc0b22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563379,
+            "locality_id":1242638371,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1242638371,
+    "wof:lastmodified":1537675242,
+    "wof:name":"Garin Danga",
+    "wof:parent_id":1108563379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84406,
+    12.21017,
+    8.84406,
+    12.21017
+],
+  "geometry": {"coordinates":[8.84406,12.21017],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343791547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.9732,10.28899,10.9732,10.28899",
+    "geom:latitude":10.28899,
+    "geom:longitude":10.9732,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16001.0",
+    "gn:asciiname":"Akko",
+    "gn:country_code":"NG",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351027,
+    "gn:latitude":10.28899,
+    "gn:longitude":10.9732,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akko",
+    "gn:population":6129,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akko"
+    ],
+    "name:eng_x_variant":[
+        "Ako"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351027,
+        "wk:page":"Akko,_Nigeria"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1a4e6c04918a375b4b46a37ea65d1054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1343791547,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1343791547,
+    "wof:lastmodified":1537675376,
+    "wof:name":"Akko",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:population":6129,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.9732,
+    10.28899,
+    10.9732,
+    10.28899
+],
+  "geometry": {"coordinates":[10.9732,10.28899],"type":"Point"}
+}

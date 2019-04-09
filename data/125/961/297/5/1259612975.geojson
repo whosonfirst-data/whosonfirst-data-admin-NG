@@ -1,0 +1,74 @@
+{
+  "id": 1259612975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.16752,9.5652,9.16752,9.5652",
+    "geom:latitude":9.5652,
+    "geom:longitude":9.16752,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32011.0",
+    "gn:asciiname":"Hausawa",
+    "gn:country_code":"NG",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345317,
+    "gn:latitude":9.5652,
+    "gn:longitude":9.16752,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hausawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hausawa"
+    ],
+    "name:eng_x_variant":[
+        "Dan Hausa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345317
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"89d49eba19ab410a3e2015816e3fa536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563941,
+            "locality_id":1259612975,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259612975,
+    "wof:lastmodified":1537675308,
+    "wof:name":"Hausawa",
+    "wof:parent_id":1108563941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.16752,
+    9.5652,
+    9.16752,
+    9.5652
+],
+  "geometry": {"coordinates":[9.16752,9.5652],"type":"Point"}
+}

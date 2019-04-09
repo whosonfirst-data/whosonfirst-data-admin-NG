@@ -1,0 +1,71 @@
+{
+  "id": 1327362189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.49915,4.83457,5.49915,4.83457",
+    "geom:latitude":4.83457,
+    "geom:longitude":5.49915,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Bibi",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7041499,
+    "gn:latitude":4.83457,
+    "gn:longitude":5.49915,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Bibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7041499
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc1aea00447a3963714ad193319fba81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563285,
+            "locality_id":1327362189,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1327362189,
+    "wof:lastmodified":1537675447,
+    "wof:name":"Bibi",
+    "wof:parent_id":1108563285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.49915,
+    4.83457,
+    5.49915,
+    4.83457
+],
+  "geometry": {"coordinates":[5.49915,4.83457],"type":"Point"}
+}

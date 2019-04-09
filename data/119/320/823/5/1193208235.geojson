@@ -1,0 +1,68 @@
+{
+  "id": 1193208235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36562,8.9387,12.36562,8.9387",
+    "geom:latitude":8.9387,
+    "geom:longitude":12.36562,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002",
+    "gn:asciiname":"Lumo",
+    "gn:country_code":"NG",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10419865,
+    "gn:latitude":8.9387,
+    "gn:longitude":12.36562,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10419865
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5537adfe19526548698a35f9559734d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1193208235,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1193208235,
+    "wof:lastmodified":1536366036,
+    "wof:name":"Lumo",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36562,
+    8.9387,
+    12.36562,
+    8.9387
+],
+  "geometry": {"coordinates":[12.36562,8.9387],"type":"Point"}
+}

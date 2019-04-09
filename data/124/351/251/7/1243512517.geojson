@@ -1,0 +1,67 @@
+{
+  "id": 1243512517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65033,10.67227,8.65033,10.67227",
+    "geom:latitude":10.67227,
+    "geom:longitude":8.65033,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ragada",
+    "gn:country_code":"NG",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324637,
+    "gn:latitude":10.67227,
+    "gn:longitude":8.65033,
+    "gn:modification_date":"2009-05-12",
+    "gn:name":"Ragada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324637
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"829ea982a8d1025b49507d4c4a3bf8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563235,
+            "locality_id":1243512517,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1243512517,
+    "wof:lastmodified":1536710706,
+    "wof:name":"Ragada",
+    "wof:parent_id":1108563235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65033,
+    10.67227,
+    8.65033,
+    10.67227
+],
+  "geometry": {"coordinates":[8.65033,10.67227],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209151329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.10801,5.67936,5.10801,5.67936",
+    "geom:latitude":5.67936,
+    "geom:longitude":5.10801,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Fonshi",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121980,
+    "gn:latitude":5.67936,
+    "gn:longitude":5.10801,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Fonshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fonshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121980
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4396a9dfe9dfeea0b817bed01ca5861f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209151329
+        }
+    ],
+    "wof:id":1209151329,
+    "wof:lastmodified":1537675478,
+    "wof:name":"Fonshi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.10801,
+    5.67936,
+    5.10801,
+    5.67936
+],
+  "geometry": {"coordinates":[5.10801,5.67936],"type":"Point"}
+}

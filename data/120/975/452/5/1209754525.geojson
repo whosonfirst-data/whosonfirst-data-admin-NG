@@ -1,0 +1,72 @@
+{
+  "id": 1209754525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85451,5.56646,5.85451,5.56646",
+    "geom:latitude":5.56646,
+    "geom:longitude":5.85451,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Ohrerhe",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327691,
+    "gn:latitude":5.56646,
+    "gn:longitude":5.85451,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ohrerhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oghrerhe",
+        "Ohrerhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327691
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9f3523c39889000f8b1b70ff7cf4a049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1209754525,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1209754525,
+    "wof:lastmodified":1537675051,
+    "wof:name":"Ohrerhe",
+    "wof:parent_id":1108564439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85451,
+    5.56646,
+    5.85451,
+    5.56646
+],
+  "geometry": {"coordinates":[5.85451,5.56646],"type":"Point"}
+}

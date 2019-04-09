@@ -1,0 +1,72 @@
+{
+  "id": 1343387723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.22674,10.42989,11.22674,10.42989",
+    "geom:latitude":10.42989,
+    "geom:longitude":11.22674,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16008.0",
+    "gn:asciiname":"Doho",
+    "gn:country_code":"NG",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344649,
+    "gn:latitude":10.42989,
+    "gn:longitude":11.22674,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Doho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doko",
+        "Doho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344649
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d7645a44b67b95d6e22fc45a1b512697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563871,
+            "locality_id":1343387723,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1343387723,
+    "wof:lastmodified":1537675299,
+    "wof:name":"Doho",
+    "wof:parent_id":1108563871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.22674,
+    10.42989,
+    11.22674,
+    10.42989
+],
+  "geometry": {"coordinates":[11.22674,10.42989],"type":"Point"}
+}

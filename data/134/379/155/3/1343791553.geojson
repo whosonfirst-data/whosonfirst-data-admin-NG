@@ -1,0 +1,68 @@
+{
+  "id": 1343791553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.77017,9.17047,5.77017,9.17047",
+    "geom:latitude":9.17047,
+    "geom:longitude":5.77017,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27013",
+    "gn:asciiname":"Lukoro",
+    "gn:country_code":"NG",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308803,
+    "gn:latitude":9.17047,
+    "gn:longitude":5.77017,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lukoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308803
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"942ab7cff0c7f5adb64d9b455837a908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563899,
+            "locality_id":1343791553,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343791553,
+    "wof:lastmodified":1536766620,
+    "wof:name":"Lukoro",
+    "wof:parent_id":1108563899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77017,
+    9.17047,
+    5.77017,
+    9.17047
+],
+  "geometry": {"coordinates":[5.77017,9.17047],"type":"Point"}
+}

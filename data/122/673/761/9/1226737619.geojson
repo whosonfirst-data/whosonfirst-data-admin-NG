@@ -1,0 +1,73 @@
+{
+  "id": 1226737619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.325,8.65167,7.325,8.65167",
+    "geom:latitude":8.65167,
+    "geom:longitude":7.325,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15004.0",
+    "gn:asciiname":"Tagwar",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322625,
+    "gn:latitude":8.65167,
+    "gn:longitude":7.325,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tagwar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagwai",
+        "Tagwar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675457,
+        1108563851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322625
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0b660aa4da9152136f016a5cb61b5e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563851,
+            "locality_id":1226737619,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1226737619,
+    "wof:lastmodified":1537674979,
+    "wof:name":"Tagwar",
+    "wof:parent_id":1108563851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.325,
+    8.65167,
+    7.325,
+    8.65167
+],
+  "geometry": {"coordinates":[7.325,8.65167],"type":"Point"}
+}

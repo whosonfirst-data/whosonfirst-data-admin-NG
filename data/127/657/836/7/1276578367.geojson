@@ -1,0 +1,68 @@
+{
+  "id": 1276578367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.38241,8.87268,11.38241,8.87268",
+    "geom:latitude":8.87268,
+    "geom:longitude":11.38241,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007",
+    "gn:asciiname":"Tanvo",
+    "gn:country_code":"NG",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10876159,
+    "gn:latitude":8.87268,
+    "gn:longitude":11.38241,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tanvo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        421183191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10876159
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb2077e7c237a082bc60623a915d82b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183191,
+            "locality_id":1276578367,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276578367,
+    "wof:lastmodified":1536948426,
+    "wof:name":"Tanvo",
+    "wof:parent_id":421183191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.38241,
+    8.87268,
+    11.38241,
+    8.87268
+],
+  "geometry": {"coordinates":[11.38241,8.87268],"type":"Point"}
+}

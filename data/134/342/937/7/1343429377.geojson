@@ -1,0 +1,67 @@
+{
+  "id": 1343429377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.76131,10.63783,8.76131,10.63783",
+    "geom:latitude":10.63783,
+    "geom:longitude":8.76131,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Maganda",
+    "gn:country_code":"NG",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331574,
+    "gn:latitude":10.63783,
+    "gn:longitude":8.76131,
+    "gn:modification_date":"2009-05-11",
+    "gn:name":"Maganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331574
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a3b48c4e6b90118aa99641545091df0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563235,
+            "locality_id":1343429377,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1343429377,
+    "wof:lastmodified":1536791576,
+    "wof:name":"Maganda",
+    "wof:parent_id":1108563235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.76131,
+    10.63783,
+    8.76131,
+    10.63783
+],
+  "geometry": {"coordinates":[8.76131,10.63783],"type":"Point"}
+}

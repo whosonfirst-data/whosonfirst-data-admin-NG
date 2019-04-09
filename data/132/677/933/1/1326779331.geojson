@@ -1,0 +1,68 @@
+{
+  "id": 1326779331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48333,8.01667,4.48333,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":4.48333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31033.0",
+    "gn:asciiname":"Elebe",
+    "gn:country_code":"NG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343581,
+    "gn:latitude":8.01667,
+    "gn:longitude":4.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Elebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343581
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d1514152f9cd65e5749b00d0fa14ea64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564385,
+            "locality_id":1326779331,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1326779331,
+    "wof:lastmodified":1536626087,
+    "wof:name":"Elebe",
+    "wof:parent_id":1108564385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48333,
+    8.01667,
+    4.48333,
+    8.01667
+],
+  "geometry": {"coordinates":[4.48333,8.01667],"type":"Point"}
+}

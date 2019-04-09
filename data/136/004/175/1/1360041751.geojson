@@ -1,0 +1,68 @@
+{
+  "id": 1360041751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.65474,6.4703,8.65474,6.4703",
+    "geom:latitude":6.4703,
+    "geom:longitude":8.65474,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9016",
+    "gn:asciiname":"Edep",
+    "gn:country_code":"NG",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9195430,
+    "gn:latitude":6.4703,
+    "gn:longitude":8.65474,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Edep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9195430
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cdf227cffc406d01f0bdfa76acb4a8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564121,
+            "locality_id":1360041751,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1360041751,
+    "wof:lastmodified":1537007590,
+    "wof:name":"Edep",
+    "wof:parent_id":1108564121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.65474,
+    6.4703,
+    8.65474,
+    6.4703
+],
+  "geometry": {"coordinates":[8.65474,6.4703],"type":"Point"}
+}

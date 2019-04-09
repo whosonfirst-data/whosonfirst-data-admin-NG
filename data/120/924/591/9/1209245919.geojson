@@ -1,0 +1,69 @@
+{
+  "id": 1209245919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.0052,9.01221,10.0052,9.01221",
+    "geom:latitude":9.01221,
+    "geom:longitude":10.0052,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32017.0",
+    "gn:asciiname":"Birnin Riliy",
+    "gn:country_code":"NG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347048,
+    "gn:latitude":9.01221,
+    "gn:longitude":10.0052,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Birnin Riliy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Birnin Riliy"
+    ],
+    "name:und_x_variant":[
+        "Rijiy",
+        "Birnin Rijiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347048
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7c97da4c52f227280f2de87400515dc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209245919
+        }
+    ],
+    "wof:id":1209245919,
+    "wof:lastmodified":1537675329,
+    "wof:name":"Birnin Riliy",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.0052,
+    9.01221,
+    10.0052,
+    9.01221
+],
+  "geometry": {"coordinates":[10.0052,9.01221],"type":"Point"}
+}

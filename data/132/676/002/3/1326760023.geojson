@@ -1,0 +1,72 @@
+{
+  "id": 1326760023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68513,9.13042,6.68513,9.13042",
+    "geom:latitude":9.13042,
+    "geom:longitude":6.68513,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27012.0",
+    "gn:asciiname":"Bachida",
+    "gn:country_code":"NG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348415,
+    "gn:latitude":9.13042,
+    "gn:longitude":6.68513,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bachida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbachida",
+        "Bachida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348415
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"156ab405ab4289a099b74767cf09238f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563895,
+            "locality_id":1326760023,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1326760023,
+    "wof:lastmodified":1537675345,
+    "wof:name":"Bachida",
+    "wof:parent_id":1108563895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68513,
+    9.13042,
+    6.68513,
+    9.13042
+],
+  "geometry": {"coordinates":[6.68513,9.13042],"type":"Point"}
+}

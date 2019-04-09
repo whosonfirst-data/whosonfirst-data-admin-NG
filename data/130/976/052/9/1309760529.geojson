@@ -1,0 +1,68 @@
+{
+  "id": 1309760529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.6919,7.40716,8.6919,7.40716",
+    "geom:latitude":7.40716,
+    "geom:longitude":8.6919,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Iorja",
+    "gn:country_code":"NG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337438,
+    "gn:latitude":7.40716,
+    "gn:longitude":8.6919,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iorja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337438
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"937c5af941b65f9f268879ebdd78d6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1309760529,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1309760529,
+    "wof:lastmodified":1536995672,
+    "wof:name":"Iorja",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.6919,
+    7.40716,
+    8.6919,
+    7.40716
+],
+  "geometry": {"coordinates":[8.6919,7.40716],"type":"Point"}
+}

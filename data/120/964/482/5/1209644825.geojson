@@ -1,0 +1,62 @@
+{
+  "id": 1209644825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.80868,5.46223,7.80868,5.46223",
+    "geom:latitude":5.46223,
+    "geom:longitude":7.80868,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Akpunabo",
+    "gn:country_code":"NG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350892,
+    "gn:latitude":5.46223,
+    "gn:longitude":7.80868,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akpunabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350892
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eeee75c1a8c8f22da6aacfc47691694f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209644825
+        }
+    ],
+    "wof:id":1209644825,
+    "wof:lastmodified":1536280769,
+    "wof:name":"Akpunabo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.808680000000002,
+    5.46223,
+    7.808680000000002,
+    5.46223
+],
+  "geometry": {"coordinates":[7.80868,5.46223],"type":"Point"}
+}

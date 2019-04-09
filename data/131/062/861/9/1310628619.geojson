@@ -1,0 +1,75 @@
+{
+  "id": 1310628619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.10198,9.21504,11.10198,9.21504",
+    "geom:latitude":9.21504,
+    "geom:longitude":11.10198,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Gidan Usuman",
+    "gn:country_code":"NG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340741,
+    "gn:latitude":9.21504,
+    "gn:longitude":11.10198,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gidan Usuman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gidan Usuman"
+    ],
+    "name:eng_x_variant":[
+        "Gidan Usmanu",
+        "Usmanu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340741
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a6408323b640f6326ec0db29ea25ea2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1310628619,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1310628619,
+    "wof:lastmodified":1537675230,
+    "wof:name":"Gidan Usuman",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.10198,
+    9.21504,
+    11.10198,
+    9.21504
+],
+  "geometry": {"coordinates":[11.10198,9.21504],"type":"Point"}
+}

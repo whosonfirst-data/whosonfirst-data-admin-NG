@@ -1,0 +1,73 @@
+{
+  "id": 1310700175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.29861,6.65944,3.29861,6.65944",
+    "geom:latitude":6.65944,
+    "geom:longitude":3.29861,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25010.0",
+    "gn:asciiname":"Jibowu",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566702,
+    "gn:latitude":6.65944,
+    "gn:longitude":3.29861,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jibowu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libowu",
+        "Jibowu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        890438755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566702
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"56ec3d4ae28ba8390a5bca864d4c58ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":890438755,
+            "locality_id":1310700175,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1310700175,
+    "wof:lastmodified":1537675399,
+    "wof:name":"Jibowu",
+    "wof:parent_id":890438755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.29861,
+    6.65944,
+    3.29861,
+    6.65944
+],
+  "geometry": {"coordinates":[3.29861,6.65944],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293033975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19611,9.22025,6.19611,9.22025",
+    "geom:latitude":9.22025,
+    "geom:longitude":6.19611,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Denja",
+    "gn:country_code":"NG",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344938,
+    "gn:latitude":9.22025,
+    "gn:longitude":6.19611,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Denja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Denjai",
+        "Denja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344938
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"964fef5338be37460f873c5143c36a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1293033975,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293033975,
+    "wof:lastmodified":1537675303,
+    "wof:name":"Denja",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19611,
+    9.22025,
+    6.19611,
+    9.22025
+],
+  "geometry": {"coordinates":[6.19611,9.22025],"type":"Point"}
+}

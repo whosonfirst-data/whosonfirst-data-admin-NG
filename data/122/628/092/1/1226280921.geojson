@@ -1,0 +1,73 @@
+{
+  "id": 1226280921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.19828,11.62122,4.19828,11.62122",
+    "geom:latitude":11.62122,
+    "geom:longitude":4.19828,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50510",
+    "gn:asciiname":"Seribi",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323479,
+    "gn:latitude":11.62122,
+    "gn:longitude":4.19828,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Seribi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sherabi",
+        "Seribi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323479
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"df921a7bee9493c88ca2809857fcc932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563829,
+            "locality_id":1226280921,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1226280921,
+    "wof:lastmodified":1537674989,
+    "wof:name":"Seribi",
+    "wof:parent_id":1108563829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.19828,
+    11.62122,
+    4.19828,
+    11.62122
+],
+  "geometry": {"coordinates":[4.19828,11.62122],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276149165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.68087,12.53271,10.68087,12.53271",
+    "geom:latitude":12.53271,
+    "geom:longitude":10.68087,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"709.0",
+    "gn:admin3_code":"70904",
+    "gn:asciiname":"Gwaiyo",
+    "gn:country_code":"NG",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339855,
+    "gn:latitude":12.53271,
+    "gn:longitude":10.68087,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gwaiyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108564527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339855
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9bc70eafbe7e6769de124fcd469028c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564527,
+            "locality_id":1276149165,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1276149165,
+    "wof:lastmodified":1537024544,
+    "wof:name":"Gwaiyo",
+    "wof:parent_id":1108564527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.68087,
+    12.53271,
+    10.68087,
+    12.53271
+],
+  "geometry": {"coordinates":[10.68087,12.53271],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260316153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21667,7.25,4.21667,7.25",
+    "geom:latitude":7.25,
+    "geom:longitude":4.21667,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30001.0",
+    "gn:asciiname":"Afolu Ibadan",
+    "gn:country_code":"NG",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352233,
+    "gn:latitude":7.25,
+    "gn:longitude":4.21667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Afolu Ibadan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675367,
+        1108562951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352233
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2c13562a1f9d2af47593f0e19c4b324d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562951,
+            "locality_id":1260316153,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1260316153,
+    "wof:lastmodified":1536668251,
+    "wof:name":"Afolu Ibadan",
+    "wof:parent_id":1108562951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21667,
+    7.25,
+    4.21667,
+    7.25
+],
+  "geometry": {"coordinates":[4.21667,7.25],"type":"Point"}
+}

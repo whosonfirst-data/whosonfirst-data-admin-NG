@@ -1,0 +1,71 @@
+{
+  "id": 1226013545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.53082,6.41166,8.53082,6.41166",
+    "geom:latitude":6.41166,
+    "geom:longitude":8.53082,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9016.0",
+    "gn:asciiname":"Eka Ekong",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343763,
+    "gn:latitude":6.41166,
+    "gn:longitude":8.53082,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eka Ekong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekakong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343763
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"29ce6c150ace08ac83e8a6452aa6fe05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564121,
+            "locality_id":1226013545,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226013545,
+    "wof:lastmodified":1537675283,
+    "wof:name":"Eka Ekong",
+    "wof:parent_id":1108564121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.53082,
+    6.41166,
+    8.53082,
+    6.41166
+],
+  "geometry": {"coordinates":[8.53082,6.41166],"type":"Point"}
+}

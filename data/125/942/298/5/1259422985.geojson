@@ -1,0 +1,72 @@
+{
+  "id": 1259422985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.22809,9.11509,12.22809,9.11509",
+    "geom:latitude":9.11509,
+    "geom:longitude":12.22809,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Mayo Ine",
+    "gn:country_code":"NG",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330523,
+    "gn:latitude":9.11509,
+    "gn:longitude":12.22809,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Mayo Ine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wafango",
+        "Mayo Ine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330523
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"da48442e9d03c993c0c869c8d1a09792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1259422985,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259422985,
+    "wof:lastmodified":1537675096,
+    "wof:name":"Mayo Ine",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.22809,
+    9.11509,
+    12.22809,
+    9.11509
+],
+  "geometry": {"coordinates":[12.22809,9.11509],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209898133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0,7.35,3.0,7.35",
+    "geom:latitude":7.35,
+    "geom:longitude":3.0,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28004.0",
+    "gn:asciiname":"Agada Odede",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352178,
+    "gn:latitude":7.35,
+    "gn:longitude":3.0,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agada Odede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agada Apesi",
+        "Agada Odede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352178
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"560ca791859d172c9b05b319814d6cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563269,
+            "locality_id":1209898133,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1209898133,
+    "wof:lastmodified":1537675389,
+    "wof:name":"Agada Odede",
+    "wof:parent_id":1108563269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0,
+    7.35,
+    3.0,
+    7.35
+],
+  "geometry": {"coordinates":[3.0,7.35],"type":"Point"}
+}

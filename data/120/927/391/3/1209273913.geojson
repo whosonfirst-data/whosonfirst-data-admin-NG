@@ -1,0 +1,62 @@
+{
+  "id": 1209273913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31667,8.4,4.31667,8.4",
+    "geom:latitude":8.4,
+    "geom:longitude":4.31667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31028.0",
+    "gn:asciiname":"Elekulu",
+    "gn:country_code":"NG",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343514,
+    "gn:latitude":8.4,
+    "gn:longitude":4.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Elekulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343514
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"513d54dd1e2be8690d0e5b1574ce82a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209273913
+        }
+    ],
+    "wof:id":1209273913,
+    "wof:lastmodified":1536292262,
+    "wof:name":"Elekulu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3166699999999985,
+    8.4,
+    4.3166699999999985,
+    8.4
+],
+  "geometry": {"coordinates":[4.31667,8.4],"type":"Point"}
+}

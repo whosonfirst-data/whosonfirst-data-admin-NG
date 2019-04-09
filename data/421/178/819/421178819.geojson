@@ -1,0 +1,91 @@
+{
+  "id": 421178819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.49905,10.30426,11.49905,10.30426",
+    "geom:latitude":10.30426,
+    "geom:longitude":11.49905,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Hinna"
+    ],
+    "name:nno_x_preferred":[
+        "Hinna"
+    ],
+    "name:nor_x_preferred":[
+        "Hinna"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2339483,
+    "qs:gn_pop":7826,
+    "qs:name":"Hinna",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Gombe",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":139710,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1393572,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":58.933333,
+    "wd:longitude":5.733333,
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339483,
+        "gp:id":1393572,
+        "qs:id":139710
+    },
+    "wof:country":"NG",
+    "wof:created":1459009194,
+    "wof:geomhash":"898ecacea2180a075500fe5bb59d4e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564531,
+            "locality_id":421178819,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":421178819,
+    "wof:lastmodified":1527717719,
+    "wof:name":"Hinna",
+    "wof:parent_id":1108564531,
+    "wof:placetype":"locality",
+    "wof:population":7826,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.49905,
+    10.30426,
+    11.49905,
+    10.30426
+],
+  "geometry": {"coordinates":[11.49905,10.30426],"type":"Point"}
+}

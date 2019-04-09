@@ -1,0 +1,68 @@
+{
+  "id": 1226005249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31667,8.8,4.31667,8.8",
+    "geom:latitude":8.8,
+    "geom:longitude":4.31667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24012.0",
+    "gn:asciiname":"Olopele",
+    "gn:country_code":"NG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326502,
+    "gn:latitude":8.8,
+    "gn:longitude":4.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olopele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326502
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"962a6dc2b21aab957d35251b565ad263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563995,
+            "locality_id":1226005249,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1226005249,
+    "wof:lastmodified":1536784189,
+    "wof:name":"Olopele",
+    "wof:parent_id":1108563995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31667,
+    8.8,
+    4.31667,
+    8.8
+],
+  "geometry": {"coordinates":[4.31667,8.8],"type":"Point"}
+}

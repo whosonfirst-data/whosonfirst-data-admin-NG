@@ -1,0 +1,68 @@
+{
+  "id": 1242630871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.35938,8.74781,12.35938,8.74781",
+    "geom:latitude":8.74781,
+    "geom:longitude":12.35938,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2008.0",
+    "gn:asciiname":"Laganso",
+    "gn:country_code":"NG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332473,
+    "gn:latitude":8.74781,
+    "gn:longitude":12.35938,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Laganso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332473
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"03e07cc7b0c55807ca0528c38e87d75c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563713,
+            "locality_id":1242630871,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1242630871,
+    "wof:lastmodified":1536986402,
+    "wof:name":"Laganso",
+    "wof:parent_id":1108563713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.35938,
+    8.74781,
+    12.35938,
+    8.74781
+],
+  "geometry": {"coordinates":[12.35938,8.74781],"type":"Point"}
+}

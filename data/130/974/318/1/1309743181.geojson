@@ -1,0 +1,73 @@
+{
+  "id": 1309743181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.70833,8.78694,7.70833,8.78694",
+    "geom:latitude":8.78694,
+    "geom:longitude":7.70833,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004.0",
+    "gn:asciiname":"Sara",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323958,
+    "gn:latitude":8.78694,
+    "gn:longitude":7.70833,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saka",
+        "Sara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323958
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2af6af6225406c300269f002842f1631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563785,
+            "locality_id":1309743181,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1309743181,
+    "wof:lastmodified":1537674995,
+    "wof:name":"Sara",
+    "wof:parent_id":1108563785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.70833,
+    8.78694,
+    7.70833,
+    8.78694
+],
+  "geometry": {"coordinates":[7.70833,8.78694],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344210573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04354,9.09238,12.04354,9.09238",
+    "geom:latitude":9.09238,
+    "geom:longitude":12.04354,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Yolde Gubuda",
+    "gn:country_code":"NG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189864,
+    "gn:latitude":9.09238,
+    "gn:longitude":12.04354,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Yolde Gubuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yolde Gubuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189864
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d79f99f0536e469cbfcac0452ac61d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1344210573,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1344210573,
+    "wof:lastmodified":1537675492,
+    "wof:name":"Yolde Gubuda",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04354,
+    9.09238,
+    12.04354,
+    9.09238
+],
+  "geometry": {"coordinates":[12.04354,9.09238],"type":"Point"}
+}

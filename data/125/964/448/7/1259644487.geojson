@@ -1,0 +1,69 @@
+{
+  "id": 1259644487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1358,12.1577,8.1358,12.1577",
+    "geom:latitude":12.1577,
+    "geom:longitude":8.1358,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20038.0",
+    "gn:admin3_code":"KN0301",
+    "gn:asciiname":"Bagwai",
+    "gn:country_code":"NG",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2348253,
+    "gn:latitude":12.1577,
+    "gn:longitude":8.1358,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bagwai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348253
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5cafd9ba8a9d69c3277b3f66fd0e2365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563071,
+            "locality_id":1259644487,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1259644487,
+    "wof:lastmodified":1536625002,
+    "wof:name":"Bagwai",
+    "wof:parent_id":1108563071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1358,
+    12.1577,
+    8.1358,
+    12.1577
+],
+  "geometry": {"coordinates":[8.1358,12.1577],"type":"Point"}
+}

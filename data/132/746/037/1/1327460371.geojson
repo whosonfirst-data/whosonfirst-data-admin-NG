@@ -1,0 +1,68 @@
+{
+  "id": 1327460371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.87264,8.80222,9.87264,8.80222",
+    "geom:latitude":8.80222,
+    "geom:longitude":9.87264,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32009",
+    "gn:asciiname":"Lashel",
+    "gn:country_code":"NG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10925686,
+    "gn:latitude":8.80222,
+    "gn:longitude":9.87264,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lashel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10925686
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b7c3342af1648c2c970cb9a9b83a0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563891,
+            "locality_id":1327460371,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1327460371,
+    "wof:lastmodified":1536639538,
+    "wof:name":"Lashel",
+    "wof:parent_id":1108563891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.87264,
+    8.80222,
+    9.87264,
+    8.80222
+],
+  "geometry": {"coordinates":[9.87264,8.80222],"type":"Point"}
+}

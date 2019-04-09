@@ -1,0 +1,72 @@
+{
+  "id": 1293716911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.6265,5.10294,6.6265,5.10294",
+    "geom:latitude":5.10294,
+    "geom:longitude":6.6265,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33002.0",
+    "gn:asciiname":"Ala-Ahoada",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101552,
+    "gn:latitude":5.10294,
+    "gn:longitude":6.6265,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ala-Ahoada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ogbo",
+        "Ala-Ahoada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101552
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"14eb23324aa174f1849ec2af9029f2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562945,
+            "locality_id":1293716911,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1293716911,
+    "wof:lastmodified":1537675454,
+    "wof:name":"Ala-Ahoada",
+    "wof:parent_id":1108562945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.6265,
+    5.10294,
+    6.6265,
+    5.10294
+],
+  "geometry": {"coordinates":[6.6265,5.10294],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209257621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83342,5.3896,5.83342,5.3896",
+    "geom:latitude":5.3896,
+    "geom:longitude":5.83342,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10020.0",
+    "gn:asciiname":"Oginibo II",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028151,
+    "gn:latitude":5.3896,
+    "gn:longitude":5.83342,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oginibo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028151
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7216f4e103a20664b98547ab53ea00d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209257621
+        }
+    ],
+    "wof:id":1209257621,
+    "wof:lastmodified":1536292800,
+    "wof:name":"Oginibo II",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.8334199999999985,
+    5.3896,
+    5.8334199999999985,
+    5.3896
+],
+  "geometry": {"coordinates":[5.83342,5.3896],"type":"Point"}
+}

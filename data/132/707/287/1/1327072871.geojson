@@ -1,0 +1,71 @@
+{
+  "id": 1327072871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.0057,7.5831,6.0057,7.5831",
+    "geom:latitude":7.5831,
+    "geom:longitude":6.0057,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kakuma",
+    "gn:country_code":"NG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335460,
+    "gn:latitude":7.5831,
+    "gn:longitude":6.0057,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kakuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakumu",
+        "Kakuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335460
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"315c269a41b53bd32660f2e1256cb54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563581,
+            "locality_id":1327072871,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1327072871,
+    "wof:lastmodified":1537675156,
+    "wof:name":"Kakuma",
+    "wof:parent_id":1108563581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0057,
+    7.5831,
+    6.0057,
+    7.5831
+],
+  "geometry": {"coordinates":[6.0057,7.5831],"type":"Point"}
+}

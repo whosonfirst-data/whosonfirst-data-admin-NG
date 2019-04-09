@@ -1,0 +1,69 @@
+{
+  "id": 1293546869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.45123,11.99729,7.45123,11.99729",
+    "geom:latitude":11.99729,
+    "geom:longitude":7.45123,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"419.0",
+    "gn:admin3_code":"41902",
+    "gn:asciiname":"Tsamer",
+    "gn:country_code":"NG",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7018927,
+    "gn:latitude":11.99729,
+    "gn:longitude":7.45123,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tsamer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7018927
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2db6e197ee572aa6f9908a76dfe8437a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563769,
+            "locality_id":1293546869,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1293546869,
+    "wof:lastmodified":1536701930,
+    "wof:name":"Tsamer",
+    "wof:parent_id":1108563769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.45123,
+    11.99729,
+    7.45123,
+    11.99729
+],
+  "geometry": {"coordinates":[7.45123,11.99729],"type":"Point"}
+}

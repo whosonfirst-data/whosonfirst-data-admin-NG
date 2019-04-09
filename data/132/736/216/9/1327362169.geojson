@@ -1,0 +1,72 @@
+{
+  "id": 1327362169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.26322,9.28807,9.26322,9.28807",
+    "geom:latitude":9.28807,
+    "geom:longitude":9.26322,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32011.0",
+    "gn:asciiname":"Jibilik",
+    "gn:country_code":"NG",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336139,
+    "gn:latitude":9.28807,
+    "gn:longitude":9.26322,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Jibilik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiplik",
+        "Jibilik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336139
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f800e873e871600b4a39ebc382568b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563941,
+            "locality_id":1327362169,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1327362169,
+    "wof:lastmodified":1537675164,
+    "wof:name":"Jibilik",
+    "wof:parent_id":1108563941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.26322,
+    9.28807,
+    9.26322,
+    9.28807
+],
+  "geometry": {"coordinates":[9.26322,9.28807],"type":"Point"}
+}

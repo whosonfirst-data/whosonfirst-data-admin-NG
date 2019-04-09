@@ -1,0 +1,74 @@
+{
+  "id": 1276923439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16667,12.1,14.16667,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":14.16667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"12509",
+    "gn:asciiname":"Mufe",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329800,
+    "gn:latitude":12.1,
+    "gn:longitude":14.16667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mufe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mufi",
+        "Mufe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108564023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329800
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f42da3627be906e3dfa359116761a25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564023,
+            "locality_id":1276923439,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1276923439,
+    "wof:lastmodified":1537675087,
+    "wof:name":"Mufe",
+    "wof:parent_id":1108564023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16667,
+    12.1,
+    14.16667,
+    12.1
+],
+  "geometry": {"coordinates":[14.16667,12.1],"type":"Point"}
+}

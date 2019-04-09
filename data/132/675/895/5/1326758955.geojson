@@ -1,0 +1,68 @@
+{
+  "id": 1326758955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.18715,7.06768,10.18715,7.06768",
+    "geom:latitude":7.06768,
+    "geom:longitude":10.18715,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35013.0",
+    "gn:asciiname":"Atigsi",
+    "gn:country_code":"NG",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348976,
+    "gn:latitude":7.06768,
+    "gn:longitude":10.18715,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atigsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348976
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c45d000986420722aed2ee8da856cc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564477,
+            "locality_id":1326758955,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1326758955,
+    "wof:lastmodified":1536657416,
+    "wof:name":"Atigsi",
+    "wof:parent_id":1108564477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.18715,
+    7.06768,
+    10.18715,
+    7.06768
+],
+  "geometry": {"coordinates":[10.18715,7.06768],"type":"Point"}
+}

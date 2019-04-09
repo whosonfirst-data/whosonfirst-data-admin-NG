@@ -1,0 +1,68 @@
+{
+  "id": 1309833745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.58178,7.30296,10.58178,7.30296",
+    "geom:latitude":7.30296,
+    "geom:longitude":10.58178,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Gidan Hassan",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340991,
+    "gn:latitude":7.30296,
+    "gn:longitude":10.58178,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Hassan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340991
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"abeeaedc4190d34aa558a80ed0d4903c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1309833745,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1309833745,
+    "wof:lastmodified":1536890610,
+    "wof:name":"Gidan Hassan",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.58178,
+    7.30296,
+    10.58178,
+    7.30296
+],
+  "geometry": {"coordinates":[10.58178,7.30296],"type":"Point"}
+}

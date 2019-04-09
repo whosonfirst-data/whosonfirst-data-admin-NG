@@ -1,0 +1,62 @@
+{
+  "id": 1209489311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.72234,5.16814,7.72234,5.16814",
+    "geom:latitude":5.16814,
+    "geom:longitude":7.72234,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3014.0",
+    "gn:asciiname":"Itak Udara",
+    "gn:country_code":"NG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337063,
+    "gn:latitude":5.16814,
+    "gn:longitude":7.72234,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Itak Udara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337063
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd8f3ec83efd98e9ac057679599c39d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209489311
+        }
+    ],
+    "wof:id":1209489311,
+    "wof:lastmodified":1536285536,
+    "wof:name":"Itak Udara",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.722339999999999,
+    5.16814,
+    7.722339999999999,
+    5.16814
+],
+  "geometry": {"coordinates":[7.72234,5.16814],"type":"Point"}
+}

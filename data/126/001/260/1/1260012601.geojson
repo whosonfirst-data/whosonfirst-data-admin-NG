@@ -1,0 +1,67 @@
+{
+  "id": 1260012601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.94161,5.74627,7.94161,5.74627",
+    "geom:latitude":5.74627,
+    "geom:longitude":7.94161,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Edu",
+    "gn:country_code":"NG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344009,
+    "gn:latitude":5.74627,
+    "gn:longitude":7.94161,
+    "gn:modification_date":"2009-08-18",
+    "gn:name":"Edu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344009
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"eaeac1ee962da6e90418510d33f04955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1260012601,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1260012601,
+    "wof:lastmodified":1537086877,
+    "wof:name":"Edu",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.94161,
+    5.74627,
+    7.94161,
+    5.74627
+],
+  "geometry": {"coordinates":[7.94161,5.74627],"type":"Point"}
+}

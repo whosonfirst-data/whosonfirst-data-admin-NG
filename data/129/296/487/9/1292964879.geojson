@@ -1,0 +1,68 @@
+{
+  "id": 1292964879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.99323,4.64271,7.99323,4.64271",
+    "geom:latitude":4.64271,
+    "geom:longitude":7.99323,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Osiok",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325566,
+    "gn:latitude":4.64271,
+    "gn:longitude":7.99323,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Osiok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325566
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b734512da75a2d8d6432b08e515d48c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563287,
+            "locality_id":1292964879,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1292964879,
+    "wof:lastmodified":1537041783,
+    "wof:name":"Osiok",
+    "wof:parent_id":1108563287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.99323,
+    4.64271,
+    7.99323,
+    4.64271
+],
+  "geometry": {"coordinates":[7.99323,4.64271],"type":"Point"}
+}

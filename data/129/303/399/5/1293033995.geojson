@@ -1,0 +1,72 @@
+{
+  "id": 1293033995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.49028,9.33511,6.49028,9.33511",
+    "geom:latitude":9.33511,
+    "geom:longitude":6.49028,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010.0",
+    "gn:asciiname":"Kutiko",
+    "gn:country_code":"NG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333043,
+    "gn:latitude":9.33511,
+    "gn:longitude":6.49028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kutiko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sunbwagi",
+        "Kutiko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333043
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1f04575f10418bf572b68f8a5e99df8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1293033995,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293033995,
+    "wof:lastmodified":1537675125,
+    "wof:name":"Kutiko",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.49028,
+    9.33511,
+    6.49028,
+    9.33511
+],
+  "geometry": {"coordinates":[6.49028,9.33511],"type":"Point"}
+}

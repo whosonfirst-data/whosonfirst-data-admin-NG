@@ -1,0 +1,70 @@
+{
+  "id": 1242607159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.81617,4.53367,6.81617,4.53367",
+    "geom:latitude":4.53367,
+    "geom:longitude":6.81617,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Okikiri",
+    "gn:country_code":"NG",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327140,
+    "gn:latitude":4.53367,
+    "gn:longitude":6.81617,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Okikiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327140
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"95b5fa312d15e61d7fc5f8bb8ab28918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563227,
+            "locality_id":1242607159,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1242607159,
+    "wof:lastmodified":1537675041,
+    "wof:name":"Okikiri",
+    "wof:parent_id":1108563227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.81617,
+    4.53367,
+    6.81617,
+    4.53367
+],
+  "geometry": {"coordinates":[6.81617,4.53367],"type":"Point"}
+}

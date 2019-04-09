@@ -1,0 +1,73 @@
+{
+  "id": 1344200479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.43682,5.45502,6.43682,5.45502",
+    "geom:latitude":5.45502,
+    "geom:longitude":6.43682,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10009.0",
+    "gn:asciiname":"Onogboko",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343072,
+    "gn:latitude":5.45502,
+    "gn:longitude":6.43682,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onogboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etebege",
+        "Itebiege",
+        "Onogboko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343072
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"52c3276f327302c4151fa82d53d6cd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563685,
+            "locality_id":1344200479,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1344200479,
+    "wof:lastmodified":1537675272,
+    "wof:name":"Onogboko",
+    "wof:parent_id":1108563685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.43682,
+    5.45502,
+    6.43682,
+    5.45502
+],
+  "geometry": {"coordinates":[6.43682,5.45502],"type":"Point"}
+}

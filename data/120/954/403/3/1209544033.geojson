@@ -1,0 +1,67 @@
+{
+  "id": 1209544033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12137,9.49634,6.12137,9.49634",
+    "geom:latitude":9.49634,
+    "geom:longitude":6.12137,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Ndachejiya",
+    "gn:country_code":"NG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329377,
+    "gn:latitude":9.49634,
+    "gn:longitude":6.12137,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndachejiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gududzoro",
+        "Gududzuru",
+        "Ndachejiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329377
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7dada19de1d4bc7ace109052a3b0d2ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544033
+        }
+    ],
+    "wof:id":1209544033,
+    "wof:lastmodified":1537675081,
+    "wof:name":"Ndachejiya",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12137,
+    9.49634,
+    6.12137,
+    9.49634
+],
+  "geometry": {"coordinates":[6.12137,9.49634],"type":"Point"}
+}

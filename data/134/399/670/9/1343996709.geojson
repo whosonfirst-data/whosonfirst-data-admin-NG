@@ -1,0 +1,71 @@
+{
+  "id": 1343996709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03081,6.64661,6.03081,6.64661",
+    "geom:latitude":6.64661,
+    "geom:longitude":6.03081,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12018.0",
+    "gn:asciiname":"Oriakhi Camp",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081209,
+    "gn:latitude":6.64661,
+    "gn:longitude":6.03081,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oriakhi Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ekana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081209
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"83b1851ddba25d1abb23d8cc791e76f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564447,
+            "locality_id":1343996709,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1343996709,
+    "wof:lastmodified":1537675450,
+    "wof:name":"Oriakhi Camp",
+    "wof:parent_id":1108564447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03081,
+    6.64661,
+    6.03081,
+    6.64661
+],
+  "geometry": {"coordinates":[6.03081,6.64661],"type":"Point"}
+}

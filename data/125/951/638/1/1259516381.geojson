@@ -1,0 +1,71 @@
+{
+  "id": 1259516381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.22331,6.36659,7.22331,6.36659",
+    "geom:latitude":6.36659,
+    "geom:longitude":7.22331,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14006.0",
+    "gn:asciiname":"Aguoba-Umumba",
+    "gn:country_code":"NG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351715,
+    "gn:latitude":6.36659,
+    "gn:longitude":7.22331,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aguoba-Umumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguoba-Umuaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351715
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"732100d6deafef684f6cdc5afb44a89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563353,
+            "locality_id":1259516381,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1259516381,
+    "wof:lastmodified":1537675384,
+    "wof:name":"Aguoba-Umumba",
+    "wof:parent_id":1108563353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.22331,
+    6.36659,
+    7.22331,
+    6.36659
+],
+  "geometry": {"coordinates":[7.22331,6.36659],"type":"Point"}
+}

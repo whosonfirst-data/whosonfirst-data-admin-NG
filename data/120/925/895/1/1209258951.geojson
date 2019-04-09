@@ -1,0 +1,62 @@
+{
+  "id": 1209258951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.18857,8.96059,12.18857,8.96059",
+    "geom:latitude":8.96059,
+    "geom:longitude":12.18857,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Uruba Paro",
+    "gn:country_code":"NG",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319654,
+    "gn:latitude":8.96059,
+    "gn:longitude":12.18857,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uruba Paro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319654
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d144ea157ac785ffd800705b2c7c3efc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209258951
+        }
+    ],
+    "wof:id":1209258951,
+    "wof:lastmodified":1536292759,
+    "wof:name":"Uruba Paro",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.18857,
+    8.96059,
+    12.18857,
+    8.96059
+],
+  "geometry": {"coordinates":[12.18857,8.96059],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310260809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48451,10.31821,8.48451,10.31821",
+    "geom:latitude":10.31821,
+    "geom:longitude":8.48451,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19017.0",
+    "gn:admin3_code":"KD1709",
+    "gn:asciiname":"Gidan Sarkin Karigi",
+    "gn:country_code":"NG",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340787,
+    "gn:latitude":10.31821,
+    "gn:longitude":8.48451,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Sarkin Karigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar Karigi",
+        "Gidan Sarkin Karigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340787
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd30491dd7774632517b24c8e4184284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563901,
+            "locality_id":1310260809,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1310260809,
+    "wof:lastmodified":1537675232,
+    "wof:name":"Gidan Sarkin Karigi",
+    "wof:parent_id":1108563901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48451,
+    10.31821,
+    8.48451,
+    10.31821
+],
+  "geometry": {"coordinates":[8.48451,10.31821],"type":"Point"}
+}

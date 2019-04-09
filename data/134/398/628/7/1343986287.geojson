@@ -1,0 +1,68 @@
+{
+  "id": 1343986287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.60383,5.59889,7.60383,5.59889",
+    "geom:latitude":5.59889,
+    "geom:longitude":7.60383,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Ozu-Item",
+    "gn:country_code":"NG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325160,
+    "gn:latitude":5.59889,
+    "gn:longitude":7.60383,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ozu-Item",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        421183311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325160
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"304265281e9d1fd9d0b94db43599edb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183311,
+            "locality_id":1343986287,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1343986287,
+    "wof:lastmodified":1536982115,
+    "wof:name":"Ozu-Item",
+    "wof:parent_id":421183311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.60383,
+    5.59889,
+    7.60383,
+    5.59889
+],
+  "geometry": {"coordinates":[7.60383,5.59889],"type":"Point"}
+}

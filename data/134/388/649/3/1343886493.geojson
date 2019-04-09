@@ -1,0 +1,67 @@
+{
+  "id": 1343886493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.0826,11.79199,7.0826,11.79199",
+    "geom:latitude":11.79199,
+    "geom:longitude":7.0826,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Rimi",
+    "gn:country_code":"NG",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019075,
+    "gn:latitude":11.79199,
+    "gn:longitude":7.0826,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Rimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019075
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb95699cb4254b18f5b824a55a5b2761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563367,
+            "locality_id":1343886493,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1343886493,
+    "wof:lastmodified":1536627395,
+    "wof:name":"Rimi",
+    "wof:parent_id":1108563367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.0826,
+    11.79199,
+    7.0826,
+    11.79199
+],
+  "geometry": {"coordinates":[7.0826,11.79199],"type":"Point"}
+}

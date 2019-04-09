@@ -1,0 +1,68 @@
+{
+  "id": 1276393213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.36765,7.57869,8.36765,7.57869",
+    "geom:latitude":7.57869,
+    "geom:longitude":8.36765,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7007",
+    "gn:asciiname":"Gbahabo",
+    "gn:country_code":"NG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9509148,
+    "gn:latitude":7.57869,
+    "gn:longitude":8.36765,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbahabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9509148
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"22ef232cf8c6a4d9ec196a968682fa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563473,
+            "locality_id":1276393213,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1276393213,
+    "wof:lastmodified":1536698689,
+    "wof:name":"Gbahabo",
+    "wof:parent_id":1108563473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.36765,
+    7.57869,
+    8.36765,
+    7.57869
+],
+  "geometry": {"coordinates":[8.36765,7.57869],"type":"Point"}
+}

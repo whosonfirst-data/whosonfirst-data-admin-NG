@@ -1,0 +1,70 @@
+{
+  "id": 1310245079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.78148,9.05867,11.78148,9.05867",
+    "geom:latitude":9.05867,
+    "geom:longitude":11.78148,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Samari",
+    "gn:country_code":"NG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210469,
+    "gn:latitude":9.05867,
+    "gn:longitude":11.78148,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Samari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Samari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210469
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b7792df1c83a84c7b576f60045522161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1310245079,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1310245079,
+    "wof:lastmodified":1537675508,
+    "wof:name":"Samari",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.78148,
+    9.05867,
+    11.78148,
+    9.05867
+],
+  "geometry": {"coordinates":[11.78148,9.05867],"type":"Point"}
+}

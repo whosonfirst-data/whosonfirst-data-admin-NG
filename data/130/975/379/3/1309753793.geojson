@@ -1,0 +1,68 @@
+{
+  "id": 1309753793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.61105,7.35178,8.61105,7.35178",
+    "geom:latitude":7.35178,
+    "geom:longitude":8.61105,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Mbakpe",
+    "gn:country_code":"NG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330441,
+    "gn:latitude":7.35178,
+    "gn:longitude":8.61105,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbakpe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330441
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"abf6c586b54a5c30f51a2c6132c03cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1309753793,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1309753793,
+    "wof:lastmodified":1537005331,
+    "wof:name":"Mbakpe",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.61105,
+    7.35178,
+    8.61105,
+    7.35178
+],
+  "geometry": {"coordinates":[8.61105,7.35178],"type":"Point"}
+}

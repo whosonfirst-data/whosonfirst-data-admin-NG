@@ -1,0 +1,73 @@
+{
+  "id": 1260109861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.25021,6.48493,7.25021,6.48493",
+    "geom:latitude":6.48493,
+    "geom:longitude":7.25021,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14006.0",
+    "gn:asciiname":"Amankwo",
+    "gn:country_code":"NG",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350210,
+    "gn:latitude":6.48493,
+    "gn:longitude":7.25021,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amankwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amankwor Oye",
+        "Amankwo",
+        "Amanko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675395,
+        1108563353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350210
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a5e0e89e11c3601866854b512c0f0254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563353,
+            "locality_id":1260109861,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1260109861,
+    "wof:lastmodified":1537675366,
+    "wof:name":"Amankwo",
+    "wof:parent_id":1108563353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.25021,
+    6.48493,
+    7.25021,
+    6.48493
+],
+  "geometry": {"coordinates":[7.25021,6.48493],"type":"Point"}
+}

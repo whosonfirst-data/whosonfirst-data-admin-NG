@@ -1,0 +1,68 @@
+{
+  "id": 1259713245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.56714,8.57095,9.56714,8.57095",
+    "geom:latitude":8.57095,
+    "geom:longitude":9.56714,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016.0",
+    "gn:asciiname":"Lakushi-Makat",
+    "gn:country_code":"NG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332384,
+    "gn:latitude":8.57095,
+    "gn:longitude":9.56714,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lakushi-Makat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332384
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f3ba8a550fdfe868774f5bf3ff9be4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1259713245,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1259713245,
+    "wof:lastmodified":1537023296,
+    "wof:name":"Lakushi-Makat",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.56714,
+    8.57095,
+    9.56714,
+    8.57095
+],
+  "geometry": {"coordinates":[9.56714,8.57095],"type":"Point"}
+}

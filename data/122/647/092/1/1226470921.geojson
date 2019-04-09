@@ -1,0 +1,68 @@
+{
+  "id": 1226470921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.70981,10.39232,3.70981,10.39232",
+    "geom:latitude":10.39232,
+    "geom:longitude":3.70981,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27004.0",
+    "gn:asciiname":"Bakimba",
+    "gn:country_code":"NG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7048941,
+    "gn:latitude":10.39232,
+    "gn:longitude":3.70981,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bakimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7048941
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"701ba177969172fe1d11c7648be21a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563153,
+            "locality_id":1226470921,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226470921,
+    "wof:lastmodified":1536606432,
+    "wof:name":"Bakimba",
+    "wof:parent_id":1108563153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.70981,
+    10.39232,
+    3.70981,
+    10.39232
+],
+  "geometry": {"coordinates":[3.70981,10.39232],"type":"Point"}
+}

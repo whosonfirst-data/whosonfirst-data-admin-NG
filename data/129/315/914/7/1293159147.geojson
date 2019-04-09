@@ -1,0 +1,72 @@
+{
+  "id": 1293159147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2241,5.0352,8.2241,5.0352",
+    "geom:latitude":5.0352,
+    "geom:longitude":8.2241,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9015.0",
+    "gn:asciiname":"Ikot-Obong Eno",
+    "gn:country_code":"NG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337977,
+    "gn:latitude":5.0352,
+    "gn:longitude":8.2241,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot-Obong Eno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikot Obong",
+        "Ikot-Obong Eno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337977
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c6c69276c382f6cedcf18fc37a2a9ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564097,
+            "locality_id":1293159147,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1293159147,
+    "wof:lastmodified":1537675192,
+    "wof:name":"Ikot-Obong Eno",
+    "wof:parent_id":1108564097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2241,
+    5.0352,
+    8.2241,
+    5.0352
+],
+  "geometry": {"coordinates":[8.2241,5.0352],"type":"Point"}
+}

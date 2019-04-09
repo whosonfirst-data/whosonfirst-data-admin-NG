@@ -1,0 +1,72 @@
+{
+  "id": 1293029319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31233,7.69704,5.31233,7.69704",
+    "geom:latitude":7.69704,
+    "geom:longitude":5.31233,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13013.0",
+    "gn:asciiname":"Afao-Ekiti",
+    "gn:country_code":"NG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352269,
+    "gn:latitude":7.69704,
+    "gn:longitude":5.31233,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Afao-Ekiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afao",
+        "Afao-Ekiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352269
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1a7a82b35c7ca0d4c0052a9fe783ca5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563653,
+            "locality_id":1293029319,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1293029319,
+    "wof:lastmodified":1537675390,
+    "wof:name":"Afao-Ekiti",
+    "wof:parent_id":1108563653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31233,
+    7.69704,
+    5.31233,
+    7.69704
+],
+  "geometry": {"coordinates":[5.31233,7.69704],"type":"Point"}
+}

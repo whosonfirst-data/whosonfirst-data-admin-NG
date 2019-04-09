@@ -1,0 +1,71 @@
+{
+  "id": 1276621969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.23976,6.09264,7.23976,6.09264",
+    "geom:latitude":6.09264,
+    "geom:longitude":7.23976,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4019.0",
+    "gn:asciiname":"Enugu-Abo",
+    "gn:country_code":"NG",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343278,
+    "gn:latitude":6.09264,
+    "gn:longitude":7.23976,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Enugu-Abo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enugo-Abo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343278
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"379fcdf11d19c0e605c744b6d8876816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564223,
+            "locality_id":1276621969,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1276621969,
+    "wof:lastmodified":1537675276,
+    "wof:name":"Enugu-Abo",
+    "wof:parent_id":1108564223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.23976,
+    6.09264,
+    7.23976,
+    6.09264
+],
+  "geometry": {"coordinates":[7.23976,6.09264],"type":"Point"}
+}

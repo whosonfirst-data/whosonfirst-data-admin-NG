@@ -1,0 +1,69 @@
+{
+  "id": 1276604417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.49157,12.4092,4.49157,12.4092",
+    "geom:latitude":12.4092,
+    "geom:longitude":4.49157,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"510.0",
+    "gn:admin3_code":"51004",
+    "gn:asciiname":"Tari",
+    "gn:country_code":"NG",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322371,
+    "gn:latitude":12.4092,
+    "gn:longitude":4.49157,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Tari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322371
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5ce8706a23ed4163d6487b71d73b18c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563127,
+            "locality_id":1276604417,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1276604417,
+    "wof:lastmodified":1536913498,
+    "wof:name":"Tari",
+    "wof:parent_id":1108563127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.49157,
+    12.4092,
+    4.49157,
+    12.4092
+],
+  "geometry": {"coordinates":[4.49157,12.4092],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293538413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.79139,7.54194,3.79139,7.54194",
+    "geom:latitude":7.54194,
+    "geom:longitude":3.79139,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Dairo",
+    "gn:country_code":"NG",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591515,
+    "gn:latitude":7.54194,
+    "gn:longitude":3.79139,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dairo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591515
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ea633d0ceff15c7c711bfbb8ac3b154b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1293538413,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293538413,
+    "wof:lastmodified":1536714157,
+    "wof:name":"Dairo",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.79139,
+    7.54194,
+    3.79139,
+    7.54194
+],
+  "geometry": {"coordinates":[3.79139,7.54194],"type":"Point"}
+}

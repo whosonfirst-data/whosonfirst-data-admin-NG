@@ -1,0 +1,73 @@
+{
+  "id": 1242931463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.0328,11.16434,8.0328,11.16434",
+    "geom:latitude":11.16434,
+    "geom:longitude":8.0328,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19021.0",
+    "gn:admin3_code":"KD2106",
+    "gn:asciiname":"Ungwan Kabu",
+    "gn:country_code":"NG",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319958,
+    "gn:latitude":11.16434,
+    "gn:longitude":8.0328,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Kabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabu",
+        "Ungwan Kabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108564367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319958
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d12a1992d7c311b27e376477191a56d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564367,
+            "locality_id":1242931463,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1242931463,
+    "wof:lastmodified":1537674928,
+    "wof:name":"Ungwan Kabu",
+    "wof:parent_id":1108564367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.0328,
+    11.16434,
+    8.0328,
+    11.16434
+],
+  "geometry": {"coordinates":[8.0328,11.16434],"type":"Point"}
+}

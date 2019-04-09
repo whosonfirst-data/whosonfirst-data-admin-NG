@@ -1,0 +1,68 @@
+{
+  "id": 1277103317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.29451,8.69269,10.29451,8.69269",
+    "geom:latitude":8.69269,
+    "geom:longitude":10.29451,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35006",
+    "gn:asciiname":"Gungu Sanbo",
+    "gn:country_code":"NG",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10910306,
+    "gn:latitude":8.69269,
+    "gn:longitude":10.29451,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gungu Sanbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10910306
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2a0537f933e11d677a648528d3f0dc6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563513,
+            "locality_id":1277103317,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1277103317,
+    "wof:lastmodified":1536738066,
+    "wof:name":"Gungu Sanbo",
+    "wof:parent_id":1108563513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.29451,
+    8.69269,
+    10.29451,
+    8.69269
+],
+  "geometry": {"coordinates":[10.29451,8.69269],"type":"Point"}
+}

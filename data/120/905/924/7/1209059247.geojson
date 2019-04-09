@@ -1,0 +1,62 @@
+{
+  "id": 1209059247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.15081,5.23009,6.15081,5.23009",
+    "geom:latitude":5.23009,
+    "geom:longitude":6.15081,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Orusgbene",
+    "gn:country_code":"NG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100599,
+    "gn:latitude":5.23009,
+    "gn:longitude":6.15081,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orusgbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100599
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d8d01c0015bfed65d84b67dc83a1e90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209059247
+        }
+    ],
+    "wof:id":1209059247,
+    "wof:lastmodified":1536299009,
+    "wof:name":"Orusgbene",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.15081,
+    5.2300900000000015,
+    6.15081,
+    5.2300900000000015
+],
+  "geometry": {"coordinates":[6.15081,5.23009],"type":"Point"}
+}

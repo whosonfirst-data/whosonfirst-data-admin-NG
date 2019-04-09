@@ -1,0 +1,68 @@
+{
+  "id": 1343991005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.7687,5.76832,7.7687,5.76832",
+    "geom:latitude":5.76832,
+    "geom:longitude":7.7687,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Etitiama",
+    "gn:country_code":"NG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075503,
+    "gn:latitude":5.76832,
+    "gn:longitude":7.7687,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Etitiama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675305,
+        1108564131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075503
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4da8f209cdd6413283c80deca7cedbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564131,
+            "locality_id":1343991005,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1343991005,
+    "wof:lastmodified":1536975409,
+    "wof:name":"Etitiama",
+    "wof:parent_id":1108564131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.7687,
+    5.76832,
+    7.7687,
+    5.76832
+],
+  "geometry": {"coordinates":[7.7687,5.76832],"type":"Point"}
+}

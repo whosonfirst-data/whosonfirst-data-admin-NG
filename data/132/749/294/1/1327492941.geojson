@@ -1,0 +1,68 @@
+{
+  "id": 1327492941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06667,8.16667,4.06667,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":4.06667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31028.0",
+    "gn:asciiname":"Elesu",
+    "gn:country_code":"NG",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343435,
+    "gn:latitude":8.16667,
+    "gn:longitude":4.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Elesu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343435
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c7ddb5ed65d06fb9404e2b863a2a48fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564205,
+            "locality_id":1327492941,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1327492941,
+    "wof:lastmodified":1537088032,
+    "wof:name":"Elesu",
+    "wof:parent_id":1108564205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06667,
+    8.16667,
+    4.06667,
+    8.16667
+],
+  "geometry": {"coordinates":[4.06667,8.16667],"type":"Point"}
+}

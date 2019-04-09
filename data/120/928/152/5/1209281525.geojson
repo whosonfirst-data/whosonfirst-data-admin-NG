@@ -1,0 +1,62 @@
+{
+  "id": 1209281525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.536,7.16282,8.536,7.16282",
+    "geom:latitude":7.16282,
+    "geom:longitude":8.536,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Manger",
+    "gn:country_code":"NG",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330919,
+    "gn:latitude":7.16282,
+    "gn:longitude":8.536,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Manger",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330919
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b92e1dc6a4620c8f6e0397dde6f6f741",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209281525
+        }
+    ],
+    "wof:id":1209281525,
+    "wof:lastmodified":1536292006,
+    "wof:name":"Manger",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.536,
+    7.16282,
+    8.536,
+    7.16282
+],
+  "geometry": {"coordinates":[8.536,7.16282],"type":"Point"}
+}

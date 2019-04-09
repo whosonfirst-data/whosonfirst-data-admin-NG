@@ -1,0 +1,62 @@
+{
+  "id": 1209696215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.64845,9.29655,7.64845,9.29655",
+    "geom:latitude":9.29655,
+    "geom:longitude":7.64845,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15002",
+    "gn:asciiname":"Kurmin-Daudu",
+    "gn:country_code":"NG",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10642969,
+    "gn:latitude":9.29655,
+    "gn:longitude":7.64845,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kurmin-Daudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10642969
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a95ba5c19cef79576e4e6710772ebde",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209696215
+        }
+    ],
+    "wof:id":1209696215,
+    "wof:lastmodified":1536279065,
+    "wof:name":"Kurmin-Daudu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.64845,
+    9.29655,
+    7.64845,
+    9.29655
+],
+  "geometry": {"coordinates":[7.64845,9.29655],"type":"Point"}
+}

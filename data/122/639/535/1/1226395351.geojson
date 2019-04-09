@@ -1,0 +1,68 @@
+{
+  "id": 1226395351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26437,5.26449,6.26437,5.26449",
+    "geom:latitude":5.26449,
+    "geom:longitude":6.26437,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10010.0",
+    "gn:asciiname":"Abari",
+    "gn:country_code":"NG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353029,
+    "gn:latitude":5.26449,
+    "gn:longitude":6.26437,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353029
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e5c466c04da92e0556ad0489de72aa44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563689,
+            "locality_id":1226395351,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1226395351,
+    "wof:lastmodified":1536718569,
+    "wof:name":"Abari",
+    "wof:parent_id":1108563689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26437,
+    5.26449,
+    6.26437,
+    5.26449
+],
+  "geometry": {"coordinates":[6.26437,5.26449],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209344001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.89854,12.79527,11.89854,12.79527",
+    "geom:latitude":12.79527,
+    "geom:longitude":11.89854,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70610",
+    "gn:asciiname":"Dagambi",
+    "gn:country_code":"NG",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345755,
+    "gn:latitude":12.79527,
+    "gn:longitude":11.89854,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dagambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345755
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ae37695e69b3695089c8fdb526efaffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344001
+        }
+    ],
+    "wof:id":1209344001,
+    "wof:lastmodified":1536289973,
+    "wof:name":"Dagambi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.89854,
+    12.79527,
+    11.89854,
+    12.79527
+],
+  "geometry": {"coordinates":[11.89854,12.79527],"type":"Point"}
+}

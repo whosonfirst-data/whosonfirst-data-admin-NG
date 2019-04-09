@@ -1,0 +1,62 @@
+{
+  "id": 1209347553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.62807,7.86468,10.62807,7.86468",
+    "geom:latitude":7.86468,
+    "geom:longitude":10.62807,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35002.0",
+    "gn:asciiname":"Jatan Imo",
+    "gn:country_code":"NG",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336393,
+    "gn:latitude":7.86468,
+    "gn:longitude":10.62807,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jatan Imo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336393
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f6f25c86b4a83acb0b0ac15aaa5c26bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347553
+        }
+    ],
+    "wof:id":1209347553,
+    "wof:lastmodified":1536289861,
+    "wof:name":"Jatan Imo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.62807,
+    7.86468,
+    10.62807,
+    7.86468
+],
+  "geometry": {"coordinates":[10.62807,7.86468],"type":"Point"}
+}

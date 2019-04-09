@@ -1,0 +1,67 @@
+{
+  "id": 1226384867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.54899,10.60409,4.54899,10.60409",
+    "geom:latitude":10.60409,
+    "geom:longitude":4.54899,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Kporokoso",
+    "gn:country_code":"NG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014586,
+    "gn:latitude":10.60409,
+    "gn:longitude":4.54899,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kporokoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108562941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014586
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"afc7ca1682bb5ccf4f2bde5ce7e9ef73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562941,
+            "locality_id":1226384867,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1226384867,
+    "wof:lastmodified":1536733478,
+    "wof:name":"Kporokoso",
+    "wof:parent_id":1108562941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.54899,
+    10.60409,
+    4.54899,
+    10.60409
+],
+  "geometry": {"coordinates":[4.54899,10.60409],"type":"Point"}
+}

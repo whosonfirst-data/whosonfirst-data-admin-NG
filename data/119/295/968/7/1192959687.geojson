@@ -1,0 +1,68 @@
+{
+  "id": 1192959687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.06667,7.56667,3.06667,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":3.06667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31013.0",
+    "gn:asciiname":"Baba Gbawu",
+    "gn:country_code":"NG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348532,
+    "gn:latitude":7.56667,
+    "gn:longitude":3.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Baba Gbawu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348532
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"258cfc958a9a2690853d4c3d275fb7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563503,
+            "locality_id":1192959687,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1192959687,
+    "wof:lastmodified":1536366801,
+    "wof:name":"Baba Gbawu",
+    "wof:parent_id":1108563503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.06667,
+    7.56667,
+    3.06667,
+    7.56667
+],
+  "geometry": {"coordinates":[3.06667,7.56667],"type":"Point"}
+}

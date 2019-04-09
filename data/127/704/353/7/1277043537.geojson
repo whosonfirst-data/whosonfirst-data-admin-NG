@@ -1,0 +1,75 @@
+{
+  "id": 1277043537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.36667,13.05,7.36667,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":7.36667,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"416.0",
+    "gn:admin3_code":"41611",
+    "gn:asciiname":"Unguwar Tsamga",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320155,
+    "gn:latitude":13.05,
+    "gn:longitude":7.36667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Unguwar Tsamga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsamga",
+        "Ungwan Tsamga",
+        "Unguwar Tsamga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320155
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"891f91870d14a25da1fc7ab74ef02204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563727,
+            "locality_id":1277043537,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1277043537,
+    "wof:lastmodified":1537674936,
+    "wof:name":"Unguwar Tsamga",
+    "wof:parent_id":1108563727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.36667,
+    13.05,
+    7.36667,
+    13.05
+],
+  "geometry": {"coordinates":[7.36667,13.05],"type":"Point"}
+}

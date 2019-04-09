@@ -1,0 +1,69 @@
+{
+  "id": 1309872353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.80317,13.28782,13.80317,13.28782",
+    "geom:latitude":13.28782,
+    "geom:longitude":13.80317,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"117",
+    "gn:admin3_code":"11706",
+    "gn:asciiname":"Tunbun Kairawa",
+    "gn:country_code":"NG",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8708258,
+    "gn:latitude":13.28782,
+    "gn:longitude":13.80317,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tunbun Kairawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8708258
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"27976fe0f3b840aba760b7cb60a2fd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563853,
+            "locality_id":1309872353,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1309872353,
+    "wof:lastmodified":1536834279,
+    "wof:name":"Tunbun Kairawa",
+    "wof:parent_id":1108563853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.80317,
+    13.28782,
+    13.80317,
+    13.28782
+],
+  "geometry": {"coordinates":[13.80317,13.28782],"type":"Point"}
+}

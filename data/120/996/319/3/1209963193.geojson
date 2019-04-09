@@ -1,0 +1,73 @@
+{
+  "id": 1209963193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.75004,11.45532,7.75004,11.45532",
+    "geom:latitude":11.45532,
+    "geom:longitude":7.75004,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20032.0",
+    "gn:admin3_code":"KN3408",
+    "gn:asciiname":"Ungwan Audu",
+    "gn:country_code":"NG",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320106,
+    "gn:latitude":11.45532,
+    "gn:longitude":7.75004,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungwan Audu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Audu",
+        "Ungwan Audu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320106
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9f8429e66e346132474a5b50b356882f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564309,
+            "locality_id":1209963193,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1209963193,
+    "wof:lastmodified":1537674934,
+    "wof:name":"Ungwan Audu",
+    "wof:parent_id":1108564309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.75004,
+    11.45532,
+    7.75004,
+    11.45532
+],
+  "geometry": {"coordinates":[7.75004,11.45532],"type":"Point"}
+}

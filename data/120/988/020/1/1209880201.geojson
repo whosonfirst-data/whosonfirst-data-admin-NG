@@ -1,0 +1,72 @@
+{
+  "id": 1209880201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.94721,4.6307,7.94721,4.6307",
+    "geom:latitude":4.6307,
+    "geom:longitude":7.94721,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Afaha Ukwa",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352285,
+    "gn:latitude":4.6307,
+    "gn:longitude":7.94721,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Afaha Ukwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afaha Uqua",
+        "Afaha Ukwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352285
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dd2103c04bdd6277ff4b8c355f8005ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563287,
+            "locality_id":1209880201,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1209880201,
+    "wof:lastmodified":1537675390,
+    "wof:name":"Afaha Ukwa",
+    "wof:parent_id":1108563287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.94721,
+    4.6307,
+    7.94721,
+    4.6307
+],
+  "geometry": {"coordinates":[7.94721,4.6307],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259744549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.07184,5.67597,7.07184,5.67597",
+    "geom:latitude":5.67597,
+    "geom:longitude":7.07184,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17010.0",
+    "gn:asciiname":"Umundugba",
+    "gn:country_code":"NG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2350222,
+    "gn:latitude":5.67597,
+    "gn:longitude":7.07184,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umundugba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amanduba",
+        "Amandugba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350222
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"60fc74479fc9f48aff092202755bbe97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563693,
+            "locality_id":1259744549,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1259744549,
+    "wof:lastmodified":1537675366,
+    "wof:name":"Umundugba",
+    "wof:parent_id":1108563693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.07184,
+    5.67597,
+    7.07184,
+    5.67597
+],
+  "geometry": {"coordinates":[7.07184,5.67597],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360313939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3702,7.3276,5.3702,7.3276",
+    "geom:latitude":7.3276,
+    "geom:longitude":5.3702,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Arowojaiye",
+    "gn:country_code":"NG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833028,
+    "gn:latitude":7.3276,
+    "gn:longitude":5.3702,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Arowojaiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108563665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833028
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"869a3f5963b5fbe67a5ddbcd951dc369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563665,
+            "locality_id":1360313939,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1360313939,
+    "wof:lastmodified":1536613166,
+    "wof:name":"Arowojaiye",
+    "wof:parent_id":1108563665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3702,
+    7.3276,
+    5.3702,
+    7.3276
+],
+  "geometry": {"coordinates":[5.3702,7.3276],"type":"Point"}
+}

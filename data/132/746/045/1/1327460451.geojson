@@ -1,0 +1,68 @@
+{
+  "id": 1327460451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05218,5.07099,6.05218,5.07099",
+    "geom:latitude":5.07099,
+    "geom:longitude":6.05218,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6006.0",
+    "gn:asciiname":"Atire-Gbene",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101161,
+    "gn:latitude":5.07099,
+    "gn:longitude":6.05218,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atire-Gbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101161
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a2529482717f6ed2bac32a86f9a6237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564323,
+            "locality_id":1327460451,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1327460451,
+    "wof:lastmodified":1536639421,
+    "wof:name":"Atire-Gbene",
+    "wof:parent_id":1108564323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05218,
+    5.07099,
+    6.05218,
+    5.07099
+],
+  "geometry": {"coordinates":[6.05218,5.07099],"type":"Point"}
+}

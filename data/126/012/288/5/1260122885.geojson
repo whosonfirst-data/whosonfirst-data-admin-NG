@@ -1,0 +1,68 @@
+{
+  "id": 1260122885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56667,6.65,5.56667,6.65",
+    "geom:latitude":6.65,
+    "geom:longitude":5.56667,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12014.0",
+    "gn:asciiname":"Iguhoro",
+    "gn:country_code":"NG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338558,
+    "gn:latitude":6.65,
+    "gn:longitude":5.56667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iguhoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338558
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2f54e52dc5696db22e5c54c736485ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564241,
+            "locality_id":1260122885,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1260122885,
+    "wof:lastmodified":1536932158,
+    "wof:name":"Iguhoro",
+    "wof:parent_id":1108564241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56667,
+    6.65,
+    5.56667,
+    6.65
+],
+  "geometry": {"coordinates":[5.56667,6.65],"type":"Point"}
+}

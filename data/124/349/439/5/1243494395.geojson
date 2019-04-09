@@ -1,0 +1,73 @@
+{
+  "id": 1243494395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88333,7.91667,11.88333,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":11.88333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2019.0",
+    "gn:asciiname":"Gende Kila",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341273,
+    "gn:latitude":7.91667,
+    "gn:longitude":11.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gende Kila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kila",
+        "Gende Kila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108564419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341273
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"afb9de7e48c55f4cba5a40998eb84829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564419,
+            "locality_id":1243494395,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243494395,
+    "wof:lastmodified":1537675248,
+    "wof:name":"Gende Kila",
+    "wof:parent_id":1108564419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88333,
+    7.91667,
+    11.88333,
+    7.91667
+],
+  "geometry": {"coordinates":[11.88333,7.91667],"type":"Point"}
+}

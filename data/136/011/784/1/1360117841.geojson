@@ -1,0 +1,72 @@
+{
+  "id": 1360117841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.43796,10.99109,11.43796,10.99109",
+    "geom:latitude":10.99109,
+    "geom:longitude":11.43796,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16005.0",
+    "gn:asciiname":"Kafiwol",
+    "gn:country_code":"NG",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2335652,
+    "gn:latitude":10.99109,
+    "gn:longitude":11.43796,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kafiwol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafiwal",
+        "Kafiwol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2335652
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"258b8203a5df07e8bbd70e922b02657a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563373,
+            "locality_id":1360117841,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1360117841,
+    "wof:lastmodified":1537675157,
+    "wof:name":"Kafiwol",
+    "wof:parent_id":1108563373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.43796,
+    10.99109,
+    11.43796,
+    10.99109
+],
+  "geometry": {"coordinates":[11.43796,10.99109],"type":"Point"}
+}

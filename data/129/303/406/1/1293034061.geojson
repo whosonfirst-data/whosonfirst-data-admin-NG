@@ -1,0 +1,68 @@
+{
+  "id": 1293034061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.32806,8.46778,7.32806,8.46778",
+    "geom:latitude":8.46778,
+    "geom:longitude":7.32806,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26012.0",
+    "gn:asciiname":"Garagwa",
+    "gn:country_code":"NG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341931,
+    "gn:latitude":8.46778,
+    "gn:longitude":7.32806,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garagwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341931
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"db0eb6e021d705ec6a6392916d9a5282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564417,
+            "locality_id":1293034061,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1293034061,
+    "wof:lastmodified":1536944336,
+    "wof:name":"Garagwa",
+    "wof:parent_id":1108564417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.32806,
+    8.46778,
+    7.32806,
+    8.46778
+],
+  "geometry": {"coordinates":[7.32806,8.46778],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327465049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3186,7.9213,5.3186,7.9213",
+    "geom:latitude":7.9213,
+    "geom:longitude":5.3186,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13016.0",
+    "gn:asciiname":"Isan-Ekiti",
+    "gn:country_code":"NG",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337240,
+    "gn:latitude":7.9213,
+    "gn:longitude":5.3186,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isan-Ekiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ishan",
+        "Isan-Ekiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675361,
+        1108564259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337240
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c68bfaa3baf0541ce2a25c67bd4f618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564259,
+            "locality_id":1327465049,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1327465049,
+    "wof:lastmodified":1537675180,
+    "wof:name":"Isan-Ekiti",
+    "wof:parent_id":1108564259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3186,
+    7.9213,
+    5.3186,
+    7.9213
+],
+  "geometry": {"coordinates":[5.3186,7.9213],"type":"Point"}
+}

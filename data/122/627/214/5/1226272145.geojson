@@ -1,0 +1,73 @@
+{
+  "id": 1226272145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.81849,9.72722,10.81849,9.72722",
+    "geom:latitude":9.72722,
+    "geom:longitude":10.81849,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Yolon Garuza",
+    "gn:country_code":"NG",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258919,
+    "gn:latitude":9.72722,
+    "gn:longitude":10.81849,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Yolon Garuza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yolon Garuza"
+    ],
+    "name:eng_x_variant":[
+        "Yalon Garuza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108562997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258919
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"df98ff5a70a5e1c1e3009e47789c1e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562997,
+            "locality_id":1226272145,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1226272145,
+    "wof:lastmodified":1537675512,
+    "wof:name":"Yolon Garuza",
+    "wof:parent_id":1108562997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.81849,
+    9.72722,
+    10.81849,
+    9.72722
+],
+  "geometry": {"coordinates":[10.81849,9.72722],"type":"Point"}
+}

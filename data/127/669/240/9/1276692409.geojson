@@ -1,0 +1,70 @@
+{
+  "id": 1276692409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.03442,9.15288,11.03442,9.15288",
+    "geom:latitude":9.15288,
+    "geom:longitude":11.03442,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Gaita",
+    "gn:country_code":"NG",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307835,
+    "gn:latitude":9.15288,
+    "gn:longitude":11.03442,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gaita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gaita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307835
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e87559ebfc4ab15375f733c62c4e6b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1276692409,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276692409,
+    "wof:lastmodified":1537675525,
+    "wof:name":"Gaita",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.03442,
+    9.15288,
+    11.03442,
+    9.15288
+],
+  "geometry": {"coordinates":[11.03442,9.15288],"type":"Point"}
+}

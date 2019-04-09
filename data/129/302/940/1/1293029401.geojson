@@ -1,0 +1,68 @@
+{
+  "id": 1293029401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.60341,8.79653,9.60341,8.79653",
+    "geom:latitude":8.79653,
+    "geom:longitude":9.60341,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32016",
+    "gn:asciiname":"Miyaptoe",
+    "gn:country_code":"NG",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10922691,
+    "gn:latitude":8.79653,
+    "gn:longitude":9.60341,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Miyaptoe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10922691
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2e56f03d8f0212de6f57682d36621a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564355,
+            "locality_id":1293029401,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1293029401,
+    "wof:lastmodified":1536950821,
+    "wof:name":"Miyaptoe",
+    "wof:parent_id":1108564355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.60341,
+    8.79653,
+    9.60341,
+    8.79653
+],
+  "geometry": {"coordinates":[9.60341,8.79653],"type":"Point"}
+}

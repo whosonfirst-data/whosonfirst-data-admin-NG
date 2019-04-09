@@ -1,0 +1,67 @@
+{
+  "id": 1343387693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.24007,4.5352,7.24007,4.5352",
+    "geom:latitude":4.5352,
+    "geom:longitude":7.24007,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Sobiekiri II",
+    "gn:country_code":"NG",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7053141,
+    "gn:latitude":4.5352,
+    "gn:longitude":7.24007,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Sobiekiri II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7053141
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8253e3e2dc84a56ce8e2edb90db54ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563151,
+            "locality_id":1343387693,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1343387693,
+    "wof:lastmodified":1536850266,
+    "wof:name":"Sobiekiri II",
+    "wof:parent_id":1108563151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.24007,
+    4.5352,
+    7.24007,
+    4.5352
+],
+  "geometry": {"coordinates":[7.24007,4.5352],"type":"Point"}
+}

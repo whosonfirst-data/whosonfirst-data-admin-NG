@@ -1,0 +1,73 @@
+{
+  "id": 1293127383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.87036,6.49418,4.87036,6.49418",
+    "geom:latitude":6.49418,
+    "geom:longitude":4.87036,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29012.0",
+    "gn:asciiname":"Ode-Irele",
+    "gn:country_code":"NG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2337324,
+    "gn:latitude":6.49418,
+    "gn:longitude":4.87036,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ode-Irele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Irele",
+        "Ode-Irele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337324,
+        "wk:page":"Ode-Irele"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb09d1e3f93d32585c9f5483ad225314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563649,
+            "locality_id":1293127383,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1293127383,
+    "wof:lastmodified":1537675182,
+    "wof:name":"Ode-Irele",
+    "wof:parent_id":1108563649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.87036,
+    6.49418,
+    4.87036,
+    6.49418
+],
+  "geometry": {"coordinates":[4.87036,6.49418],"type":"Point"}
+}

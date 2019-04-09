@@ -1,0 +1,72 @@
+{
+  "id": 1259364867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41022,6.73862,3.41022,6.73862",
+    "geom:latitude":6.73862,
+    "geom:longitude":3.41022,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Magado",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331550,
+    "gn:latitude":6.73862,
+    "gn:longitude":3.41022,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Magado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magboro-Shofolarin",
+        "Magado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        421188931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331550
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"081b22d9ae9c748fb521fbc7c3494238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188931,
+            "locality_id":1259364867,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1259364867,
+    "wof:lastmodified":1537675109,
+    "wof:name":"Magado",
+    "wof:parent_id":421188931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41022,
+    6.73862,
+    3.41022,
+    6.73862
+],
+  "geometry": {"coordinates":[3.41022,6.73862],"type":"Point"}
+}

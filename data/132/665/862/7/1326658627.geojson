@@ -1,0 +1,67 @@
+{
+  "id": 1326658627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.15631,8.84489,9.15631,8.84489",
+    "geom:latitude":8.84489,
+    "geom:longitude":9.15631,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Bwol",
+    "gn:country_code":"NG",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11058116,
+    "gn:latitude":8.84489,
+    "gn:longitude":9.15631,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Bwol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11058116
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"995c6ecaae0b8134a31cb2b172ac20f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564287,
+            "locality_id":1326658627,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1326658627,
+    "wof:lastmodified":1536801934,
+    "wof:name":"Bwol",
+    "wof:parent_id":1108564287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.15631,
+    8.84489,
+    9.15631,
+    8.84489
+],
+  "geometry": {"coordinates":[9.15631,8.84489],"type":"Point"}
+}

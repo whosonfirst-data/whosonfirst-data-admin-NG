@@ -1,0 +1,62 @@
+{
+  "id": 1209162183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.52429,7.59751,9.52429,7.59751",
+    "geom:latitude":7.59751,
+    "geom:longitude":9.52429,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7021",
+    "gn:asciiname":"Eti",
+    "gn:country_code":"NG",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9531167,
+    "gn:latitude":7.59751,
+    "gn:longitude":9.52429,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9531167
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3de18dada1b7e44cc739f1e755fa9ce6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209162183
+        }
+    ],
+    "wof:id":1209162183,
+    "wof:lastmodified":1536295859,
+    "wof:name":"Eti",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.52429,
+    7.5975100000000015,
+    9.52429,
+    7.5975100000000015
+],
+  "geometry": {"coordinates":[9.52429,7.59751],"type":"Point"}
+}

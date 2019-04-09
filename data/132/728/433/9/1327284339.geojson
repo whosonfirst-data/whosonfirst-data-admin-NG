@@ -1,0 +1,73 @@
+{
+  "id": 1327284339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.31669,12.18998,8.31669,12.18998",
+    "geom:latitude":12.18998,
+    "geom:longitude":8.31669,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20031.0",
+    "gn:admin3_code":"KN0501",
+    "gn:asciiname":"Badume",
+    "gn:country_code":"NG",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348329,
+    "gn:latitude":12.18998,
+    "gn:longitude":8.31669,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Badume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badumo",
+        "Badume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348329
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5b3c9af29633643d69649b4749847ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563115,
+            "locality_id":1327284339,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1327284339,
+    "wof:lastmodified":1537675344,
+    "wof:name":"Badume",
+    "wof:parent_id":1108563115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.31669,
+    12.18998,
+    8.31669,
+    12.18998
+],
+  "geometry": {"coordinates":[8.31669,12.18998],"type":"Point"}
+}

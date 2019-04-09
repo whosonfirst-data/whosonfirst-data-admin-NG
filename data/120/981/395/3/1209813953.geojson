@@ -1,0 +1,68 @@
+{
+  "id": 1209813953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.74724,6.44856,3.74724,6.44856",
+    "geom:latitude":6.44856,
+    "geom:longitude":3.74724,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25009.0",
+    "gn:asciiname":"Ajibade",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351365,
+    "gn:latitude":6.44856,
+    "gn:longitude":3.74724,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ajibade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421171305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351365
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f1116d9c7118454fc8308646d3abbe4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421171305,
+            "locality_id":1209813953,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1209813953,
+    "wof:lastmodified":1536385174,
+    "wof:name":"Ajibade",
+    "wof:parent_id":421171305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.74724,
+    6.44856,
+    3.74724,
+    6.44856
+],
+  "geometry": {"coordinates":[3.74724,6.44856],"type":"Point"}
+}

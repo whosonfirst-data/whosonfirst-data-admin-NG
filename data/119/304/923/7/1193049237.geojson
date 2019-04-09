@@ -1,0 +1,75 @@
+{
+  "id": 1193049237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00165,4.77211,6.00165,4.77211",
+    "geom:latitude":4.77211,
+    "geom:longitude":6.00165,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Okpotuwari",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326912,
+    "gn:latitude":4.77211,
+    "gn:longitude":6.00165,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Okpotuwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Okpotuwan"
+    ],
+    "name:und_x_variant":[
+        "Opotuwari",
+        "Okpotuwari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326912
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d4208faa96de6ac1b00218d5c9312c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564377,
+            "locality_id":1193049237,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1193049237,
+    "wof:lastmodified":1537675036,
+    "wof:name":"Okpotuwari",
+    "wof:parent_id":1108564377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00165,
+    4.77211,
+    6.00165,
+    4.77211
+],
+  "geometry": {"coordinates":[6.00165,4.77211],"type":"Point"}
+}

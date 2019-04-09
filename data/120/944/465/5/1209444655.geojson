@@ -1,0 +1,62 @@
+{
+  "id": 1209444655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.61667,8.51667,8.61667,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":8.61667,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26008.0",
+    "gn:asciiname":"Barikin Riya",
+    "gn:country_code":"NG",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347703,
+    "gn:latitude":8.51667,
+    "gn:longitude":8.61667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barikin Riya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347703
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"71262487fc073699eec195d1bfe7f03e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444655
+        }
+    ],
+    "wof:id":1209444655,
+    "wof:lastmodified":1536286855,
+    "wof:name":"Barikin Riya",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.61667,
+    8.51667,
+    8.61667,
+    8.51667
+],
+  "geometry": {"coordinates":[8.61667,8.51667],"type":"Point"}
+}

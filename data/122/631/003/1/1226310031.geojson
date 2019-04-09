@@ -1,0 +1,68 @@
+{
+  "id": 1226310031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.51561,6.99302,9.51561,6.99302",
+    "geom:latitude":6.99302,
+    "geom:longitude":9.51561,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011.0",
+    "gn:asciiname":"Iyortimin",
+    "gn:country_code":"NG",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336757,
+    "gn:latitude":6.99302,
+    "gn:longitude":9.51561,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iyortimin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336757
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"973291a0ec4f8a6dfe57467c2df624f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1226310031,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1226310031,
+    "wof:lastmodified":1536840078,
+    "wof:name":"Iyortimin",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.51561,
+    6.99302,
+    9.51561,
+    6.99302
+],
+  "geometry": {"coordinates":[9.51561,6.99302],"type":"Point"}
+}

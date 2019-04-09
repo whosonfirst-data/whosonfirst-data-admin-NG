@@ -1,0 +1,68 @@
+{
+  "id": 1343791493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.30472,9.26291,6.30472,9.26291",
+    "geom:latitude":9.26291,
+    "geom:longitude":6.30472,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010.0",
+    "gn:asciiname":"Sanwagi",
+    "gn:country_code":"NG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323683,
+    "gn:latitude":9.26291,
+    "gn:longitude":6.30472,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sanwagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323683
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"53e4b08b95f3b8a74b8003061d69c89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563789,
+            "locality_id":1343791493,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343791493,
+    "wof:lastmodified":1536766713,
+    "wof:name":"Sanwagi",
+    "wof:parent_id":1108563789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.30472,
+    9.26291,
+    6.30472,
+    9.26291
+],
+  "geometry": {"coordinates":[6.30472,9.26291],"type":"Point"}
+}

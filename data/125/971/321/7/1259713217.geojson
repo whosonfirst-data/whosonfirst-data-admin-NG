@@ -1,0 +1,68 @@
+{
+  "id": 1259713217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.06998,8.56072,11.06998,8.56072",
+    "geom:latitude":8.56072,
+    "geom:longitude":11.06998,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35005.0",
+    "gn:asciiname":"Garin Zamna",
+    "gn:country_code":"NG",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341772,
+    "gn:latitude":8.56072,
+    "gn:longitude":11.06998,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garin Zamna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341772
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e3276a2fd4be5c7b22e557c30c308d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563403,
+            "locality_id":1259713217,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259713217,
+    "wof:lastmodified":1537023336,
+    "wof:name":"Garin Zamna",
+    "wof:parent_id":1108563403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.06998,
+    8.56072,
+    11.06998,
+    8.56072
+],
+  "geometry": {"coordinates":[11.06998,8.56072],"type":"Point"}
+}

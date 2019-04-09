@@ -1,0 +1,73 @@
+{
+  "id": 1226524289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2087,6.90708,3.2087,6.90708",
+    "geom:latitude":6.90708,
+    "geom:longitude":3.2087,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28006.0",
+    "gn:asciiname":"Ewekoro",
+    "gn:country_code":"NG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342995,
+    "gn:latitude":6.90708,
+    "gn:longitude":3.2087,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ewekoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ewekora",
+        "Ewekoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342995,
+        "wk:page":"Ewekoro"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"68e1686c8db326fad90b7e3e86ee44ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563351,
+            "locality_id":1226524289,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1226524289,
+    "wof:lastmodified":1537675270,
+    "wof:name":"Ewekoro",
+    "wof:parent_id":1108563351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2087,
+    6.90708,
+    3.2087,
+    6.90708
+],
+  "geometry": {"coordinates":[3.2087,6.90708],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226803411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.57307,10.43222,12.57307,10.43222",
+    "geom:latitude":10.43222,
+    "geom:longitude":12.57307,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Fwahar",
+    "gn:country_code":"NG",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342463,
+    "gn:latitude":10.43222,
+    "gn:longitude":12.57307,
+    "gn:modification_date":"2009-03-13",
+    "gn:name":"Fwahar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342463
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bb14901dc4742078e9aa800621cb377c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563483,
+            "locality_id":1226803411,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1226803411,
+    "wof:lastmodified":1536631106,
+    "wof:name":"Fwahar",
+    "wof:parent_id":1108563483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.57307,
+    10.43222,
+    12.57307,
+    10.43222
+],
+  "geometry": {"coordinates":[12.57307,10.43222],"type":"Point"}
+}

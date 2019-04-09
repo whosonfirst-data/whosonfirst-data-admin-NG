@@ -1,0 +1,72 @@
+{
+  "id": 1327058417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.40144,10.85571,10.40144,10.85571",
+    "geom:latitude":10.85571,
+    "geom:longitude":10.40144,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5008.0",
+    "gn:admin3_code":"BA0813",
+    "gn:asciiname":"Dadinga",
+    "gn:country_code":"NG",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345800,
+    "gn:latitude":10.85571,
+    "gn:longitude":10.40144,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dadinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dadinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345800
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"605ff6ead3ec9d36fb60c94d05903b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563391,
+            "locality_id":1327058417,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1327058417,
+    "wof:lastmodified":1537675313,
+    "wof:name":"Dadinga",
+    "wof:parent_id":1108563391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.40144,
+    10.85571,
+    10.40144,
+    10.85571
+],
+  "geometry": {"coordinates":[10.40144,10.85571],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1226275495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.17713,7.01869,10.17713,7.01869",
+    "geom:latitude":7.01869,
+    "geom:longitude":10.17713,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Zanaka",
+    "gn:country_code":"NG",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317847,
+    "gn:latitude":7.01869,
+    "gn:longitude":10.17713,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Zanaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Douala",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317847
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"88b3ae6d44990286b395195bc85484a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226275495,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226275495,
+    "wof:lastmodified":1536890405,
+    "wof:name":"Zanaka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.17713,
+    7.01869,
+    10.17713,
+    7.01869
+],
+  "geometry": {"coordinates":[10.17713,7.01869],"type":"Point"}
+}

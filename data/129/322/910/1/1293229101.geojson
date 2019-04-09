@@ -1,0 +1,68 @@
+{
+  "id": 1293229101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90105,9.24552,5.90105,9.24552",
+    "geom:latitude":9.24552,
+    "geom:longitude":5.90105,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Ndadzuru",
+    "gn:country_code":"NG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308744,
+    "gn:latitude":9.24552,
+    "gn:longitude":5.90105,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndadzuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308744
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0c12eb8c90c6647efd5ad5d16f2389bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563409,
+            "locality_id":1293229101,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1293229101,
+    "wof:lastmodified":1536662710,
+    "wof:name":"Ndadzuru",
+    "wof:parent_id":1108563409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90105,
+    9.24552,
+    5.90105,
+    9.24552
+],
+  "geometry": {"coordinates":[5.90105,9.24552],"type":"Point"}
+}

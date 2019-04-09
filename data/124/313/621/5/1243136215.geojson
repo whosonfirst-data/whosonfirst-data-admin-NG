@@ -1,0 +1,68 @@
+{
+  "id": 1243136215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96626,4.5892,7.96626,4.5892",
+    "geom:latitude":4.5892,
+    "geom:longitude":7.96626,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3003.0",
+    "gn:asciiname":"Esit Urua",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343112,
+    "gn:latitude":4.5892,
+    "gn:longitude":7.96626,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Esit Urua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343112
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"49037a0f4c14b18b622fd9d64ae594be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563287,
+            "locality_id":1243136215,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1243136215,
+    "wof:lastmodified":1536756040,
+    "wof:name":"Esit Urua",
+    "wof:parent_id":1108563287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96626,
+    4.5892,
+    7.96626,
+    4.5892
+],
+  "geometry": {"coordinates":[7.96626,4.5892],"type":"Point"}
+}

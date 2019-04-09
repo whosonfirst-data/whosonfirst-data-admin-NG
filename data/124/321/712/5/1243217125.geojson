@@ -1,0 +1,68 @@
+{
+  "id": 1243217125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.12851,8.92461,12.12851,8.92461",
+    "geom:latitude":8.92461,
+    "geom:longitude":12.12851,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Wuro Birji",
+    "gn:country_code":"NG",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10418381,
+    "gn:latitude":8.92461,
+    "gn:longitude":12.12851,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Birji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10418381
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a49365dc97da6b1b8d652236e6901426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1243217125,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243217125,
+    "wof:lastmodified":1536638156,
+    "wof:name":"Wuro Birji",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.12851,
+    8.92461,
+    12.12851,
+    8.92461
+],
+  "geometry": {"coordinates":[12.12851,8.92461],"type":"Point"}
+}

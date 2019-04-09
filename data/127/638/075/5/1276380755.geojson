@@ -1,0 +1,74 @@
+{
+  "id": 1276380755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01858,6.23495,6.01858,6.23495",
+    "geom:latitude":6.23495,
+    "geom:longitude":6.01858,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Akughe",
+    "gn:country_code":"NG",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350880,
+    "gn:latitude":6.23495,
+    "gn:longitude":6.01858,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akughe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akughe"
+    ],
+    "name:eng_x_variant":[
+        "Akugbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350880
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0930a45b703edacc2e0bb65427f341e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1276380755,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1276380755,
+    "wof:lastmodified":1537675374,
+    "wof:name":"Akughe",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01858,
+    6.23495,
+    6.01858,
+    6.23495
+],
+  "geometry": {"coordinates":[6.01858,6.23495],"type":"Point"}
+}

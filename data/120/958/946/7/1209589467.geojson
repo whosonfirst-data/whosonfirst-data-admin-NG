@@ -1,0 +1,66 @@
+{
+  "id": 1209589467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.58171,4.66838,7.58171,4.66838",
+    "geom:latitude":4.66838,
+    "geom:longitude":7.58171,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3026.0",
+    "gn:asciiname":"Ikot Utiat",
+    "gn:country_code":"NG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337893,
+    "gn:latitude":4.66838,
+    "gn:longitude":7.58171,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Utiat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikot Utat",
+        "Ikot Utiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337893
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3670c80818191aee26974b505f02e5c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209589467
+        }
+    ],
+    "wof:id":1209589467,
+    "wof:lastmodified":1537675191,
+    "wof:name":"Ikot Utiat",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.58171,
+    4.66838,
+    7.58171,
+    4.66838
+],
+  "geometry": {"coordinates":[7.58171,4.66838],"type":"Point"}
+}

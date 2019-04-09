@@ -1,0 +1,71 @@
+{
+  "id": 1193175785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.50041,6.67309,6.50041,6.67309",
+    "geom:latitude":6.67309,
+    "geom:longitude":6.50041,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12005.0",
+    "gn:asciiname":"Oria",
+    "gn:country_code":"NG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325786,
+    "gn:latitude":6.67309,
+    "gn:longitude":6.50041,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325786
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cc0d750c1e224c66e14daab45cee6699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563319,
+            "locality_id":1193175785,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1193175785,
+    "wof:lastmodified":1537675021,
+    "wof:name":"Oria",
+    "wof:parent_id":1108563319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.50041,
+    6.67309,
+    6.50041,
+    6.67309
+],
+  "geometry": {"coordinates":[6.50041,6.67309],"type":"Point"}
+}

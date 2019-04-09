@@ -1,0 +1,68 @@
+{
+  "id": 1226583915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07714,10.04771,13.07714,10.04771",
+    "geom:latitude":10.04771,
+    "geom:longitude":13.07714,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Luggarewa",
+    "gn:country_code":"NG",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331857,
+    "gn:latitude":10.04771,
+    "gn:longitude":13.07714,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Luggarewa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331857
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7340ea420f0381f864ea7a414618a6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563927,
+            "locality_id":1226583915,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226583915,
+    "wof:lastmodified":1536945634,
+    "wof:name":"Luggarewa",
+    "wof:parent_id":1108563927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07714,
+    10.04771,
+    13.07714,
+    10.04771
+],
+  "geometry": {"coordinates":[13.07714,10.04771],"type":"Point"}
+}

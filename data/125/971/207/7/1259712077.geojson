@@ -1,0 +1,68 @@
+{
+  "id": 1259712077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3191,7.2256,5.3191,7.2256",
+    "geom:latitude":7.2256,
+    "geom:longitude":5.3191,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29005.0",
+    "gn:asciiname":"Omomeji",
+    "gn:country_code":"NG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6832939,
+    "gn:latitude":7.2256,
+    "gn:longitude":5.3191,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Omomeji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108562983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6832939
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b1fce451f9680dc85aa75e6bb66696f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562983,
+            "locality_id":1259712077,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1259712077,
+    "wof:lastmodified":1537024900,
+    "wof:name":"Omomeji",
+    "wof:parent_id":1108562983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3191,
+    7.2256,
+    5.3191,
+    7.2256
+],
+  "geometry": {"coordinates":[5.3191,7.2256],"type":"Point"}
+}

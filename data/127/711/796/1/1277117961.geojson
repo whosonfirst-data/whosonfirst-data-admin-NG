@@ -1,0 +1,73 @@
+{
+  "id": 1277117961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.05,8.86667,4.05,8.86667",
+    "geom:latitude":8.86667,
+    "geom:longitude":4.05,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31024.0",
+    "gn:asciiname":"Garuba",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341716,
+    "gn:latitude":8.86667,
+    "gn:longitude":4.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajano",
+        "Garuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108564175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341716
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2994cb232be4f8492068695a2c6f1d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564175,
+            "locality_id":1277117961,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1277117961,
+    "wof:lastmodified":1537675254,
+    "wof:name":"Garuba",
+    "wof:parent_id":1108564175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.05,
+    8.86667,
+    4.05,
+    8.86667
+],
+  "geometry": {"coordinates":[4.05,8.86667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293865825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2917,6.78693,3.2917,6.78693",
+    "geom:latitude":6.78693,
+    "geom:longitude":3.2917,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28007.0",
+    "gn:asciiname":"Arugudu",
+    "gn:country_code":"NG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826306,
+    "gn:latitude":6.78693,
+    "gn:longitude":3.2917,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Arugudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826306
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"be96ee96d46566e70e9332b7c0c15c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563549,
+            "locality_id":1293865825,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1293865825,
+    "wof:lastmodified":1536738724,
+    "wof:name":"Arugudu",
+    "wof:parent_id":1108563549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2917,
+    6.78693,
+    3.2917,
+    6.78693
+],
+  "geometry": {"coordinates":[3.2917,6.78693],"type":"Point"}
+}

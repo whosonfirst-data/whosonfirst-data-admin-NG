@@ -1,0 +1,68 @@
+{
+  "id": 1259929497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9,8.25,4.9,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":4.9,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24009.0",
+    "gn:asciiname":"Iddo Oro",
+    "gn:country_code":"NG",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339137,
+    "gn:latitude":8.25,
+    "gn:longitude":4.9,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iddo Oro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339137
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"16f36c7f7bf097f503763bdea806e512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563655,
+            "locality_id":1259929497,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1259929497,
+    "wof:lastmodified":1536713365,
+    "wof:name":"Iddo Oro",
+    "wof:parent_id":1108563655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9,
+    8.25,
+    4.9,
+    8.25
+],
+  "geometry": {"coordinates":[4.9,8.25],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209582737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01931,7.64684,9.01931,7.64684",
+    "geom:latitude":7.64684,
+    "geom:longitude":9.01931,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7006",
+    "gn:asciiname":"Tseubur",
+    "gn:country_code":"NG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525842,
+    "gn:latitude":7.64684,
+    "gn:longitude":9.01931,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tseubur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525842
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3e22ea9777e3ccdab6d2fb7b383e0948",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209582737
+        }
+    ],
+    "wof:id":1209582737,
+    "wof:lastmodified":1536282736,
+    "wof:name":"Tseubur",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01931,
+    7.646839999999999,
+    9.01931,
+    7.646839999999999
+],
+  "geometry": {"coordinates":[9.01931,7.64684],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243392931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.73245,10.89439,11.73245,10.89439",
+    "geom:latitude":10.89439,
+    "geom:longitude":11.73245,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Maidugari",
+    "gn:country_code":"NG",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331450,
+    "gn:latitude":10.89439,
+    "gn:longitude":11.73245,
+    "gn:modification_date":"2009-05-14",
+    "gn:name":"Maidugari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331450
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dee81f987f33f7c20c4b768c1d100910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563135,
+            "locality_id":1243392931,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1243392931,
+    "wof:lastmodified":1536882215,
+    "wof:name":"Maidugari",
+    "wof:parent_id":1108563135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.73245,
+    10.89439,
+    11.73245,
+    10.89439
+],
+  "geometry": {"coordinates":[11.73245,10.89439],"type":"Point"}
+}

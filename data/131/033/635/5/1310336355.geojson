@@ -1,0 +1,68 @@
+{
+  "id": 1310336355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.26406,5.07627,6.26406,5.07627",
+    "geom:latitude":5.07627,
+    "geom:longitude":6.26406,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6003.0",
+    "gn:asciiname":"Opokuma",
+    "gn:country_code":"NG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101197,
+    "gn:latitude":5.07627,
+    "gn:longitude":6.26406,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Opokuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108563835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101197
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe18439618cf22de23a3fa5a65eb289e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563835,
+            "locality_id":1310336355,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1310336355,
+    "wof:lastmodified":1536663561,
+    "wof:name":"Opokuma",
+    "wof:parent_id":1108563835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.26406,
+    5.07627,
+    6.26406,
+    5.07627
+],
+  "geometry": {"coordinates":[6.26406,5.07627],"type":"Point"}
+}

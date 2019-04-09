@@ -1,0 +1,73 @@
+{
+  "id": 1310534467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1079,13.09969,12.1079,13.09969",
+    "geom:latitude":13.09969,
+    "geom:longitude":12.1079,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"716",
+    "gn:admin3_code":"71606",
+    "gn:asciiname":"Kanamma",
+    "gn:country_code":"NG",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10337567,
+    "gn:latitude":13.09969,
+    "gn:longitude":12.1079,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kanamma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Niamey",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanama",
+        "Kanamga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337567
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b350d21dfd673ab872840756f4df0f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051363,
+            "locality_id":1310534467,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1310534467,
+    "wof:lastmodified":1537675470,
+    "wof:name":"Kanamma",
+    "wof:parent_id":1092051363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1079,
+    13.09969,
+    12.1079,
+    13.09969
+],
+  "geometry": {"coordinates":[12.1079,13.09969],"type":"Point"}
+}

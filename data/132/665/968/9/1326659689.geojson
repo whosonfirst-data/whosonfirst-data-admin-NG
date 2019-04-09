@@ -1,0 +1,68 @@
+{
+  "id": 1326659689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.97043,9.21197,7.97043,9.21197",
+    "geom:latitude":9.21197,
+    "geom:longitude":7.97043,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004",
+    "gn:asciiname":"Garamba",
+    "gn:country_code":"NG",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641574,
+    "gn:latitude":9.21197,
+    "gn:longitude":7.97043,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Garamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641574
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7bf80b30a3f30423b6053723ab048fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563785,
+            "locality_id":1326659689,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1326659689,
+    "wof:lastmodified":1536800417,
+    "wof:name":"Garamba",
+    "wof:parent_id":1108563785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97043,
+    9.21197,
+    7.97043,
+    9.21197
+],
+  "geometry": {"coordinates":[7.97043,9.21197],"type":"Point"}
+}

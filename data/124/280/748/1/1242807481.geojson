@@ -1,0 +1,71 @@
+{
+  "id": 1242807481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.61032,10.67524,10.61032,10.67524",
+    "geom:latitude":10.67524,
+    "geom:longitude":10.61032,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Jangira",
+    "gn:country_code":"NG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336469,
+    "gn:latitude":10.67524,
+    "gn:longitude":10.61032,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jangira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jangira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336469
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4a87fa31f8974013297c6a75df6e5619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1242807481,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1242807481,
+    "wof:lastmodified":1537675167,
+    "wof:name":"Jangira",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.61032,
+    10.67524,
+    10.61032,
+    10.67524
+],
+  "geometry": {"coordinates":[10.61032,10.67524],"type":"Point"}
+}

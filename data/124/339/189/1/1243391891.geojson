@@ -1,0 +1,73 @@
+{
+  "id": 1243391891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.68926,12.28504,6.68926,12.28504",
+    "geom:latitude":12.28504,
+    "geom:longitude":6.68926,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"805.0",
+    "gn:admin3_code":"80501",
+    "gn:asciiname":"Guidan Nahiru",
+    "gn:country_code":"NG",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340825,
+    "gn:latitude":12.28504,
+    "gn:longitude":6.68926,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guidan Nahiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Nahiru",
+        "Guidan Nahiru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340825
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a8097481a23fd5664d503613ec477cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563167,
+            "locality_id":1243391891,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1243391891,
+    "wof:lastmodified":1537675233,
+    "wof:name":"Guidan Nahiru",
+    "wof:parent_id":1108563167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.68926,
+    12.28504,
+    6.68926,
+    12.28504
+],
+  "geometry": {"coordinates":[6.68926,12.28504],"type":"Point"}
+}

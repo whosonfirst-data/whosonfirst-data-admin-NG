@@ -1,0 +1,68 @@
+{
+  "id": 1276904245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28497,8.63896,11.28497,8.63896",
+    "geom:latitude":8.63896,
+    "geom:longitude":11.28497,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001.0",
+    "gn:asciiname":"Kazan",
+    "gn:country_code":"NG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334680,
+    "gn:latitude":8.63896,
+    "gn:longitude":11.28497,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kazan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334680
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"29794315a4a3fea3e4e33e28e4b2d557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1276904245,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1276904245,
+    "wof:lastmodified":1537007979,
+    "wof:name":"Kazan",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28497,
+    8.63896,
+    11.28497,
+    8.63896
+],
+  "geometry": {"coordinates":[11.28497,8.63896],"type":"Point"}
+}

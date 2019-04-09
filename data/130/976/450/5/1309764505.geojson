@@ -1,0 +1,68 @@
+{
+  "id": 1309764505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.98426,5.25518,7.98426,5.25518",
+    "geom:latitude":5.25518,
+    "geom:longitude":7.98426,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9015.0",
+    "gn:asciiname":"Ikot-Ebiti",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074012,
+    "gn:latitude":5.25518,
+    "gn:longitude":7.98426,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot-Ebiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074012
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c9bdb98fe1a7068b69fdd0c0843e35ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564097,
+            "locality_id":1309764505,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1309764505,
+    "wof:lastmodified":1536989929,
+    "wof:name":"Ikot-Ebiti",
+    "wof:parent_id":1108564097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.98426,
+    5.25518,
+    7.98426,
+    5.25518
+],
+  "geometry": {"coordinates":[7.98426,5.25518],"type":"Point"}
+}

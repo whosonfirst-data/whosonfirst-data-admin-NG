@@ -1,0 +1,63 @@
+{
+  "id": 1209072853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.77542,10.94606,12.77542,10.94606",
+    "geom:latitude":10.94606,
+    "geom:longitude":12.77542,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"106.0",
+    "gn:admin3_code":"10608",
+    "gn:asciiname":"Mbowa Kura",
+    "gn:country_code":"NG",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330301,
+    "gn:latitude":10.94606,
+    "gn:longitude":12.77542,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbowa Kura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330301
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b11e8557362fef92928c99d3b44c0174",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209072853
+        }
+    ],
+    "wof:id":1209072853,
+    "wof:lastmodified":1536298591,
+    "wof:name":"Mbowa Kura",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.77542,
+    10.94606,
+    12.77542,
+    10.94606
+],
+  "geometry": {"coordinates":[12.77542,10.94606],"type":"Point"}
+}

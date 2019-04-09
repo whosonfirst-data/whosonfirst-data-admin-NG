@@ -1,0 +1,71 @@
+{
+  "id": 1293043755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.65797,6.55991,6.65797,6.55991",
+    "geom:latitude":6.55991,
+    "geom:longitude":6.65797,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12005.0",
+    "gn:asciiname":"Imbaka",
+    "gn:country_code":"NG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337589,
+    "gn:latitude":6.55991,
+    "gn:longitude":6.65797,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Imbaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Imbaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108563319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337589
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"afc6fb7401e96c89274e9593343aa798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563319,
+            "locality_id":1293043755,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1293043755,
+    "wof:lastmodified":1537675185,
+    "wof:name":"Imbaka",
+    "wof:parent_id":1108563319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.65797,
+    6.55991,
+    6.65797,
+    6.55991
+],
+  "geometry": {"coordinates":[6.65797,6.55991],"type":"Point"}
+}

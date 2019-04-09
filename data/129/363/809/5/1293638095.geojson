@@ -1,0 +1,68 @@
+{
+  "id": 1293638095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98333,8.08333,3.98333,8.08333",
+    "geom:latitude":8.08333,
+    "geom:longitude":3.98333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31003.0",
+    "gn:asciiname":"Olokun Esin",
+    "gn:country_code":"NG",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326553,
+    "gn:latitude":8.08333,
+    "gn:longitude":3.98333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olokun Esin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326553
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4a0608ae05c57436ef5443cfb9333c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563045,
+            "locality_id":1293638095,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293638095,
+    "wof:lastmodified":1537064443,
+    "wof:name":"Olokun Esin",
+    "wof:parent_id":1108563045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98333,
+    8.08333,
+    3.98333,
+    8.08333
+],
+  "geometry": {"coordinates":[3.98333,8.08333],"type":"Point"}
+}

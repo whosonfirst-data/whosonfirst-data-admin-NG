@@ -1,0 +1,69 @@
+{
+  "id": 1260108687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.94884,12.13764,4.94884,12.13764",
+    "geom:latitude":12.13764,
+    "geom:longitude":4.94884,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"806.0",
+    "gn:admin3_code":"80607",
+    "gn:asciiname":"Takatsaba",
+    "gn:country_code":"NG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040250,
+    "gn:latitude":12.13764,
+    "gn:longitude":4.94884,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Takatsaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040250
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c02ad22fb8a7d75d463dba9d4bf26161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563809,
+            "locality_id":1260108687,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1260108687,
+    "wof:lastmodified":1536952065,
+    "wof:name":"Takatsaba",
+    "wof:parent_id":1108563809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.94884,
+    12.13764,
+    4.94884,
+    12.13764
+],
+  "geometry": {"coordinates":[4.94884,12.13764],"type":"Point"}
+}

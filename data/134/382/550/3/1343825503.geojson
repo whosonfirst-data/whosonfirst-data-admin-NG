@@ -1,0 +1,71 @@
+{
+  "id": 1343825503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.99556,6.14621,6.99556,6.14621",
+    "geom:latitude":6.14621,
+    "geom:longitude":6.99556,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4013.0",
+    "gn:asciiname":"Oraukwu",
+    "gn:country_code":"NG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325827,
+    "gn:latitude":6.14621,
+    "gn:longitude":6.99556,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oraukwu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oraukwu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325827
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1e765f9712f45cdb0e97eb7fe712471b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564039,
+            "locality_id":1343825503,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1343825503,
+    "wof:lastmodified":1537675022,
+    "wof:name":"Oraukwu",
+    "wof:parent_id":1108564039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.99556,
+    6.14621,
+    6.99556,
+    6.14621
+],
+  "geometry": {"coordinates":[6.99556,6.14621],"type":"Point"}
+}

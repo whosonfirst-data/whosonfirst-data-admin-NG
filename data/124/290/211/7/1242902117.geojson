@@ -1,0 +1,71 @@
+{
+  "id": 1242902117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.52698,8.98085,11.52698,8.98085",
+    "geom:latitude":8.98085,
+    "geom:longitude":11.52698,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015.0",
+    "gn:asciiname":"Dilla",
+    "gn:country_code":"NG",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344839,
+    "gn:latitude":8.98085,
+    "gn:longitude":11.52698,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dilla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344839
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bbeaa2daa6a6f9ce12122d6641b2049a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1242902117,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1242902117,
+    "wof:lastmodified":1537675302,
+    "wof:name":"Dilla",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.52698,
+    8.98085,
+    11.52698,
+    8.98085
+],
+  "geometry": {"coordinates":[11.52698,8.98085],"type":"Point"}
+}

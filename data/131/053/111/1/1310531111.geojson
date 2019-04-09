@@ -1,0 +1,68 @@
+{
+  "id": 1310531111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.64182,6.24279,4.64182,6.24279",
+    "geom:latitude":6.24279,
+    "geom:longitude":4.64182,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Oroyo-Oke",
+    "gn:country_code":"NG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325675,
+    "gn:latitude":6.24279,
+    "gn:longitude":4.64182,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oroyo-Oke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325675
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6c20d429c7ad1299cd7e7f9003d59a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1310531111,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1310531111,
+    "wof:lastmodified":1536879297,
+    "wof:name":"Oroyo-Oke",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.64182,
+    6.24279,
+    4.64182,
+    6.24279
+],
+  "geometry": {"coordinates":[4.64182,6.24279],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125869311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.95,9.36667,9.95,9.36667",
+    "geom:latitude":9.36667,
+    "geom:longitude":9.95,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6276,
+    "gn:population":6276,
+    "iso:country":"NG",
+    "lbl:latitude":9.36667,
+    "lbl:longitude":9.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Dengi"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2344941,
+    "qs_pg:gn_pop":6276,
+    "qs_pg:name":"Dengi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":139759,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344941,
+        "qs_pg:id":139759
+    },
+    "wof:country":"NG",
+    "wof:created":1497294209,
+    "wof:geomhash":"e276d924a296de3da6872a0d6ff85fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563767,
+            "locality_id":1125869311,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1125869311,
+    "wof:lastmodified":1509397190,
+    "wof:name":"Dengi",
+    "wof:parent_id":1108563767,
+    "wof:placetype":"locality",
+    "wof:population":6276,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.95,
+    9.36667,
+    9.95,
+    9.36667
+],
+  "geometry": {"coordinates":[9.95,9.36667],"type":"Point"}
+}

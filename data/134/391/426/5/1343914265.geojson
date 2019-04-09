@@ -1,0 +1,68 @@
+{
+  "id": 1343914265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.39504,6.13728,8.39504,6.13728",
+    "geom:latitude":6.13728,
+    "geom:longitude":8.39504,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9013",
+    "gn:asciiname":"Araragha",
+    "gn:country_code":"NG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9275027,
+    "gn:latitude":6.13728,
+    "gn:longitude":8.39504,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Araragha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9275027
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ba9608bae46a1069f8bf1cdf7b27c170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564085,
+            "locality_id":1343914265,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343914265,
+    "wof:lastmodified":1537083622,
+    "wof:name":"Araragha",
+    "wof:parent_id":1108564085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.39504,
+    6.13728,
+    8.39504,
+    6.13728
+],
+  "geometry": {"coordinates":[8.39504,6.13728],"type":"Point"}
+}

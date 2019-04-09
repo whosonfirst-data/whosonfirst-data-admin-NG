@@ -1,0 +1,67 @@
+{
+  "id": 1260212135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.55418,10.33609,11.55418,10.33609",
+    "geom:latitude":10.33609,
+    "geom:longitude":11.55418,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Mallam Bapa",
+    "gn:country_code":"NG",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331055,
+    "gn:latitude":10.33609,
+    "gn:longitude":11.55418,
+    "gn:modification_date":"2009-09-08",
+    "gn:name":"Mallam Bapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331055
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"731ec69f845ec73e109de66a587f7430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564531,
+            "locality_id":1260212135,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1260212135,
+    "wof:lastmodified":1536808494,
+    "wof:name":"Mallam Bapa",
+    "wof:parent_id":1108564531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.55418,
+    10.33609,
+    11.55418,
+    10.33609
+],
+  "geometry": {"coordinates":[11.55418,10.33609],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209138875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.7785,9.9376,6.7785,9.9376",
+    "geom:latitude":9.9376,
+    "geom:longitude":6.7785,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Gidan Sagwana",
+    "gn:country_code":"NG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409261,
+    "gn:latitude":9.9376,
+    "gn:longitude":6.7785,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Sagwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409261
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8e1782720e50ab54a751aad92ddfdb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209138875
+        }
+    ],
+    "wof:id":1209138875,
+    "wof:lastmodified":1536296570,
+    "wof:name":"Gidan Sagwana",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.7785,
+    9.9376,
+    6.7785,
+    9.9376
+],
+  "geometry": {"coordinates":[6.7785,9.9376],"type":"Point"}
+}

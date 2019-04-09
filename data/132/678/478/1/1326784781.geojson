@@ -1,0 +1,68 @@
+{
+  "id": 1326784781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.21815,7.23152,9.21815,7.23152",
+    "geom:latitude":7.23152,
+    "geom:longitude":9.21815,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Kuleve",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9638383,
+    "gn:latitude":7.23152,
+    "gn:longitude":9.21815,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kuleve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9638383
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b088a51702be679fb3e1b566bd7a4517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1326784781,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1326784781,
+    "wof:lastmodified":1536617940,
+    "wof:name":"Kuleve",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.21815,
+    7.23152,
+    9.21815,
+    7.23152
+],
+  "geometry": {"coordinates":[9.21815,7.23152],"type":"Point"}
+}

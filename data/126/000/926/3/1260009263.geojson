@@ -1,0 +1,73 @@
+{
+  "id": 1260009263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.1,8.15,6.1,8.15",
+    "geom:latitude":8.15,
+    "geom:longitude":6.1,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23010.0",
+    "gn:asciiname":"Eluke",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343387,
+    "gn:latitude":8.15,
+    "gn:longitude":6.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eluke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luke",
+        "Eluke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343387
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9829f021d02eb7399b740a767269a02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563735,
+            "locality_id":1260009263,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1260009263,
+    "wof:lastmodified":1537675278,
+    "wof:name":"Eluke",
+    "wof:parent_id":1108563735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.1,
+    8.15,
+    6.1,
+    8.15
+],
+  "geometry": {"coordinates":[6.1,8.15],"type":"Point"}
+}

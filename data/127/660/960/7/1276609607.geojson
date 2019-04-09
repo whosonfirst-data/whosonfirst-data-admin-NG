@@ -1,0 +1,67 @@
+{
+  "id": 1276609607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.55042,11.23501,8.55042,11.23501",
+    "geom:latitude":11.23501,
+    "geom:longitude":8.55042,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Nasarawa",
+    "gn:country_code":"NG",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067155,
+    "gn:latitude":11.23501,
+    "gn:longitude":8.55042,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Nasarawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108564427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067155
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f9346122d51cbe0c536ee5bb3e57a770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564427,
+            "locality_id":1276609607,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1276609607,
+    "wof:lastmodified":1536906281,
+    "wof:name":"Nasarawa",
+    "wof:parent_id":1108564427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.55042,
+    11.23501,
+    8.55042,
+    11.23501
+],
+  "geometry": {"coordinates":[8.55042,11.23501],"type":"Point"}
+}

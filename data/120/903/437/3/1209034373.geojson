@@ -1,0 +1,62 @@
+{
+  "id": 1209034373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.07519,9.3018,6.07519,9.3018",
+    "geom:latitude":9.3018,
+    "geom:longitude":6.07519,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008.0",
+    "gn:asciiname":"Gidan Chigo",
+    "gn:country_code":"NG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341092,
+    "gn:latitude":9.3018,
+    "gn:longitude":6.07519,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Chigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341092
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"50ade0ec7b87af641e40313a0160c1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209034373
+        }
+    ],
+    "wof:id":1209034373,
+    "wof:lastmodified":1536299749,
+    "wof:name":"Gidan Chigo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07519,
+    9.3018,
+    6.07519,
+    9.3018
+],
+  "geometry": {"coordinates":[6.07519,9.3018],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360039523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.23302,13.55613,13.23302,13.55613",
+    "geom:latitude":13.55613,
+    "geom:longitude":13.23302,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10108",
+    "gn:asciiname":"Yau",
+    "gn:country_code":"NG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318229,
+    "gn:latitude":13.55613,
+    "gn:longitude":13.23302,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yo",
+        "Yau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632269,
+        85675269,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318229
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"626afdbb824a5425f79e6136b5286642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":1360039523,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":1360039523,
+    "wof:lastmodified":1537674904,
+    "wof:name":"Yau",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.23302,
+    13.55613,
+    13.23302,
+    13.55613
+],
+  "geometry": {"coordinates":[13.23302,13.55613],"type":"Point"}
+}

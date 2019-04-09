@@ -1,0 +1,70 @@
+{
+  "id": 1242926871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7712,9.10749,11.7712,9.10749",
+    "geom:latitude":9.10749,
+    "geom:longitude":11.7712,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Beda",
+    "gn:country_code":"NG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210616,
+    "gn:latitude":9.10749,
+    "gn:longitude":11.7712,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Beda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Beda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210616
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c1338b2c509d7b5aaefe748f805cafb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1242926871,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1242926871,
+    "wof:lastmodified":1537675510,
+    "wof:name":"Beda",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7712,
+    9.10749,
+    11.7712,
+    9.10749
+],
+  "geometry": {"coordinates":[11.7712,9.10749],"type":"Point"}
+}

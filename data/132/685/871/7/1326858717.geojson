@@ -1,0 +1,67 @@
+{
+  "id": 1326858717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9528,10.06438,8.9528,10.06438",
+    "geom:latitude":10.06438,
+    "geom:longitude":8.9528,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Ganji",
+    "gn:country_code":"NG",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342005,
+    "gn:latitude":10.06438,
+    "gn:longitude":8.9528,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Ganji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342005
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e62367870328c9f1c6766409da5377b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563095,
+            "locality_id":1326858717,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1326858717,
+    "wof:lastmodified":1537010015,
+    "wof:name":"Ganji",
+    "wof:parent_id":1108563095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9528,
+    10.06438,
+    8.9528,
+    10.06438
+],
+  "geometry": {"coordinates":[8.9528,10.06438],"type":"Point"}
+}

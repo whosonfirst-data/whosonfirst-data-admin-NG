@@ -1,0 +1,77 @@
+{
+  "id": 1242643921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33952,13.6746,13.33952,13.6746",
+    "geom:latitude":13.6746,
+    "geom:longitude":13.33952,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"101.0",
+    "gn:admin3_code":"10106",
+    "gn:asciiname":"Mallam Fatori",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2347033,
+    "gn:latitude":13.6746,
+    "gn:longitude":13.33952,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mallam Fatori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bisagana",
+        "Malam Fatori",
+        "Mallam Fatori",
+        "Bisugana",
+        "Malumfatori",
+        "Malum Fatori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108562899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347033
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"54ef50c6803ab64e1e166d4bcfb5619f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562899,
+            "locality_id":1242643921,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1242643921,
+    "wof:lastmodified":1537675328,
+    "wof:name":"Mallam Fatori",
+    "wof:parent_id":1108562899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33952,
+    13.6746,
+    13.33952,
+    13.6746
+],
+  "geometry": {"coordinates":[13.33952,13.6746],"type":"Point"}
+}

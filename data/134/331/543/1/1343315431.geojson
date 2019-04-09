@@ -1,0 +1,68 @@
+{
+  "id": 1343315431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33148,10.21763,13.33148,10.21763",
+    "geom:latitude":10.21763,
+    "geom:longitude":13.33148,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Moduva",
+    "gn:country_code":"NG",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760213,
+    "gn:latitude":10.21763,
+    "gn:longitude":13.33148,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Moduva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760213
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b1fe60b601032928ddb1428b257d79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":1343315431,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1343315431,
+    "wof:lastmodified":1536955775,
+    "wof:name":"Moduva",
+    "wof:parent_id":1108563999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33148,
+    10.21763,
+    13.33148,
+    10.21763
+],
+  "geometry": {"coordinates":[13.33148,10.21763],"type":"Point"}
+}

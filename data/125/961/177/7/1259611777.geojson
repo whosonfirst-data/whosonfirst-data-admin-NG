@@ -1,0 +1,68 @@
+{
+  "id": 1259611777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74833,4.61044,6.74833,4.61044",
+    "geom:latitude":4.61044,
+    "geom:longitude":6.74833,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33004.0",
+    "gn:asciiname":"Dariama",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593239,
+    "gn:latitude":4.61044,
+    "gn:longitude":6.74833,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dariama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593239
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2fd17d71f6e328682f388c6a01c92496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562981,
+            "locality_id":1259611777,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1259611777,
+    "wof:lastmodified":1536674144,
+    "wof:name":"Dariama",
+    "wof:parent_id":1108562981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74833,
+    4.61044,
+    6.74833,
+    4.61044
+],
+  "geometry": {"coordinates":[6.74833,4.61044],"type":"Point"}
+}

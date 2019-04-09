@@ -1,0 +1,77 @@
+{
+  "id": 1310357101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08453,6.22176,6.08453,6.22176",
+    "geom:latitude":6.22176,
+    "geom:longitude":6.08453,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12013.0",
+    "gn:asciiname":"Olote",
+    "gn:country_code":"NG",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326416,
+    "gn:latitude":6.22176,
+    "gn:longitude":6.08453,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olotu"
+    ],
+    "name:eng_x_variant":[
+        "Olote"
+    ],
+    "name:und_x_variant":[
+        "Oloten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326416
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f1cc56b0700944d23293bc4e5f01aedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564203,
+            "locality_id":1310357101,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1310357101,
+    "wof:lastmodified":1537675028,
+    "wof:name":"Olote",
+    "wof:parent_id":1108564203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08453,
+    6.22176,
+    6.08453,
+    6.22176
+],
+  "geometry": {"coordinates":[6.08453,6.22176],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226371039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88084,12.56473,9.88084,12.56473",
+    "geom:latitude":12.56473,
+    "geom:longitude":9.88084,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18017.0",
+    "gn:admin3_code":"JI2106",
+    "gn:asciiname":"Malam Madori",
+    "gn:country_code":"NG",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2344337,
+    "gn:latitude":12.56473,
+    "gn:longitude":9.88084,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Malam Madori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dunari",
+        "Malam-Maduri",
+        "Mallammaduri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344337
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"75541e4b11c683b0386e28f1aeb565df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563935,
+            "locality_id":1226371039,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1226371039,
+    "wof:lastmodified":1537675295,
+    "wof:name":"Malam Madori",
+    "wof:parent_id":1108563935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88084,
+    12.56473,
+    9.88084,
+    12.56473
+],
+  "geometry": {"coordinates":[9.88084,12.56473],"type":"Point"}
+}

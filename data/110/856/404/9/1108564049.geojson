@@ -1,0 +1,90 @@
+{
+  "id": 1108564049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004892,
+    "geom:area_square_m":60152824.891221,
+    "geom:bbox":"6.86156633973,5.93917136831,6.94606633973,6.07447136831",
+    "geom:latitude":6.004325,
+    "geom:longitude":6.902794,
+    "iso:country":"NG",
+    "lbl:latitude":6.005848,
+    "lbl:longitude":6.909196,
+    "meso:adm1_name":"Anambra",
+    "meso:diss_me":"Nnewi NorthAnambra",
+    "meso:gadm_admin":"NnewiNort",
+    "meso:gaul_admin":"Nnewinort",
+    "meso:hasc_id":"NG.AN.NN",
+    "meso:mps_x":6.909196,
+    "meso:mps_y":6.005848,
+    "meso:name_local":"Nnewi North",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":6.005848,
+    "mps:longitude":6.909196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nnewi North"
+    ],
+    "name:eng_x_variant":[
+        "Nnewinort",
+        "NnewiNort"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-03-21",
+    "statoids:area_km":"60.0",
+    "statoids:as_of_date":"2006-03-21",
+    "statoids:capital":"Nnewi",
+    "statoids:country":"NG",
+    "statoids:hasc":"NG.AN",
+    "statoids:name":"Nnewi North",
+    "statoids:population":"157569",
+    "statoids:statoid":"NG.AN.NN",
+    "statoids:timezone":"+1",
+    "statoids:type":"l.g.a.",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NG.AN.NN"
+    },
+    "wof:country":"NG",
+    "wof:created":1474057930,
+    "wof:geomhash":"548c6fdab8e4db2024c6ca39bf51e4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564049,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1108564049,
+    "wof:lastmodified":1536615211,
+    "wof:name":"Nnewi North",
+    "wof:parent_id":85675375,
+    "wof:placetype":"county",
+    "wof:placetype_local":"l.g.a.",
+    "wof:population":157569,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:shortcode":"NN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.8615663397326,
+    5.93917136831211,
+    6.9460663397326,
+    6.0744713683121
+],
+  "geometry": {"coordinates":[[[6.89636633973257,6.0744713683121],[6.90266633973257,6.07077136831211],[6.9092663397326,6.06327136831213],[6.91746633973259,6.04847136831211],[6.9244663397326,6.03237136831217],[6.93366633973264,6.0236713683121],[6.94186633973263,6.0210713683121],[6.9460663397326,6.02077136831214],[6.94496633973262,6.01627136831214],[6.94406633973258,6.00927136831213],[6.94406633973258,6.00317136831217],[6.94016633973257,5.99667136831215],[6.93236633973263,5.99097136831215],[6.92276633973263,5.98227136831218],[6.91266633973263,5.97397136831217],[6.90446633973264,5.96787136831212],[6.89876633973265,5.9613713683121],[6.89356633973263,5.95787136831214],[6.88346633973264,5.95267136831213],[6.87786633973256,5.95217136831215],[6.87046633973259,5.94567136831213],[6.8615663397326,5.93917136831211],[6.8647663397326,5.95307136831218],[6.86826633973264,5.97007136831216],[6.87526633973265,5.99407136831214],[6.87826633973262,6.00277136831211],[6.88266633973262,6.01187136831214],[6.88486633973257,6.0210713683121],[6.88916633973263,6.02887136831212],[6.89306633973265,6.04157136831212],[6.89436633973265,6.04897136831218],[6.89266633973259,6.05587136831216],[6.89266633973259,6.06117136831211],[6.89636633973257,6.0744713683121]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209544027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.88792,7.14978,9.88792,7.14978",
+    "geom:latitude":7.14978,
+    "geom:longitude":9.88792,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35012.0",
+    "gn:asciiname":"Kufi",
+    "gn:country_code":"NG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333639,
+    "gn:latitude":7.14978,
+    "gn:longitude":9.88792,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kufi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333639
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c278e74866bdc22fd2caaae8c8fdb232",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209544027
+        }
+    ],
+    "wof:id":1209544027,
+    "wof:lastmodified":1536283900,
+    "wof:name":"Kufi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.88792,
+    7.149780000000002,
+    9.88792,
+    7.149780000000002
+],
+  "geometry": {"coordinates":[9.88792,7.14978],"type":"Point"}
+}

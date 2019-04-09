@@ -1,0 +1,74 @@
+{
+  "id": 1243396333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38333,12.81667,5.38333,12.81667",
+    "geom:latitude":12.81667,
+    "geom:longitude":5.38333,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"603.0",
+    "gn:admin3_code":"60303",
+    "gn:asciiname":"Basilan",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347536,
+    "gn:latitude":12.81667,
+    "gn:longitude":5.38333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Basilan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bisilam",
+        "Basilan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675433,
+        1108563211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347536
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"517cbbc8c4de491c7293cda9b2befff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563211,
+            "locality_id":1243396333,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1243396333,
+    "wof:lastmodified":1537675334,
+    "wof:name":"Basilan",
+    "wof:parent_id":1108563211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38333,
+    12.81667,
+    5.38333,
+    12.81667
+],
+  "geometry": {"coordinates":[5.38333,12.81667],"type":"Point"}
+}

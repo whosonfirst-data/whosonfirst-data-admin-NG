@@ -1,0 +1,71 @@
+{
+  "id": 1243302747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.93367,5.52594,5.93367,5.52594",
+    "geom:latitude":5.52594,
+    "geom:longitude":5.93367,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Eruemukohwarien",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343161,
+    "gn:latitude":5.52594,
+    "gn:longitude":5.93367,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Eruemukohwarien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eruemukohwarien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343161
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e6d693b6fe4170e9c56cd3694014fc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1243302747,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243302747,
+    "wof:lastmodified":1537675274,
+    "wof:name":"Eruemukohwarien",
+    "wof:parent_id":1108564439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.93367,
+    5.52594,
+    5.93367,
+    5.52594
+],
+  "geometry": {"coordinates":[5.93367,5.52594],"type":"Point"}
+}

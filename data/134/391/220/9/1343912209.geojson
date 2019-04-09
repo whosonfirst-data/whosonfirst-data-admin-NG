@@ -1,0 +1,68 @@
+{
+  "id": 1343912209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.50925,6.95052,9.50925,6.95052",
+    "geom:latitude":6.95052,
+    "geom:longitude":9.50925,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7011.0",
+    "gn:asciiname":"Sagura",
+    "gn:country_code":"NG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323982,
+    "gn:latitude":6.95052,
+    "gn:longitude":9.50925,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sagura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323982
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"035e5eefd7eadfdcf0b4ca9e98cd9580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563873,
+            "locality_id":1343912209,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1343912209,
+    "wof:lastmodified":1537086561,
+    "wof:name":"Sagura",
+    "wof:parent_id":1108563873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.50925,
+    6.95052,
+    9.50925,
+    6.95052
+],
+  "geometry": {"coordinates":[9.50925,6.95052],"type":"Point"}
+}

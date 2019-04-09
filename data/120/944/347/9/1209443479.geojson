@@ -1,0 +1,68 @@
+{
+  "id": 1209443479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6526,4.96275,5.6526,4.96275",
+    "geom:latitude":4.96275,
+    "geom:longitude":5.6526,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6002.0",
+    "gn:asciiname":"Akosi Camp",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040762,
+    "gn:latitude":4.96275,
+    "gn:longitude":5.6526,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Akosi Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akosi Camp"
+    ],
+    "name:eng_x_variant":[
+        "Akosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040762
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"83ae529061b80f3f90693846f7d72ec8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209443479
+        }
+    ],
+    "wof:id":1209443479,
+    "wof:lastmodified":1537675439,
+    "wof:name":"Akosi Camp",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6526,
+    4.96275,
+    5.6526,
+    4.96275
+],
+  "geometry": {"coordinates":[5.6526,4.96275],"type":"Point"}
+}

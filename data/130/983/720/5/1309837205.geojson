@@ -1,0 +1,68 @@
+{
+  "id": 1309837205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.49951,5.0998,6.49951,5.0998",
+    "geom:latitude":5.0998,
+    "geom:longitude":6.49951,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33003.0",
+    "gn:asciiname":"Akara",
+    "gn:country_code":"NG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101156,
+    "gn:latitude":5.0998,
+    "gn:longitude":6.49951,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108562947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101156
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d27bf8ba35155a73aa97a564df9ef78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562947,
+            "locality_id":1309837205,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1309837205,
+    "wof:lastmodified":1536885409,
+    "wof:name":"Akara",
+    "wof:parent_id":1108562947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.49951,
+    5.0998,
+    6.49951,
+    5.0998
+],
+  "geometry": {"coordinates":[6.49951,5.0998],"type":"Point"}
+}

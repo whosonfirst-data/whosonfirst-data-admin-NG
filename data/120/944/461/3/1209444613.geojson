@@ -1,0 +1,62 @@
+{
+  "id": 1209444613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.8642,6.38571,4.8642,6.38571",
+    "geom:latitude":6.38571,
+    "geom:longitude":4.8642,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29007.0",
+    "gn:asciiname":"Ipoke",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337366,
+    "gn:latitude":6.38571,
+    "gn:longitude":4.8642,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ipoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337366
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c61a4992a97c88a1db78d753898a8df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444613
+        }
+    ],
+    "wof:id":1209444613,
+    "wof:lastmodified":1536286856,
+    "wof:name":"Ipoke",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8642,
+    6.38571,
+    4.8642,
+    6.38571
+],
+  "geometry": {"coordinates":[4.8642,6.38571],"type":"Point"}
+}

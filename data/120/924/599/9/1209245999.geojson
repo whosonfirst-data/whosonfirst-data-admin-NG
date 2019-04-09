@@ -1,0 +1,62 @@
+{
+  "id": 1209245999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35,7.21667,4.35,7.21667",
+    "geom:latitude":7.21667,
+    "geom:longitude":4.35,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30001.0",
+    "gn:asciiname":"Malekolo",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331088,
+    "gn:latitude":7.21667,
+    "gn:longitude":4.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Malekolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331088
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dcf1727f22b78e25d42d9fc89b923612",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209245999
+        }
+    ],
+    "wof:id":1209245999,
+    "wof:lastmodified":1536293163,
+    "wof:name":"Malekolo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35,
+    7.21667,
+    4.35,
+    7.21667
+],
+  "geometry": {"coordinates":[4.35,7.21667],"type":"Point"}
+}

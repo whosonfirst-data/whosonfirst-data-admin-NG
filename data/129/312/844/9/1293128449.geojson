@@ -1,0 +1,71 @@
+{
+  "id": 1293128449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73368,4.51335,5.73368,4.51335",
+    "geom:latitude":4.51335,
+    "geom:longitude":5.73368,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Beyentoro",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040894,
+    "gn:latitude":4.51335,
+    "gn:longitude":5.73368,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Beyentoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Beyentoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040894
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d9b7e9dc597881c4dbc4a1678c1f6843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564377,
+            "locality_id":1293128449,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1293128449,
+    "wof:lastmodified":1537675444,
+    "wof:name":"Beyentoro",
+    "wof:parent_id":1108564377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73368,
+    4.51335,
+    5.73368,
+    4.51335
+],
+  "geometry": {"coordinates":[5.73368,4.51335],"type":"Point"}
+}

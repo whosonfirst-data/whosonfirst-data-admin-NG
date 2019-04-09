@@ -1,0 +1,72 @@
+{
+  "id": 1225973973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.9035,9.4085,8.9035,9.4085",
+    "geom:latitude":9.4085,
+    "geom:longitude":8.9035,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32001.0",
+    "gn:asciiname":"Maiyanga",
+    "gn:country_code":"NG",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331272,
+    "gn:latitude":9.4085,
+    "gn:longitude":8.9035,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Maiyanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mianga",
+        "Maiyanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108563087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331272
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"13fe9a45840f3abac31b853636402426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563087,
+            "locality_id":1225973973,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1225973973,
+    "wof:lastmodified":1537675105,
+    "wof:name":"Maiyanga",
+    "wof:parent_id":1108563087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.9035,
+    9.4085,
+    8.9035,
+    9.4085
+],
+  "geometry": {"coordinates":[8.9035,9.4085],"type":"Point"}
+}

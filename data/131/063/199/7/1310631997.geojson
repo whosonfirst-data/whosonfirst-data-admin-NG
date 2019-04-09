@@ -1,0 +1,67 @@
+{
+  "id": 1310631997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.92961,5.8219,7.92961,5.8219",
+    "geom:latitude":5.8219,
+    "geom:longitude":7.92961,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Kpogrikpo",
+    "gn:country_code":"NG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333805,
+    "gn:latitude":5.8219,
+    "gn:longitude":7.92961,
+    "gn:modification_date":"2009-08-10",
+    "gn:name":"Kpogrikpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108562927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333805
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d625ae7e2841242f796c1fbc3d313e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562927,
+            "locality_id":1310631997,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1310631997,
+    "wof:lastmodified":1536734645,
+    "wof:name":"Kpogrikpo",
+    "wof:parent_id":1108562927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.92961,
+    5.8219,
+    7.92961,
+    5.8219
+],
+  "geometry": {"coordinates":[7.92961,5.8219],"type":"Point"}
+}

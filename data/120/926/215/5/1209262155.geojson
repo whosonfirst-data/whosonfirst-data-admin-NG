@@ -1,0 +1,62 @@
+{
+  "id": 1209262155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.85372,7.00863,8.85372,7.00863",
+    "geom:latitude":7.00863,
+    "geom:longitude":8.85372,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Anogu",
+    "gn:country_code":"NG",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349774,
+    "gn:latitude":7.00863,
+    "gn:longitude":8.85372,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349774
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"df6f49593e9dc604d59d23aa13aa202d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209262155
+        }
+    ],
+    "wof:id":1209262155,
+    "wof:lastmodified":1536292652,
+    "wof:name":"Anogu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.85372,
+    7.00863,
+    8.85372,
+    7.00863
+],
+  "geometry": {"coordinates":[8.85372,7.00863],"type":"Point"}
+}

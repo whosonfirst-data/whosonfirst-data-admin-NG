@@ -1,0 +1,68 @@
+{
+  "id": 1193185379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.17255,5.23588,6.17255,5.23588",
+    "geom:latitude":5.23588,
+    "geom:longitude":6.17255,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10010.0",
+    "gn:asciiname":"Bouygbene",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100604,
+    "gn:latitude":5.23588,
+    "gn:longitude":6.17255,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bouygbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100604
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"618f4d57b08412970ea17c4e5c0c3de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563689,
+            "locality_id":1193185379,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1193185379,
+    "wof:lastmodified":1536366292,
+    "wof:name":"Bouygbene",
+    "wof:parent_id":1108563689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.17255,
+    5.23588,
+    6.17255,
+    5.23588
+],
+  "geometry": {"coordinates":[6.17255,5.23588],"type":"Point"}
+}

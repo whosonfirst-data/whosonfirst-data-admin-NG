@@ -1,0 +1,71 @@
+{
+  "id": 1293782579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38414,6.61796,3.38414,6.61796",
+    "geom:latitude":6.61796,
+    "geom:longitude":3.38414,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25013.0",
+    "gn:asciiname":"Magodo II",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566716,
+    "gn:latitude":6.61796,
+    "gn:longitude":3.38414,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Magodo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        1108563843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566716
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1f1f1a0e9cd38e6b9e705a891fe0d64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563843,
+            "locality_id":1293782579,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1293782579,
+    "wof:lastmodified":1537675399,
+    "wof:name":"Magodo II",
+    "wof:parent_id":1108563843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.38414,
+    6.61796,
+    3.38414,
+    6.61796
+],
+  "geometry": {"coordinates":[3.38414,6.61796],"type":"Point"}
+}

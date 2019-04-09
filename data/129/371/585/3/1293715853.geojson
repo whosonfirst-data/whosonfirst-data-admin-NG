@@ -1,0 +1,72 @@
+{
+  "id": 1293715853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.77644,8.61871,11.77644,8.61871",
+    "geom:latitude":8.61871,
+    "geom:longitude":11.77644,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35015.0",
+    "gn:asciiname":"Tibak",
+    "gn:country_code":"NG",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322179,
+    "gn:latitude":8.61871,
+    "gn:longitude":11.77644,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tibak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiba",
+        "Tibak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322179
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aa41cd0ca4bd1d12486ae64bc009225b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564545,
+            "locality_id":1293715853,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293715853,
+    "wof:lastmodified":1537674974,
+    "wof:name":"Tibak",
+    "wof:parent_id":1108564545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.77644,
+    8.61871,
+    11.77644,
+    8.61871
+],
+  "geometry": {"coordinates":[11.77644,8.61871],"type":"Point"}
+}

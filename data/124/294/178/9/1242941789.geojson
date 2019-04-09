@@ -1,0 +1,68 @@
+{
+  "id": 1242941789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.34306,6.64065,8.34306,6.64065",
+    "geom:latitude":6.64065,
+    "geom:longitude":8.34306,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9018.0",
+    "gn:asciiname":"Ishong",
+    "gn:country_code":"NG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337163,
+    "gn:latitude":6.64065,
+    "gn:longitude":8.34306,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ishong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337163
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"174a9a422211bfe4a52775316bd70d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564529,
+            "locality_id":1242941789,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1242941789,
+    "wof:lastmodified":1537034766,
+    "wof:name":"Ishong",
+    "wof:parent_id":1108564529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.34306,
+    6.64065,
+    8.34306,
+    6.64065
+],
+  "geometry": {"coordinates":[8.34306,6.64065],"type":"Point"}
+}

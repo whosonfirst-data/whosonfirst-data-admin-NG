@@ -1,0 +1,68 @@
+{
+  "id": 1243392949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.96183,9.10836,7.96183,9.10836",
+    "geom:latitude":9.10836,
+    "geom:longitude":7.96183,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004",
+    "gn:asciiname":"Doki",
+    "gn:country_code":"NG",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641641,
+    "gn:latitude":9.10836,
+    "gn:longitude":7.96183,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Doki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641641
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"74686781e4ca04163fa648f51195fd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563785,
+            "locality_id":1243392949,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1243392949,
+    "wof:lastmodified":1536882188,
+    "wof:name":"Doki",
+    "wof:parent_id":1108563785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.96183,
+    9.10836,
+    7.96183,
+    9.10836
+],
+  "geometry": {"coordinates":[7.96183,9.10836],"type":"Point"}
+}

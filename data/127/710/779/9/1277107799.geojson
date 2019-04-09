@@ -1,0 +1,73 @@
+{
+  "id": 1277107799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.74452,12.45778,6.74452,12.45778",
+    "geom:latitude":12.45778,
+    "geom:longitude":6.74452,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"803.0",
+    "gn:admin3_code":"80305",
+    "gn:asciiname":"Kabin Giro",
+    "gn:country_code":"NG",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319959,
+    "gn:latitude":12.45778,
+    "gn:longitude":6.74452,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabin Giro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ungwan Kabin Giro",
+        "Kabin Giro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319959
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b736f0fe7652da90a71764cbfc71d1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563131,
+            "locality_id":1277107799,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1277107799,
+    "wof:lastmodified":1537674928,
+    "wof:name":"Kabin Giro",
+    "wof:parent_id":1108563131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.74452,
+    12.45778,
+    6.74452,
+    12.45778
+],
+  "geometry": {"coordinates":[6.74452,12.45778],"type":"Point"}
+}

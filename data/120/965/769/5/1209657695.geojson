@@ -1,0 +1,63 @@
+{
+  "id": 1209657695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28553,12.92447,4.28553,12.92447",
+    "geom:latitude":12.92447,
+    "geom:longitude":4.28553,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"502.0",
+    "gn:admin3_code":"50209",
+    "gn:asciiname":"Kwakware",
+    "gn:country_code":"NG",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040157,
+    "gn:latitude":12.92447,
+    "gn:longitude":4.28553,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwakware",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040157
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3a8d9192431f5f3496b2f5bfbc648409",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209657695
+        }
+    ],
+    "wof:id":1209657695,
+    "wof:lastmodified":1536280374,
+    "wof:name":"Kwakware",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2855300000000005,
+    12.92447,
+    4.2855300000000005,
+    12.92447
+],
+  "geometry": {"coordinates":[4.28553,12.92447],"type":"Point"}
+}

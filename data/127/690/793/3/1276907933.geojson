@@ -1,0 +1,73 @@
+{
+  "id": 1276907933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.25,8.25,6.25,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":6.25,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23010.0",
+    "gn:asciiname":"Gero",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341241,
+    "gn:latitude":8.25,
+    "gn:longitude":6.25,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giro",
+        "Gero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341241
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"114fb7b2734992b21202b315f7f8dac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563735,
+            "locality_id":1276907933,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1276907933,
+    "wof:lastmodified":1537675248,
+    "wof:name":"Gero",
+    "wof:parent_id":1108563735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.25,
+    8.25,
+    6.25,
+    8.25
+],
+  "geometry": {"coordinates":[6.25,8.25],"type":"Point"}
+}

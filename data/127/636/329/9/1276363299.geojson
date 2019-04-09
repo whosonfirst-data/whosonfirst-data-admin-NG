@@ -1,0 +1,73 @@
+{
+  "id": 1276363299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.99028,12.76908,8.99028,12.76908",
+    "geom:latitude":12.76908,
+    "geom:longitude":8.99028,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18004.0",
+    "gn:admin3_code":"JI0206",
+    "gn:asciiname":"Aduari",
+    "gn:country_code":"NG",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352317,
+    "gn:latitude":12.76908,
+    "gn:longitude":8.99028,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aduari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aduware",
+        "Aduari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352317
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bc393d001652dfbbb4a33fd7193d0093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":1276363299,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1276363299,
+    "wof:lastmodified":1537675390,
+    "wof:name":"Aduari",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.99028,
+    12.76908,
+    8.99028,
+    12.76908
+],
+  "geometry": {"coordinates":[8.99028,12.76908],"type":"Point"}
+}

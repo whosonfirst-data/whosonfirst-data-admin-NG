@@ -1,0 +1,72 @@
+{
+  "id": 1226570519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61434,5.6056,6.61434,5.6056",
+    "geom:latitude":5.6056,
+    "geom:longitude":6.61434,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33016.0",
+    "gn:asciiname":"Odugiri",
+    "gn:country_code":"NG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327922,
+    "gn:latitude":5.6056,
+    "gn:longitude":6.61434,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Odugiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Odugri",
+        "Odugiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327922
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"27d912bf1f7b577ffc716ba35143d507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564105,
+            "locality_id":1226570519,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1226570519,
+    "wof:lastmodified":1537675057,
+    "wof:name":"Odugiri",
+    "wof:parent_id":1108564105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61434,
+    5.6056,
+    6.61434,
+    5.6056
+],
+  "geometry": {"coordinates":[6.61434,5.6056],"type":"Point"}
+}

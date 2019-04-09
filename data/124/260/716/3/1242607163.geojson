@@ -1,0 +1,75 @@
+{
+  "id": 1242607163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.79757,9.141,10.79757,9.141",
+    "geom:latitude":9.141,
+    "geom:longitude":10.79757,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35008.0",
+    "gn:asciiname":"Jenue",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336184,
+    "gn:latitude":9.141,
+    "gn:longitude":10.79757,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Jenue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Garin Jukun"
+    ],
+    "name:und_x_variant":[
+        "Jenoe",
+        "Jenue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336184
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"98fd525a3baa79b613d20f2e6b18a5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1242607163,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1242607163,
+    "wof:lastmodified":1537675165,
+    "wof:name":"Jenue",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.79757,
+    9.141,
+    10.79757,
+    9.141
+],
+  "geometry": {"coordinates":[10.79757,9.141],"type":"Point"}
+}

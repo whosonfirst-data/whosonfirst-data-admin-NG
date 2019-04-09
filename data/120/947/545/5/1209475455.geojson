@@ -1,0 +1,62 @@
+{
+  "id": 1209475455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.33333,8.6,4.33333,8.6",
+    "geom:latitude":8.6,
+    "geom:longitude":4.33333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Agbati Obinu Kekere",
+    "gn:country_code":"NG",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352064,
+    "gn:latitude":8.6,
+    "gn:longitude":4.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agbati Obinu Kekere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352064
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5163e463188966dc8dd440f551dcf742",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209475455
+        }
+    ],
+    "wof:id":1209475455,
+    "wof:lastmodified":1536285951,
+    "wof:name":"Agbati Obinu Kekere",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.33333,
+    8.6,
+    4.33333,
+    8.6
+],
+  "geometry": {"coordinates":[4.33333,8.6],"type":"Point"}
+}

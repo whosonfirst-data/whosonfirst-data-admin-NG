@@ -1,0 +1,68 @@
+{
+  "id": 1209844103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.71722,8.57333,7.71722,8.57333",
+    "geom:latitude":8.57333,
+    "geom:longitude":7.71722,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26009.0",
+    "gn:asciiname":"Ugi Majowel",
+    "gn:country_code":"NG",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320818,
+    "gn:latitude":8.57333,
+    "gn:longitude":7.71722,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugi Majowel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108564015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320818
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8bc7ec28c900b9513132a9d4a8e69683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564015,
+            "locality_id":1209844103,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1209844103,
+    "wof:lastmodified":1536391447,
+    "wof:name":"Ugi Majowel",
+    "wof:parent_id":1108564015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.71722,
+    8.57333,
+    7.71722,
+    8.57333
+],
+  "geometry": {"coordinates":[7.71722,8.57333],"type":"Point"}
+}

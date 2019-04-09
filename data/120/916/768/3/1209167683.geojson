@@ -1,0 +1,62 @@
+{
+  "id": 1209167683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.33167,10.05723,12.33167,10.05723",
+    "geom:latitude":10.05723,
+    "geom:longitude":12.33167,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Dul",
+    "gn:country_code":"NG",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344403,
+    "gn:latitude":10.05723,
+    "gn:longitude":12.33167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344403
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47ac99d0fe3ccb19dcd84477fa066e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209167683
+        }
+    ],
+    "wof:id":1209167683,
+    "wof:lastmodified":1536295688,
+    "wof:name":"Dul",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.33167,
+    10.05723,
+    12.33167,
+    10.05723
+],
+  "geometry": {"coordinates":[12.33167,10.05723],"type":"Point"}
+}

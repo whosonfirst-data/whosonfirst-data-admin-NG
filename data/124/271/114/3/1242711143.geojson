@@ -1,0 +1,71 @@
+{
+  "id": 1242711143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.83379,4.82824,6.83379,4.82824",
+    "geom:latitude":4.82824,
+    "geom:longitude":6.83379,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33010.0",
+    "gn:asciiname":"Abiankwo",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591138,
+    "gn:latitude":4.82824,
+    "gn:longitude":6.83379,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abiankwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahiankwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591138
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"24b6bd719e146bd58c54ace60125a3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563303,
+            "locality_id":1242711143,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1242711143,
+    "wof:lastmodified":1537675401,
+    "wof:name":"Abiankwo",
+    "wof:parent_id":1108563303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.83379,
+    4.82824,
+    6.83379,
+    4.82824
+],
+  "geometry": {"coordinates":[6.83379,4.82824],"type":"Point"}
+}

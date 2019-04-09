@@ -1,0 +1,68 @@
+{
+  "id": 1226175537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.72523,8.30558,9.72523,8.30558",
+    "geom:latitude":8.30558,
+    "geom:longitude":9.72523,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35006.0",
+    "gn:asciiname":"Aundu",
+    "gn:country_code":"NG",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348873,
+    "gn:latitude":8.30558,
+    "gn:longitude":9.72523,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348873
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2735545674c022d588dbb8f0d6701282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563513,
+            "locality_id":1226175537,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1226175537,
+    "wof:lastmodified":1537033347,
+    "wof:name":"Aundu",
+    "wof:parent_id":1108563513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.72523,
+    8.30558,
+    9.72523,
+    8.30558
+],
+  "geometry": {"coordinates":[9.72523,8.30558],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226470879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.46667,8.5,8.46667,8.5",
+    "geom:latitude":8.5,
+    "geom:longitude":8.46667,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26008.0",
+    "gn:asciiname":"Ankani",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349795,
+    "gn:latitude":8.5,
+    "gn:longitude":8.46667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ankani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankai",
+        "Ankani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349795
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"be4853b12f2fa7c336819a4f0466f95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563879,
+            "locality_id":1226470879,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1226470879,
+    "wof:lastmodified":1537675360,
+    "wof:name":"Ankani",
+    "wof:parent_id":1108563879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.46667,
+    8.5,
+    8.46667,
+    8.5
+],
+  "geometry": {"coordinates":[8.46667,8.5],"type":"Point"}
+}

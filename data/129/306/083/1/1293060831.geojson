@@ -1,0 +1,68 @@
+{
+  "id": 1293060831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.81806,7.53194,3.81806,7.53194",
+    "geom:latitude":7.53194,
+    "geom:longitude":3.81806,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Agborigi",
+    "gn:country_code":"NG",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591554,
+    "gn:latitude":7.53194,
+    "gn:longitude":3.81806,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agborigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108563529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591554
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3dee19793c22678d6dc89f0361ba63c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":1293060831,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1293060831,
+    "wof:lastmodified":1536905603,
+    "wof:name":"Agborigi",
+    "wof:parent_id":1108563529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.81806,
+    7.53194,
+    3.81806,
+    7.53194
+],
+  "geometry": {"coordinates":[3.81806,7.53194],"type":"Point"}
+}

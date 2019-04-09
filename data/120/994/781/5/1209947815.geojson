@@ -1,0 +1,68 @@
+{
+  "id": 1209947815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.97762,8.67328,9.97762,8.67328",
+    "geom:latitude":8.67328,
+    "geom:longitude":9.97762,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32017",
+    "gn:asciiname":"Jawuri",
+    "gn:country_code":"NG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10926387,
+    "gn:latitude":8.67328,
+    "gn:longitude":9.97762,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jawuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675411,
+        1108564507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10926387
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"119b85670caa0f786eb0c48dec0c2bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564507,
+            "locality_id":1209947815,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1209947815,
+    "wof:lastmodified":1536385571,
+    "wof:name":"Jawuri",
+    "wof:parent_id":1108564507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.97762,
+    8.67328,
+    9.97762,
+    8.67328
+],
+  "geometry": {"coordinates":[9.97762,8.67328],"type":"Point"}
+}

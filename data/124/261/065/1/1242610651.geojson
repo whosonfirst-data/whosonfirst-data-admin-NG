@@ -1,0 +1,68 @@
+{
+  "id": 1242610651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.9826,7.4877,6.9826,7.4877",
+    "geom:latitude":7.4877,
+    "geom:longitude":6.9826,
+    "gn:admin1_code":"41.0",
+    "gn:admin2_code":"23005.0",
+    "gn:asciiname":"Agibela",
+    "gn:country_code":"NG",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351903,
+    "gn:latitude":7.4877,
+    "gn:longitude":6.9826,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agibela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108563229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351903
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2bf45e900c993b56a2715506f0276e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563229,
+            "locality_id":1242610651,
+            "region_id":85675407
+        }
+    ],
+    "wof:id":1242610651,
+    "wof:lastmodified":1537015384,
+    "wof:name":"Agibela",
+    "wof:parent_id":1108563229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.9826,
+    7.4877,
+    6.9826,
+    7.4877
+],
+  "geometry": {"coordinates":[6.9826,7.4877],"type":"Point"}
+}

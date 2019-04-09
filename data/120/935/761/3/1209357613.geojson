@@ -1,0 +1,65 @@
+{
+  "id": 1209357613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.27252,6.40154,6.27252,6.40154",
+    "geom:latitude":6.40154,
+    "geom:longitude":6.27252,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12010.0",
+    "gn:asciiname":"Ikekogbe",
+    "gn:country_code":"NG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504992,
+    "gn:latitude":6.40154,
+    "gn:longitude":6.27252,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikekogbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ikekogbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504992
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0de03492b86aecf3a762a423e9a739e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209357613
+        }
+    ],
+    "wof:id":1209357613,
+    "wof:lastmodified":1537675455,
+    "wof:name":"Ikekogbe",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.27252,
+    6.40154,
+    6.27252,
+    6.40154
+],
+  "geometry": {"coordinates":[6.27252,6.40154],"type":"Point"}
+}

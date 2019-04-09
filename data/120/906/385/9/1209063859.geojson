@@ -1,0 +1,63 @@
+{
+  "id": 1209063859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39646,11.74496,7.39646,11.74496",
+    "geom:latitude":11.74496,
+    "geom:longitude":7.39646,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"401.0",
+    "gn:admin3_code":"40109",
+    "gn:asciiname":"Dawankiria",
+    "gn:country_code":"NG",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019114,
+    "gn:latitude":11.74496,
+    "gn:longitude":7.39646,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dawankiria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019114
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bdea206d7f84b012ddc27c403e1490e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209063859
+        }
+    ],
+    "wof:id":1209063859,
+    "wof:lastmodified":1536298867,
+    "wof:name":"Dawankiria",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39646,
+    11.74496,
+    7.39646,
+    11.74496
+],
+  "geometry": {"coordinates":[7.39646,11.74496],"type":"Point"}
+}

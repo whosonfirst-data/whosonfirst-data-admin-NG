@@ -1,0 +1,70 @@
+{
+  "id": 1310358359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.19201,5.60269,5.19201,5.60269",
+    "geom:latitude":5.60269,
+    "geom:longitude":5.19201,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Aruton",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121986,
+    "gn:latitude":5.60269,
+    "gn:longitude":5.19201,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Aruton",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aruton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121986
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a61e8c0def16aee317eee8074c454f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564501,
+            "locality_id":1310358359,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1310358359,
+    "wof:lastmodified":1537675478,
+    "wof:name":"Aruton",
+    "wof:parent_id":1108564501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.19201,
+    5.60269,
+    5.19201,
+    5.60269
+],
+  "geometry": {"coordinates":[5.19201,5.60269],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421167665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01583,12.77305,9.01583,12.77305",
+    "geom:latitude":12.77305,
+    "geom:longitude":9.01583,
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2348419,
+    "qs:gn_pop":7267,
+    "qs:name":"Jigawa",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Jigawa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":139801,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1508740,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108563065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348419,
+        "gp:id":1508740,
+        "qs:id":139801
+    },
+    "wof:country":"NG",
+    "wof:created":1459008739,
+    "wof:geomhash":"92e5646553bbda8eafcf2c2707b9581c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563065,
+            "locality_id":421167665,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":421167665,
+    "wof:lastmodified":1505340587,
+    "wof:name":"Jigawa",
+    "wof:parent_id":1108563065,
+    "wof:placetype":"locality",
+    "wof:population":7267,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01583,
+    12.77305,
+    9.01583,
+    12.77305
+],
+  "geometry": {"coordinates":[9.01583,12.77305],"type":"Point"}
+}

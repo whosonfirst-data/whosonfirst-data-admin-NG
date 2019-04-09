@@ -1,0 +1,68 @@
+{
+  "id": 1309935421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.86667,8.83333,5.86667,8.83333",
+    "geom:latitude":8.83333,
+    "geom:longitude":5.86667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007.0",
+    "gn:asciiname":"Sosa",
+    "gn:country_code":"NG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322858,
+    "gn:latitude":8.83333,
+    "gn:longitude":5.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322858
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"45d16fcbed56a83de375b235e306b183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":1309935421,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1309935421,
+    "wof:lastmodified":1536744146,
+    "wof:name":"Sosa",
+    "wof:parent_id":1108563259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.86667,
+    8.83333,
+    5.86667,
+    8.83333
+],
+  "geometry": {"coordinates":[5.86667,8.83333],"type":"Point"}
+}

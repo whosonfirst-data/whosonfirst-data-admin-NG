@@ -1,0 +1,65 @@
+{
+  "id": 1209077813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.34102,6.41361,4.34102,6.41361",
+    "geom:latitude":6.41361,
+    "geom:longitude":4.34102,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Budo",
+    "gn:country_code":"NG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346684,
+    "gn:latitude":6.41361,
+    "gn:longitude":4.34102,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Budo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olowu",
+        "Budo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346684
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3cb68c6177c829bca534b155f43e4a30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209077813
+        }
+    ],
+    "wof:id":1209077813,
+    "wof:lastmodified":1537675324,
+    "wof:name":"Budo",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.34102,
+    6.41361,
+    4.34102,
+    6.41361
+],
+  "geometry": {"coordinates":[4.34102,6.41361],"type":"Point"}
+}

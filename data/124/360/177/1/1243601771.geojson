@@ -1,0 +1,68 @@
+{
+  "id": 1243601771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.63304,7.34294,8.63304,7.34294",
+    "geom:latitude":7.34294,
+    "geom:longitude":8.63304,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005.0",
+    "gn:asciiname":"Isughul",
+    "gn:country_code":"NG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337095,
+    "gn:latitude":7.34294,
+    "gn:longitude":8.63304,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isughul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337095
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d9fb8934e50a1842e5a1cea29e915c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":1243601771,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1243601771,
+    "wof:lastmodified":1537075556,
+    "wof:name":"Isughul",
+    "wof:parent_id":1108563411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.63304,
+    7.34294,
+    8.63304,
+    7.34294
+],
+  "geometry": {"coordinates":[8.63304,7.34294],"type":"Point"}
+}

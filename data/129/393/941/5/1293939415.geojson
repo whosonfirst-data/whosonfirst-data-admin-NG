@@ -1,0 +1,75 @@
+{
+  "id": 1293939415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.04717,9.49913,8.04717,9.49913",
+    "geom:latitude":9.49913,
+    "geom:longitude":8.04717,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19006.0",
+    "gn:admin3_code":"KD0601",
+    "gn:asciiname":"Barrakin Chori",
+    "gn:country_code":"NG",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320243,
+    "gn:latitude":9.49913,
+    "gn:longitude":8.04717,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Barrakin Chori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galadima",
+        "Unguwar Galadima",
+        "Barrakin Chori",
+        "Borrakin Chori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320243
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4f1f808c85854b5a96b5aab3ff19b33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563711,
+            "locality_id":1293939415,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1293939415,
+    "wof:lastmodified":1537674942,
+    "wof:name":"Barrakin Chori",
+    "wof:parent_id":1108563711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.04717,
+    9.49913,
+    8.04717,
+    9.49913
+],
+  "geometry": {"coordinates":[8.04717,9.49913],"type":"Point"}
+}

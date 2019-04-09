@@ -1,0 +1,72 @@
+{
+  "id": 1343387761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.79704,9.34545,6.79704,9.34545",
+    "geom:latitude":9.34545,
+    "geom:longitude":6.79704,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27012.0",
+    "gn:asciiname":"Shaki",
+    "gn:country_code":"NG",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323389,
+    "gn:latitude":9.34545,
+    "gn:longitude":6.79704,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Shaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaku",
+        "Shaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323389
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cb144fc36a0f4915eda83ce4f377a594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563895,
+            "locality_id":1343387761,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1343387761,
+    "wof:lastmodified":1537674988,
+    "wof:name":"Shaki",
+    "wof:parent_id":1108563895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.79704,
+    9.34545,
+    6.79704,
+    9.34545
+],
+  "geometry": {"coordinates":[6.79704,9.34545],"type":"Point"}
+}

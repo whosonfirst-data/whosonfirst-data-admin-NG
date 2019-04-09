@@ -1,0 +1,72 @@
+{
+  "id": 1192971275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.803,5.61898,5.803,5.61898",
+    "geom:latitude":5.61898,
+    "geom:longitude":5.803,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10013.0",
+    "gn:asciiname":"Okuohorhe",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326868,
+    "gn:latitude":5.61898,
+    "gn:longitude":5.803,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Okuohorhe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okughurhe",
+        "Okuohorhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326868
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"274bbb21372826a6ef619764f7bff9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564161,
+            "locality_id":1192971275,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1192971275,
+    "wof:lastmodified":1537675035,
+    "wof:name":"Okuohorhe",
+    "wof:parent_id":1108564161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.803,
+    5.61898,
+    5.803,
+    5.61898
+],
+  "geometry": {"coordinates":[5.803,5.61898],"type":"Point"}
+}

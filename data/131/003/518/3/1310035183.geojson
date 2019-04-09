@@ -1,0 +1,68 @@
+{
+  "id": 1310035183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.63791,7.37305,10.63791,7.37305",
+    "geom:latitude":7.37305,
+    "geom:longitude":10.63791,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35009.0",
+    "gn:asciiname":"Mai Saje",
+    "gn:country_code":"NG",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331326,
+    "gn:latitude":7.37305,
+    "gn:longitude":10.63791,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mai Saje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331326
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0882cee91ee1a032a8616f1c1318695e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563863,
+            "locality_id":1310035183,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1310035183,
+    "wof:lastmodified":1537094799,
+    "wof:name":"Mai Saje",
+    "wof:parent_id":1108563863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.63791,
+    7.37305,
+    10.63791,
+    7.37305
+],
+  "geometry": {"coordinates":[10.63791,7.37305],"type":"Point"}
+}

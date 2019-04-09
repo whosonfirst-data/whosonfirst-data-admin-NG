@@ -1,0 +1,68 @@
+{
+  "id": 1243482787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.5453,6.40963,4.5453,6.40963",
+    "geom:latitude":6.40963,
+    "geom:longitude":4.5453,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29010.0",
+    "gn:asciiname":"Orokiti",
+    "gn:country_code":"NG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969595,
+    "gn:latitude":6.40963,
+    "gn:longitude":4.5453,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orokiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969595
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dae063be583bf5bf9173e66c173a2bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1243482787,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1243482787,
+    "wof:lastmodified":1536753220,
+    "wof:name":"Orokiti",
+    "wof:parent_id":1108563619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5453,
+    6.40963,
+    4.5453,
+    6.40963
+],
+  "geometry": {"coordinates":[4.5453,6.40963],"type":"Point"}
+}

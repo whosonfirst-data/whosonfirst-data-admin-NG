@@ -1,0 +1,69 @@
+{
+  "id": 1343730333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.89153,11.56433,6.89153,11.56433",
+    "geom:latitude":11.56433,
+    "geom:longitude":6.89153,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"413.0",
+    "gn:admin3_code":"41306",
+    "gn:asciiname":"Gobirawa",
+    "gn:country_code":"NG",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040043,
+    "gn:latitude":11.56433,
+    "gn:longitude":6.89153,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gobirawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675429,
+        1108563367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040043
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd6ad4ce6adbbb50f27103fbb6b94565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563367,
+            "locality_id":1343730333,
+            "region_id":85675429
+        }
+    ],
+    "wof:id":1343730333,
+    "wof:lastmodified":1536853301,
+    "wof:name":"Gobirawa",
+    "wof:parent_id":1108563367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.89153,
+    11.56433,
+    6.89153,
+    11.56433
+],
+  "geometry": {"coordinates":[6.89153,11.56433],"type":"Point"}
+}

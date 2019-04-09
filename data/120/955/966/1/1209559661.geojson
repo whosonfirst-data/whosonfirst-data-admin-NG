@@ -1,0 +1,65 @@
+{
+  "id": 1209559661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.32597,9.14383,12.32597,9.14383",
+    "geom:latitude":9.14383,
+    "geom:longitude":12.32597,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Lainde",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332431,
+    "gn:latitude":9.14383,
+    "gn:longitude":12.32597,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Lainde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lainde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332431
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b04e7b3ede5f724dad5926c9775019d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209559661
+        }
+    ],
+    "wof:id":1209559661,
+    "wof:lastmodified":1537675118,
+    "wof:name":"Lainde",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.32597,
+    9.14383,
+    12.32597,
+    9.14383
+],
+  "geometry": {"coordinates":[12.32597,9.14383],"type":"Point"}
+}

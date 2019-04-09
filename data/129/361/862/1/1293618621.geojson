@@ -1,0 +1,73 @@
+{
+  "id": 1293618621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.47424,11.59344,11.47424,11.59344",
+    "geom:latitude":11.59344,
+    "geom:longitude":11.47424,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70501",
+    "gn:asciiname":"Bugzu",
+    "gn:country_code":"NG",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346609,
+    "gn:latitude":11.59344,
+    "gn:longitude":11.47424,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bugzu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugza",
+        "Bugzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346609
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7896419cd441fe745655b785914b3914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1293618621,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1293618621,
+    "wof:lastmodified":1537675323,
+    "wof:name":"Bugzu",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.47424,
+    11.59344,
+    11.47424,
+    11.59344
+],
+  "geometry": {"coordinates":[11.47424,11.59344],"type":"Point"}
+}

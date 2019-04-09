@@ -1,0 +1,71 @@
+{
+  "id": 1327077257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.16546,6.00342,5.16546,6.00342",
+    "geom:latitude":6.00342,
+    "geom:longitude":5.16546,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10023.0",
+    "gn:asciiname":"Bagogo",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348268,
+    "gn:latitude":6.00342,
+    "gn:longitude":5.16546,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Bagogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bagogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348268
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"44bfd940525cd60dec32e7f3054d4236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564499,
+            "locality_id":1327077257,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1327077257,
+    "wof:lastmodified":1537675343,
+    "wof:name":"Bagogo",
+    "wof:parent_id":1108564499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.16546,
+    6.00342,
+    5.16546,
+    6.00342
+],
+  "geometry": {"coordinates":[5.16546,6.00342],"type":"Point"}
+}

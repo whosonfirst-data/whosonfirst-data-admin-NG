@@ -1,0 +1,73 @@
+{
+  "id": 1327185399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.76795,10.61509,11.76795,10.61509",
+    "geom:latitude":10.61509,
+    "geom:longitude":11.76795,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"104.0",
+    "gn:admin3_code":"10401",
+    "gn:asciiname":"Gokwa",
+    "gn:country_code":"NG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340474,
+    "gn:latitude":10.61509,
+    "gn:longitude":11.76795,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gokwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gokwal",
+        "Gokwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108563105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340474
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"04e8599a06c2011be13b73d06acad900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563105,
+            "locality_id":1327185399,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1327185399,
+    "wof:lastmodified":1537675227,
+    "wof:name":"Gokwa",
+    "wof:parent_id":1108563105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.76795,
+    10.61509,
+    11.76795,
+    10.61509
+],
+  "geometry": {"coordinates":[11.76795,10.61509],"type":"Point"}
+}

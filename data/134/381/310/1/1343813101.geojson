@@ -1,0 +1,74 @@
+{
+  "id": 1343813101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.95615,6.20113,6.95615,6.20113",
+    "geom:latitude":6.20113,
+    "geom:longitude":6.95615,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4008.0",
+    "gn:asciiname":"Ifite-Ukpo",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338877,
+    "gn:latitude":6.20113,
+    "gn:longitude":6.95615,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ifite-Ukpo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ifite-Ukpo"
+    ],
+    "name:und_x_variant":[
+        "Ifita Ukpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338877
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4a7be377ad74063837c7c1c8fb46e9a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563245,
+            "locality_id":1343813101,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1343813101,
+    "wof:lastmodified":1537675206,
+    "wof:name":"Ifite-Ukpo",
+    "wof:parent_id":1108563245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.95615,
+    6.20113,
+    6.95615,
+    6.20113
+],
+  "geometry": {"coordinates":[6.95615,6.20113],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209245901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84508,4.42472,5.84508,4.42472",
+    "geom:latitude":4.42472,
+    "geom:longitude":5.84508,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6007.0",
+    "gn:asciiname":"Tukugbene",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7040410,
+    "gn:latitude":4.42472,
+    "gn:longitude":5.84508,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Tukugbene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tukugbene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040410
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8ff36f9a0f6589b852253d4d971ccc21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209245901
+        }
+    ],
+    "wof:id":1209245901,
+    "wof:lastmodified":1537675432,
+    "wof:name":"Tukugbene",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84508,
+    4.42472,
+    5.84508,
+    4.42472
+],
+  "geometry": {"coordinates":[5.84508,4.42472],"type":"Point"}
+}

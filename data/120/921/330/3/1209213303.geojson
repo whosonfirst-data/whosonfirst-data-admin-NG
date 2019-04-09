@@ -1,0 +1,62 @@
+{
+  "id": 1209213303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.51824,6.65981,3.51824,6.65981",
+    "geom:latitude":6.65981,
+    "geom:longitude":3.51824,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25012.0",
+    "gn:asciiname":"Emuren",
+    "gn:country_code":"NG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826339,
+    "gn:latitude":6.65981,
+    "gn:longitude":3.51824,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emuren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826339
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"807aaec3124a6ceffdb0f375e0418eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209213303
+        }
+    ],
+    "wof:id":1209213303,
+    "wof:lastmodified":1536294217,
+    "wof:name":"Emuren",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.51824,
+    6.65981,
+    3.51824,
+    6.65981
+],
+  "geometry": {"coordinates":[3.51824,6.65981],"type":"Point"}
+}

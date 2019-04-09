@@ -1,0 +1,68 @@
+{
+  "id": 1326488835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1036,5.4179,8.1036,5.4179",
+    "geom:latitude":5.4179,
+    "geom:longitude":8.1036,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Itan Unan",
+    "gn:country_code":"NG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337058,
+    "gn:latitude":5.4179,
+    "gn:longitude":8.1036,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Itan Unan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337058
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5ff42ee97d44edb010144f7482b81541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1326488835,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1326488835,
+    "wof:lastmodified":1537044835,
+    "wof:name":"Itan Unan",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1036,
+    5.4179,
+    8.1036,
+    5.4179
+],
+  "geometry": {"coordinates":[8.1036,5.4179],"type":"Point"}
+}

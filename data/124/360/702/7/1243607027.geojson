@@ -1,0 +1,70 @@
+{
+  "id": 1243607027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15303,5.8448,5.15303,5.8448",
+    "geom:latitude":5.8448,
+    "geom:longitude":5.15303,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"German II",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11121954,
+    "gn:latitude":5.8448,
+    "gn:longitude":5.15303,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"German II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "German II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11121954
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bea06381c4844d749ce73e72ef2a341a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564499,
+            "locality_id":1243607027,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1243607027,
+    "wof:lastmodified":1537675477,
+    "wof:name":"German II",
+    "wof:parent_id":1108564499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15303,
+    5.8448,
+    5.15303,
+    5.8448
+],
+  "geometry": {"coordinates":[5.15303,5.8448],"type":"Point"}
+}

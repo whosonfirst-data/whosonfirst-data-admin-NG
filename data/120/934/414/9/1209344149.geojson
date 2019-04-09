@@ -1,0 +1,63 @@
+{
+  "id": 1209344149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.83375,13.01203,10.83375,13.01203",
+    "geom:latitude":13.01203,
+    "geom:longitude":10.83375,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"710",
+    "gn:admin3_code":"71002",
+    "gn:asciiname":"Umarari",
+    "gn:country_code":"NG",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311333,
+    "gn:latitude":13.01203,
+    "gn:longitude":10.83375,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Umarari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311333
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"96c48036d69ae665e9da5fd3080b9acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209344149
+        }
+    ],
+    "wof:id":1209344149,
+    "wof:lastmodified":1536289968,
+    "wof:name":"Umarari",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.83375,
+    13.01203,
+    10.83375,
+    13.01203
+],
+  "geometry": {"coordinates":[10.83375,13.01203],"type":"Point"}
+}

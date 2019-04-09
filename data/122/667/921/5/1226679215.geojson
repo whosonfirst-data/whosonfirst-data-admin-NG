@@ -1,0 +1,74 @@
+{
+  "id": 1226679215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.97884,10.0885,10.97884,10.0885",
+    "geom:latitude":10.0885,
+    "geom:longitude":10.97884,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16001.0",
+    "gn:asciiname":"Kombani",
+    "gn:country_code":"NG",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334077,
+    "gn:latitude":10.0885,
+    "gn:longitude":10.97884,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kombani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kombani Sarki"
+    ],
+    "name:eng_x_variant":[
+        "Kombani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108562965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334077
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"92447409dbae57e734e008651de4d51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562965,
+            "locality_id":1226679215,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1226679215,
+    "wof:lastmodified":1537675136,
+    "wof:name":"Kombani",
+    "wof:parent_id":1108562965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.97884,
+    10.0885,
+    10.97884,
+    10.0885
+],
+  "geometry": {"coordinates":[10.97884,10.0885],"type":"Point"}
+}

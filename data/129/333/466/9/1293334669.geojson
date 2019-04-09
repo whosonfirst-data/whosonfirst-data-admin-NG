@@ -1,0 +1,70 @@
+{
+  "id": 1293334669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23928,9.20023,12.23928,9.20023",
+    "geom:latitude":9.20023,
+    "geom:longitude":12.23928,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Isowo",
+    "gn:country_code":"NG",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189764,
+    "gn:latitude":9.20023,
+    "gn:longitude":12.23928,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Isowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Isowo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189764
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e96cb2b00e1b263aeddb8457d6e56f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1293334669,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1293334669,
+    "wof:lastmodified":1537675487,
+    "wof:name":"Isowo",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23928,
+    9.20023,
+    12.23928,
+    9.20023
+],
+  "geometry": {"coordinates":[12.23928,9.20023],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243116453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.99689,9.14622,11.99689,9.14622",
+    "geom:latitude":9.14622,
+    "geom:longitude":11.99689,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pasum",
+    "gn:country_code":"NG",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210519,
+    "gn:latitude":9.14622,
+    "gn:longitude":11.99689,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Pasum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pasum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210519
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4796de0721672889e542202770c56eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1243116453,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1243116453,
+    "wof:lastmodified":1537675508,
+    "wof:name":"Pasum",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.99689,
+    9.14622,
+    11.99689,
+    9.14622
+],
+  "geometry": {"coordinates":[11.99689,9.14622],"type":"Point"}
+}

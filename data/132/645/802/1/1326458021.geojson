@@ -1,0 +1,68 @@
+{
+  "id": 1326458021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.19306,9.77361,5.19306,9.77361",
+    "geom:latitude":9.77361,
+    "geom:longitude":5.19306,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27016.0",
+    "gn:asciiname":"Kizhi",
+    "gn:country_code":"NG",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334299,
+    "gn:latitude":9.77361,
+    "gn:longitude":5.19306,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kizhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334299
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"561abfa173b233a26f5892b56d498e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563955,
+            "locality_id":1326458021,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1326458021,
+    "wof:lastmodified":1537087872,
+    "wof:name":"Kizhi",
+    "wof:parent_id":1108563955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.19306,
+    9.77361,
+    5.19306,
+    9.77361
+],
+  "geometry": {"coordinates":[5.19306,9.77361],"type":"Point"}
+}

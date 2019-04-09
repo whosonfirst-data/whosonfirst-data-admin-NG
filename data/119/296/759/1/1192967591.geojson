@@ -1,0 +1,68 @@
+{
+  "id": 1192967591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.38333,8.65,4.38333,8.65",
+    "geom:latitude":8.65,
+    "geom:longitude":4.38333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Kondoro Alagbede",
+    "gn:country_code":"NG",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334048,
+    "gn:latitude":8.65,
+    "gn:longitude":4.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kondoro Alagbede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675339,
+        1108563033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334048
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"af5804c91af5bb63caa59afa7d55b913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563033,
+            "locality_id":1192967591,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1192967591,
+    "wof:lastmodified":1536381796,
+    "wof:name":"Kondoro Alagbede",
+    "wof:parent_id":1108563033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.38333,
+    8.65,
+    4.38333,
+    8.65
+],
+  "geometry": {"coordinates":[4.38333,8.65],"type":"Point"}
+}

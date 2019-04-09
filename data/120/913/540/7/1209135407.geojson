@@ -1,0 +1,62 @@
+{
+  "id": 1209135407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18063,7.33981,5.18063,7.33981",
+    "geom:latitude":7.33981,
+    "geom:longitude":5.18063,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29006.0",
+    "gn:asciiname":"Aye",
+    "gn:country_code":"NG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833037,
+    "gn:latitude":7.33981,
+    "gn:longitude":5.18063,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833037
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d277e036b23b64b5aa37277bb29b7bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209135407
+        }
+    ],
+    "wof:id":1209135407,
+    "wof:lastmodified":1536296676,
+    "wof:name":"Aye",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.180630000000002,
+    7.339810000000001,
+    5.180630000000002,
+    7.339810000000001
+],
+  "geometry": {"coordinates":[5.18063,7.33981],"type":"Point"}
+}

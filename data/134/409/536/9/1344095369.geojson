@@ -1,0 +1,68 @@
+{
+  "id": 1344095369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98465,6.92445,5.98465,6.92445",
+    "geom:latitude":6.92445,
+    "geom:longitude":5.98465,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12017.0",
+    "gn:asciiname":"Ugiavon",
+    "gn:country_code":"NG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320820,
+    "gn:latitude":6.92445,
+    "gn:longitude":5.98465,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugiavon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675391,
+        1108564249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320820
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0fb3dbeaedc15605e00ee3d5b79963fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564249,
+            "locality_id":1344095369,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1344095369,
+    "wof:lastmodified":1536824295,
+    "wof:name":"Ugiavon",
+    "wof:parent_id":1108564249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98465,
+    6.92445,
+    5.98465,
+    6.92445
+],
+  "geometry": {"coordinates":[5.98465,6.92445],"type":"Point"}
+}

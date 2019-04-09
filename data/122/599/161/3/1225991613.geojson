@@ -1,0 +1,68 @@
+{
+  "id": 1225991613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.12454,5.51091,7.12454,5.51091",
+    "geom:latitude":5.51091,
+    "geom:longitude":7.12454,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17008.0",
+    "gn:asciiname":"Umuofa",
+    "gn:country_code":"NG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320391,
+    "gn:latitude":5.51091,
+    "gn:longitude":7.12454,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umuofa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675315,
+        1108563591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320391
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"81ac20d483e9c8743f36ba0061d268b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563591,
+            "locality_id":1225991613,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1225991613,
+    "wof:lastmodified":1536803175,
+    "wof:name":"Umuofa",
+    "wof:parent_id":1108563591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.12454,
+    5.51091,
+    7.12454,
+    5.51091
+],
+  "geometry": {"coordinates":[7.12454,5.51091],"type":"Point"}
+}

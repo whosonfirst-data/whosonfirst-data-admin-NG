@@ -1,0 +1,73 @@
+{
+  "id": 1343525161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3,7.28333,3.3,7.28333",
+    "geom:latitude":7.28333,
+    "geom:longitude":3.3,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28016.0",
+    "gn:asciiname":"Ajitadun",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351311,
+    "gn:latitude":7.28333,
+    "gn:longitude":3.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ajitadun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajitaladun",
+        "Ajitadun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108564089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351311
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"982a8268dcfbbbad46645f4e736a214f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564089,
+            "locality_id":1343525161,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1343525161,
+    "wof:lastmodified":1537675378,
+    "wof:name":"Ajitadun",
+    "wof:parent_id":1108564089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3,
+    7.28333,
+    3.3,
+    7.28333
+],
+  "geometry": {"coordinates":[3.3,7.28333],"type":"Point"}
+}

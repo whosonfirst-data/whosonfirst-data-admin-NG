@@ -1,0 +1,68 @@
+{
+  "id": 1277103279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.27495,4.91191,6.27495,4.91191",
+    "geom:latitude":4.91191,
+    "geom:longitude":6.27495,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6008.0",
+    "gn:asciiname":"Swali",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322718,
+    "gn:latitude":4.91191,
+    "gn:longitude":6.27495,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Swali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675321,
+        1108564539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322718
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"434f67bab05b8bd380b50a55c30af3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564539,
+            "locality_id":1277103279,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1277103279,
+    "wof:lastmodified":1536738121,
+    "wof:name":"Swali",
+    "wof:parent_id":1108564539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.27495,
+    4.91191,
+    6.27495,
+    4.91191
+],
+  "geometry": {"coordinates":[6.27495,4.91191],"type":"Point"}
+}

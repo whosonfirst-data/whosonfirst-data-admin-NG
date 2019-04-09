@@ -1,0 +1,62 @@
+{
+  "id": 1209343973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.49513,9.3261,6.49513,9.3261",
+    "geom:latitude":9.3261,
+    "geom:longitude":6.49513,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27010",
+    "gn:asciiname":"Dogon Ruwa",
+    "gn:country_code":"NG",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317320,
+    "gn:latitude":9.3261,
+    "gn:longitude":6.49513,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dogon Ruwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317320
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f0e74b399302c7944b560f504a2f63a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209343973
+        }
+    ],
+    "wof:id":1209343973,
+    "wof:lastmodified":1536289973,
+    "wof:name":"Dogon Ruwa",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4951300000000005,
+    9.3261,
+    6.4951300000000005,
+    9.3261
+],
+  "geometry": {"coordinates":[6.49513,9.3261],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260012667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.58461,9.84757,6.58461,9.84757",
+    "geom:latitude":9.84757,
+    "geom:longitude":6.58461,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27022",
+    "gn:asciiname":"Gidan Marikuchi",
+    "gn:country_code":"NG",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10403603,
+    "gn:latitude":9.84757,
+    "gn:longitude":6.58461,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Marikuchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108564361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10403603
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"107bf903a51720c4d0cbe83c3cd681d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564361,
+            "locality_id":1260012667,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1260012667,
+    "wof:lastmodified":1537086790,
+    "wof:name":"Gidan Marikuchi",
+    "wof:parent_id":1108564361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.58461,
+    9.84757,
+    6.58461,
+    9.84757
+],
+  "geometry": {"coordinates":[6.58461,9.84757],"type":"Point"}
+}

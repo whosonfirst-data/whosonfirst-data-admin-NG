@@ -1,0 +1,69 @@
+{
+  "id": 1343489097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.90739,12.85177,11.90739,12.85177",
+    "geom:latitude":12.85177,
+    "geom:longitude":11.90739,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"706.0",
+    "gn:admin3_code":"70613",
+    "gn:asciiname":"Shami Mairi",
+    "gn:country_code":"NG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323357,
+    "gn:latitude":12.85177,
+    "gn:longitude":11.90739,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shami Mairi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323357
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"040c494bff3a7b747a3555ae98722e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563415,
+            "locality_id":1343489097,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1343489097,
+    "wof:lastmodified":1536705262,
+    "wof:name":"Shami Mairi",
+    "wof:parent_id":1108563415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.90739,
+    12.85177,
+    11.90739,
+    12.85177
+],
+  "geometry": {"coordinates":[11.90739,12.85177],"type":"Point"}
+}

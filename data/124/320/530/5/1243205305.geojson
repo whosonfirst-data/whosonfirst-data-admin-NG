@@ -1,0 +1,67 @@
+{
+  "id": 1243205305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.55943,11.6108,4.55943,11.6108",
+    "geom:latitude":11.6108,
+    "geom:longitude":4.55943,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Yaro Bango",
+    "gn:country_code":"NG",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020301,
+    "gn:latitude":11.6108,
+    "gn:longitude":4.55943,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Yaro Bango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020301
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8b631aaff334c299bd805f40a6b7e7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563365,
+            "locality_id":1243205305,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1243205305,
+    "wof:lastmodified":1536656380,
+    "wof:name":"Yaro Bango",
+    "wof:parent_id":1108563365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.55943,
+    11.6108,
+    4.55943,
+    11.6108
+],
+  "geometry": {"coordinates":[4.55943,11.6108],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343720393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93394,5.58485,7.93394,5.58485",
+    "geom:latitude":5.58485,
+    "geom:longitude":7.93394,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Biakpan",
+    "gn:country_code":"NG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347219,
+    "gn:latitude":5.58485,
+    "gn:longitude":7.93394,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Biakpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347219
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c2771bcf90b2783d997fa24578e14ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1343720393,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343720393,
+    "wof:lastmodified":1536867596,
+    "wof:name":"Biakpan",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93394,
+    5.58485,
+    7.93394,
+    5.58485
+],
+  "geometry": {"coordinates":[7.93394,5.58485],"type":"Point"}
+}

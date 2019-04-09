@@ -1,0 +1,67 @@
+{
+  "id": 1310138825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.20944,11.18972,11.20944,11.18972",
+    "geom:latitude":11.18972,
+    "geom:longitude":11.20944,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Basulai",
+    "gn:country_code":"NG",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347517,
+    "gn:latitude":11.18972,
+    "gn:longitude":11.20944,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Basulai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108564005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347517
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5daa33be7fceb4da462280bbadd0e165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564005,
+            "locality_id":1310138825,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1310138825,
+    "wof:lastmodified":1536948795,
+    "wof:name":"Basulai",
+    "wof:parent_id":1108564005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.20944,
+    11.18972,
+    11.20944,
+    11.18972
+],
+  "geometry": {"coordinates":[11.20944,11.18972],"type":"Point"}
+}

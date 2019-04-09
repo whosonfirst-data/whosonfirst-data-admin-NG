@@ -1,0 +1,68 @@
+{
+  "id": 1292967867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52501,7.05757,8.52501,7.05757",
+    "geom:latitude":7.05757,
+    "geom:longitude":8.52501,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7010.0",
+    "gn:asciiname":"Otese",
+    "gn:country_code":"NG",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325484,
+    "gn:latitude":7.05757,
+    "gn:longitude":8.52501,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Otese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325484
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"46badfd38ef7682e8c4c8a5cb1e386ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563839,
+            "locality_id":1292967867,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1292967867,
+    "wof:lastmodified":1537037593,
+    "wof:name":"Otese",
+    "wof:parent_id":1108563839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52501,
+    7.05757,
+    8.52501,
+    7.05757
+],
+  "geometry": {"coordinates":[8.52501,7.05757],"type":"Point"}
+}

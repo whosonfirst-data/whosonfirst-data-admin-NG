@@ -1,0 +1,70 @@
+{
+  "id": 1209944235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.98136,9.23318,10.98136,9.23318",
+    "geom:latitude":9.23318,
+    "geom:longitude":10.98136,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Dulumi",
+    "gn:country_code":"NG",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11274266,
+    "gn:latitude":9.23318,
+    "gn:longitude":10.98136,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Dulumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dulumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11274266
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d73e21d0339f568574711d446d68191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563783,
+            "locality_id":1209944235,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1209944235,
+    "wof:lastmodified":1537675520,
+    "wof:name":"Dulumi",
+    "wof:parent_id":1108563783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.98136,
+    9.23318,
+    10.98136,
+    9.23318
+],
+  "geometry": {"coordinates":[10.98136,9.23318],"type":"Point"}
+}

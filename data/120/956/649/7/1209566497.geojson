@@ -1,0 +1,63 @@
+{
+  "id": 1209566497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.09621,11.49223,4.09621,11.49223",
+    "geom:latitude":11.49223,
+    "geom:longitude":4.09621,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"505.0",
+    "gn:admin3_code":"50502",
+    "gn:asciiname":"Tunga Hassan",
+    "gn:country_code":"NG",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321457,
+    "gn:latitude":11.49223,
+    "gn:longitude":4.09621,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tunga Hassan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321457
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d426bf3f1deb48f0c62510f5f98f6547",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209566497
+        }
+    ],
+    "wof:id":1209566497,
+    "wof:lastmodified":1536283224,
+    "wof:name":"Tunga Hassan",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.09621,
+    11.49223,
+    4.09621,
+    11.49223
+],
+  "geometry": {"coordinates":[4.09621,11.49223],"type":"Point"}
+}

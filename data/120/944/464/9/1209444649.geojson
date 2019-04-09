@@ -1,0 +1,62 @@
+{
+  "id": 1209444649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.00494,9.1828,6.00494,9.1828",
+    "geom:latitude":9.1828,
+    "geom:longitude":6.00494,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27008",
+    "gn:asciiname":"Aliugoy",
+    "gn:country_code":"NG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317390,
+    "gn:latitude":9.1828,
+    "gn:longitude":6.00494,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aliugoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317390
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d5d83130fc83fd1eb506b9c5b784017a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209444649
+        }
+    ],
+    "wof:id":1209444649,
+    "wof:lastmodified":1536286855,
+    "wof:name":"Aliugoy",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.00494,
+    9.1828,
+    6.00494,
+    9.1828
+],
+  "geometry": {"coordinates":[6.00494,9.1828],"type":"Point"}
+}

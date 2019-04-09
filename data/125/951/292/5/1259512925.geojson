@@ -1,0 +1,73 @@
+{
+  "id": 1259512925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.95247,12.32533,8.95247,12.32533",
+    "geom:latitude":12.32533,
+    "geom:longitude":8.95247,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18024.0",
+    "gn:admin3_code":"JI0806",
+    "gn:asciiname":"Ungua Ganji",
+    "gn:country_code":"NG",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344349,
+    "gn:latitude":12.32533,
+    "gn:longitude":8.95247,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ungua Ganji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumou",
+        "Ungua Ganji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675421,
+        1108564305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344349
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"93cc6e7dc9a9da9ca8deb9db044d43f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564305,
+            "locality_id":1259512925,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":1259512925,
+    "wof:lastmodified":1537675295,
+    "wof:name":"Ungua Ganji",
+    "wof:parent_id":1108564305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.95247,
+    12.32533,
+    8.95247,
+    12.32533
+],
+  "geometry": {"coordinates":[8.95247,12.32533],"type":"Point"}
+}

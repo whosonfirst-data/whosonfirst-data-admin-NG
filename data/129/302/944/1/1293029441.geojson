@@ -1,0 +1,68 @@
+{
+  "id": 1293029441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.83142,9.15251,7.83142,9.15251",
+    "geom:latitude":9.15251,
+    "geom:longitude":7.83142,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004",
+    "gn:asciiname":"Gidan Gida",
+    "gn:country_code":"NG",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641599,
+    "gn:latitude":9.15251,
+    "gn:longitude":7.83142,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gidan Gida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641599
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dabb4b8690258b44ee4267ea9725487f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563785,
+            "locality_id":1293029441,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1293029441,
+    "wof:lastmodified":1536950766,
+    "wof:name":"Gidan Gida",
+    "wof:parent_id":1108563785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.83142,
+    9.15251,
+    7.83142,
+    9.15251
+],
+  "geometry": {"coordinates":[7.83142,9.15251],"type":"Point"}
+}

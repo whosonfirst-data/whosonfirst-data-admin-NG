@@ -1,0 +1,68 @@
+{
+  "id": 1209884879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.60318,6.38513,8.60318,6.38513",
+    "geom:latitude":6.38513,
+    "geom:longitude":8.60318,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9016.0",
+    "gn:asciiname":"Nwang",
+    "gn:country_code":"NG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328566,
+    "gn:latitude":6.38513,
+    "gn:longitude":8.60318,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nwang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108564121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328566
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"43ce69c19199ab3b8820655634793240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564121,
+            "locality_id":1209884879,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1209884879,
+    "wof:lastmodified":1536393384,
+    "wof:name":"Nwang",
+    "wof:parent_id":1108564121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.60318,
+    6.38513,
+    8.60318,
+    6.38513
+],
+  "geometry": {"coordinates":[8.60318,6.38513],"type":"Point"}
+}

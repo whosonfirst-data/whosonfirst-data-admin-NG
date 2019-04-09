@@ -1,0 +1,62 @@
+{
+  "id": 1209376209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.96792,5.45661,6.96792,5.45661",
+    "geom:latitude":5.45661,
+    "geom:longitude":6.96792,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17026.0",
+    "gn:asciiname":"Oboku-Avu",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101322,
+    "gn:latitude":5.45661,
+    "gn:longitude":6.96792,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oboku-Avu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101322
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c3c9818cad5d0e3781c8073cf842309c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209376209
+        }
+    ],
+    "wof:id":1209376209,
+    "wof:lastmodified":1536288942,
+    "wof:name":"Oboku-Avu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.96792,
+    5.45661,
+    6.96792,
+    5.45661
+],
+  "geometry": {"coordinates":[6.96792,5.45661],"type":"Point"}
+}

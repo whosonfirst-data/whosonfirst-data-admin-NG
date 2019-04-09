@@ -1,0 +1,72 @@
+{
+  "id": 1293888103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.62036,6.59859,3.62036,6.59859",
+    "geom:latitude":6.59859,
+    "geom:longitude":3.62036,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25012.0",
+    "gn:asciiname":"Gberegbe",
+    "gn:country_code":"NG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341407,
+    "gn:latitude":6.59859,
+    "gn:longitude":3.62036,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gberegbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gberigbe",
+        "Gberegbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        1108563603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341407
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c59bfa517c3981abb89fa768608bc997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563603,
+            "locality_id":1293888103,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1293888103,
+    "wof:lastmodified":1537675250,
+    "wof:name":"Gberegbe",
+    "wof:parent_id":1108563603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.62036,
+    6.59859,
+    3.62036,
+    6.59859
+],
+  "geometry": {"coordinates":[3.62036,6.59859],"type":"Point"}
+}

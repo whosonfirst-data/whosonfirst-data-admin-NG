@@ -1,0 +1,72 @@
+{
+  "id": 1310234447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.24088,11.31517,11.24088,11.31517",
+    "geom:latitude":11.31517,
+    "geom:longitude":11.24088,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"704.0",
+    "gn:admin3_code":"70403",
+    "gn:asciiname":"Garin Yawale",
+    "gn:country_code":"NG",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318216,
+    "gn:latitude":11.31517,
+    "gn:longitude":11.24088,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Garin Yawale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yawale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318216
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"769e72cbfe0b238659267c9ad01f6d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563369,
+            "locality_id":1310234447,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1310234447,
+    "wof:lastmodified":1537674903,
+    "wof:name":"Garin Yawale",
+    "wof:parent_id":1108563369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.24088,
+    11.31517,
+    11.24088,
+    11.31517
+],
+  "geometry": {"coordinates":[11.24088,11.31517],"type":"Point"}
+}

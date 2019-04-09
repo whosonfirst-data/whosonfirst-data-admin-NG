@@ -1,0 +1,72 @@
+{
+  "id": 1209947699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.88769,4.97465,6.88769,4.97465",
+    "geom:latitude":4.97465,
+    "geom:longitude":6.88769,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33013.0",
+    "gn:asciiname":"Azumini",
+    "gn:country_code":"NG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591069,
+    "gn:latitude":4.97465,
+    "gn:longitude":6.88769,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Azumini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azumiri-Isiokpo",
+        "Azumini Isiokpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591069
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"07662c86a49de7dc15e7af7b1830edd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563611,
+            "locality_id":1209947699,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1209947699,
+    "wof:lastmodified":1537675400,
+    "wof:name":"Azumini",
+    "wof:parent_id":1108563611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.88769,
+    4.97465,
+    6.88769,
+    4.97465
+],
+  "geometry": {"coordinates":[6.88769,4.97465],"type":"Point"}
+}

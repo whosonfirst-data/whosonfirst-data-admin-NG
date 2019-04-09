@@ -1,0 +1,73 @@
+{
+  "id": 1260012647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.795,12.34691,6.795,12.34691",
+    "geom:latitude":12.34691,
+    "geom:longitude":6.795,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"808.0",
+    "gn:admin3_code":"80802",
+    "gn:asciiname":"Guidan Atu",
+    "gn:country_code":"NG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341157,
+    "gn:latitude":12.34691,
+    "gn:longitude":6.795,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guidan Atu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidan Atu",
+        "Guidan Atu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675439,
+        1108563131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341157
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d88f456aff763dfbea551952e5c5f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563131,
+            "locality_id":1260012647,
+            "region_id":85675439
+        }
+    ],
+    "wof:id":1260012647,
+    "wof:lastmodified":1537675245,
+    "wof:name":"Guidan Atu",
+    "wof:parent_id":1108563131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.795,
+    12.34691,
+    6.795,
+    12.34691
+],
+  "geometry": {"coordinates":[6.795,12.34691],"type":"Point"}
+}

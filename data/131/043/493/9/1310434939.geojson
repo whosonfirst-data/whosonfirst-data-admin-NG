@@ -1,0 +1,71 @@
+{
+  "id": 1310434939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.82719,10.97397,10.82719,10.97397",
+    "geom:latitude":10.97397,
+    "geom:longitude":10.82719,
+    "gn:admin1_code":"55.0",
+    "gn:admin2_code":"16004.0",
+    "gn:asciiname":"Dokoro",
+    "gn:country_code":"NG",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344619,
+    "gn:latitude":10.97397,
+    "gn:longitude":10.82719,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dokoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dokoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675381,
+        1108563243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344619
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ea801267d0ed2d073dabc6a5985d81e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563243,
+            "locality_id":1310434939,
+            "region_id":85675381
+        }
+    ],
+    "wof:id":1310434939,
+    "wof:lastmodified":1537675299,
+    "wof:name":"Dokoro",
+    "wof:parent_id":1108563243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.82719,
+    10.97397,
+    10.82719,
+    10.97397
+],
+  "geometry": {"coordinates":[10.82719,10.97397],"type":"Point"}
+}

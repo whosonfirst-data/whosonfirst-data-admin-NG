@@ -1,0 +1,68 @@
+{
+  "id": 1242732255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.03654,7.51122,9.03654,7.51122",
+    "geom:latitude":7.51122,
+    "geom:longitude":9.03654,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7004",
+    "gn:asciiname":"Burbwa",
+    "gn:country_code":"NG",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9525914,
+    "gn:latitude":7.51122,
+    "gn:longitude":9.03654,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Burbwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675325,
+        1108563175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9525914
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8f7902657254344dace17ad1fafac139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563175,
+            "locality_id":1242732255,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1242732255,
+    "wof:lastmodified":1536840114,
+    "wof:name":"Burbwa",
+    "wof:parent_id":1108563175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.03654,
+    7.51122,
+    9.03654,
+    7.51122
+],
+  "geometry": {"coordinates":[9.03654,7.51122],"type":"Point"}
+}

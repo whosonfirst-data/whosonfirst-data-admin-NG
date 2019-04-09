@@ -1,0 +1,71 @@
+{
+  "id": 1344200485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76454,5.53706,5.76454,5.53706",
+    "geom:latitude":5.53706,
+    "geom:longitude":5.76454,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Ugborikoko",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028000,
+    "gn:latitude":5.53706,
+    "gn:longitude":5.76454,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ugborikoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ugborikoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108564503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028000
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4723350970e344464b0cf6efb9244abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":1344200485,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1344200485,
+    "wof:lastmodified":1537675424,
+    "wof:name":"Ugborikoko",
+    "wof:parent_id":1108564503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76454,
+    5.53706,
+    5.76454,
+    5.53706
+],
+  "geometry": {"coordinates":[5.76454,5.53706],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209347571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.83421,5.65046,7.83421,5.65046",
+    "geom:latitude":5.65046,
+    "geom:longitude":7.83421,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Ama-Ekpu",
+    "gn:country_code":"NG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075572,
+    "gn:latitude":5.65046,
+    "gn:longitude":7.83421,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ama-Ekpu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075572
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f7b3a48985d0327b48453d94a17cf3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209347571
+        }
+    ],
+    "wof:id":1209347571,
+    "wof:lastmodified":1536289860,
+    "wof:name":"Ama-Ekpu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.8342100000000015,
+    5.65046,
+    7.8342100000000015,
+    5.65046
+],
+  "geometry": {"coordinates":[7.83421,5.65046],"type":"Point"}
+}

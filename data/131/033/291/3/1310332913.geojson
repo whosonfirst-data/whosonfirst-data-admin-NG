@@ -1,0 +1,67 @@
+{
+  "id": 1310332913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04528,11.39851,6.04528,11.39851",
+    "geom:latitude":11.39851,
+    "geom:longitude":6.04528,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Gidan-Jigo",
+    "gn:country_code":"NG",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340957,
+    "gn:latitude":11.39851,
+    "gn:longitude":6.04528,
+    "gn:modification_date":"2009-06-08",
+    "gn:name":"Gidan-Jigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108564505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340957
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b61cbc1a9f3c37209dbae6b0b377acf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564505,
+            "locality_id":1310332913,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1310332913,
+    "wof:lastmodified":1536668573,
+    "wof:name":"Gidan-Jigo",
+    "wof:parent_id":1108564505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04528,
+    11.39851,
+    6.04528,
+    11.39851
+],
+  "geometry": {"coordinates":[6.04528,11.39851],"type":"Point"}
+}

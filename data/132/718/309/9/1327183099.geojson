@@ -1,0 +1,68 @@
+{
+  "id": 1327183099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.93778,7.56806,3.93778,7.56806",
+    "geom:latitude":7.56806,
+    "geom:longitude":3.93778,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Gbamola",
+    "gn:country_code":"NG",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341483,
+    "gn:latitude":7.56806,
+    "gn:longitude":3.93778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbamola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675371,
+        1108562963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341483
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0ac25114e2f63f6dbccdfcbb506bd61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":1327183099,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1327183099,
+    "wof:lastmodified":1537039218,
+    "wof:name":"Gbamola",
+    "wof:parent_id":1108562963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.93778,
+    7.56806,
+    3.93778,
+    7.56806
+],
+  "geometry": {"coordinates":[3.93778,7.56806],"type":"Point"}
+}

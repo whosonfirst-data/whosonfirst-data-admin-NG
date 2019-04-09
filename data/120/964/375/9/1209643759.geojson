@@ -1,0 +1,65 @@
+{
+  "id": 1209643759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.80023,9.52933,9.80023,9.52933",
+    "geom:latitude":9.52933,
+    "geom:longitude":9.80023,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32007.0",
+    "gn:asciiname":"Njimob",
+    "gn:country_code":"NG",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328863,
+    "gn:latitude":9.52933,
+    "gn:longitude":9.80023,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Njimob",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Njimob"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328863
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd1f2dfaf6185a8cd133dea72163884c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209643759
+        }
+    ],
+    "wof:id":1209643759,
+    "wof:lastmodified":1537675072,
+    "wof:name":"Njimob",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.80023,
+    9.52933,
+    9.80023,
+    9.52933
+],
+  "geometry": {"coordinates":[9.80023,9.52933],"type":"Point"}
+}

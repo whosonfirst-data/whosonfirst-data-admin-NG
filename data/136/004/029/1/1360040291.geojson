@@ -1,0 +1,72 @@
+{
+  "id": 1360040291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.66001,5.81627,6.66001,5.81627",
+    "geom:latitude":5.81627,
+    "geom:longitude":6.66001,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4016.0",
+    "gn:asciiname":"Odugiri Obagwe",
+    "gn:country_code":"NG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328371,
+    "gn:latitude":5.81627,
+    "gn:longitude":6.66001,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Odugiri Obagwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obagwe",
+        "Odugiri Obagwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108564109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328371
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"75ea8b67ef150afebfbc2d1146134644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564109,
+            "locality_id":1360040291,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1360040291,
+    "wof:lastmodified":1537675066,
+    "wof:name":"Odugiri Obagwe",
+    "wof:parent_id":1108564109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.66001,
+    5.81627,
+    6.66001,
+    5.81627
+],
+  "geometry": {"coordinates":[6.66001,5.81627],"type":"Point"}
+}

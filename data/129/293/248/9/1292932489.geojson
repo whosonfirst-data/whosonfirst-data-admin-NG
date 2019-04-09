@@ -1,0 +1,71 @@
+{
+  "id": 1292932489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.54758,5.89395,7.54758,5.89395",
+    "geom:latitude":5.89395,
+    "geom:longitude":7.54758,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Afikpo Road Station",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352249,
+    "gn:latitude":5.89395,
+    "gn:longitude":7.54758,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Afikpo Road Station",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Afikpo Road",
+        "Afikpo Road Station"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675399,
+        1108563701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352249
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"09b539a2c0770cbbd597e3562652c4a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563701,
+            "locality_id":1292932489,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1292932489,
+    "wof:lastmodified":1537675390,
+    "wof:name":"Afikpo Road Station",
+    "wof:parent_id":1108563701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.54758,
+    5.89395,
+    7.54758,
+    5.89395
+],
+  "geometry": {"coordinates":[7.54758,5.89395],"type":"Point"}
+}

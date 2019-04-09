@@ -1,0 +1,68 @@
+{
+  "id": 1259612983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.25027,8.58907,11.25027,8.58907",
+    "geom:latitude":8.58907,
+    "geom:longitude":11.25027,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001.0",
+    "gn:asciiname":"Wuro Dahiru",
+    "gn:country_code":"NG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318780,
+    "gn:latitude":8.58907,
+    "gn:longitude":11.25027,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Dahiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108563025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318780
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e3e0223d9b20e2c2aa7a7baedc7191ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563025,
+            "locality_id":1259612983,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1259612983,
+    "wof:lastmodified":1536672376,
+    "wof:name":"Wuro Dahiru",
+    "wof:parent_id":1108563025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.25027,
+    8.58907,
+    11.25027,
+    8.58907
+],
+  "geometry": {"coordinates":[11.25027,8.58907],"type":"Point"}
+}

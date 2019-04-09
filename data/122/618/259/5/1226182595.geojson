@@ -1,0 +1,71 @@
+{
+  "id": 1226182595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.25653,9.0352,12.25653,9.0352",
+    "geom:latitude":9.0352,
+    "geom:longitude":12.25653,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Lugarewo",
+    "gn:country_code":"NG",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331878,
+    "gn:latitude":9.0352,
+    "gn:longitude":12.25653,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Lugarewo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lugarewo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331878
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fe98b86f320a6e92c4b29ed3f11bf393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563371,
+            "locality_id":1226182595,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1226182595,
+    "wof:lastmodified":1537675112,
+    "wof:name":"Lugarewo",
+    "wof:parent_id":1108563371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.25653,
+    9.0352,
+    12.25653,
+    9.0352
+],
+  "geometry": {"coordinates":[12.25653,9.0352],"type":"Point"}
+}

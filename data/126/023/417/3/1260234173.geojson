@@ -1,0 +1,71 @@
+{
+  "id": 1260234173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.42898,6.07083,6.42898,6.07083",
+    "geom:latitude":6.07083,
+    "geom:longitude":6.42898,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10002.0",
+    "gn:asciiname":"Obi-Udo",
+    "gn:country_code":"NG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505035,
+    "gn:latitude":6.07083,
+    "gn:longitude":6.42898,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obi-Udo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obi-Udo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675387,
+        1108563013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505035
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3756b33ea72e3ec24932851ebce95c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563013,
+            "locality_id":1260234173,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1260234173,
+    "wof:lastmodified":1537675457,
+    "wof:name":"Obi-Udo",
+    "wof:parent_id":1108563013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.42898,
+    6.07083,
+    6.42898,
+    6.07083
+],
+  "geometry": {"coordinates":[6.42898,6.07083],"type":"Point"}
+}

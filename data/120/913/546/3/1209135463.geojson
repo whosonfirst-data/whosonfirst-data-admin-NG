@@ -1,0 +1,63 @@
+{
+  "id": 1209135463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.43364,12.80011,10.43364,12.80011",
+    "geom:latitude":12.80011,
+    "geom:longitude":10.43364,
+    "gn:admin1_code":"39.0",
+    "gn:admin2_code":"18005.0",
+    "gn:admin3_code":"JI1002",
+    "gn:asciiname":"Adiani",
+    "gn:country_code":"NG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2352428,
+    "gn:latitude":12.80011,
+    "gn:longitude":10.43364,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adiani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2352428
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3781c0d9e267a58ef692c10f3834018b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209135463
+        }
+    ],
+    "wof:id":1209135463,
+    "wof:lastmodified":1536296674,
+    "wof:name":"Adiani",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.43364,
+    12.80011,
+    10.43364,
+    12.80011
+],
+  "geometry": {"coordinates":[10.43364,12.80011],"type":"Point"}
+}

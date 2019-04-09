@@ -1,0 +1,72 @@
+{
+  "id": 1277104337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73068,10.2796,5.73068,10.2796",
+    "geom:latitude":10.2796,
+    "geom:longitude":5.73068,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27015.0",
+    "gn:asciiname":"Beri",
+    "gn:country_code":"NG",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347252,
+    "gn:latitude":10.2796,
+    "gn:longitude":5.73068,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Beri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bari",
+        "Beri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675349,
+        1108563947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347252
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a8619e0d80c86270ef71c4aae54f61ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563947,
+            "locality_id":1277104337,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1277104337,
+    "wof:lastmodified":1537675332,
+    "wof:name":"Beri",
+    "wof:parent_id":1108563947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73068,
+    10.2796,
+    5.73068,
+    10.2796
+],
+  "geometry": {"coordinates":[5.73068,10.2796],"type":"Point"}
+}

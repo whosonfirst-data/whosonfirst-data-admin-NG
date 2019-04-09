@@ -1,0 +1,68 @@
+{
+  "id": 1259414177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.15759,4.85706,7.15759,4.85706",
+    "geom:latitude":4.85706,
+    "geom:longitude":7.15759,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33021.0",
+    "gn:asciiname":"Konko",
+    "gn:country_code":"NG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591732,
+    "gn:latitude":4.85706,
+    "gn:longitude":7.15759,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Konko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108564265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591732
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"08098ab68408bff15801cf53a1480d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564265,
+            "locality_id":1259414177,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1259414177,
+    "wof:lastmodified":1536958425,
+    "wof:name":"Konko",
+    "wof:parent_id":1108564265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.15759,
+    4.85706,
+    7.15759,
+    4.85706
+],
+  "geometry": {"coordinates":[7.15759,4.85706],"type":"Point"}
+}

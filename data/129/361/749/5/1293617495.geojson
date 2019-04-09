@@ -1,0 +1,68 @@
+{
+  "id": 1293617495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.75154,8.84994,11.75154,8.84994",
+    "geom:latitude":8.84994,
+    "geom:longitude":11.75154,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35016",
+    "gn:asciiname":"Kondari",
+    "gn:country_code":"NG",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10866067,
+    "gn:latitude":8.84994,
+    "gn:longitude":11.75154,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kondari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10866067
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d5ed7797abf0e1844ac082db39156a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564561,
+            "locality_id":1293617495,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293617495,
+    "wof:lastmodified":1537093713,
+    "wof:name":"Kondari",
+    "wof:parent_id":1108564561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.75154,
+    8.84994,
+    11.75154,
+    8.84994
+],
+  "geometry": {"coordinates":[11.75154,8.84994],"type":"Point"}
+}

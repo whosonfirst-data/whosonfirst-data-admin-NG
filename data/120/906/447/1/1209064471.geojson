@@ -1,0 +1,67 @@
+{
+  "id": 1209064471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.11725,11.32166,8.11725,11.32166",
+    "geom:latitude":11.32166,
+    "geom:longitude":8.11725,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19005.0",
+    "gn:admin3_code":"KD0509",
+    "gn:asciiname":"Gidan Karowi",
+    "gn:country_code":"NG",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2340943,
+    "gn:latitude":11.32166,
+    "gn:longitude":8.11725,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Karowi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karowi",
+        "Gidan Karowi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2340943
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb07e43d5724650d98fd68f9ee4bb44a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209064471
+        }
+    ],
+    "wof:id":1209064471,
+    "wof:lastmodified":1537675237,
+    "wof:name":"Gidan Karowi",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.11725,
+    11.32166,
+    8.11725,
+    11.32166
+],
+  "geometry": {"coordinates":[8.11725,11.32166],"type":"Point"}
+}

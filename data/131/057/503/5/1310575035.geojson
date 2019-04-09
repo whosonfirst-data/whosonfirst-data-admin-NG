@@ -1,0 +1,68 @@
+{
+  "id": 1310575035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.81545,5.1651,7.81545,5.1651",
+    "geom:latitude":5.1651,
+    "geom:longitude":7.81545,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3012.0",
+    "gn:asciiname":"Ikot Ayan",
+    "gn:country_code":"NG",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338143,
+    "gn:latitude":5.1651,
+    "gn:longitude":7.81545,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Ayan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675309,
+        1108563601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338143
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7794244f6a54333fd16a4d404fb28d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563601,
+            "locality_id":1310575035,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1310575035,
+    "wof:lastmodified":1536815930,
+    "wof:name":"Ikot Ayan",
+    "wof:parent_id":1108563601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.81545,
+    5.1651,
+    7.81545,
+    5.1651
+],
+  "geometry": {"coordinates":[7.81545,5.1651],"type":"Point"}
+}

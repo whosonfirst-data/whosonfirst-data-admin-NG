@@ -1,0 +1,73 @@
+{
+  "id": 1243214039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.32779,12.26425,8.32779,12.26425",
+    "geom:latitude":12.26425,
+    "geom:longitude":8.32779,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"20031.0",
+    "gn:admin3_code":"KN0511",
+    "gn:asciiname":"Domargu",
+    "gn:country_code":"NG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2345532,
+    "gn:latitude":12.26425,
+    "gn:longitude":8.32779,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Domargu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damargu",
+        "Domargu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675425,
+        1108563115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2345532
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"15e69de3cb73d4db51386ed8e4d9bbd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563115,
+            "locality_id":1243214039,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1243214039,
+    "wof:lastmodified":1537675310,
+    "wof:name":"Domargu",
+    "wof:parent_id":1108563115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.32779,
+    12.26425,
+    8.32779,
+    12.26425
+],
+  "geometry": {"coordinates":[8.32779,12.26425],"type":"Point"}
+}

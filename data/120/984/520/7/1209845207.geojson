@@ -1,0 +1,68 @@
+{
+  "id": 1209845207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.91788,4.98187,6.91788,4.98187",
+    "geom:latitude":4.98187,
+    "geom:longitude":6.91788,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33013.0",
+    "gn:asciiname":"Agwa",
+    "gn:country_code":"NG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351704,
+    "gn:latitude":4.98187,
+    "gn:longitude":6.91788,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675317,
+        1108563611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351704
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"89d9e3f20c2e0a3f249f865cf7df1553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563611,
+            "locality_id":1209845207,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1209845207,
+    "wof:lastmodified":1536390970,
+    "wof:name":"Agwa",
+    "wof:parent_id":1108563611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.91788,
+    4.98187,
+    6.91788,
+    4.98187
+],
+  "geometry": {"coordinates":[6.91788,4.98187],"type":"Point"}
+}

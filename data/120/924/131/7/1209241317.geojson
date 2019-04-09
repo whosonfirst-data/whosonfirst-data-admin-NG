@@ -1,0 +1,62 @@
+{
+  "id": 1209241317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09003,9.42568,10.09003,9.42568",
+    "geom:latitude":9.42568,
+    "geom:longitude":10.09003,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32007.0",
+    "gn:asciiname":"Jam",
+    "gn:country_code":"NG",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2336559,
+    "gn:latitude":9.42568,
+    "gn:longitude":10.09003,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Jam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2336559
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"062d45dc3046a712cac1c5048df5a902",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241317
+        }
+    ],
+    "wof:id":1209241317,
+    "wof:lastmodified":1536293311,
+    "wof:name":"Jam",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09003,
+    9.42568,
+    10.09003,
+    9.42568
+],
+  "geometry": {"coordinates":[10.09003,9.42568],"type":"Point"}
+}

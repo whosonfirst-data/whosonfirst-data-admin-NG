@@ -1,0 +1,68 @@
+{
+  "id": 1327063105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.77811,9.11063,7.77811,9.11063",
+    "geom:latitude":9.11063,
+    "geom:longitude":7.77811,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"26004",
+    "gn:asciiname":"Pankurege",
+    "gn:country_code":"NG",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641605,
+    "gn:latitude":9.11063,
+    "gn:longitude":7.77811,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pankurege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675415,
+        1108563785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641605
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c58988a429f3db0a8c032cfab0248767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563785,
+            "locality_id":1327063105,
+            "region_id":85675415
+        }
+    ],
+    "wof:id":1327063105,
+    "wof:lastmodified":1536716550,
+    "wof:name":"Pankurege",
+    "wof:parent_id":1108563785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.77811,
+    9.11063,
+    7.77811,
+    9.11063
+],
+  "geometry": {"coordinates":[7.77811,9.11063],"type":"Point"}
+}

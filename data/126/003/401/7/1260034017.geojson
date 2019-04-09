@@ -1,0 +1,73 @@
+{
+  "id": 1260034017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.0223,12.19763,14.0223,12.19763",
+    "geom:latitude":12.19763,
+    "geom:longitude":14.0223,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"125.0",
+    "gn:admin3_code":"12505",
+    "gn:asciiname":"Logomani",
+    "gn:country_code":"NG",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2331959,
+    "gn:latitude":12.19763,
+    "gn:longitude":14.0223,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Logomani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Logum\u0101ne",
+        "Logomani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675301,
+        1108564023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2331959
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"715a95870210e8979cd1fda7c7bafd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564023,
+            "locality_id":1260034017,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1260034017,
+    "wof:lastmodified":1537675113,
+    "wof:name":"Logomani",
+    "wof:parent_id":1108564023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.0223,
+    12.19763,
+    14.0223,
+    12.19763
+],
+  "geometry": {"coordinates":[14.0223,12.19763],"type":"Point"}
+}

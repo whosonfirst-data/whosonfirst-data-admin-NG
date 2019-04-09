@@ -1,0 +1,62 @@
+{
+  "id": 1209545153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.28495,8.68994,11.28495,8.68994",
+    "geom:latitude":8.68994,
+    "geom:longitude":11.28495,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35001",
+    "gn:asciiname":"Jauro Maya",
+    "gn:country_code":"NG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10878822,
+    "gn:latitude":8.68994,
+    "gn:longitude":11.28495,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jauro Maya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10878822
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3db06fb92b4dac7da19c7b1a8a6873ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209545153
+        }
+    ],
+    "wof:id":1209545153,
+    "wof:lastmodified":1536283866,
+    "wof:name":"Jauro Maya",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.28495,
+    8.68994,
+    11.28495,
+    8.68994
+],
+  "geometry": {"coordinates":[11.28495,8.68994],"type":"Point"}
+}

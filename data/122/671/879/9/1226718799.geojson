@@ -1,0 +1,72 @@
+{
+  "id": 1226718799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8278,5.587,8.8278,5.587",
+    "geom:latitude":5.587,
+    "geom:longitude":8.8278,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9002.0",
+    "gn:asciiname":"Ndebiji",
+    "gn:country_code":"NG",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329330,
+    "gn:latitude":5.587,
+    "gn:longitude":8.8278,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndebiji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndebbiji",
+        "Ndebiji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108562961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329330
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"47e3ea8be00f7c04508870c33a35d99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562961,
+            "locality_id":1226718799,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1226718799,
+    "wof:lastmodified":1537675080,
+    "wof:name":"Ndebiji",
+    "wof:parent_id":1108562961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8278,
+    5.587,
+    8.8278,
+    5.587
+],
+  "geometry": {"coordinates":[8.8278,5.587],"type":"Point"}
+}

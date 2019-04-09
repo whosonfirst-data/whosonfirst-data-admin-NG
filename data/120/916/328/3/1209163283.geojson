@@ -1,0 +1,62 @@
+{
+  "id": 1209163283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.78333,8.0,3.78333,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":3.78333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31030.0",
+    "gn:asciiname":"Ogunda",
+    "gn:country_code":"NG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327592,
+    "gn:latitude":8.0,
+    "gn:longitude":3.78333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327592
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"636e797662d817b609c633c49d3332fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209163283
+        }
+    ],
+    "wof:id":1209163283,
+    "wof:lastmodified":1536295831,
+    "wof:name":"Ogunda",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.78333,
+    8.0,
+    3.78333,
+    8.0
+],
+  "geometry": {"coordinates":[3.78333,8.0],"type":"Point"}
+}

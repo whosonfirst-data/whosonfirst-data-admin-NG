@@ -1,0 +1,72 @@
+{
+  "id": 1343230799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.97518,5.76382,7.97518,5.76382",
+    "geom:latitude":5.76382,
+    "geom:longitude":7.97518,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9006.0",
+    "gn:asciiname":"Abarijang",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353027,
+    "gn:latitude":5.76382,
+    "gn:longitude":7.97518,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abarijang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abariyang",
+        "Abarijang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675331,
+        1108563113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353027
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fb6a8c5f8522c96d3f72f3b1ef446485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563113,
+            "locality_id":1343230799,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1343230799,
+    "wof:lastmodified":1537675398,
+    "wof:name":"Abarijang",
+    "wof:parent_id":1108563113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97518,
+    5.76382,
+    7.97518,
+    5.76382
+],
+  "geometry": {"coordinates":[7.97518,5.76382],"type":"Point"}
+}

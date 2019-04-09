@@ -1,0 +1,62 @@
+{
+  "id": 1209241193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28333,7.56667,4.28333,7.56667",
+    "geom:latitude":7.56667,
+    "geom:longitude":4.28333,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30002.0",
+    "gn:asciiname":"Obiyelu",
+    "gn:country_code":"NG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328228,
+    "gn:latitude":7.56667,
+    "gn:longitude":4.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obiyelu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328228
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b31e59e7864873ab7cb2a10da7947197",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209241193
+        }
+    ],
+    "wof:id":1209241193,
+    "wof:lastmodified":1536293315,
+    "wof:name":"Obiyelu",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28333,
+    7.5666699999999985,
+    4.28333,
+    7.5666699999999985
+],
+  "geometry": {"coordinates":[4.28333,7.56667],"type":"Point"}
+}

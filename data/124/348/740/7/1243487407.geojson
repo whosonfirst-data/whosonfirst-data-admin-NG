@@ -1,0 +1,72 @@
+{
+  "id": 1243487407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"10.09477,10.2491,10.09477,10.2491",
+    "geom:latitude":10.2491,
+    "geom:longitude":10.09477,
+    "gn:admin1_code":"46.0",
+    "gn:admin2_code":"5002.0",
+    "gn:admin3_code":"BA0216",
+    "gn:asciiname":"Bishi",
+    "gn:country_code":"NG",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347024,
+    "gn:latitude":10.2491,
+    "gn:longitude":10.09477,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bishi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675379,
+        1108563101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347024
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b2e897e0e2fcadf8372752fc96fc1147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563101,
+            "locality_id":1243487407,
+            "region_id":85675379
+        }
+    ],
+    "wof:id":1243487407,
+    "wof:lastmodified":1537675328,
+    "wof:name":"Bishi",
+    "wof:parent_id":1108563101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.09477,
+    10.2491,
+    10.09477,
+    10.2491
+],
+  "geometry": {"coordinates":[10.09477,10.2491],"type":"Point"}
+}

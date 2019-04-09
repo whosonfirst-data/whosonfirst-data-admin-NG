@@ -1,0 +1,81 @@
+{
+  "id": 1125869299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.199,10.85009,8.199,10.85009",
+    "geom:latitude":10.85009,
+    "geom:longitude":8.199,
+    "gn:gn_country":"NG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":22062,
+    "gn:population":22062,
+    "iso:country":"NG",
+    "lbl:latitude":10.85009,
+    "lbl:longitude":8.199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Dutsan Wai"
+    ],
+    "qs_pg:aaroncc":"NG",
+    "qs_pg:gn_country":"NG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2344229,
+    "qs_pg:gn_pop":22062,
+    "qs_pg:name":"Dutsen Wai",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":139749,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344229,
+        "qs_pg:id":139749
+    },
+    "wof:country":"NG",
+    "wof:created":1497294209,
+    "wof:geomhash":"c4898772ca5ef4e48a7a234b27771ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563845,
+            "locality_id":1125869299,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1125869299,
+    "wof:lastmodified":1509397189,
+    "wof:name":"Dutsen Wai",
+    "wof:parent_id":1108563845,
+    "wof:placetype":"locality",
+    "wof:population":22062,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.199,
+    10.85009,
+    8.199,
+    10.85009
+],
+  "geometry": {"coordinates":[8.199,10.85009],"type":"Point"}
+}

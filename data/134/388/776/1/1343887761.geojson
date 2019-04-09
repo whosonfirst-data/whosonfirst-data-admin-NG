@@ -1,0 +1,69 @@
+{
+  "id": 1343887761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.51697,11.50629,11.51697,11.50629",
+    "geom:latitude":11.50629,
+    "geom:longitude":11.51697,
+    "gn:admin1_code":"44.0",
+    "gn:admin2_code":"705.0",
+    "gn:admin3_code":"70503",
+    "gn:asciiname":"Kwarum",
+    "gn:country_code":"NG",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332763,
+    "gn:latitude":11.50629,
+    "gn:longitude":11.51697,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kwarum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675443,
+        1108563375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332763
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e146f19e3043b1dc36a77a0dd788a46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563375,
+            "locality_id":1343887761,
+            "region_id":85675443
+        }
+    ],
+    "wof:id":1343887761,
+    "wof:lastmodified":1536625455,
+    "wof:name":"Kwarum",
+    "wof:parent_id":1108563375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.51697,
+    11.50629,
+    11.51697,
+    11.50629
+],
+  "geometry": {"coordinates":[11.51697,11.50629],"type":"Point"}
+}

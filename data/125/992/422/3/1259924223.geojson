@@ -1,0 +1,68 @@
+{
+  "id": 1259924223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.91736,8.95445,11.91736,8.95445",
+    "geom:latitude":8.95445,
+    "geom:longitude":11.91736,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Wuro Yafaki",
+    "gn:country_code":"NG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318579,
+    "gn:latitude":8.95445,
+    "gn:longitude":11.91736,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wuro Yafaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675451,
+        1108563963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318579
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a631ba60cfd814ac2381bbc29dc47ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563963,
+            "locality_id":1259924223,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1259924223,
+    "wof:lastmodified":1536720914,
+    "wof:name":"Wuro Yafaki",
+    "wof:parent_id":1108563963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.91736,
+    8.95445,
+    11.91736,
+    8.95445
+],
+  "geometry": {"coordinates":[11.91736,8.95445],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243332057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.08875,9.62993,8.08875,9.62993",
+    "geom:latitude":9.62993,
+    "geom:longitude":8.08875,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19008",
+    "gn:admin3_code":"KD0810",
+    "gn:asciiname":"Gidan Makam",
+    "gn:country_code":"NG",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11003310,
+    "gn:latitude":9.62993,
+    "gn:longitude":8.08875,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gidan Makam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675405,
+        1108563739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11003310
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"99839c9ffa817ee001f9cc6e5b987606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563739,
+            "locality_id":1243332057,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1243332057,
+    "wof:lastmodified":1536970276,
+    "wof:name":"Gidan Makam",
+    "wof:parent_id":1108563739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.08875,
+    9.62993,
+    8.08875,
+    9.62993
+],
+  "geometry": {"coordinates":[8.08875,9.62993],"type":"Point"}
+}

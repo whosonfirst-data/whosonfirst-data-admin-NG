@@ -1,0 +1,72 @@
+{
+  "id": 1259740303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.1243,6.27008,7.1243,6.27008",
+    "geom:latitude":6.27008,
+    "geom:longitude":7.1243,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4005.0",
+    "gn:asciiname":"Egbagu",
+    "gn:country_code":"NG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343955,
+    "gn:latitude":6.27008,
+    "gn:longitude":7.1243,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Egbagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Egbagu-Amansi",
+        "Egbagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675375,
+        1108563059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343955
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e1cc633478fc5ed29fac81b6d2c0f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563059,
+            "locality_id":1259740303,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1259740303,
+    "wof:lastmodified":1537675287,
+    "wof:name":"Egbagu",
+    "wof:parent_id":1108563059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.1243,
+    6.27008,
+    7.1243,
+    6.27008
+],
+  "geometry": {"coordinates":[7.1243,6.27008],"type":"Point"}
+}

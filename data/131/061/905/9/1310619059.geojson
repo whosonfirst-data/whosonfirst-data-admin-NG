@@ -1,0 +1,67 @@
+{
+  "id": 1310619059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73333,6.5,2.73333,6.5",
+    "geom:latitude":6.5,
+    "geom:longitude":2.73333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gbodo",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2341387,
+    "gn:latitude":6.5,
+    "gn:longitude":2.73333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Gbodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108563647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2341387
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"90b9cf92d8965d29790402d2a639f2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563647,
+            "locality_id":1310619059,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1310619059,
+    "wof:lastmodified":1536753108,
+    "wof:name":"Gbodo",
+    "wof:parent_id":1108563647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73333,
+    6.5,
+    2.73333,
+    6.5
+],
+  "geometry": {"coordinates":[2.73333,6.5],"type":"Point"}
+}

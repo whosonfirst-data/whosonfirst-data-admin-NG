@@ -1,0 +1,62 @@
+{
+  "id": 1209263879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.53333,8.1,4.53333,8.1",
+    "geom:latitude":8.1,
+    "geom:longitude":4.53333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24015.0",
+    "gn:asciiname":"Aho Igbada",
+    "gn:country_code":"NG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351656,
+    "gn:latitude":8.1,
+    "gn:longitude":4.53333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aho Igbada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351656
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ae4bf5737c2dc036ab284ddbaf64e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209263879
+        }
+    ],
+    "wof:id":1209263879,
+    "wof:lastmodified":1536292601,
+    "wof:name":"Aho Igbada",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.53333,
+    8.1,
+    4.53333,
+    8.1
+],
+  "geometry": {"coordinates":[4.53333,8.1],"type":"Point"}
+}

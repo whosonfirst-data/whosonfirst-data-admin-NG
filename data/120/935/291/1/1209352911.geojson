@@ -1,0 +1,63 @@
+{
+  "id": 1209352911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75559,11.47017,4.75559,11.47017",
+    "geom:latitude":11.47017,
+    "geom:longitude":4.75559,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"509.0",
+    "gn:admin3_code":"50909",
+    "gn:asciiname":"Darko",
+    "gn:country_code":"NG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7020541,
+    "gn:latitude":11.47017,
+    "gn:longitude":4.75559,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Darko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020541
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d14e9bc7cab39b3207a3601a8d648bb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":1209352911
+        }
+    ],
+    "wof:id":1209352911,
+    "wof:lastmodified":1536289688,
+    "wof:name":"Darko",
+    "wof:parent_id":85632735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75559,
+    11.47017,
+    4.75559,
+    11.47017
+],
+  "geometry": {"coordinates":[4.75559,11.47017],"type":"Point"}
+}

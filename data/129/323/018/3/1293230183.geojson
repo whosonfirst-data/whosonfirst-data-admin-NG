@@ -1,0 +1,68 @@
+{
+  "id": 1293230183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.5724,7.84291,9.5724,7.84291",
+    "geom:latitude":7.84291,
+    "geom:longitude":9.5724,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35014",
+    "gn:asciiname":"Tsegbum",
+    "gn:country_code":"NG",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9529741,
+    "gn:latitude":7.84291,
+    "gn:longitude":9.5724,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tsegbum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675335,
+        1108564511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9529741
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"74d96020b4a9fec606a40a770c14c3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564511,
+            "locality_id":1293230183,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1293230183,
+    "wof:lastmodified":1536661173,
+    "wof:name":"Tsegbum",
+    "wof:parent_id":1108564511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5724,
+    7.84291,
+    9.5724,
+    7.84291
+],
+  "geometry": {"coordinates":[9.5724,7.84291],"type":"Point"}
+}

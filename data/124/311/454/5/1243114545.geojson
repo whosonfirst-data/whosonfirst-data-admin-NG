@@ -1,0 +1,69 @@
+{
+  "id": 1243114545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.95765,12.26168,3.95765,12.26168",
+    "geom:latitude":12.26168,
+    "geom:longitude":3.95765,
+    "gn:admin1_code":"40.0",
+    "gn:admin2_code":"507.0",
+    "gn:admin3_code":"50710",
+    "gn:asciiname":"Zogirma",
+    "gn:country_code":"NG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317664,
+    "gn:latitude":12.26168,
+    "gn:longitude":3.95765,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Zogirma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675447,
+        1108563171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317664
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"50f950b7cbe8ff257e9e10b6af24fe0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563171,
+            "locality_id":1243114545,
+            "region_id":85675447
+        }
+    ],
+    "wof:id":1243114545,
+    "wof:lastmodified":1536787552,
+    "wof:name":"Zogirma",
+    "wof:parent_id":1108563171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.95765,
+    12.26168,
+    3.95765,
+    12.26168
+],
+  "geometry": {"coordinates":[3.95765,12.26168],"type":"Point"}
+}
