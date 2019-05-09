@@ -10,6 +10,12 @@
     "geom:latitude":11.992447,
     "geom:longitude":8.584233,
     "iso:country":"NG",
+    "label:eng_x_preferred_longname":[
+        "Nasarawa L.G.A."
+    ],
+    "label:eng_x_preferred_placetype":[
+        "l.g.a."
+    ],
     "lbl:latitude":11.991878,
     "lbl:longitude":8.584233,
     "meso:adm1_name":"Kano",
@@ -25,6 +31,9 @@
     "mps:longitude":8.584233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nasarawa"
+    ],
     "name:eng_x_variant":[
         "Nassaraw",
         "Gezawa"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1108564013,
-    "wof:lastmodified":1536615211,
+    "wof:lastmodified":1555047488,
     "wof:name":"Nasarawa",
     "wof:parent_id":85675425,
     "wof:placetype":"county",

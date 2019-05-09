@@ -10,6 +10,12 @@
     "geom:latitude":6.492013,
     "geom:longitude":3.350841,
     "iso:country":"NG",
+    "label:eng_x_preferred_longname":[
+        "Surulere L.G.A."
+    ],
+    "label:eng_x_preferred_placetype":[
+        "l.g.a."
+    ],
     "lbl:latitude":6.494953,
     "lbl:longitude":3.353142,
     "meso:adm1_name":"Lagos",
@@ -27,6 +33,9 @@
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
+        "Surulere"
+    ],
+    "name:eng_x_preferred":[
         "Surulere"
     ],
     "name:eng_x_variant":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421175165,
-    "wof:lastmodified":1536615948,
+    "wof:lastmodified":1555047487,
     "wof:name":"Surulere",
     "wof:parent_id":85675343,
     "wof:placetype":"county",
