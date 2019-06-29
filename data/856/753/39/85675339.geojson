@@ -42,14 +42,14 @@
     "name:cat_x_preferred":[
         "Kwara"
     ],
-    "name:chi_x_preferred":[
-        "\u5938\u62c9\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Kwara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kwara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b2\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kwara"
@@ -60,20 +60,17 @@
     "name:est_x_preferred":[
         "Kwara osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0648\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kwara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat de Kwara"
-    ],
-    "name:ger_x_preferred":[
-        "Kwara"
     ],
     "name:glg_x_preferred":[
         "Kwara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b2\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab5\u0abe\u0ab0\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -111,20 +108,20 @@
     "name:mar_x_preferred":[
         "\u0915\u0941\u0935\u093e \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Kwara State"
-    ],
     "name:mrj_x_preferred":[
         "\u041a\u0432\u0430\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kwara State"
     ],
     "name:nan_x_preferred":[
         "Kwara Chiu"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kwara"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0648\u0627\u0631\u0627"
+    "name:nob_x_preferred":[
+        "Kwara"
     ],
     "name:pol_x_preferred":[
         "Kwara"
@@ -132,7 +129,7 @@
     "name:por_x_preferred":[
         "Kwara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Kwara"
     ],
     "name:rus_x_preferred":[
@@ -179,6 +176,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 K\u00fa\u00e1r\u00e0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5938\u62c9\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -307,7 +307,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553550487,
+    "wof:lastmodified":1561766601,
     "wof:name":"Kwara",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

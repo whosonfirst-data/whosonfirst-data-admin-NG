@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.983721,
-    "geom:area_square_m":48385393464.866272,
+    "geom:area_square_m":48385393464.866203,
     "geom:bbox":"8.72906633973,9.49817136831,11.0232663397,12.5214713683",
     "geom:latitude":10.784803,
     "geom:longitude":9.985476,
@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "Estat de Bauchi"
     ],
-    "name:chi_x_preferred":[
-        "\u5305\u5947\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Bauchi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bauchi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c4\u03c3\u03af"
     ],
     "name:eng_x_preferred":[
         "Bauchi"
@@ -62,23 +62,17 @@
     "name:est_x_preferred":[
         "Bauchi osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0628\u0627\u0648\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Bauchi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat de Bauchi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e3\u10e9\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bauchi"
     ],
     "name:glg_x_preferred":[
         "Estado de Bauchi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c4\u03c3\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a89\u0a9a\u0ac0 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -101,6 +95,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cbe\u0c9a\u0cc1 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e3\u10e9\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\uc6b0\uce58 \uc8fc"
     ],
@@ -116,17 +113,17 @@
     "name:mar_x_preferred":[
         "\u092c\u093e\u090a\u091a\u0940 \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Bauchi State"
-    ],
     "name:mrj_x_preferred":[
         "\u0411\u0430\u0443\u0447\u0438"
     ],
-    "name:nob_x_preferred":[
+    "name:msa_x_preferred":[
+        "Bauchi State"
+    ],
+    "name:nld_x_preferred":[
         "Bauchi"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0628\u0627\u0648\u0686\u06cc"
+    "name:nob_x_preferred":[
+        "Bauchi"
     ],
     "name:pol_x_preferred":[
         "Bauczi"
@@ -134,7 +131,7 @@
     "name:por_x_preferred":[
         "Bauchi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Bauchi"
     ],
     "name:rus_x_preferred":[
@@ -178,6 +175,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 Bauchi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5305\u5947\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -304,7 +304,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561766602,
     "wof:name":"Bauchi",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

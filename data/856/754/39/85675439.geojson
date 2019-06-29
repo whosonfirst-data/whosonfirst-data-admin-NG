@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.792823,
-    "geom:area_square_m":33765898620.383648,
+    "geom:area_square_m":33765898620.383663,
     "geom:bbox":"4.92926633973,10.8634713683,7.24186633973,13.1596713683",
     "geom:latitude":12.094686,
     "geom:longitude":6.246603,
@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Estat de Zamfara"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u59c6\u6cd5\u62c9\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Zamfara"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zamfara"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bc\u03c6\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Zamfara"
@@ -56,20 +56,17 @@
     "name:est_x_preferred":[
         "Zamfara osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0632\u0627\u0645\u0641\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Zamfara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat de Zamfara"
-    ],
-    "name:ger_x_preferred":[
-        "Zamfara"
     ],
     "name:glg_x_preferred":[
         "Zamfara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03bc\u03c6\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac7\u0aae\u0acd\u0aab\u0abe\u0ab0\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -107,20 +104,20 @@
     "name:mar_x_preferred":[
         "\u091c\u093e\u092e\u092b\u0930 \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Zamfara State"
-    ],
     "name:mrj_x_preferred":[
         "\u0417\u0430\u043c\u0444\u0430\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Zamfara State"
     ],
     "name:nan_x_preferred":[
         "Zamfara Chiu"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Zamfara"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0632\u0627\u0645\u0641\u0627\u0631\u0627"
+    "name:nob_x_preferred":[
+        "Zamfara"
     ],
     "name:pol_x_preferred":[
         "Zamfara"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Zamfara"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Zamfara"
     ],
     "name:rus_x_preferred":[
@@ -175,6 +172,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 Zamfara"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u59c6\u6cd5\u62c9\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -301,7 +301,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553814811,
+    "wof:lastmodified":1561766600,
     "wof:name":"Zamfara",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

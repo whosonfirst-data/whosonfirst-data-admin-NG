@@ -23,14 +23,14 @@
     "name:cat_x_preferred":[
         "Gombe"
     ],
-    "name:chi_x_preferred":[
-        "\u8ca2\u8c9d"
-    ],
     "name:dan_x_preferred":[
         "Gombe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gombe"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03bc\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Gombe"
@@ -38,20 +38,17 @@
     "name:epo_x_preferred":[
         "Gombe"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0645\u0628\u0647"
+    ],
     "name:fin_x_preferred":[
         "Gombe"
     ],
-    "name:fre_x_preferred":[
-        "Gombe"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gombe"
     ],
     "name:glg_x_preferred":[
         "Gombe"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03cc\u03bc\u03c0\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0aae\u0acd\u0aac\u0ac7"
@@ -89,17 +86,17 @@
     "name:mar_x_preferred":[
         "\u0917\u094b\u092e\u094d\u092c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gombe"
     ],
     "name:nan_x_preferred":[
         "Gombe"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Gombe"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0645\u0628\u0647"
+    "name:nob_x_preferred":[
+        "Gombe"
     ],
     "name:pol_x_preferred":[
         "Gombe"
@@ -107,7 +104,7 @@
     "name:por_x_preferred":[
         "Gombe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gombe"
     ],
     "name:rus_x_preferred":[
@@ -145,6 +142,9 @@
     ],
     "name:yor_x_preferred":[
         "G\u00f2mb\u00e8"
+    ],
+    "name:zho_x_preferred":[
+        "\u8ca2\u8c9d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nigeria",
@@ -265,7 +265,7 @@
         }
     ],
     "wof:id":1141907421,
-    "wof:lastmodified":1553816736,
+    "wof:lastmodified":1561766940,
     "wof:name":"Gombe",
     "wof:parent_id":1108563429,
     "wof:placetype":"locality",

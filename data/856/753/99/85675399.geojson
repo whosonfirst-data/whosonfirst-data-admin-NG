@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Ebonyi"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u90a6\u4f0a\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Ebonyi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ebonyi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bc\u03c0\u03cc\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ebonyi"
@@ -57,23 +57,17 @@
     "name:est_x_preferred":[
         "Ebonyi osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0627\u0628\u0648\u0646\u06cc\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ebonyi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat d'Ebonyi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10d1\u10dd\u10dc\u10d8\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ebonyi"
     ],
     "name:glg_x_preferred":[
         "Estado de Ebonyi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bc\u03c0\u03cc\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aac\u0acb\u0aa8\u0ac0 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -96,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0cac\u0cca\u0ca8\u0cbf \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d1\u10dd\u10dc\u10d8\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\ubcf4\ub2c8 \uc8fc"
     ],
@@ -108,20 +105,20 @@
     "name:mar_x_preferred":[
         "\u090f\u092c\u094b\u0928\u093e\u0908 \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Negeri Ebonyi"
-    ],
     "name:mrj_x_preferred":[
         "\u042d\u0431\u043e\u043d\u044c\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Negeri Ebonyi"
     ],
     "name:nan_x_preferred":[
         "Ebonyi Chiu"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Ebonyi"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0627\u0628\u0648\u0646\u06cc\u06cc"
+    "name:nob_x_preferred":[
+        "Ebonyi"
     ],
     "name:pol_x_preferred":[
         "Ebonyi"
@@ -129,7 +126,7 @@
     "name:por_x_preferred":[
         "Ebonyi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Ebonyi"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 \u1eb8\u0300b\u1ecd\u0301ny\u00ec"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u90a6\u4f0a\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -303,7 +303,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553550492,
+    "wof:lastmodified":1561766602,
     "wof:name":"Ebonyi",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

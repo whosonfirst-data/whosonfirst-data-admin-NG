@@ -17,9 +17,6 @@
     "name:afr_x_preferred":[
         "Lagos"
     ],
-    "name:alb_x_preferred":[
-        "Lagos"
-    ],
     "name:amh_x_preferred":[
         "\u120c\u130e\u1235"
     ],
@@ -28,9 +25,6 @@
     ],
     "name:arg_x_preferred":[
         "Lagos"
-    ],
-    "name:arm_x_preferred":[
-        "\u053c\u0561\u0563\u0578\u057d"
     ],
     "name:arz_x_preferred":[
         "\u0644\u0627\u062c\u0648\u0633"
@@ -43,9 +37,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
-    ],
-    "name:baq_x_preferred":[
-        "Lagos"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0430\u0433\u0430\u0441"
@@ -62,20 +53,17 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
     ],
-    "name:bur_x_preferred":[
-        "\u101c\u1031\u1038\u1002\u102d\u102f\u1037\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
     ],
     "name:cat_x_preferred":[
         "Lagos"
     ],
+    "name:ces_x_preferred":[
+        "Lagos"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
-    ],
-    "name:chi_x_preferred":[
-        "\u62c9\u54e5\u65af"
     ],
     "name:ckb_x_preferred":[
         "\u0644\u0627\u06af\u0648\u0648\u0633"
@@ -83,17 +71,20 @@
     "name:cor_x_preferred":[
         "Lagos"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Lagos"
     ],
     "name:dan_x_preferred":[
         "Lagos"
     ],
+    "name:deu_x_preferred":[
+        "Lagos"
+    ],
     "name:dty_x_preferred":[
         "\u0932\u093e\u0917\u094b\u0938"
     ],
-    "name:dut_x_preferred":[
-        "Lagos"
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03b3\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Lagos"
@@ -104,28 +95,28 @@
     "name:est_x_preferred":[
         "Lagos"
     ],
+    "name:eus_x_preferred":[
+        "Lagos"
+    ],
     "name:ext_x_preferred":[
         "Lagos"
     ],
     "name:fao_x_preferred":[
         "Lagos"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06af\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Lagos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lagos"
     ],
     "name:frp_x_preferred":[
         "Lagos"
     ],
     "name:fry_x_preferred":[
-        "Lagos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10d2\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Lagos"
     ],
     "name:gla_x_preferred":[
@@ -136,9 +127,6 @@
     ],
     "name:glg_x_preferred":[
         "Lagos"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03b3\u03bf\u03c2"
     ],
     "name:gsw_x_preferred":[
         "Lagos"
@@ -164,10 +152,10 @@
     "name:hun_x_preferred":[
         "Lagos"
     ],
-    "name:ibo_x_preferred":[
-        "Lagos"
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0563\u0578\u057d"
     ],
-    "name:ice_x_preferred":[
+    "name:ibo_x_preferred":[
         "Lagos"
     ],
     "name:ido_x_preferred":[
@@ -185,6 +173,9 @@
     "name:ind_x_preferred":[
         "Lagos"
     ],
+    "name:isl_x_preferred":[
+        "Lagos"
+    ],
     "name:ita_x_preferred":[
         "Lagos"
     ],
@@ -196,6 +187,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0cbe\u0c97\u0cca\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10d2\u10dd\u10e1\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
@@ -230,31 +224,37 @@
     "name:lmo_x_preferred":[
         "Lagos"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0430\u0433\u043e\u0441"
-    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3e\u0d17\u0d4b\u0d38\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0917\u094b\u0938"
     ],
-    "name:may_x_preferred":[
-        "Lagos"
-    ],
     "name:mhr_x_preferred":[
+        "\u041b\u0430\u0433\u043e\u0441"
+    ],
+    "name:mkd_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
     ],
     "name:mon_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
     ],
+    "name:msa_x_preferred":[
+        "Lagos"
+    ],
     "name:mwl_x_preferred":[
         "Lagos"
+    ],
+    "name:mya_x_preferred":[
+        "\u101c\u1031\u1038\u1002\u102d\u102f\u1037\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u0644\u0627\u06af\u0648\u0633"
     ],
     "name:nah_x_preferred":[
+        "Lagos"
+    ],
+    "name:nld_x_preferred":[
         "Lagos"
     ],
     "name:nno_x_preferred":[
@@ -278,9 +278,6 @@
     "name:pap_x_preferred":[
         "Lagos"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u06af\u0648\u0633"
-    ],
     "name:pms_x_preferred":[
         "Lagos"
     ],
@@ -296,11 +293,11 @@
     "name:que_x_preferred":[
         "Lagos"
     ],
+    "name:ron_x_preferred":[
+        "Lagos"
+    ],
     "name:rue_x_preferred":[
         "\u041b\u0430\u0491\u043e\u0441"
-    ],
-    "name:rum_x_preferred":[
-        "Lagos"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
@@ -320,7 +317,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dcf\u0d9c\u0ddc\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lagos"
     ],
     "name:slv_x_preferred":[
@@ -336,6 +333,9 @@
         "Lagos"
     ],
     "name:spa_x_preferred":[
+        "Lagos"
+    ],
+    "name:sqi_x_preferred":[
         "Lagos"
     ],
     "name:srd_x_preferred":[
@@ -392,9 +392,6 @@
     "name:war_x_preferred":[
         "Lagos"
     ],
-    "name:wel_x_preferred":[
-        "Lagos"
-    ],
     "name:xmf_x_preferred":[
         "\u10da\u10d0\u10d2\u10dd\u10e1\u10d8"
     ],
@@ -405,6 +402,9 @@
         "\u00c8k\u00f3"
     ],
     "name:yue_x_preferred":[
+        "\u62c9\u54e5\u65af"
+    ],
+    "name:zho_x_preferred":[
         "\u62c9\u54e5\u65af"
     ],
     "ne:ADM0CAP":0.0,
@@ -526,7 +526,7 @@
         }
     ],
     "wof:id":1141909431,
-    "wof:lastmodified":1514491664,
+    "wof:lastmodified":1561766940,
     "wof:name":"Lagos",
     "wof:parent_id":1108563883,
     "wof:placetype":"locality",
