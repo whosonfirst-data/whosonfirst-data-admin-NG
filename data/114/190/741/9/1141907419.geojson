@@ -26,14 +26,14 @@
     "name:cat_x_preferred":[
         "Ife"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u8cbb"
-    ],
     "name:dan_x_preferred":[
         "Ife"
     ],
-    "name:dut_x_preferred":[
-        "Ife"
+    "name:deu_x_preferred":[
+        "Ile-Ife"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03c6\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ife"
@@ -44,14 +44,8 @@
     "name:fin_x_preferred":[
         "Ife"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ife"
-    ],
-    "name:ger_x_preferred":[
-        "Ile-Ife"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03c6\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0aaf\u0aab\u0ac7"
@@ -89,7 +83,10 @@
     "name:mar_x_preferred":[
         "\u0906\u092f\u092b\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ife"
+    ],
+    "name:nld_x_preferred":[
         "Ife"
     ],
     "name:nob_x_preferred":[
@@ -101,7 +98,7 @@
     "name:por_x_preferred":[
         "If\u00e9"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ife"
     ],
     "name:rus_x_preferred":[
@@ -142,6 +139,9 @@
     ],
     "name:yor_x_preferred":[
         "Il\u00e9-If\u1eb9\u0300"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8cbb"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nigeria",
@@ -262,7 +262,7 @@
         }
     ],
     "wof:id":1141907419,
-    "wof:lastmodified":1514491621,
+    "wof:lastmodified":1561766939,
     "wof:name":"Ife",
     "wof:parent_id":1108563533,
     "wof:placetype":"locality",

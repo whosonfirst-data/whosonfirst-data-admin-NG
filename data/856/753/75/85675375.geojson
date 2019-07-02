@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388913,
-    "geom:area_square_m":4780558882.539058,
+    "geom:area_square_m":4780558882.538991,
     "geom:bbox":"6.63366633973,5.72187136831,7.33906633973,6.80197136831",
     "geom:latitude":6.227958,
     "geom:longitude":6.935837,
@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Anambra"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5357\u5e03\u62c9\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Anambra"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Anambra"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03ac\u03bc\u03c0\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Anambra"
@@ -61,23 +61,17 @@
     "name:est_x_preferred":[
         "Anambra osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0645\u0628\u0631\u0627 \u0627\u0633\u062a\u06cc\u062a"
+    ],
     "name:fin_x_preferred":[
         "Anambra"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat d'Anambra"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d0\u10db\u10d1\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Anambra"
     ],
     "name:glg_x_preferred":[
         "Anambra"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03ac\u03bc\u03c0\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa8\u0abe\u0aae\u0acd\u0aac\u0acd\u0ab0\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -107,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0ca8\u0c82\u0cac\u0ccd\u0cb0\u0cbe \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d0\u10db\u10d1\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub0a8\ube0c\ub77c \uc8fc"
     ],
@@ -122,20 +119,20 @@
     "name:mar_x_preferred":[
         "\u0905\u0902\u0902\u0928\u094d\u092f\u093e\u092c\u094d\u0930\u093e \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Anambra State"
-    ],
     "name:mrj_x_preferred":[
         "\u0410\u043d\u0430\u043c\u0431\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Anambra State"
     ],
     "name:nan_x_preferred":[
         "Anambra Chiu"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Anambra"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u0627\u0645\u0628\u0631\u0627 \u0627\u0633\u062a\u06cc\u062a"
+    "name:nob_x_preferred":[
+        "Anambra"
     ],
     "name:pol_x_preferred":[
         "Anambra"
@@ -143,7 +140,7 @@
     "name:por_x_preferred":[
         "Anambra"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Anambra"
     ],
     "name:rus_x_preferred":[
@@ -189,6 +186,9 @@
         "\u00ccp\u00ednl\u1eb9\u0300 An\u00e1mbra"
     ],
     "name:yue_x_preferred":[
+        "\u963f\u5357\u5e03\u62c9\u5dde"
+    ],
+    "name:zho_x_preferred":[
         "\u963f\u5357\u5e03\u62c9\u5dde"
     ],
     "ne:abbrev":"",
@@ -316,7 +316,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561766601,
     "wof:name":"Anambra",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

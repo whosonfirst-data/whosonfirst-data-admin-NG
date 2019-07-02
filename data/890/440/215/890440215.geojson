@@ -21,14 +21,14 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09ae\u09c7\u099f\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u6885\u5854"
-    ],
     "name:dan_x_preferred":[
         "Jimeta"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jimeta"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b9\u03bc\u03ad\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Jimeta"
@@ -39,14 +39,8 @@
     "name:fin_x_preferred":[
         "Jimeta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jimeta"
-    ],
-    "name:ger_x_preferred":[
-        "Jimeta"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b9\u03bc\u03ad\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0aae\u0ac7\u0a9f\u0abe"
@@ -81,7 +75,10 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u092e\u0940\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Jimeta"
+    ],
+    "name:nld_x_preferred":[
         "Jimeta"
     ],
     "name:nob_x_preferred":[
@@ -93,7 +90,7 @@
     "name:por_x_preferred":[
         "Jimeta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jimeta"
     ],
     "name:rus_x_preferred":[
@@ -135,6 +132,9 @@
     "name:yor_x_preferred":[
         "Jimeta"
     ],
+    "name:zho_x_preferred":[
+        "\u5409\u6885\u5854"
+    ],
     "qs:name":"Jimeta",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -170,7 +170,7 @@
         }
     ],
     "wof:id":890440215,
-    "wof:lastmodified":1527727107,
+    "wof:lastmodified":1561766820,
     "wof:name":"Jimeta",
     "wof:parent_id":1108563431,
     "wof:placetype":"locality",

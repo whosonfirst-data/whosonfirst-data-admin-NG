@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.65177,
-    "geom:area_square_m":44412111011.062592,
+    "geom:area_square_m":44412111011.062431,
     "geom:bbox":"6.08656633973,9.00067136831,8.82356633973,11.5121713683",
     "geom:latitude":10.390284,
     "geom:longitude":7.70564,
@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Estat de Kaduna"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u675c\u7eb3\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Kaduna"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kaduna"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03c4\u03bf\u03cd\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kaduna"
@@ -56,20 +56,17 @@
     "name:est_x_preferred":[
         "Kaduna osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0627\u062f\u0648\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kaduna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat de Kaduna"
-    ],
-    "name:ger_x_preferred":[
-        "Kaduna"
     ],
     "name:glg_x_preferred":[
         "Estado de Kaduna"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bd\u03c4\u03bf\u03cd\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0aa1\u0ac1\u0aa8\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -107,20 +104,20 @@
     "name:mar_x_preferred":[
         "\u0915\u0921\u0941\u0928 \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Kaduna State"
-    ],
     "name:mrj_x_preferred":[
         "\u041a\u0430\u0434\u0443\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kaduna State"
     ],
     "name:nan_x_preferred":[
         "Kaduna Chiu"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kaduna"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0627\u062f\u0648\u0646\u0627"
+    "name:nob_x_preferred":[
+        "Kaduna"
     ],
     "name:pol_x_preferred":[
         "Kaduna"
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Kaduna"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Kaduna"
     ],
     "name:rus_x_preferred":[
@@ -175,6 +172,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 K\u00e0d\u00fan\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u675c\u7eb3\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -301,7 +301,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561766599,
     "wof:name":"Kaduna",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

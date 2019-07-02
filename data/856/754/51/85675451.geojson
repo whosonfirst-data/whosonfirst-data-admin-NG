@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Adamaua"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u9054\u99ac\u74e6"
-    ],
     "name:dan_x_preferred":[
         "Adamawa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Adamawa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03b1\u03bc\u03ac\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Adamawa"
@@ -56,23 +56,17 @@
     "name:est_x_preferred":[
         "Adamawa osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0627\u0636\u06cc \u0627\u062f\u0627\u0645\u0627\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Adamawa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat d'Adamawa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d3\u10d0\u10db\u10d0\u10d5\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Adamawa"
     ],
     "name:glg_x_preferred":[
         "Adamawa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03c4\u03b1\u03bc\u03ac\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa6\u0abe\u0aae\u0abe\u0ab5\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -95,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0ca6\u0cbe\u0cae\u0cbe \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d3\u10d0\u10db\u10d0\u10d5\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub2e4\ub9c8\uc640 \uc8fc"
     ],
@@ -110,20 +107,20 @@
     "name:mar_x_preferred":[
         "\u0906\u0926\u093e\u092e\u093e\u0935\u093e \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Adamawa State"
-    ],
     "name:mrj_x_preferred":[
         "\u0410\u0434\u0430\u043c\u0430\u0432\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Adamawa State"
     ],
     "name:nan_x_preferred":[
         "Adamawa Chiu"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Adamawa"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0627\u0636\u06cc \u0627\u062f\u0627\u0645\u0627\u0648\u0627"
+    "name:nob_x_preferred":[
+        "Adamawa"
     ],
     "name:pol_x_preferred":[
         "Adamawa"
@@ -131,7 +128,7 @@
     "name:por_x_preferred":[
         "Adamawa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Adamawa"
     ],
     "name:rus_x_preferred":[
@@ -178,6 +175,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 Ad\u00e1m\u00e1w\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9054\u99ac\u74e6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -304,7 +304,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553550529,
+    "wof:lastmodified":1561766598,
     "wof:name":"Adamawa",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.396421,
-    "geom:area_square_m":4879534491.954854,
+    "geom:area_square_m":4879534491.954853,
     "geom:bbox":"7.14046633973,4.82177136831,7.98746633973,6.04217136831",
     "geom:latitude":5.4567,
     "geom:longitude":7.524541,
@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Abia"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u6bd4\u4e9a\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Abia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Abia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Abia"
@@ -56,23 +56,17 @@
     "name:est_x_preferred":[
         "Abia osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0627\u0636\u06cc \u0627\u0628\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Abia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat d'Abia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d1\u10d8\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Abia"
     ],
     "name:glg_x_preferred":[
         "Estado de Abia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03c0\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aac\u0abf\u0aaf\u0abe \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -98,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cac\u0cbf\u0caf\u0cbe \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10d8\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ube44\uc544 \uc8fc"
     ],
@@ -113,20 +110,20 @@
     "name:mar_x_preferred":[
         "\u0905\u092c\u093f\u092f\u093e \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Abia State"
-    ],
     "name:mrj_x_preferred":[
         "\u0410\u0431\u0438\u044f"
+    ],
+    "name:msa_x_preferred":[
+        "Abia State"
     ],
     "name:nan_x_preferred":[
         "Abia Chiu"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Abia"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0627\u0636\u06cc \u0627\u0628\u06cc\u0627"
+    "name:nob_x_preferred":[
+        "Abia"
     ],
     "name:pol_x_preferred":[
         "Abia"
@@ -134,7 +131,7 @@
     "name:por_x_preferred":[
         "Abia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Abia"
     ],
     "name:rus_x_preferred":[
@@ -181,6 +178,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 \u00c1b\u00ed\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6bd4\u4e9a\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -307,7 +307,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561766600,
     "wof:name":"Abia",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

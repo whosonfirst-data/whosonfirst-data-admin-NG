@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.691842,
-    "geom:area_square_m":20481265071.654087,
+    "geom:area_square_m":20481265071.653893,
     "geom:bbox":"7.68586633973,10.5489713683,9.36516633973,12.5999713683",
     "geom:latitude":11.746575,
     "geom:longitude":8.526707,
@@ -38,20 +38,14 @@
     "name:ces_x_preferred":[
         "Kano"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u8bfa\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Kano"
-    ],
     "name:dan_x_preferred":[
         "Kano"
     ],
     "name:deu_x_preferred":[
         "Kano"
     ],
-    "name:dut_x_preferred":[
-        "Kano"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u039a\u03ac\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kano"
@@ -65,23 +59,17 @@
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0646\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0627\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kano"
     ],
     "name:fra_x_preferred":[
         "\u00c9tat de Kano"
     ],
-    "name:fre_x_preferred":[
-        "\u00c9tat de Kano"
-    ],
-    "name:ger_x_preferred":[
-        "Kano"
-    ],
     "name:glg_x_preferred":[
         "Estado de Kano"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u039a\u03ac\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aa8\u0acb \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
@@ -122,11 +110,11 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0928\u094b \u0930\u093e\u091c\u094d\u092f"
     ],
-    "name:may_x_preferred":[
-        "Negeri Kano"
-    ],
     "name:mrj_x_preferred":[
         "\u041a\u0430\u043d\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Negeri Kano"
     ],
     "name:nan_x_preferred":[
         "Kano Chiu"
@@ -140,9 +128,6 @@
     "name:nor_x_preferred":[
         "Kano"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u06a9\u0627\u0646\u0648"
-    ],
     "name:pol_x_preferred":[
         "Kano"
     ],
@@ -150,9 +135,6 @@
         "Kano"
     ],
     "name:ron_x_preferred":[
-        "Statul Kano"
-    ],
-    "name:rum_x_preferred":[
         "Statul Kano"
     ],
     "name:rus_x_preferred":[
@@ -335,7 +317,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553814811,
+    "wof:lastmodified":1561766600,
     "wof:name":"Kano",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

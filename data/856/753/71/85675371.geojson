@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.271193,
-    "geom:area_square_m":27798660840.081783,
+    "geom:area_square_m":27798660840.081799,
     "geom:bbox":"2.66846633973,7.08007136831,4.56896633973,9.18827136831",
     "geom:latitude":8.157834,
     "geom:longitude":3.614385,
@@ -36,14 +36,14 @@
     "name:cat_x_preferred":[
         "Oyo"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u7ea6\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Oyo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oyo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03c0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1 \u038c\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Oyo"
@@ -54,20 +54,17 @@
     "name:est_x_preferred":[
         "Oyo osariik"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u062a \u0627\u0648\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Oyo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9tat d'Oyo"
-    ],
-    "name:ger_x_preferred":[
-        "Oyo"
     ],
     "name:glg_x_preferred":[
         "Estado de Oyo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03c0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1 \u038c\u03b3\u03b9\u03bf"
     ],
     "name:hin_x_preferred":[
         "\u0913\u092f\u094b \u0930\u093e\u091c\u094d\u092f"
@@ -90,11 +87,11 @@
     "name:mrj_x_preferred":[
         "\u041e\u0439\u043e"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Oyo"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0627\u0644\u062a \u0627\u0648\u06cc\u0648"
+    "name:nob_x_preferred":[
+        "Oyo"
     ],
     "name:pol_x_preferred":[
         "Oyo"
@@ -102,7 +99,7 @@
     "name:por_x_preferred":[
         "Oyo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Oyo"
     ],
     "name:rus_x_preferred":[
@@ -134,6 +131,9 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 \u1ecc\u0300y\u1ecd\u0301"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u7ea6\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -261,7 +261,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1553814810,
+    "wof:lastmodified":1561766602,
     "wof:name":"Oyo",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

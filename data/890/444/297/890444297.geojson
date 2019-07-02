@@ -25,17 +25,14 @@
     "name:cat_x_preferred":[
         "Oyo"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u7ea6"
-    ],
     "name:dan_x_preferred":[
         "Oyo"
     ],
     "name:deu_x_preferred":[
         "Oyo"
     ],
-    "name:dut_x_preferred":[
-        "Oyo"
+    "name:ell_x_preferred":[
+        "\u038c\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Oyo"
@@ -46,14 +43,8 @@
     "name:fin_x_preferred":[
         "Oyo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oyo"
-    ],
-    "name:ger_x_preferred":[
-        "Oyo"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aaf\u0acb"
@@ -88,7 +79,7 @@
     "name:mar_x_preferred":[
         "\u0913\u092f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Oyo"
     ],
     "name:nld_x_preferred":[
@@ -103,7 +94,7 @@
     "name:por_x_preferred":[
         "Oi\u00f3"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oyo"
     ],
     "name:rus_x_preferred":[
@@ -144,6 +135,9 @@
     ],
     "name:yor_x_preferred":[
         "\u1ecc\u0300y\u1ecd\u0301"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u7ea6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nigeria",
@@ -270,7 +264,7 @@
         }
     ],
     "wof:id":890444297,
-    "wof:lastmodified":1527787054,
+    "wof:lastmodified":1561766822,
     "wof:name":"Oyo",
     "wof:parent_id":1108564269,
     "wof:placetype":"locality",
