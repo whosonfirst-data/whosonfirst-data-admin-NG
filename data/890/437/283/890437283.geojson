@@ -33,14 +33,26 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648\u062c\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Abuya"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0628\u0648\u062c\u0627"
+    ],
     "name:aze_x_preferred":[
         "Abuca"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u0431\u0443\u0434\u0436\u0430"
     ],
     "name:bcl_x_preferred":[
         "Abuja"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0431\u0443\u0434\u0436\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u0431\u0443\u0434\u0436\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ac\u09c1\u099c\u09be"
@@ -60,6 +72,12 @@
     "name:cat_x_preferred":[
         "Abuja"
     ],
+    "name:cdo_x_preferred":[
+        "Abuja"
+    ],
+    "name:ceb_x_preferred":[
+        "Abuja"
+    ],
     "name:ces_x_preferred":[
         "Abuja"
     ],
@@ -71,6 +89,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06d5\u0628\u0648\u0648\u062c\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u0626\u0627\u0628\u0648\u062c\u0627"
     ],
     "name:cym_x_preferred":[
         "Abuja"
@@ -114,6 +135,9 @@
     "name:frp_x_preferred":[
         "Abuja"
     ],
+    "name:frr_x_preferred":[
+        "Abuja"
+    ],
     "name:fry_x_preferred":[
         "Abuja"
     ],
@@ -129,6 +153,9 @@
     "name:guj_x_preferred":[
         "\u0a85\u0aac\u0ac1\u0a9c\u0abe"
     ],
+    "name:hak_x_preferred":[
+        "Abuja"
+    ],
     "name:hat_x_preferred":[
         "Abouja"
     ],
@@ -137,6 +164,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d1\u05d5\u05d2\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d1\u05d5\u05d2'\u05d4"
     ],
     "name:hif_x_preferred":[
         "Abuja"
@@ -195,6 +225,9 @@
     "name:kaz_x_preferred":[
         "\u0410\u0431\u0443\u0434\u0436\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Abuuja"
+    ],
     "name:kik_x_preferred":[
         "Abuja"
     ],
@@ -216,6 +249,9 @@
     "name:lav_x_preferred":[
         "Abud\u017ea"
     ],
+    "name:lfn_x_preferred":[
+        "Abuja"
+    ],
     "name:lin_x_preferred":[
         "Abuja"
     ],
@@ -227,6 +263,9 @@
     ],
     "name:ltz_x_preferred":[
         "Abuja"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u092c\u0941\u091c\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d2c\u0d41\u0d1c"
@@ -309,6 +348,9 @@
     "name:por_x_preferred":[
         "Abuja"
     ],
+    "name:pus_x_preferred":[
+        "\u0622\u0628\u0648\u062c\u0627"
+    ],
     "name:que_x_preferred":[
         "Abuja"
     ],
@@ -356,6 +398,9 @@
     ],
     "name:swe_x_preferred":[
         "Abuja"
+    ],
+    "name:szl_x_preferred":[
+        "Abud\u017ca"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0baa\u0bc1\u0b9c\u0bbe"
@@ -405,6 +450,9 @@
     "name:war_x_preferred":[
         "Abuja"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u5e03\u8d3e"
+    ],
     "name:xho_x_preferred":[
         "Abuja"
     ],
@@ -416,6 +464,9 @@
     ],
     "name:yor_x_preferred":[
         "Ab\u00f9j\u00e1"
+    ],
+    "name:yor_x_variant":[
+        "\u00c0b\u00faj\u00e1"
     ],
     "name:yue_x_preferred":[
         "\u963f\u5e03\u8cc8"
@@ -461,7 +512,7 @@
         }
     ],
     "wof:id":890437283,
-    "wof:lastmodified":1561766821,
+    "wof:lastmodified":1563329076,
     "wof:name":"Abuja",
     "wof:parent_id":421178395,
     "wof:placetype":"locality",

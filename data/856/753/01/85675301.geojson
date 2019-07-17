@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u0631\u0646\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0646\u0648 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Borno \u015ftat\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09b0\u09cd\u09a8\u09cb \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -41,7 +47,13 @@
     "name:cat_x_preferred":[
         "Estat de Borno"
     ],
+    "name:ceb_x_preferred":[
+        "Borno State"
+    ],
     "name:ces_x_preferred":[
+        "Borno"
+    ],
+    "name:cym_x_preferred":[
         "Borno"
     ],
     "name:dan_x_preferred":[
@@ -58,6 +70,9 @@
     ],
     "name:eng_x_preferred":[
         "Borno"
+    ],
+    "name:eng_x_variant":[
+        "Borno State"
     ],
     "name:epo_x_preferred":[
         "Borno \u015ctato"
@@ -77,11 +92,17 @@
     "name:fra_x_preferred":[
         "\u00c9tat de Borno"
     ],
+    "name:fra_x_variant":[
+        "Borno"
+    ],
     "name:glg_x_preferred":[
         "Estado de Borno"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab0\u0acd\u0aa8\u0acb \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hau_x_preferred":[
+        "jihar Borno"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e8\u05e0\u05d5"
@@ -109,6 +130,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcf4\ub974\ub178 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\ub974\ub178\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Borno"
@@ -325,7 +349,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766601,
+    "wof:lastmodified":1563324465,
     "wof:name":"Borno",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

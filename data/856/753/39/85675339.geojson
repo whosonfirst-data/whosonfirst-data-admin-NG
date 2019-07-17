@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0643\u0648\u0627\u0631\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0627\u0631\u0627 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u0993\u09a1\u09bc\u09be \u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -40,6 +43,12 @@
         "\u041a\u0432\u0430\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Kwara"
+    ],
+    "name:ceb_x_preferred":[
+        "Kwara State"
+    ],
+    "name:ces_x_preferred":[
         "Kwara"
     ],
     "name:dan_x_preferred":[
@@ -53,6 +62,9 @@
     ],
     "name:eng_x_preferred":[
         "Kwara"
+    ],
+    "name:eng_x_variant":[
+        "Kwara State"
     ],
     "name:epo_x_preferred":[
         "K\u016dara \u015ctato"
@@ -69,6 +81,9 @@
     "name:fra_x_preferred":[
         "\u00c9tat de Kwara"
     ],
+    "name:fra_x_variant":[
+        "Kwara"
+    ],
     "name:glg_x_preferred":[
         "Kwara"
     ],
@@ -77,6 +92,9 @@
     ],
     "name:hau_x_preferred":[
         "Kwara"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05d9\u05e0\u05ea \u05e7\u05d5\u05d5\u05d0\u05e8\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094d\u0935\u093e\u0930\u093e \u0930\u093e\u091c\u094d\u092f"
@@ -96,8 +114,14 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb5\u0cbe\u0cb0\u0cbe \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d5\u10d0\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf70\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucf70\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kvaras \u0161tats"
@@ -137,6 +161,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dca\u0dc0\u0dcf\u0dbb\u0dcf \u0dbb\u0dcf\u0da2\u0dca\u200d\u0dba"
+    ],
+    "name:slk_x_preferred":[
+        "Kwara"
     ],
     "name:spa_x_preferred":[
         "Kwara"
@@ -307,7 +334,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766601,
+    "wof:lastmodified":1563324466,
     "wof:name":"Kwara",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0623\u0648\u0634\u0648\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0633\u0648\u0646 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09b8\u09c1\u09a8 \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat d'Osun"
+    ],
+    "name:ceb_x_preferred":[
+        "Osun State"
     ],
     "name:dan_x_preferred":[
         "Osun"
@@ -49,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Osun"
+    ],
+    "name:eng_x_variant":[
+        "Osun State"
     ],
     "name:epo_x_preferred":[
         "Osuna \u015ctato"
@@ -65,11 +74,20 @@
     "name:fra_x_preferred":[
         "\u00c9tat d'Osun"
     ],
+    "name:fra_x_variant":[
+        "Osun"
+    ],
     "name:glg_x_preferred":[
         "Estado de Osun"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0ac1\u0aa8 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hau_x_preferred":[
+        "Osun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d3\u05d9\u05e0\u05ea \u05d0\u05d5\u05e1\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0913\u0936\u0941\u0928 \u0930\u093e\u091c\u094d\u092f"
@@ -89,8 +107,14 @@
     "name:kan_x_preferred":[
         "\u0c93\u0cb8\u0ccd\u0cb8\u0ca8\u0ccd \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e1\u10e3\u10dc\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc624\uc21c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\uc21c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Osunas \u0161tats"
@@ -298,7 +322,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766600,
+    "wof:lastmodified":1563324453,
     "wof:name":"Osun",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

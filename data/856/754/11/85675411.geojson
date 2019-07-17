@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u062a\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0644\u0627\u062a\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u067e\u0644\u0627\u062a\u0648 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b2\u09c7\u099f\u09c1 \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat de Plateau"
+    ],
+    "name:ceb_x_preferred":[
+        "Plateau State"
     ],
     "name:ces_x_preferred":[
         "Plateau"
@@ -56,8 +65,14 @@
     "name:eng_x_preferred":[
         "Plateau"
     ],
+    "name:eng_x_variant":[
+        "Plateau State"
+    ],
     "name:epo_x_preferred":[
         "\u015ctato Altebeno"
+    ],
+    "name:epo_x_variant":[
+        "Jos-Altebena \u015ctato"
     ],
     "name:est_x_preferred":[
         "Plateau osariik"
@@ -71,11 +86,17 @@
     "name:fra_x_preferred":[
         "\u00c9tat du Plateau"
     ],
+    "name:fra_x_variant":[
+        "Plateau"
+    ],
     "name:glg_x_preferred":[
         "Plateau"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab2\u0ac7\u0a9f\u0ac0\u0a93 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hau_x_preferred":[
+        "Plateau"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0932\u0948\u091f\u094b \u0930\u093e\u091c\u094d\u092f"
@@ -95,8 +116,14 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0cb0\u0cb8\u0ccd\u0ca5\u0cad\u0cc2\u0cae\u0cbf \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10da\u10d0\u10e2\u10dd\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud50c\ub798\ud1a0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud50c\ub798\ud1a0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Plato \u0161tats"
@@ -112,6 +139,9 @@
     ],
     "name:msa_x_preferred":[
         "Plateau State"
+    ],
+    "name:nan_x_preferred":[
+        "Plateau Chiu"
     ],
     "name:nld_x_preferred":[
         "Plateau"
@@ -308,7 +338,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766599,
+    "wof:lastmodified":1563324442,
     "wof:name":"Plateau",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

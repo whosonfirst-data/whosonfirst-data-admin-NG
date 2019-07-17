@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15788888.879823,
+    "geom:area_square_m":0.0,
     "geom:bbox":"8.511549,11.993225,8.511549,11.993225",
     "geom:latitude":11.993225,
     "geom:longitude":8.511549,
@@ -23,8 +23,32 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u0433\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Fagge"
+    ],
     "name:eng_x_preferred":[
         "Fagge"
+    ],
+    "name:fra_x_preferred":[
+        "Fagge"
+    ],
+    "name:hau_x_preferred":[
+        "Fagge"
+    ],
+    "name:ita_x_preferred":[
+        "Fagge"
+    ],
+    "name:nan_x_preferred":[
+        "Fagge"
+    ],
+    "name:nld_x_preferred":[
+        "Fagge"
+    ],
+    "name:por_x_preferred":[
+        "Fage"
     ],
     "name:spa_x_preferred":[
         "Fagge"
@@ -70,10 +94,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":64,
     "wof:belongsto":[
+        85675425,
         102191573,
         85632735,
-        1108563193,
-        85675425
+        1108563193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531862149,
+    "wof:lastmodified":1563324478,
     "wof:name":"Fagge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
