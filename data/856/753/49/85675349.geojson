@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0646\u064a\u062c\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u06cc\u062c\u0631 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0987\u099c\u09be\u09b0 \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat del N\u00edger"
+    ],
+    "name:ceb_x_preferred":[
+        "Niger State"
     ],
     "name:dan_x_preferred":[
         "Niger"
@@ -49,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Niger"
+    ],
+    "name:eng_x_variant":[
+        "Niger State"
     ],
     "name:epo_x_preferred":[
         "Ni\u011dera \u015ctato"
@@ -65,11 +74,17 @@
     "name:fra_x_preferred":[
         "\u00c9tat de Niger"
     ],
+    "name:fra_x_variant":[
+        "Niger"
+    ],
     "name:glg_x_preferred":[
         "Estado de N\u00edxer"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0a87\u0a9c\u0ab0 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hau_x_preferred":[
+        "Neja"
     ],
     "name:hin_x_preferred":[
         "\u0928\u093e\u0907\u091c\u0930 \u0930\u093e\u091c\u094d\u092f"
@@ -89,8 +104,14 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cc8\u0c9c\u0cb0\u0ccd \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10d2\u10d4\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub098\uc774\uc800 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\uc774\uc800\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Nig\u0113ras \u0161tats"
@@ -106,6 +127,9 @@
     ],
     "name:msa_x_preferred":[
         "Niger State"
+    ],
+    "name:nan_x_preferred":[
+        "Niger Chiu"
     ],
     "name:nld_x_preferred":[
         "Niger"
@@ -298,7 +322,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766602,
+    "wof:lastmodified":1563324470,
     "wof:name":"Niger",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

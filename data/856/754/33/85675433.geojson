@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0635\u0643\u062a\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u062a\u0648 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u0995\u09cb\u099f\u09cb \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat de Sokoto"
+    ],
+    "name:ceb_x_preferred":[
+        "Sokoto State"
     ],
     "name:dan_x_preferred":[
         "Sokoto"
@@ -50,8 +56,14 @@
     "name:eng_x_preferred":[
         "Sokoto"
     ],
+    "name:eng_x_variant":[
+        "Sokoto State"
+    ],
     "name:epo_x_preferred":[
         "\u015ctato Sokoto"
+    ],
+    "name:epo_x_variant":[
+        "Sokoto \u015ctato"
     ],
     "name:est_x_preferred":[
         "Sokoto osariik"
@@ -68,11 +80,17 @@
     "name:fra_x_preferred":[
         "\u00c9tat de Sokoto"
     ],
+    "name:fra_x_variant":[
+        "Sokoto"
+    ],
     "name:glg_x_preferred":[
         "Estado de Sokoto"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0a95\u0acb\u0a9f\u0acb \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hau_x_preferred":[
+        "jihar Sokoto"
     ],
     "name:hin_x_preferred":[
         "\u0938\u094b\u0915\u094b\u091f\u094b \u0930\u093e\u091c\u094d\u092f"
@@ -92,8 +110,14 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cca\u0c95\u0cca\u0c9f\u0cca \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10d9\u10dd\u10e2\u10dd\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc18c\ucf54\ud1a0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc18c\ucf54\ud1a0\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Sokoto \u0161tats"
@@ -112,6 +136,9 @@
     ],
     "name:msa_x_preferred":[
         "Sokoto State"
+    ],
+    "name:nan_x_preferred":[
+        "Sokoto Chiu"
     ],
     "name:nld_x_preferred":[
         "Sokoto"
@@ -308,7 +335,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766598,
+    "wof:lastmodified":1563324440,
     "wof:name":"Sokoto",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

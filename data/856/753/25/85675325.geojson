@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u064a\u0646\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u0648\u0626\u0647 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Benue \u015ftat\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09a8\u09c1 \u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat de Benue"
+    ],
+    "name:ceb_x_preferred":[
+        "Benue State"
     ],
     "name:dan_x_preferred":[
         "Benue"
@@ -50,8 +59,14 @@
     "name:eng_x_preferred":[
         "Benue"
     ],
+    "name:eng_x_variant":[
+        "Benue State"
+    ],
     "name:epo_x_preferred":[
         "\u015ctato Benu\u00e9"
+    ],
+    "name:epo_x_variant":[
+        "Benue \u015ctato"
     ],
     "name:est_x_preferred":[
         "Benue osariik"
@@ -65,11 +80,20 @@
     "name:fra_x_preferred":[
         "\u00c9tat de Benue"
     ],
+    "name:fra_x_variant":[
+        "Benue"
+    ],
     "name:glg_x_preferred":[
         "Estado de Benue"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0acd\u0aaf\u0ac1 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hau_x_preferred":[
+        "Benue"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0928\u0941\u090f \u0930\u093e\u091c\u094d\u092f"
@@ -94,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca0\ub204\uc5d0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubca0\ub204\uc5d0\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Benu\u00e9"
@@ -311,7 +338,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766602,
+    "wof:lastmodified":1563324471,
     "wof:name":"Benue",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

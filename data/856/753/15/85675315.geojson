@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0625\u064a\u0645\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0645\u0648 \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09ae\u09cb  \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Imo"
+    ],
+    "name:ceb_x_preferred":[
+        "Imo State"
     ],
     "name:dan_x_preferred":[
         "Imo"
@@ -49,6 +55,9 @@
     ],
     "name:eng_x_preferred":[
         "Imo"
+    ],
+    "name:eng_x_variant":[
+        "Imo State"
     ],
     "name:epo_x_preferred":[
         "Imo \u015ctato"
@@ -65,17 +74,26 @@
     "name:fra_x_preferred":[
         "\u00c9tat d'Imo"
     ],
+    "name:fra_x_variant":[
+        "Imo"
+    ],
     "name:glg_x_preferred":[
         "Estado de Imo"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0aae\u0acb \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
     ],
+    "name:hau_x_preferred":[
+        "Imo"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05de\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0907\u092e\u094b \u0930\u093e\u091c\u094d\u092f"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0574\u0578"
     ],
     "name:ibo_x_preferred":[
         "\u022era Imo"
@@ -92,8 +110,14 @@
     "name:kan_x_preferred":[
         "\u0c87\u0cae\u0ccb \u0cb0\u0cbe\u0c9c\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10db\u10dd\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc774\ubaa8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\ubaa8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Imo \u0161tats"
@@ -301,7 +325,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766602,
+    "wof:lastmodified":1563324468,
     "wof:name":"Imo",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

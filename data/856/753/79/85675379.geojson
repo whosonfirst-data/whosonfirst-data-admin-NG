@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u0648\u062a\u0634\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0648\u0686\u06cc \u0627\u06cc\u0627\u0644\u062a\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Bau\u00e7i \u015ftat\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0989\u099a\u09bf \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat de Bauchi"
+    ],
+    "name:ceb_x_preferred":[
+        "Bauchi State"
     ],
     "name:dan_x_preferred":[
         "Bauchi"
@@ -71,11 +80,20 @@
     "name:fra_x_preferred":[
         "\u00c9tat de Bauchi"
     ],
+    "name:fra_x_variant":[
+        "Bauchi"
+    ],
     "name:glg_x_preferred":[
         "Estado de Bauchi"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0a89\u0a9a\u0ac0 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f"
+    ],
+    "name:hau_x_preferred":[
+        "Bauchi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05e6'\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0909\u091a\u0940 \u0930\u093e\u091c\u094d\u092f"
@@ -85,6 +103,9 @@
     ],
     "name:ind_x_preferred":[
         "Bauchi"
+    ],
+    "name:isl_x_preferred":[
+        "Bauchi-fylki"
     ],
     "name:ita_x_preferred":[
         "Bauchi"
@@ -100,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc6b0\uce58 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc6b0\uce58\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Bauchi"
@@ -118,6 +142,9 @@
     ],
     "name:msa_x_preferred":[
         "Bauchi State"
+    ],
+    "name:nan_x_preferred":[
+        "Bauchi Chiu"
     ],
     "name:nld_x_preferred":[
         "Bauchi"
@@ -304,7 +331,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1561766602,
+    "wof:lastmodified":1563324468,
     "wof:name":"Bauchi",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
