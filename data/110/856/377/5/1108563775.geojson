@@ -31,11 +31,23 @@
     "mps:longitude":8.501156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kano Municipal"
+    ],
     "name:eng_x_preferred":[
         "Kano Municipal"
     ],
     "name:eng_x_variant":[
         "Kano"
+    ],
+    "name:fra_x_preferred":[
+        "Kano Ville"
+    ],
+    "name:ita_x_preferred":[
+        "Kano Municipal"
+    ],
+    "name:por_x_preferred":[
+        "Kano Municipal"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1108563775,
-    "wof:lastmodified":1553718153,
+    "wof:lastmodified":1564217279,
     "wof:name":"Kano Municipal",
     "wof:parent_id":85675425,
     "wof:placetype":"county",

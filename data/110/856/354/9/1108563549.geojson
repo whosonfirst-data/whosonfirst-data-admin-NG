@@ -37,6 +37,21 @@
     "name:eng_x_variant":[
         "Ifo"
     ],
+    "name:fra_x_preferred":[
+        "Ifo"
+    ],
+    "name:hau_x_preferred":[
+        "Ifo"
+    ],
+    "name:ita_x_preferred":[
+        "Ifo"
+    ],
+    "name:por_x_preferred":[
+        "Ifo"
+    ],
+    "name:spa_x_preferred":[
+        "Ifo"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":1108563549,
-    "wof:lastmodified":1553718149,
+    "wof:lastmodified":1564217219,
     "wof:name":"Ifo",
     "wof:parent_id":85675353,
     "wof:placetype":"county",

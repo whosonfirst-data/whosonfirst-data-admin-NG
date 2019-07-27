@@ -26,6 +26,24 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Olorunda"
+    ],
+    "name:fra_x_preferred":[
+        "Olorunda"
+    ],
+    "name:hau_x_preferred":[
+        "Olorunda"
+    ],
+    "name:ita_x_preferred":[
+        "Olorunda"
+    ],
+    "name:por_x_preferred":[
+        "Olorunda"
+    ],
+    "name:spa_x_preferred":[
+        "Olorunda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +53,7 @@
         "gn:id":2326458
     },
     "wof:country":"NG",
-    "wof:geomhash":"f0162708837fbb0942dec29923aecfbd",
+    "wof:geomhash":"4f9e2c9e5eeb6952bf08997b7d583607",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209396837,
-    "wof:lastmodified":1536288272,
+    "wof:lastmodified":1564215606,
     "wof:name":"Olorunda",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +71,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.0682400000000003,
+    3.06824,
     6.84801,
-    3.0682400000000003,
+    3.06824,
     6.84801
 ],
   "geometry": {"coordinates":[3.06824,6.84801],"type":"Point"}

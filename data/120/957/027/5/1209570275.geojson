@@ -26,6 +26,30 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ozu"
+    ],
+    "name:ceb_x_preferred":[
+        "Ozu"
+    ],
+    "name:deu_x_preferred":[
+        "Ozu"
+    ],
+    "name:fra_x_preferred":[
+        "Ozu"
+    ],
+    "name:ita_x_preferred":[
+        "Ozu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0437\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Ozu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0434\u0437\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +59,7 @@
         "gn:id":7098530
     },
     "wof:country":"NG",
-    "wof:geomhash":"20ce30fafcd2f6d6177a8eb831020dc4",
+    "wof:geomhash":"581032641dfc4906d3d6274ee3d30a90",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +67,7 @@
         }
     ],
     "wof:id":1209570275,
-    "wof:lastmodified":1536283106,
+    "wof:lastmodified":1564215982,
     "wof:name":"Ozu",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +77,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.988289999999999,
+    6.98829,
     5.99559,
-    6.988289999999999,
+    6.98829,
     5.99559
 ],
   "geometry": {"coordinates":[6.98829,5.99559],"type":"Point"}

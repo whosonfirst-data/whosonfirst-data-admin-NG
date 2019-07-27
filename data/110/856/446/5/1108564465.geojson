@@ -31,12 +31,30 @@
     "mps:longitude":7.434404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Umuahia South"
+    ],
     "name:eng_x_preferred":[
         "Umuahia South"
     ],
     "name:eng_x_variant":[
         "Umuahia",
         "Umuahia North"
+    ],
+    "name:fra_x_preferred":[
+        "Umuahia Sud"
+    ],
+    "name:hau_x_preferred":[
+        "Umuahia ta Kudu"
+    ],
+    "name:ita_x_preferred":[
+        "Umuahia South"
+    ],
+    "name:spa_x_preferred":[
+        "Umuahia South"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u0423\u043c\u0443\u0430\u0445\u0456\u044f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":1108564465,
-    "wof:lastmodified":1553718164,
+    "wof:lastmodified":1564217245,
     "wof:name":"Umuahia South",
     "wof:parent_id":85675305,
     "wof:placetype":"county",

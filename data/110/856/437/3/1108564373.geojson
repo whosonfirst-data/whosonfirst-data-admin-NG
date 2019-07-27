@@ -31,12 +31,27 @@
     "mps:longitude":5.238581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sokoto South"
+    ],
     "name:eng_x_preferred":[
         "Sokoto South"
     ],
     "name:eng_x_variant":[
         "Sokoto",
         "Wamakko"
+    ],
+    "name:fra_x_preferred":[
+        "Sokoto Sud"
+    ],
+    "name:hau_x_preferred":[
+        "Sokoto ta Kudu"
+    ],
+    "name:ita_x_preferred":[
+        "Sokoto South"
+    ],
+    "name:spa_x_preferred":[
+        "Sokoto South"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1108564373,
-    "wof:lastmodified":1553718163,
+    "wof:lastmodified":1564217257,
     "wof:name":"Sokoto South",
     "wof:parent_id":85675433,
     "wof:placetype":"county",

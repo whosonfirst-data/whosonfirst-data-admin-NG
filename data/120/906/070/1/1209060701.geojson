@@ -26,6 +26,24 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beba"
+    ],
+    "name:deu_x_preferred":[
+        "Beba"
+    ],
+    "name:fra_x_preferred":[
+        "Beba"
+    ],
+    "name:glg_x_preferred":[
+        "Beba"
+    ],
+    "name:swe_x_preferred":[
+        "Beba"
+    ],
+    "name:vie_x_preferred":[
+        "Beba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +53,7 @@
         "gn:id":2347387
     },
     "wof:country":"NG",
-    "wof:geomhash":"aaf21ce76b7e127b5f13cf4b23f27fd5",
+    "wof:geomhash":"4da79aab801a5fbfe54f1961e474f1c8",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209060701,
-    "wof:lastmodified":1536298964,
+    "wof:lastmodified":1564215610,
     "wof:name":"Beba",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +72,9 @@
 },
   "bbox": [
     8.81579,
-    7.101660000000001,
+    7.10166,
     8.81579,
-    7.101660000000001
+    7.10166
 ],
   "geometry": {"coordinates":[8.81579,7.10166],"type":"Point"}
 }

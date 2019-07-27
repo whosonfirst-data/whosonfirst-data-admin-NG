@@ -31,12 +31,27 @@
     "mps:longitude":6.299511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Etsako West"
+    ],
     "name:eng_x_preferred":[
         "Etsako West"
     ],
     "name:eng_x_variant":[
         "Etsakowe",
         "EtsakoWe"
+    ],
+    "name:fra_x_preferred":[
+        "Etsako Ouest"
+    ],
+    "name:hau_x_preferred":[
+        "Etsako ta Yamma"
+    ],
+    "name:ita_x_preferred":[
+        "Etsako West"
+    ],
+    "name:spa_x_preferred":[
+        "Etsako West"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1108563347,
-    "wof:lastmodified":1553718145,
+    "wof:lastmodified":1564217322,
     "wof:name":"Etsako West",
     "wof:parent_id":85675391,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u6709\u6f22\u753a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +38,7 @@
         "gn:id":2320756
     },
     "wof:country":"NG",
-    "wof:geomhash":"6dfaa6344834ee0a5631192d4b68593d",
+    "wof:geomhash":"7995e25e113a3ca289cbb1aa26efdcc6",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209479233,
-    "wof:lastmodified":1536285837,
+    "wof:lastmodified":1564215867,
     "wof:name":"Ukan",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.583839999999999,
-    4.6264699999999985,
-    7.583839999999999,
-    4.6264699999999985
+    7.58384,
+    4.62647,
+    7.58384,
+    4.62647
 ],
   "geometry": {"coordinates":[7.58384,4.62647],"type":"Point"}
 }

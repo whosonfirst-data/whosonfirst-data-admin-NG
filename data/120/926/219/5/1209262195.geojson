@@ -26,6 +26,12 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pawa"
+    ],
+    "name:deu_x_preferred":[
+        "Pawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +41,7 @@
         "gn:id":9531370
     },
     "wof:country":"NG",
-    "wof:geomhash":"2847f5fe55d6513bc9df0aedb9b2c2b0",
+    "wof:geomhash":"59e31c6a7c00f7f11233a0c643e721f5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209262195,
-    "wof:lastmodified":1536292651,
+    "wof:lastmodified":1564216358,
     "wof:name":"Pawa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +60,9 @@
 },
   "bbox": [
     9.70864,
-    7.649539999999999,
+    7.64954,
     9.70864,
-    7.649539999999999
+    7.64954
 ],
   "geometry": {"coordinates":[9.70864,7.64954],"type":"Point"}
 }

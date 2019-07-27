@@ -26,6 +26,12 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ajuba"
+    ],
+    "name:swe_x_preferred":[
+        "Ajuba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +41,7 @@
         "gn:id":2351285
     },
     "wof:country":"NG",
-    "wof:geomhash":"0e7ba76193ffae6fd48e1c54a1c3b2ed",
+    "wof:geomhash":"c225b342f1a422918bdba5ad196a2736",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209456409,
-    "wof:lastmodified":1536286517,
+    "wof:lastmodified":1564216349,
     "wof:name":"Ajuba",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.3833300000000004,
+    3.38333,
     7.48333,
-    3.3833300000000004,
+    3.38333,
     7.48333
 ],
   "geometry": {"coordinates":[3.38333,7.48333],"type":"Point"}

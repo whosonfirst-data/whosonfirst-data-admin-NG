@@ -27,6 +27,27 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gwadi"
+    ],
+    "name:fra_x_preferred":[
+        "Gwadi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u0926\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Gwadi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u0926\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u0926\u093f"
+    ],
+    "name:pol_x_preferred":[
+        "Gwadi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +57,7 @@
         "gn:id":2339877
     },
     "wof:country":"NG",
-    "wof:geomhash":"d58fdbd79247fb3aeb09c7604d1dae97",
+    "wof:geomhash":"7b5eb5d2010b95b6cc6c5598101037b3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +65,7 @@
         }
     ],
     "wof:id":1209342913,
-    "wof:lastmodified":1536290006,
+    "wof:lastmodified":1564216227,
     "wof:name":"Gwadi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -55,9 +76,9 @@
 },
   "bbox": [
     4.38333,
-    13.583329999999998,
+    13.58333,
     4.38333,
-    13.583329999999998
+    13.58333
 ],
   "geometry": {"coordinates":[4.38333,13.58333],"type":"Point"}
 }

@@ -31,12 +31,27 @@
     "mps:longitude":4.513092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ilorin West"
+    ],
     "name:eng_x_preferred":[
         "Ilorin West"
     ],
     "name:eng_x_variant":[
         "Ilorinwe",
         "IlorinWe"
+    ],
+    "name:fra_x_preferred":[
+        "Ilorin Ouest"
+    ],
+    "name:hau_x_preferred":[
+        "Ilorin ta Yamma"
+    ],
+    "name:ita_x_preferred":[
+        "Ilorin West"
+    ],
+    "name:spa_x_preferred":[
+        "Ilorin West"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1108563639,
-    "wof:lastmodified":1553718150,
+    "wof:lastmodified":1564217232,
     "wof:name":"Ilorin West",
     "wof:parent_id":85675339,
     "wof:placetype":"county",

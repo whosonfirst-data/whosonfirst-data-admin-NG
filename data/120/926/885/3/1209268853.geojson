@@ -26,6 +26,24 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0647"
+    ],
+    "name:ron_x_preferred":[
+        "Nje"
+    ],
+    "name:srp_x_preferred":[
+        "\u040a"
+    ],
+    "name:tgl_x_preferred":[
+        "Nje"
+    ],
+    "name:tur_x_preferred":[
+        "Nje"
+    ],
+    "name:xal_x_preferred":[
+        "\u040a \u04af\u0437\u0433"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +53,7 @@
         "gn:id":9974144
     },
     "wof:country":"NG",
-    "wof:geomhash":"a3c820b41a1a12e7d0b74350d3e48bbb",
+    "wof:geomhash":"d6860924d49fb03ec37d6f2753879182",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209268853,
-    "wof:lastmodified":1536292431,
+    "wof:lastmodified":1564216373,
     "wof:name":"Nje",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.987119999999997,
-    7.367369999999998,
-    8.987119999999997,
-    7.367369999999998
+    8.98712,
+    7.36737,
+    8.98712,
+    7.36737
 ],
   "geometry": {"coordinates":[8.98712,7.36737],"type":"Point"}
 }
