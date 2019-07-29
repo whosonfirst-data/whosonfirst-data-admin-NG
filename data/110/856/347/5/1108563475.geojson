@@ -31,12 +31,27 @@
     "mps:longitude":8.207251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gwer West"
+    ],
     "name:eng_x_preferred":[
         "Gwer West"
     ],
     "name:eng_x_variant":[
         "Gwerwest",
         "GwerWest"
+    ],
+    "name:fra_x_preferred":[
+        "Gwer Ouest"
+    ],
+    "name:hau_x_preferred":[
+        "Gwer ta Yamma"
+    ],
+    "name:ita_x_preferred":[
+        "Gwer West"
+    ],
+    "name:spa_x_preferred":[
+        "Gwer West"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1108563475,
-    "wof:lastmodified":1553718149,
+    "wof:lastmodified":1564217296,
     "wof:name":"Gwer West",
     "wof:parent_id":85675325,
     "wof:placetype":"county",

@@ -31,11 +31,29 @@
     "mps:longitude":7.922301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Afikpo North"
+    ],
     "name:eng_x_preferred":[
         "Afikpo North"
     ],
     "name:eng_x_variant":[
         "Afikpo"
+    ],
+    "name:fra_x_preferred":[
+        "Afikpo Nord"
+    ],
+    "name:hau_x_preferred":[
+        "Afikpo ta Arewa"
+    ],
+    "name:ita_x_preferred":[
+        "Afikpo North"
+    ],
+    "name:por_x_preferred":[
+        "Afikpo Norte"
+    ],
+    "name:spa_x_preferred":[
+        "Afikpo North"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1108562927,
-    "wof:lastmodified":1553718139,
+    "wof:lastmodified":1564217254,
     "wof:name":"Afikpo North",
     "wof:parent_id":85675399,
     "wof:placetype":"county",

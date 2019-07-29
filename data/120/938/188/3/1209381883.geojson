@@ -26,6 +26,36 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ahula"
+    ],
+    "name:est_x_preferred":[
+        "Ahula"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0647\u0648\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ahula"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0570\u0578\u0582\u056c\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Ahula"
+    ],
+    "name:spa_x_preferred":[
+        "Ahula"
+    ],
+    "name:swe_x_preferred":[
+        "Ahula"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u0443\u043b\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Ahula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +65,7 @@
         "gn:id":2351641
     },
     "wof:country":"NG",
-    "wof:geomhash":"d55840f4e4988888e27a95c7aa273049",
+    "wof:geomhash":"918631f624837cb9e7385bf04147ff29",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1209381883,
-    "wof:lastmodified":1536288754,
+    "wof:lastmodified":1564215508,
     "wof:name":"Ahula",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.947980000000003,
-    7.167610000000002,
-    8.947980000000003,
-    7.167610000000002
+    8.94798,
+    7.16761,
+    8.94798,
+    7.16761
 ],
   "geometry": {"coordinates":[8.94798,7.16761],"type":"Point"}
 }

@@ -31,12 +31,30 @@
     "mps:longitude":4.532887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ife Central"
+    ],
     "name:eng_x_preferred":[
         "Ife Central"
     ],
     "name:eng_x_variant":[
         "Ifecentral",
         "Ife North"
+    ],
+    "name:fra_x_preferred":[
+        "Ife Central"
+    ],
+    "name:hau_x_preferred":[
+        "Ife ta Tsakiya"
+    ],
+    "name:ita_x_preferred":[
+        "Ife Central"
+    ],
+    "name:por_x_preferred":[
+        "Ife Central"
+    ],
+    "name:spa_x_preferred":[
+        "Ife Central"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":1108563533,
-    "wof:lastmodified":1553718149,
+    "wof:lastmodified":1564217221,
     "wof:name":"Ife Central",
     "wof:parent_id":85675367,
     "wof:placetype":"county",

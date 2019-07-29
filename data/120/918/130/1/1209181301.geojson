@@ -26,6 +26,9 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +38,7 @@
         "gn:id":9974189
     },
     "wof:country":"NG",
-    "wof:geomhash":"99068a49a623f46d6cf7882b054ad6e5",
+    "wof:geomhash":"e22b8febbfa169a1442b401f17fcdfdc",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209181301,
-    "wof:lastmodified":1536295249,
+    "wof:lastmodified":1564216278,
     "wof:name":"Shim",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +57,9 @@
 },
   "bbox": [
     8.94955,
-    7.370610000000001,
+    7.37061,
     8.94955,
-    7.370610000000001
+    7.37061
 ],
   "geometry": {"coordinates":[8.94955,7.37061],"type":"Point"}
 }

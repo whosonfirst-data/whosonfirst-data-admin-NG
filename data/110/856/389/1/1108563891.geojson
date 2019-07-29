@@ -31,12 +31,30 @@
     "mps:longitude":9.81538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Langtang North"
+    ],
     "name:eng_x_preferred":[
         "Langtang North"
     ],
     "name:eng_x_variant":[
         "Langtang",
         "Langtang North"
+    ],
+    "name:fra_x_preferred":[
+        "Langtang Nord"
+    ],
+    "name:hau_x_preferred":[
+        "Langtang ta Arewa"
+    ],
+    "name:ita_x_preferred":[
+        "Langtang North"
+    ],
+    "name:spa_x_preferred":[
+        "Langtang North"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06af\u0679\u0627\u0646\u06af \u0646\u0627\u0631\u062a\u06be"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":1108563891,
-    "wof:lastmodified":1553718155,
+    "wof:lastmodified":1564217364,
     "wof:name":"Langtang North",
     "wof:parent_id":85675411,
     "wof:placetype":"county",

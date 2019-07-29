@@ -27,6 +27,15 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Alhassan"
+    ],
+    "name:ita_x_preferred":[
+        "Alhassan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0445\u0430\u0441\u0441\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +45,7 @@
         "gn:id":7040265
     },
     "wof:country":"NG",
-    "wof:geomhash":"faf24f4c3315d57a03ffb276600c989b",
+    "wof:geomhash":"04cd7fa13d0a2d588714fb2dfb9d27bb",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209034353,
-    "wof:lastmodified":1536299750,
+    "wof:lastmodified":1564216065,
     "wof:name":"Alhassan",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.7199300000000015,
+    4.71993,
     12.27668,
-    4.7199300000000015,
+    4.71993,
     12.27668
 ],
   "geometry": {"coordinates":[4.71993,12.27668],"type":"Point"}

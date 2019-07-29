@@ -31,12 +31,30 @@
     "mps:longitude":3.91576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ibadan North"
+    ],
     "name:eng_x_preferred":[
         "Ibadan North"
     ],
     "name:eng_x_variant":[
         "Ibadannorth",
         "IbadanNorth"
+    ],
+    "name:fra_x_preferred":[
+        "Ibadan Nord"
+    ],
+    "name:hau_x_preferred":[
+        "Ibadan ta Arewa"
+    ],
+    "name:ita_x_preferred":[
+        "Ibadan North"
+    ],
+    "name:por_x_preferred":[
+        "Ibadan-Norte"
+    ],
+    "name:spa_x_preferred":[
+        "Ibadan North"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":1108563491,
-    "wof:lastmodified":1553718148,
+    "wof:lastmodified":1564217293,
     "wof:name":"Ibadan North",
     "wof:parent_id":85675371,
     "wof:placetype":"county",

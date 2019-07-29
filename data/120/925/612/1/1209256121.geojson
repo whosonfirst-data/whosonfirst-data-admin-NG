@@ -26,6 +26,9 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:vie_x_preferred":[
+        "Asako"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +38,7 @@
         "gn:id":2349256
     },
     "wof:country":"NG",
-    "wof:geomhash":"b63369f043647501c8300d41db0184dd",
+    "wof:geomhash":"2920cb3e16c80580b7acae6becb3a850",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209256121,
-    "wof:lastmodified":1536292844,
+    "wof:lastmodified":1564215922,
     "wof:name":"Asako",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.4833300000000005,
+    3.48333,
     7.61667,
-    3.4833300000000005,
+    3.48333,
     7.61667
 ],
   "geometry": {"coordinates":[3.48333,7.61667],"type":"Point"}

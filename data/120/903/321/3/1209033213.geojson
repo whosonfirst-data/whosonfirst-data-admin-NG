@@ -27,6 +27,15 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maji"
+    ],
+    "name:deu_x_preferred":[
+        "Maji"
+    ],
+    "name:swe_x_preferred":[
+        "Maji"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +45,7 @@
         "gn:id":2331233
     },
     "wof:country":"NG",
-    "wof:geomhash":"da331eb0d6f7db2ce9d529f75afbc958",
+    "wof:geomhash":"2fecbadc51921acaa77701987f930d65",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1209033213,
-    "wof:lastmodified":1536299784,
+    "wof:lastmodified":1564216072,
     "wof:name":"Maji",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.4421300000000015,
+    6.44213,
     12.01507,
-    6.4421300000000015,
+    6.44213,
     12.01507
 ],
   "geometry": {"coordinates":[6.44213,12.01507],"type":"Point"}

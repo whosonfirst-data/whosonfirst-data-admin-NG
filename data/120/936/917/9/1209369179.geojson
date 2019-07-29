@@ -26,6 +26,36 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Taman"
+    ],
+    "name:deu_x_preferred":[
+        "Taman"
+    ],
+    "name:fra_x_preferred":[
+        "Taman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05de\u05d0\u05df"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30de\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Taman"
+    ],
+    "name:nor_x_preferred":[
+        "Taman"
+    ],
+    "name:por_x_preferred":[
+        "Taman"
+    ],
+    "name:swe_x_preferred":[
+        "Taman"
+    ],
+    "name:zho_x_preferred":[
+        "Taman"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +65,7 @@
         "gn:id":9532252
     },
     "wof:country":"NG",
-    "wof:geomhash":"fbda517dcd8ff4ab4e28355f665f6dcf",
+    "wof:geomhash":"a898d2d4fa24ded3f87550931d37045d",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1209369179,
-    "wof:lastmodified":1536289166,
+    "wof:lastmodified":1564215498,
     "wof:name":"Taman",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +84,9 @@
 },
   "bbox": [
     9.84581,
-    7.563860000000001,
+    7.56386,
     9.84581,
-    7.563860000000001
+    7.56386
 ],
   "geometry": {"coordinates":[9.84581,7.56386],"type":"Point"}
 }

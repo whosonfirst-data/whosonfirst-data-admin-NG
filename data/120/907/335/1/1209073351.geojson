@@ -26,6 +26,9 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Igba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +38,7 @@
         "gn:id":9636790
     },
     "wof:country":"NG",
-    "wof:geomhash":"9e8b9b879028bbe33cbe868530194c37",
+    "wof:geomhash":"c2aa404b600572ba7a7786601765d39e",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209073351,
-    "wof:lastmodified":1536298576,
+    "wof:lastmodified":1564215518,
     "wof:name":"Igba",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +57,9 @@
 },
   "bbox": [
     9.29614,
-    7.3410600000000015,
+    7.34106,
     9.29614,
-    7.3410600000000015
+    7.34106
 ],
   "geometry": {"coordinates":[9.29614,7.34106],"type":"Point"}
 }

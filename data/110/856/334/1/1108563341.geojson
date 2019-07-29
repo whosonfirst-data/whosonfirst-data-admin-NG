@@ -31,12 +31,27 @@
     "mps:longitude":6.581266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Etsako Central"
+    ],
     "name:eng_x_preferred":[
         "Etsako Central"
     ],
     "name:eng_x_variant":[
         "Etsakowe",
         "EtsakoEa"
+    ],
+    "name:fra_x_preferred":[
+        "Etsako Central"
+    ],
+    "name:hau_x_preferred":[
+        "Etsako ta Tsakiya"
+    ],
+    "name:ita_x_preferred":[
+        "Etsako Central"
+    ],
+    "name:spa_x_preferred":[
+        "Etsako Central"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1108563341,
-    "wof:lastmodified":1553718146,
+    "wof:lastmodified":1564217322,
     "wof:name":"Etsako Central",
     "wof:parent_id":85675391,
     "wof:placetype":"county",

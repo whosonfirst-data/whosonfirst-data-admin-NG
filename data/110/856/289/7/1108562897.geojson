@@ -31,12 +31,33 @@
     "mps:longitude":7.351415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Aba South"
+    ],
     "name:eng_x_preferred":[
         "Aba South"
     ],
     "name:eng_x_variant":[
         "Aba",
         "Aba South"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0627 \u062c\u0646\u0648\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Aba Sud"
+    ],
+    "name:hau_x_preferred":[
+        "Aba ta Kudu"
+    ],
+    "name:ita_x_preferred":[
+        "Aba South"
+    ],
+    "name:spa_x_preferred":[
+        "Aba South"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u0410\u0431\u0430"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +94,7 @@
         }
     ],
     "wof:id":1108562897,
-    "wof:lastmodified":1553718138,
+    "wof:lastmodified":1564217242,
     "wof:name":"Aba South",
     "wof:parent_id":85675305,
     "wof:placetype":"county",

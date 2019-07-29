@@ -26,6 +26,12 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loho"
+    ],
+    "name:swe_x_preferred":[
+        "Loho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +41,7 @@
         "gn:id":9637972
     },
     "wof:country":"NG",
-    "wof:geomhash":"f59293bb6f78a1f2c18cf46a2d4de5ce",
+    "wof:geomhash":"9eefd2bdaaf43610bf585ded0939e67a",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209073343,
-    "wof:lastmodified":1536298576,
+    "wof:lastmodified":1564215519,
     "wof:name":"Loho",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +60,9 @@
 },
   "bbox": [
     9.06937,
-    7.114539999999999,
+    7.11454,
     9.06937,
-    7.114539999999999
+    7.11454
 ],
   "geometry": {"coordinates":[9.06937,7.11454],"type":"Point"}
 }

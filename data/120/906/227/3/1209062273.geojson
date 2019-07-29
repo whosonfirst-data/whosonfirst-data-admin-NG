@@ -27,6 +27,21 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tofa"
+    ],
+    "name:deu_x_preferred":[
+        "Tofa"
+    ],
+    "name:ita_x_preferred":[
+        "Tofa"
+    ],
+    "name:spa_x_preferred":[
+        "Tofa"
+    ],
+    "name:swe_x_preferred":[
+        "Tofa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +51,7 @@
         "gn:id":2322044
     },
     "wof:country":"NG",
-    "wof:geomhash":"3b2244e562570d131c1941e04165fe5f",
+    "wof:geomhash":"b8882f8c1a585b7e7ef062222dd4cd38",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +59,7 @@
         }
     ],
     "wof:id":1209062273,
-    "wof:lastmodified":1536298914,
+    "wof:lastmodified":1564215609,
     "wof:name":"Tofa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +69,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.9333300000000015,
+    6.93333,
     10.95,
-    6.9333300000000015,
+    6.93333,
     10.95
 ],
   "geometry": {"coordinates":[6.93333,10.95],"type":"Point"}

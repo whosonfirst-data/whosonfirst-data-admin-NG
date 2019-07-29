@@ -37,6 +37,15 @@
     "name:eng_x_variant":[
         "Fika"
     ],
+    "name:fra_x_preferred":[
+        "Fika"
+    ],
+    "name:ita_x_preferred":[
+        "Fika"
+    ],
+    "name:spa_x_preferred":[
+        "Fika"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1108563369,
-    "wof:lastmodified":1553718146,
+    "wof:lastmodified":1564217212,
     "wof:name":"Fika",
     "wof:parent_id":85675443,
     "wof:placetype":"county",

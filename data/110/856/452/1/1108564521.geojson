@@ -31,12 +31,33 @@
     "mps:longitude":5.795235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Yagba East"
+    ],
     "name:eng_x_preferred":[
         "Yagba East"
     ],
     "name:eng_x_variant":[
         "Yagbaeas",
         "Yagba East"
+    ],
+    "name:fra_x_preferred":[
+        "Yagba Est"
+    ],
+    "name:hau_x_preferred":[
+        "Yagba ta Gabas"
+    ],
+    "name:ita_x_preferred":[
+        "Yagba East"
+    ],
+    "name:por_x_preferred":[
+        "Yagba Leste"
+    ],
+    "name:spa_x_preferred":[
+        "Yagba East"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06af\u0628\u0627 \u0627\u06cc\u0633\u0679"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +94,7 @@
         }
     ],
     "wof:id":1108564521,
-    "wof:lastmodified":1553718165,
+    "wof:lastmodified":1564217262,
     "wof:name":"Yagba East",
     "wof:parent_id":85675407,
     "wof:placetype":"county",

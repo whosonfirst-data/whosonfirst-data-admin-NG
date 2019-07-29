@@ -31,12 +31,27 @@
     "mps:longitude":6.316582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ika North East"
+    ],
     "name:eng_x_preferred":[
         "Ika North East"
     ],
     "name:eng_x_variant":[
         "Ikanorth",
         "IkaNorth"
+    ],
+    "name:fra_x_preferred":[
+        "Ika Nord Est"
+    ],
+    "name:hau_x_preferred":[
+        "Ika ta Arewa maso Gabas"
+    ],
+    "name:ita_x_preferred":[
+        "Ika North East"
+    ],
+    "name:spa_x_preferred":[
+        "Ika North East"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1108563583,
-    "wof:lastmodified":1553718150,
+    "wof:lastmodified":1564217317,
     "wof:name":"Ika North East",
     "wof:parent_id":85675387,
     "wof:placetype":"county",

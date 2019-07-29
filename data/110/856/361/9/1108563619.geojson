@@ -31,12 +31,27 @@
     "mps:longitude":4.725677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Ilaje"
+    ],
     "name:eng_x_preferred":[
         "Ilaje"
     ],
     "name:eng_x_variant":[
         "Ilajeeseodo",
         "IlajeEseodo"
+    ],
+    "name:fra_x_preferred":[
+        "Ilaje"
+    ],
+    "name:hau_x_preferred":[
+        "Ilaje"
+    ],
+    "name:ita_x_preferred":[
+        "Iiaye"
+    ],
+    "name:spa_x_preferred":[
+        "Ilaje"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +88,7 @@
         }
     ],
     "wof:id":1108563619,
-    "wof:lastmodified":1553718151,
+    "wof:lastmodified":1564217301,
     "wof:name":"Ilaje",
     "wof:parent_id":85675357,
     "wof:placetype":"county",

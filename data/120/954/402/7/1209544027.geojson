@@ -26,6 +26,15 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kufi"
+    ],
+    "name:spa_x_preferred":[
+        "Kufi"
+    ],
+    "name:swe_x_preferred":[
+        "Kufi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +44,7 @@
         "gn:id":2333639
     },
     "wof:country":"NG",
-    "wof:geomhash":"c278e74866bdc22fd2caaae8c8fdb232",
+    "wof:geomhash":"4b1b9bf40f5da6d36a8d90db9ba22164",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209544027,
-    "wof:lastmodified":1536283900,
+    "wof:lastmodified":1564215554,
     "wof:name":"Kufi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +63,9 @@
 },
   "bbox": [
     9.88792,
-    7.149780000000002,
+    7.14978,
     9.88792,
-    7.149780000000002
+    7.14978
 ],
   "geometry": {"coordinates":[9.88792,7.14978],"type":"Point"}
 }

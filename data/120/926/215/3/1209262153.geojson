@@ -26,6 +26,12 @@
     "iso:country":"NG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yogo"
+    ],
+    "name:swe_x_preferred":[
+        "Yogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +41,7 @@
         "gn:id":9640497
     },
     "wof:country":"NG",
-    "wof:geomhash":"d7b5a49e00cf04270e76f88205b18a98",
+    "wof:geomhash":"e8fc5284c6e72d11c1ce828b3ae25898",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209262153,
-    "wof:lastmodified":1536292652,
+    "wof:lastmodified":1564216371,
     "wof:name":"Yogo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +60,9 @@
 },
   "bbox": [
     9.26619,
-    7.253189999999999,
+    7.25319,
     9.26619,
-    7.253189999999999
+    7.25319
 ],
   "geometry": {"coordinates":[9.26619,7.25319],"type":"Point"}
 }
