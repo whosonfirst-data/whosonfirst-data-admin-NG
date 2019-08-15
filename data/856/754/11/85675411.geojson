@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
+    ],
     "lbl:latitude":8.953321,
     "lbl:longitude":9.612067,
     "meso:name_local":"Plateau",
@@ -327,9 +330,6 @@
         }
     ],
     "wof:id":85675411,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "yor"
@@ -338,7 +338,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1563324442,
+    "wof:lastmodified":1565731420,
     "wof:name":"Plateau",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

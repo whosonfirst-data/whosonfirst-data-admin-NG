@@ -12,7 +12,6 @@
     "geom:bbox":"6.77856633973,8.45757136831,7.73006633973,9.43157136831",
     "geom:latitude":8.906242,
     "geom:longitude":7.189051,
-    "gn:id":"",
     "gn:population":1405201,
     "iso:country":"NG",
     "label:eng_x_preferred_longname":[
@@ -20,6 +19,9 @@
     ],
     "label:eng_x_preferred_placetype":[
         "capital territory"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "FC"
     ],
     "lbl:latitude":8.804441,
     "lbl:longitude":7.198126,
@@ -315,9 +317,6 @@
         }
     ],
     "wof:id":85675457,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "yor"
@@ -326,16 +325,15 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1563324438,
+    "wof:lastmodified":1565900344,
     "wof:name":"Federal Capital Territory",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"capital territory",
     "wof:population":1405201,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ng",
-    "wof:shortcode":"FCTA",
+    "wof:shortcode":"FC",
     "wof:subdivision":"NG-FC",
     "wof:superseded_by":[],
     "wof:supersedes":[],
