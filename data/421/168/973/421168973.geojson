@@ -10,6 +10,9 @@
     "geom:latitude":12.8791,
     "geom:longitude":10.4526,
     "iso:country":"NG",
+    "lbl:bbox":"10.4326,12.8591,10.4726,12.8991",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -56,7 +59,7 @@
     "name:spa_x_preferred":[
         "Nguru"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u2019gourou"
     ],
     "name:yor_x_preferred":[
@@ -188,7 +191,7 @@
     "wof:concordances":{
         "gn:id":2328952,
         "gp:id":1401403,
-        "qs:id":274199,
+        "qs_pg:id":274199,
         "wd:id":"Q3508977",
         "wk:page":"Nguru, Nigeria"
     },
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421168973,
-    "wof:lastmodified":1563328972,
+    "wof:lastmodified":1566654437,
     "wof:name":"Nguru",
     "wof:parent_id":1108564033,
     "wof:placetype":"locality",

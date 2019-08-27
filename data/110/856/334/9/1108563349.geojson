@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.86861,
     "lbl:longitude":8.784483,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Cross River",
     "meso:diss_me":"EtungCross River",
     "meso:gadm_admin":"Etung",
@@ -31,6 +33,7 @@
     "mps:longitude":8.784483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Etung"
     ],
@@ -51,9 +54,9 @@
         "Etung"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"815.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Effraya",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108563349,
-    "wof:lastmodified":1564217321,
+    "wof:lastmodified":1566653517,
     "wof:name":"Etung",
     "wof:parent_id":85675331,
     "wof:placetype":"county",

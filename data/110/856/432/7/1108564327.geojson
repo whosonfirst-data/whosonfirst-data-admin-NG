@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.675445,
     "lbl:longitude":3.58293,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Oyo",
     "meso:diss_me":"Saki EastOyo",
     "meso:gadm_admin":"Saki East",
@@ -31,6 +33,7 @@
     "mps:longitude":3.58293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Saki East"
     ],
@@ -51,9 +54,9 @@
         "Saki East"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,569.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ago-Amodu",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108564327,
-    "wof:lastmodified":1564217350,
+    "wof:lastmodified":1566653543,
     "wof:name":"Saki East",
     "wof:parent_id":85675371,
     "wof:placetype":"county",

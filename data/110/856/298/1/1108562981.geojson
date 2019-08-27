@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.49211,
     "lbl:longitude":6.683022,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Rivers",
     "meso:diss_me":"Akuku ToruRivers",
     "meso:gadm_admin":"Brass",
@@ -31,6 +33,7 @@
     "mps:longitude":6.683022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Akuku Toru"
     ],
@@ -39,9 +42,9 @@
         "Brass"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,443.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Abonnema",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108562981,
-    "wof:lastmodified":1553718140,
+    "wof:lastmodified":1566653533,
     "wof:name":"Akuku Toru",
     "wof:parent_id":85675317,
     "wof:placetype":"county",

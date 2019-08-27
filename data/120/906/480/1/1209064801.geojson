@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.17034,5.68488,8.21034,5.72488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2350962
     },
     "wof:country":"NG",
-    "wof:geomhash":"81e4785cd06b822b997b35a942332aa1",
+    "wof:geomhash":"d7e0544f78cf40c3d728797c5cc46781",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209064801,
-    "wof:lastmodified":1536298839,
+    "wof:lastmodified":1566652316,
     "wof:name":"Akpa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.190339999999999,
+    8.19034,
     5.70488,
-    8.190339999999999,
+    8.19034,
     5.70488
 ],
   "geometry": {"coordinates":[8.19034,5.70488],"type":"Point"}

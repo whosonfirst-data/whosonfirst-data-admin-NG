@@ -11,8 +11,11 @@
     "geom:longitude":3.93333,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":736072,
+    "gn:population":736072,
     "iso:country":"NG",
+    "lbl:bbox":"3.91333,7.83,3.95333,7.87",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -256,7 +259,7 @@
     "wof:concordances":{
         "gn:id":2325200,
         "gp:id":1404144,
-        "qs:id":1034985,
+        "qs_pg:id":1034985,
         "wd:id":"Q1023703",
         "wk:page":"Oyo"
     },
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":890444297,
-    "wof:lastmodified":1563329090,
+    "wof:lastmodified":1566654477,
     "wof:name":"Oyo",
     "wof:parent_id":1108564269,
     "wof:placetype":"locality",

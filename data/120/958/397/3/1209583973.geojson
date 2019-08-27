@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.58736,11.77809,7.62736,11.81809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2340631
     },
     "wof:country":"NG",
-    "wof:geomhash":"72a5f87e90223d86490d092d166abd08",
+    "wof:geomhash":"76061f693dbaedeb979e393ca43d03a6",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209583973,
-    "wof:lastmodified":1536282696,
+    "wof:lastmodified":1566652650,
     "wof:name":"Ginnery",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.607360000000001,
+    7.60736,
     11.79809,
-    7.607360000000001,
+    7.60736,
     11.79809
 ],
   "geometry": {"coordinates":[7.60736,11.79809],"type":"Point"}

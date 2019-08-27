@@ -10,8 +10,12 @@
     "geom:latitude":13.03594,
     "geom:longitude":8.31631,
     "iso:country":"NG",
+    "lbl:bbox":"8.29631,13.01594,8.33631,13.05594",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Daura"
@@ -121,10 +125,12 @@
     "wof:concordances":{
         "gn:id":2345096,
         "gp:id":1389333,
-        "qs:id":183539,
         "qs_pg:id":139764,
         "wd:id":"Q1173023",
         "wk:page":"Daura"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":183539
     },
     "wof:country":"NG",
     "wof:created":1459009952,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421198553,
-    "wof:lastmodified":1563329026,
+    "wof:lastmodified":1566654455,
     "wof:name":"Daura",
     "wof:parent_id":1108563221,
     "wof:placetype":"locality",

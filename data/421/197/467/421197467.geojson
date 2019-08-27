@@ -10,8 +10,12 @@
     "geom:latitude":7.08921,
     "geom:longitude":7.64989,
     "iso:country":"NG",
+    "lbl:bbox":"7.62989,7.06921,7.66989,7.10921",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NG",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2325437,
         "gp:id":1403993,
-        "qs:id":139594
+        "qs_pg:id":139594
     },
     "wof:country":"NG",
     "wof:created":1459009914,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421197467,
-    "wof:lastmodified":1505340751,
+    "wof:lastmodified":1566654459,
     "wof:name":"Otukpa",
     "wof:parent_id":1108564107,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.43779,5.13212,7.47779,5.17212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2320403
     },
     "wof:country":"NG",
-    "wof:geomhash":"b8bcb9b78e607fea15c70e7a290048d7",
+    "wof:geomhash":"ece07a3948a7b182927667e5b2da0132",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209643729,
-    "wof:lastmodified":1536280803,
+    "wof:lastmodified":1566652370,
     "wof:name":"Umu Obiakwa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.457789999999998,
+    7.45779,
     5.15212,
-    7.457789999999998,
+    7.45779,
     5.15212
 ],
   "geometry": {"coordinates":[7.45779,5.15212],"type":"Point"}

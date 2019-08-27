@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.02091,7.89416,7.06091,7.93416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2327818
     },
     "wof:country":"NG",
-    "wof:geomhash":"f2aa2f99275e6a6dead2cce27f6baba4",
+    "wof:geomhash":"55f8c2311a3614dc0f52df8c14408907",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209344011,
-    "wof:lastmodified":1536289972,
+    "wof:lastmodified":1566652722,
     "wof:name":"Ogba",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     7.04091,
-    7.914160000000001,
+    7.91416,
     7.04091,
-    7.914160000000001
+    7.91416
 ],
   "geometry": {"coordinates":[7.04091,7.91416],"type":"Point"}
 }

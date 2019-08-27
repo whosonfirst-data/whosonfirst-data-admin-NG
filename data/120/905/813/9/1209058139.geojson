@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.83765,6.84098,5.87765,6.88098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2348942
     },
     "wof:country":"NG",
-    "wof:geomhash":"47231a7fed0f190dddabfb055426a681",
+    "wof:geomhash":"7bf269c0d00ff022eaf66889e8394558",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209058139,
-    "wof:lastmodified":1536299044,
+    "wof:lastmodified":1566652714,
     "wof:name":"Atoruru",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     5.85765,
-    6.8609800000000005,
+    6.86098,
     5.85765,
-    6.8609800000000005
+    6.86098
 ],
   "geometry": {"coordinates":[5.85765,6.86098],"type":"Point"}
 }

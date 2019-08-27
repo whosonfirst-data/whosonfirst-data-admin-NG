@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"13.69627,11.01609,13.73627,11.05609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":8709832
     },
     "wof:country":"NG",
-    "wof:geomhash":"f2645d9935928999b6a52c519934bf69",
+    "wof:geomhash":"30259f39149467b0ab570bf068507734",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209265567,
-    "wof:lastmodified":1536292544,
+    "wof:lastmodified":1566652829,
     "wof:name":"Hambadga",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.716270000000002,
+    13.71627,
     11.03609,
-    13.716270000000002,
+    13.71627,
     11.03609
 ],
   "geometry": {"coordinates":[13.71627,11.03609],"type":"Point"}

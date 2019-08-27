@@ -11,10 +11,14 @@
     "geom:longitude":6.24176,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":11122,
+    "gn:population":11122,
     "iso:country":"NG",
+    "lbl:bbox":"6.22176,4.29506,6.26176,4.33506",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Brass"
     ],
@@ -39,7 +43,7 @@
     "name:spa_x_preferred":[
         "Brass"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brass Town"
     ],
     "name:yor_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":2346734,
         "gp:id":1388082,
-        "qs:id":139775,
+        "qs_pg:id":139775,
         "wd:id":"Q2923946",
         "wk:page":"Brass"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890422077,
-    "wof:lastmodified":1563329066,
+    "wof:lastmodified":1566654469,
     "wof:name":"Brass",
     "wof:parent_id":1108563159,
     "wof:placetype":"locality",

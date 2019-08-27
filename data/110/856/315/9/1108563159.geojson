@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.371289,
     "lbl:longitude":6.128842,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Bayelsa",
     "meso:diss_me":"BrassBayelsa",
     "meso:gadm_admin":"NO DATA",
@@ -31,6 +33,7 @@
     "mps:longitude":6.128842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:als_x_preferred":[
         "Messing"
     ],
@@ -284,9 +287,9 @@
         "\u0110\u1ed3ng thau"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,404.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Brass",
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":1108563159,
-    "wof:lastmodified":1564217286,
+    "wof:lastmodified":1566653491,
     "wof:name":"Brass",
     "wof:parent_id":85675321,
     "wof:placetype":"county",

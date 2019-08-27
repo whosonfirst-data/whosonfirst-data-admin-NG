@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.956132,
     "lbl:longitude":9.053089,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kano",
     "meso:diss_me":"AjingiKano",
     "meso:gadm_admin":"Ajingi",
@@ -31,6 +33,7 @@
     "mps:longitude":9.053089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u062c\u06cc\u0646\u0642\u06cc"
     ],
@@ -63,9 +66,9 @@
         "Ajingi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"714.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ajingi",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108562959,
-    "wof:lastmodified":1564217259,
+    "wof:lastmodified":1566653475,
     "wof:name":"Ajingi",
     "wof:parent_id":85675425,
     "wof:placetype":"county",

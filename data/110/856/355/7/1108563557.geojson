@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.004101,
     "lbl:longitude":7.456933,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Enugu",
     "meso:diss_me":"Igbo-Eze NorthEnugu",
     "meso:gadm_admin":"Igbo-eze North",
@@ -31,6 +33,7 @@
     "mps:longitude":7.456933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Igbo-Eze North"
     ],
@@ -39,9 +42,9 @@
         "Igbo-eze North"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"293.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Enugu-Ezike",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108563557,
-    "wof:lastmodified":1553718149,
+    "wof:lastmodified":1566653455,
     "wof:name":"Igbo-Eze North",
     "wof:parent_id":85675395,
     "wof:placetype":"county",

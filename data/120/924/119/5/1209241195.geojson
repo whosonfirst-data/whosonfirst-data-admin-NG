@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"10.87138,8.80402,10.91138,8.84402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10892090
     },
     "wof:country":"NG",
-    "wof:geomhash":"8b277a53dcde50c816e2e2847508157d",
+    "wof:geomhash":"1e25add368820db5fae6555f57bcf05b",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209241195,
-    "wof:lastmodified":1536293315,
+    "wof:lastmodified":1566652470,
     "wof:name":"Garin Akuruki",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     10.89138,
-    8.824019999999997,
+    8.82402,
     10.89138,
-    8.824019999999997
+    8.82402
 ],
   "geometry": {"coordinates":[10.89138,8.82402],"type":"Point"}
 }

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.460125,
     "lbl:longitude":9.170881,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Plateau",
     "meso:diss_me":"ManguPlateau",
     "meso:gadm_admin":"Mangu",
@@ -31,6 +33,7 @@
     "mps:longitude":9.170881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mangu"
     ],
@@ -47,9 +50,9 @@
         "Mangu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,653.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Mangu",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108563941,
-    "wof:lastmodified":1564217319,
+    "wof:lastmodified":1566653515,
     "wof:name":"Mangu",
     "wof:parent_id":85675411,
     "wof:placetype":"county",

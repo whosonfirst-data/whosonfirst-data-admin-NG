@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.96967,12.39922,5.00967,12.43922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2344148
     },
     "wof:country":"NG",
-    "wof:geomhash":"f9b3ded8581d83b09d92601fe67d9a59",
+    "wof:geomhash":"04d845ef9938512485d76df0d77945af",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209135499,
-    "wof:lastmodified":1536296673,
+    "wof:lastmodified":1566652559,
     "wof:name":"Ebarike",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.9896699999999985,
+    4.98967,
     12.41922,
-    4.9896699999999985,
+    4.98967,
     12.41922
 ],
   "geometry": {"coordinates":[4.98967,12.41922],"type":"Point"}

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.824257,
     "lbl:longitude":9.304127,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Jigawa",
     "meso:diss_me":"DutseJigawa",
     "meso:gadm_admin":"Dutse",
@@ -31,6 +33,7 @@
     "mps:longitude":9.304127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u062a\u0633\u0647"
     ],
@@ -110,9 +113,9 @@
         "Dutse"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,099.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Dutse",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108563247,
-    "wof:lastmodified":1564217283,
+    "wof:lastmodified":1566653490,
     "wof:name":"Dutse",
     "wof:parent_id":85675421,
     "wof:placetype":"county",

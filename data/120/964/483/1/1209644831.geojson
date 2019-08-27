@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.48048,4.3018,6.52048,4.3418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -34,7 +38,7 @@
         "gn:id":6826039
     },
     "wof:country":"NG",
-    "wof:geomhash":"5f2534b1940b02547e2935d0a11ff25a",
+    "wof:geomhash":"5ce0f0c77c3ad4ec52741270821dae4b",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209644831,
-    "wof:lastmodified":1536280769,
+    "wof:lastmodified":1566652349,
     "wof:name":"Olukiri",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.5004800000000005,
+    6.50048,
     4.3218,
-    6.5004800000000005,
+    6.50048,
     4.3218
 ],
   "geometry": {"coordinates":[6.50048,4.3218],"type":"Point"}

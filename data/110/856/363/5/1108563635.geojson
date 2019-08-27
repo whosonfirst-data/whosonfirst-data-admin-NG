@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.622224,
     "lbl:longitude":4.820596,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kwara",
     "meso:diss_me":"Ilorin EastKwara",
     "meso:gadm_admin":"Ilorin East",
@@ -31,6 +33,7 @@
     "mps:longitude":4.820596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ilorin East"
     ],
@@ -54,9 +57,9 @@
         "Ilorin East"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"486.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Oke Oyi",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108563635,
-    "wof:lastmodified":1564217233,
+    "wof:lastmodified":1566653457,
     "wof:name":"Ilorin East",
     "wof:parent_id":85675339,
     "wof:placetype":"county",

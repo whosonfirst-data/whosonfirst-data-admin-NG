@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.67484,12.52249,7.71484,12.56249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":6998530
     },
     "wof:country":"NG",
-    "wof:geomhash":"201412c3fdf27aa83e50406927cdc7ff",
+    "wof:geomhash":"e02e21c299c212f735f3a082049a05e3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209583955,
-    "wof:lastmodified":1536282697,
+    "wof:lastmodified":1566652654,
     "wof:name":"Majen-Waya",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.694839999999999,
+    7.69484,
     12.54249,
-    7.694839999999999,
+    7.69484,
     12.54249
 ],
   "geometry": {"coordinates":[7.69484,12.54249],"type":"Point"}

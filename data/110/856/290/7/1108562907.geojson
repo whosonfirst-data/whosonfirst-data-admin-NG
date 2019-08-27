@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.15743,
     "lbl:longitude":3.365077,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ogun",
     "meso:diss_me":"Abeokuta SouthOgun",
     "meso:gadm_admin":"Abeokuta South",
@@ -31,6 +33,7 @@
     "mps:longitude":3.365077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Abeokuta South"
     ],
@@ -60,9 +63,9 @@
         "Abeokuta South"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"71.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ake Abeokuta",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108562907,
-    "wof:lastmodified":1564217351,
+    "wof:lastmodified":1566653545,
     "wof:name":"Abeokuta South",
     "wof:parent_id":85675353,
     "wof:placetype":"county",

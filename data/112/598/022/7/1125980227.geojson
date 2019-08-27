@@ -9,15 +9,18 @@
     "geom:bbox":"7.48959,5.52627,7.48959,5.52627",
     "geom:latitude":5.52627,
     "geom:longitude":7.48959,
-    "gn:gn_country":"NG",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":264662,
+    "gn:country":"NG",
+    "gn:fcode":"PPLA",
     "gn:population":264662,
     "iso:country":"NG",
+    "lbl:bbox":"7.46959,5.50627,7.50959,5.54627",
     "lbl:latitude":5.52627,
     "lbl:longitude":7.48959,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0648\u0627\u0647\u064a\u0627"
@@ -151,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043c\u0443\u0430\u0445\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Umuahia-Ibeku"
     ],
     "name:urd_x_preferred":[
@@ -178,7 +181,7 @@
     "qs_pg:qs_id":274196,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":1125980227,
-    "wof:lastmodified":1563329134,
+    "wof:lastmodified":1566654495,
     "wof:name":"Umuahia",
     "wof:parent_id":1108564463,
     "wof:placetype":"locality",

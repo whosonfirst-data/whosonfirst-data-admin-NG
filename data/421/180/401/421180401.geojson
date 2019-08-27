@@ -10,8 +10,12 @@
     "geom:latitude":10.99375,
     "geom:longitude":10.41179,
     "iso:country":"NG",
+    "lbl:bbox":"10.39179,10.97375,10.43179,11.01375",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Darazo"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2345152,
         "gp:id":1389287,
-        "qs:id":430265,
+        "qs_pg:id":430265,
         "wd:id":"Q5222130"
     },
     "wof:country":"NG",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421180401,
-    "wof:lastmodified":1563329001,
+    "wof:lastmodified":1566654447,
     "wof:name":"Darazo",
     "wof:parent_id":1108563215,
     "wof:placetype":"locality",

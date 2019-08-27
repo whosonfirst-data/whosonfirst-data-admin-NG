@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.453602,
     "lbl:longitude":7.626097,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kogi",
     "meso:diss_me":"AnkpaKogi",
     "meso:gadm_admin":"Ankpa",
@@ -31,6 +33,7 @@
     "mps:longitude":7.626097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ankpa"
     ],
@@ -50,9 +53,9 @@
         "Ankpa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,200.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ankpa",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563017,
-    "wof:lastmodified":1564217225,
+    "wof:lastmodified":1566653452,
     "wof:name":"Ankpa",
     "wof:parent_id":85675407,
     "wof:placetype":"county",

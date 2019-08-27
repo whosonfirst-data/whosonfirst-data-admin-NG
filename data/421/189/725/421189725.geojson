@@ -11,10 +11,14 @@
     "geom:longitude":5.626201,
     "gn:country":"NG",
     "gn:fcode":"PPLA",
-    "gn:pop":1125058,
+    "gn:population":1125058,
     "iso:country":"NG",
+    "lbl:bbox":"5.606201,6.318587,5.646201,6.358587",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Benin-stad"
@@ -182,7 +186,7 @@
         "Benin City"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0ba9\u0bbf\u0ba9\u0bcd  \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+        "\u0baa\u0bc6\u0ba9\u0bbf\u0ba9\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c28\u0c3f\u0c28\u0c4d \u0c28\u0c17\u0c30\u0c02"
@@ -196,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0456\u043d-\u0421\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Benim"
     ],
     "name:urd_x_preferred":[
@@ -250,12 +254,12 @@
     "wof:concordances":{
         "gn:id":2347283,
         "gp:id":1387660,
-        "qs:id":1115976,
+        "qs_pg:id":1115976,
         "wd:id":"Q320704",
         "wk:page":"Benin City"
     },
     "wof:concordances_alt":{
-        "qs:id":1035080
+        "qs_pg:id":1035080
     },
     "wof:country":"NG",
     "wof:created":1459009634,
@@ -270,7 +274,7 @@
         }
     ],
     "wof:id":421189725,
-    "wof:lastmodified":1563329008,
+    "wof:lastmodified":1566654449,
     "wof:name":"Benin City",
     "wof:parent_id":421188929,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.7035,
     "lbl:longitude":6.663471,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Niger",
     "meso:diss_me":"LapaiNiger",
     "meso:gadm_admin":"Lapai",
@@ -31,6 +33,7 @@
     "mps:longitude":6.663471,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Lapai"
     ],
@@ -59,9 +62,9 @@
         "\u0644\u0627\u067e\u0627\u06cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"3,051.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Lapai",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108563895,
-    "wof:lastmodified":1564217364,
+    "wof:lastmodified":1566653561,
     "wof:name":"Lapai",
     "wof:parent_id":85675349,
     "wof:placetype":"county",

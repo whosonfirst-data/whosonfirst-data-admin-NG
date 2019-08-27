@@ -10,8 +10,12 @@
     "geom:latitude":6.7,
     "geom:longitude":11.26667,
     "iso:country":"NG",
+    "lbl:bbox":"11.24667,6.68,11.28667,6.72",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0413\u0435\u043c\u0431\u0443"
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2341275,
         "gp:id":1392194,
-        "qs:id":183545,
+        "qs_pg:id":183545,
         "wd:id":"Q5530585",
         "wk:page":"Gembu, Nigeria"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421169461,
-    "wof:lastmodified":1563328992,
+    "wof:lastmodified":1566654444,
     "wof:name":"Gembu",
     "wof:parent_id":1108564339,
     "wof:placetype":"locality",

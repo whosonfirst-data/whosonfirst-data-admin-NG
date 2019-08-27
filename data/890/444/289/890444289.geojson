@@ -11,8 +11,11 @@
     "geom:longitude":7.7227,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":975153,
+    "gn:population":975153,
     "iso:country":"NG",
+    "lbl:bbox":"7.7027,11.09128,7.7427,11.13128",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -301,10 +304,12 @@
     "wof:concordances":{
         "gn:id":2317765,
         "gp:id":1409789,
-        "qs:id":1034951,
-        "qs_pg:id":1116264,
+        "qs_pg:id":1034951,
         "wd:id":"Q147975",
         "wk:page":"Zaria"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116264
     },
     "wof:country":"NG",
     "wof:created":1469052464,
@@ -319,7 +324,7 @@
         }
     ],
     "wof:id":890444289,
-    "wof:lastmodified":1563329087,
+    "wof:lastmodified":1566654475,
     "wof:name":"Zaria",
     "wof:parent_id":1108564315,
     "wof:placetype":"locality",

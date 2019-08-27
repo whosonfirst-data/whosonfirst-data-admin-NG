@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"11.95813,8.95722,11.99813,8.99722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10866642
     },
     "wof:country":"NG",
-    "wof:geomhash":"4558741c4d76ad892fea448ac0f91702",
+    "wof:geomhash":"7fb5fff3538ca16a256b72fa86bcb4ca",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209368267,
-    "wof:lastmodified":1536289195,
+    "wof:lastmodified":1566652221,
     "wof:name":"Gurei",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     11.97813,
-    8.977219999999997,
+    8.97722,
     11.97813,
-    8.977219999999997
+    8.97722
 ],
   "geometry": {"coordinates":[11.97813,8.97722],"type":"Point"}
 }

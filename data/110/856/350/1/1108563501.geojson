@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.599574,
     "lbl:longitude":3.468508,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Oyo",
     "meso:diss_me":"Ibarapa EastOyo",
     "meso:gadm_admin":"Ibarapa East",
@@ -31,6 +33,7 @@
     "mps:longitude":3.468508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ibarapa East"
     ],
@@ -54,9 +57,9 @@
         "Ibarapa East"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"838.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Eruwa",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108563501,
-    "wof:lastmodified":1564217306,
+    "wof:lastmodified":1566653505,
     "wof:name":"Ibarapa East",
     "wof:parent_id":85675371,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":12.14358,
     "geom:longitude":5.10809,
     "iso:country":"NG",
+    "lbl:bbox":"5.08809,12.12358,5.12809,12.16358",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cym_x_preferred":[
         "Melysion jeli"
@@ -58,7 +62,7 @@
     "name:spa_x_preferred":[
         "Gummi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gunmi"
     ],
     "name:yor_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":2340086,
         "gp:id":56123039,
-        "qs:id":542404,
+        "qs_pg:id":542404,
         "wd:id":"Q13140441"
     },
     "wof:country":"NG",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421182035,
-    "wof:lastmodified":1563329057,
+    "wof:lastmodified":1566654467,
     "wof:name":"Gummi",
     "wof:parent_id":1108563449,
     "wof:placetype":"locality",

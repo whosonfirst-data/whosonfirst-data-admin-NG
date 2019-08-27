@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.70234,5.14814,7.74234,5.18814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2337063
     },
     "wof:country":"NG",
-    "wof:geomhash":"fd8f3ec83efd98e9ac057679599c39d6",
+    "wof:geomhash":"bdffb13a4d38aba579f36f8d8e184370",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209489311,
-    "wof:lastmodified":1536285536,
+    "wof:lastmodified":1566652383,
     "wof:name":"Itak Udara",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.722339999999999,
+    7.72234,
     5.16814,
-    7.722339999999999,
+    7.72234,
     5.16814
 ],
   "geometry": {"coordinates":[7.72234,5.16814],"type":"Point"}

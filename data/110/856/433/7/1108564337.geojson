@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.841837,
     "lbl:longitude":5.65247,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Delta",
     "meso:diss_me":"SapeleDelta",
     "meso:gadm_admin":"Sapele",
@@ -31,6 +33,7 @@
     "mps:longitude":5.65247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Sapel\u00b7li"
     ],
@@ -86,9 +89,9 @@
         "Entandrophragma cylindricum"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"450.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Sapele",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108564337,
-    "wof:lastmodified":1564217348,
+    "wof:lastmodified":1566653539,
     "wof:name":"Sapele",
     "wof:parent_id":85675387,
     "wof:placetype":"county",

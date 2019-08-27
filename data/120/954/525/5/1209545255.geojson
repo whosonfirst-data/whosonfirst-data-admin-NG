@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.04667,12.63,5.08667,12.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2322580
     },
     "wof:country":"NG",
-    "wof:geomhash":"6a86fcabf0f77e39ad0b4284b6f5362e",
+    "wof:geomhash":"41104ee45f3aa38aeafd9d041dd662bf",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209545255,
-    "wof:lastmodified":1536283862,
+    "wof:lastmodified":1566652274,
     "wof:name":"Takalmawa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.0666699999999985,
+    5.06667,
     12.65,
-    5.0666699999999985,
+    5.06667,
     12.65
 ],
   "geometry": {"coordinates":[5.06667,12.65],"type":"Point"}

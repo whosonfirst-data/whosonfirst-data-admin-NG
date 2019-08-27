@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.13261,4.71567,7.17261,4.75567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7052991
     },
     "wof:country":"NG",
-    "wof:geomhash":"ae2378adf6fe1a2e5cf2d4a6c5a05aff",
+    "wof:geomhash":"856b51f8c283c38db24b02d5cb587c60",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209138951,
-    "wof:lastmodified":1536296568,
+    "wof:lastmodified":1566652538,
     "wof:name":"Yaa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.152610000000001,
+    7.15261,
     4.73567,
-    7.152610000000001,
+    7.15261,
     4.73567
 ],
   "geometry": {"coordinates":[7.15261,4.73567],"type":"Point"}

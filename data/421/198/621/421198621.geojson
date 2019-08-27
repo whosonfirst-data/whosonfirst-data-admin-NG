@@ -10,13 +10,17 @@
     "geom:latitude":10.22629,
     "geom:longitude":10.15132,
     "iso:country":"NG",
+    "lbl:bbox":"10.13132,10.20629,10.17132,10.24629",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Dindima"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dindawa"
     ],
     "qs:gn_country":"NG",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2344804,
         "gp:id":1507581,
-        "qs:id":183874
+        "qs_pg:id":183874
     },
     "wof:country":"NG",
     "wof:created":1459009954,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421198621,
-    "wof:lastmodified":1505340756,
+    "wof:lastmodified":1566654454,
     "wof:name":"Dindima",
     "wof:parent_id":1108563101,
     "wof:placetype":"locality",

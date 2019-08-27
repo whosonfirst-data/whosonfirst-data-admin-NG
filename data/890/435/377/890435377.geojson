@@ -11,8 +11,11 @@
     "geom:longitude":3.35,
     "gn:country":"NG",
     "gn:fcode":"PPLA",
-    "gn:pop":593100,
+    "gn:population":593100,
     "iso:country":"NG",
+    "lbl:bbox":"3.33,7.13,3.37,7.17",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -346,10 +349,12 @@
     "wof:concordances":{
         "gn:id":2352947,
         "gp:id":1383593,
-        "qs:id":274203,
-        "qs_pg:id":563381,
+        "qs_pg:id":274203,
         "wd:id":"Q206484",
         "wk:page":"Abeokuta"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":563381
     },
     "wof:country":"NG",
     "wof:created":1469052065,
@@ -364,7 +369,7 @@
         }
     ],
     "wof:id":890435377,
-    "wof:lastmodified":1563329116,
+    "wof:lastmodified":1566654487,
     "wof:name":"Abeokuta",
     "wof:parent_id":1108562907,
     "wof:placetype":"locality",

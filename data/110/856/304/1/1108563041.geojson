@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.464671,
     "lbl:longitude":4.786979,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Osun",
     "meso:diss_me":"Atakumosa EastOsun",
     "meso:gadm_admin":"Atakumosa East",
@@ -31,6 +33,7 @@
     "mps:longitude":4.786979,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Atakunmosa East"
     ],
@@ -39,9 +42,9 @@
         "Atakumosa East"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"238.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Iperindo",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108563041,
-    "wof:lastmodified":1553718141,
+    "wof:lastmodified":1566653507,
     "wof:name":"Atakumosa East",
     "wof:parent_id":85675367,
     "wof:placetype":"county",

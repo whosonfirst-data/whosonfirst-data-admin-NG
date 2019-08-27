@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.077033,
     "lbl:longitude":7.351415,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Abia",
     "meso:diss_me":"Aba SouthAbia",
     "meso:gadm_admin":"Aba South",
@@ -31,6 +33,7 @@
     "mps:longitude":7.351415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Aba South"
     ],
@@ -60,9 +63,9 @@
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u0410\u0431\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"49.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Aba",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108562897,
-    "wof:lastmodified":1564217242,
+    "wof:lastmodified":1566653463,
     "wof:name":"Aba South",
     "wof:parent_id":85675305,
     "wof:placetype":"county",

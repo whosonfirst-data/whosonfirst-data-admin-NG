@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.622508,
     "lbl:longitude":6.567184,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Zamfara",
     "meso:diss_me":"GusauZamfara",
     "meso:gadm_admin":"Maru",
@@ -31,6 +33,7 @@
     "mps:longitude":6.567184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0633\u0627\u0648"
     ],
@@ -114,9 +117,9 @@
         "Gusau"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"3,364.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Gusau",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108563455,
-    "wof:lastmodified":1564217366,
+    "wof:lastmodified":1566653561,
     "wof:name":"Gusau",
     "wof:parent_id":85675439,
     "wof:placetype":"county",

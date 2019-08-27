@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.35933,6.63234,3.39933,6.67234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2330568
     },
     "wof:country":"NG",
-    "wof:geomhash":"36f03ca2293898fffb2cf9afa9530aae",
+    "wof:geomhash":"d8358704960eb79f228ce0c1999064ed",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209296383,
-    "wof:lastmodified":1536291511,
+    "wof:lastmodified":1566652763,
     "wof:name":"Mawere",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.3793300000000004,
+    3.37933,
     6.65234,
-    3.3793300000000004,
+    3.37933,
     6.65234
 ],
   "geometry": {"coordinates":[3.37933,6.65234],"type":"Point"}

@@ -10,8 +10,12 @@
     "geom:latitude":12.45167,
     "geom:longitude":7.49805,
     "iso:country":"NG",
+    "lbl:bbox":"7.47805,12.43167,7.51805,12.47167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dutsin-Ma"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Dutsin-Ma"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dutsin Wai"
     ],
     "name:yor_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2344217,
         "gp:id":1389949,
-        "qs:id":139747,
+        "qs_pg:id":139747,
         "wd:id":"Q5317533",
         "wk:page":"Dutsin-Ma"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421178835,
-    "wof:lastmodified":1563329051,
+    "wof:lastmodified":1566654465,
     "wof:name":"Dutsin Ma",
     "wof:parent_id":1108563251,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.418101,
     "lbl:longitude":8.762319,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Benue",
     "mps:latitude":7.402394,
     "mps:longitude":8.777689,
@@ -197,9 +198,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0443\u0435"
     ],
-    "name:unk_x_variant":[
-        "Benue State"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0646\u0648\u06d2 \u0631\u06cc\u0627\u0633\u062a"
     ],
@@ -287,9 +285,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"30,755",
     "statoids:area_mi":"11,875",
     "statoids:as_of_date":"2006-03-21",
@@ -315,7 +313,7 @@
         "gp:id":2346354,
         "hasc:id":"NG.BE",
         "iso:id":"NG-BE",
-        "qs:id":1097045,
+        "qs_pg:id":1097045,
         "unlc:id":"NG-BE",
         "wd:id":"Q429908",
         "wk:page":"Benue State"
@@ -338,11 +336,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731423,
+    "wof:lastmodified":1566650853,
     "wof:name":"Benue",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":4219244,
     "wof:population_rank":12,

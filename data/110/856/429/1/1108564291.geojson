@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.181231,
     "lbl:longitude":6.205746,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Niger",
     "meso:diss_me":"RafiNiger",
     "meso:gadm_admin":"Rafi",
@@ -31,6 +33,7 @@
     "mps:longitude":6.205746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "R\u0259fi"
     ],
@@ -62,9 +65,9 @@
         "\u0420\u0430\u0444\u0456"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"3,680.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Kagara",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108564291,
-    "wof:lastmodified":1564217334,
+    "wof:lastmodified":1566653525,
     "wof:name":"Rafi",
     "wof:parent_id":85675349,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.933633,
     "lbl:longitude":8.539501,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Katsina",
     "meso:diss_me":"ZangoKatsina",
     "meso:gadm_admin":"Zango",
@@ -31,6 +33,7 @@
     "mps:longitude":8.539501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Zango"
     ],
@@ -50,9 +53,9 @@
         "Zango"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"601.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Zango",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564557,
-    "wof:lastmodified":1564217263,
+    "wof:lastmodified":1566653477,
     "wof:name":"Zango",
     "wof:parent_id":85675429,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.47513,9.3061,6.51513,9.3461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10317320
     },
     "wof:country":"NG",
-    "wof:geomhash":"f0e74b399302c7944b560f504a2f63a3",
+    "wof:geomhash":"94e165214b8607c2ca6b5d79c356fc29",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209343973,
-    "wof:lastmodified":1536289973,
+    "wof:lastmodified":1566652719,
     "wof:name":"Dogon Ruwa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.4951300000000005,
+    6.49513,
     9.3261,
-    6.4951300000000005,
+    6.49513,
     9.3261
 ],
   "geometry": {"coordinates":[6.49513,9.3261],"type":"Point"}

@@ -11,8 +11,11 @@
     "geom:longitude":4.1975,
     "gn:country":"NG",
     "gn:fcode":"PPLA",
-    "gn:pop":108164,
+    "gn:population":108164,
     "iso:country":"NG",
+    "lbl:bbox":"4.1775,12.43389,4.2175,12.47389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":2347059,
         "gp:id":1387841,
-        "qs:id":139753,
+        "qs_pg:id":139753,
         "wd:id":"Q865828",
         "wk:page":"Birnin Kebbi"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890451643,
-    "wof:lastmodified":1563329101,
+    "wof:lastmodified":1566654481,
     "wof:name":"Birnin Kebbi",
     "wof:parent_id":1108563127,
     "wof:placetype":"locality",

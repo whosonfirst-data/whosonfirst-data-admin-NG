@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.437166,
     "lbl:longitude":9.272891,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Bauchi",
     "meso:diss_me":"ToroBauchi",
     "meso:gadm_admin":"Toro",
@@ -31,6 +33,7 @@
     "mps:longitude":9.272891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Toro"
     ],
@@ -125,9 +128,9 @@
         "Toro"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"6,932.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Toro",
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1108564415,
-    "wof:lastmodified":1564217247,
+    "wof:lastmodified":1566653466,
     "wof:name":"Toro",
     "wof:parent_id":85675379,
     "wof:placetype":"county",

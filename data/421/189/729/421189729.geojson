@@ -11,10 +11,14 @@
     "geom:longitude":8.885879,
     "gn:country":"NG",
     "gn:fcode":"PPLA",
-    "gn:pop":816824,
+    "gn:population":816824,
     "iso:country":"NG",
+    "lbl:bbox":"8.865879,9.903114,8.905879,9.943114",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Jos"
@@ -233,13 +237,13 @@
     "wof:concordances":{
         "gn:id":2335953,
         "gp:id":1396269,
-        "qs:id":1116020,
+        "qs_pg:id":1116020,
         "wd:id":"Q321079",
         "wk:page":"Jos"
     },
     "wof:concordances_alt":{
         "gp:id":56125639,
-        "qs:id":1035024
+        "qs_pg:id":1035024
     },
     "wof:country":"NG",
     "wof:created":1459009634,
@@ -254,7 +258,7 @@
         }
     ],
     "wof:id":421189729,
-    "wof:lastmodified":1563329010,
+    "wof:lastmodified":1566654450,
     "wof:name":"Jos",
     "wof:parent_id":1108563731,
     "wof:placetype":"locality",

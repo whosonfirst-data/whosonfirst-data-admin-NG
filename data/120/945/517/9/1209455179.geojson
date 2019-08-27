@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"12.25187,8.92907,12.29187,8.96907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2329410
     },
     "wof:country":"NG",
-    "wof:geomhash":"8b9b3cd1064f2f01fa5b525a85439015",
+    "wof:geomhash":"c10d6c2751f3d734668b38d110aee6e9",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209455179,
-    "wof:lastmodified":1536286554,
+    "wof:lastmodified":1566652819,
     "wof:name":"Natirdi Mbulo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     12.27187,
-    8.949069999999997,
+    8.94907,
     12.27187,
-    8.949069999999997
+    8.94907
 ],
   "geometry": {"coordinates":[12.27187,8.94907],"type":"Point"}
 }

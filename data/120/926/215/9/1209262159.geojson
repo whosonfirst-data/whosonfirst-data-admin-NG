@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.58119,7.25051,8.62119,7.29051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2344937
     },
     "wof:country":"NG",
-    "wof:geomhash":"e54e38f27009c05f5169ce34d2079ff2",
+    "wof:geomhash":"6e198b9e419f24a151e3dfcb26dccdf5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209262159,
-    "wof:lastmodified":1536292652,
+    "wof:lastmodified":1566652843,
     "wof:name":"Denji",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.601189999999999,
-    7.270510000000002,
-    8.601189999999999,
-    7.270510000000002
+    8.60119,
+    7.27051,
+    8.60119,
+    7.27051
 ],
   "geometry": {"coordinates":[8.60119,7.27051],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.92046,4.98155,7.96046,5.02155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7075286
     },
     "wof:country":"NG",
-    "wof:geomhash":"56dea4805e70f089fdf75cb21a65c21e",
+    "wof:geomhash":"5e5812cabdc38adfc63102e15a7f44c3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209080111,
-    "wof:lastmodified":1536298366,
+    "wof:lastmodified":1566652322,
     "wof:name":"Itiam Ikot Ebia",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.940460000000002,
+    7.94046,
     5.00155,
-    7.940460000000002,
+    7.94046,
     5.00155
 ],
   "geometry": {"coordinates":[7.94046,5.00155],"type":"Point"}

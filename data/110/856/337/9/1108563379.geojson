@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.15495,
     "lbl:longitude":8.862461,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kano",
     "meso:diss_me":"GabasawaKano",
     "meso:gadm_admin":"Gabasawa",
@@ -31,6 +33,7 @@
     "mps:longitude":8.862461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gabasawa"
     ],
@@ -53,9 +56,9 @@
         "Gabasawa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"605.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Zakirai",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108563379,
-    "wof:lastmodified":1564217222,
+    "wof:lastmodified":1566653450,
     "wof:name":"Gabasawa",
     "wof:parent_id":85675425,
     "wof:placetype":"county",

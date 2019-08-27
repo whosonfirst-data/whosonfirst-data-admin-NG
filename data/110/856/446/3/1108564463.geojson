@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.593542,
     "lbl:longitude":7.478168,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Abia",
     "meso:diss_me":"Umuahia NorthAbia",
     "meso:gadm_admin":"Umuahia North",
@@ -31,6 +33,7 @@
     "mps:longitude":7.478168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Umuahia North"
     ],
@@ -57,9 +60,9 @@
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u0423\u043c\u0443\u0430\u0445\u0456\u044f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"245.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Umuahia",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108564463,
-    "wof:lastmodified":1564217245,
+    "wof:lastmodified":1566653465,
     "wof:name":"Umuahia North",
     "wof:parent_id":85675305,
     "wof:placetype":"county",

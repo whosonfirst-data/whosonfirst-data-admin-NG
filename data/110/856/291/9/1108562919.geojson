@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.609469,
     "lbl:longitude":5.279953,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ekiti",
     "meso:diss_me":"Ado EkitiEkiti",
     "meso:gadm_admin":"Ado-Ekiti",
@@ -31,6 +33,7 @@
     "mps:longitude":5.279953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u062f\u0648 \u0627\u06a9\u06cc\u062a\u06cc"
     ],
@@ -129,9 +132,9 @@
         "\u963f\u591a\u57c3\u57fa\u8482"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"293.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ado Ekiti",
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1108562919,
-    "wof:lastmodified":1564217347,
+    "wof:lastmodified":1566653538,
     "wof:name":"Ado Ekiti",
     "wof:parent_id":85675361,
     "wof:placetype":"county",

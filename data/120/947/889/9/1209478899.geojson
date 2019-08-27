@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.75993,6.91079,3.79993,6.95079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2349489
     },
     "wof:country":"NG",
-    "wof:geomhash":"3190670b680c7d54ffbccba050c8b782",
+    "wof:geomhash":"7c438f19471cb2fcce0f8093fa87e833",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209478899,
-    "wof:lastmodified":1536285847,
+    "wof:lastmodified":1566652493,
     "wof:name":"Araromi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.77993,
-    6.930789999999999,
+    6.93079,
     3.77993,
-    6.930789999999999
+    6.93079
 ],
   "geometry": {"coordinates":[3.77993,6.93079],"type":"Point"}
 }

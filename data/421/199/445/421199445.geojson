@@ -10,8 +10,12 @@
     "geom:latitude":4.85678,
     "geom:longitude":6.64417,
     "iso:country":"NG",
+    "lbl:bbox":"6.62417,4.83678,6.66417,4.87678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Abua"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2352797,
         "gp:id":1383713,
-        "qs:id":193769,
+        "qs_pg:id":193769,
         "wd:id":"Q4670476"
     },
     "wof:country":"NG",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421199445,
-    "wof:lastmodified":1561766819,
+    "wof:lastmodified":1566654461,
     "wof:name":"Abua",
     "wof:parent_id":1108562915,
     "wof:placetype":"locality",

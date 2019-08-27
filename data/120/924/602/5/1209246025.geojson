@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.85376,12.01674,6.89376,12.05674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2333784
     },
     "wof:country":"NG",
-    "wof:geomhash":"c9200154b8571085d5950ee4562f175b",
+    "wof:geomhash":"355cd1e3208d455d8aa9105f011d5f2b",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209246025,
-    "wof:lastmodified":1536293162,
+    "wof:lastmodified":1566652465,
     "wof:name":"Kpuntu",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.873760000000001,
+    6.87376,
     12.03674,
-    6.873760000000001,
+    6.87376,
     12.03674
 ],
   "geometry": {"coordinates":[6.87376,12.03674],"type":"Point"}

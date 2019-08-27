@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":8.189686,
     "lbl:longitude":3.549808,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Oyo",
     "mps:latitude":8.166674,
     "mps:longitude":3.536703,
@@ -153,7 +154,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yoruba Central State"
     ],
     "name:urd_x_preferred":[
@@ -237,9 +238,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"27,036",
     "statoids:area_mi":"10,438",
     "statoids:as_of_date":"2006-03-21",
@@ -265,7 +266,7 @@
         "gp:id":2346360,
         "hasc:id":"NG.OY",
         "iso:id":"NG-OY",
-        "qs:id":1135186,
+        "qs_pg:id":1135186,
         "unlc:id":"NG-OY",
         "wd:id":"Q503905",
         "wk:page":"Oyo State"
@@ -288,11 +289,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731423,
+    "wof:lastmodified":1566650852,
     "wof:name":"Oyo",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":5591589,
     "wof:population_rank":13,

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.13548,7.11147,9.17548,7.15147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9638237
     },
     "wof:country":"NG",
-    "wof:geomhash":"06ae5e042d9a98c5ec2151696d67b6ac",
+    "wof:geomhash":"71e52d09fa535685849fcf16f3d8cf81",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209268843,
-    "wof:lastmodified":1536292431,
+    "wof:lastmodified":1566652842,
     "wof:name":"Tseangor",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.15548,
-    7.131469999999998,
+    7.13147,
     9.15548,
-    7.131469999999998
+    7.13147
 ],
   "geometry": {"coordinates":[9.15548,7.13147],"type":"Point"}
 }

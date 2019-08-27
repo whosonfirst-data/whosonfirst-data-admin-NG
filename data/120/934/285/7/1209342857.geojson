@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.83149,11.85391,6.87149,11.89391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":7034139
     },
     "wof:country":"NG",
-    "wof:geomhash":"73f695258689758111241331f04d76cc",
+    "wof:geomhash":"26478bba3a40a3007debaee68b2f0cb9",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209342857,
-    "wof:lastmodified":1536290008,
+    "wof:lastmodified":1566652737,
     "wof:name":"Kahaure",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.851489999999999,
+    6.85149,
     11.87391,
-    6.851489999999999,
+    6.85149,
     11.87391
 ],
   "geometry": {"coordinates":[6.85149,11.87391],"type":"Point"}

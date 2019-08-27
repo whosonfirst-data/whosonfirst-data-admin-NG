@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.33,5.46333,7.37,5.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2342888
     },
     "wof:country":"NG",
-    "wof:geomhash":"787aab5f35bd34e12da9653febdaf85b",
+    "wof:geomhash":"1dae35b38198bdf0cd2b0240c63354f4",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209476279,
-    "wof:lastmodified":1536285926,
+    "wof:lastmodified":1566652493,
     "wof:name":"Eziudo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     7.35,
-    5.4833300000000005,
+    5.48333,
     7.35,
-    5.4833300000000005
+    5.48333
 ],
   "geometry": {"coordinates":[7.35,5.48333],"type":"Point"}
 }

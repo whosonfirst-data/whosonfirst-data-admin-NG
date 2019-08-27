@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.60032,7.26076,8.64032,7.30076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2341496
     },
     "wof:country":"NG",
-    "wof:geomhash":"352dcf77b05980d7d14f85c7bf9bbc1d",
+    "wof:geomhash":"bc11064ead6c9a08a04f8dacdccddbf3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209181299,
-    "wof:lastmodified":1536295249,
+    "wof:lastmodified":1566652774,
     "wof:name":"Gbakpee",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.62032,
-    7.280760000000001,
+    7.28076,
     8.62032,
-    7.280760000000001
+    7.28076
 ],
   "geometry": {"coordinates":[8.62032,7.28076],"type":"Point"}
 }

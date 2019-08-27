@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.980323,
     "lbl:longitude":6.764637,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Rivers",
     "meso:diss_me":"EmohuaRivers",
     "meso:gadm_admin":"Emuoha",
@@ -31,6 +33,7 @@
     "mps:longitude":6.764637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Emuoha"
     ],
@@ -50,9 +53,9 @@
         "Emuoha"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"831.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Emuoha",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563303,
-    "wof:lastmodified":1564217222,
+    "wof:lastmodified":1566653449,
     "wof:name":"Emohua",
     "wof:parent_id":85675317,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.690393,
     "lbl:longitude":7.055806,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Imo",
     "meso:diss_me":"IsuImo",
     "meso:gadm_admin":"Isu",
@@ -31,6 +33,7 @@
     "mps:longitude":7.055806,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Isu"
     ],
@@ -39,9 +42,9 @@
         "Isu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"40.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Umundugba",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108563693,
-    "wof:lastmodified":1553718151,
+    "wof:lastmodified":1566653510,
     "wof:name":"Isu",
     "wof:parent_id":85675315,
     "wof:placetype":"county",

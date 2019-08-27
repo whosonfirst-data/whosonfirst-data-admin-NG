@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.13787,6.0774,8.17787,6.1174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9274666
     },
     "wof:country":"NG",
-    "wof:geomhash":"c3cae314d3d5b16581d507a402354516",
+    "wof:geomhash":"43887981b4a278ca20175b5d6567bbd5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209135473,
-    "wof:lastmodified":1536296674,
+    "wof:lastmodified":1566652559,
     "wof:name":"Ama-Okpo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.157869999999999,
+    8.15787,
     6.0974,
-    8.157869999999999,
+    8.15787,
     6.0974
 ],
   "geometry": {"coordinates":[8.15787,6.0974],"type":"Point"}

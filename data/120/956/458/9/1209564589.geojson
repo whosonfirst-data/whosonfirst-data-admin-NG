@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.29667,8.74667,4.33667,8.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2325127
     },
     "wof:country":"NG",
-    "wof:geomhash":"5c82df9319d088f1ab75e4ce66eec21f",
+    "wof:geomhash":"92baefb4b09954d44f98dad7455135aa",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209564589,
-    "wof:lastmodified":1536283285,
+    "wof:lastmodified":1566652697,
     "wof:name":"Paiye",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.3166699999999985,
+    4.31667,
     8.76667,
-    4.3166699999999985,
+    4.31667,
     8.76667
 ],
   "geometry": {"coordinates":[4.31667,8.76667],"type":"Point"}

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.9574,7.06503,8.9974,7.10503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2352678
     },
     "wof:country":"NG",
-    "wof:geomhash":"79a422f23c6d7c7a12323242da5b1b07",
+    "wof:geomhash":"b5de8afdd4e205d60e94765cf048494e",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209682839,
-    "wof:lastmodified":1536279514,
+    "wof:lastmodified":1566652578,
     "wof:name":"Achil",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.9774,
-    7.0850300000000015,
+    7.08503,
     8.9774,
-    7.0850300000000015
+    7.08503
 ],
   "geometry": {"coordinates":[8.9774,7.08503],"type":"Point"}
 }

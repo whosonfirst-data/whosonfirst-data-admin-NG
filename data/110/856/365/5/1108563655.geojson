@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.171645,
     "lbl:longitude":4.868559,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kwara",
     "meso:diss_me":"IrepodunKwara",
     "meso:gadm_admin":"Irepodun",
@@ -31,6 +33,7 @@
     "mps:longitude":4.868559,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Irepodun"
     ],
@@ -50,7 +53,7 @@
         "Irepodun"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108563655,
-    "wof:lastmodified":1564217216,
+    "wof:lastmodified":1566653444,
     "wof:name":"Irepodun",
     "wof:parent_id":85675339,
     "wof:placetype":"county",

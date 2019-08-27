@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.48722,9.61195,6.52722,9.65195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10410172
     },
     "wof:country":"NG",
-    "wof:geomhash":"070a4bbd57dab052a2d396ef1243175c",
+    "wof:geomhash":"8fedf071d3add26b4585743bdbbb99ef",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209241249,
-    "wof:lastmodified":1536293313,
+    "wof:lastmodified":1566652482,
     "wof:name":"Kwalkwata",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.5072199999999984,
+    6.50722,
     9.63195,
-    6.5072199999999984,
+    6.50722,
     9.63195
 ],
   "geometry": {"coordinates":[6.50722,9.63195],"type":"Point"}

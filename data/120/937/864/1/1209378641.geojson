@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.04667,7.29667,3.08667,7.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2332243
     },
     "wof:country":"NG",
-    "wof:geomhash":"cb80e97845cc67fea4878341e57d573f",
+    "wof:geomhash":"572c0876ebec945123314a47d063b4d4",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209378641,
-    "wof:lastmodified":1536288861,
+    "wof:lastmodified":1566652328,
     "wof:name":"Lapido",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.06667,
-    7.3166699999999985,
+    7.31667,
     3.06667,
-    7.3166699999999985
+    7.31667
 ],
   "geometry": {"coordinates":[3.06667,7.31667],"type":"Point"}
 }

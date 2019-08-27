@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.482199,
     "lbl:longitude":6.159657,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kogi",
     "meso:diss_me":"Ogori/MangongoKogi",
     "meso:gadm_admin":"Okene",
@@ -31,6 +33,7 @@
     "mps:longitude":6.159657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ogori/Mangongo"
     ],
@@ -38,7 +41,7 @@
         "Okene"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108564123,
-    "wof:lastmodified":1555047488,
+    "wof:lastmodified":1566653468,
     "wof:name":"Ogori/Mangongo",
     "wof:parent_id":85675407,
     "wof:placetype":"county",

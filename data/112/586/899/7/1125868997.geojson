@@ -9,17 +9,20 @@
     "geom:bbox":"9.63989,11.34873,9.63989,11.34873",
     "geom:latitude":11.34873,
     "geom:longitude":9.63989,
-    "gn:gn_country":"NG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8087,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
     "gn:population":8087,
     "iso:country":"NG",
+    "lbl:bbox":"9.61989,11.32873,9.65989,11.36873",
     "lbl:latitude":11.34873,
     "lbl:longitude":9.63989,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samammiya"
     ],
     "qs_pg:aaroncc":"NG",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":139580,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125868997,
-    "wof:lastmodified":1509397176,
+    "wof:lastmodified":1566654492,
     "wof:name":"Samamiya",
     "wof:parent_id":1108563125,
     "wof:placetype":"locality",

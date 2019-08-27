@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.35351,
     "lbl:longitude":9.650146,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Jigawa",
     "mps:latitude":12.316797,
     "mps:longitude":9.654513,
@@ -171,7 +172,7 @@
         "Jigawa"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bbf\u0b95\u0bb5\u0bbe  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b9c\u0bbf\u0b95\u0bb5\u0bbe \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c17\u0c3e\u0c35\u0c3e \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -184,9 +185,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0438\u0433\u0430\u0432\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Jigawa State"
     ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u06af\u0627\u0648\u0627 \u0631\u06cc\u0627\u0633\u062a"
@@ -272,9 +270,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"23,415",
     "statoids:area_mi":"9,041",
     "statoids:as_of_date":"2006-03-21",
@@ -299,7 +297,7 @@
         "gp:id":2346367,
         "hasc:id":"NG.JI",
         "iso:id":"NG-JI",
-        "qs:id":496858,
+        "qs_pg:id":496858,
         "unlc:id":"NG-JI",
         "wd:id":"Q682691",
         "wk:page":"Jigawa State"
@@ -322,11 +320,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731420,
+    "wof:lastmodified":1566650845,
     "wof:name":"Jigawa",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":4348649,
     "wof:population_rank":12,

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.468929,
     "lbl:longitude":8.002764,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Benue",
     "meso:diss_me":"OturkpoBenue",
     "meso:gadm_admin":"Oturkpo",
@@ -31,6 +33,7 @@
     "mps:longitude":8.002764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Oturkpo"
     ],
@@ -38,9 +41,9 @@
         "Oturkpo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,269.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Oturpko",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108564239,
-    "wof:lastmodified":1553718160,
+    "wof:lastmodified":1566653469,
     "wof:name":"Oturkpo",
     "wof:parent_id":85675325,
     "wof:placetype":"county",

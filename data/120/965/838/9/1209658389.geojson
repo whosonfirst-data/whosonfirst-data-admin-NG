@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.11423,5.16356,6.15423,5.20356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7100803
     },
     "wof:country":"NG",
-    "wof:geomhash":"6f820a68f404fede661d1c7b8ae02528",
+    "wof:geomhash":"d8887adc933df5e4bdbb938ed19a5566",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209658389,
-    "wof:lastmodified":1536280350,
+    "wof:lastmodified":1566652296,
     "wof:name":"Obagbagha",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.1342300000000005,
+    6.13423,
     5.18356,
-    6.1342300000000005,
+    6.13423,
     5.18356
 ],
   "geometry": {"coordinates":[6.13423,5.18356],"type":"Point"}

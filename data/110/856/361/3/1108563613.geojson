@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.092119,
     "lbl:longitude":8.212525,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ebonyi",
     "meso:diss_me":"IkwoEbonyi",
     "meso:gadm_admin":"Ikwo",
@@ -31,6 +33,7 @@
     "mps:longitude":8.212525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ikwo"
     ],
@@ -38,9 +41,9 @@
         "Ikwo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"577.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Echara-Anuaboyi",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108563613,
-    "wof:lastmodified":1553718150,
+    "wof:lastmodified":1566653502,
     "wof:name":"Ikwo",
     "wof:parent_id":85675399,
     "wof:placetype":"county",

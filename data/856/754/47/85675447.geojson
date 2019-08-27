@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.07852,
     "lbl:longitude":4.100179,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Kebbi",
     "mps:latitude":11.521516,
     "mps:longitude":4.069754,
@@ -168,7 +169,7 @@
         "Kebbi"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b95\u0bc7\u0baa\u0bcd\u0baa\u0bbf \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c46\u0c2c\u0c4d\u0c2c\u0c40 \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -181,9 +182,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0431\u0431\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Kebbi State"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0628\u06cc \u0631\u06cc\u0627\u0633\u062a"
@@ -269,9 +267,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"36,320",
     "statoids:area_mi":"14,023",
     "statoids:as_of_date":"2006-03-21",
@@ -296,7 +294,7 @@
         "gp:id":2346368,
         "hasc:id":"NG.KE",
         "iso:id":"NG-KE",
-        "qs:id":1097051,
+        "qs_pg:id":1097051,
         "unlc:id":"NG-KE",
         "wd:id":"Q748523",
         "wk:page":"Kebbi State"
@@ -319,11 +317,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731421,
+    "wof:lastmodified":1566650846,
     "wof:name":"Kebbi",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3238628,
     "wof:population_rank":12,

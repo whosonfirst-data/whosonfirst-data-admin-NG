@@ -11,11 +11,15 @@
     "geom:longitude":4.18333,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":95002,
+    "gn:population":95002,
     "iso:country":"NG",
+    "lbl:bbox":"4.16333,7.58,4.20333,7.62",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Olupono"
     ],
     "qs:name":"Olupona",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2326302,
-        "qs:id":91252
+        "qs_pg:id":91252
     },
     "wof:country":"NG",
     "wof:created":1469052781,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890451473,
-    "wof:lastmodified":1505343640,
+    "wof:lastmodified":1566654482,
     "wof:name":"Olupona",
     "wof:parent_id":1108562953,
     "wof:placetype":"locality",

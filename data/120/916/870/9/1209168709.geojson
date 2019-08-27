@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.89994,6.99322,8.93994,7.03322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2321934
     },
     "wof:country":"NG",
-    "wof:geomhash":"1c092f7a60b42cd15cd685dfb651c416",
+    "wof:geomhash":"f42f543b2053fb6937b3b29ef7229c36",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209168709,
-    "wof:lastmodified":1536295654,
+    "wof:lastmodified":1566652755,
     "wof:name":"Torzape Mange",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.919939999999997,
+    8.91994,
     7.01322,
-    8.919939999999997,
+    8.91994,
     7.01322
 ],
   "geometry": {"coordinates":[8.91994,7.01322],"type":"Point"}

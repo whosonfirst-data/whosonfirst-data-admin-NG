@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.95335,7.10786,8.99335,7.14786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2349933
     },
     "wof:country":"NG",
-    "wof:geomhash":"a98c7d9187972f471b9f0c835c3c7afb",
+    "wof:geomhash":"74d0850e47163c7914fdb33a1b486ceb",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209482313,
-    "wof:lastmodified":1536285744,
+    "wof:lastmodified":1566652389,
     "wof:name":"Andial",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.97335,
-    7.127860000000001,
+    7.12786,
     8.97335,
-    7.127860000000001
+    7.12786
 ],
   "geometry": {"coordinates":[8.97335,7.12786],"type":"Point"}
 }

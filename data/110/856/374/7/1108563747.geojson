@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.678995,
     "lbl:longitude":12.446191,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Borno",
     "meso:diss_me":"KagaBorno",
     "meso:gadm_admin":"Kaga",
@@ -31,6 +33,7 @@
     "mps:longitude":12.446191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kaga"
     ],
@@ -83,9 +86,9 @@
         "Kaga"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"2,700.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Benisheikh",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108563747,
-    "wof:lastmodified":1564217370,
+    "wof:lastmodified":1566653564,
     "wof:name":"Kaga",
     "wof:parent_id":85675301,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.443387,
     "lbl:longitude":10.534568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Taraba",
     "meso:diss_me":"GassolTaraba",
     "meso:gadm_admin":"Gassol",
@@ -31,6 +33,7 @@
     "mps:longitude":10.534568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Gassol"
     ],
@@ -54,9 +57,9 @@
         "Gassol"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"5,548.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Mutum Biyu",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108563403,
-    "wof:lastmodified":1564217295,
+    "wof:lastmodified":1566653497,
     "wof:name":"Gassol",
     "wof:parent_id":85675335,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":11.93016,
     "geom:longitude":7.41267,
     "iso:country":"NG",
+    "lbl:bbox":"7.39267,11.91016,7.43267,11.95016",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kankara"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2335219,
         "gp:id":1396793,
-        "qs:id":278519,
+        "qs_pg:id":278519,
         "wd:id":"Q6363677"
     },
     "wof:country":"NG",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421197225,
-    "wof:lastmodified":1563329036,
+    "wof:lastmodified":1566654459,
     "wof:name":"Kankara",
     "wof:parent_id":1108563769,
     "wof:placetype":"locality",

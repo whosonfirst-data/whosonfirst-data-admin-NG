@@ -10,8 +10,12 @@
     "geom:latitude":9.86667,
     "geom:longitude":6.71667,
     "iso:country":"NG",
+    "lbl:bbox":"6.69667,9.84667,6.73667,9.88667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Kuta"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":2333064,
         "gp:id":1398364,
-        "qs:id":1298023
+        "qs_pg:id":1298023
     },
     "wof:country":"NG",
     "wof:created":1459009892,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421196763,
-    "wof:lastmodified":1564218701,
+    "wof:lastmodified":1566654456,
     "wof:name":"Kuta",
     "wof:parent_id":1108564361,
     "wof:placetype":"locality",

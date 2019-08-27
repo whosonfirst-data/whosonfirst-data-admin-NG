@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.09392,12.70306,5.13392,12.74306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dandi"
     ],
@@ -46,8 +50,7 @@
         "\u0ba4\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:und_x_variant":[
-        "Dendi",
-        "Dandi"
+        "Dendi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1276903145,
-    "wof:lastmodified":1564215301,
+    "wof:lastmodified":1566652097,
     "wof:name":"Dandi",
     "wof:parent_id":1108564343,
     "wof:placetype":"locality",

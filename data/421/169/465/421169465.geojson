@@ -10,6 +10,9 @@
     "geom:latitude":10.28899,
     "geom:longitude":10.9732,
     "iso:country":"NG",
+    "lbl:bbox":"10.9532,10.26899,10.9932,10.30899",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -176,10 +179,12 @@
     "wof:concordances":{
         "gn:id":2340451,
         "gp:id":1392886,
-        "qs:id":183546,
-        "qs_pg:id":1243672,
+        "qs_pg:id":183546,
         "wd:id":"Q3510455",
         "wk:page":"Akko, Nigeria"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1243672
     },
     "wof:country":"NG",
     "wof:created":1459008811,
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":421169465,
-    "wof:lastmodified":1563328992,
+    "wof:lastmodified":1566654444,
     "wof:name":"Gombe",
     "wof:parent_id":1108562965,
     "wof:placetype":"locality",

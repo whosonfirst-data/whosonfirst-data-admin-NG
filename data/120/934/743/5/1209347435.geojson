@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.80556,10.25368,8.84556,10.29368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2335448
     },
     "wof:country":"NG",
-    "wof:geomhash":"1a7f24efdc8eab8f767a1bf44b5dc39d",
+    "wof:geomhash":"550613f026d460a20b21ebe0d9589060",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209347435,
-    "wof:lastmodified":1536289865,
+    "wof:lastmodified":1566652742,
     "wof:name":"Kakwonka",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.825560000000003,
+    8.82556,
     10.27368,
-    8.825560000000003,
+    8.82556,
     10.27368
 ],
   "geometry": {"coordinates":[8.82556,10.27368],"type":"Point"}

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.40578,5.26861,6.44578,5.30861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -34,7 +38,7 @@
         "gn:id":7100236
     },
     "wof:country":"NG",
-    "wof:geomhash":"99be8c198ca42a355fe38f273295859c",
+    "wof:geomhash":"d95397d33c4a9c900d2769c6409e9a9a",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209448115,
-    "wof:lastmodified":1536286755,
+    "wof:lastmodified":1566652863,
     "wof:name":"Oye Camp I&II",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.4257800000000005,
+    6.42578,
     5.28861,
-    6.4257800000000005,
+    6.42578,
     5.28861
 ],
   "geometry": {"coordinates":[6.42578,5.28861],"type":"Point"}

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.08,7.24667,4.12,7.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2332546
     },
     "wof:country":"NG",
-    "wof:geomhash":"642ccce1ca0b8e563fcccf2120a3bdbb",
+    "wof:geomhash":"9fad8726a49abf7cd8ca3ae59af42ec6",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209055299,
-    "wof:lastmodified":1536299129,
+    "wof:lastmodified":1566652707,
     "wof:name":"Laburo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     4.1,
-    7.266669999999999,
+    7.26667,
     4.1,
-    7.266669999999999
+    7.26667
 ],
   "geometry": {"coordinates":[4.1,7.26667],"type":"Point"}
 }

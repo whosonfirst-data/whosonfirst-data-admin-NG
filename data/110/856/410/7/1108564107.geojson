@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.005174,
     "lbl:longitude":7.677644,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Benue",
     "meso:diss_me":"OgbadiboBenue",
     "meso:gadm_admin":"Ogbadibo",
@@ -31,6 +33,7 @@
     "mps:longitude":7.677644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ogbadibo"
     ],
@@ -50,9 +53,9 @@
         "Ogbadibo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"598.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Otukpa Town",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564107,
-    "wof:lastmodified":1564217330,
+    "wof:lastmodified":1566653523,
     "wof:name":"Ogbadibo",
     "wof:parent_id":85675325,
     "wof:placetype":"county",

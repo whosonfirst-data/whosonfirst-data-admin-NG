@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.91376,11.41476,8.95376,11.45476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2324456
     },
     "wof:country":"NG",
-    "wof:geomhash":"d830ec7e019539749eb99890d7f7faf8",
+    "wof:geomhash":"365c321512cf69b27d7ab07952732de5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209375863,
-    "wof:lastmodified":1536288953,
+    "wof:lastmodified":1566652324,
     "wof:name":"Rinji",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.933760000000003,
+    8.93376,
     11.43476,
-    8.933760000000003,
+    8.93376,
     11.43476
 ],
   "geometry": {"coordinates":[8.93376,11.43476],"type":"Point"}

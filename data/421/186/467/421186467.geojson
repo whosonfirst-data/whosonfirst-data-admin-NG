@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.43782,
     "lbl:longitude":7.57723,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Enugu",
     "meso:diss_me":"Enugu NorthEnugu",
     "meso:gadm_admin":"Enugu North",
@@ -31,6 +33,7 @@
     "mps:longitude":7.57723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Enugu North"
@@ -87,9 +90,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"106.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Enugu",
@@ -110,7 +113,7 @@
     "wof:concordances":{
         "gp:id":56058274,
         "hasc:id":"NG.EN.EN",
-        "qs:id":1092711,
+        "qs_pg:id":1092711,
         "wd:id":"Q5380874"
     },
     "wof:country":"NG",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421186467,
-    "wof:lastmodified":1563329013,
+    "wof:lastmodified":1566654451,
     "wof:name":"Enugu North",
     "wof:parent_id":85675395,
     "wof:placetype":"county",

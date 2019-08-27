@@ -11,8 +11,11 @@
     "geom:longitude":7.07411,
     "gn:country":"NG",
     "gn:fcode":"PPLA",
-    "gn:pop":167738,
+    "gn:population":167738,
     "iso:country":"NG",
+    "lbl:bbox":"7.05411,6.19009,7.09411,6.23009",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -139,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akwa"
     ],
     "name:urd_x_preferred":[
@@ -264,7 +267,7 @@
     "wof:concordances":{
         "gn:id":2348773,
         "gp:id":1385603,
-        "qs:id":1243675,
+        "qs_pg:id":1243675,
         "wd:id":"Q791766",
         "wk:page":"Awka"
     },
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":890445491,
-    "wof:lastmodified":1563329100,
+    "wof:lastmodified":1566654481,
     "wof:name":"Awka",
     "wof:parent_id":1108563061,
     "wof:placetype":"locality",

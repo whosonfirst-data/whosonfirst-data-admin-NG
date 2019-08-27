@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.16389,13.13817,5.20389,13.17817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":7012982
     },
     "wof:country":"NG",
-    "wof:geomhash":"5a1a3e13cd29df021d278ef305f9ac1a",
+    "wof:geomhash":"1b0c834668e6edb02c9f688d60957280",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209444533,
-    "wof:lastmodified":1536286859,
+    "wof:lastmodified":1566652869,
     "wof:name":"Yauwarawa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     5.18389,
-    13.158170000000002,
+    13.15817,
     5.18389,
-    13.158170000000002
+    13.15817
 ],
   "geometry": {"coordinates":[5.18389,13.15817],"type":"Point"}
 }

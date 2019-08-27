@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.13739,6.48564,8.17739,6.52564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2348721
     },
     "wof:country":"NG",
-    "wof:geomhash":"4a16da944f1b0dd0e8a55ba367a9f22b",
+    "wof:geomhash":"73a9dbee85414b0e7456d5da04f460f4",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209033313,
-    "wof:lastmodified":1536299781,
+    "wof:lastmodified":1566652613,
     "wof:name":"Awumniri-Agbaja",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.15739,
-    6.5056400000000005,
+    6.50564,
     8.15739,
-    6.5056400000000005
+    6.50564
 ],
   "geometry": {"coordinates":[8.15739,6.50564],"type":"Point"}
 }

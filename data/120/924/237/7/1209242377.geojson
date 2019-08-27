@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.22444,12.6594,8.26444,12.6994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":6976910
     },
     "wof:country":"NG",
-    "wof:geomhash":"468ca7df40cdfe3e00721a104f8a726e",
+    "wof:geomhash":"8b95aed15cb9c64b1aad37af588c9965",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209242377,
-    "wof:lastmodified":1536293277,
+    "wof:lastmodified":1566652481,
     "wof:name":"Sankau",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.244439999999999,
+    8.24444,
     12.6794,
-    8.244439999999999,
+    8.24444,
     12.6794
 ],
   "geometry": {"coordinates":[8.24444,12.6794],"type":"Point"}

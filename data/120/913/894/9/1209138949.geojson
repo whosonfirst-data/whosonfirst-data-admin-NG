@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.32338,4.39418,6.36338,4.43418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10220304
     },
     "wof:country":"NG",
-    "wof:geomhash":"69dea3a9980a7b34b7f624f0a69aeef9",
+    "wof:geomhash":"4d34223d166ec1902b7f41c43e325f2e",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209138949,
-    "wof:lastmodified":1536296568,
+    "wof:lastmodified":1566652542,
     "wof:name":"Egenkiri",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.343380000000002,
+    6.34338,
     4.41418,
-    6.343380000000002,
+    6.34338,
     4.41418
 ],
   "geometry": {"coordinates":[6.34338,4.41418],"type":"Point"}

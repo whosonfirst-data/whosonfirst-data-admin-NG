@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.33526,11.22638,8.37526,11.26638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -34,7 +38,7 @@
         "gn:id":7066756
     },
     "wof:country":"NG",
-    "wof:geomhash":"632da1ce3a6e84bc84345ec2e215dd29",
+    "wof:geomhash":"e300b88766e6b4653cd943886b3814b5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209472981,
-    "wof:lastmodified":1536286023,
+    "wof:lastmodified":1566652499,
     "wof:name":"Jammaje",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.355260000000001,
+    8.35526,
     11.24638,
-    8.355260000000001,
+    8.35526,
     11.24638
 ],
   "geometry": {"coordinates":[8.35526,11.24638],"type":"Point"}

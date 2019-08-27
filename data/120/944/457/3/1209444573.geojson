@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.20839,4.78436,7.24839,4.82436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2591744
     },
     "wof:country":"NG",
-    "wof:geomhash":"c6b7e764be3f27d536e4e15e1fce31e1",
+    "wof:geomhash":"97a65342f25afe2b35274ca5b6f455b1",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209444573,
-    "wof:lastmodified":1536286858,
+    "wof:lastmodified":1566652880,
     "wof:name":"Gbaken",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.228389999999999,
+    7.22839,
     4.80436,
-    7.228389999999999,
+    7.22839,
     4.80436
 ],
   "geometry": {"coordinates":[7.22839,4.80436],"type":"Point"}

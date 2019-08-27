@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.627768,
     "lbl:longitude":8.828183,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Benue",
     "meso:diss_me":"TarkaBenue",
     "meso:gadm_admin":"Tarka",
@@ -31,6 +33,7 @@
     "mps:longitude":8.828183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tarka"
     ],
@@ -51,9 +54,9 @@
         "Tarka"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"371.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Wannune",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108564405,
-    "wof:lastmodified":1564217236,
+    "wof:lastmodified":1566653459,
     "wof:name":"Tarka",
     "wof:parent_id":85675325,
     "wof:placetype":"county",

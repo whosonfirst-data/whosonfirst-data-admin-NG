@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.910228,
     "lbl:longitude":12.010972,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Adamawa",
     "meso:diss_me":"Mayo-BelwaAdamawa",
     "meso:gadm_admin":"Zing",
@@ -31,6 +33,7 @@
     "mps:longitude":12.010972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mayo-Belwa"
     ],
@@ -39,9 +42,9 @@
         "Zing"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,768.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Mayo-Belwa",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108563963,
-    "wof:lastmodified":1553718156,
+    "wof:lastmodified":1566653446,
     "wof:name":"Mayo-Belwa",
     "wof:parent_id":85675451,
     "wof:placetype":"county",

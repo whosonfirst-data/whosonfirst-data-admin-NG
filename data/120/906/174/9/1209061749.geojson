@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.23491,11.74528,7.27491,11.78528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":7019101
     },
     "wof:country":"NG",
-    "wof:geomhash":"72b7ab79050cd2e505714de60907227b",
+    "wof:geomhash":"8495fd6073e0541a8bdfb63a26d46615",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209061749,
-    "wof:lastmodified":1536298931,
+    "wof:lastmodified":1566652315,
     "wof:name":"Maimazare",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.2549100000000015,
+    7.25491,
     11.76528,
-    7.2549100000000015,
+    7.25491,
     11.76528
 ],
   "geometry": {"coordinates":[7.25491,11.76528],"type":"Point"}

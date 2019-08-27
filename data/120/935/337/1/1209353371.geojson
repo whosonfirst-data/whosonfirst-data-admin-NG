@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.19314,6.64024,6.23314,6.68024",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10645976
     },
     "wof:country":"NG",
-    "wof:geomhash":"f3a489f7006779de4f9d1efa4e87ead5",
+    "wof:geomhash":"6f8fd80e7038fae87abbaad41b1493fd",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209353371,
-    "wof:lastmodified":1536289672,
+    "wof:lastmodified":1566652604,
     "wof:name":"Ikinago",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     6.21314,
-    6.660239999999999,
+    6.66024,
     6.21314,
-    6.660239999999999
+    6.66024
 ],
   "geometry": {"coordinates":[6.21314,6.66024],"type":"Point"}
 }

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.801616,
     "lbl:longitude":7.068987,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kogi",
     "meso:diss_me":"BassaKogi",
     "meso:gadm_admin":"Bassa",
@@ -31,6 +33,7 @@
     "mps:longitude":7.068987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Bassa"
     ],
@@ -65,7 +68,7 @@
         "\u0411\u0430\u0441\u0441\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108563091,
-    "wof:lastmodified":1564217214,
+    "wof:lastmodified":1566653442,
     "wof:name":"Bassa",
     "wof:parent_id":85675407,
     "wof:placetype":"county",

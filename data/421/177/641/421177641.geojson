@@ -10,8 +10,12 @@
     "geom:latitude":9.6225,
     "geom:longitude":3.94806,
     "iso:country":"NG",
+    "lbl:bbox":"3.92806,9.6025,3.96806,9.6425",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kaiama"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "Kaiama"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaima"
     ],
     "name:yor_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2335596,
         "gp:id":1396535,
-        "qs:id":430376,
+        "qs_pg:id":430376,
         "wd:id":"Q14653808"
     },
     "wof:country":"NG",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421177641,
-    "wof:lastmodified":1563329045,
+    "wof:lastmodified":1566654462,
     "wof:name":"Kaiama",
     "wof:parent_id":1108563751,
     "wof:placetype":"locality",

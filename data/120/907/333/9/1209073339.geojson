@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.61483,7.32107,8.65483,7.36107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2349765
     },
     "wof:country":"NG",
-    "wof:geomhash":"57cc6d87d5cc5ddb3e85cf9d1ab3c315",
+    "wof:geomhash":"4b69b94227690a9584741ba820d02202",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209073339,
-    "wof:lastmodified":1536298576,
+    "wof:lastmodified":1566652245,
     "wof:name":"Anongu",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.634830000000001,
-    7.341069999999998,
-    8.634830000000001,
-    7.341069999999998
+    8.63483,
+    7.34107,
+    8.63483,
+    7.34107
 ],
   "geometry": {"coordinates":[8.63483,7.34107],"type":"Point"}
 }

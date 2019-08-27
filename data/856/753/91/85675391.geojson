@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.738501,
     "lbl:longitude":6.155861,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Edo",
     "mps:latitude":6.780523,
     "mps:longitude":6.187509,
@@ -180,7 +181,7 @@
         "Edo"
     ],
     "name:tam_x_preferred":[
-        "\u0b8e\u0b9f\u0bcb  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b8e\u0b9f\u0bcb \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c21\u0c4b \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -278,9 +279,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"19,584",
     "statoids:area_mi":"7,562",
     "statoids:as_of_date":"2006-03-21",
@@ -305,7 +306,7 @@
         "gp:id":2346365,
         "hasc:id":"NG.ED",
         "iso:id":"NG-ED",
-        "qs:id":1053950,
+        "qs_pg:id":1053950,
         "unlc:id":"NG-ED",
         "wd:id":"Q682704",
         "wk:page":"Edo State"
@@ -328,11 +329,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731422,
+    "wof:lastmodified":1566650850,
     "wof:name":"Edo",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3218332,
     "wof:population_rank":12,

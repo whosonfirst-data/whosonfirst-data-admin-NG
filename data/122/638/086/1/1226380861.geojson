@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.1582,11.7461,4.1982,11.7861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0436\u0438\u0440\u043e"
     ],
@@ -73,8 +77,7 @@
         "\u041f\u043b\u0430\u0442\u0456\u0436\u043d\u0435 \u0434\u043e\u0440\u0443\u0447\u0435\u043d\u043d\u044f"
     ],
     "name:und_x_variant":[
-        "Giru",
-        "Giro"
+        "Giru"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1226380861,
-    "wof:lastmodified":1564221316,
+    "wof:lastmodified":1566656729,
     "wof:name":"Giro",
     "wof:parent_id":1108564383,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"10.19366,10.6709,10.23366,10.7109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Boeda"
     ],
@@ -162,9 +166,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0430"
     ],
-    "name:und_x_variant":[
-        "Bude"
-    ],
     "name:vie_x_preferred":[
         "Buda"
     ],
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":1226675765,
-    "wof:lastmodified":1564220655,
+    "wof:lastmodified":1566656245,
     "wof:name":"Buda",
     "wof:parent_id":1108563391,
     "wof:placetype":"locality",

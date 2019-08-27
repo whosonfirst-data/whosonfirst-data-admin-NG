@@ -10,8 +10,12 @@
     "geom:latitude":7.4527,
     "geom:longitude":8.6098,
     "iso:country":"NG",
+    "lbl:bbox":"8.5898,7.4327,8.6298,7.4727",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NG",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2338660,
         "gp:id":1394236,
-        "qs:id":139705
+        "qs_pg:id":139705
     },
     "wof:country":"NG",
     "wof:created":1459009194,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421178811,
-    "wof:lastmodified":1505340639,
+    "wof:lastmodified":1566654464,
     "wof:name":"Igbor",
     "wof:parent_id":1108563473,
     "wof:placetype":"locality",

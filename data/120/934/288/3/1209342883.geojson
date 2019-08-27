@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.18806,12.73342,8.22806,12.77342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":6976880
     },
     "wof:country":"NG",
-    "wof:geomhash":"b10e105116a9d9092e6911de85fc32d6",
+    "wof:geomhash":"acd59ed2c675ffb89b38d6761aeeb522",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209342883,
-    "wof:lastmodified":1536290007,
+    "wof:lastmodified":1566652721,
     "wof:name":"Koreyel",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.208060000000001,
+    8.20806,
     12.75342,
-    8.208060000000001,
+    8.20806,
     12.75342
 ],
   "geometry": {"coordinates":[8.20806,12.75342],"type":"Point"}

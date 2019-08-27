@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.63771,4.47482,6.67771,4.51482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6826125
     },
     "wof:country":"NG",
-    "wof:geomhash":"7bd8ce5fdd14d24d6cbaa0531bdc03ee",
+    "wof:geomhash":"39e988587c7e7a9cb4ad70cef7de7938",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209643773,
-    "wof:lastmodified":1536280801,
+    "wof:lastmodified":1566652354,
     "wof:name":"Klamasiri",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.657710000000002,
+    6.65771,
     4.49482,
-    6.657710000000002,
+    6.65771,
     4.49482
 ],
   "geometry": {"coordinates":[6.65771,4.49482],"type":"Point"}

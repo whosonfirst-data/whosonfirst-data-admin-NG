@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.13081,5.21009,6.17081,5.25009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7100599
     },
     "wof:country":"NG",
-    "wof:geomhash":"3d8d01c0015bfed65d84b67dc83a1e90",
+    "wof:geomhash":"746cb75c6880d8017798373d36c13bcc",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209059247,
-    "wof:lastmodified":1536299009,
+    "wof:lastmodified":1566652706,
     "wof:name":"Orusgbene",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     6.15081,
-    5.2300900000000015,
+    5.23009,
     6.15081,
-    5.2300900000000015
+    5.23009
 ],
   "geometry": {"coordinates":[6.15081,5.23009],"type":"Point"}
 }

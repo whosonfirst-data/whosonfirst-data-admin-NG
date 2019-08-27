@@ -10,8 +10,12 @@
     "geom:latitude":10.78887,
     "geom:longitude":7.77493,
     "iso:country":"NG",
+    "lbl:bbox":"7.75493,10.76887,7.79493,10.80887",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Igabi"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2338863,
         "gp:id":1394062,
-        "qs:id":139707,
+        "qs_pg:id":139707,
         "wd:id":"Q5991414"
     },
     "wof:country":"NG",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421178813,
-    "wof:lastmodified":1563329054,
+    "wof:lastmodified":1566654465,
     "wof:name":"Igabi",
     "wof:parent_id":1108563551,
     "wof:placetype":"locality",

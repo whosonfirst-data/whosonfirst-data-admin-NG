@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.228944,
     "lbl:longitude":7.795808,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Akwa lbom",
     "meso:diss_me":"IkonoAkwa lbom",
     "meso:gadm_admin":"Ikono",
@@ -31,6 +33,7 @@
     "mps:longitude":7.795808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ikono"
     ],
@@ -50,9 +53,9 @@
         "Ikono"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"259.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ibiaku Ntok Okpo",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563601,
-    "wof:lastmodified":1564217321,
+    "wof:lastmodified":1566653516,
     "wof:name":"Ikono",
     "wof:parent_id":85675309,
     "wof:placetype":"county",

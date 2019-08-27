@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.36028,6.46194,3.40028,6.50194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2566651
     },
     "wof:country":"NG",
-    "wof:geomhash":"46ff98977a1cfcda6840106dd7c03026",
+    "wof:geomhash":"432bbbbc631f073dcd252b88b9bbcbd7",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209110573,
-    "wof:lastmodified":1536297420,
+    "wof:lastmodified":1566652744,
     "wof:name":"Ijero",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.3802800000000004,
+    3.38028,
     6.48194,
-    3.3802800000000004,
+    3.38028,
     6.48194
 ],
   "geometry": {"coordinates":[3.38028,6.48194],"type":"Point"}

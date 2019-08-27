@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.93767,5.32944,7.97767,5.36944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7073335
     },
     "wof:country":"NG",
-    "wof:geomhash":"93f745a2b364ed858c3684a910a6e106",
+    "wof:geomhash":"e4f71a421d3618b728d3fce5e06fe1eb",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209383627,
-    "wof:lastmodified":1536288698,
+    "wof:lastmodified":1566652233,
     "wof:name":"Obotesu",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.9576699999999985,
+    7.95767,
     5.34944,
-    7.9576699999999985,
+    7.95767,
     5.34944
 ],
   "geometry": {"coordinates":[7.95767,5.34944],"type":"Point"}

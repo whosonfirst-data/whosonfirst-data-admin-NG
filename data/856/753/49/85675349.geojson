@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.847714,
     "lbl:longitude":5.557986,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Niger",
     "mps:latitude":9.844666,
     "mps:longitude":5.57108,
@@ -171,7 +172,7 @@
         "Niger"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bc8\u0b9c\u0bb0\u0bcd  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0ba8\u0bc8\u0b9c\u0bb0\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c48\u0c17\u0c30\u0c4d \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -184,9 +185,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0433\u0435\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Niger State"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0626\u06cc\u062c\u0631 \u0631\u06cc\u0627\u0633\u062a"
@@ -272,9 +270,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"72,065",
     "statoids:area_mi":"27,824",
     "statoids:as_of_date":"2006-03-21",
@@ -299,7 +297,7 @@
         "gp:id":2346359,
         "hasc:id":"NG.NI",
         "iso:id":"NG-NI",
-        "qs:id":235616,
+        "qs_pg:id":235616,
         "unlc:id":"NG-NI",
         "wd:id":"Q503932",
         "wk:page":"Niger State"
@@ -322,11 +320,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731423,
+    "wof:lastmodified":1566650853,
     "wof:name":"Niger",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3950249,
     "wof:population_rank":12,

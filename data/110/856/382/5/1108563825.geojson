@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.857154,
     "lbl:longitude":9.555641,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Jigawa",
     "meso:diss_me":"KiyawaJigawa",
     "meso:gadm_admin":"Kiyawa",
@@ -31,6 +33,7 @@
     "mps:longitude":9.555641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kiyawa"
     ],
@@ -53,9 +56,9 @@
         "Kiyawa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,030.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"kiyawa",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108563825,
-    "wof:lastmodified":1564217292,
+    "wof:lastmodified":1566653495,
     "wof:name":"Kiyawa",
     "wof:parent_id":85675421,
     "wof:placetype":"county",

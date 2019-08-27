@@ -10,8 +10,12 @@
     "geom:latitude":7.3179,
     "geom:longitude":8.9951,
     "iso:country":"NG",
+    "lbl:bbox":"8.9751,7.2979,9.0151,7.3379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Gboko"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2341374,
         "gp:id":1392110,
-        "qs:id":941382,
+        "qs_pg:id":941382,
         "wd:id":"Q2425179",
         "wk:page":"Gboko"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421195961,
-    "wof:lastmodified":1563328976,
+    "wof:lastmodified":1566654438,
     "wof:name":"Gboko",
     "wof:parent_id":1108563411,
     "wof:placetype":"locality",

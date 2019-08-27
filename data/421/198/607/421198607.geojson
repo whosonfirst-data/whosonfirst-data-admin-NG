@@ -10,6 +10,9 @@
     "geom:latitude":10.31344,
     "geom:longitude":9.84327,
     "iso:country":"NG",
+    "lbl:bbox":"9.82327,10.29344,9.86327,10.33344",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -146,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0443\u0447\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yakoba"
     ],
     "name:urd_x_preferred":[
@@ -289,7 +292,7 @@
     "wof:concordances":{
         "gn:id":2347470,
         "gp:id":1387520,
-        "qs:id":183755,
+        "qs_pg:id":183755,
         "wd:id":"Q811144",
         "wk:page":"Bauchi"
     },
@@ -306,7 +309,7 @@
         }
     ],
     "wof:id":421198607,
-    "wof:lastmodified":1563329028,
+    "wof:lastmodified":1566654455,
     "wof:name":"Bauchi",
     "wof:parent_id":1108563101,
     "wof:placetype":"locality",

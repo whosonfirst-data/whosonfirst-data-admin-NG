@@ -10,8 +10,12 @@
     "geom:latitude":12.02396,
     "geom:longitude":13.91646,
     "iso:country":"NG",
+    "lbl:bbox":"13.89646,12.00396,13.93646,12.04396",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Dikwa"
@@ -39,9 +43,6 @@
     ],
     "name:spa_x_preferred":[
         "Dikwa"
-    ],
-    "name:unk_x_variant":[
-        "Dikoa"
     ],
     "name:zho_min_nan_x_preferred":[
         "Dikwa"
@@ -77,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2344854,
         "gp:id":1389500,
-        "qs:id":183537,
+        "qs_pg:id":183537,
         "wd:id":"Q5276586",
         "wk:page":"Dikwa"
     },
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":421198547,
-    "wof:lastmodified":1563329029,
+    "wof:lastmodified":1566654455,
     "wof:name":"Dikwa",
     "wof:parent_id":1108563233,
     "wof:placetype":"locality",

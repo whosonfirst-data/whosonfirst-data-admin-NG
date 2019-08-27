@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"13.35997,10.54656,13.39997,10.58656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6760474
     },
     "wof:country":"NG",
-    "wof:geomhash":"874f7004eef8ae03e524b97f00f9a380",
+    "wof:geomhash":"2dedd33ea9fa62ba388ee3fa6703d4a3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209050897,
-    "wof:lastmodified":1536299253,
+    "wof:lastmodified":1566652712,
     "wof:name":"Warkanza",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.379970000000002,
+    13.37997,
     10.56656,
-    13.379970000000002,
+    13.37997,
     10.56656
 ],
   "geometry": {"coordinates":[13.37997,10.56656],"type":"Point"}

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"11.18803,8.80308,11.22803,8.84308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10869781
     },
     "wof:country":"NG",
-    "wof:geomhash":"4346c7944f75cb99f7273b65742097c4",
+    "wof:geomhash":"5ff1e6dd162f1422b8a65f0381e01097",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209245873,
-    "wof:lastmodified":1536293167,
+    "wof:lastmodified":1566652472,
     "wof:name":"Makaka",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     11.20803,
-    8.823080000000003,
+    8.82308,
     11.20803,
-    8.823080000000003
+    8.82308
 ],
   "geometry": {"coordinates":[11.20803,8.82308],"type":"Point"}
 }

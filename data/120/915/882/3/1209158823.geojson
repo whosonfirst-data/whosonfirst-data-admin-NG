@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"13.35547,10.38874,13.39547,10.42874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6760456
     },
     "wof:country":"NG",
-    "wof:geomhash":"686a4aeb5ca246d845f26522cade4feb",
+    "wof:geomhash":"5ca0fe92eeebab9b25139d26eaebf276",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209158823,
-    "wof:lastmodified":1536295968,
+    "wof:lastmodified":1566652454,
     "wof:name":"Hasga",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.375470000000002,
+    13.37547,
     10.40874,
-    13.375470000000002,
+    13.37547,
     10.40874
 ],
   "geometry": {"coordinates":[13.37547,10.40874],"type":"Point"}

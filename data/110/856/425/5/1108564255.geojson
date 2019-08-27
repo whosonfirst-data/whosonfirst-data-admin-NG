@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.479633,
     "lbl:longitude":7.01568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Imo",
     "meso:diss_me":"Owerri-MunicipalImo",
     "meso:gadm_admin":"Owerri Municipal",
@@ -31,6 +33,7 @@
     "mps:longitude":7.01568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Owerri-Municipal"
     ],
@@ -39,9 +42,9 @@
         "Owerri Municipal"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"58.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Owerri",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108564255,
-    "wof:lastmodified":1553718161,
+    "wof:lastmodified":1566653462,
     "wof:name":"Owerri-Municipal",
     "wof:parent_id":85675315,
     "wof:placetype":"county",

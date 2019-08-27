@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.77944,7.25611,3.81944,7.29611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2326757
     },
     "wof:country":"NG",
-    "wof:geomhash":"394ab7364374929a70df672e9853f033",
+    "wof:geomhash":"b025149b6d187a14e6caf55a00d10999",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209363513,
-    "wof:lastmodified":1536289350,
+    "wof:lastmodified":1566652226,
     "wof:name":"Olaoye",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.79944,
-    7.276110000000001,
+    7.27611,
     3.79944,
-    7.276110000000001
+    7.27611
 ],
   "geometry": {"coordinates":[3.79944,7.27611],"type":"Point"}
 }

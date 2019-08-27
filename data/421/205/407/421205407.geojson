@@ -10,8 +10,12 @@
     "geom:latitude":7.43614,
     "geom:longitude":5.45932,
     "iso:country":"NG",
+    "lbl:bbox":"5.43932,7.41614,5.47932,7.45614",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Emure"
@@ -34,7 +38,7 @@
     "name:spa_x_preferred":[
         "Emure"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Emure-Ekiti"
     ],
     "name:yor_x_preferred":[
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2343299,
         "gp:id":1390625,
-        "qs:id":263055,
+        "qs_pg:id":263055,
         "wd:id":"Q5374891",
         "wk:page":"Emure"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421205407,
-    "wof:lastmodified":1563328997,
+    "wof:lastmodified":1566654446,
     "wof:name":"Emure",
     "wof:parent_id":1108563305,
     "wof:placetype":"locality",

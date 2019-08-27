@@ -10,8 +10,12 @@
     "geom:latitude":11.78529,
     "geom:longitude":7.62175,
     "iso:country":"NG",
+    "lbl:bbox":"7.60175,11.76529,7.64175,11.80529",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Malumfashi"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2331005,
         "gp:id":1399881,
-        "qs:id":183560,
+        "qs_pg:id":183560,
         "wd:id":"Q6744962"
     },
     "wof:country":"NG",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421179815,
-    "wof:lastmodified":1563329049,
+    "wof:lastmodified":1566654464,
     "wof:name":"Malumfashi",
     "wof:parent_id":1108563937,
     "wof:placetype":"locality",

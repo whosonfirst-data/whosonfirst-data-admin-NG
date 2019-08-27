@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":10.410092,
     "lbl:longitude":11.190222,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Gombe",
     "mps:latitude":10.396391,
     "mps:longitude":11.231048,
@@ -184,7 +185,7 @@
         "Gombe"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bca\u0bae\u0bcd\u0baa\u0bc7  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b95\u0bca\u0bae\u0bcd\u0baa\u0bc7 \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c4b\u0c02\u0c2c\u0c46 \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -197,9 +198,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043c\u0431\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Gombe State"
     ],
     "name:urd_x_preferred":[
         "\u06af\u0648\u0645\u0628\u06d2 \u0631\u06cc\u0627\u0633\u062a"
@@ -288,9 +286,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"17,428",
     "statoids:area_mi":"6,729",
     "statoids:as_of_date":"2006-03-21",
@@ -317,7 +315,7 @@
         "gp:id":20070155,
         "hasc:id":"NG.GO",
         "iso:id":"NG-GO",
-        "qs:id":1228175,
+        "qs_pg:id":1228175,
         "unlc:id":"NG-GO",
         "wd:id":"Q376241",
         "wk:page":"Gombe State"
@@ -340,11 +338,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731422,
+    "wof:lastmodified":1566650849,
     "wof:name":"Gombe",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2353879,
     "wof:population_rank":12,

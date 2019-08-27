@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.94486,4.92466,7.98486,4.96466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2330334
     },
     "wof:country":"NG",
-    "wof:geomhash":"70104fbf7b65ef3422ec630af6b39f6b",
+    "wof:geomhash":"f3f9c44e1285bc750400f7f6726031ed",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209574049,
-    "wof:lastmodified":1536282994,
+    "wof:lastmodified":1566652573,
     "wof:name":"Mbikpong Atai",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.964860000000002,
+    7.96486,
     4.94466,
-    7.964860000000002,
+    7.96486,
     4.94466
 ],
   "geometry": {"coordinates":[7.96486,4.94466],"type":"Point"}

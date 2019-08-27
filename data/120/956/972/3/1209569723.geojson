@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.84504,7.29008,8.88504,7.33008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9974433
     },
     "wof:country":"NG",
-    "wof:geomhash":"dc1b972a494d04a3cbca9fe90478416b",
+    "wof:geomhash":"c43fe21dc63f90eb645722b9e2c5b73c",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209569723,
-    "wof:lastmodified":1536283123,
+    "wof:lastmodified":1566652700,
     "wof:name":"Tse-Akugh",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.865039999999997,
+    8.86504,
     7.31008,
-    8.865039999999997,
+    8.86504,
     7.31008
 ],
   "geometry": {"coordinates":[8.86504,7.31008],"type":"Point"}

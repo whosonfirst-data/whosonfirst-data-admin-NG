@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.44667,7.04667,3.48667,7.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2350557
     },
     "wof:country":"NG",
-    "wof:geomhash":"d7928570a049f1b7d4bc698dac46863a",
+    "wof:geomhash":"03c144a5bd8214b4c1614fa3c40940ba",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209088295,
-    "wof:lastmodified":1536298116,
+    "wof:lastmodified":1566652321,
     "wof:name":"Alapinni",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.46667,
-    7.0666699999999985,
+    7.06667,
     3.46667,
-    7.0666699999999985
+    7.06667
 ],
   "geometry": {"coordinates":[3.46667,7.06667],"type":"Point"}
 }

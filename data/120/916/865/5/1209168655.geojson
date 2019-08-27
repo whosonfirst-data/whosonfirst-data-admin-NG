@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.42579,7.15436,9.46579,7.19436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9639787
     },
     "wof:country":"NG",
-    "wof:geomhash":"0ceb0f842a5f1dde778510510fa651d0",
+    "wof:geomhash":"8b63a7036f937728c72d16b8f61d8758",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209168655,
-    "wof:lastmodified":1536295656,
+    "wof:lastmodified":1566652758,
     "wof:name":"Tsegboko",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.44579,
-    7.174360000000001,
+    7.17436,
     9.44579,
-    7.174360000000001
+    7.17436
 ],
   "geometry": {"coordinates":[9.44579,7.17436],"type":"Point"}
 }

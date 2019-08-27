@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.66333,8.84667,6.70333,8.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Waka"
     ],
@@ -79,8 +83,7 @@
         "\u0412\u0430\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Bwacha",
-        "Waka"
+        "Bwacha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1259909441,
-    "wof:lastmodified":1564219850,
+    "wof:lastmodified":1566655534,
     "wof:name":"Waka",
     "wof:parent_id":1108563895,
     "wof:placetype":"locality",

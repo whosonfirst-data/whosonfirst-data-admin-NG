@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.439627,
     "lbl:longitude":9.080246,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Jigawa",
     "meso:diss_me":"GarkiJigawa",
     "meso:gadm_admin":"Garki",
@@ -31,6 +33,7 @@
     "mps:longitude":9.080246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Garki"
     ],
@@ -44,9 +47,9 @@
         "Garki"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,408.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Garki",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108563393,
-    "wof:lastmodified":1564217228,
+    "wof:lastmodified":1566653453,
     "wof:name":"Garki",
     "wof:parent_id":85675421,
     "wof:placetype":"county",

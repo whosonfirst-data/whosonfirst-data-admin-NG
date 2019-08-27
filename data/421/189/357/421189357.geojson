@@ -10,8 +10,12 @@
     "geom:latitude":11.54912,
     "geom:longitude":8.57464,
     "iso:country":"NG",
+    "lbl:bbox":"8.55464,11.52912,8.59464,11.56912",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rano"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2324575,
         "gp:id":1404597,
-        "qs:id":42052,
+        "qs_pg:id":42052,
         "wd:id":"Q7293412"
     },
     "wof:country":"NG",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421189357,
-    "wof:lastmodified":1563329008,
+    "wof:lastmodified":1566654449,
     "wof:name":"Rano",
     "wof:parent_id":1108564293,
     "wof:placetype":"locality",

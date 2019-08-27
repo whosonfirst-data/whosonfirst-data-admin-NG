@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.71797,9.54217,8.75797,9.58217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2345690
     },
     "wof:country":"NG",
-    "wof:geomhash":"13c4ca0c2488b8d84298d2c0a631741b",
+    "wof:geomhash":"203440b7e281838af98c31d3ca6f1bcc",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209545227,
-    "wof:lastmodified":1536283863,
+    "wof:lastmodified":1566652275,
     "wof:name":"Dahot",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.737969999999999,
+    8.73797,
     9.56217,
-    8.737969999999999,
+    8.73797,
     9.56217
 ],
   "geometry": {"coordinates":[8.73797,9.56217],"type":"Point"}

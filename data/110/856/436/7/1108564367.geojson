@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.970563,
     "lbl:longitude":8.010962,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kaduna",
     "meso:diss_me":"SobaKaduna",
     "meso:gadm_admin":"Soba",
@@ -31,6 +33,7 @@
     "mps:longitude":8.010962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0628\u0627"
     ],
@@ -128,9 +131,9 @@
         "\u835e\u9ea6\u9762"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"2,234.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Maigama",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1108564367,
-    "wof:lastmodified":1564217265,
+    "wof:lastmodified":1566653479,
     "wof:name":"Soba",
     "wof:parent_id":85675405,
     "wof:placetype":"county",

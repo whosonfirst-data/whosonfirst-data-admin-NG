@@ -11,10 +11,14 @@
     "geom:longitude":10.6732,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":8223,
+    "gn:population":8223,
     "iso:country":"NG",
+    "lbl:bbox":"10.6532,11.3395,10.6932,11.3795",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Sade"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":2324024,
         "gp:id":1398972,
-        "qs:id":278486,
+        "qs_pg:id":278486,
         "wk:page":"Sade"
     },
     "wof:country":"NG",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890441391,
-    "wof:lastmodified":1564218708,
+    "wof:lastmodified":1566654469,
     "wof:name":"Sade",
     "wof:parent_id":1108563215,
     "wof:placetype":"locality",

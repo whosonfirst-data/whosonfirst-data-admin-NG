@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.079248,
     "lbl:longitude":6.716281,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kogi",
     "meso:diss_me":"IdahKogi",
     "meso:gadm_admin":"Idah",
@@ -31,6 +33,7 @@
     "mps:longitude":6.716281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Idah"
     ],
@@ -75,9 +78,9 @@
         "Idah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"36.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Idah",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108563515,
-    "wof:lastmodified":1564217316,
+    "wof:lastmodified":1566653512,
     "wof:name":"Idah",
     "wof:parent_id":85675407,
     "wof:placetype":"county",

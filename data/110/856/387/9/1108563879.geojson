@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.593737,
     "lbl:longitude":8.797104,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Nasarawa",
     "meso:diss_me":"LafiaNasarawa",
     "meso:gadm_admin":"Lafia",
@@ -31,6 +33,7 @@
     "mps:longitude":8.797104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0641\u064a\u0627"
     ],
@@ -110,9 +113,9 @@
         "Lafia"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"2,756.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Lafia",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108563879,
-    "wof:lastmodified":1564217367,
+    "wof:lastmodified":1566653562,
     "wof:name":"Lafia",
     "wof:parent_id":85675415,
     "wof:placetype":"county",

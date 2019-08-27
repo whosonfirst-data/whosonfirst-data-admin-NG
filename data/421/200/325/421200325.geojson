@@ -10,8 +10,12 @@
     "geom:latitude":7.85868,
     "geom:longitude":10.97187,
     "iso:country":"NG",
+    "lbl:bbox":"10.95187,7.83868,10.99187,7.87868",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bali"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2347330,
         "gp:id":1507217,
-        "qs:id":1299433,
+        "qs_pg:id":1299433,
         "wd:id":"Q4850825"
     },
     "wof:country":"NG",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421200325,
-    "wof:lastmodified":1563329042,
+    "wof:lastmodified":1566654461,
     "wof:name":"Bali",
     "wof:parent_id":1108563083,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":5.7117,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":75463,
+    "gn:population":75463,
     "iso:country":"NG",
+    "lbl:bbox":"5.6917,7.7699,5.7317,7.8099",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0642\u0635\u064a\u062f\u0629 \u063a\u0646\u0627\u0626\u064a\u0629"
     ],
@@ -183,7 +187,7 @@
     "name:ukr_x_preferred":[
         "\u043e\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Awde"
     ],
     "name:vie_x_preferred":[
@@ -208,7 +212,7 @@
     "wof:concordances":{
         "gn:id":2328090,
         "gp:id":1403427,
-        "qs:id":91261,
+        "qs_pg:id":91261,
         "wd:id":"Q178985",
         "wk:page":"Ode"
     },
@@ -225,7 +229,7 @@
         }
     ],
     "wof:id":890421443,
-    "wof:lastmodified":1563329082,
+    "wof:lastmodified":1566654473,
     "wof:name":"Ode",
     "wof:parent_id":1108563289,
     "wof:placetype":"locality",

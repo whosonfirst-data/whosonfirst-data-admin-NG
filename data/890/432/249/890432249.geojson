@@ -11,8 +11,11 @@
     "geom:longitude":8.51672,
     "gn:country":"NG",
     "gn:fcode":"PPLA",
-    "gn:pop":3626068,
+    "gn:population":3626068,
     "iso:country":"NG",
+    "lbl:bbox":"8.49672,11.98012,8.53672,12.02012",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.7,
@@ -223,7 +226,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cano"
     ],
     "name:urd_x_preferred":[
@@ -358,10 +361,12 @@
     "wof:concordances":{
         "gn:id":2335204,
         "gp:id":1396803,
-        "qs:id":278516,
-        "qs_pg:id":564039,
+        "qs_pg:id":278516,
         "wd:id":"Q182984",
         "wk:page":"Kano"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":564039
     },
     "wof:country":"NG",
     "wof:created":1469051934,
@@ -376,7 +381,7 @@
         }
     ],
     "wof:id":890432249,
-    "wof:lastmodified":1563329113,
+    "wof:lastmodified":1566654486,
     "wof:name":"Kano",
     "wof:parent_id":1108563193,
     "wof:placetype":"locality",

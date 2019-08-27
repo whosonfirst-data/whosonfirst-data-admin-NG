@@ -10,8 +10,12 @@
     "geom:latitude":7.83333,
     "geom:longitude":4.48333,
     "iso:country":"NG",
+    "lbl:bbox":"4.46333,7.81333,4.50333,7.85333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0418\u043b\u043e\u0431\u0443"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2337659,
         "gp:id":1508516,
-        "qs:id":432005,
+        "qs_pg:id":432005,
         "wd:id":"Q3845161",
         "wk:page":"Ilobu"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421180435,
-    "wof:lastmodified":1563329005,
+    "wof:lastmodified":1566654449,
     "wof:name":"Ilobu",
     "wof:parent_id":1108563657,
     "wof:placetype":"locality",

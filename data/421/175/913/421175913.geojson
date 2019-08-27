@@ -10,8 +10,12 @@
     "geom:latitude":11.3163,
     "geom:longitude":10.4703,
     "iso:country":"NG",
+    "lbl:bbox":"10.4503,11.2963,10.4903,11.3363",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Misau"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2330082,
         "gp:id":1400568,
-        "qs:id":1035004,
+        "qs_pg:id":1035004,
         "wd:id":"Q2078475"
     },
     "wof:country":"NG",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421175913,
-    "wof:lastmodified":1563329020,
+    "wof:lastmodified":1566654452,
     "wof:name":"Misau",
     "wof:parent_id":1108563979,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":7.4632,
     "geom:longitude":5.4281,
     "iso:country":"NG",
+    "lbl:bbox":"5.4081,7.4432,5.4481,7.4832",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ise-Ekiti"
@@ -29,9 +33,6 @@
         "Ise"
     ],
     "name:ron_x_preferred":[
-        "Ise"
-    ],
-    "name:unk_x_variant":[
         "Ise"
     ],
     "name:yor_x_preferred":[
@@ -68,7 +69,7 @@
     "wof:concordances":{
         "gn:id":2337207,
         "gp:id":1395350,
-        "qs:id":257006,
+        "qs_pg:id":257006,
         "wd:id":"Q3140630",
         "wk:page":"Ise Ekiti"
     },
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":421205151,
-    "wof:lastmodified":1563328996,
+    "wof:lastmodified":1566654446,
     "wof:name":"Ise Ekiti",
     "wof:parent_id":1108563665,
     "wof:placetype":"locality",

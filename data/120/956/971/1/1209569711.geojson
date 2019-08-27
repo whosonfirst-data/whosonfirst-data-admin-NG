@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.68128,7.07619,8.72128,7.11619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2339429
     },
     "wof:country":"NG",
-    "wof:geomhash":"f9791dabbb01544c77385ae2db87b035",
+    "wof:geomhash":"154d193f1e94ef6f967946e2042fc273",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209569711,
-    "wof:lastmodified":1536283123,
+    "wof:lastmodified":1566652692,
     "wof:name":"Hughum",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.70128,
-    7.096189999999999,
+    7.09619,
     8.70128,
-    7.096189999999999
+    7.09619
 ],
   "geometry": {"coordinates":[8.70128,7.09619],"type":"Point"}
 }

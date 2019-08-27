@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.42209,12.02082,7.46209,12.06082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":6998588
     },
     "wof:country":"NG",
-    "wof:geomhash":"b6025e321fbb4f6825ed2f788c074c70",
+    "wof:geomhash":"fbbab07befb0a62dd9984254b903f0f0",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209372263,
-    "wof:lastmodified":1536289067,
+    "wof:lastmodified":1566652323,
     "wof:name":"Ungwan Samai",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.4420899999999985,
+    7.44209,
     12.04082,
-    7.4420899999999985,
+    7.44209,
     12.04082
 ],
   "geometry": {"coordinates":[7.44209,12.04082],"type":"Point"}

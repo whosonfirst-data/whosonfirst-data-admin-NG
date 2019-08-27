@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.294103,
     "lbl:longitude":6.307313,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Zamfara",
     "meso:diss_me":"MaruZamfara",
     "meso:gadm_admin":"Maru",
@@ -31,6 +33,7 @@
     "mps:longitude":6.307313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Maru"
     ],
@@ -66,9 +69,9 @@
         "Maru"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"6,654.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Maru",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108563953,
-    "wof:lastmodified":1564217302,
+    "wof:lastmodified":1566653502,
     "wof:name":"Maru",
     "wof:parent_id":85675439,
     "wof:placetype":"county",

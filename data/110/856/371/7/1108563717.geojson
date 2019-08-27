@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.725481,
     "lbl:longitude":9.896926,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Bauchi",
     "meso:diss_me":"Jama'areBauchi",
     "meso:gadm_admin":"Jama'are",
@@ -31,6 +33,7 @@
     "mps:longitude":9.896926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Jamaare"
     ],
@@ -56,9 +59,9 @@
         "\u062c\u0645\u0627\u0631\u06d2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"493.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Jama'are",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108563717,
-    "wof:lastmodified":1564217290,
+    "wof:lastmodified":1566653493,
     "wof:name":"Jama'are",
     "wof:parent_id":85675379,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.91081,5.96858,7.95081,6.00858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2327628
     },
     "wof:country":"NG",
-    "wof:geomhash":"276c711d58d19cb8cce9ad91e554b524",
+    "wof:geomhash":"f0034dd74d4cc3685c9f5ee8a7e8fe66",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209245881,
-    "wof:lastmodified":1536293167,
+    "wof:lastmodified":1566652468,
     "wof:name":"Ogo Ubi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.930810000000001,
-    5.988580000000002,
-    7.930810000000001,
-    5.988580000000002
+    7.93081,
+    5.98858,
+    7.93081,
+    5.98858
 ],
   "geometry": {"coordinates":[7.93081,5.98858],"type":"Point"}
 }

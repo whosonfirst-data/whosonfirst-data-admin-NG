@@ -11,13 +11,16 @@
     "geom:longitude":7.398094,
     "gn:country":"NG",
     "gn:fcode":"PPLC",
-    "gn:pop":590400,
+    "gn:population":590400,
     "iso:country":"NG",
     "lbl:latitude":9.06853,
     "lbl:longitude":7.48375,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Abuja"
     ],
@@ -495,7 +498,7 @@
     "wof:concordances":{
         "gn:id":2352778,
         "gp:id":1383729,
-        "qs:id":1062636,
+        "qs_pg:id":1062636,
         "wd:id":"Q3787",
         "wk:page":"Abuja"
     },
@@ -512,7 +515,7 @@
         }
     ],
     "wof:id":890437283,
-    "wof:lastmodified":1563329076,
+    "wof:lastmodified":1566654471,
     "wof:name":"Abuja",
     "wof:parent_id":421178395,
     "wof:placetype":"locality",

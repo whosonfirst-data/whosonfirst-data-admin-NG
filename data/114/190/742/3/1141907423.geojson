@@ -9,15 +9,18 @@
     "geom:bbox":"6.73993973657,7.80038820285,6.73993973657,7.80038820285",
     "geom:latitude":7.800388,
     "geom:longitude":6.73994,
-    "gn:gn_country":"NG",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":60579,
+    "gn:country":"NG",
+    "gn:fcode":"PPLA",
     "gn:population":60579,
     "iso:country":"NG",
+    "lbl:bbox":"6.71993973657,7.78038820285,6.75993973657,7.82038820285",
     "lbl:latitude":7.800388,
     "lbl:longitude":6.73994,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u06a9\u0648\u062c\u0627"
     ],
@@ -96,7 +99,7 @@
     "name:swe_x_preferred":[
         "Lokoja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zokoja"
     ],
     "name:urd_x_preferred":[
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":1141907423,
-    "wof:lastmodified":1563331414,
+    "wof:lastmodified":1566656779,
     "wof:name":"Lokoja",
     "wof:parent_id":1108563907,
     "wof:placetype":"locality",

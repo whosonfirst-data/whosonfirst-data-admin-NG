@@ -10,8 +10,12 @@
     "geom:latitude":12.1343,
     "geom:longitude":10.5396,
     "iso:country":"NG",
+    "lbl:bbox":"10.5196,12.1143,10.5596,12.1543",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gamawa"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2342199,
         "gp:id":1391450,
-        "qs:id":1035058,
+        "qs_pg:id":1035058,
         "wd:id":"Q5519589"
     },
     "wof:country":"NG",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421194221,
-    "wof:lastmodified":1563328978,
+    "wof:lastmodified":1566654438,
     "wof:name":"Gamawa",
     "wof:parent_id":1108563387,
     "wof:placetype":"locality",

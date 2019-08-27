@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.83389,7.52917,3.87389,7.56917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2349238
     },
     "wof:country":"NG",
-    "wof:geomhash":"f0e106ece99143540a63c5c52b051904",
+    "wof:geomhash":"bad173b10c9bf5a7b93982abc91dbae8",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209564051,
-    "wof:lastmodified":1536283302,
+    "wof:lastmodified":1566652697,
     "wof:name":"Asani",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.85389,
-    7.549169999999998,
+    7.54917,
     3.85389,
-    7.549169999999998
+    7.54917
 ],
   "geometry": {"coordinates":[3.85389,7.54917],"type":"Point"}
 }

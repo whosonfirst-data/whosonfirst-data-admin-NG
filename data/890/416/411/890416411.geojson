@@ -11,10 +11,14 @@
     "geom:longitude":6.63076,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":7340,
+    "gn:population":7340,
     "iso:country":"NG",
+    "lbl:bbox":"6.61076,6.6467,6.65076,6.6867",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Illushi"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2337666,
         "gp:id":1394989,
-        "qs:id":139676
+        "qs_pg:id":139676
     },
     "wof:country":"NG",
     "wof:created":1469051133,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416411,
-    "wof:lastmodified":1505343432,
+    "wof:lastmodified":1566654480,
     "wof:name":"Illushi",
     "wof:parent_id":1108563319,
     "wof:placetype":"locality",

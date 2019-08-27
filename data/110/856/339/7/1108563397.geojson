@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.656832,
     "lbl:longitude":8.393862,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kano",
     "meso:diss_me":"Garum MallamKano",
     "meso:gadm_admin":"Garum Mallam",
@@ -31,6 +33,7 @@
     "mps:longitude":8.393862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Garum Mallam"
     ],
@@ -39,9 +42,9 @@
         "Garum Mallam"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"214.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Garum Mallam",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108563397,
-    "wof:lastmodified":1553718147,
+    "wof:lastmodified":1566653453,
     "wof:name":"Garum Mallam",
     "wof:parent_id":85675425,
     "wof:placetype":"county",

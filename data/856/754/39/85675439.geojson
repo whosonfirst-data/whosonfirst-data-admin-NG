@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.090327,
     "lbl:longitude":6.325599,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Zamfara",
     "mps:latitude":12.14775,
     "mps:longitude":6.333568,
@@ -182,9 +183,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u043c\u0444\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Zamfara State"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u0645\u0641\u0627\u0631\u0627 \u0631\u06cc\u0627\u0633\u062a"
     ],
@@ -269,9 +267,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"33,667",
     "statoids:area_mi":"12,999",
     "statoids:as_of_date":"2006-03-21",
@@ -296,7 +294,7 @@
         "gp:id":20070150,
         "hasc:id":"NG.ZA",
         "iso:id":"NG-ZA",
-        "qs:id":482869,
+        "qs_pg:id":482869,
         "unlc:id":"NG-ZA",
         "wd:id":"Q145793",
         "wk:page":"Zamfara State"
@@ -319,11 +317,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731420,
+    "wof:lastmodified":1566650846,
     "wof:name":"Zamfara",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3259846,
     "wof:population_rank":12,

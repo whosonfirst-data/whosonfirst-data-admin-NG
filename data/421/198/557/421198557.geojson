@@ -10,8 +10,12 @@
     "geom:latitude":8.52944,
     "geom:longitude":7.72417,
     "iso:country":"NG",
+    "lbl:bbox":"7.70417,8.50944,7.74417,8.54944",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Nasarawa"
@@ -36,9 +40,6 @@
     ],
     "name:spa_x_preferred":[
         "Nasarawa"
-    ],
-    "name:unk_x_variant":[
-        "Nassarawa"
     ],
     "qs:gn_country":"NG",
     "qs:gn_fcode":"PPL",
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2329451,
         "gp:id":1401032,
-        "qs:id":183564,
+        "qs_pg:id":183564,
         "wd:id":"Q6966608"
     },
     "wof:country":"NG",
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":421198557,
-    "wof:lastmodified":1563329024,
+    "wof:lastmodified":1566654454,
     "wof:name":"Nasarawa",
     "wof:parent_id":1108564015,
     "wof:placetype":"locality",

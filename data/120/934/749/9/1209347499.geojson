@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.42809,13.82689,5.46809,13.86689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2341592
     },
     "wof:country":"NG",
-    "wof:geomhash":"357f7cf47faed22594e2801b8f9ebee8",
+    "wof:geomhash":"caee44105703e65565ebae8e856bc167",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209347499,
-    "wof:lastmodified":1536289863,
+    "wof:lastmodified":1566652728,
     "wof:name":"Gawakuke",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.4480900000000005,
+    5.44809,
     13.84689,
-    5.4480900000000005,
+    5.44809,
     13.84689
 ],
   "geometry": {"coordinates":[5.44809,13.84689],"type":"Point"}

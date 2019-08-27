@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.598345,
     "lbl:longitude":3.354602,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Lagos",
     "meso:diss_me":"IkejaLagos",
     "meso:gadm_admin":"Ikeja",
@@ -31,6 +33,7 @@
     "mps:longitude":3.354602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ikeja"
@@ -138,9 +141,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"46.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ikeja",
@@ -162,7 +165,7 @@
         "gn:id":7910350,
         "gp:id":56057578,
         "hasc:id":"NG.LA.IJ",
-        "qs:id":505879,
+        "qs_pg:id":505879,
         "wd:id":"Q1024647"
     },
     "wof:country":"NG",
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421181827,
-    "wof:lastmodified":1563329015,
+    "wof:lastmodified":1566654451,
     "wof:name":"Ikeja",
     "wof:parent_id":85675343,
     "wof:placetype":"county",

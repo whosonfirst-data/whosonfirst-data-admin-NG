@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.356472,
     "lbl:longitude":6.200294,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Delta",
     "meso:diss_me":"Isoko SouthDelta",
     "meso:gadm_admin":"IsokoSou",
@@ -31,6 +33,7 @@
     "mps:longitude":6.200294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Isoko South"
     ],
@@ -57,9 +60,9 @@
         "Isoko South"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"704.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Oleh",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108563689,
-    "wof:lastmodified":1564217307,
+    "wof:lastmodified":1566653505,
     "wof:name":"Isoko South",
     "wof:parent_id":85675387,
     "wof:placetype":"county",

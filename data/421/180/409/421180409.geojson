@@ -10,10 +10,14 @@
     "geom:latitude":12.6398,
     "geom:longitude":10.7039,
     "iso:country":"NG",
+    "lbl:bbox":"10.6839,12.6198,10.7239,12.6598",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorgorum"
     ],
     "qs:gn_country":"NG",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2340350,
         "gp:id":1392942,
-        "qs:id":430301
+        "qs_pg:id":430301
     },
     "wof:country":"NG",
     "wof:created":1459009255,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421180409,
-    "wof:lastmodified":1505340647,
+    "wof:lastmodified":1566654448,
     "wof:name":"Gorgoram",
     "wof:parent_id":1108564527,
     "wof:placetype":"locality",

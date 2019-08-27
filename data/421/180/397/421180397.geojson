@@ -10,8 +10,12 @@
     "geom:latitude":6.73971,
     "geom:longitude":7.01117,
     "iso:country":"NG",
+    "lbl:bbox":"6.99117,6.71971,7.03117,6.75971",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NG",
     "qs:gn_fcode":"PPL",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":2352589,
         "gp:id":1383872,
-        "qs:id":430204,
+        "qs_pg:id":430204,
         "wd:id":"Q4680628"
     },
     "wof:country":"NG",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421180397,
-    "wof:lastmodified":1527716234,
+    "wof:lastmodified":1566654447,
     "wof:name":"Adani",
     "wof:parent_id":1108564485,
     "wof:placetype":"locality",

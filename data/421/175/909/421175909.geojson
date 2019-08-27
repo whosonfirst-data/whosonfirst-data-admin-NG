@@ -10,8 +10,12 @@
     "geom:latitude":6.74569,
     "geom:longitude":4.87748,
     "iso:country":"NG",
+    "lbl:bbox":"4.85748,6.72569,4.89748,6.76569",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0627\u0645"
@@ -305,7 +309,7 @@
     "wof:concordances":{
         "gn:id":2325821,
         "gp:id":1403693,
-        "qs:id":1034992,
+        "qs_pg:id":1034992,
         "wd:id":"Q102798"
     },
     "wof:country":"NG",
@@ -321,7 +325,7 @@
         }
     ],
     "wof:id":421175909,
-    "wof:lastmodified":1563329016,
+    "wof:lastmodified":1566654451,
     "wof:name":"Ore",
     "wof:parent_id":1108564091,
     "wof:placetype":"locality",

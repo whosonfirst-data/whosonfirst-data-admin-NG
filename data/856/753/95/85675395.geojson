@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.506872,
     "lbl:longitude":7.40602,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Enugu",
     "mps:latitude":6.511938,
     "mps:longitude":7.388298,
@@ -177,7 +178,7 @@
         "Enugu"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0ba3\u0bc1\u0b95\u0bc1  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b85\u0ba3\u0bc1\u0b95\u0bc1 \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c28\u0c41\u0c17\u0c41 \u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c02"
@@ -190,9 +191,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043d\u0443\u0433\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Enugu State"
     ],
     "name:urd_x_preferred":[
         "\u0639\u0646\u0648\u06af\u0648 \u0631\u06cc\u0627\u0633\u062a"
@@ -278,9 +276,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"7,560",
     "statoids:area_mi":"2,919",
     "statoids:as_of_date":"2006-03-21",
@@ -305,7 +303,7 @@
         "gp:id":2346366,
         "hasc:id":"NG.EN",
         "iso:id":"NG-EN",
-        "qs:id":891331,
+        "qs_pg:id":891331,
         "unlc:id":"NG-EN",
         "wd:id":"Q3817714",
         "wk:page":"Enugu State"
@@ -328,11 +326,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731421,
+    "wof:lastmodified":1566650847,
     "wof:name":"Enugu",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3257298,
     "wof:population_rank":12,

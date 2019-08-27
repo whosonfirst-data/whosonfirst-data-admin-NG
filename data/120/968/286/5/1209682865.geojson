@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.12418,7.24029,9.16418,7.28029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9634143
     },
     "wof:country":"NG",
-    "wof:geomhash":"12ffa8fef736cc9dca87c6f99a64f2bb",
+    "wof:geomhash":"c81e15c1a7a9962de3fdbcc3bb706ef3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209682865,
-    "wof:lastmodified":1536279513,
+    "wof:lastmodified":1566652576,
     "wof:name":"Kolum",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.14418,
-    7.260289999999999,
+    7.26029,
     9.14418,
-    7.260289999999999
+    7.26029
 ],
   "geometry": {"coordinates":[9.14418,7.26029],"type":"Point"}
 }

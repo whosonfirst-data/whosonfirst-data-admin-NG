@@ -10,8 +10,12 @@
     "geom:latitude":6.92412,
     "geom:longitude":5.77603,
     "iso:country":"NG",
+    "lbl:bbox":"5.75603,6.90412,5.79603,6.94412",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ifon Osun"
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":2338873,
         "gp:id":1394051,
-        "qs:id":139708,
+        "qs_pg:id":139708,
         "wd:id":"Q5991235"
     },
     "wof:country":"NG",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421178815,
-    "wof:lastmodified":1563329053,
+    "wof:lastmodified":1566654465,
     "wof:name":"Ifon",
     "wof:parent_id":1108564229,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.115263,
     "lbl:longitude":10.115529,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Yobe",
     "meso:diss_me":"MachinaYobe",
     "meso:gadm_admin":"Machina",
@@ -31,6 +33,7 @@
     "mps:longitude":10.115529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Machina"
     ],
@@ -48,9 +51,9 @@
         "Machina"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,213.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Machina",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108563909,
-    "wof:lastmodified":1564217234,
+    "wof:lastmodified":1566653458,
     "wof:name":"Machina",
     "wof:parent_id":85675443,
     "wof:placetype":"county",

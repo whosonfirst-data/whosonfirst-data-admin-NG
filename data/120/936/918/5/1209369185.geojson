@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.97541,7.36984,9.01541,7.40984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9974131
     },
     "wof:country":"NG",
-    "wof:geomhash":"c3ec849c33f477a965f39b561219cd46",
+    "wof:geomhash":"46ef2d3272c06cce7cdfb9c06ef48a1d",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209369185,
-    "wof:lastmodified":1536289166,
+    "wof:lastmodified":1566652231,
     "wof:name":"Agbel",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.995410000000003,
-    7.389839999999999,
-    8.995410000000003,
-    7.389839999999999
+    8.99541,
+    7.38984,
+    8.99541,
+    7.38984
 ],
   "geometry": {"coordinates":[8.99541,7.38984],"type":"Point"}
 }

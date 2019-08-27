@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.9624,6.65867,4.0024,6.69867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6826399
     },
     "wof:country":"NG",
-    "wof:geomhash":"2d395f5624953f31d2e0bfec54892e5c",
+    "wof:geomhash":"d3693ac666c501491d88dfa948107073",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209099197,
-    "wof:lastmodified":1536297789,
+    "wof:lastmodified":1566652217,
     "wof:name":"Mojoda",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.9824,
-    6.6786699999999986,
+    6.67867,
     3.9824,
-    6.6786699999999986
+    6.67867
 ],
   "geometry": {"coordinates":[3.9824,6.67867],"type":"Point"}
 }

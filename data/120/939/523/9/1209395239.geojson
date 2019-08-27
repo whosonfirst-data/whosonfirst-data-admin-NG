@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.43796,9.04405,7.47796,9.08405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2349785
     },
     "wof:country":"NG",
-    "wof:geomhash":"b0b6ca2aef9896a8587401a0be3590d7",
+    "wof:geomhash":"05eb112ec2eb7487c9f675e7a8ed9c62",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209395239,
-    "wof:lastmodified":1536288325,
+    "wof:lastmodified":1566652307,
     "wof:name":"Ankuru",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.457960000000001,
+    7.45796,
     9.06405,
-    7.457960000000001,
+    7.45796,
     9.06405
 ],
   "geometry": {"coordinates":[7.45796,9.06405],"type":"Point"}

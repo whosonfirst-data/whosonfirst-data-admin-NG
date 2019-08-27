@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":5.448632,
     "lbl:longitude":5.771322,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Delta",
     "mps:latitude":5.452163,
     "mps:longitude":5.946445,
@@ -43,7 +44,7 @@
         "\u0448\u0442\u0430\u0442 \u0414\u044d\u043b\u044c\u0442\u0430"
     ],
     "name:ben_x_preferred":[
-        "\u09a1\u09c7\u09b2\u09cd\u099f\u09be  \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
+        "\u09a1\u09c7\u09b2\u09cd\u099f\u09be \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u043b\u0442\u0430"
@@ -188,7 +189,7 @@
         "Delta"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc6\u0bb2\u0bcd\u0b9f\u0bbe  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b9f\u0bc6\u0bb2\u0bcd\u0b9f\u0bbe \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c46\u0c32\u0c4d\u0c1f\u0c3e \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -201,9 +202,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u044c\u0442\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Delta State"
     ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0644\u0679\u0627 \u0631\u06cc\u0627\u0633\u062a"
@@ -292,9 +290,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"17,095",
     "statoids:area_mi":"6,600",
     "statoids:as_of_date":"2006-03-21",
@@ -321,7 +319,7 @@
         "gp:id":2346364,
         "hasc:id":"NG.DE",
         "iso:id":"NG-DE",
-        "qs:id":244506,
+        "qs_pg:id":244506,
         "unlc:id":"NG-DE",
         "wd:id":"Q503910",
         "wk:page":"Delta State"
@@ -344,11 +342,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731421,
+    "wof:lastmodified":1566650848,
     "wof:name":"Delta",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":4098391,
     "wof:population_rank":12,

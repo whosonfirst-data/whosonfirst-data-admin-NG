@@ -10,8 +10,12 @@
     "geom:latitude":5.22724,
     "geom:longitude":6.19238,
     "iso:country":"NG",
+    "lbl:bbox":"6.17238,5.20724,6.21238,5.24724",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Patani"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2324962,
         "gp:id":1404324,
-        "qs:id":1298068,
+        "qs_pg:id":1298068,
         "wd:id":"Q7144238"
     },
     "wof:country":"NG",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421196773,
-    "wof:lastmodified":1563329034,
+    "wof:lastmodified":1566654458,
     "wof:name":"Patani",
     "wof:parent_id":1108564277,
     "wof:placetype":"locality",

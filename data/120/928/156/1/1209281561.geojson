@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.83006,7.26822,8.87006,7.30822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9974787
     },
     "wof:country":"NG",
-    "wof:geomhash":"3c66f1ce44710f2d8a3c0ba4cc8e0787",
+    "wof:geomhash":"d965c5caccfae331e3923edf19a442ce",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209281561,
-    "wof:lastmodified":1536292004,
+    "wof:lastmodified":1566652856,
     "wof:name":"Ayoo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.850060000000003,
+    8.85006,
     7.28822,
-    8.850060000000003,
+    8.85006,
     7.28822
 ],
   "geometry": {"coordinates":[8.85006,7.28822],"type":"Point"}

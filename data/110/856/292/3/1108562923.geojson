@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.822332,
     "lbl:longitude":8.025877,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Benue",
     "meso:diss_me":"AdoBenue",
     "meso:gadm_admin":"Ado",
@@ -31,6 +33,7 @@
     "mps:longitude":8.025877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Ado"
     ],
@@ -65,9 +68,9 @@
         "\u0410\u0434\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,220.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Igumale",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108562923,
-    "wof:lastmodified":1564217255,
+    "wof:lastmodified":1566653473,
     "wof:name":"Ado",
     "wof:parent_id":85675325,
     "wof:placetype":"county",

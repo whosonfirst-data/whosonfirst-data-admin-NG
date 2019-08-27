@@ -10,6 +10,9 @@
     "geom:latitude":7.7411,
     "geom:longitude":8.5121,
     "iso:country":"NG",
+    "lbl:bbox":"8.4921,7.7211,8.5321,7.7611",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -146,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0443\u0440\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makurdu"
     ],
     "name:urd_x_preferred":[
@@ -287,7 +290,7 @@
     "wof:concordances":{
         "gn:id":2331140,
         "gp:id":1399773,
-        "qs:id":139636,
+        "qs_pg:id":139636,
         "wd:id":"Q994096",
         "wk:page":"Makurdi"
     },
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":421195911,
-    "wof:lastmodified":1563328978,
+    "wof:lastmodified":1566654438,
     "wof:name":"Makurdi",
     "wof:parent_id":1108563933,
     "wof:placetype":"locality",

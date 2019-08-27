@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.839417,
     "lbl:longitude":5.180091,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Sokoto",
     "meso:diss_me":"BodingaSokoto",
     "meso:gadm_admin":"Bodinga",
@@ -31,6 +33,7 @@
     "mps:longitude":5.180091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bodinga"
     ],
@@ -56,9 +59,9 @@
         "Bodinga"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"564.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Bodinga",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108563137,
-    "wof:lastmodified":1564217297,
+    "wof:lastmodified":1566653499,
     "wof:name":"Bodinga",
     "wof:parent_id":85675433,
     "wof:placetype":"county",

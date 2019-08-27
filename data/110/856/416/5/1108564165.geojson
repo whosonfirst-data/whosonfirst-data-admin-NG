@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.68097,
     "lbl:longitude":7.100834,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Rivers",
     "meso:diss_me":"OkrikaRivers",
     "meso:gadm_admin":"Port Harcourt",
@@ -31,6 +33,7 @@
     "mps:longitude":7.100834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Okrika"
     ],
@@ -60,9 +63,9 @@
         "Okrika"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"222.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Okrika",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108564165,
-    "wof:lastmodified":1564217335,
+    "wof:lastmodified":1566653526,
     "wof:name":"Okrika",
     "wof:parent_id":85675317,
     "wof:placetype":"county",

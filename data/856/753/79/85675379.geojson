@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.368375,
     "lbl:longitude":9.968184,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bauchi",
     "mps:latitude":10.40009,
     "mps:longitude":9.708599,
@@ -281,9 +282,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"48,197",
     "statoids:area_mi":"18,609",
     "statoids:as_of_date":"2006-03-21",
@@ -308,7 +309,7 @@
         "gp:id":2346343,
         "hasc:id":"NG.BA",
         "iso:id":"NG-BA",
-        "qs:id":219580,
+        "qs_pg:id":219580,
         "unlc:id":"NG-BA",
         "wd:id":"Q503936",
         "wk:page":"Bauchi State"
@@ -331,11 +332,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731422,
+    "wof:lastmodified":1566650852,
     "wof:name":"Bauchi",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":4676465,
     "wof:population_rank":12,

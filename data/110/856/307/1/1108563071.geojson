@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.106799,
     "lbl:longitude":8.150925,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kano",
     "meso:diss_me":"BagwaiKano",
     "meso:gadm_admin":"Bagwai",
@@ -31,6 +33,7 @@
     "mps:longitude":8.150925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bagwai"
     ],
@@ -56,7 +59,7 @@
         "Bagwai"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108563071,
-    "wof:lastmodified":1564217210,
+    "wof:lastmodified":1566653440,
     "wof:name":"Bagwai",
     "wof:parent_id":85675425,
     "wof:placetype":"county",

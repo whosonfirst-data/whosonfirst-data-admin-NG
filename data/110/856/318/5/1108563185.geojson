@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.620321,
     "lbl:longitude":6.546874,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Niger",
     "meso:diss_me":"ChanchagaNiger",
     "meso:gadm_admin":"Chanchaga",
@@ -31,6 +33,7 @@
     "mps:longitude":6.546874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Chanchaga"
     ],
@@ -54,9 +57,9 @@
         "Chanchaga"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"72.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Minna",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108563185,
-    "wof:lastmodified":1564217359,
+    "wof:lastmodified":1566653556,
     "wof:name":"Chanchaga",
     "wof:parent_id":85675349,
     "wof:placetype":"county",
