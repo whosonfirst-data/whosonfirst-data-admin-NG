@@ -10,8 +10,12 @@
     "geom:latitude":7.35,
     "geom:longitude":4.18333,
     "iso:country":"NG",
+    "lbl:bbox":"4.16333,7.33,4.20333,7.37",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0418\u043a\u0438\u0440\u0435"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2338273,
         "gp:id":1508361,
-        "qs:id":1221617,
+        "qs_pg:id":1221617,
         "wd:id":"Q2749233",
         "wk:page":"Ikire"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421181293,
-    "wof:lastmodified":1563329015,
+    "wof:lastmodified":1566654451,
     "wof:name":"Ikire",
     "wof:parent_id":1108563683,
     "wof:placetype":"locality",

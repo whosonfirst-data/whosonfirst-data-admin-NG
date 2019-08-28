@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.01333,7.66333,4.05333,7.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2331957
     },
     "wof:country":"NG",
-    "wof:geomhash":"1392bc1da5bf40963329b4e650bad1d8",
+    "wof:geomhash":"ebec3514bc660b3b4a86590e13e33a05",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209374431,
-    "wof:lastmodified":1536289000,
+    "wof:lastmodified":1566652326,
     "wof:name":"Logun",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     4.03333,
-    7.6833300000000015,
+    7.68333,
     4.03333,
-    7.6833300000000015
+    7.68333
 ],
   "geometry": {"coordinates":[4.03333,7.68333],"type":"Point"}
 }

@@ -11,11 +11,15 @@
     "geom:longitude":6.82196,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":9084,
+    "gn:population":9084,
     "iso:country":"NG",
+    "lbl:bbox":"6.80196,12.12082,6.84196,12.16082",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kotorkoshi"
     ],
     "qs:name":"Kwatarkwashi",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2332733,
-        "qs:id":1035012
+        "qs_pg:id":1035012
     },
     "wof:country":"NG",
     "wof:created":1469052464,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890444311,
-    "wof:lastmodified":1505343598,
+    "wof:lastmodified":1566654477,
     "wof:name":"Kwatarkwashi",
     "wof:parent_id":1108563167,
     "wof:placetype":"locality",

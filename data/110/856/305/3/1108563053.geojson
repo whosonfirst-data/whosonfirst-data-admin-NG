@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.211731,
     "lbl:longitude":9.16769,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Nasarawa",
     "meso:diss_me":"AweNasarawa",
     "meso:gadm_admin":"Awe",
@@ -31,6 +33,7 @@
     "mps:longitude":9.16769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Awe"
     ],
@@ -41,9 +44,9 @@
         "Pagarbi baim\u0117"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"2,557.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Awe",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108563053,
-    "wof:lastmodified":1564217324,
+    "wof:lastmodified":1566653519,
     "wof:name":"Awe",
     "wof:parent_id":85675415,
     "wof:placetype":"county",

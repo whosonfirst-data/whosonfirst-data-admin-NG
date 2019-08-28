@@ -10,8 +10,12 @@
     "geom:latitude":7.23333,
     "geom:longitude":10.63333,
     "iso:country":"NG",
+    "lbl:bbox":"10.61333,7.21333,10.65333,7.25333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Basa"
@@ -40,7 +44,7 @@
     "name:tgl_x_preferred":[
         "Basa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bdissa"
     ],
     "qs:gn_country":"NG",
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2348228,
         "gp:id":1387446,
-        "qs:id":139799
+        "qs_pg:id":139799
     },
     "wof:country":"NG",
     "wof:created":1459008739,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421167659,
-    "wof:lastmodified":1564218695,
+    "wof:lastmodified":1566654441,
     "wof:name":"Basa",
     "wof:parent_id":1108563863,
     "wof:placetype":"locality",

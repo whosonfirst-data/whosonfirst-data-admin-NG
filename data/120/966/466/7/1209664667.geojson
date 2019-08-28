@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.46333,8.19667,4.50333,8.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2352904
     },
     "wof:country":"NG",
-    "wof:geomhash":"d4563cc9f2f183f92b44823db2d00922",
+    "wof:geomhash":"26a759999e1f941e8e6275942f036d9f",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209664667,
-    "wof:lastmodified":1536280139,
+    "wof:lastmodified":1566652600,
     "wof:name":"Abidiore",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.4833300000000005,
+    4.48333,
     8.21667,
-    4.4833300000000005,
+    4.48333,
     8.21667
 ],
   "geometry": {"coordinates":[4.48333,8.21667],"type":"Point"}

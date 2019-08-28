@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.17222,8.21694,7.21222,8.25694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2348332
     },
     "wof:country":"NG",
-    "wof:geomhash":"8f006c5e1a03a7a3dd1cc52282ad393b",
+    "wof:geomhash":"5df30c83d73705a6be92913a324dc19b",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209241293,
-    "wof:lastmodified":1536293312,
+    "wof:lastmodified":1566652467,
     "wof:name":"Badugu",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     7.19222,
-    8.236939999999999,
+    8.23694,
     7.19222,
-    8.236939999999999
+    8.23694
 ],
   "geometry": {"coordinates":[7.19222,8.23694],"type":"Point"}
 }

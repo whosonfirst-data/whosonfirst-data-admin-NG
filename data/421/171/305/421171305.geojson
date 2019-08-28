@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.497208,
     "lbl:longitude":3.840181,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Lagos",
     "meso:diss_me":"Ibeju/LekkiLagos",
     "meso:gadm_admin":"Ibeju/Lekki",
@@ -31,6 +33,7 @@
     "mps:longitude":3.840181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ibeju/Lekki"
@@ -85,9 +88,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"455.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Akodo",
@@ -109,7 +112,7 @@
         "gn:id":7910348,
         "gp:id":56057576,
         "hasc:id":"NG.LA.IL",
-        "qs:id":1234255,
+        "qs_pg:id":1234255,
         "wd:id":"Q5983804"
     },
     "wof:country":"NG",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421171305,
-    "wof:lastmodified":1563329059,
+    "wof:lastmodified":1566654467,
     "wof:name":"Ibeju/Lekki",
     "wof:parent_id":85675343,
     "wof:placetype":"county",

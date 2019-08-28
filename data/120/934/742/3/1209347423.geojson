@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.50919,8.73139,9.54919,8.77139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10922002
     },
     "wof:country":"NG",
-    "wof:geomhash":"bbd60724036c7a71d4014e0bcf4ca14f",
+    "wof:geomhash":"a3bf61e5777e861bbd72bc88809973c5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209347423,
-    "wof:lastmodified":1536289866,
+    "wof:lastmodified":1566652742,
     "wof:name":"Dunkul",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.52919,
-    8.751389999999999,
+    8.75139,
     9.52919,
-    8.751389999999999
+    8.75139
 ],
   "geometry": {"coordinates":[9.52919,8.75139],"type":"Point"}
 }

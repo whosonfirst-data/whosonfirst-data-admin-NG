@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.75826,7.06526,8.79826,7.10526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2339637
     },
     "wof:country":"NG",
-    "wof:geomhash":"3acd31f6621cae0800d3cf30ce25181e",
+    "wof:geomhash":"bec4feafbd280227969c3e98569316ec",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209281557,
-    "wof:lastmodified":1536292004,
+    "wof:lastmodified":1566652858,
     "wof:name":"Haa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.778260000000001,
-    7.085260000000001,
-    8.778260000000001,
-    7.085260000000001
+    8.77826,
+    7.08526,
+    8.77826,
+    7.08526
 ],
   "geometry": {"coordinates":[8.77826,7.08526],"type":"Point"}
 }

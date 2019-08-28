@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.65863,7.05093,8.69863,7.09093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2348943
     },
     "wof:country":"NG",
-    "wof:geomhash":"b361e84f1a0d5eadba83737e553a9c98",
+    "wof:geomhash":"4b8f822f7c4e82ab9056228a96bb8ba4",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209073325,
-    "wof:lastmodified":1536298576,
+    "wof:lastmodified":1566652244,
     "wof:name":"Atorkaan",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.67863,
-    7.0709300000000015,
+    7.07093,
     8.67863,
-    7.0709300000000015
+    7.07093
 ],
   "geometry": {"coordinates":[8.67863,7.07093],"type":"Point"}
 }

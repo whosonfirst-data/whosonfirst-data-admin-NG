@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.42061,7.63334,9.46061,7.67334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9526533
     },
     "wof:country":"NG",
-    "wof:geomhash":"cb92416dfd4f84e6980054a254c16434",
+    "wof:geomhash":"58d4b0f23e3ea06172a55e302c21677d",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209073371,
-    "wof:lastmodified":1536298575,
+    "wof:lastmodified":1566652241,
     "wof:name":"Awaga",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.44061,
-    7.653339999999999,
+    7.65334,
     9.44061,
-    7.653339999999999
+    7.65334
 ],
   "geometry": {"coordinates":[9.44061,7.65334],"type":"Point"}
 }

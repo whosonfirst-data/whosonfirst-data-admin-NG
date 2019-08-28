@@ -11,10 +11,14 @@
     "geom:longitude":12.05,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":6304,
+    "gn:population":6304,
     "iso:country":"NG",
+    "lbl:bbox":"12.03,9.03,12.07,9.07",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mayo-Belwa"
     ],
@@ -36,7 +40,7 @@
     "name:spa_x_preferred":[
         "Mayo-Belwa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maya Belwa"
     ],
     "name:yor_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2330543,
         "gp:id":1400210,
-        "qs:id":139631,
+        "qs_pg:id":139631,
         "wd:id":"Q6797493",
         "wk:page":"Mayo Belwa"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890452751,
-    "wof:lastmodified":1563329077,
+    "wof:lastmodified":1566654472,
     "wof:name":"Mayo Belwa",
     "wof:parent_id":1108563963,
     "wof:placetype":"locality",

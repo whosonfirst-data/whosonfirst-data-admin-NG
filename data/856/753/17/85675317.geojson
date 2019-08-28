@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.867782,
     "lbl:longitude":6.860983,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Rivers",
     "mps:latitude":4.962613,
     "mps:longitude":6.941695,
@@ -183,7 +184,7 @@
         "Rivers"
     ],
     "name:tam_x_preferred":[
-        "\u0bb0\u0bbf\u0bb5\u0bb0\u0bcd\u0bb8\u0bcd  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0bb0\u0bbf\u0bb5\u0bb0\u0bcd\u0bb8\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c3f\u0c35\u0c30\u0c4d\u0c38\u0c4d \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -199,9 +200,6 @@
     ],
     "name:ukr_x_variant":[
         "\u0420\u0438\u0432\u0435\u0440\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Rivers State"
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0631\u0632 \u0631\u06cc\u0627\u0633\u062a"
@@ -287,9 +285,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"10,361",
     "statoids:area_mi":"4,000",
     "statoids:as_of_date":"2006-03-21",
@@ -315,7 +313,7 @@
         "hasc:id":"NG.RI",
         "iso:id":"NG-RI",
         "loc:id":"n80049671",
-        "qs:id":1168699,
+        "qs_pg:id":1168699,
         "unlc:id":"NG-RI",
         "wd:id":"Q503923",
         "wk:page":"Rivers State"
@@ -338,11 +336,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731421,
+    "wof:lastmodified":1566650848,
     "wof:name":"Rivers",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":5185400,
     "wof:population_rank":13,

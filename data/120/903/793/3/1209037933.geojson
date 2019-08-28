@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.25549,4.96378,6.29549,5.00378",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2351169
     },
     "wof:country":"NG",
-    "wof:geomhash":"d05860a052972c0895cbdcf61788088c",
+    "wof:geomhash":"407e492c89e99f42e163824031b4da01",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209037933,
-    "wof:lastmodified":1536299640,
+    "wof:lastmodified":1566652622,
     "wof:name":"Akaubiri",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.2754900000000005,
+    6.27549,
     4.98378,
-    6.2754900000000005,
+    6.27549,
     4.98378
 ],
   "geometry": {"coordinates":[6.27549,4.98378],"type":"Point"}

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.565456,
     "lbl:longitude":3.248432,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Lagos",
     "meso:diss_me":"AlimoshoLagos",
     "meso:gadm_admin":"Alimosho",
@@ -31,6 +33,7 @@
     "mps:longitude":3.248432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0639\u0644\u06cc\u200c\u0645\u0648\u0634\u0648"
     ],
@@ -63,9 +66,9 @@
         "Alimosho"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"185.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ikotun",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108562995,
-    "wof:lastmodified":1564217357,
+    "wof:lastmodified":1566653554,
     "wof:name":"Alimosho",
     "wof:parent_id":85675343,
     "wof:placetype":"county",

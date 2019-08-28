@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.683255,
     "lbl:longitude":7.709356,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Katsina",
     "meso:diss_me":"KafurKatsina",
     "meso:gadm_admin":"Kafur",
@@ -31,6 +33,7 @@
     "mps:longitude":7.709356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u0648\u0631"
     ],
@@ -57,9 +60,9 @@
         "Kafur"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,106.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Kafur",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108563745,
-    "wof:lastmodified":1564217370,
+    "wof:lastmodified":1566653565,
     "wof:name":"Kafur",
     "wof:parent_id":85675429,
     "wof:placetype":"county",

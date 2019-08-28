@@ -10,8 +10,12 @@
     "geom:latitude":12.62791,
     "geom:longitude":9.39119,
     "iso:country":"NG",
+    "lbl:bbox":"9.37119,12.60791,9.41119,12.64791",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Gumel"
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":2340091,
         "gp:id":1393118,
-        "qs:id":278537,
+        "qs_pg:id":278537,
         "wd:id":"Q1023716",
         "wk:page":"Gumel"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421178213,
-    "wof:lastmodified":1563329054,
+    "wof:lastmodified":1566654466,
     "wof:name":"Gumel",
     "wof:parent_id":1108563447,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"9.78333,7.85,9.78333,7.85",
     "geom:latitude":7.85,
     "geom:longitude":9.78333,
-    "gn:gn_country":"NG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":92933,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
     "gn:population":92933,
     "iso:country":"NG",
+    "lbl:bbox":"9.76333,7.83,9.80333,7.87",
     "lbl:latitude":7.85,
     "lbl:longitude":9.78333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0648\u0648\u0643\u0627\u0631\u064a"
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u043a\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ukari"
     ],
     "name:urd_x_preferred":[
@@ -151,7 +154,7 @@
     "qs_pg:qs_id":139540,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":1125940597,
-    "wof:lastmodified":1563329118,
+    "wof:lastmodified":1566654487,
     "wof:name":"Wukari",
     "wof:parent_id":1108564511,
     "wof:placetype":"locality",

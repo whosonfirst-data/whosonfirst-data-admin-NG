@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.60784,11.59966,7.64784,11.63966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2332168
     },
     "wof:country":"NG",
-    "wof:geomhash":"4d0d485c3a4477be7ad849a15bc6ad96",
+    "wof:geomhash":"b806a97bb15b00fe56ae3d495b9a9d25",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209182387,
-    "wof:lastmodified":1536295214,
+    "wof:lastmodified":1566652777,
     "wof:name":"Layin Damo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.627839999999999,
+    7.62784,
     11.61966,
-    7.627839999999999,
+    7.62784,
     11.61966
 ],
   "geometry": {"coordinates":[7.62784,11.61966],"type":"Point"}

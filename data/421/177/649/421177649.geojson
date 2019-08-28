@@ -10,8 +10,12 @@
     "geom:latitude":7.36667,
     "geom:longitude":9.05,
     "iso:country":"NG",
+    "lbl:bbox":"9.03,7.34667,9.07,7.38667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NG",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2318374,
         "gp:id":1409376,
-        "qs:id":430571
+        "qs_pg:id":430571
     },
     "wof:country":"NG",
     "wof:created":1459009156,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421177649,
-    "wof:lastmodified":1505340633,
+    "wof:lastmodified":1566654462,
     "wof:name":"Yandev",
     "wof:parent_id":1108563411,
     "wof:placetype":"locality",

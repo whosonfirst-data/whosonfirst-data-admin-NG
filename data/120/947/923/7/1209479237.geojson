@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.56283,4.57798,7.60283,4.61798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2343222
     },
     "wof:country":"NG",
-    "wof:geomhash":"ee3fd7738f2b52a82ad17b15e0b4dcdc",
+    "wof:geomhash":"797d0b651b18f5812538c945e3173adc",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209479237,
-    "wof:lastmodified":1536285837,
+    "wof:lastmodified":1566652496,
     "wof:name":"Ererefe",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     7.58283,
-    4.5979800000000015,
+    4.59798,
     7.58283,
-    4.5979800000000015
+    4.59798
 ],
   "geometry": {"coordinates":[7.58283,4.59798],"type":"Point"}
 }

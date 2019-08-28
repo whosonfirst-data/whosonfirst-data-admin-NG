@@ -10,8 +10,12 @@
     "geom:latitude":9.05,
     "geom:longitude":6.56667,
     "iso:country":"NG",
+    "lbl:bbox":"6.54667,9.03,6.58667,9.07",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Lapai"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Lapai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Badeggi"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":2332249,
         "gp:id":1509149,
-        "qs:id":877603,
+        "qs_pg:id":877603,
         "wd:id":"Q13140504"
     },
     "wof:country":"NG",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421174493,
-    "wof:lastmodified":1563328999,
+    "wof:lastmodified":1566654446,
     "wof:name":"Lapai",
     "wof:parent_id":1108562933,
     "wof:placetype":"locality",

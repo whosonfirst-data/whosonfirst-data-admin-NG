@@ -10,8 +10,12 @@
     "geom:latitude":9.33333,
     "geom:longitude":9.45,
     "iso:country":"NG",
+    "lbl:bbox":"9.43,9.31333,9.47,9.35333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Pankshin"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2325060,
         "gp:id":1404249,
-        "qs:id":139583,
+        "qs_pg:id":139583,
         "wd:id":"Q7131329"
     },
     "wof:country":"NG",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421167605,
-    "wof:lastmodified":1563328984,
+    "wof:lastmodified":1566654440,
     "wof:name":"Pankshin",
     "wof:parent_id":1108564275,
     "wof:placetype":"locality",

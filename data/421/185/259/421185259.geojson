@@ -10,8 +10,12 @@
     "geom:latitude":6.84323,
     "geom:longitude":3.64776,
     "iso:country":"NG",
+    "lbl:bbox":"3.62776,6.82323,3.66776,6.86323",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u063a\u0627\u0645\u0648"
@@ -124,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u0433\u0430\u043c\u0443"
     ],
-    "name:unk_x_variant":[
-        "Sagamu"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06af\u0627\u0645\u0648"
     ],
@@ -170,7 +171,7 @@
     "wof:concordances":{
         "gn:id":2323411,
         "gp:id":1405450,
-        "qs:id":887696,
+        "qs_pg:id":887696,
         "wd:id":"Q2276423"
     },
     "wof:country":"NG",
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421185259,
-    "wof:lastmodified":1563329060,
+    "wof:lastmodified":1566654468,
     "wof:name":"Shagamu",
     "wof:parent_id":1108564341,
     "wof:placetype":"locality",

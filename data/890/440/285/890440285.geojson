@@ -11,8 +11,11 @@
     "geom:longitude":7.9335,
     "gn:country":"NG",
     "gn:fcode":"PPLA",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"NG",
+    "lbl:bbox":"7.9135,5.03127,7.9535,5.07127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -271,7 +274,7 @@
     "wof:concordances":{
         "gn:id":2319480,
         "gp:id":1408583,
-        "qs:id":278468,
+        "qs_pg:id":278468,
         "wd:id":"Q1999000",
         "wk:page":"Uyo"
     },
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":890440285,
-    "wof:lastmodified":1563329062,
+    "wof:lastmodified":1566654468,
     "wof:name":"Uyo",
     "wof:parent_id":1108564483,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.771735,
     "lbl:longitude":4.207318,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Osun",
     "meso:diss_me":"Ola-oluwaOsun",
     "meso:gadm_admin":"Ola-Oluwa",
@@ -31,6 +33,7 @@
     "mps:longitude":4.207318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ola-Oluwa"
     ],
@@ -39,9 +42,9 @@
         "Ola-Oluwa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"328.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Bode Osi",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108564167,
-    "wof:lastmodified":1553718159,
+    "wof:lastmodified":1566653526,
     "wof:name":"Ola-oluwa",
     "wof:parent_id":85675367,
     "wof:placetype":"county",

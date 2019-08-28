@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.489834,
     "lbl:longitude":6.258647,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Sokoto",
     "meso:diss_me":"Sabon BirniSokoto",
     "meso:gadm_admin":"Sabon Birni",
@@ -31,6 +33,7 @@
     "mps:longitude":6.258647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sabon Birni"
     ],
@@ -57,9 +60,9 @@
         "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Sabon-Birni"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"2,354.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Sabon Birni",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108564313,
-    "wof:lastmodified":1564217267,
+    "wof:lastmodified":1566653480,
     "wof:name":"Sabon Birni",
     "wof:parent_id":85675433,
     "wof:placetype":"county",

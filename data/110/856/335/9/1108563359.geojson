@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.122911,
     "lbl:longitude":8.011514,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ebonyi",
     "meso:diss_me":"Ezza SouthEbonyi",
     "meso:gadm_admin":"Ezza South",
@@ -31,6 +33,7 @@
     "mps:longitude":8.011514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ezza South"
     ],
@@ -54,9 +57,9 @@
         "Ezza South"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"324.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Onueke",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108563359,
-    "wof:lastmodified":1564217312,
+    "wof:lastmodified":1566653509,
     "wof:name":"Ezza South",
     "wof:parent_id":85675399,
     "wof:placetype":"county",

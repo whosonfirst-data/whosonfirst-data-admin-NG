@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.901326,
     "lbl:longitude":7.89885,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Akwa lbom",
     "meso:diss_me":"Nsit IbomAkwa lbom",
     "meso:gadm_admin":"Nsit Ibom",
@@ -31,6 +33,7 @@
     "mps:longitude":7.89885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nsit Ibom"
     ],
@@ -39,9 +42,9 @@
         "Nsit Ibom"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"142.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Afaha Offong",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108564055,
-    "wof:lastmodified":1553718158,
+    "wof:lastmodified":1566653532,
     "wof:name":"Nsit Ibom",
     "wof:parent_id":85675309,
     "wof:placetype":"county",

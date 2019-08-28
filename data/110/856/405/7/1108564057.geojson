@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.749689,
     "lbl:longitude":7.950466,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Akwa lbom",
     "meso:diss_me":"Nsit UbiumAkwa lbom",
     "meso:gadm_admin":"Nsit Ubium",
@@ -31,6 +33,7 @@
     "mps:longitude":7.950466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nsit Ubium"
     ],
@@ -39,9 +42,9 @@
         "Nsit Ubium"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"206.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ikot Edibon",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108564057,
-    "wof:lastmodified":1553718158,
+    "wof:lastmodified":1566653532,
     "wof:name":"Nsit Ubium",
     "wof:parent_id":85675309,
     "wof:placetype":"county",

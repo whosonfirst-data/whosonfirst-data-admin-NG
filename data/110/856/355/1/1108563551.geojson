@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.774584,
     "lbl:longitude":7.572675,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kaduna",
     "meso:diss_me":"IgabiKaduna",
     "meso:gadm_admin":"Igabi",
@@ -31,6 +33,7 @@
     "mps:longitude":7.572675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Igabi"
     ],
@@ -53,9 +56,9 @@
         "Igabi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"3,727.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Turunku",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108563551,
-    "wof:lastmodified":1564217231,
+    "wof:lastmodified":1566653455,
     "wof:name":"Igabi",
     "wof:parent_id":85675405,
     "wof:placetype":"county",

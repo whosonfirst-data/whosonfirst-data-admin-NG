@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.36337,7.19486,9.40337,7.23486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9639751
     },
     "wof:country":"NG",
-    "wof:geomhash":"8ce38bcb1a8778ce8f468b8dbfff0778",
+    "wof:geomhash":"2aa8b4fc513ac296abaf99e62f3b5c48",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209168673,
-    "wof:lastmodified":1536295655,
+    "wof:lastmodified":1566652750,
     "wof:name":"Akoo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.38337,
-    7.214860000000002,
+    7.21486,
     9.38337,
-    7.214860000000002
+    7.21486
 ],
   "geometry": {"coordinates":[9.38337,7.21486],"type":"Point"}
 }

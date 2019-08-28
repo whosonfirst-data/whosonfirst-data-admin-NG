@@ -11,7 +11,7 @@
     "geom:longitude":3.312362,
     "gn:country":"NG",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"NG",
     "label:eng_x_preferred_longname":[
         "Ifako-Ijaye L.G.A."
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":6.653046,
     "lbl:longitude":3.327596,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Lagos",
     "meso:diss_me":"Ifako-IjayeLagos",
     "meso:gadm_admin":"Ifako/Ijaye",
@@ -34,6 +36,7 @@
     "mps:longitude":3.327596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Ifako-Ijaiye"
     ],
@@ -77,9 +80,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"27.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ifako",
@@ -100,7 +103,7 @@
     "wof:concordances":{
         "gn:id":7910346,
         "hasc:id":"NG.LA.II",
-        "qs:id":1042264,
+        "qs_pg:id":1042264,
         "wd:id":"Q5991116",
         "wk:page":"Ifako-Ijaiye"
     },
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890438755,
-    "wof:lastmodified":1563329079,
+    "wof:lastmodified":1566654472,
     "wof:name":"Ifako-Ijaye",
     "wof:parent_id":85675343,
     "wof:placetype":"county",

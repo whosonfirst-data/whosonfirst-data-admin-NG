@@ -10,8 +10,12 @@
     "geom:latitude":10.82306,
     "geom:longitude":10.77167,
     "iso:country":"NG",
+    "lbl:bbox":"10.75167,10.80306,10.79167,10.84306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dukku"
@@ -38,9 +42,6 @@
         "Dukku"
     ],
     "name:spa_x_preferred":[
-        "Dukku"
-    ],
-    "name:unk_x_variant":[
         "Dukku"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -80,10 +81,12 @@
     "wof:concordances":{
         "gn:id":2344415,
         "gp:id":1389801,
-        "qs:id":139751,
         "qs_pg:id":139750,
         "wd:id":"Q5313235",
         "wk:page":"Dukku"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":139751
     },
     "wof:country":"NG",
     "wof:created":1459008739,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421167647,
-    "wof:lastmodified":1563328988,
+    "wof:lastmodified":1566654442,
     "wof:name":"Duku",
     "wof:parent_id":1108563243,
     "wof:placetype":"locality",

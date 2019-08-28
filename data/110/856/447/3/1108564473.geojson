@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.710814,
     "lbl:longitude":8.168425,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Akwa lbom",
     "meso:diss_me":"Urue-Offong/OrukoAkwa lbom",
     "meso:gadm_admin":"UrueOffo",
@@ -31,6 +33,7 @@
     "mps:longitude":8.168425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Urue-Offong/Oruko"
     ],
@@ -54,9 +57,9 @@
         "Urue-Offong/Oruko"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"127.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Urue Offong",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108564473,
-    "wof:lastmodified":1564217237,
+    "wof:lastmodified":1566653459,
     "wof:name":"Urue-Offong/Oruko",
     "wof:parent_id":85675309,
     "wof:placetype":"county",

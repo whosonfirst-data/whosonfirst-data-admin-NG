@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.46079,9.81071,8.50079,9.85071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":11003120
     },
     "wof:country":"NG",
-    "wof:geomhash":"ab534de32524185321c8b53027b62f17",
+    "wof:geomhash":"8a2163c33386a24d529d9815bcc30096",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209584161,
-    "wof:lastmodified":1536282690,
+    "wof:lastmodified":1566652655,
     "wof:name":"Talagan",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.480789999999999,
+    8.48079,
     9.83071,
-    8.480789999999999,
+    8.48079,
     9.83071
 ],
   "geometry": {"coordinates":[8.48079,9.83071],"type":"Point"}

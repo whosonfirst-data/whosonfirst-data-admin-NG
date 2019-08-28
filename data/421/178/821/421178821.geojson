@@ -10,8 +10,12 @@
     "geom:latitude":12.4498,
     "geom:longitude":10.0444,
     "iso:country":"NG",
+    "lbl:bbox":"10.0244,12.4298,10.0644,12.4698",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u0627\u062f\u064a\u062c\u064a\u0627"
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":2339631,
         "gp:id":1393464,
-        "qs:id":139711,
+        "qs_pg:id":139711,
         "wd:id":"Q5637733",
         "wk:page":"Hadejia"
     },
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":421178821,
-    "wof:lastmodified":1563329051,
+    "wof:lastmodified":1566654465,
     "wof:name":"Hadejia",
     "wof:parent_id":1108563051,
     "wof:placetype":"locality",

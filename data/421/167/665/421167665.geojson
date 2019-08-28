@@ -10,8 +10,12 @@
     "geom:latitude":12.77305,
     "geom:longitude":9.01583,
     "iso:country":"NG",
+    "lbl:bbox":"8.99583,12.75305,9.03583,12.79305",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NG",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2348419,
         "gp:id":1508740,
-        "qs:id":139801
+        "qs_pg:id":139801
     },
     "wof:country":"NG",
     "wof:created":1459008739,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421167665,
-    "wof:lastmodified":1505340587,
+    "wof:lastmodified":1566654443,
     "wof:name":"Jigawa",
     "wof:parent_id":1108563065,
     "wof:placetype":"locality",

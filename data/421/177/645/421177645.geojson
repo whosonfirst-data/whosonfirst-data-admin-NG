@@ -10,8 +10,12 @@
     "geom:latitude":13.12133,
     "geom:longitude":5.50741,
     "iso:country":"NG",
+    "lbl:bbox":"5.48741,13.10133,5.52741,13.14133",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rabah"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2324706,
         "gp:id":1404494,
-        "qs:id":430513,
+        "qs_pg:id":430513,
         "wd:id":"Q7278481",
         "wk:page":"Rabah"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421177645,
-    "wof:lastmodified":1563329044,
+    "wof:lastmodified":1566654461,
     "wof:name":"Rabah",
     "wof:parent_id":1108564289,
     "wof:placetype":"locality",

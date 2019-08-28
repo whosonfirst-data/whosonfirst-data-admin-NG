@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.32307,6.84213,3.36307,6.88213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2331838
     },
     "wof:country":"NG",
-    "wof:geomhash":"e18d14b1bc234a7f26daa796bc518b1a",
+    "wof:geomhash":"a66ad363bfb0909efe164aea78223dfd",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209487011,
-    "wof:lastmodified":1536285604,
+    "wof:lastmodified":1566652384,
     "wof:name":"Lukosi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.3430699999999995,
-    6.8621300000000005,
-    3.3430699999999995,
-    6.8621300000000005
+    3.34307,
+    6.86213,
+    3.34307,
+    6.86213
 ],
   "geometry": {"coordinates":[3.34307,6.86213],"type":"Point"}
 }

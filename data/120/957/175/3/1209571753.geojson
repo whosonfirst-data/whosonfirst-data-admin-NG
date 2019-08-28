@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.42653,6.47264,8.46653,6.51264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6914606
     },
     "wof:country":"NG",
-    "wof:geomhash":"f339bb4591bbd1876cd6771a2aaaff17",
+    "wof:geomhash":"c4e8159f0856a9ea2dcf9d3791b50176",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209571753,
-    "wof:lastmodified":1536283062,
+    "wof:lastmodified":1566652569,
     "wof:name":"Alebo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.446530000000001,
+    8.44653,
     6.49264,
-    8.446530000000001,
+    8.44653,
     6.49264
 ],
   "geometry": {"coordinates":[8.44653,6.49264],"type":"Point"}

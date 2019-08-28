@@ -10,8 +10,12 @@
     "geom:latitude":6.0742,
     "geom:longitude":7.4786,
     "iso:country":"NG",
+    "lbl:bbox":"7.4586,6.0542,7.4986,6.0942",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Awgu"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2348783,
         "gp:id":1386591,
-        "qs:id":1297937,
+        "qs_pg:id":1297937,
         "wd:id":"Q4830051"
     },
     "wof:country":"NG",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421196747,
-    "wof:lastmodified":1563329031,
+    "wof:lastmodified":1566654456,
     "wof:name":"Awgu",
     "wof:parent_id":1108563055,
     "wof:placetype":"locality",

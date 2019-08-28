@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.724799,
     "lbl:longitude":5.310944,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Ekiti",
     "mps:latitude":7.697777,
     "mps:longitude":5.312719,
@@ -39,7 +40,7 @@
         "Ekiti \u015ftat\u0131"
     ],
     "name:ben_x_preferred":[
-        "\u098f\u0995\u09bf  \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
+        "\u098f\u0995\u09bf \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
     "name:bul_x_preferred":[
         "\u0415\u043a\u0438\u0442\u0438"
@@ -129,7 +130,7 @@
         "Eki\u010dio valstija"
     ],
     "name:mar_x_preferred":[
-        "\u0907\u0915\u093f\u0924\u0940  \u0930\u093e\u091c\u094d\u092f"
+        "\u0907\u0915\u093f\u0924\u0940 \u0930\u093e\u091c\u094d\u092f"
     ],
     "name:mrj_x_preferred":[
         "\u042d\u043a\u0438\u0442\u0438"
@@ -187,9 +188,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043a\u0456\u0442\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Ekiti State"
     ],
     "name:urd_x_preferred":[
         "\u0639\u06a9\u06cc\u062a\u06cc \u0631\u06cc\u0627\u0633\u062a"
@@ -275,9 +273,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"5,797",
     "statoids:area_mi":"2,238",
     "statoids:as_of_date":"2006-03-21",
@@ -303,7 +301,7 @@
         "gp:id":20070151,
         "hasc:id":"NG.EK",
         "iso:id":"NG-EK",
-        "qs:id":989380,
+        "qs_pg:id":989380,
         "unlc:id":"NG-EK",
         "wd:id":"Q534917",
         "wk:page":"Ekiti State"
@@ -326,11 +324,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731421,
+    "wof:lastmodified":1566650847,
     "wof:name":"Ekiti",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2384212,
     "wof:population_rank":12,

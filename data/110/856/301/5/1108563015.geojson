@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.910953,
     "lbl:longitude":6.00043,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Zamfara",
     "meso:diss_me":"AnkaZamfara",
     "meso:gadm_admin":"Anka",
@@ -31,6 +33,7 @@
     "mps:longitude":6.00043,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0985\u0999\u09cd\u0995"
     ],
@@ -62,9 +65,9 @@
         "Simurg"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"2,746.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Anka",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108563015,
-    "wof:lastmodified":1564217226,
+    "wof:lastmodified":1566653452,
     "wof:name":"Anka",
     "wof:parent_id":85675439,
     "wof:placetype":"county",

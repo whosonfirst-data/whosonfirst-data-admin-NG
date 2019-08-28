@@ -10,8 +10,12 @@
     "geom:latitude":12.15482,
     "geom:longitude":9.16192,
     "iso:country":"NG",
+    "lbl:bbox":"9.14192,12.13482,9.18192,12.17482",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Ringim"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2324460,
         "gp:id":1510304,
-        "qs:id":969957,
+        "qs_pg:id":969957,
         "wd:id":"Q7334893"
     },
     "wof:country":"NG",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421183249,
-    "wof:lastmodified":1563329047,
+    "wof:lastmodified":1566654463,
     "wof:name":"Ringim",
     "wof:parent_id":1108564305,
     "wof:placetype":"locality",

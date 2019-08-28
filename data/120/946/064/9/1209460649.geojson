@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.29667,8.46333,4.33667,8.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2350824
     },
     "wof:country":"NG",
-    "wof:geomhash":"fd72ac48aadd56e92690a8df53b3e414",
+    "wof:geomhash":"7548c5c292b79ace3727b78f5ee98471",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209460649,
-    "wof:lastmodified":1536286391,
+    "wof:lastmodified":1566652438,
     "wof:name":"Akuyorin",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.3166699999999985,
+    4.31667,
     8.48333,
-    4.3166699999999985,
+    4.31667,
     8.48333
 ],
   "geometry": {"coordinates":[4.31667,8.48333],"type":"Point"}

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.723733,
     "lbl:longitude":5.222432,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ekiti",
     "meso:diss_me":"Irepodun/IfelodunEkiti",
     "meso:gadm_admin":"Irepodun/Ifelodun",
@@ -31,6 +33,7 @@
     "mps:longitude":5.222432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Irepodun/Ifelodun"
     ],
@@ -57,9 +60,9 @@
         "Irepodun/Ifelodun"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"356.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Igede",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108563653,
-    "wof:lastmodified":1564217216,
+    "wof:lastmodified":1566653444,
     "wof:name":"Irepodun/Ifelodun",
     "wof:parent_id":85675361,
     "wof:placetype":"county",

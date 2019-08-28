@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.988391,
     "lbl:longitude":3.443367,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ogun",
     "meso:diss_me":"Obafemi-OwodeOgun",
     "meso:gadm_admin":"Obafemi-Owode",
@@ -31,6 +33,7 @@
     "mps:longitude":3.443367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Obafemi Owode"
@@ -82,9 +85,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,410.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Owode",
@@ -106,7 +109,7 @@
         "gn:id":7873905,
         "gp:id":56057642,
         "hasc:id":"NG.OG.OO",
-        "qs:id":1105219,
+        "qs_pg:id":1105219,
         "wd:id":"Q7074576",
         "wk:page":"Obafemi Owode"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421188931,
-    "wof:lastmodified":1563329011,
+    "wof:lastmodified":1566654450,
     "wof:name":"Obafemi-Owode",
     "wof:parent_id":85675353,
     "wof:placetype":"county",

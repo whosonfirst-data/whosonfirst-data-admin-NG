@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.26162,5.46626,7.30162,5.50626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2338489
     },
     "wof:country":"NG",
-    "wof:geomhash":"78fdd9b955b01277b6218130d7998b25",
+    "wof:geomhash":"9d23cc7bf3fecbba2fde517a47ea76f5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209365625,
-    "wof:lastmodified":1536289282,
+    "wof:lastmodified":1566652227,
     "wof:name":"Ihite",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.281619999999998,
+    7.28162,
     5.48626,
-    7.281619999999998,
+    7.28162,
     5.48626
 ],
   "geometry": {"coordinates":[7.28162,5.48626],"type":"Point"}

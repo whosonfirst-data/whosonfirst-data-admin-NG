@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.71333,6.21333,5.75333,6.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2338932
     },
     "wof:country":"NG",
-    "wof:geomhash":"778f2d4efc70fcc5354a36c8e4303766",
+    "wof:geomhash":"50b57eebc345cc3621b57fc5d2d307c2",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209266197,
-    "wof:lastmodified":1536292522,
+    "wof:lastmodified":1566652833,
     "wof:name":"Idumohen",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.7333300000000005,
-    6.2333300000000005,
-    5.7333300000000005,
-    6.2333300000000005
+    5.73333,
+    6.23333,
+    5.73333,
+    6.23333
 ],
   "geometry": {"coordinates":[5.73333,6.23333],"type":"Point"}
 }

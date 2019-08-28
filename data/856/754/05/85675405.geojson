@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.510954,
     "lbl:longitude":7.798333,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Kaduna",
     "mps:latitude":10.494342,
     "mps:longitude":7.791574,
@@ -185,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0434\u0443\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "North-Central State"
     ],
     "name:urd_x_preferred":[
@@ -272,9 +273,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"44,217",
     "statoids:area_mi":"17,072",
     "statoids:as_of_date":"2006-03-21",
@@ -299,7 +300,7 @@
         "gp:id":2346351,
         "hasc:id":"NG.KD",
         "iso:id":"NG-KD",
-        "qs:id":901870,
+        "qs_pg:id":901870,
         "unlc:id":"NG-KD",
         "wd:id":"Q878284",
         "wk:page":"Kaduna State"
@@ -322,11 +323,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731419,
+    "wof:lastmodified":1566650844,
     "wof:name":"Kaduna",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":6066562,
     "wof:population_rank":13,

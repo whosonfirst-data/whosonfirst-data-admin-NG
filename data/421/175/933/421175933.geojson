@@ -10,8 +10,12 @@
     "geom:latitude":11.66726,
     "geom:longitude":8.26217,
     "iso:country":"NG",
+    "lbl:bbox":"8.24217,11.64726,8.28217,11.68726",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bebeji"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2347383,
         "gp:id":1387586,
-        "qs:id":1035086,
+        "qs_pg:id":1035086,
         "wd:id":"Q4878426"
     },
     "wof:country":"NG",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421175933,
-    "wof:lastmodified":1563329021,
+    "wof:lastmodified":1566654453,
     "wof:name":"Bebeji",
     "wof:parent_id":1108563107,
     "wof:placetype":"locality",

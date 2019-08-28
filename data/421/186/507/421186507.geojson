@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.096331,
     "lbl:longitude":6.01797,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Niger",
     "meso:diss_me":"BidaNiger",
     "meso:gadm_admin":"Bida",
@@ -31,6 +33,7 @@
     "mps:longitude":6.01797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u0627"
@@ -180,9 +183,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"51.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Bida",
@@ -204,7 +207,7 @@
         "gn:id":7729985,
         "gp:id":56057911,
         "hasc:id":"NG.NI.BI",
-        "qs:id":1072227,
+        "qs_pg:id":1072227,
         "wd:id":"Q3320844",
         "wk:page":"Bida"
     },
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421186507,
-    "wof:lastmodified":1563329013,
+    "wof:lastmodified":1566654451,
     "wof:name":"Bida",
     "wof:parent_id":85675349,
     "wof:placetype":"county",

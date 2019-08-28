@@ -10,8 +10,12 @@
     "geom:latitude":12.40386,
     "geom:longitude":4.64692,
     "iso:country":"NG",
+    "lbl:bbox":"4.62692,12.38386,4.66692,12.42386",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tambuwal"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Tambuwal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tambawal"
     ],
     "name:yor_x_preferred":[
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2322495,
         "gp:id":1406153,
-        "qs:id":1298088,
+        "qs_pg:id":1298088,
         "wd:id":"Q7681093"
     },
     "wof:country":"NG",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421193233,
-    "wof:lastmodified":1563328981,
+    "wof:lastmodified":1566654439,
     "wof:name":"Tambawel",
     "wof:parent_id":1108564401,
     "wof:placetype":"locality",

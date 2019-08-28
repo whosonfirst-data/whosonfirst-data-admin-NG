@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.505023,
     "lbl:longitude":4.065873,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Oyo",
     "meso:diss_me":"LageluOyo",
     "meso:gadm_admin":"Lagelu",
@@ -31,6 +33,7 @@
     "mps:longitude":4.065873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lagelu"
     ],
@@ -41,9 +44,9 @@
         "Lagelu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"338.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Iyana Offa",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108563881,
-    "wof:lastmodified":1564217383,
+    "wof:lastmodified":1566653577,
     "wof:name":"Lagelu",
     "wof:parent_id":85675371,
     "wof:placetype":"county",

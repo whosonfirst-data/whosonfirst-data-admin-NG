@@ -10,8 +10,12 @@
     "geom:latitude":5.2004,
     "geom:longitude":7.98475,
     "iso:country":"NG",
+    "lbl:bbox":"7.96475,5.1804,8.00475,5.2204",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Itu"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2336985,
         "gp:id":1395533,
-        "qs:id":1116846,
+        "qs_pg:id":1116846,
         "wd:id":"Q6095095"
     },
     "wof:country":"NG",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421177205,
-    "wof:lastmodified":1563329044,
+    "wof:lastmodified":1566654462,
     "wof:name":"Itu",
     "wof:parent_id":1108563699,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.27352,4.61576,6.31352,4.65576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2343647
     },
     "wof:country":"NG",
-    "wof:geomhash":"9e7f7ca18ab299e48ca9ef05cca2eda9",
+    "wof:geomhash":"90f212863af2e395fd9a6a9986883e45",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209648257,
-    "wof:lastmodified":1536280665,
+    "wof:lastmodified":1566652363,
     "wof:name":"Ekperikiri",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     6.29352,
-    4.6357599999999985,
+    4.63576,
     6.29352,
-    4.6357599999999985
+    4.63576
 ],
   "geometry": {"coordinates":[6.29352,4.63576],"type":"Point"}
 }

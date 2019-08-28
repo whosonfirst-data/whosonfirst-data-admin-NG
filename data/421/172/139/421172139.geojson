@@ -10,8 +10,12 @@
     "geom:latitude":6.26374,
     "geom:longitude":6.31161,
     "iso:country":"NG",
+    "lbl:bbox":"6.29161,6.24374,6.33161,6.28374",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Umunede"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2320417,
         "gp:id":1407812,
-        "qs:id":1298103
+        "qs_pg:id":1298103
     },
     "wof:country":"NG",
     "wof:created":1459008921,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421172139,
-    "wof:lastmodified":1505340609,
+    "wof:lastmodified":1566654450,
     "wof:name":"Umunede",
     "wof:parent_id":1108563583,
     "wof:placetype":"locality",

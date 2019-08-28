@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.789106,
     "lbl:longitude":7.038754,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Imo",
     "meso:diss_me":"OrluImo",
     "meso:gadm_admin":"Orlu",
@@ -63,7 +65,7 @@
     "name:spa_x_preferred":[
         "Orlu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Awlu"
     ],
     "name:yor_x_preferred":[
@@ -189,9 +191,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"132.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Orlu",
@@ -213,7 +215,7 @@
         "gn:id":2325725,
         "gp:id":56057853,
         "hasc:id":"NG.IM.OL",
-        "qs:id":905374,
+        "qs_pg:id":905374,
         "wd:id":"Q3508985",
         "wk:page":"Orlu, Imo"
     },
@@ -229,7 +231,7 @@
         }
     ],
     "wof:id":421174885,
-    "wof:lastmodified":1563328999,
+    "wof:lastmodified":1566654446,
     "wof:name":"Orlu",
     "wof:parent_id":85675315,
     "wof:placetype":"county",

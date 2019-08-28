@@ -10,8 +10,12 @@
     "geom:latitude":12.08444,
     "geom:longitude":4.02111,
     "iso:country":"NG",
+    "lbl:bbox":"4.00111,12.06444,4.04111,12.10444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bunza"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2346396,
         "gp:id":1388349,
-        "qs:id":1297948,
+        "qs_pg:id":1297948,
         "wd:id":"Q1707615"
     },
     "wof:country":"NG",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421196753,
-    "wof:lastmodified":1563329030,
+    "wof:lastmodified":1566654456,
     "wof:name":"Bunza",
     "wof:parent_id":1108563171,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.13488,
     "lbl:longitude":6.883775,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Anambra",
     "meso:diss_me":"Idemili NorthAnambra",
     "meso:gadm_admin":"Idemili North",
@@ -31,6 +33,7 @@
     "mps:longitude":6.883775,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Idemili North"
     ],
@@ -54,7 +57,7 @@
         "Idemili North"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108563523,
-    "wof:lastmodified":1564217230,
+    "wof:lastmodified":1566653455,
     "wof:name":"Idemili North",
     "wof:parent_id":85675375,
     "wof:placetype":"county",

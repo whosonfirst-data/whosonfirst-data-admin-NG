@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.311074,
     "lbl:longitude":7.302126,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Niger",
     "meso:diss_me":"TafaNiger",
     "meso:gadm_admin":"Tafa",
@@ -31,6 +33,7 @@
     "mps:longitude":7.302126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tafa"
     ],
@@ -54,9 +57,9 @@
         "Tafa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"222.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Wuse",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108564387,
-    "wof:lastmodified":1564217270,
+    "wof:lastmodified":1566653482,
     "wof:name":"Tafa",
     "wof:parent_id":85675349,
     "wof:placetype":"county",

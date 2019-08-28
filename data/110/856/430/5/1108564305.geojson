@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.186528,
     "lbl:longitude":9.090504,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Jigawa",
     "meso:diss_me":"RingimJigawa",
     "meso:gadm_admin":"Ringim",
@@ -31,6 +33,7 @@
     "mps:longitude":9.090504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ringim"
     ],
@@ -50,9 +53,9 @@
         "Ringim"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,057.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ringim",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564305,
-    "wof:lastmodified":1564217256,
+    "wof:lastmodified":1566653474,
     "wof:name":"Ringim",
     "wof:parent_id":85675421,
     "wof:placetype":"county",

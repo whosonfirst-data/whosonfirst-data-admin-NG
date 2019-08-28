@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.00978,4.83821,6.04978,4.87821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2351796
     },
     "wof:country":"NG",
-    "wof:geomhash":"9d9933f0ccb409ac375c916b20f48098",
+    "wof:geomhash":"357825224a49cfd0e469e417c30cc5c1",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209648277,
-    "wof:lastmodified":1536280664,
+    "wof:lastmodified":1566652343,
     "wof:name":"Agoligbene",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.0297800000000015,
+    6.02978,
     4.85821,
-    6.0297800000000015,
+    6.02978,
     4.85821
 ],
   "geometry": {"coordinates":[6.02978,4.85821],"type":"Point"}

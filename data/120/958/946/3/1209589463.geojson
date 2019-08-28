@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.88094,5.10892,7.92094,5.14892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7074534
     },
     "wof:country":"NG",
-    "wof:geomhash":"0afa4fdd3ead1135b48f84e79097a0d6",
+    "wof:geomhash":"62ed45c7bfa2a69e115078b76cb86656",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209589463,
-    "wof:lastmodified":1536282527,
+    "wof:lastmodified":1566652653,
     "wof:name":"Utuat",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.9009399999999985,
+    7.90094,
     5.12892,
-    7.9009399999999985,
+    7.90094,
     5.12892
 ],
   "geometry": {"coordinates":[7.90094,5.12892],"type":"Point"}

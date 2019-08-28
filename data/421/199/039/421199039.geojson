@@ -10,8 +10,12 @@
     "geom:latitude":9.01667,
     "geom:longitude":6.31667,
     "iso:country":"NG",
+    "lbl:bbox":"6.29667,8.99667,6.33667,9.03667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Agaie"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2352175,
         "gp:id":1384165,
-        "qs:id":188941,
+        "qs_pg:id":188941,
         "wd:id":"Q3510662"
     },
     "wof:country":"NG",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421199039,
-    "wof:lastmodified":1563329040,
+    "wof:lastmodified":1566654460,
     "wof:name":"Agaie",
     "wof:parent_id":1108562933,
     "wof:placetype":"locality",

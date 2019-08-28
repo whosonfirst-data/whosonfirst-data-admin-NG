@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.16408,9.86148,6.20408,9.90148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2337496
     },
     "wof:country":"NG",
-    "wof:geomhash":"db3bc42133109bd0588b89901a4bbe7a",
+    "wof:geomhash":"eef90bd13aedd1ba16478dfafba07b9d",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209034339,
-    "wof:lastmodified":1536299750,
+    "wof:lastmodified":1566652627,
     "wof:name":"Ingishi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.184080000000002,
+    6.18408,
     9.88148,
-    6.184080000000002,
+    6.18408,
     9.88148
 ],
   "geometry": {"coordinates":[6.18408,9.88148],"type":"Point"}

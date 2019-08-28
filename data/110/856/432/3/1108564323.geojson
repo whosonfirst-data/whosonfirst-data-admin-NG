@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.253371,
     "lbl:longitude":6.348883,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Bayelsa",
     "meso:diss_me":"SagbamaBayelsa",
     "meso:gadm_admin":"Sagbama",
@@ -31,6 +33,7 @@
     "mps:longitude":6.348883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sagbama"
     ],
@@ -56,9 +59,9 @@
         "\u0633\u06af\u0628\u0627\u0645\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"945.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Sagbama",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108564323,
-    "wof:lastmodified":1564217351,
+    "wof:lastmodified":1566653544,
     "wof:name":"Sagbama",
     "wof:parent_id":85675321,
     "wof:placetype":"county",

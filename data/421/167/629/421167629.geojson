@@ -10,8 +10,12 @@
     "geom:latitude":11.51966,
     "geom:longitude":4.2603,
     "iso:country":"NG",
+    "lbl:bbox":"4.2403,11.49966,4.2803,11.53966",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Kende"
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":2334592,
         "gp:id":1397244,
-        "qs:id":139652,
+        "qs_pg:id":139652,
         "wd:id":"Q786757"
     },
     "wof:country":"NG",
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":421167629,
-    "wof:lastmodified":1563328983,
+    "wof:lastmodified":1566654440,
     "wof:name":"Kende",
     "wof:parent_id":1108563069,
     "wof:placetype":"locality",

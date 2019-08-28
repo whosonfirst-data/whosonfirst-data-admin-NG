@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.837202,
     "lbl:longitude":8.231237,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kaduna",
     "meso:diss_me":"Zango-KatafKaduna",
     "meso:gadm_admin":"ZangonKa",
@@ -31,6 +33,7 @@
     "mps:longitude":8.231237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Zangon-Kataf"
     ],
@@ -39,9 +42,9 @@
         "ZangonKa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"2,668.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Zonkwa",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108564555,
-    "wof:lastmodified":1553718166,
+    "wof:lastmodified":1566653478,
     "wof:name":"Zango-Kataf",
     "wof:parent_id":85675405,
     "wof:placetype":"county",

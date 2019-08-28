@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.953321,
     "lbl:longitude":9.612067,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Plateau",
     "mps:latitude":8.994308,
     "mps:longitude":9.618483,
@@ -183,7 +184,7 @@
         "Plateau"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0baa\u0bbf\u0bb3\u0bbe\u0b9f\u0bcd\u0b9f\u0bcb \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4d\u0c32\u0c47\u0c1f\u0c42 \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -196,9 +197,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0430\u0442\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Plateau State"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0644\u06cc\u0679\u0626\u0648 \u0631\u06cc\u0627\u0633\u062a"
@@ -287,9 +285,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"26,539",
     "statoids:area_mi":"10,247",
     "statoids:as_of_date":"2006-03-21",
@@ -315,7 +313,7 @@
         "gp:id":2346348,
         "hasc:id":"NG.PL",
         "iso:id":"NG-PL",
-        "qs:id":1168700,
+        "qs_pg:id":1168700,
         "unlc:id":"NG-PL",
         "wd:id":"Q503928",
         "wk:page":"Plateau State"
@@ -338,11 +336,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731420,
+    "wof:lastmodified":1566650844,
     "wof:name":"Plateau",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3178712,
     "wof:population_rank":12,

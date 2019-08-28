@@ -11,8 +11,11 @@
     "geom:longitude":7.36667,
     "gn:country":"NG",
     "gn:fcode":"PPLA2",
-    "gn:pop":897560,
+    "gn:population":897560,
     "iso:country":"NG",
+    "lbl:bbox":"7.34667,5.08658,7.38667,5.12658",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -315,7 +318,7 @@
     "wof:concordances":{
         "gn:id":2353151,
         "gp:id":1383436,
-        "qs:id":274204,
+        "qs_pg:id":274204,
         "wd:id":"Q202162"
     },
     "wof:country":"NG",
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":890435379,
-    "wof:lastmodified":1563329115,
+    "wof:lastmodified":1566654486,
     "wof:name":"Aba",
     "wof:parent_id":1108562897,
     "wof:placetype":"locality",

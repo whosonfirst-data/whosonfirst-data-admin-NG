@@ -11,10 +11,14 @@
     "geom:longitude":10.4479,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":10015,
+    "gn:population":10015,
     "iso:country":"NG",
+    "lbl:bbox":"10.4279,11.7598,10.4679,11.7998",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0434\u0430\u0440\u0430"
     ],
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2331686,
-        "qs:id":278502,
+        "qs_pg:id":278502,
         "wk:page":"Madara"
     },
     "wof:country":"NG",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890432241,
-    "wof:lastmodified":1564218720,
+    "wof:lastmodified":1566654485,
     "wof:name":"Madara",
     "wof:parent_id":1108563787,
     "wof:placetype":"locality",

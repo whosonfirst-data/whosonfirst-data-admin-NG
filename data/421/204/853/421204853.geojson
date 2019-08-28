@@ -10,8 +10,12 @@
     "geom:latitude":5.96669,
     "geom:longitude":8.70632,
     "iso:country":"NG",
+    "lbl:bbox":"8.68632,5.94669,8.72632,5.98669",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0627\u06cc\u06a9\u0648\u0645"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2338242,
         "gp:id":1394575,
-        "qs:id":250403,
+        "qs_pg:id":250403,
         "wd:id":"Q5996091"
     },
     "wof:country":"NG",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421204853,
-    "wof:lastmodified":1563328995,
+    "wof:lastmodified":1566654445,
     "wof:name":"Ikom",
     "wof:parent_id":1108563599,
     "wof:placetype":"locality",

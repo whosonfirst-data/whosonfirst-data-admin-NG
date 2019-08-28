@@ -9,15 +9,18 @@
     "geom:bbox":"3.38333,8.66667,3.38333,8.66667",
     "geom:latitude":8.66667,
     "geom:longitude":3.38333,
-    "gn:gn_country":"NG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":178677,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
     "gn:population":178677,
     "iso:country":"NG",
+    "lbl:bbox":"3.36333,8.64667,3.40333,8.68667",
     "lbl:latitude":8.66667,
     "lbl:longitude":3.38333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Saki"
@@ -46,9 +49,6 @@
     "name:rus_x_variant":[
         "\u0428\u0430\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Shaki"
-    ],
     "name:yor_x_preferred":[
         "\u1e62ak\u00ed"
     ],
@@ -64,7 +64,7 @@
     "qs_pg:qs_id":1034979,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125892983,
-    "wof:lastmodified":1563329129,
+    "wof:lastmodified":1566654493,
     "wof:name":"Saki",
     "wof:parent_id":1108564329,
     "wof:placetype":"locality",

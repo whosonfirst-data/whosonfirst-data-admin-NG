@@ -9,17 +9,20 @@
     "geom:bbox":"5.72227,7.75833,5.72227,7.75833",
     "geom:latitude":7.75833,
     "geom:longitude":5.72227,
-    "gn:gn_country":"NG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6317,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
     "gn:population":6317,
     "iso:country":"NG",
+    "lbl:bbox":"5.70227,7.73833,5.74227,7.77833",
     "lbl:latitude":7.75833,
     "lbl:longitude":5.72227,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Omuo-Kota"
     ],
     "qs_pg:aaroncc":"NG",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":91249,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125860081,
-    "wof:lastmodified":1509396535,
+    "wof:lastmodified":1566654489,
     "wof:name":"Omuo-Ekiti",
     "wof:parent_id":1108563289,
     "wof:placetype":"locality",

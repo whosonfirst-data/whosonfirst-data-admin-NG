@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.62426,4.8272,6.66426,4.8672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9113780
     },
     "wof:country":"NG",
-    "wof:geomhash":"5df8d7ff3514ebf22159bac8ca2762ad",
+    "wof:geomhash":"b4f8538b8ce54df119b9662d7d0eea62",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209242477,
-    "wof:lastmodified":1536293274,
+    "wof:lastmodified":1566652478,
     "wof:name":"Amaleghani",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.644260000000001,
+    6.64426,
     4.8472,
-    6.644260000000001,
+    6.64426,
     4.8472
 ],
   "geometry": {"coordinates":[6.64426,4.8472],"type":"Point"}

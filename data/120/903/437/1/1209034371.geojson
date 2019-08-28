@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.36666,4.99505,7.40666,5.03505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2320575
     },
     "wof:country":"NG",
-    "wof:geomhash":"196e483fa286b39862b808e4d9208b84",
+    "wof:geomhash":"38de90332ec452c6a88e0145a9d466cc",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209034371,
-    "wof:lastmodified":1536299749,
+    "wof:lastmodified":1566652616,
     "wof:name":"Umu Aja",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.386660000000001,
+    7.38666,
     5.01505,
-    7.386660000000001,
+    7.38666,
     5.01505
 ],
   "geometry": {"coordinates":[7.38666,5.01505],"type":"Point"}

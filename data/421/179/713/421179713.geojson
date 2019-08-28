@@ -10,8 +10,12 @@
     "geom:latitude":9.81417,
     "geom:longitude":11.30889,
     "iso:country":"NG",
+    "lbl:bbox":"11.28889,9.79417,11.32889,9.83417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kaltungo"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Kaltungo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalfungo"
     ],
     "name:yor_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2335369,
         "gp:id":1396684,
-        "qs:id":183562,
+        "qs_pg:id":183562,
         "wd:id":"Q6354502"
     },
     "wof:country":"NG",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421179713,
-    "wof:lastmodified":1563329048,
+    "wof:lastmodified":1566654464,
     "wof:name":"Kaltungo",
     "wof:parent_id":1108563765,
     "wof:placetype":"locality",

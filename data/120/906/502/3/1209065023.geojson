@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.64848,5.26485,7.68848,5.30485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2338215
     },
     "wof:country":"NG",
-    "wof:geomhash":"f594f06aa67cb726c8256a1d293c9920",
+    "wof:geomhash":"c2d177d4ca57b3287eee2bf640d552e5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209065023,
-    "wof:lastmodified":1536298832,
+    "wof:lastmodified":1566652308,
     "wof:name":"Ikot Abia",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.6684800000000015,
+    7.66848,
     5.28485,
-    7.6684800000000015,
+    7.66848,
     5.28485
 ],
   "geometry": {"coordinates":[7.66848,5.28485],"type":"Point"}

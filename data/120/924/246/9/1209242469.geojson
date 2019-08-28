@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.09696,5.11072,6.13696,5.15072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7101075
     },
     "wof:country":"NG",
-    "wof:geomhash":"b7fe966ea7fd1bd53abe93adc4c77bca",
+    "wof:geomhash":"25e72d8b51ba44a2fbbeb779c92ec783",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209242469,
-    "wof:lastmodified":1536293274,
+    "wof:lastmodified":1566652478,
     "wof:name":"Falafagbene",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     6.11696,
-    5.130719999999998,
+    5.13072,
     6.11696,
-    5.130719999999998
+    5.13072
 ],
   "geometry": {"coordinates":[6.11696,5.13072],"type":"Point"}
 }

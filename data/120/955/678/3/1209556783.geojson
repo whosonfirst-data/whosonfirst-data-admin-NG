@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.81944,7.49333,3.85944,7.53333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2591569
     },
     "wof:country":"NG",
-    "wof:geomhash":"1ec7e28a5b2abb2cbbfb85016494a3df",
+    "wof:geomhash":"8460258fe5a46a4c3cb635d62e078f60",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209556783,
-    "wof:lastmodified":1536283519,
+    "wof:lastmodified":1566652381,
     "wof:name":"Alase",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.83944,
-    7.513330000000002,
+    7.51333,
     3.83944,
-    7.513330000000002
+    7.51333
 ],
   "geometry": {"coordinates":[3.83944,7.51333],"type":"Point"}
 }

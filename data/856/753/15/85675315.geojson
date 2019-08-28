@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.57541,
     "lbl:longitude":7.098545,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Imo",
     "mps:latitude":5.50996,
     "mps:longitude":7.047582,
@@ -36,7 +37,7 @@
         "\u0627\u06cc\u0645\u0648 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
     "name:ben_x_preferred":[
-        "\u0987\u09ae\u09cb  \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
+        "\u0987\u09ae\u09cb \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
     "name:bul_x_preferred":[
         "\u0418\u043c\u043e"
@@ -174,7 +175,7 @@
         "Imo"
     ],
     "name:tam_x_preferred":[
-        "\u0b87\u0bae\u0bcb  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b87\u0bae\u0bcb \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c2e\u0c4b \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -187,9 +188,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u043c\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Imo State"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0645\u0648 \u0631\u06cc\u0627\u0633\u062a"
@@ -275,9 +273,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"5,135",
     "statoids:area_mi":"1,982",
     "statoids:as_of_date":"2006-03-21",
@@ -302,7 +300,7 @@
         "gp:id":2346356,
         "hasc:id":"NG.IM",
         "iso:id":"NG-IM",
-        "qs:id":1168696,
+        "qs_pg:id":1168696,
         "unlc:id":"NG-IM",
         "wd:id":"Q842939",
         "wk:page":"Imo State"
@@ -325,11 +323,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731422,
+    "wof:lastmodified":1566650852,
     "wof:name":"Imo",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3934899,
     "wof:population_rank":12,

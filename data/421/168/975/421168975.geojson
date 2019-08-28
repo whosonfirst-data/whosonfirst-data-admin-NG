@@ -10,6 +10,9 @@
     "geom:latitude":11.84644,
     "geom:longitude":13.16027,
     "iso:country":"NG",
+    "lbl:bbox":"13.14027,11.82644,13.18027,11.86644",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -194,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0439\u0434\u0443\u0433\u0443\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maidugari"
     ],
     "name:urd_x_preferred":[
@@ -345,7 +348,7 @@
         "gn:id":2331447,
         "gp:id":1399579,
         "loc:id":"n81085347",
-        "qs:id":274200,
+        "qs_pg:id":274200,
         "wd:id":"Q221436",
         "wk:page":"Maiduguri"
     },
@@ -362,7 +365,7 @@
         }
     ],
     "wof:id":421168975,
-    "wof:lastmodified":1563328973,
+    "wof:lastmodified":1566654437,
     "wof:name":"Maiduguri",
     "wof:parent_id":1108563923,
     "wof:placetype":"locality",

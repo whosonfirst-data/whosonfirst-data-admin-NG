@@ -11,10 +11,14 @@
     "geom:longitude":6.92232,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":9367,
+    "gn:population":9367,
     "iso:country":"NG",
+    "lbl:bbox":"6.90232,11.93527,6.94232,11.97527",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Chafe"
     ],
@@ -31,9 +35,6 @@
         "Chafe"
     ],
     "name:spa_x_preferred":[
-        "Tsafe"
-    ],
-    "name:unk_x_variant":[
         "Tsafe"
     ],
     "name:yor_x_preferred":[
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":2346199,
         "gp:id":1398941,
-        "qs:id":1035076,
+        "qs_pg:id":1035076,
         "wd:id":"Q255961",
         "wk:page":"Chafe"
     },
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":890422205,
-    "wof:lastmodified":1563329066,
+    "wof:lastmodified":1566654469,
     "wof:name":"Chafe",
     "wof:parent_id":1108564421,
     "wof:placetype":"locality",

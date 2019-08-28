@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.01233,7.45291,9.05233,7.49291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9633395
     },
     "wof:country":"NG",
-    "wof:geomhash":"8f3e4e0632d349883855e4f99522b34f",
+    "wof:geomhash":"4e210a1399c5b6b7ab138bb281e559e1",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209168663,
-    "wof:lastmodified":1536295656,
+    "wof:lastmodified":1566652748,
     "wof:name":"Kpengwa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.03233,
-    7.4729100000000015,
+    7.47291,
     9.03233,
-    7.4729100000000015
+    7.47291
 ],
   "geometry": {"coordinates":[9.03233,7.47291],"type":"Point"}
 }

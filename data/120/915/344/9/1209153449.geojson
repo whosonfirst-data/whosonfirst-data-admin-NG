@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.96406,5.10952,6.00406,5.14952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2327948
     },
     "wof:country":"NG",
-    "wof:geomhash":"b148eb5a7aa42fa57af79eaf2e63a44b",
+    "wof:geomhash":"4773de5718786941e6ee2b96696e35f3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209153449,
-    "wof:lastmodified":1536296133,
+    "wof:lastmodified":1566652459,
     "wof:name":"Odorubo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     5.98406,
-    5.1295199999999985,
+    5.12952,
     5.98406,
-    5.1295199999999985
+    5.12952
 ],
   "geometry": {"coordinates":[5.98406,5.12952],"type":"Point"}
 }

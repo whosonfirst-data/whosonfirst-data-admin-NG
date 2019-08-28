@@ -11,11 +11,15 @@
     "geom:longitude":3.81867,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":11701,
+    "gn:population":11701,
     "iso:country":"NG",
+    "lbl:bbox":"3.79867,12.53208,3.83867,12.57208",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Kangiwa"
     ],
     "qs:name":"Kaingiwa",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2335568,
         "gp:id":1396556,
-        "qs:id":278520
+        "qs_pg:id":278520
     },
     "wof:country":"NG",
     "wof:created":1469052321,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441399,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566654469,
     "wof:name":"Kaingiwa",
     "wof:parent_id":1108563027,
     "wof:placetype":"locality",

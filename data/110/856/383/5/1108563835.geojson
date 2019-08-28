@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.10615,
     "lbl:longitude":6.264382,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Bayelsa",
     "meso:diss_me":"Kolokuma/OpokumaBayelsa",
     "meso:gadm_admin":"Kolokuma/Opokuma",
@@ -31,6 +33,7 @@
     "mps:longitude":6.264382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kolokuma/Opokuma"
     ],
@@ -54,9 +57,9 @@
         "Kolokuma/Opokuma"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"361.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Kaiama",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108563835,
-    "wof:lastmodified":1564217278,
+    "wof:lastmodified":1566653487,
     "wof:name":"Kolokuma/Opokuma",
     "wof:parent_id":85675321,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.77573,6.96012,3.81573,7.00012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2326003
     },
     "wof:country":"NG",
-    "wof:geomhash":"e06303ab0c51252a58bad3af6c4833be",
+    "wof:geomhash":"1ea05d987c407b378bf1d38be4d9bc26",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209396839,
-    "wof:lastmodified":1536288272,
+    "wof:lastmodified":1566652307,
     "wof:name":"Oniyangi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.79573,
-    6.9801199999999985,
+    6.98012,
     3.79573,
-    6.9801199999999985
+    6.98012
 ],
   "geometry": {"coordinates":[3.79573,6.98012],"type":"Point"}
 }

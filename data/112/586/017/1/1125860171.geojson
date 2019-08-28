@@ -9,17 +9,20 @@
     "geom:bbox":"4.09835,10.84686,4.09835,10.84686",
     "geom:latitude":10.84686,
     "geom:longitude":4.09835,
-    "gn:gn_country":"NG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7687,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
     "gn:population":7687,
     "iso:country":"NG",
+    "lbl:bbox":"4.07835,10.82686,4.11835,10.86686",
     "lbl:latitude":10.84686,
     "lbl:longitude":4.09835,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konkweso"
     ],
     "qs_pg:aaroncc":"NG",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":91275,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125860171,
-    "wof:lastmodified":1509396540,
+    "wof:lastmodified":1566654491,
     "wof:name":"Konkwesso",
     "wof:parent_id":1108563153,
     "wof:placetype":"locality",

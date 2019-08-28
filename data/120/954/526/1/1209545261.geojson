@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.49554,11.2055,6.53554,11.2455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2349843
     },
     "wof:country":"NG",
-    "wof:geomhash":"44f080ff7e1241a42c05e1b5123e6830",
+    "wof:geomhash":"70a9fe182ea66a143230ba5e8eef38af",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209545261,
-    "wof:lastmodified":1536283862,
+    "wof:lastmodified":1566652263,
     "wof:name":"Angwan Nababa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.5155400000000006,
+    6.51554,
     11.2255,
-    6.5155400000000006,
+    6.51554,
     11.2255
 ],
   "geometry": {"coordinates":[6.51554,11.2255],"type":"Point"}

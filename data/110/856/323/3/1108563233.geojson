@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.903834,
     "lbl:longitude":14.003676,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Borno",
     "meso:diss_me":"DikwaBorno",
     "meso:gadm_admin":"Dikwa",
@@ -31,6 +33,7 @@
     "mps:longitude":14.003676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Dikwa"
     ],
@@ -59,9 +62,9 @@
         "Dikwa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,774.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Dikwa",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108563233,
-    "wof:lastmodified":1564217284,
+    "wof:lastmodified":1566653491,
     "wof:name":"Dikwa",
     "wof:parent_id":85675301,
     "wof:placetype":"county",

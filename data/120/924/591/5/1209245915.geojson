@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.54667,8.54667,6.58667,8.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2343002
     },
     "wof:country":"NG",
-    "wof:geomhash":"b3ff253a6007d5d1a2ecff610b5436d0",
+    "wof:geomhash":"d7c7faa4b5c30580b22170d0e5877c56",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209245915,
-    "wof:lastmodified":1536293166,
+    "wof:lastmodified":1566652475,
     "wof:name":"Ewan",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.5666699999999985,
+    6.56667,
     8.56667,
-    6.5666699999999985,
+    6.56667,
     8.56667
 ],
   "geometry": {"coordinates":[6.56667,8.56667],"type":"Point"}

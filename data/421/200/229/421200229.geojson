@@ -10,8 +10,12 @@
     "geom:latitude":13.22277,
     "geom:longitude":4.90955,
     "iso:country":"NG",
+    "lbl:bbox":"4.88955,13.20277,4.92955,13.24277",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Binji"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":2347116,
         "gp:id":1387793,
-        "qs:id":1295338,
+        "qs_pg:id":1295338,
         "wd:id":"Q4914402",
         "wk:page":"Binji"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421200229,
-    "wof:lastmodified":1563329042,
+    "wof:lastmodified":1566654461,
     "wof:name":"Binji",
     "wof:parent_id":1108563121,
     "wof:placetype":"locality",

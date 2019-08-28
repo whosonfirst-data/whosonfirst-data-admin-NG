@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.77965,
     "lbl:longitude":7.843895,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Akwa lbom",
     "meso:diss_me":"EtinanAkwa lbom",
     "meso:gadm_admin":"Etinan",
@@ -31,6 +33,7 @@
     "mps:longitude":7.843895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Etinan"
     ],
@@ -57,9 +60,9 @@
         "Etinan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"175.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Etinan",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108563339,
-    "wof:lastmodified":1564217322,
+    "wof:lastmodified":1566653517,
     "wof:name":"Etinan",
     "wof:parent_id":85675309,
     "wof:placetype":"county",

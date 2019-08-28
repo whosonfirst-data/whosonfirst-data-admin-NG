@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.19037,8.98681,7.23037,9.02681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2321429
     },
     "wof:country":"NG",
-    "wof:geomhash":"031a65b8a0fbea044f51a30e9583a797",
+    "wof:geomhash":"b68cb8ffa8374b5eb50b8cbb02a764e0",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209592957,
-    "wof:lastmodified":1536282419,
+    "wof:lastmodified":1566652601,
     "wof:name":"Tungan Ali",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.210369999999998,
+    7.21037,
     9.00681,
-    7.210369999999998,
+    7.21037,
     9.00681
 ],
   "geometry": {"coordinates":[7.21037,9.00681],"type":"Point"}

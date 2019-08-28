@@ -10,8 +10,12 @@
     "geom:latitude":5.1009,
     "geom:longitude":6.81411,
     "iso:country":"NG",
+    "lbl:bbox":"6.79411,5.0809,6.83411,5.1209",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Elele"
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2343512,
         "gp:id":1390478,
-        "qs:id":139734,
+        "qs_pg:id":139734,
         "wd:id":"Q5358800",
         "wk:page":"Elele"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421178831,
-    "wof:lastmodified":1563329055,
+    "wof:lastmodified":1566654466,
     "wof:name":"Elele",
     "wof:parent_id":1108563611,
     "wof:placetype":"locality",

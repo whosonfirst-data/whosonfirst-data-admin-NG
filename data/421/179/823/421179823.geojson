@@ -10,8 +10,12 @@
     "geom:latitude":7.13333,
     "geom:longitude":4.38333,
     "iso:country":"NG",
+    "lbl:bbox":"4.36333,7.11333,4.40333,7.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Shasha"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2323315,
         "gp:id":1405535,
-        "qs:id":193783
+        "qs_pg:id":193783
     },
     "wof:country":"NG",
     "wof:created":1459009234,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421179823,
-    "wof:lastmodified":1564218705,
+    "wof:lastmodified":1566654464,
     "wof:name":"Shasha",
     "wof:parent_id":1108562951,
     "wof:placetype":"locality",

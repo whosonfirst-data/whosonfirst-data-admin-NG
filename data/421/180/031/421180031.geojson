@@ -10,6 +10,9 @@
     "geom:latitude":7.1,
     "geom:longitude":4.83333,
     "iso:country":"NG",
+    "lbl:bbox":"4.81333,7.08,4.85333,7.12",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -190,7 +193,7 @@
     "wof:concordances":{
         "gn:id":2326171,
         "gp:id":1403443,
-        "qs:id":274198,
+        "qs_pg:id":274198,
         "wd:id":"Q1853310",
         "wk:page":"Ondo City"
     },
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421180031,
-    "wof:lastmodified":1563329002,
+    "wof:lastmodified":1566654448,
     "wof:name":"Ondo",
     "wof:parent_id":1108564187,
     "wof:placetype":"locality",

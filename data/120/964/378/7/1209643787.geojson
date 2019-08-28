@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.55916,9.79136,6.59916,9.83136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":10408413
     },
     "wof:country":"NG",
-    "wof:geomhash":"ab1104170ccd4430c034b7d86d0a9788",
+    "wof:geomhash":"d117b73fcadfc092ecfce6a592a3344e",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209643787,
-    "wof:lastmodified":1536280801,
+    "wof:lastmodified":1566652356,
     "wof:name":"Maikama",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.579160000000001,
+    6.57916,
     9.81136,
-    6.579160000000001,
+    6.57916,
     9.81136
 ],
   "geometry": {"coordinates":[6.57916,9.81136],"type":"Point"}

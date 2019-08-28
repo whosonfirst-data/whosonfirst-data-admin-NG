@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.14352,7.35899,9.18352,7.39899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9633976
     },
     "wof:country":"NG",
-    "wof:geomhash":"05637eef4312dff2f57885f4e98b11d0",
+    "wof:geomhash":"936db1f61fdb31782ddd8e7bc854b0af",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209369171,
-    "wof:lastmodified":1536289166,
+    "wof:lastmodified":1566652232,
     "wof:name":"Aernan",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.16352,
-    7.378989999999999,
+    7.37899,
     9.16352,
-    7.378989999999999
+    7.37899
 ],
   "geometry": {"coordinates":[9.16352,7.37899],"type":"Point"}
 }

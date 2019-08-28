@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.99269,
     "lbl:longitude":8.348885,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Cross River",
     "meso:diss_me":"Calabar-MunicipalCross River",
     "meso:gadm_admin":"Akpabuyo",
@@ -31,6 +33,7 @@
     "mps:longitude":8.348885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Calabar Municipal"
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"142.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Calabar",
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gp:id":56057713,
         "hasc:id":"NG.CR.CM",
-        "qs:id":238189,
+        "qs_pg:id":238189,
         "wd:id":"Q5018280"
     },
     "wof:country":"NG",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421204119,
-    "wof:lastmodified":1563328994,
+    "wof:lastmodified":1566654445,
     "wof:name":"Calabar-Municipal",
     "wof:parent_id":85675331,
     "wof:placetype":"county",

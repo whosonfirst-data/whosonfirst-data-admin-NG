@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.726199,
     "lbl:longitude":6.059843,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bayelsa",
     "mps:latitude":4.767964,
     "mps:longitude":6.038319,
@@ -188,9 +189,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439\u0435\u043b\u044c\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Bayelsa State"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u06cc\u0644\u0633\u0627 \u0631\u06cc\u0627\u0633\u062a"
     ],
@@ -275,9 +273,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"9,363",
     "statoids:area_mi":"3,615",
     "statoids:as_of_date":"2006-03-21",
@@ -302,7 +300,7 @@
         "gp:id":20070152,
         "hasc:id":"NG.BY",
         "iso:id":"NG-BY",
-        "qs:id":482870,
+        "qs_pg:id":482870,
         "unlc:id":"NG-BY",
         "wd:id":"Q532153",
         "wk:page":"Bayelsa State"
@@ -325,11 +323,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731421,
+    "wof:lastmodified":1566650849,
     "wof:name":"Bayelsa",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":1703358,
     "wof:population_rank":12,

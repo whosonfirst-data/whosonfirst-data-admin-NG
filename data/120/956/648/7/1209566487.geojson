@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.21333,12.76333,4.25333,12.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":2340263
     },
     "wof:country":"NG",
-    "wof:geomhash":"9c926c889fa6f6907f0dae69a3a1ab4c",
+    "wof:geomhash":"ee1563f921f28f7976e9ffce5be969af",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209566487,
-    "wof:lastmodified":1536283224,
+    "wof:lastmodified":1566652697,
     "wof:name":"Guamase",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.2333300000000005,
+    4.23333,
     12.78333,
-    4.2333300000000005,
+    4.23333,
     12.78333
 ],
   "geometry": {"coordinates":[4.23333,12.78333],"type":"Point"}

@@ -10,8 +10,10 @@
     "geom:latitude":11.993225,
     "geom:longitude":8.511549,
     "iso:country":"NG",
+    "lbl:bbox":"8.506549,11.988225,8.516549,11.998225",
     "lbl:latitude":11.993225,
     "lbl:longitude":8.511549,
+    "lbl:max_zoom":18.0,
     "mps:latitude":11.993652,
     "mps:longitude":8.517858,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     "name:spa_x_preferred":[
         "Fagge"
     ],
-    "name:unk_x_variant":[
-        "Fagge"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u06af\u06cc"
     ],
@@ -91,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":64,
     "wof:belongsto":[
         85675425,
@@ -120,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563324478,
+    "wof:lastmodified":1566650857,
     "wof:name":"Fagge",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":6.22476,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":84373,
+    "gn:population":84373,
     "iso:country":"NG",
+    "lbl:bbox":"6.20476,7.57464,6.24476,7.61464",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bul_x_preferred":[
         "\u041e\u0433\u0430\u043c\u0438\u043d\u0430\u043d\u0430"
     ],
@@ -26,9 +30,6 @@
     ],
     "name:nld_x_preferred":[
         "Ogaminan"
-    ],
-    "name:unk_x_variant":[
-        "Ogaminana"
     ],
     "qs:name":"Ogaminan",
     "qs:photos_9r":0,
@@ -46,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2327827,
         "gp:id":1402753,
-        "qs:id":91260,
+        "qs_pg:id":91260,
         "wd:id":"Q7079807",
         "wk:page":"Ogaminan"
     },
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":890421441,
-    "wof:lastmodified":1563329080,
+    "wof:lastmodified":1566654473,
     "wof:name":"Ogaminan",
     "wof:parent_id":1108562917,
     "wof:placetype":"locality",

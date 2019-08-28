@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.92593,5.11246,7.96593,5.15246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7074538
     },
     "wof:country":"NG",
-    "wof:geomhash":"b5a827e57a057f8a1e4a25e1d8e93003",
+    "wof:geomhash":"2a6a9cf1dd6ab0e28268b19ca5a2f056",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209070369,
-    "wof:lastmodified":1536298667,
+    "wof:lastmodified":1566652242,
     "wof:name":"Ikot Uso Akpan",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.9459300000000015,
+    7.94593,
     5.13246,
-    7.9459300000000015,
+    7.94593,
     5.13246
 ],
   "geometry": {"coordinates":[7.94593,5.13246],"type":"Point"}

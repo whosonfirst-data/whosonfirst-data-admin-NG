@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.05726,4.71633,6.09726,4.75633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2346848
     },
     "wof:country":"NG",
-    "wof:geomhash":"724fa62987e1baf5293004d56bd15fc1",
+    "wof:geomhash":"c050aa5b8e1a3bf531749e8bddbe78d8",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209138837,
-    "wof:lastmodified":1536296572,
+    "wof:lastmodified":1566652550,
     "wof:name":"Bolougbene",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     6.07726,
-    4.7363300000000015,
+    4.73633,
     6.07726,
-    4.7363300000000015
+    4.73633
 ],
   "geometry": {"coordinates":[6.07726,4.73633],"type":"Point"}
 }

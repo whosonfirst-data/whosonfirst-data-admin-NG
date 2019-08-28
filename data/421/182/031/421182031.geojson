@@ -10,6 +10,9 @@
     "geom:latitude":10.04469,
     "geom:longitude":11.21217,
     "iso:country":"NG",
+    "lbl:bbox":"11.19217,10.02469,11.23217,10.06469",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -149,7 +152,7 @@
     "wof:concordances":{
         "gn:id":2333451,
         "gp:id":56123056,
-        "qs:id":542386,
+        "qs_pg:id":542386,
         "wd:id":"Q12731737"
     },
     "wof:country":"NG",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421182031,
-    "wof:lastmodified":1561766820,
+    "wof:lastmodified":1566654466,
     "wof:name":"Kumo",
     "wof:parent_id":1108562965,
     "wof:placetype":"locality",

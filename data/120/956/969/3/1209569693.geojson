@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.92756,7.27511,8.96756,7.31511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9974575
     },
     "wof:country":"NG",
-    "wof:geomhash":"6a2cd33b3fd3865b016943bc4cdcb300",
+    "wof:geomhash":"356cf79e2b9d7e258b11df19b34e4eb9",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209569693,
-    "wof:lastmodified":1536283124,
+    "wof:lastmodified":1566652694,
     "wof:name":"Yohunde",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.947560000000003,
+    8.94756,
     7.29511,
-    8.947560000000003,
+    8.94756,
     7.29511
 ],
   "geometry": {"coordinates":[8.94756,7.29511],"type":"Point"}

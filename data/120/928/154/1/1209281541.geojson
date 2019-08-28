@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.12004,7.55808,8.16004,7.59808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6852633
     },
     "wof:country":"NG",
-    "wof:geomhash":"6c91a365cdcaa07c5af06ba5138b8592",
+    "wof:geomhash":"3b8f563f03853a77f24c19b6904493c5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209281541,
-    "wof:lastmodified":1536292005,
+    "wof:lastmodified":1566652858,
     "wof:name":"Adum",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.140039999999999,
+    8.14004,
     7.57808,
-    8.140039999999999,
+    8.14004,
     7.57808
 ],
   "geometry": {"coordinates":[8.14004,7.57808],"type":"Point"}

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.77519,5.284,5.81519,5.324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2342927
     },
     "wof:country":"NG",
-    "wof:geomhash":"c645fc9b3b1b09f3436e690b4d96a11d",
+    "wof:geomhash":"42bb530d015ccdb5da81db78eb1c63f5",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209458047,
-    "wof:lastmodified":1536286473,
+    "wof:lastmodified":1566652819,
     "wof:name":"Ezebri",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     5.79519,
-    5.3039999999999985,
+    5.304,
     5.79519,
-    5.3039999999999985
+    5.304
 ],
   "geometry": {"coordinates":[5.79519,5.304],"type":"Point"}
 }

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"10.31238,10.24688,10.35238,10.28688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0644\u06a9\u0627\u0644\u0631\u06cc"
     ],
@@ -54,9 +58,6 @@
     "name:spa_x_preferred":[
         "Alkaleri"
     ],
-    "name:und_x_variant":[
-        "Alkalere"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1226172169,
-    "wof:lastmodified":1564220372,
+    "wof:lastmodified":1566655995,
     "wof:name":"Alkaleri",
     "wof:parent_id":1108562997,
     "wof:placetype":"locality",

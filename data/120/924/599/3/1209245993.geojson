@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.40064,13.03272,5.44064,13.07272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":7013053
     },
     "wof:country":"NG",
-    "wof:geomhash":"b29748b8962f4d7837b67d0d3b37df1c",
+    "wof:geomhash":"ed58b9c0afe262cf7c75a199cec87692",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209245993,
-    "wof:lastmodified":1536293163,
+    "wof:lastmodified":1566652473,
     "wof:name":"Tudun Danserima",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.4206400000000015,
+    5.42064,
     13.05272,
-    5.4206400000000015,
+    5.42064,
     13.05272
 ],
   "geometry": {"coordinates":[5.42064,13.05272],"type":"Point"}

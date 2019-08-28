@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.15508,
     "lbl:longitude":8.186549,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Katsina",
     "meso:diss_me":"Mai'AduaKatsina",
     "meso:gadm_admin":"Mai'Adua",
@@ -31,6 +33,7 @@
     "mps:longitude":8.186549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mai'Adua"
     ],
@@ -59,7 +62,7 @@
         "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Mai'Adua"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108563919,
-    "wof:lastmodified":1563327713,
+    "wof:lastmodified":1566653443,
     "wof:name":"Mai'Adua",
     "wof:parent_id":85675429,
     "wof:placetype":"county",

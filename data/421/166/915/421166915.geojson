@@ -10,6 +10,9 @@
     "geom:latitude":11.52325,
     "geom:longitude":7.30813,
     "iso:country":"NG",
+    "lbl:bbox":"7.28813,11.50325,7.32813,11.54325",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -50,7 +53,7 @@
     "name:spa_x_preferred":[
         "Funtua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puntua"
     ],
     "name:yor_x_preferred":[
@@ -185,7 +188,7 @@
     "wof:concordances":{
         "gn:id":2342490,
         "gp:id":1391227,
-        "qs:id":278545,
+        "qs_pg:id":278545,
         "wd:id":"Q3056264"
     },
     "wof:country":"NG",
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421166915,
-    "wof:lastmodified":1563328974,
+    "wof:lastmodified":1566654437,
     "wof:name":"Funtua",
     "wof:parent_id":1108563377,
     "wof:placetype":"locality",

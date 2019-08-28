@@ -10,8 +10,12 @@
     "geom:latitude":12.65131,
     "geom:longitude":8.41615,
     "iso:country":"NG",
+    "lbl:bbox":"8.39615,12.63131,8.43615,12.67131",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kazaure"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2334674,
         "gp:id":1397174,
-        "qs:id":188945,
+        "qs_pg:id":188945,
         "wd:id":"Q6380928",
         "wk:page":"Kazaure"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421199045,
-    "wof:lastmodified":1563329040,
+    "wof:lastmodified":1566654460,
     "wof:name":"Kazaure",
     "wof:parent_id":1108563805,
     "wof:placetype":"locality",

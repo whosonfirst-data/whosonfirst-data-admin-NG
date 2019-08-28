@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.37008,4.45943,7.41008,4.49943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7053205
     },
     "wof:country":"NG",
-    "wof:geomhash":"6a997758ed4917acb705f5857f1acbeb",
+    "wof:geomhash":"44fbd4e239b278edb306d3ac0e2804ad",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209033269,
-    "wof:lastmodified":1536299783,
+    "wof:lastmodified":1566652633,
     "wof:name":"Aganna",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     7.39008,
-    4.479430000000002,
+    4.47943,
     7.39008,
-    4.479430000000002
+    4.47943
 ],
   "geometry": {"coordinates":[7.39008,4.47943],"type":"Point"}
 }

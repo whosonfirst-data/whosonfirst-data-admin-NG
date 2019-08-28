@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.64687,11.09107,7.68687,11.13107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":7019844
     },
     "wof:country":"NG",
-    "wof:geomhash":"039e4a5ef754e2f2c22eb9bd94cf9367",
+    "wof:geomhash":"5b8b8612a240118e566a2f232d68e921",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209172129,
-    "wof:lastmodified":1536295544,
+    "wof:lastmodified":1566652853,
     "wof:name":"Ungwan Lumbayi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.6668699999999985,
+    7.66687,
     11.11107,
-    7.6668699999999985,
+    7.66687,
     11.11107
 ],
   "geometry": {"coordinates":[7.66687,11.11107],"type":"Point"}

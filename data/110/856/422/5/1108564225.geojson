@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.00084,
     "lbl:longitude":7.217582,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Anambra",
     "meso:diss_me":"Orumba SouthAnambra",
     "meso:gadm_admin":"OrumbaSo",
@@ -31,6 +33,7 @@
     "mps:longitude":7.217582,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Orumba South"
     ],
@@ -54,9 +57,9 @@
         "Orumba South"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"192.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Umunze",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108564225,
-    "wof:lastmodified":1564217239,
+    "wof:lastmodified":1566653461,
     "wof:name":"Orumba South",
     "wof:parent_id":85675375,
     "wof:placetype":"county",

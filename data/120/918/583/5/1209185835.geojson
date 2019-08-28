@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"2.89667,6.54667,2.93667,6.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2338784
     },
     "wof:country":"NG",
-    "wof:geomhash":"9da3d91bd8e666615dd9da88c9e4e0c1",
+    "wof:geomhash":"36b3b8269a3b6be5ef54f0b5c01822f9",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209185835,
-    "wof:lastmodified":1536295104,
+    "wof:lastmodified":1566652779,
     "wof:name":"Igbekun",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     2.91667,
-    6.5666699999999985,
+    6.56667,
     2.91667,
-    6.5666699999999985
+    6.56667
 ],
   "geometry": {"coordinates":[2.91667,6.56667],"type":"Point"}
 }

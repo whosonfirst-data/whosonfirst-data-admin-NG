@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.870107,
     "lbl:longitude":7.802232,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ebonyi",
     "meso:diss_me":"Afikpo SouthEbonyi",
     "meso:gadm_admin":"AfikpoSo",
@@ -31,6 +33,7 @@
     "mps:longitude":7.802232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Afikpo South"
     ],
@@ -54,9 +57,9 @@
         "Afikpo South"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"378.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Nguzu-Edda",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108562929,
-    "wof:lastmodified":1564217254,
+    "wof:lastmodified":1566653472,
     "wof:name":"Afikpo South",
     "wof:parent_id":85675399,
     "wof:placetype":"county",

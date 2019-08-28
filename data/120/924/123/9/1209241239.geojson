@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.88536,7.84219,9.92536,7.88219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9530328
     },
     "wof:country":"NG",
-    "wof:geomhash":"f4b4e4c7d7fc24bbd319198c8553b137",
+    "wof:geomhash":"ade7157932f10ac5f21bc442ce967532",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209241239,
-    "wof:lastmodified":1536293313,
+    "wof:lastmodified":1566652482,
     "wof:name":"Kyambe",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.90536,
-    7.862189999999999,
+    7.86219,
     9.90536,
-    7.862189999999999
+    7.86219
 ],
   "geometry": {"coordinates":[9.90536,7.86219],"type":"Point"}
 }

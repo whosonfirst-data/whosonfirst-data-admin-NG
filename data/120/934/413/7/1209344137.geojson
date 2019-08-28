@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"11.3048,6.49488,11.3448,6.53488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2339621
     },
     "wof:country":"NG",
-    "wof:geomhash":"a13c33c25dbb7fd69d01e0c57f5e92f7",
+    "wof:geomhash":"33ee913bd83f80e284cfaf8860732d1e",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209344137,
-    "wof:lastmodified":1536289968,
+    "wof:lastmodified":1566652720,
     "wof:name":"Hainare",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     11.3248,
-    6.514880000000002,
+    6.51488,
     11.3248,
-    6.514880000000002
+    6.51488
 ],
   "geometry": {"coordinates":[11.3248,6.51488],"type":"Point"}
 }

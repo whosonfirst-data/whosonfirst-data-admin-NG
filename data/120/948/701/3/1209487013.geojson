@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.6237,6.73814,3.6637,6.77814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6826436
     },
     "wof:country":"NG",
-    "wof:geomhash":"cb69ed31221665db6de703651a2ea17f",
+    "wof:geomhash":"f515df8b267afa8f02b1b00b374f554a",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209487013,
-    "wof:lastmodified":1536285604,
+    "wof:lastmodified":1566652384,
     "wof:name":"Orita-Odo",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.6437,
-    6.758139999999999,
+    6.75814,
     3.6437,
-    6.758139999999999
+    6.75814
 ],
   "geometry": {"coordinates":[3.6437,6.75814],"type":"Point"}
 }

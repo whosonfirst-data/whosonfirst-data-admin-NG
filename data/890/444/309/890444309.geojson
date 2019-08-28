@@ -11,8 +11,11 @@
     "geom:longitude":7.60063,
     "gn:country":"NG",
     "gn:fcode":"PPLA",
-    "gn:pop":432149,
+    "gn:population":432149,
     "iso:country":"NG",
+    "lbl:bbox":"7.58063,12.96943,7.62063,13.00943",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -238,10 +241,12 @@
     "wof:concordances":{
         "gn:id":2334802,
         "gp:id":1397077,
-        "qs:id":1035010,
-        "qs_pg:id":1116033,
+        "qs_pg:id":1035010,
         "wd:id":"Q937487",
         "wk:page":"Katsina"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116033
     },
     "wof:country":"NG",
     "wof:created":1469052464,
@@ -256,7 +261,7 @@
         }
     ],
     "wof:id":890444309,
-    "wof:lastmodified":1563329084,
+    "wof:lastmodified":1566654474,
     "wof:name":"Katsina",
     "wof:parent_id":1108563793,
     "wof:placetype":"locality",

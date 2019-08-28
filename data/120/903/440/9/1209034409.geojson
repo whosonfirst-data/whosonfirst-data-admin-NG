@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.98325,6.63323,8.02325,6.67323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2320471
     },
     "wof:country":"NG",
-    "wof:geomhash":"8134506bac89905428d49b36cf8edd07",
+    "wof:geomhash":"ca789aafee43402f5380659f751dde19",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209034409,
-    "wof:lastmodified":1536299748,
+    "wof:lastmodified":1566652614,
     "wof:name":"Umuezekaoha",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.00325,
-    6.6532300000000015,
+    6.65323,
     8.00325,
-    6.6532300000000015
+    6.65323
 ],
   "geometry": {"coordinates":[8.00325,6.65323],"type":"Point"}
 }

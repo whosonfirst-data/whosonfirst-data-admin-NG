@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.64008,5.40908,5.68008,5.44908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":7028108
     },
     "wof:country":"NG",
-    "wof:geomhash":"794ec1a244919dab5e6feca013600d0f",
+    "wof:geomhash":"6a4a5bb692b36c500e15dcd2325d4ee2",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209568219,
-    "wof:lastmodified":1536283169,
+    "wof:lastmodified":1566652688,
     "wof:name":"Dafracogbene",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.6600800000000016,
+    5.66008,
     5.42908,
-    5.6600800000000016,
+    5.66008,
     5.42908
 ],
   "geometry": {"coordinates":[5.66008,5.42908],"type":"Point"}

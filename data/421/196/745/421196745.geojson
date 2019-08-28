@@ -10,8 +10,12 @@
     "geom:latitude":11.55445,
     "geom:longitude":7.42425,
     "iso:country":"NG",
+    "lbl:bbox":"7.40425,11.53445,7.44425,11.57445",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bakori"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2348118,
         "gp:id":1387063,
-        "qs:id":1297935,
+        "qs_pg:id":1297935,
         "wd:id":"Q4849509"
     },
     "wof:country":"NG",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421196745,
-    "wof:lastmodified":1563329034,
+    "wof:lastmodified":1566654458,
     "wof:name":"Bakori",
     "wof:parent_id":1108563077,
     "wof:placetype":"locality",

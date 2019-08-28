@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.36069,7.08954,9.40069,7.12954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9639830
     },
     "wof:country":"NG",
-    "wof:geomhash":"c2c29c873b76c0b3ef59124bdc07850c",
+    "wof:geomhash":"d538f9e9f8e302a6ffe49b145f5dbcdf",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209582757,
-    "wof:lastmodified":1536282735,
+    "wof:lastmodified":1566652653,
     "wof:name":"Akuve",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.38069,
-    7.109539999999999,
+    7.10954,
     9.38069,
-    7.109539999999999
+    7.10954
 ],
   "geometry": {"coordinates":[9.38069,7.10954],"type":"Point"}
 }

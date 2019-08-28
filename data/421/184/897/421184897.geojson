@@ -10,8 +10,12 @@
     "geom:latitude":6.68414,
     "geom:longitude":3.23274,
     "iso:country":"NG",
+    "lbl:bbox":"3.21274,6.66414,3.25274,6.70414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Otta"
@@ -31,7 +35,7 @@
     "name:rus_x_preferred":[
         "\u041e\u0442\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ota"
     ],
     "qs:gn_country":"NG",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":2325457,
         "gp:id":1403973,
-        "qs:id":1014303
+        "qs_pg:id":1014303
     },
     "wof:country":"NG",
     "wof:created":1459009426,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":421184897,
-    "wof:lastmodified":1564218704,
+    "wof:lastmodified":1566654461,
     "wof:name":"Otta",
     "wof:parent_id":1108562921,
     "wof:placetype":"locality",

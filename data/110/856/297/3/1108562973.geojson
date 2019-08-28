@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.43687,
     "lbl:longitude":5.908727,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ondo",
     "meso:diss_me":"Akoko South EastOndo",
     "meso:gadm_admin":"Akoko South-East",
@@ -31,6 +33,7 @@
     "mps:longitude":5.908727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Akoko South East"
     ],
@@ -39,9 +42,9 @@
         "Akoko South-East"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"530.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Oka",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108562973,
-    "wof:lastmodified":1553718140,
+    "wof:lastmodified":1566653548,
     "wof:name":"Akoko South East",
     "wof:parent_id":85675357,
     "wof:placetype":"county",

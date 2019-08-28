@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"2.94667,6.46333,2.98667,6.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ipota"
     ],
@@ -40,8 +44,7 @@
         "\u0418\u043f\u043e\u0442\u0430"
     ],
     "name:und_x_variant":[
-        "Pota",
-        "Ipota"
+        "Pota"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310605609,
-    "wof:lastmodified":1564218049,
+    "wof:lastmodified":1566654033,
     "wof:name":"Ipota",
     "wof:parent_id":421183285,
     "wof:placetype":"locality",

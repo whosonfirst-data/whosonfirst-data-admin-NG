@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.80252,5.75777,7.84252,5.79777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -34,7 +38,7 @@
         "gn:id":2350244
     },
     "wof:country":"NG",
-    "wof:geomhash":"a7dd9c9f12a0d03b1d9b3e6a222b7f1f",
+    "wof:geomhash":"aea75ca07f2f9946a096985a20d36c24",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209344135,
-    "wof:lastmodified":1536289968,
+    "wof:lastmodified":1566652720,
     "wof:name":"Amaiyi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     7.82252,
-    5.7777699999999985,
+    5.77777,
     7.82252,
-    5.7777699999999985
+    5.77777
 ],
   "geometry": {"coordinates":[7.82252,5.77777],"type":"Point"}
 }

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.916422,
     "lbl:longitude":5.782887,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Delta",
     "meso:diss_me":"Ethiope WestDelta",
     "meso:gadm_admin":"Ethiope West",
@@ -31,6 +33,7 @@
     "mps:longitude":5.782887,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ethiope West"
     ],
@@ -57,9 +60,9 @@
         "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0baf\u0ba9\u0bcd"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"536.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Oghara-Town",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108563335,
-    "wof:lastmodified":1564217323,
+    "wof:lastmodified":1566653518,
     "wof:name":"Ethiope West",
     "wof:parent_id":85675387,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.476138,
     "lbl:longitude":5.052198,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Niger",
     "meso:diss_me":"MagamaNiger",
     "meso:gadm_admin":"Magama",
@@ -31,6 +33,7 @@
     "mps:longitude":5.052198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Magama"
     ],
@@ -56,9 +59,9 @@
         "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Magama"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"4,107.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Nasko",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108563915,
-    "wof:lastmodified":1563327714,
+    "wof:lastmodified":1566653444,
     "wof:name":"Magama",
     "wof:parent_id":85675349,
     "wof:placetype":"county",

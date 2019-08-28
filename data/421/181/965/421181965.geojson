@@ -10,8 +10,12 @@
     "geom:latitude":11.42406,
     "geom:longitude":5.22879,
     "iso:country":"NG",
+    "lbl:bbox":"5.20879,11.40406,5.24879,11.44406",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Zuru"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2317548,
         "gp:id":56123037,
-        "qs:id":528450,
+        "qs_pg:id":528450,
         "wd:id":"Q8075416"
     },
     "wof:country":"NG",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421181965,
-    "wof:lastmodified":1563329014,
+    "wof:lastmodified":1566654451,
     "wof:name":"Zuru",
     "wof:parent_id":1108564565,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.66596,7.27528,8.70596,7.31528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2329506
     },
     "wof:country":"NG",
-    "wof:geomhash":"605ff2a3cb993621cab8e316eedac3d5",
+    "wof:geomhash":"07bc610dc44eaf8eb52573bfddd4a6e3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209562871,
-    "wof:lastmodified":1536283332,
+    "wof:lastmodified":1566652685,
     "wof:name":"Nakpam",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.685960000000001,
+    8.68596,
     7.29528,
-    8.685960000000001,
+    8.68596,
     7.29528
 ],
   "geometry": {"coordinates":[8.68596,7.29528],"type":"Point"}

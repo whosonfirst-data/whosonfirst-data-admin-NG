@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.78189,7.08229,8.82189,7.12229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2328469
     },
     "wof:country":"NG",
-    "wof:geomhash":"b19c859ac024bbdc865e753c56a81ca5",
+    "wof:geomhash":"4d1639f475ead5ac2c1a31cb8eca5103",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209168681,
-    "wof:lastmodified":1536295655,
+    "wof:lastmodified":1566652749,
     "wof:name":"Nyichie",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.80189,
-    7.102289999999999,
+    7.10229,
     8.80189,
-    7.102289999999999
+    7.10229
 ],
   "geometry": {"coordinates":[8.80189,7.10229],"type":"Point"}
 }

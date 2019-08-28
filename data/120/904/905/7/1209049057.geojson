@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.06077,12.61555,4.10077,12.65555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":7040146
     },
     "wof:country":"NG",
-    "wof:geomhash":"59e63321fb6d5c7fcf888a222542e793",
+    "wof:geomhash":"483c9fd667960407a43c42f5f9c151c7",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209049057,
-    "wof:lastmodified":1536299310,
+    "wof:lastmodified":1566652640,
     "wof:name":"River Gwamaze",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.0807699999999985,
+    4.08077,
     12.63555,
-    4.0807699999999985,
+    4.08077,
     12.63555
 ],
   "geometry": {"coordinates":[4.08077,12.63555],"type":"Point"}

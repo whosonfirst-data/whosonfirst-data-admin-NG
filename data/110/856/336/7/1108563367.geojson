@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.67674,
     "lbl:longitude":7.08206,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Katsina",
     "meso:diss_me":"FaskariKatsina",
     "meso:gadm_admin":"Faskari",
@@ -31,6 +33,7 @@
     "mps:longitude":7.08206,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Faskari"
     ],
@@ -50,9 +53,9 @@
         "Faskari"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,750.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Faskari",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563367,
-    "wof:lastmodified":1564217212,
+    "wof:lastmodified":1566653441,
     "wof:name":"Faskari",
     "wof:parent_id":85675429,
     "wof:placetype":"county",

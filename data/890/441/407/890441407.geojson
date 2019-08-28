@@ -11,11 +11,15 @@
     "geom:longitude":7.58361,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":9737,
+    "gn:population":9737,
     "iso:country":"NG",
+    "lbl:bbox":"7.56361,7.97917,7.60361,8.01917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bagana"
     ],
     "qs:name":"Bugana",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2348298,
         "gp:id":1386929,
-        "qs:id":278561
+        "qs_pg:id":278561
     },
     "wof:country":"NG",
     "wof:created":1469052322,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441407,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566654470,
     "wof:name":"Bugana",
     "wof:parent_id":1108564179,
     "wof:placetype":"locality",

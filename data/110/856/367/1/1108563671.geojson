@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.429048,
     "lbl:longitude":7.845377,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ebonyi",
     "meso:diss_me":"IshieluEbonyi",
     "meso:gadm_admin":"Ishielu",
@@ -31,6 +33,7 @@
     "mps:longitude":7.845377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ishielu"
     ],
@@ -50,9 +53,9 @@
         "Ishielu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"872.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ezillo",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563671,
-    "wof:lastmodified":1564217317,
+    "wof:lastmodified":1566653513,
     "wof:name":"Ishielu",
     "wof:parent_id":85675399,
     "wof:placetype":"county",

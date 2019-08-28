@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.425002,
     "lbl:longitude":3.378413,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Oyo",
     "meso:diss_me":"AtigboOyo",
     "meso:gadm_admin":"Saki West",
@@ -31,6 +33,7 @@
     "mps:longitude":3.378413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Atigbo"
     ],
@@ -39,7 +42,7 @@
         "Saki West"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108563047,
-    "wof:lastmodified":1555047487,
+    "wof:lastmodified":1566653507,
     "wof:name":"Atigbo",
     "wof:parent_id":85675371,
     "wof:placetype":"county",

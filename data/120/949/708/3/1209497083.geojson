@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.79041,6.68814,3.83041,6.72814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6826391
     },
     "wof:country":"NG",
-    "wof:geomhash":"cd9fba1117bd1d37d086140641b96abe",
+    "wof:geomhash":"04c09cb24316eed73de49e79ef489126",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209497083,
-    "wof:lastmodified":1536285301,
+    "wof:lastmodified":1566652509,
     "wof:name":"Ikongba",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     3.81041,
-    6.708139999999998,
+    6.70814,
     3.81041,
-    6.708139999999998
+    6.70814
 ],
   "geometry": {"coordinates":[3.81041,6.70814],"type":"Point"}
 }

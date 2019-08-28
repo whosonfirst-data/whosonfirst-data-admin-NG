@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.893818,
     "lbl:longitude":7.818119,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Akwa lbom",
     "mps:latitude":4.873172,
     "mps:longitude":7.810395,
@@ -175,7 +176,7 @@
         "Akwa Ibom"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0b95\u0bb5  \u0b87\u0baa\u0bcb\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b85\u0b95\u0bb5 \u0b87\u0baa\u0bcb\u0bae\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c15\u0c4d\u0c35\u0c3e \u0c10\u0c2c\u0c4b\u0c2e\u0c4d \u0c38\u0c4d\u0c1f\u0c47\u0c1f\u0c4d"
@@ -188,9 +189,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0432\u0430-\u0406\u0431\u043e\u043c"
-    ],
-    "name:unk_x_variant":[
-        "Akwa Ibom"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0648\u0627 \u0627\u06cc\u0628\u0648\u0645 \u0631\u06cc\u0627\u0633\u062a"
@@ -276,9 +274,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"6,788",
     "statoids:area_mi":"2,621",
     "statoids:as_of_date":"2006-03-21",
@@ -303,7 +301,7 @@
         "gp:id":2346349,
         "hasc:id":"NG.AK",
         "iso:id":"NG-AK",
-        "qs:id":1097038,
+        "qs_pg:id":1097038,
         "unlc:id":"NG-AK",
         "wd:id":"Q424388",
         "wk:page":"Akwa Ibom State"
@@ -326,11 +324,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731422,
+    "wof:lastmodified":1566650850,
     "wof:name":"Akwa lbom",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3920208,
     "wof:population_rank":12,

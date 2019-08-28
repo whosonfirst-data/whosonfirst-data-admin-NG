@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.672652,
     "lbl:longitude":4.133407,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Osun",
     "meso:diss_me":"IwoOsun",
     "meso:gadm_admin":"Iwo",
@@ -31,6 +33,7 @@
     "mps:longitude":4.133407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Iwo"
     ],
@@ -50,9 +53,9 @@
         "Iwo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"214.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Iwo",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563707,
-    "wof:lastmodified":1564217280,
+    "wof:lastmodified":1566653489,
     "wof:name":"Iwo",
     "wof:parent_id":85675367,
     "wof:placetype":"county",

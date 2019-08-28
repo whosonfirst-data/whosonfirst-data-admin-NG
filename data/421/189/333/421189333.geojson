@@ -10,8 +10,12 @@
     "geom:latitude":6.66737,
     "geom:longitude":9.17157,
     "iso:country":"NG",
+    "lbl:bbox":"9.15157,6.64737,9.19157,6.68737",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Obudu"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":2328151,
         "gp:id":1402011,
-        "qs:id":40442,
+        "qs_pg:id":40442,
         "wd:id":"Q7075580"
     },
     "wof:country":"NG",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421189333,
-    "wof:lastmodified":1563329008,
+    "wof:lastmodified":1566654449,
     "wof:name":"Obudu",
     "wof:parent_id":1108564087,
     "wof:placetype":"locality",

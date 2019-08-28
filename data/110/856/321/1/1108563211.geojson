@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.811735,
     "lbl:longitude":5.419311,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Sokoto",
     "meso:diss_me":"Dange-ShnsiSokoto",
     "meso:gadm_admin":"Dange-Shuni",
@@ -31,6 +33,7 @@
     "mps:longitude":5.419311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dange-Shuni"
     ],
@@ -39,9 +42,9 @@
         "Dange-Shuni"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,210.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Dange",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108563211,
-    "wof:lastmodified":1553718144,
+    "wof:lastmodified":1566653571,
     "wof:name":"Dange-Shnsi",
     "wof:parent_id":85675433,
     "wof:placetype":"county",

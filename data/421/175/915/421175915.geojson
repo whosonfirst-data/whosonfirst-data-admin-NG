@@ -10,8 +10,12 @@
     "geom:latitude":8.86722,
     "geom:longitude":7.005,
     "iso:country":"NG",
+    "lbl:bbox":"6.985,8.84722,7.025,8.88722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kwali"
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2332865,
         "gp:id":1398524,
-        "qs:id":1035016,
+        "qs_pg:id":1035016,
         "wd:id":"Q6450057"
     },
     "wof:country":"NG",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421175915,
-    "wof:lastmodified":1563329019,
+    "wof:lastmodified":1566654452,
     "wof:name":"Kwali",
     "wof:parent_id":1108563869,
     "wof:placetype":"locality",

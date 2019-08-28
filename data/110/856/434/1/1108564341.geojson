@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.784116,
     "lbl:longitude":3.585813,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ogun",
     "meso:diss_me":"ShagamuOgun",
     "meso:gadm_admin":"Shagamu",
@@ -31,6 +33,7 @@
     "mps:longitude":3.585813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Shagamu"
     ],
@@ -38,9 +41,9 @@
         "Shagamu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"614.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Shagamu",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108564341,
-    "wof:lastmodified":1553718162,
+    "wof:lastmodified":1566653536,
     "wof:name":"Shagamu",
     "wof:parent_id":85675353,
     "wof:placetype":"county",

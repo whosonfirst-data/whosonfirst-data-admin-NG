@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.98205,7.42299,9.02205,7.46299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":9633417
     },
     "wof:country":"NG",
-    "wof:geomhash":"ea3692260609cd1e6d33fc0c3be694b9",
+    "wof:geomhash":"56a732ae12bbede68683e64d7c9478c3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209362365,
-    "wof:lastmodified":1536289379,
+    "wof:lastmodified":1566652228,
     "wof:name":"Haakyan",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.00205,
-    7.442989999999999,
+    7.44299,
     9.00205,
-    7.442989999999999
+    7.44299
 ],
   "geometry": {"coordinates":[9.00205,7.44299],"type":"Point"}
 }

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.92077,
     "lbl:longitude":4.636899,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Osun",
     "meso:diss_me":"IfelodunOsun",
     "meso:gadm_admin":"Ifelodun",
@@ -31,6 +33,7 @@
     "mps:longitude":4.636899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ifelodun"
     ],
@@ -50,7 +53,7 @@
         "Ifelodun"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108563547,
-    "wof:lastmodified":1564217219,
+    "wof:lastmodified":1566653447,
     "wof:name":"Ifelodun",
     "wof:parent_id":85675367,
     "wof:placetype":"county",

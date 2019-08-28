@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"6.12563,10.23141,6.16563,10.27141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6999461
     },
     "wof:country":"NG",
-    "wof:geomhash":"0fbb7ed9ded28fa393cf71317c682408",
+    "wof:geomhash":"8d480f76f551a01caa2727e9f9c7b0c3",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209245953,
-    "wof:lastmodified":1536293165,
+    "wof:lastmodified":1566652461,
     "wof:name":"Gidan Madawakin",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.1456300000000015,
+    6.14563,
     10.25141,
-    6.1456300000000015,
+    6.14563,
     10.25141
 ],
   "geometry": {"coordinates":[6.14563,10.25141],"type":"Point"}

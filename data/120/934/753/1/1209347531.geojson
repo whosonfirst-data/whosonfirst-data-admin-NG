@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.88222,8.23139,7.92222,8.27139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2320975
     },
     "wof:country":"NG",
-    "wof:geomhash":"fa5c06ba207eeb2afd29d4f078d65b37",
+    "wof:geomhash":"3592ee2e2f64d145e218ecb4ca405568",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209347531,
-    "wof:lastmodified":1536289862,
+    "wof:lastmodified":1566652718,
     "wof:name":"Udegi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     7.90222,
-    8.251389999999999,
+    8.25139,
     7.90222,
-    8.251389999999999
+    8.25139
 ],
   "geometry": {"coordinates":[7.90222,8.25139],"type":"Point"}
 }

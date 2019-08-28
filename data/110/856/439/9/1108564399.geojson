@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.374634,
     "lbl:longitude":6.04622,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Zamfara",
     "meso:diss_me":"Talata MafaraZamfara",
     "meso:gadm_admin":"Talata-Mafara",
@@ -31,6 +33,7 @@
     "mps:longitude":6.04622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Talata Mafara"
     ],
@@ -54,9 +57,9 @@
         "Talata Mafara"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,430.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Talata Mafara",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108564399,
-    "wof:lastmodified":1564217253,
+    "wof:lastmodified":1566653471,
     "wof:name":"Talata Mafara",
     "wof:parent_id":85675439,
     "wof:placetype":"county",

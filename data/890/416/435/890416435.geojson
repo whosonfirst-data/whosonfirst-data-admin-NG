@@ -11,10 +11,14 @@
     "geom:longitude":7.34139,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":9913,
+    "gn:population":9913,
     "iso:country":"NG",
+    "lbl:bbox":"7.32139,8.47056,7.36139,8.51056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Buga"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2346632,
         "gp:id":1388164,
-        "qs:id":139774
+        "qs_pg:id":139774
     },
     "wof:country":"NG",
     "wof:created":1469051134,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890416435,
-    "wof:lastmodified":1564218716,
+    "wof:lastmodified":1566654480,
     "wof:name":"Buga",
     "wof:parent_id":1108564417,
     "wof:placetype":"locality",

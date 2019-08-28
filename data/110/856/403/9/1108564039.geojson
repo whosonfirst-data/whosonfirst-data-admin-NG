@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.173848,
     "lbl:longitude":6.989144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Anambra",
     "meso:diss_me":"NjikokaAnambra",
     "meso:gadm_admin":"Njikoka",
@@ -31,6 +33,7 @@
     "mps:longitude":6.989144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Njikoka"
     ],
@@ -50,9 +53,9 @@
         "Njikoka"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"95.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Abagana",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564039,
-    "wof:lastmodified":1564217354,
+    "wof:lastmodified":1566653551,
     "wof:name":"Njikoka",
     "wof:parent_id":85675375,
     "wof:placetype":"county",

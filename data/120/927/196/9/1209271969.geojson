@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"7.32936,11.99639,7.36936,12.03639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":6998591
     },
     "wof:country":"NG",
-    "wof:geomhash":"d89d018268703671b10f5429f507c718",
+    "wof:geomhash":"e1ea809ef85a79426643b091ef974032",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209271969,
-    "wof:lastmodified":1536292327,
+    "wof:lastmodified":1566652768,
     "wof:name":"Katoji",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    7.349360000000001,
+    7.34936,
     12.01639,
-    7.349360000000001,
+    7.34936,
     12.01639
 ],
   "geometry": {"coordinates":[7.34936,12.01639],"type":"Point"}

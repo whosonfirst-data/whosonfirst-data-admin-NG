@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"4.26333,7.54667,4.30333,7.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2328228
     },
     "wof:country":"NG",
-    "wof:geomhash":"b31e59e7864873ab7cb2a10da7947197",
+    "wof:geomhash":"74a30052006a097cf7f1e14ecbaa3c2c",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209241193,
-    "wof:lastmodified":1536293315,
+    "wof:lastmodified":1566652470,
     "wof:name":"Obiyelu",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     4.28333,
-    7.5666699999999985,
+    7.56667,
     4.28333,
-    7.5666699999999985
+    7.56667
 ],
   "geometry": {"coordinates":[4.28333,7.56667],"type":"Point"}
 }

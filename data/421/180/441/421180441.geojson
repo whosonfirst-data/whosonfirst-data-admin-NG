@@ -10,8 +10,12 @@
     "geom:latitude":12.12717,
     "geom:longitude":7.6698,
     "iso:country":"NG",
+    "lbl:bbox":"7.6498,12.10717,7.6898,12.14717",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Musawa"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":2329664,
         "gp:id":1509469,
-        "qs:id":432021,
+        "qs_pg:id":432021,
         "wd:id":"Q10474195"
     },
     "wof:country":"NG",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421180441,
-    "wof:lastmodified":1563329001,
+    "wof:lastmodified":1566654447,
     "wof:name":"Musawa",
     "wof:parent_id":1108564001,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.634083,
     "lbl:longitude":12.071429,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Yobe",
     "meso:diss_me":"GeidamYobe",
     "meso:gadm_admin":"Geidam",
@@ -31,6 +33,7 @@
     "mps:longitude":12.071429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Geidam"
     ],
@@ -50,9 +53,9 @@
         "Geidam"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"4,357.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Geidam",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563415,
-    "wof:lastmodified":1564217277,
+    "wof:lastmodified":1566653487,
     "wof:name":"Geidam",
     "wof:parent_id":85675443,
     "wof:placetype":"county",

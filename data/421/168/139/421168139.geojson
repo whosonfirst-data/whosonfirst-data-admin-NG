@@ -10,8 +10,12 @@
     "geom:latitude":12.11381,
     "geom:longitude":5.92427,
     "iso:country":"NG",
+    "lbl:bbox":"5.90427,12.09381,5.94427,12.13381",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Anka"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":2349797,
         "gp:id":1506845,
-        "qs:id":1035108,
+        "qs_pg:id":1035108,
         "wd:id":"Q4765937"
     },
     "wof:country":"NG",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421168139,
-    "wof:lastmodified":1563328971,
+    "wof:lastmodified":1566654436,
     "wof:name":"Anka",
     "wof:parent_id":1108563015,
     "wof:placetype":"locality",

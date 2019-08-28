@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.500186,
     "lbl:longitude":3.401547,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Lagos",
     "meso:diss_me":"Lagos MainlandLagos",
     "meso:gadm_admin":"LagosIsland",
@@ -31,6 +33,7 @@
     "mps:longitude":3.401547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u063a\u0648\u0633 \u0627\u0644\u0628\u0631 \u0627\u0644\u0631\u0626\u064a\u0633\u064a"
     ],
@@ -60,9 +63,9 @@
         "\u0644\u0627\u06af\u0648\u0633 \u0645\u06cc\u0646 \u0644\u06cc\u0646\u0688"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"19.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Lagos Mainland",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108563887,
-    "wof:lastmodified":1564217383,
+    "wof:lastmodified":1566653577,
     "wof:name":"Lagos Mainland",
     "wof:parent_id":85675343,
     "wof:placetype":"county",

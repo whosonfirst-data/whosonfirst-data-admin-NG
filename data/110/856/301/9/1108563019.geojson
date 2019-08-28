@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.650063,
     "lbl:longitude":7.877584,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Benue",
     "meso:diss_me":"ApaBenue",
     "meso:gadm_admin":"Apa",
@@ -31,6 +33,7 @@
     "mps:longitude":7.877584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Apa"
     ],
@@ -38,9 +41,9 @@
         "Apa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"995.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ugbokpo",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1108563019,
-    "wof:lastmodified":1553718140,
+    "wof:lastmodified":1566653452,
     "wof:name":"Apa",
     "wof:parent_id":85675325,
     "wof:placetype":"county",

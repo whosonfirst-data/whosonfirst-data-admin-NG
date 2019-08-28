@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.592248,
     "lbl:longitude":13.398385,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Adamawa",
     "meso:diss_me":"MichikaAdamawa",
     "meso:gadm_admin":"Michika",
@@ -31,6 +33,7 @@
     "mps:longitude":13.398385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Michika"
     ],
@@ -50,9 +53,9 @@
         "Michika"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"967.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Michika",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563969,
-    "wof:lastmodified":1564217217,
+    "wof:lastmodified":1566653446,
     "wof:name":"Michika",
     "wof:parent_id":85675451,
     "wof:placetype":"county",

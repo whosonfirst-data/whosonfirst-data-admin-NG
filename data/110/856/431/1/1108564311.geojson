@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.55636,
     "lbl:longitude":8.370995,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Jigawa",
     "meso:diss_me":"RoniJigawa",
     "meso:gadm_admin":"Gwiwa",
@@ -31,6 +33,7 @@
     "mps:longitude":8.370995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Roni"
     ],
@@ -51,9 +54,9 @@
         "Roni"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"322.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Roni",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108564311,
-    "wof:lastmodified":1564217267,
+    "wof:lastmodified":1566653480,
     "wof:name":"Roni",
     "wof:parent_id":85675421,
     "wof:placetype":"county",

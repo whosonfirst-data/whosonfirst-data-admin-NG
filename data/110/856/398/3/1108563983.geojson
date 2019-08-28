@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.002478,
     "lbl:longitude":5.131757,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ekiti",
     "meso:diss_me":"MobaEkiti",
     "meso:gadm_admin":"Moba",
@@ -31,6 +33,7 @@
     "mps:longitude":5.131757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Moba"
     ],
@@ -62,7 +65,7 @@
         "Moba"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108563983,
-    "wof:lastmodified":1564217220,
+    "wof:lastmodified":1566653448,
     "wof:name":"Moba",
     "wof:parent_id":85675361,
     "wof:placetype":"county",

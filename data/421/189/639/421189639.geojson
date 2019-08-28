@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.459729,
     "lbl:longitude":3.53151,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Lagos",
     "meso:diss_me":"Eti-OsaLagos",
     "meso:gadm_admin":"Eti-Osa",
@@ -31,6 +33,7 @@
     "mps:longitude":3.53151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Eti Osa"
@@ -96,9 +99,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"192.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ikoyi",
@@ -120,7 +123,7 @@
         "gn:id":7932498,
         "gp:id":56058313,
         "hasc:id":"NG.LA.EO",
-        "qs:id":1115452,
+        "qs_pg:id":1115452,
         "wd:id":"Q5404527"
     },
     "wof:country":"NG",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421189639,
-    "wof:lastmodified":1563329009,
+    "wof:lastmodified":1566654450,
     "wof:name":"Eti-Osa",
     "wof:parent_id":85675343,
     "wof:placetype":"county",

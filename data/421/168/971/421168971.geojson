@@ -10,6 +10,9 @@
     "geom:latitude":9.18052,
     "geom:longitude":7.17933,
     "iso:country":"NG",
+    "lbl:bbox":"7.15933,9.16052,7.19933,9.20052",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":4.0,
@@ -62,7 +65,7 @@
     "name:spa_x_preferred":[
         "Suleja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suleija"
     ],
     "name:yor_x_preferred":[
@@ -196,7 +199,7 @@
     "wof:concordances":{
         "gn:id":2322794,
         "gp:id":1405917,
-        "qs:id":1170222,
+        "qs_pg:id":1170222,
         "wd:id":"Q3505231",
         "wk:page":"Suleja"
     },
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421168971,
-    "wof:lastmodified":1563328971,
+    "wof:lastmodified":1566654436,
     "wof:name":"Suleja",
     "wof:parent_id":421202215,
     "wof:placetype":"locality",

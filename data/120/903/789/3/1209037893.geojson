@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"5.29667,9.34667,5.33667,9.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2322167
     },
     "wof:country":"NG",
-    "wof:geomhash":"94086d63fb41999c2415eda7eadfbed1",
+    "wof:geomhash":"2c404eed31f70d1b1aa60520236d0ebc",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209037893,
-    "wof:lastmodified":1536299641,
+    "wof:lastmodified":1566652633,
     "wof:name":"Tifi",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.3166699999999985,
+    5.31667,
     9.36667,
-    5.3166699999999985,
+    5.31667,
     9.36667
 ],
   "geometry": {"coordinates":[5.31667,9.36667],"type":"Point"}

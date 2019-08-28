@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.90007,12.68774,8.94007,12.72774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":6973795
     },
     "wof:country":"NG",
-    "wof:geomhash":"d47cc398b979219357099ac98484de02",
+    "wof:geomhash":"3f9be682e84ca6fd5baa5ccd06cecfa2",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209372271,
-    "wof:lastmodified":1536289067,
+    "wof:lastmodified":1566652323,
     "wof:name":"Ungua Fari",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.920069999999997,
+    8.92007,
     12.70774,
-    8.920069999999997,
+    8.92007,
     12.70774
 ],
   "geometry": {"coordinates":[8.92007,12.70774],"type":"Point"}

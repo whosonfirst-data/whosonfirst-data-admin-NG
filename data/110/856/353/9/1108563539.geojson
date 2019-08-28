@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.1873,
     "lbl:longitude":4.572418,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Osun",
     "meso:diss_me":"Ife SouthOsun",
     "meso:gadm_admin":"Ife South",
@@ -31,6 +33,7 @@
     "mps:longitude":4.572418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ife South"
     ],
@@ -54,9 +57,9 @@
         "Ife South"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"730.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Ifetedo",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108563539,
-    "wof:lastmodified":1564217221,
+    "wof:lastmodified":1566653448,
     "wof:name":"Ife South",
     "wof:parent_id":85675367,
     "wof:placetype":"county",

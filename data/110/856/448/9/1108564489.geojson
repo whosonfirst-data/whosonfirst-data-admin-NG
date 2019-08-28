@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.076578,
     "lbl:longitude":5.096493,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Sokoto",
     "meso:diss_me":"WamakoSokoto",
     "meso:gadm_admin":"Wamakko",
@@ -31,6 +33,7 @@
     "mps:longitude":5.096493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Wamako"
     ],
@@ -50,9 +53,9 @@
         "Wamakko"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"697.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Wamako",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1108564489,
-    "wof:lastmodified":1564217243,
+    "wof:lastmodified":1566653464,
     "wof:name":"Wamako",
     "wof:parent_id":85675433,
     "wof:placetype":"county",

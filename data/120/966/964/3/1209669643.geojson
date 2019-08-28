@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"9.58949,6.85456,9.62949,6.89456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2319065
     },
     "wof:country":"NG",
-    "wof:geomhash":"469967d2ba463ff95644c3b69325ec76",
+    "wof:geomhash":"34ff6485592ab1a19b70dd7f8a18fe5d",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209669643,
-    "wof:lastmodified":1536279970,
+    "wof:lastmodified":1566652591,
     "wof:name":"Waya",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     9.60949,
-    6.874560000000002,
+    6.87456,
     9.60949,
-    6.874560000000002
+    6.87456
 ],
   "geometry": {"coordinates":[9.60949,6.87456],"type":"Point"}
 }

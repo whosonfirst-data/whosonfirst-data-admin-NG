@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.709098,
     "lbl:longitude":5.373263,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Sokoto",
     "meso:diss_me":"IllelaSokoto",
     "meso:gadm_admin":"Gada",
@@ -31,6 +33,7 @@
     "mps:longitude":5.373263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Illela"
     ],
@@ -45,9 +48,9 @@
         "Ill\u00e9la"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"1,246.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Illela",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108563631,
-    "wof:lastmodified":1564217232,
+    "wof:lastmodified":1566653457,
     "wof:name":"Illela",
     "wof:parent_id":85675433,
     "wof:placetype":"county",

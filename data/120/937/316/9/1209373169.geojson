@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.57196,6.54362,8.61196,6.58362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":2339223
     },
     "wof:country":"NG",
-    "wof:geomhash":"c3b01cbfe1acd53b46e5ca1d4ea80552",
+    "wof:geomhash":"47f38602ebd62f1f829e9e1742b44079",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209373169,
-    "wof:lastmodified":1536289039,
+    "wof:lastmodified":1566652329,
     "wof:name":"Iboko",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     8.59196,
-    6.5636199999999985,
+    6.56362,
     8.59196,
-    6.5636199999999985
+    6.56362
 ],
   "geometry": {"coordinates":[8.59196,6.56362],"type":"Point"}
 }

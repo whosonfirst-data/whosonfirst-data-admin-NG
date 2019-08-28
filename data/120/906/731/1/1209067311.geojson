@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.50221,12.5001,8.54221,12.5401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -36,7 +40,7 @@
         "gn:id":6974437
     },
     "wof:country":"NG",
-    "wof:geomhash":"92222dbc3727224a5765aae992675268",
+    "wof:geomhash":"545145246507b80298f20693a2658501",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209067311,
-    "wof:lastmodified":1536298760,
+    "wof:lastmodified":1566652309,
     "wof:name":"Incikwalto",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.522210000000001,
+    8.52221,
     12.5201,
-    8.522210000000001,
+    8.52221,
     12.5201
 ],
   "geometry": {"coordinates":[8.52221,12.5201],"type":"Point"}

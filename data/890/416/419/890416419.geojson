@@ -11,10 +11,14 @@
     "geom:longitude":3.0205,
     "gn:country":"NG",
     "gn:fcode":"PPL",
-    "gn:pop":46999,
+    "gn:population":46999,
     "iso:country":"NG",
+    "lbl:bbox":"3.0005,6.86653,3.0405,6.90653",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0418\u043b\u0430\u0440\u043e"
     ],
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2337759,
         "gp:id":1394916,
-        "qs:id":139680,
+        "qs_pg:id":139680,
         "wd:id":"Q5997200",
         "wk:page":"Ilaro"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890416419,
-    "wof:lastmodified":1563329097,
+    "wof:lastmodified":1566654480,
     "wof:name":"Ilaro",
     "wof:parent_id":1108563271,
     "wof:placetype":"locality",

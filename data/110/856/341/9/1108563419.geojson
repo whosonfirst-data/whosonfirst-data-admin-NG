@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.052086,
     "lbl:longitude":8.733417,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kano",
     "meso:diss_me":"GezawaKano",
     "meso:gadm_admin":"Gezawa",
@@ -31,6 +33,7 @@
     "mps:longitude":8.733417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gezawa"
     ],
@@ -56,7 +59,7 @@
         "Gezawa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1108563419,
-    "wof:lastmodified":1564217276,
+    "wof:lastmodified":1566653486,
     "wof:name":"Gezawa",
     "wof:parent_id":85675425,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.50814,7.76033,8.54814,7.80033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -35,7 +39,7 @@
         "gn:id":6852873
     },
     "wof:country":"NG",
-    "wof:geomhash":"87e381a2c611f1f455ddc2f729f4dca8",
+    "wof:geomhash":"67b3b07f18450696f6ae7491bb80fb47",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209669613,
-    "wof:lastmodified":1536279972,
+    "wof:lastmodified":1566652595,
     "wof:name":"Iyorkyaa",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.528139999999999,
+    8.52814,
     7.78033,
-    8.528139999999999,
+    8.52814,
     7.78033
 ],
   "geometry": {"coordinates":[8.52814,7.78033],"type":"Point"}

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.323901,
     "lbl:longitude":7.967538,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Kaduna",
     "meso:diss_me":"MarkafiKaduna",
     "meso:gadm_admin":"Makarfi",
@@ -31,6 +33,7 @@
     "mps:longitude":7.967538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Makarfi"
     ],
@@ -56,7 +59,7 @@
         "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Makarfi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108563949,
-    "wof:lastmodified":1563327793,
+    "wof:lastmodified":1566653515,
     "wof:name":"Markafi",
     "wof:parent_id":85675405,
     "wof:placetype":"county",

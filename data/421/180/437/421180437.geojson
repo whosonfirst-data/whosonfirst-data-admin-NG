@@ -10,8 +10,12 @@
     "geom:latitude":9.69889,
     "geom:longitude":10.27444,
     "iso:country":"NG",
+    "lbl:bbox":"10.25444,9.67889,10.29444,9.71889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Yuli"
@@ -22,7 +26,7 @@
     "name:fra_x_preferred":[
         "Yuli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anguri"
     ],
     "qs:gn_country":"NG",
@@ -56,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2317982,
         "gp:id":1511142,
-        "qs:id":432019
+        "qs_pg:id":432019
     },
     "wof:country":"NG",
     "wof:created":1459009259,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":421180437,
-    "wof:lastmodified":1564218697,
+    "wof:lastmodified":1566654448,
     "wof:name":"Yuli",
     "wof:parent_id":1108562997,
     "wof:placetype":"locality",

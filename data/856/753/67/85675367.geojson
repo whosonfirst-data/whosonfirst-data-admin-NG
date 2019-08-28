@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.541105,
     "lbl:longitude":4.511142,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Osun",
     "mps:latitude":7.50651,
     "mps:longitude":4.545603,
@@ -171,7 +172,7 @@
         "Osun"
     ],
     "name:tam_x_preferred":[
-        "\u0b93\u0b9a\u0ba9\u0bcd  \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
+        "\u0b93\u0b9a\u0ba9\u0bcd \u0bae\u0bbe\u0ba8\u0bbf\u0bb2\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c38\u0c41\u0c28\u0c4d \u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c02"
@@ -184,9 +185,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0443\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Osun State"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0633\u0648\u0646 \u0631\u06cc\u0627\u0633\u062a"
@@ -272,9 +270,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"8,585",
     "statoids:area_mi":"3,315",
     "statoids:as_of_date":"2006-03-21",
@@ -299,7 +297,7 @@
         "gp:id":2346370,
         "hasc:id":"NG.OS",
         "iso:id":"NG-OS",
-        "qs:id":229382,
+        "qs_pg:id":229382,
         "unlc:id":"NG-OS",
         "wd:id":"Q682721",
         "wk:page":"Osun State"
@@ -322,11 +320,10 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1565731421,
+    "wof:lastmodified":1566650848,
     "wof:name":"Osun",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":3423535,
     "wof:population_rank":12,

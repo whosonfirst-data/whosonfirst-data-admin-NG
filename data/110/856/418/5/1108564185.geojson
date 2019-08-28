@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.135069,
     "lbl:longitude":4.960699,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_name":"Ondo",
     "meso:diss_me":"Ondo EastOndo",
     "meso:gadm_admin":"Ondo East",
@@ -31,6 +33,7 @@
     "mps:longitude":4.960699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ondo East"
     ],
@@ -57,9 +60,9 @@
         "Ondo East"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-03-21",
+    "src:population_date":"2006-03-21",
     "statoids:area_km":"354.0",
     "statoids:as_of_date":"2006-03-21",
     "statoids:capital":"Bolorunduro",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108564185,
-    "wof:lastmodified":1564217337,
+    "wof:lastmodified":1566653528,
     "wof:name":"Ondo East",
     "wof:parent_id":85675357,
     "wof:placetype":"county",

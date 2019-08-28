@@ -10,8 +10,12 @@
     "geom:latitude":8.93333,
     "geom:longitude":8.6,
     "iso:country":"NG",
+    "lbl:bbox":"8.58,8.91333,8.62,8.95333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Wamba"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":2319257,
         "gp:id":1408743,
-        "qs:id":139554,
+        "qs_pg:id":139554,
         "wd:id":"Q3331559"
     },
     "wof:country":"NG",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421167601,
-    "wof:lastmodified":1563328990,
+    "wof:lastmodified":1566654443,
     "wof:name":"Wamba",
     "wof:parent_id":1108564491,
     "wof:placetype":"locality",

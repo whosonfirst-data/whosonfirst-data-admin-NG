@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"8.51291,12.56741,8.55291,12.60741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632735
@@ -34,7 +38,7 @@
         "gn:id":6974404
     },
     "wof:country":"NG",
-    "wof:geomhash":"2830ab9c75fa3368e1c70c5877cff694",
+    "wof:geomhash":"5247169b244ff1cbb96e5ec1e42e0525",
     "wof:hierarchy":[
         {
             "country_id":85632735,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209344015,
-    "wof:lastmodified":1536289972,
+    "wof:lastmodified":1566652723,
     "wof:name":"Telafia",
     "wof:parent_id":85632735,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    8.532910000000001,
+    8.53291,
     12.58741,
-    8.532910000000001,
+    8.53291,
     12.58741
 ],
   "geometry": {"coordinates":[8.53291,12.58741],"type":"Point"}
