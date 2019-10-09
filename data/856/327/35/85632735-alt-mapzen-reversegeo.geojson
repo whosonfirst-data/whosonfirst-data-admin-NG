@@ -1,14 +1,16 @@
 {
   "id": 85632735,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-ng",
+  "properties": {
+    "src:alt_label":"mapzen-reversegeo",
     "src:geom":"mapzen",
-    "wof:geomhash":"233474ffeb3b9b661f2fcbdf23d36715",
-    "wof:id":85632735
+    "wof:geomhash":"df3c1bd940ce0c7fe905ceb4e313ce6a",
+    "wof:id":85632735,
+    "wof:repo":"whosonfirst-data-admin-ng"
 },
   "bbox": [
     2.676932,
-    4.266074305284065,
+    4.26607430528407,
     14.677982,
     13.885645
 ],
