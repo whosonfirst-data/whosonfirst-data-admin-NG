@@ -166,6 +166,7 @@
     "qs:woe_id":1392886,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:population":"quattroshapes",
@@ -188,6 +189,10 @@
     },
     "wof:country":"NG",
     "wof:created":1459008811,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a4e6c04918a375b4b46a37ea65d1054",
     "wof:hierarchy":[
         {
@@ -199,7 +204,7 @@
         }
     ],
     "wof:id":421169465,
-    "wof:lastmodified":1566654444,
+    "wof:lastmodified":1582359451,
     "wof:name":"Gombe",
     "wof:parent_id":1108562965,
     "wof:placetype":"locality",
