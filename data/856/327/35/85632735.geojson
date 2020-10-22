@@ -9,7 +9,6 @@
     "geom:bbox":"2.676932,4.275389,14.677982,13.885645",
     "geom:latitude":9.591652,
     "geom:longitude":8.101818,
-    "gn:id":"",
     "gn:population":154000000,
     "iso:country":"NG",
     "itu:country_code":[
@@ -1057,7 +1056,8 @@
         "meso",
         "mapzen-reversegeo",
         "naturalearth-display-terrestrial-zoom6",
-        "naturalearth"
+        "naturalearth",
+        "mapzen"
     ],
     "wof:geomhash":"29fe0d7648db1e8ab3609f348927ecdc",
     "wof:hierarchy":[
@@ -1075,7 +1075,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1587429034,
+    "wof:lastmodified":1603260141,
     "wof:name":"Nigeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
