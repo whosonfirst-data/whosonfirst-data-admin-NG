@@ -14,16 +14,31 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ac\u09c1\u099c\u09be"
+    ],
     "name:cat_x_preferred":[
         "Suleja"
     ],
     "name:ceb_x_preferred":[
         "Suleja"
     ],
+    "name:deu_x_preferred":[
+        "Abuja"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03bf\u03cd\u03b6\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Abuja"
+    ],
+    "name:eng_x_variant":[
         "Suleja"
     ],
     "name:epo_x_preferred":[
@@ -33,40 +48,79 @@
         "Suleja"
     ],
     "name:fra_x_preferred":[
+        "Abuja"
+    ],
+    "name:fra_x_variant":[
         "Suleja"
     ],
     "name:hau_x_preferred":[
         "Suleja"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u092c\u0941\u091c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Abuja"
+    ],
+    "name:ind_x_preferred":[
+        "Abuja"
+    ],
     "name:ita_x_preferred":[
+        "Abuja"
+    ],
+    "name:ita_x_variant":[
         "Suleja"
     ],
     "name:jpn_x_preferred":[
+        "\u30a2\u30d6\u30b8\u30e3"
+    ],
+    "name:jpn_x_variant":[
         "\u30b9\u30ec\u30b8\u30e3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ubd80\uc790"
     ],
     "name:nan_x_preferred":[
         "Suleja"
     ],
     "name:nld_x_preferred":[
+        "Abuja"
+    ],
+    "name:nld_x_variant":[
         "Suleja"
     ],
     "name:pol_x_preferred":[
+        "Abud\u017ca"
+    ],
+    "name:pol_x_variant":[
         "Suleja"
+    ],
+    "name:por_x_preferred":[
+        "Abuja"
     ],
     "name:ron_x_preferred":[
         "Suleja"
     ],
     "name:rus_x_preferred":[
-        "\u0421\u0443\u043b\u0435\u0434\u0436\u0430"
-    ],
-    "name:rus_x_variant":[
         "\u0410\u0431\u0443\u0434\u0436\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0443\u043b\u0435\u0434\u0436\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Abuya"
+    ],
+    "name:spa_x_variant":[
         "Suleja"
+    ],
+    "name:swe_x_preferred":[
+        "Abuja"
     ],
     "name:und_x_variant":[
         "Suleija"
+    ],
+    "name:vie_x_preferred":[
+        "Abuja"
     ],
     "name:yor_x_preferred":[
         "Suleja"
@@ -75,6 +129,9 @@
         "Suleja"
     ],
     "name:zho_x_preferred":[
+        "\u963f\u5e03\u8d3e"
+    ],
+    "name:zho_x_variant":[
         "\u8607\u96f7\u8cc8"
     ],
     "ne:ADM0CAP":1.0,
@@ -199,6 +256,7 @@
     "wof:concordances":{
         "gn:id":2322794,
         "gp:id":1405917,
+        "ne:id":1159150799,
         "qs_pg:id":1170222,
         "wd:id":"Q3505231",
         "wk:page":"Suleja"
@@ -216,9 +274,9 @@
         }
     ],
     "wof:id":421168971,
-    "wof:lastmodified":1608675980,
+    "wof:lastmodified":1608678402,
     "wof:megacity":1,
-    "wof:name":"Suleja",
+    "wof:name":"Abuja",
     "wof:parent_id":421202215,
     "wof:placetype":"locality",
     "wof:population":162135,
