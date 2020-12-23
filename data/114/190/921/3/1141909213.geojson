@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.23804311297,8.13195218483,4.23804311297,8.13195218483",
+    "geom:bbox":"4.238043,8.131952,4.238043,8.131952",
     "geom:latitude":8.131952,
     "geom:longitude":4.238043,
     "iso:country":"NG",
@@ -17,7 +17,7 @@
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":12.0,
+    "mz:min_zoom":5.6,
     "name:afr_x_preferred":[
         "Ogbomosho"
     ],
@@ -258,16 +258,18 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        85675371,
-        1108564113
+        1108564113,
+        85675371
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2327735,
+        "ne:id":1159149701,
         "wd:id":"Q500366"
     },
     "wof:country":"NG",
     "wof:created":1499131043,
-    "wof:geomhash":"9cc232d5f5d0e8bd5dad55a24d2512d2",
+    "wof:geomhash":"a17d1b6c537f92ab48a7c006933f5c44",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -278,7 +280,8 @@
         }
     ],
     "wof:id":1141909213,
-    "wof:lastmodified":1566656779,
+    "wof:lastmodified":1608688171,
+    "wof:megacity":1,
     "wof:name":"Ogbomosho",
     "wof:parent_id":1108564113,
     "wof:placetype":"locality",
@@ -288,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.23804311297124,
-    8.13195218483366,
-    4.23804311297124,
-    8.13195218483366
+    4.238043,
+    8.131952,
+    4.238043,
+    8.131952
 ],
-  "geometry": {"coordinates":[4.23804311297124,8.13195218483366],"type":"Point"}
+  "geometry": {"coordinates":[4.238043,8.131952],"type":"Point"}
 }

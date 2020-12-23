@@ -20,7 +20,7 @@
     "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":4.0,
+    "mz:min_zoom":5.1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Ibadan"
@@ -288,6 +288,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2339354,
+        "ne:id":1159149697,
         "qs_pg:id":278533,
         "wd:id":"Q183298"
     },
@@ -304,7 +305,8 @@
         }
     ],
     "wof:id":1125988111,
-    "wof:lastmodified":1587429038,
+    "wof:lastmodified":1608688171,
+    "wof:megacity":1,
     "wof:name":"Ibadan",
     "wof:parent_id":1108563487,
     "wof:placetype":"locality",

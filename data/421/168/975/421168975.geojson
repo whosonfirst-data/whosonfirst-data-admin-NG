@@ -340,14 +340,15 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        85675301,
-        1108563923
+        1108563923,
+        85675301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2331447,
         "gp:id":1399579,
         "loc:id":"n81085347",
+        "ne:id":1159149691,
         "qs_pg:id":274200,
         "wd:id":"Q221436",
         "wk:page":"Maiduguri"
@@ -365,7 +366,8 @@
         }
     ],
     "wof:id":421168975,
-    "wof:lastmodified":1566654437,
+    "wof:lastmodified":1608688171,
+    "wof:megacity":1,
     "wof:name":"Maiduguri",
     "wof:parent_id":1108563923,
     "wof:placetype":"locality",
