@@ -28,14 +28,20 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ojodu"
+    ],
+    "name:eng_x_variant":[
+        "Omole"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
         85632735,
-        85675343,
-        421181827
+        421181827,
+        85675343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +59,8 @@
         }
     ],
     "wof:id":1243176611,
-    "wof:lastmodified":1566655377,
-    "wof:name":"Omole",
+    "wof:lastmodified":1623188528,
+    "wof:name":"Ojodu",
     "wof:parent_id":421181827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
