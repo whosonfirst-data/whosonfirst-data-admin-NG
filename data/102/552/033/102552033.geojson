@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.0808333333,11.8552777778,13.0808333333,11.8552777778",
+    "geom:bbox":"13.080833,11.855278,13.080833,11.855278",
     "geom:latitude":11.855278,
     "geom:longitude":13.080833,
     "iso:country":"NG",
@@ -18,6 +18,10 @@
     ],
     "name:ceb_x_preferred":[
         "Maiduguri Airport"
+    ],
+    "name:eng_x_variant":[
+        "MIU",
+        "DNMA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0645\u0627\u06cc\u062f\u0648\u06af\u0648\u0631\u06cc"
@@ -60,7 +64,7 @@
         "wd:id":"Q3497345"
     },
     "wof:country":"NG",
-    "wof:geomhash":"6ec1b956341c09a18e9774e64e68dc97",
+    "wof:geomhash":"61a3be6b36b94cb6770a6f1afb466a99",
     "wof:hierarchy":[
         {
             "campus_id":102552033,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":102552033,
-    "wof:lastmodified":1566650160,
+    "wof:lastmodified":1631752899,
     "wof:name":"Maiduguri Airport",
     "wof:parent_id":85675301,
     "wof:placetype":"campus",
@@ -81,10 +85,10 @@
     ]
 },
   "bbox": [
-    13.080833333333,
-    11.855277777778,
-    13.080833333333,
-    11.855277777778
+    13.080833,
+    11.855278,
+    13.080833,
+    11.855278
 ],
-  "geometry": {"coordinates":[13.080833333333,11.855277777778],"type":"Point"}
+  "geometry": {"coordinates":[13.080833,11.855278],"type":"Point"}
 }

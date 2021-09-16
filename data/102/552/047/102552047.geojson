@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"5.20694444444,12.9161111111,5.20694444444,12.9161111111",
+    "geom:bbox":"5.206944,12.916111,5.206944,12.916111",
     "geom:latitude":12.916111,
     "geom:longitude":5.206944,
     "iso:country":"NG",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u0631 \u0635\u062f\u064a\u0642 \u0623\u0628\u0648 \u0628\u0643\u0631 \u0627\u0644\u062b\u0627\u0644\u062b \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:eng_x_variant":[
+        "SKO",
+        "DNSO"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0635\u0627\u062f\u0642 \u0627\u0628\u0648\u0628\u06a9\u0631 \u06f3"
@@ -60,7 +64,7 @@
         "wd:id":"Q922675"
     },
     "wof:country":"NG",
-    "wof:geomhash":"dbe721e3f13c9cb2f246cfb101d34771",
+    "wof:geomhash":"41bfb8e75aa76c8fa2a19b514ae09401",
     "wof:hierarchy":[
         {
             "campus_id":102552047,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":102552047,
-    "wof:lastmodified":1566650159,
+    "wof:lastmodified":1631752899,
     "wof:name":"Sadiq Abubakar Iii Airport",
     "wof:parent_id":85675433,
     "wof:placetype":"campus",
@@ -81,10 +85,10 @@
     ]
 },
   "bbox": [
-    5.2069444444444,
-    12.916111111111,
-    5.2069444444444,
-    12.916111111111
+    5.206944,
+    12.916111,
+    5.206944,
+    12.916111
 ],
-  "geometry": {"coordinates":[5.2069444444444,12.916111111111],"type":"Point"}
+  "geometry": {"coordinates":[5.206944,12.916111],"type":"Point"}
 }
