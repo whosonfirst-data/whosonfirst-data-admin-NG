@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"11.1699535712,10.290442931,11.1699535712,10.290442931",
+    "geom:bbox":"11.169954,10.290443,11.169954,10.290443",
     "geom:latitude":10.290443,
     "geom:longitude":11.169954,
     "iso:country":"NG",
@@ -148,16 +148,25 @@
         "\u0413\u043e\u043c\u0431\u0435"
     ],
     "name:urd_x_preferred":[
-        "\u06af\u0648\u0645\u0628\u06d2\u060c \u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"
-    ],
-    "name:urd_x_variant":[
         "\u06af\u0648\u0645\u0628\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u06af\u0648\u0645\u0628\u06d2\u060c \u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Gombe"
+    ],
+    "name:vie_x_variant":[
         "Gombe"
     ],
     "name:yor_x_preferred":[
         "G\u00f2mb\u00e8"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d21\u8d1d\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8ca2\u8c9d\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u8ca2\u8c9d"
@@ -270,7 +279,7 @@
     },
     "wof:country":"NG",
     "wof:created":1499130724,
-    "wof:geomhash":"ae3dae341e6194873ffae0c3bef49787",
+    "wof:geomhash":"93d05c280b19c6279e182c439306fe7b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -281,7 +290,7 @@
         }
     ],
     "wof:id":1141907421,
-    "wof:lastmodified":1566656779,
+    "wof:lastmodified":1636502982,
     "wof:name":"Gombe",
     "wof:parent_id":1108563429,
     "wof:placetype":"locality",
@@ -291,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    11.16995357122113,
-    10.29044293104715,
-    11.16995357122113,
-    10.29044293104715
+    11.169954,
+    10.290443,
+    11.169954,
+    10.290443
 ],
-  "geometry": {"coordinates":[11.16995357122113,10.29044293104715],"type":"Point"}
+  "geometry": {"coordinates":[11.169954,10.290443],"type":"Point"}
 }

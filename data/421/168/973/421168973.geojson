@@ -20,14 +20,23 @@
     "name:ara_x_preferred":[
         "\u0646\u063a\u0648\u0631\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u0997\u09c1\u09b0\u09c1"
+    ],
     "name:ceb_x_preferred":[
         "Nguru"
     ],
     "name:deu_x_preferred":[
         "Nguru"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03ba\u03bf\u03cd\u03c1\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Nguru"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06af\u0648\u0631\u0648"
     ],
     "name:fra_x_preferred":[
         "Nguru"
@@ -35,11 +44,26 @@
     "name:hau_x_preferred":[
         "Nguru"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u05d5\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0902\u0917\u0941\u0930\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Nguru"
+    ],
+    "name:ind_x_preferred":[
+        "Nguru"
+    ],
     "name:ita_x_preferred":[
         "Nguru"
     ],
     "name:jpn_x_preferred":[
         "\u30f3\u30b0\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc751\uad6c\ub8e8"
     ],
     "name:nan_x_preferred":[
         "Nguru"
@@ -59,14 +83,35 @@
     "name:spa_x_preferred":[
         "Nguru"
     ],
+    "name:swe_x_preferred":[
+        "Nguru"
+    ],
+    "name:tur_x_preferred":[
+        "Nguru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0433\u0443\u0440\u0443"
+    ],
     "name:und_x_variant":[
         "N\u2019gourou"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u06af\u0648\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Nguru"
     ],
     "name:yor_x_preferred":[
         "Nguru"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6069\u53e4\u9c81"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Nguru"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6069\u53e4\u9b6f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nigeria",
@@ -208,7 +253,7 @@
         }
     ],
     "wof:id":421168973,
-    "wof:lastmodified":1566654437,
+    "wof:lastmodified":1636502944,
     "wof:name":"Nguru",
     "wof:parent_id":1108564033,
     "wof:placetype":"locality",

@@ -34,14 +34,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:deu_x_preferred":[
+        "Oturkpo"
+    ],
     "name:eng_x_preferred":[
         "Oturkpo"
     ],
     "name:eng_x_variant":[
         "Oturkpo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u0648\u0631\u06a9\u067e\u0648"
+    ],
     "name:fra_x_preferred":[
         "Otukpo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d8\u05d5\u05e8\u05e7\u05e4\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Oturkpo"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":1108564239,
-    "wof:lastmodified":1627522473,
+    "wof:lastmodified":1636502925,
     "wof:name":"Oturkpo",
     "wof:parent_id":85675325,
     "wof:placetype":"county",

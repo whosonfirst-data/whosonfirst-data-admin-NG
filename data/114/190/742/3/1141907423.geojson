@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.73993973657,7.80038820285,6.73993973657,7.80038820285",
+    "geom:bbox":"6.73994,7.800388,6.73994,7.800388",
     "geom:latitude":7.800388,
     "geom:longitude":6.73994,
     "gn:country":"NG",
@@ -21,8 +21,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0643\u0648\u062c\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0648\u06a9\u0648\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u0995\u09cb\u099c\u09be"
     ],
     "name:cat_x_preferred":[
         "Lokoja"
@@ -35,6 +41,9 @@
     ],
     "name:deu_x_preferred":[
         "Lokoja"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03ba\u03cc\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lokoja"
@@ -57,10 +66,22 @@
     "name:hau_x_preferred":[
         "Lokoja"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e7\u05d5\u05d2'\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0915\u094b\u091c\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Lokoja"
     ],
+    "name:hun_x_preferred":[
+        "Lokoja"
+    ],
     "name:ibo_x_preferred":[
+        "Lokoja"
+    ],
+    "name:ind_x_preferred":[
         "Lokoja"
     ],
     "name:ita_x_preferred":[
@@ -99,11 +120,17 @@
     "name:swe_x_preferred":[
         "Lokoja"
     ],
+    "name:tur_x_preferred":[
+        "Lokoja"
+    ],
     "name:und_x_variant":[
         "Zokoja"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u06a9\u0648\u062c\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Lokoja"
     ],
     "name:yor_x_preferred":[
         "L\u1ecd\u0301k\u1ecd\u0301ja"
@@ -233,7 +260,7 @@
     },
     "wof:country":"NG",
     "wof:created":1499130724,
-    "wof:geomhash":"ee424777b5258b147f225b6bf500bbe2",
+    "wof:geomhash":"1e2f06653ec098beb6d496cc1566f93e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -244,7 +271,7 @@
         }
     ],
     "wof:id":1141907423,
-    "wof:lastmodified":1566656779,
+    "wof:lastmodified":1636502982,
     "wof:name":"Lokoja",
     "wof:parent_id":1108563907,
     "wof:placetype":"locality",
@@ -258,10 +285,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.73993973656809,
-    7.80038820284716,
-    6.73993973656809,
-    7.80038820284716
+    6.73994,
+    7.800388,
+    6.73994,
+    7.800388
 ],
-  "geometry": {"coordinates":[6.73993973656809,7.80038820284716],"type":"Point"}
+  "geometry": {"coordinates":[6.73994,7.800388],"type":"Point"}
 }

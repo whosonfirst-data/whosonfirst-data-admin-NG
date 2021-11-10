@@ -20,17 +20,29 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0628\u064a\u0644\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09aa\u09c7\u09b2\u09c7"
+    ],
     "name:cat_x_preferred":[
         "Sapele"
     ],
     "name:ceb_x_preferred":[
         "Sapele"
     ],
+    "name:deu_x_preferred":[
+        "Sapele"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c0\u03ad\u03bb\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Sapele"
     ],
     "name:epo_x_preferred":[
         "Sapele"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u067e\u0644"
     ],
     "name:fin_x_preferred":[
         "Sapele"
@@ -41,11 +53,26 @@
     "name:hau_x_preferred":[
         "Sapele"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e4\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u092a\u0947\u0932\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Sapele"
+    ],
+    "name:ind_x_preferred":[
+        "Sapele"
+    ],
     "name:ita_x_preferred":[
         "Sapele"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30da\u30ec"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ud3a0\ub808"
     ],
     "name:nan_x_preferred":[
         "Sapele"
@@ -68,14 +95,35 @@
     "name:spa_x_preferred":[
         "Sapele"
     ],
+    "name:swe_x_preferred":[
+        "Sapele"
+    ],
     "name:szl_x_preferred":[
+        "Sapele"
+    ],
+    "name:tur_x_preferred":[
+        "Sapele"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043f\u0435\u043b\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u067e\u06cc\u0644\u06d2"
+    ],
+    "name:vie_x_preferred":[
         "Sapele"
     ],
     "name:yor_x_preferred":[
         "S\u00e1p\u1eb9\u0301l\u1eb9\u0301"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u4f69\u83b1"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Sapele"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c99\u6bd4\u5229"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nigeria",
@@ -217,7 +265,7 @@
         }
     ],
     "wof:id":421179917,
-    "wof:lastmodified":1566654464,
+    "wof:lastmodified":1636502949,
     "wof:name":"Sapele",
     "wof:parent_id":1108564337,
     "wof:placetype":"locality",

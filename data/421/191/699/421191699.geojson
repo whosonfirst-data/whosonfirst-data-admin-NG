@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u0633\u0648\u0643\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u09b8\u09c1\u0995\u09cd\u0995\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Nsukka"
     ],
@@ -26,8 +32,14 @@
     "name:deu_x_preferred":[
         "Nsukka"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c3\u03bf\u03cd\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Nsukka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0633\u0648\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Nsukka"
@@ -35,7 +47,19 @@
     "name:hau_x_preferred":[
         "Nsukka"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e1\u05d5\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0915\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Nsukka"
+    ],
     "name:ibo_x_preferred":[
+        "Nsukka"
+    ],
+    "name:ind_x_preferred":[
         "Nsukka"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cc\u30b9\u30ab"
+    ],
+    "name:kor_x_preferred":[
+        "\uc740\uc218\uce74"
     ],
     "name:nan_x_preferred":[
         "Nsukka"
@@ -66,6 +93,18 @@
         "Nsukka"
     ],
     "name:swe_x_preferred":[
+        "Nsukka"
+    ],
+    "name:tur_x_preferred":[
+        "Nsukka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0441\u0443\u043a\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0633\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Nsukka"
     ],
     "name:yor_x_preferred":[
@@ -217,7 +256,7 @@
         }
     ],
     "wof:id":421191699,
-    "wof:lastmodified":1566654458,
+    "wof:lastmodified":1636502948,
     "wof:name":"Nsukka",
     "wof:parent_id":1108564059,
     "wof:placetype":"locality",

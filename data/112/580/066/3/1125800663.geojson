@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u062a\u0627\u063a\u0648\u0631\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09a8\u09cd\u09a4\u09be\u0997\u09cb\u09b0\u09be"
+    ],
     "name:cat_x_preferred":[
         "Kontagora"
     ],
@@ -34,8 +37,14 @@
     "name:deu_x_preferred":[
         "Kontagora"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bd\u03c4\u03b1\u03b3\u03ba\u03cc\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Kontagora"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u062a\u0627\u06af\u0648\u0631\u0627"
     ],
     "name:fra_x_preferred":[
         "Kontagora"
@@ -43,8 +52,26 @@
     "name:hau_x_preferred":[
         "Kontagora"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05d8\u05d2\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0902\u091f\u093e\u0917\u094b\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Kontagora"
+    ],
+    "name:ind_x_preferred":[
+        "Kontagora"
+    ],
     "name:ita_x_preferred":[
         "Kontagora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30bf\u30b4\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf58\ud0c0\uace0\ub77c"
     ],
     "name:nan_x_preferred":[
         "Kontagora"
@@ -61,11 +88,35 @@
     "name:ron_x_preferred":[
         "Kontagora"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0430\u0433\u043e\u0440\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Kontagora"
+    ],
+    "name:swe_x_preferred":[
+        "Kontagora"
+    ],
+    "name:tur_x_preferred":[
+        "Kontagora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0442\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0646\u0679\u0627\u06af\u0648\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Kontagora"
     ],
     "name:yor_x_preferred":[
         "Kontagora"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5b54\u5854\u6208\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eb7\u5854\u6208\u62c9"
     ],
     "qs_pg:aaroncc":"NG",
     "qs_pg:gn_country":"NG",
@@ -106,7 +157,7 @@
         }
     ],
     "wof:id":1125800663,
-    "wof:lastmodified":1566654494,
+    "wof:lastmodified":1636502952,
     "wof:name":"Kontagora",
     "wof:parent_id":1108563841,
     "wof:placetype":"locality",

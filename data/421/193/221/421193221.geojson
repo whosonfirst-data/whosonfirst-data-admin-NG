@@ -23,6 +23,9 @@
     "name:aze_x_preferred":[
         "Qaya"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09be\u09df\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u0997\u09af\u09bc\u09be"
     ],
@@ -35,8 +38,14 @@
     "name:deu_x_preferred":[
         "Gaya"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ac\u03b3\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Gaya"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
         "Gaya"
@@ -48,6 +57,12 @@
         "\u05d2\u05d0\u05d9\u05d4"
     ],
     "name:hif_x_preferred":[
+        "Gaya"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Gaya"
     ],
     "name:ind_x_preferred":[
@@ -94,6 +109,12 @@
     ],
     "name:swe_x_preferred":[
         "Gaya"
+    ],
+    "name:tur_x_preferred":[
+        "Gaya"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0627\u06cc\u0627"
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Gaya"
@@ -145,7 +166,7 @@
         }
     ],
     "wof:id":421193221,
-    "wof:lastmodified":1566654439,
+    "wof:lastmodified":1636502945,
     "wof:name":"Gaya",
     "wof:parent_id":1108563407,
     "wof:placetype":"locality",

@@ -23,11 +23,17 @@
     "name:ara_x_variant":[
         "\u0622\u064a\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u0993"
+    ],
     "name:ceb_x_preferred":[
         "Iwo"
     ],
     "name:deu_x_preferred":[
         "Iwo"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Iwo"
@@ -35,17 +41,38 @@
     "name:epo_x_preferred":[
         "Iwo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Iwo"
     ],
     "name:hau_x_preferred":[
         "Iwo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0907\u0935\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Iwo"
+    ],
+    "name:ind_x_preferred":[
+        "Iwo"
+    ],
     "name:ita_x_preferred":[
         "Iwo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30a6\u30a9"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10d5\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc624"
     ],
     "name:nan_x_preferred":[
         "Iwo"
@@ -71,14 +98,32 @@
     "name:swe_x_preferred":[
         "Iwo"
     ],
+    "name:tur_x_preferred":[
+        "Iwo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Iwo"
+    ],
     "name:war_x_preferred":[
         "Iwo"
     ],
     "name:yor_x_preferred":[
         "\u00ccw\u00f3"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4f0a\u6c83"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Iwo"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f0a\u6c83"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nigeria",
@@ -220,7 +265,7 @@
         }
     ],
     "wof:id":421195915,
-    "wof:lastmodified":1566654438,
+    "wof:lastmodified":1636502944,
     "wof:name":"Iwo",
     "wof:parent_id":1108563707,
     "wof:placetype":"locality",
