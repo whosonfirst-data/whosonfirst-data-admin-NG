@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000253,
     "geom:area_square_m":0.0,
-    "geom:bbox":"3.13333,6.68333,3.13333,6.68333",
-    "geom:latitude":6.68333,
-    "geom:longitude":3.13333,
+    "geom:bbox":"3.112097,6.663265,3.146073,6.68272",
+    "geom:latitude":6.672942,
+    "geom:longitude":3.133629,
     "gn:admin1_code":"16.0",
     "gn:admin2_code":"28003.0",
     "gn:asciiname":"Iju",
@@ -24,13 +24,20 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
-    "lbl:bbox":"3.11333,6.66333,3.15333,6.70333",
+    "lbl:latitude":6.672496,
+    "lbl:longitude":3.13363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "reversegeo:latitude":6.672496,
+    "reversegeo:longitude":3.13363,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -42,7 +49,10 @@
         "gn:id":2338356
     },
     "wof:country":"NG",
-    "wof:geomhash":"2dca307754326666bc314061a720c8df",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f3c11bfe6716d92bb735a32d16c29bcf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":1326512019,
-    "wof:lastmodified":1566649627,
+    "wof:lastmodified":1668556264,
     "wof:name":"Iju",
     "wof:parent_id":1108562921,
     "wof:placetype":"locality",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.13333,
-    6.68333,
-    3.13333,
-    6.68333
+    3.112097,
+    6.663265,
+    3.146073,
+    6.68272
 ],
-  "geometry": {"coordinates":[3.13333,6.68333],"type":"Point"}
+  "geometry": {"coordinates":[[[3.112097,6.671868],[3.113644,6.672031],[3.115496,6.672694],[3.118165,6.673279],[3.120794,6.674091],[3.132328,6.677863],[3.139138,6.680006],[3.14276,6.681193],[3.143921,6.68195],[3.144624,6.682497],[3.145608,6.68272],[3.145608,6.68272],[3.14556,6.682591],[3.145611,6.681929],[3.145842,6.681115],[3.146073,6.680529],[3.145611,6.679561],[3.145201,6.679256],[3.144637,6.678594],[3.144176,6.676964],[3.143355,6.674418],[3.142945,6.673196],[3.14274,6.672738],[3.14274,6.671719],[3.141151,6.667034],[3.139561,6.664589],[3.138946,6.663877],[3.138177,6.663265],[3.133195,6.667048],[3.125647,6.669376],[3.120677,6.670401],[3.112097,6.671868]]],"type":"Polygon"}
 }

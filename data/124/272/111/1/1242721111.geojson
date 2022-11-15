@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000128,
     "geom:area_square_m":0.0,
-    "geom:bbox":"5.3468,5.36015,5.3468,5.36015",
-    "geom:latitude":5.36015,
-    "geom:longitude":5.3468,
+    "geom:bbox":"5.335286,5.3486,5.351417,5.362926",
+    "geom:latitude":5.356085,
+    "geom:longitude":5.344991,
     "gn:admin1_code":"36.0",
     "gn:asciiname":"Okuntu",
     "gn:country_code":"NG",
@@ -23,16 +23,23 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
-    "lbl:bbox":"5.3268,5.34015,5.3668,5.38015",
+    "lbl:latitude":5.355835,
+    "lbl:longitude":5.344868,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Okuntu"
     ],
-    "src:geom":"geonames",
+    "reversegeo:latitude":5.355835,
+    "reversegeo:longitude":5.344868,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -44,7 +51,10 @@
         "gn:id":7028166
     },
     "wof:country":"NG",
-    "wof:geomhash":"c50ff2973198b1950b04f2d5202c8d88",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5d29ef0a8214347f15112ffa523e96d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1242721111,
-    "wof:lastmodified":1566654672,
+    "wof:lastmodified":1668556281,
     "wof:name":"Okuntu",
     "wof:parent_id":1108563177,
     "wof:placetype":"locality",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.3468,
-    5.36015,
-    5.3468,
-    5.36015
+    5.335286,
+    5.3486,
+    5.351417,
+    5.362926
 ],
-  "geometry": {"coordinates":[5.3468,5.36015],"type":"Point"}
+  "geometry": {"coordinates":[[[5.350195,5.361431],[5.350269,5.360467],[5.351417,5.360188],[5.348401,5.3486],[5.345706,5.349008],[5.344915,5.349212],[5.344256,5.349519],[5.338852,5.353689],[5.339248,5.355234],[5.339218,5.355511],[5.339131,5.35573],[5.338179,5.356445],[5.338003,5.356663],[5.337754,5.357013],[5.3373,5.357596],[5.335601,5.358996],[5.335286,5.359332],[5.335374,5.359776],[5.336517,5.359536],[5.33659,5.359477],[5.336626,5.359324],[5.336678,5.358748],[5.337044,5.358449],[5.337366,5.358457],[5.339716,5.359135],[5.339951,5.359237],[5.342565,5.36068],[5.343407,5.36114],[5.344476,5.361555],[5.347712,5.362765],[5.347844,5.362809],[5.348884,5.362707],[5.349675,5.362926],[5.349799,5.362897],[5.349916,5.362598],[5.350195,5.361431]]],"type":"Polygon"}
 }
