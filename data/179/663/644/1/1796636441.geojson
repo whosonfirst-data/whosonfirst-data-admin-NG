@@ -1,0 +1,76 @@
+{
+  "id": 1796636441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.98093,5.53925,6.98093,5.53925",
+    "geom:latitude":5.53925,
+    "geom:longitude":6.98093,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17026.0",
+    "gn:asciiname":"Orogwe",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325701,
+    "gn:latitude":5.53925,
+    "gn:longitude":6.98093,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orogwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.96093,5.51925,7.00093,5.55925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564253,
+        85675315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325701,
+        "wk:page":"Orogwe"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"423eb7ee87cc65780ba7aa61148448ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564253,
+            "locality_id":-1,
+            "neighbourhood_id":1796636441,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1796636441,
+    "wof:lastmodified":1668627083,
+    "wof:name":"Orogwe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326677147
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.98093,
+    5.53925,
+    6.98093,
+    5.53925
+],
+  "geometry": {"coordinates":[6.98093,5.53925],"type":"Point"}
+}

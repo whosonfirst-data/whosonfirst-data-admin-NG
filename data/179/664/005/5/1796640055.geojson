@@ -1,0 +1,75 @@
+{
+  "id": 1796640055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03367,5.47612,6.03367,5.47612",
+    "geom:latitude":5.47612,
+    "geom:longitude":6.03367,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Ivwitapere",
+    "gn:country_code":"NG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098382,
+    "gn:latitude":5.47612,
+    "gn:longitude":6.03367,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ivwitapere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.01367,5.45612,6.05367,5.49612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564439,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098382
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b44459da288b7ff14d869aa3a6ad42e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":-1,
+            "neighbourhood_id":1796640055,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796640055,
+    "wof:lastmodified":1668626957,
+    "wof:name":"Ivwitapere",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226582713
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03367,
+    5.47612,
+    6.03367,
+    5.47612
+],
+  "geometry": {"coordinates":[6.03367,5.47612],"type":"Point"}
+}

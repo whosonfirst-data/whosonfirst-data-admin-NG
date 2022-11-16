@@ -1,0 +1,75 @@
+{
+  "id": 1796640035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.9475,7.34889,3.9475,7.34889",
+    "geom:latitude":7.34889,
+    "geom:longitude":3.9475,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31007.0",
+    "gn:asciiname":"Olunloyo",
+    "gn:country_code":"NG",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326313,
+    "gn:latitude":7.34889,
+    "gn:longitude":3.9475,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olunloyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.9275,7.32889,3.9675,7.36889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189471,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326313
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"606a38259fd0ddaf434546e2f4956919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421189471,
+            "locality_id":-1,
+            "neighbourhood_id":1796640035,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796640035,
+    "wof:lastmodified":1668627062,
+    "wof:name":"Olunloyo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226691455
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9475,
+    7.34889,
+    3.9475,
+    7.34889
+],
+  "geometry": {"coordinates":[3.9475,7.34889],"type":"Point"}
+}

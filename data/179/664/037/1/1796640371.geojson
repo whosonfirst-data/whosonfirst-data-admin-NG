@@ -1,0 +1,79 @@
+{
+  "id": 1796640371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75676,6.3292,5.75676,6.3292",
+    "geom:latitude":6.3292,
+    "geom:longitude":5.75676,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12018.0",
+    "gn:asciiname":"Okhuaihe",
+    "gn:country_code":"NG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327158,
+    "gn:latitude":6.3292,
+    "gn:longitude":5.75676,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okhuaihe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.73676,6.3092,5.77676,6.3492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Okhuaiha",
+        "Okhuaihe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564447,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327158
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e2e38be31a913b601c1b66f67831ec7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564447,
+            "locality_id":-1,
+            "neighbourhood_id":1796640371,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796640371,
+    "wof:lastmodified":1668627010,
+    "wof:name":"Okhuaihe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225787981
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75676,
+    6.3292,
+    5.75676,
+    6.3292
+],
+  "geometry": {"coordinates":[5.75676,6.3292],"type":"Point"}
+}

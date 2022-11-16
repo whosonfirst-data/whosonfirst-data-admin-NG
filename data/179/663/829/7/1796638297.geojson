@@ -1,0 +1,75 @@
+{
+  "id": 1796638297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41806,6.4225,3.41806,6.4225",
+    "geom:latitude":6.4225,
+    "geom:longitude":3.41806,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25008.0",
+    "gn:asciiname":"Apese",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349589,
+    "gn:latitude":6.4225,
+    "gn:longitude":3.41806,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Apese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.39806,6.4025,3.43806,6.4425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189639,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349589
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5160923f8a6222c8722943a92569a999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421189639,
+            "locality_id":-1,
+            "neighbourhood_id":1796638297,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796638297,
+    "wof:lastmodified":1668627018,
+    "wof:name":"Apese",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209813963
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41806,
+    6.4225,
+    3.41806,
+    6.4225
+],
+  "geometry": {"coordinates":[3.41806,6.4225],"type":"Point"}
+}

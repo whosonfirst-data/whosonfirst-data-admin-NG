@@ -1,0 +1,75 @@
+{
+  "id": 1796639541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.82601,9.8681,8.82601,9.8681",
+    "geom:latitude":9.8681,
+    "geom:longitude":8.82601,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32006.0",
+    "gn:asciiname":"Rafin Bauna",
+    "gn:country_code":"NG",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324685,
+    "gn:latitude":9.8681,
+    "gn:longitude":8.82601,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rafin Bauna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.80601,9.8481,8.84601,9.8881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563733,
+        85675411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324685
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"98d1cb275a3b79860e4eac0ebc476e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563733,
+            "locality_id":-1,
+            "neighbourhood_id":1796639541,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1796639541,
+    "wof:lastmodified":1668627003,
+    "wof:name":"Rafin Bauna",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242706301
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.82601,
+    9.8681,
+    8.82601,
+    9.8681
+],
+  "geometry": {"coordinates":[8.82601,9.8681],"type":"Point"}
+}

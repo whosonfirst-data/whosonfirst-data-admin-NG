@@ -1,0 +1,82 @@
+{
+  "id": 1796639129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.80809,6.09862,6.80809,6.09862",
+    "geom:latitude":6.09862,
+    "geom:longitude":6.80809,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4010.0",
+    "gn:asciiname":"Obosi",
+    "gn:country_code":"NG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328173,
+    "gn:latitude":6.09862,
+    "gn:longitude":6.80809,
+    "gn:modification_date":"2016-07-20",
+    "gn:name":"Obosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.78809,6.07862,6.82809,6.11862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Obosi"
+    ],
+    "name:pol_x_preferred":[
+        "Obosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563527,
+        85675375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328173,
+        "wk:page":"Obosi"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cb3b2a6ed24caad873996c5851d79f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563527,
+            "locality_id":-1,
+            "neighbourhood_id":1796639129,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1796639129,
+    "wof:lastmodified":1668627127,
+    "wof:name":"Obosi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309773741
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.80809,
+    6.09862,
+    6.80809,
+    6.09862
+],
+  "geometry": {"coordinates":[6.80809,6.09862],"type":"Point"}
+}

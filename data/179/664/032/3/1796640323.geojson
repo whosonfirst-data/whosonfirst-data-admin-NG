@@ -1,0 +1,91 @@
+{
+  "id": 1796640323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41238,10.51223,7.41238,10.51223",
+    "geom:latitude":10.51223,
+    "geom:longitude":7.41238,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19010.0",
+    "gn:admin3_code":"KD1009",
+    "gn:asciiname":"Tudun Wada",
+    "gn:country_code":"NG",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321641,
+    "gn:latitude":10.51223,
+    "gn:longitude":7.41238,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tudun Wada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.39238,10.49223,7.43238,10.53223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Tudun Wada"
+    ],
+    "name:fra_x_preferred":[
+        "Tudun Wada"
+    ],
+    "name:hau_x_preferred":[
+        "Tudun Wada"
+    ],
+    "name:ita_x_preferred":[
+        "Tudun Wada"
+    ],
+    "name:spa_x_preferred":[
+        "Tudun Wada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421200123,
+        85675405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321641
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"63ef662d9e598ecf9a311fd3432c7764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421200123,
+            "locality_id":-1,
+            "neighbourhood_id":1796640323,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1796640323,
+    "wof:lastmodified":1668627095,
+    "wof:name":"Tudun Wada",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226000741
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41238,
+    10.51223,
+    7.41238,
+    10.51223
+],
+  "geometry": {"coordinates":[7.41238,10.51223],"type":"Point"}
+}

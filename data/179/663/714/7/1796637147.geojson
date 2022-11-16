@@ -1,0 +1,78 @@
+{
+  "id": 1796637147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.97331,5.49183,5.97331,5.49183",
+    "geom:latitude":5.49183,
+    "geom:longitude":5.97331,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10020.0",
+    "gn:asciiname":"Oteri",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028099,
+    "gn:latitude":5.49183,
+    "gn:longitude":5.97331,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Oteri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.95331,5.47183,5.99331,5.51183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Oteri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564441,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028099
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5bdd0d25d0af94d7efc8d22efb14714a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564441,
+            "locality_id":-1,
+            "neighbourhood_id":1796637147,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796637147,
+    "wof:lastmodified":1668627055,
+    "wof:name":"Oteri",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293627981
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.97331,
+    5.49183,
+    5.97331,
+    5.49183
+],
+  "geometry": {"coordinates":[5.97331,5.49183],"type":"Point"}
+}

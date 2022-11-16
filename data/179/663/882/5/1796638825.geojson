@@ -1,0 +1,75 @@
+{
+  "id": 1796638825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54306,7.73092,8.54306,7.73092",
+    "geom:latitude":7.73092,
+    "geom:longitude":8.54306,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013.0",
+    "gn:asciiname":"Walmayo",
+    "gn:country_code":"NG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2319268,
+    "gn:latitude":7.73092,
+    "gn:longitude":8.54306,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Walmayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.52306,7.71092,8.56306,7.75092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563933,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2319268
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"46c662c38fceb8f16ed589ac111a0507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":-1,
+            "neighbourhood_id":1796638825,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796638825,
+    "wof:lastmodified":1668627103,
+    "wof:name":"Walmayo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310456303
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54306,
+    7.73092,
+    8.54306,
+    7.73092
+],
+  "geometry": {"coordinates":[8.54306,7.73092],"type":"Point"}
+}

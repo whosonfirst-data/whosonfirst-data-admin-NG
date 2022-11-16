@@ -1,0 +1,76 @@
+{
+  "id": 1796639187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18771,13.02527,5.18771,13.02527",
+    "geom:latitude":13.02527,
+    "geom:longitude":5.18771,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"621.0",
+    "gn:admin3_code":"62101",
+    "gn:asciiname":"Arguila",
+    "gn:country_code":"NG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7013073,
+    "gn:latitude":13.02527,
+    "gn:longitude":5.18771,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Arguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.16771,13.00527,5.20771,13.04527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564489,
+        85675433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7013073
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0c95a0daac62d019e862db976de2bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564489,
+            "locality_id":-1,
+            "neighbourhood_id":1796639187,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1796639187,
+    "wof:lastmodified":1668627015,
+    "wof:name":"Arguila",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309739819
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18771,
+    13.02527,
+    5.18771,
+    13.02527
+],
+  "geometry": {"coordinates":[5.18771,13.02527],"type":"Point"}
+}

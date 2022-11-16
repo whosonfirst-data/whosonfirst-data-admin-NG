@@ -1,0 +1,78 @@
+{
+  "id": 1796640133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.11107,6.74631,6.11107,6.74631",
+    "geom:latitude":6.74631,
+    "geom:longitude":6.11107,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006.0",
+    "gn:asciiname":"Ihumudumu",
+    "gn:country_code":"NG",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081156,
+    "gn:latitude":6.74631,
+    "gn:longitude":6.11107,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ihumudumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.09107,6.72631,6.13107,6.76631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ihumudum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563321,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081156
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b092adbe896181ce83b2d32f18b5a70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563321,
+            "locality_id":-1,
+            "neighbourhood_id":1796640133,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796640133,
+    "wof:lastmodified":1668627044,
+    "wof:name":"Ihumudumu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225887503
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.11107,
+    6.74631,
+    6.11107,
+    6.74631
+],
+  "geometry": {"coordinates":[6.11107,6.74631],"type":"Point"}
+}

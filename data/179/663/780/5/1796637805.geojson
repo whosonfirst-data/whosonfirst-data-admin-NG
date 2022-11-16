@@ -1,0 +1,75 @@
+{
+  "id": 1796637805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03444,9.10095,6.03444,9.10095",
+    "geom:latitude":9.10095,
+    "geom:longitude":6.03444,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27003",
+    "gn:asciiname":"Kuchitagi",
+    "gn:country_code":"NG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10318882,
+    "gn:latitude":9.10095,
+    "gn:longitude":6.03444,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kuchitagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.01444,9.08095,6.05444,9.12095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421186507,
+        85675349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10318882
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e4213f4ce77704f5f5c28d164bb6d3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421186507,
+            "locality_id":-1,
+            "neighbourhood_id":1796637805,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1796637805,
+    "wof:lastmodified":1668627052,
+    "wof:name":"Kuchitagi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276793305
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03444,
+    9.10095,
+    6.03444,
+    9.10095
+],
+  "geometry": {"coordinates":[6.03444,9.10095],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1796636897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.44821,9.23518,12.44821,9.23518",
+    "geom:latitude":9.23518,
+    "geom:longitude":12.44821,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Wuro Dole Yakamle",
+    "gn:country_code":"NG",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189712,
+    "gn:latitude":9.23518,
+    "gn:longitude":12.44821,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Wuro Dole Yakamle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"12.42821,9.21518,12.46821,9.25518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wuro Dole Yakamle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564543,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189712
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"90c4623fda135db919bbd7f5a6044721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564543,
+            "locality_id":-1,
+            "neighbourhood_id":1796636897,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796636897,
+    "wof:lastmodified":1668627075,
+    "wof:name":"Wuro Dole Yakamle",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343405615
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.44821,
+    9.23518,
+    12.44821,
+    9.23518
+],
+  "geometry": {"coordinates":[12.44821,9.23518],"type":"Point"}
+}

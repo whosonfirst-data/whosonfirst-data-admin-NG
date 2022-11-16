@@ -1,0 +1,76 @@
+{
+  "id": 1796640335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.02738,5.43404,7.02738,5.43404",
+    "geom:latitude":5.43404,
+    "geom:longitude":7.02738,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17026.0",
+    "gn:asciiname":"Nekede",
+    "gn:country_code":"NG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329156,
+    "gn:latitude":5.43404,
+    "gn:longitude":7.02738,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nekede",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.00738,5.41404,7.04738,5.45404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564253,
+        85675315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329156,
+        "wk:page":"Nekede"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9090a05c5a874bcf995daeada5e0a654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564253,
+            "locality_id":-1,
+            "neighbourhood_id":1796640335,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1796640335,
+    "wof:lastmodified":1668627057,
+    "wof:name":"Nekede",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226389615
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.02738,
+    5.43404,
+    7.02738,
+    5.43404
+],
+  "geometry": {"coordinates":[7.02738,5.43404],"type":"Point"}
+}

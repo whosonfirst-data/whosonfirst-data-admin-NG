@@ -1,0 +1,80 @@
+{
+  "id": 1796640357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.35497,5.03762,8.35497,5.03762",
+    "geom:latitude":5.03762,
+    "geom:longitude":8.35497,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"9008.0",
+    "gn:asciiname":"Ikot Efana Nkpa",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338118,
+    "gn:latitude":5.03762,
+    "gn:longitude":8.35497,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Efana Nkpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.33497,5.01762,8.37497,5.05762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ikot Effang",
+        "Ikot Efanga Nkpa",
+        "Ikot Efana Nkpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421204119,
+        85675331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338118
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"319ebabfe86bf33e433bdecb2699b27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421204119,
+            "locality_id":-1,
+            "neighbourhood_id":1796640357,
+            "region_id":85675331
+        }
+    ],
+    "wof:id":1796640357,
+    "wof:lastmodified":1668627028,
+    "wof:name":"Ikot Efana Nkpa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226098427
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.35497,
+    5.03762,
+    8.35497,
+    5.03762
+],
+  "geometry": {"coordinates":[8.35497,5.03762],"type":"Point"}
+}

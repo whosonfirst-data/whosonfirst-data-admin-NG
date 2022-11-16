@@ -1,0 +1,75 @@
+{
+  "id": 1796639303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.99489,9.04268,5.99489,9.04268",
+    "geom:latitude":9.04268,
+    "geom:longitude":5.99489,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27007",
+    "gn:asciiname":"Emiladan",
+    "gn:country_code":"NG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308907,
+    "gn:latitude":9.04268,
+    "gn:longitude":5.99489,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Emiladan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.97489,9.02268,6.01489,9.06268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563259,
+        85675349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308907
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2d9cd3ce0041200dca0dc978a0c76f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563259,
+            "locality_id":-1,
+            "neighbourhood_id":1796639303,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1796639303,
+    "wof:lastmodified":1668626996,
+    "wof:name":"Emiladan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243391909
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.99489,
+    9.04268,
+    5.99489,
+    9.04268
+],
+  "geometry": {"coordinates":[5.99489,9.04268],"type":"Point"}
+}

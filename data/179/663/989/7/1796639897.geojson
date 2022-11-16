@@ -1,0 +1,75 @@
+{
+  "id": 1796639897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.86889,7.55028,3.86889,7.55028",
+    "geom:latitude":7.55028,
+    "geom:longitude":3.86889,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Okegbemi",
+    "gn:country_code":"NG",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327248,
+    "gn:latitude":7.55028,
+    "gn:longitude":3.86889,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okegbemi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.84889,7.53028,3.88889,7.57028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108562963,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327248
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"59151d390e7e2038b3eebf97bbb482f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":-1,
+            "neighbourhood_id":1796639897,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796639897,
+    "wof:lastmodified":1668626991,
+    "wof:name":"Okegbemi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259742849
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.86889,
+    7.55028,
+    3.86889,
+    7.55028
+],
+  "geometry": {"coordinates":[3.86889,7.55028],"type":"Point"}
+}

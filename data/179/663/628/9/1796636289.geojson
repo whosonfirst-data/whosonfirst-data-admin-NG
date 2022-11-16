@@ -1,0 +1,93 @@
+{
+  "id": 1796636289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.50722,8.89722,7.50722,8.89722",
+    "geom:latitude":8.89722,
+    "geom:longitude":7.50722,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Sape",
+    "gn:country_code":"NG",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591014,
+    "gn:latitude":8.89722,
+    "gn:longitude":7.50722,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sape",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.48722,8.87722,7.52722,8.91722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Sape"
+    ],
+    "name:deu_x_preferred":[
+        "Sape"
+    ],
+    "name:fra_x_preferred":[
+        "Sape"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043f\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sape"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043f\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591014
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cf1c22b0ebde389ed13c30a29330e065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":-1,
+            "neighbourhood_id":1796636289,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796636289,
+    "wof:lastmodified":1668627033,
+    "wof:name":"Sape",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327017601
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.50722,
+    8.89722,
+    7.50722,
+    8.89722
+],
+  "geometry": {"coordinates":[7.50722,8.89722],"type":"Point"}
+}

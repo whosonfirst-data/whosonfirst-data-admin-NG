@@ -1,0 +1,77 @@
+{
+  "id": 1796638569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.44865,9.26598,12.44865,9.26598",
+    "geom:latitude":9.26598,
+    "geom:longitude":12.44865,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Doyolde",
+    "gn:country_code":"NG",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189673,
+    "gn:latitude":9.26598,
+    "gn:longitude":12.44865,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Doyolde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"12.42865,9.24598,12.46865,9.28598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Doyolde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564543,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189673
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e64ebff2f6ef0549f41901e24ad62f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564543,
+            "locality_id":-1,
+            "neighbourhood_id":1796638569,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796638569,
+    "wof:lastmodified":1668627047,
+    "wof:name":"Doyolde",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260019967
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.44865,
+    9.26598,
+    12.44865,
+    9.26598
+],
+  "geometry": {"coordinates":[12.44865,9.26598],"type":"Point"}
+}

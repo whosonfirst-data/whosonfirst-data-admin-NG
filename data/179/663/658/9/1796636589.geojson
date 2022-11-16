@@ -1,0 +1,75 @@
+{
+  "id": 1796636589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.87194,7.33972,3.87194,7.33972",
+    "geom:latitude":7.33972,
+    "geom:longitude":3.87194,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31010.0",
+    "gn:asciiname":"Idi Iroko",
+    "gn:country_code":"NG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339064,
+    "gn:latitude":7.33972,
+    "gn:longitude":3.87194,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idi Iroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.85194,7.31972,3.89194,7.35972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563495,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339064
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9a35bc7d734e018fb983cfc017157cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563495,
+            "locality_id":-1,
+            "neighbourhood_id":1796636589,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796636589,
+    "wof:lastmodified":1668627035,
+    "wof:name":"Idi Iroko",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326771949
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.87194,
+    7.33972,
+    3.87194,
+    7.33972
+],
+  "geometry": {"coordinates":[3.87194,7.33972],"type":"Point"}
+}

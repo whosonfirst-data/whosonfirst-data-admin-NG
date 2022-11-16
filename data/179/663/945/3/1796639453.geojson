@@ -1,0 +1,84 @@
+{
+  "id": 1796639453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37231,6.7247,6.37231,6.7247",
+    "geom:latitude":6.7247,
+    "geom:longitude":6.37231,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003.0",
+    "gn:asciiname":"Amendhoklan",
+    "gn:country_code":"NG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350105,
+    "gn:latitude":6.7247,
+    "gn:longitude":6.37231,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amendhoklan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.35231,6.7047,6.39231,6.7447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Amedokai"
+    ],
+    "name:eng_x_variant":[
+        "Amendhokian"
+    ],
+    "name:und_x_variant":[
+        "Amendhoklan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563317,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350105
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"61809ce3eb3f615acfa29a069f91d144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":-1,
+            "neighbourhood_id":1796639453,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796639453,
+    "wof:lastmodified":1668627001,
+    "wof:name":"Amendhoklan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243596925
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37231,
+    6.7247,
+    6.37231,
+    6.7247
+],
+  "geometry": {"coordinates":[6.37231,6.7247],"type":"Point"}
+}

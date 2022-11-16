@@ -1,0 +1,69 @@
+{
+  "id": 1796637923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.17101,6.75949,3.17101,6.75949",
+    "geom:latitude":6.75949,
+    "geom:longitude":3.17101,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28007.0",
+    "gn:asciiname":"Fagbayi",
+    "gn:country_code":"NG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826262,
+    "gn:latitude":6.75949,
+    "gn:longitude":3.17101,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fagbayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.15101,6.73949,3.19101,6.77949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826262
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a42685a5aa4cc9c8e35916e267756e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":-1,
+            "neighbourhood_id":1796637923
+        }
+    ],
+    "wof:id":1796637923,
+    "wof:lastmodified":1668626960,
+    "wof:name":"Fagbayi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209077805
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17101,
+    6.75949,
+    3.17101,
+    6.75949
+],
+  "geometry": {"coordinates":[3.17101,6.75949],"type":"Point"}
+}

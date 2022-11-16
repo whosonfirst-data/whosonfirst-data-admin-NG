@@ -1,0 +1,75 @@
+{
+  "id": 1796639907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.29471,6.69984,3.29471,6.69984",
+    "geom:latitude":6.69984,
+    "geom:longitude":3.29471,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28007.0",
+    "gn:asciiname":"Opeilu",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566710,
+    "gn:latitude":6.69984,
+    "gn:longitude":3.29471,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Opeilu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.27471,6.67984,3.31471,6.71984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563549,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566710
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e438bf4c9942d6fea01c0c7d937f815f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563549,
+            "locality_id":-1,
+            "neighbourhood_id":1796639907,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796639907,
+    "wof:lastmodified":1668626965,
+    "wof:name":"Opeilu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259446795
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.29471,
+    6.69984,
+    3.29471,
+    6.69984
+],
+  "geometry": {"coordinates":[3.29471,6.69984],"type":"Point"}
+}

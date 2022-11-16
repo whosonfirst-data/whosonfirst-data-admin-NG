@@ -1,0 +1,75 @@
+{
+  "id": 1796639533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.43486,6.78132,3.43486,6.78132",
+    "geom:latitude":6.78132,
+    "geom:longitude":3.43486,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Olowotedo",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826331,
+    "gn:latitude":6.78132,
+    "gn:longitude":3.43486,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olowotedo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.41486,6.76132,3.45486,6.80132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421188931,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826331
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5e5b71926ba29932c2ace8344dd7453d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188931,
+            "locality_id":-1,
+            "neighbourhood_id":1796639533,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796639533,
+    "wof:lastmodified":1668627043,
+    "wof:name":"Olowotedo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243050015
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.43486,
+    6.78132,
+    3.43486,
+    6.78132
+],
+  "geometry": {"coordinates":[3.43486,6.78132],"type":"Point"}
+}

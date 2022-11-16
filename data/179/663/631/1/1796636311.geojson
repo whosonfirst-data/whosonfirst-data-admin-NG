@@ -1,0 +1,87 @@
+{
+  "id": 1796636311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.1557,7.1866,8.1557,7.1866",
+    "geom:latitude":7.1866,
+    "geom:longitude":8.1557,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7019.0",
+    "gn:asciiname":"Do",
+    "gn:country_code":"NG",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344744,
+    "gn:latitude":7.1866,
+    "gn:longitude":8.1557,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Do",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.1357,7.1666,8.1757,7.2066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564239,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344744
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b8b36616e650e72d30dcee59bffdd505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564239,
+            "locality_id":-1,
+            "neighbourhood_id":1796636311,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796636311,
+    "wof:lastmodified":1668626976,
+    "wof:name":"Do",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327088697
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.1557,
+    7.1866,
+    8.1557,
+    7.1866
+],
+  "geometry": {"coordinates":[8.1557,7.1866],"type":"Point"}
+}

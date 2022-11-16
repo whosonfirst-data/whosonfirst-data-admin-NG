@@ -1,0 +1,75 @@
+{
+  "id": 1796639621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.32333,6.55917,3.32333,6.55917",
+    "geom:latitude":6.55917,
+    "geom:longitude":3.32333,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25016.0",
+    "gn:asciiname":"Ewu",
+    "gn:country_code":"NG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342972,
+    "gn:latitude":6.55917,
+    "gn:longitude":3.32333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ewu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.30333,6.53917,3.34333,6.57917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564235,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342972
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d0603adcb42dee43adf03852a460b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564235,
+            "locality_id":-1,
+            "neighbourhood_id":1796639621,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796639621,
+    "wof:lastmodified":1668627081,
+    "wof:name":"Ewu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243452899
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.32333,
+    6.55917,
+    3.32333,
+    6.55917
+],
+  "geometry": {"coordinates":[3.32333,6.55917],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1796637221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27674,10.25539,13.27674,10.25539",
+    "geom:latitude":10.25539,
+    "geom:longitude":13.27674,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Kotchia",
+    "gn:country_code":"NG",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760313,
+    "gn:latitude":10.25539,
+    "gn:longitude":13.27674,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kotchia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"13.25674,10.23539,13.29674,10.27539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563999,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760313
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"249bc540264a9986b17c1388b0aebe57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563999,
+            "locality_id":-1,
+            "neighbourhood_id":1796637221,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796637221,
+    "wof:lastmodified":1668627123,
+    "wof:name":"Kotchia",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292954179
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27674,
+    10.25539,
+    13.27674,
+    10.25539
+],
+  "geometry": {"coordinates":[13.27674,10.25539],"type":"Point"}
+}

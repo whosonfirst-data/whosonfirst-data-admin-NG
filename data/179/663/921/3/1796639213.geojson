@@ -1,0 +1,75 @@
+{
+  "id": 1796639213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.985,7.42917,3.985,7.42917",
+    "geom:latitude":7.42917,
+    "geom:longitude":3.985,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31020.0",
+    "gn:asciiname":"Oluwa",
+    "gn:country_code":"NG",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326295,
+    "gn:latitude":7.42917,
+    "gn:longitude":3.985,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oluwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.965,7.40917,4.005,7.44917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563881,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326295
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d78707f05e9af02b29c71ce97559d3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563881,
+            "locality_id":-1,
+            "neighbourhood_id":1796639213,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796639213,
+    "wof:lastmodified":1668626988,
+    "wof:name":"Oluwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309754893
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.985,
+    7.42917,
+    3.985,
+    7.42917
+],
+  "geometry": {"coordinates":[3.985,7.42917],"type":"Point"}
+}

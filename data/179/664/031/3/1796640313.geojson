@@ -1,0 +1,80 @@
+{
+  "id": 1796640313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38141,6.40737,3.38141,6.40737",
+    "geom:latitude":6.40737,
+    "geom:longitude":3.38141,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oke Ogbe",
+    "gn:country_code":"NG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327205,
+    "gn:latitude":6.40737,
+    "gn:longitude":3.38141,
+    "gn:modification_date":"2018-01-23",
+    "gn:name":"Oke Ogbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.36141,6.38737,3.40141,6.42737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Abekkun",
+        "Oko Agbo",
+        "Abagbo",
+        "Oke Ogbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421200121,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327205
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"99bb33daa810d42ff839e07b2d48f7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421200121,
+            "locality_id":-1,
+            "neighbourhood_id":1796640313,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796640313,
+    "wof:lastmodified":1668627041,
+    "wof:name":"Oke Ogbe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226535357
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.38141,
+    6.40737,
+    3.38141,
+    6.40737
+],
+  "geometry": {"coordinates":[3.38141,6.40737],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1796637791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.26949,7.64744,5.26949,7.64744",
+    "geom:latitude":7.64744,
+    "geom:longitude":5.26949,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13001.0",
+    "gn:asciiname":"Ago-Igbira",
+    "gn:country_code":"NG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6833116,
+    "gn:latitude":7.64744,
+    "gn:longitude":5.26949,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ago-Igbira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.24949,7.62744,5.28949,7.66744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108562919,
+        85675361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6833116
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a61d9aa4c2f9ceaa0a21a17a38a36f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562919,
+            "locality_id":-1,
+            "neighbourhood_id":1796637791,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1796637791,
+    "wof:lastmodified":1668627047,
+    "wof:name":"Ago-Igbira",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276154099
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26949,
+    7.64744,
+    5.26949,
+    7.64744
+],
+  "geometry": {"coordinates":[5.26949,7.64744],"type":"Point"}
+}

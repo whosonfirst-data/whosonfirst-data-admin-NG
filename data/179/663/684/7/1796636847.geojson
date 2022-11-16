@@ -1,0 +1,75 @@
+{
+  "id": 1796636847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97972,7.5025,3.97972,7.5025",
+    "geom:latitude":7.5025,
+    "geom:longitude":3.97972,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Ayagaga",
+    "gn:country_code":"NG",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591693,
+    "gn:latitude":7.5025,
+    "gn:longitude":3.97972,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ayagaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.95972,7.4825,3.99972,7.5225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108562963,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591693
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2cdc34c6aa38a51a5959162ffaec78c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562963,
+            "locality_id":-1,
+            "neighbourhood_id":1796636847,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796636847,
+    "wof:lastmodified":1668627043,
+    "wof:name":"Ayagaga",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343410175
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97972,
+    7.5025,
+    3.97972,
+    7.5025
+],
+  "geometry": {"coordinates":[3.97972,7.5025],"type":"Point"}
+}

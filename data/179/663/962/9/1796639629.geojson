@@ -1,0 +1,80 @@
+{
+  "id": 1796639629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26379,6.54433,3.26379,6.54433",
+    "geom:latitude":6.54433,
+    "geom:longitude":3.26379,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25003.0",
+    "gn:asciiname":"Ikotun",
+    "gn:country_code":"NG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2337902,
+    "gn:latitude":6.54433,
+    "gn:longitude":3.26379,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikotun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.24379,6.52433,3.28379,6.56433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ikotan",
+        "Ikotun",
+        "Iko Tun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108562995,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337902
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b9a12c52f1503ff97ed6196225fc5d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562995,
+            "locality_id":-1,
+            "neighbourhood_id":1796639629,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796639629,
+    "wof:lastmodified":1668627125,
+    "wof:name":"Ikotun",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243452903
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26379,
+    6.54433,
+    3.26379,
+    6.54433
+],
+  "geometry": {"coordinates":[3.26379,6.54433],"type":"Point"}
+}

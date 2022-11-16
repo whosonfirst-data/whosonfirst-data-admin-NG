@@ -1,0 +1,75 @@
+{
+  "id": 1796637731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.3,5.08333,7.3,5.08333",
+    "geom:latitude":5.08333,
+    "geom:longitude":7.3,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Umuozuo",
+    "gn:country_code":"NG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320324,
+    "gn:latitude":5.08333,
+    "gn:longitude":7.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umuozuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.28,5.06333,7.32,5.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564237,
+        85675305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320324
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a4539f16f45f5b2146ce03093cc664f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564237,
+            "locality_id":-1,
+            "neighbourhood_id":1796637731,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1796637731,
+    "wof:lastmodified":1668626983,
+    "wof:name":"Umuozuo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276257633
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.3,
+    5.08333,
+    7.3,
+    5.08333
+],
+  "geometry": {"coordinates":[7.3,5.08333],"type":"Point"}
+}

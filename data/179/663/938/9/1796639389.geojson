@@ -1,0 +1,75 @@
+{
+  "id": 1796639389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.88473,5.0671,7.88473,5.0671",
+    "geom:latitude":5.0671,
+    "geom:longitude":7.88473,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3010.0",
+    "gn:asciiname":"Mbiabam",
+    "gn:country_code":"NG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074913,
+    "gn:latitude":5.0671,
+    "gn:longitude":7.88473,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbiabam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.86473,5.0471,7.90473,5.0871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563511,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074913
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8089ba44875e78d6f028b60411b64151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563511,
+            "locality_id":-1,
+            "neighbourhood_id":1796639389,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796639389,
+    "wof:lastmodified":1668627034,
+    "wof:name":"Mbiabam",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243418293
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.88473,
+    5.0671,
+    7.88473,
+    5.0671
+],
+  "geometry": {"coordinates":[7.88473,5.0671],"type":"Point"}
+}

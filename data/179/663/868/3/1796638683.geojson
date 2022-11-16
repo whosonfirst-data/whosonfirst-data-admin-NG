@@ -1,0 +1,75 @@
+{
+  "id": 1796638683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98278,7.41556,3.98278,7.41556",
+    "geom:latitude":7.41556,
+    "geom:longitude":3.98278,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31020.0",
+    "gn:asciiname":"Olode",
+    "gn:country_code":"NG",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326682,
+    "gn:latitude":7.41556,
+    "gn:longitude":3.98278,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Olode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.96278,7.39556,4.00278,7.43556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563881,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326682
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6cd7d45c201b2995bfaa5ee9d09f3273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563881,
+            "locality_id":-1,
+            "neighbourhood_id":1796638683,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796638683,
+    "wof:lastmodified":1668627132,
+    "wof:name":"Olode",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310154509
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98278,
+    7.41556,
+    3.98278,
+    7.41556
+],
+  "geometry": {"coordinates":[3.98278,7.41556],"type":"Point"}
+}

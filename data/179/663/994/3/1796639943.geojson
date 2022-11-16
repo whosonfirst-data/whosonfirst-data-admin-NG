@@ -1,0 +1,75 @@
+{
+  "id": 1796639943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.34361,6.41417,3.34361,6.41417",
+    "geom:latitude":6.41417,
+    "geom:longitude":3.34361,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25004.0",
+    "gn:asciiname":"Onigbokun",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326118,
+    "gn:latitude":6.41417,
+    "gn:longitude":3.34361,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Onigbokun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.32361,6.39417,3.36361,6.43417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563023,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326118
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"117a59bf6513d6b9988586519543da1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563023,
+            "locality_id":-1,
+            "neighbourhood_id":1796639943,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796639943,
+    "wof:lastmodified":1668627084,
+    "wof:name":"Onigbokun",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226447031
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.34361,
+    6.41417,
+    3.34361,
+    6.41417
+],
+  "geometry": {"coordinates":[3.34361,6.41417],"type":"Point"}
+}

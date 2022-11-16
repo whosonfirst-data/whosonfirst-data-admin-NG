@@ -1,0 +1,79 @@
+{
+  "id": 1796639091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.95494,5.00464,7.95494,5.00464",
+    "geom:latitude":5.00464,
+    "geom:longitude":7.95494,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3031.0",
+    "gn:asciiname":"Etiam-Etoi",
+    "gn:country_code":"NG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337024,
+    "gn:latitude":5.00464,
+    "gn:longitude":7.95494,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Etiam-Etoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.93494,4.98464,7.97494,5.02464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Itiam Etoi",
+        "Etiam-Etoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337024
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2a9c294feeb73b9866ac99c21094f477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":-1,
+            "neighbourhood_id":1796639091,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796639091,
+    "wof:lastmodified":1668627136,
+    "wof:name":"Etiam-Etoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360043935
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.95494,
+    5.00464,
+    7.95494,
+    5.00464
+],
+  "geometry": {"coordinates":[7.95494,5.00464],"type":"Point"}
+}

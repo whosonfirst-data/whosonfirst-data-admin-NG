@@ -1,0 +1,75 @@
+{
+  "id": 1796636953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.8684,9.95332,8.8684,9.95332",
+    "geom:latitude":9.95332,
+    "geom:longitude":8.8684,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005.0",
+    "gn:asciiname":"Barakin Sabon",
+    "gn:country_code":"NG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347701,
+    "gn:latitude":9.95332,
+    "gn:longitude":8.8684,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barakin Sabon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.8484,9.93332,8.8884,9.97332",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563731,
+        85675411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347701
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e7148aae1606ccdd040312d6265a27c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563731,
+            "locality_id":-1,
+            "neighbourhood_id":1796636953,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1796636953,
+    "wof:lastmodified":1668626996,
+    "wof:name":"Barakin Sabon",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343694747
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.8684,
+    9.95332,
+    8.8684,
+    9.95332
+],
+  "geometry": {"coordinates":[8.8684,9.95332],"type":"Point"}
+}

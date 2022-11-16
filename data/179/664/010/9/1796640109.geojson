@@ -1,0 +1,80 @@
+{
+  "id": 1796640109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.2,7.6,4.2,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":4.2,
+    "gn:admin1_code":"42.0",
+    "gn:admin2_code":"30002.0",
+    "gn:asciiname":"Alaya",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350490,
+    "gn:latitude":7.6,
+    "gn:longitude":4.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"4.18,7.58,4.22,7.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Eleya",
+        "Alaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108562953,
+        85675367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350490
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f0fd702eec3d1c1573afc60f84023a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562953,
+            "locality_id":-1,
+            "neighbourhood_id":1796640109,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1796640109,
+    "wof:lastmodified":1668626962,
+    "wof:name":"Alaya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226570471
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2,
+    7.6,
+    4.2,
+    7.6
+],
+  "geometry": {"coordinates":[4.2,7.6],"type":"Point"}
+}

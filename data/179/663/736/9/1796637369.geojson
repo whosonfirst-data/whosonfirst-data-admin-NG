@@ -1,0 +1,75 @@
+{
+  "id": 1796637369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.88722,7.28139,3.88722,7.28139",
+    "geom:latitude":7.28139,
+    "geom:longitude":3.88722,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31025.0",
+    "gn:asciiname":"Faruku",
+    "gn:country_code":"NG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342693,
+    "gn:latitude":7.28139,
+    "gn:longitude":3.88722,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Faruku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.86722,7.26139,3.90722,7.30139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564177,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342693
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"37663cc221280a0d62882920b887295b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564177,
+            "locality_id":-1,
+            "neighbourhood_id":1796637369,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796637369,
+    "wof:lastmodified":1668627071,
+    "wof:name":"Faruku",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293350051
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.88722,
+    7.28139,
+    3.88722,
+    7.28139
+],
+  "geometry": {"coordinates":[3.88722,7.28139],"type":"Point"}
+}

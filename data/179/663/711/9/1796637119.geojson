@@ -1,0 +1,79 @@
+{
+  "id": 1796637119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.65335,6.5862,3.65335,6.5862",
+    "geom:latitude":6.5862,
+    "geom:longitude":3.65335,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25012.0",
+    "gn:asciiname":"Igbalu",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338815,
+    "gn:latitude":6.5862,
+    "gn:longitude":3.65335,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Igbalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.63335,6.5662,3.67335,6.6062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Alaru",
+        "Igbalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563603,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338815
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6d3e0bcb72487ebe0d390bd6dd25a314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563603,
+            "locality_id":-1,
+            "neighbourhood_id":1796637119,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796637119,
+    "wof:lastmodified":1668627133,
+    "wof:name":"Igbalu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293382965
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.65335,
+    6.5862,
+    3.65335,
+    6.5862
+],
+  "geometry": {"coordinates":[3.65335,6.5862],"type":"Point"}
+}

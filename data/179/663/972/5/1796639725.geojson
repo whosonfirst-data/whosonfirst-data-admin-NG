@@ -1,0 +1,87 @@
+{
+  "id": 1796639725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96209,7.33869,8.96209,7.33869",
+    "geom:latitude":7.33869,
+    "geom:longitude":8.96209,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Uta",
+    "gn:country_code":"NG",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974524,
+    "gn:latitude":7.33869,
+    "gn:longitude":8.96209,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Uta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.94209,7.31869,8.98209,7.35869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:lat_x_preferred":[
+        "Uta"
+    ],
+    "name:nld_x_preferred":[
+        "Uta"
+    ],
+    "name:por_x_preferred":[
+        "Uta"
+    ],
+    "name:swe_x_preferred":[
+        "Uta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563411,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974524
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f5deddf14e0e4b07a72f56c979d69257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":-1,
+            "neighbourhood_id":1796639725,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796639725,
+    "wof:lastmodified":1668627021,
+    "wof:name":"Uta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259637881
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96209,
+    7.33869,
+    8.96209,
+    7.33869
+],
+  "geometry": {"coordinates":[8.96209,7.33869],"type":"Point"}
+}

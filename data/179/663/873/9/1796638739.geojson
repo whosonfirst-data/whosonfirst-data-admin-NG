@@ -1,0 +1,78 @@
+{
+  "id": 1796638739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.18599,6.23565,6.18599,6.23565",
+    "geom:latitude":6.23565,
+    "geom:longitude":6.18599,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10008.0",
+    "gn:asciiname":"Owa-Nta",
+    "gn:country_code":"NG",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325352,
+    "gn:latitude":6.23565,
+    "gn:longitude":6.18599,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Owa-Nta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.16599,6.21565,6.20599,6.25565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Owa-Nta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563585,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325352
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"626ec06e1e04d982ad40ed3daa138a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563585,
+            "locality_id":-1,
+            "neighbourhood_id":1796638739,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796638739,
+    "wof:lastmodified":1668627048,
+    "wof:name":"Owa-Nta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310544159
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.18599,
+    6.23565,
+    6.18599,
+    6.23565
+],
+  "geometry": {"coordinates":[6.18599,6.23565],"type":"Point"}
+}

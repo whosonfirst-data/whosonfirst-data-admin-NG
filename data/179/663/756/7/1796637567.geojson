@@ -1,0 +1,75 @@
+{
+  "id": 1796637567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41258,6.84251,3.41258,6.84251",
+    "geom:latitude":6.84251,
+    "geom:longitude":3.41258,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Abaren",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353031,
+    "gn:latitude":6.84251,
+    "gn:longitude":3.41258,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abaren",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.39258,6.82251,3.43258,6.86251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421188931,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353031
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8db683aacd196278e066f8c05cd3b94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188931,
+            "locality_id":-1,
+            "neighbourhood_id":1796637567,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796637567,
+    "wof:lastmodified":1668627081,
+    "wof:name":"Abaren",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276745191
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41258,
+    6.84251,
+    3.41258,
+    6.84251
+],
+  "geometry": {"coordinates":[3.41258,6.84251],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1796639325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.98819,5.02713,7.98819,5.02713",
+    "geom:latitude":5.02713,
+    "geom:longitude":7.98819,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3031.0",
+    "gn:asciiname":"Nsukara-Offot",
+    "gn:country_code":"NG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328685,
+    "gn:latitude":5.02713,
+    "gn:longitude":7.98819,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nsukara-Offot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.96819,5.00713,8.00819,5.04713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328685
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"33cb02c3321a5ed0954697f9f955749c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":-1,
+            "neighbourhood_id":1796639325,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796639325,
+    "wof:lastmodified":1668627029,
+    "wof:name":"Nsukara-Offot",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242736553
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.98819,
+    5.02713,
+    7.98819,
+    5.02713
+],
+  "geometry": {"coordinates":[7.98819,5.02713],"type":"Point"}
+}

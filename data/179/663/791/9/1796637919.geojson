@@ -1,0 +1,69 @@
+{
+  "id": 1796637919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.01669,7.36304,9.01669,7.36304",
+    "geom:latitude":7.36304,
+    "geom:longitude":9.01669,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Ngutswen",
+    "gn:country_code":"NG",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9633703,
+    "gn:latitude":7.36304,
+    "gn:longitude":9.01669,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ngutswen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.99669,7.34304,9.03669,7.38304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9633703
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8a0b1d00c64a6028a950d94c15aa7142",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":-1,
+            "neighbourhood_id":1796637919
+        }
+    ],
+    "wof:id":1796637919,
+    "wof:lastmodified":1668626997,
+    "wof:name":"Ngutswen",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209362361
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.01669,
+    7.36304,
+    9.01669,
+    7.36304
+],
+  "geometry": {"coordinates":[9.01669,7.36304],"type":"Point"}
+}

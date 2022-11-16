@@ -1,0 +1,74 @@
+{
+  "id": 1796637023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.40032,5.03175,6.40032,5.03175",
+    "geom:latitude":5.03175,
+    "geom:longitude":6.40032,
+    "gn:admin1_code":"50.0",
+    "gn:asciiname":"Igbogene",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101243,
+    "gn:latitude":5.03175,
+    "gn:longitude":6.40032,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Igbogene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.38032,5.01175,6.42032,5.05175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564539,
+        85675321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101243
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"fd335df3485f7c853a1aa357b2ddb9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564539,
+            "locality_id":-1,
+            "neighbourhood_id":1796637023,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1796637023,
+    "wof:lastmodified":1668627115,
+    "wof:name":"Igbogene",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343290387
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.40032,
+    5.03175,
+    6.40032,
+    5.03175
+],
+  "geometry": {"coordinates":[6.40032,5.03175],"type":"Point"}
+}

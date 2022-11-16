@@ -1,0 +1,78 @@
+{
+  "id": 1796636927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.44424,9.20414,12.44424,9.20414",
+    "geom:latitude":9.20414,
+    "geom:longitude":12.44424,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Yolde Pate",
+    "gn:country_code":"NG",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318027,
+    "gn:latitude":9.20414,
+    "gn:longitude":12.44424,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Yolde Pate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"12.42424,9.18414,12.46424,9.22414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yolde Pate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564541,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318027
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1106db5cbaff4c50e076ab4f7b3b49e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":-1,
+            "neighbourhood_id":1796636927,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796636927,
+    "wof:lastmodified":1668626979,
+    "wof:name":"Yolde Pate",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343505587
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.44424,
+    9.20414,
+    12.44424,
+    9.20414
+],
+  "geometry": {"coordinates":[12.44424,9.20414],"type":"Point"}
+}

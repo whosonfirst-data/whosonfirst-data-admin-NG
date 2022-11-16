@@ -1,0 +1,78 @@
+{
+  "id": 1796638591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.18448,6.66766,3.18448,6.66766",
+    "geom:latitude":6.66766,
+    "geom:longitude":3.18448,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Mopin",
+    "gn:country_code":"NG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826267,
+    "gn:latitude":6.66766,
+    "gn:longitude":3.18448,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mopin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.16448,6.64766,3.20448,6.68766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0ba9\u0bcd \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bbf\u0bb4\u0bbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108562921,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826267
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"889bdda7bbbcc13c2a02b042110ca282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562921,
+            "locality_id":-1,
+            "neighbourhood_id":1796638591,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796638591,
+    "wof:lastmodified":1668627060,
+    "wof:name":"Mopin",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260264931
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.18448,
+    6.66766,
+    3.18448,
+    6.66766
+],
+  "geometry": {"coordinates":[3.18448,6.66766],"type":"Point"}
+}

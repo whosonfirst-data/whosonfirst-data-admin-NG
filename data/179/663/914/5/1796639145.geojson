@@ -1,0 +1,75 @@
+{
+  "id": 1796639145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.87769,7.37274,3.87769,7.37274",
+    "geom:latitude":7.37274,
+    "geom:longitude":3.87769,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31010",
+    "gn:asciiname":"Oke Ado",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11496173,
+    "gn:latitude":7.37274,
+    "gn:longitude":3.87769,
+    "gn:modification_date":"2017-03-17",
+    "gn:name":"Oke Ado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.85769,7.35274,3.89769,7.39274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563495,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496173
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2c3fd91f1eb9ecfadb28bff4c73c9ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563495,
+            "locality_id":-1,
+            "neighbourhood_id":1796639145,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796639145,
+    "wof:lastmodified":1668627017,
+    "wof:name":"Oke Ado",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309854639
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.87769,
+    7.37274,
+    3.87769,
+    7.37274
+],
+  "geometry": {"coordinates":[3.87769,7.37274],"type":"Point"}
+}

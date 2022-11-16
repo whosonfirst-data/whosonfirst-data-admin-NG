@@ -1,0 +1,90 @@
+{
+  "id": 1796638001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.27083,6.7025,3.27083,6.7025",
+    "geom:latitude":6.7025,
+    "geom:longitude":3.27083,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Iroko",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566709,
+    "gn:latitude":6.7025,
+    "gn:longitude":3.27083,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.25083,6.6825,3.29083,6.7225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Iroko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0628 \u0627\u06cc\u0631\u0648\u06a9\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Iroko"
+    ],
+    "name:nld_x_preferred":[
+        "Iroko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u043e\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Iroko"
+    ],
+    "name:swe_x_preferred":[
+        "Iroko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566709
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"29ae9d0c4cfc8449eb6ae8da73821a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":-1,
+            "neighbourhood_id":1796638001
+        }
+    ],
+    "wof:id":1796638001,
+    "wof:lastmodified":1668627034,
+    "wof:name":"Iroko",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209487019
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.27083,
+    6.7025,
+    3.27083,
+    6.7025
+],
+  "geometry": {"coordinates":[3.27083,6.7025],"type":"Point"}
+}

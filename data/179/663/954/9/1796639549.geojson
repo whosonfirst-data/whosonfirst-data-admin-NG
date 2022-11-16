@@ -1,0 +1,75 @@
+{
+  "id": 1796639549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33333,7.23333,3.33333,7.23333",
+    "geom:latitude":7.23333,
+    "geom:longitude":3.33333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28001.0",
+    "gn:asciiname":"Mawuko",
+    "gn:country_code":"NG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330567,
+    "gn:latitude":7.23333,
+    "gn:longitude":3.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mawuko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.31333,7.21333,3.35333,7.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421187947,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330567
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5f6983866c9aa4e3312fa8456299419d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421187947,
+            "locality_id":-1,
+            "neighbourhood_id":1796639549,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796639549,
+    "wof:lastmodified":1668627105,
+    "wof:name":"Mawuko",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242838119
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33333,
+    7.23333,
+    3.33333,
+    7.23333
+],
+  "geometry": {"coordinates":[3.33333,7.23333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1796639073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.33892,9.07667,7.33892,9.07667",
+    "geom:latitude":9.07667,
+    "geom:longitude":7.33892,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Tungan Daudu",
+    "gn:country_code":"NG",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321385,
+    "gn:latitude":9.07667,
+    "gn:longitude":7.33892,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tungan Daudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.31892,9.05667,7.35892,9.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321385
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c8292b098e8ef5654a42ca4214b6ea73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":-1,
+            "neighbourhood_id":1796639073,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796639073,
+    "wof:lastmodified":1668627076,
+    "wof:name":"Tungan Daudu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360262487
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.33892,
+    9.07667,
+    7.33892,
+    9.07667
+],
+  "geometry": {"coordinates":[7.33892,9.07667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1796639735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23798,6.75884,3.23798,6.75884",
+    "geom:latitude":6.75884,
+    "geom:longitude":3.23798,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28007.0",
+    "gn:asciiname":"Agoro",
+    "gn:country_code":"NG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351781,
+    "gn:latitude":6.75884,
+    "gn:longitude":3.23798,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Agoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.21798,6.73884,3.25798,6.77884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563549,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351781
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c0be8b79a0904a4823f2e8e3f632ffbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563549,
+            "locality_id":-1,
+            "neighbourhood_id":1796639735,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796639735,
+    "wof:lastmodified":1668627051,
+    "wof:name":"Agoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259647399
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23798,
+    6.75884,
+    3.23798,
+    6.75884
+],
+  "geometry": {"coordinates":[3.23798,6.75884],"type":"Point"}
+}

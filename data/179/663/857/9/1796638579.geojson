@@ -1,0 +1,75 @@
+{
+  "id": 1796638579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52,9.01889,7.52,9.01889",
+    "geom:latitude":9.01889,
+    "geom:longitude":7.52,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Kusafe",
+    "gn:country_code":"NG",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590343,
+    "gn:latitude":9.01889,
+    "gn:longitude":7.52,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kusafe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.5,8.99889,7.54,9.03889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590343
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"aa0192905482878005cd0c6bf753455f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":-1,
+            "neighbourhood_id":1796638579,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796638579,
+    "wof:lastmodified":1668627004,
+    "wof:name":"Kusafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260161283
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52,
+    9.01889,
+    7.52,
+    9.01889
+],
+  "geometry": {"coordinates":[7.52,9.01889],"type":"Point"}
+}

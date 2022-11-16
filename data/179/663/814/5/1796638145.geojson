@@ -1,0 +1,74 @@
+{
+  "id": 1796638145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90336,9.86417,8.90336,9.86417",
+    "geom:latitude":9.86417,
+    "geom:longitude":8.90336,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32006.0",
+    "gn:asciiname":"Bar Jirg Summa",
+    "gn:country_code":"NG",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2347619,
+    "gn:latitude":9.86417,
+    "gn:longitude":8.90336,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bar Jirg Summa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.88336,9.84417,8.92336,9.88417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bar Jirgi Summa",
+        "Barikin Jirga Summa",
+        "Bar Jirg Summa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2347619
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9277fd4105b67013332506087c386728",
+    "wof:hierarchy":[
+        {
+            "country_id":85632735,
+            "locality_id":-1,
+            "neighbourhood_id":1796638145
+        }
+    ],
+    "wof:id":1796638145,
+    "wof:lastmodified":1668626991,
+    "wof:name":"Bar Jirg Summa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209034365
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90336,
+    9.86417,
+    8.90336,
+    9.86417
+],
+  "geometry": {"coordinates":[8.90336,9.86417],"type":"Point"}
+}

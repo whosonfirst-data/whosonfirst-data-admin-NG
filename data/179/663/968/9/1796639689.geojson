@@ -1,0 +1,75 @@
+{
+  "id": 1796639689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2675,6.68361,3.2675,6.68361",
+    "geom:latitude":6.68361,
+    "geom:longitude":3.2675,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25010.0",
+    "gn:asciiname":"Wasimi-Aiyetoro",
+    "gn:country_code":"NG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566706,
+    "gn:latitude":6.68361,
+    "gn:longitude":3.2675,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Wasimi-Aiyetoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.2475,6.66361,3.2875,6.70361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890438755,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566706
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"24f1aece967e474a3776e715457e4017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":890438755,
+            "locality_id":-1,
+            "neighbourhood_id":1796639689,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796639689,
+    "wof:lastmodified":1668627020,
+    "wof:name":"Wasimi-Aiyetoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259984193
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2675,
+    6.68361,
+    3.2675,
+    6.68361
+],
+  "geometry": {"coordinates":[3.2675,6.68361],"type":"Point"}
+}

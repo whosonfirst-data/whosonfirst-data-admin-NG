@@ -1,0 +1,81 @@
+{
+  "id": 1796638015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.39549,6.42991,3.39549,6.42991",
+    "geom:latitude":6.42991,
+    "geom:longitude":3.39549,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25008.0",
+    "gn:asciiname":"Ogogoro",
+    "gn:country_code":"NG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327654,
+    "gn:latitude":6.42991,
+    "gn:longitude":3.39549,
+    "gn:modification_date":"2018-01-24",
+    "gn:name":"Ogogoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.37549,6.40991,3.41549,6.44991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:fra_x_preferred":[
+        "Ogogoro"
+    ],
+    "name:lit_x_preferred":[
+        "Ogogoras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421200121,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327654
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"32132ab1a76b0017a76581caa1f5ef38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421200121,
+            "locality_id":-1,
+            "neighbourhood_id":1796638015,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796638015,
+    "wof:lastmodified":1668627046,
+    "wof:name":"Ogogoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209708733
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.39549,
+    6.42991,
+    3.39549,
+    6.42991
+],
+  "geometry": {"coordinates":[3.39549,6.42991],"type":"Point"}
+}

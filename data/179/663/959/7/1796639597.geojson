@@ -1,0 +1,96 @@
+{
+  "id": 1796639597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.78472,7.41278,3.78472,7.41278",
+    "geom:latitude":7.41278,
+    "geom:longitude":3.78472,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Boko",
+    "gn:country_code":"NG",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346886,
+    "gn:latitude":7.41278,
+    "gn:longitude":3.78472,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Boko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.76472,7.39278,3.80472,7.43278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Boko"
+    ],
+    "name:deu_x_preferred":[
+        "Boko"
+    ],
+    "name:epo_x_preferred":[
+        "Boko"
+    ],
+    "name:fra_x_preferred":[
+        "Boko"
+    ],
+    "name:ido_x_preferred":[
+        "Boko"
+    ],
+    "name:lin_x_preferred":[
+        "Boko"
+    ],
+    "name:swe_x_preferred":[
+        "Boko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563529,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346886
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"32975dcb1999934fadf4fbd242c44b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":-1,
+            "neighbourhood_id":1796639597,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796639597,
+    "wof:lastmodified":1668626999,
+    "wof:name":"Boko",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243113487
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.78472,
+    7.41278,
+    3.78472,
+    7.41278
+],
+  "geometry": {"coordinates":[3.78472,7.41278],"type":"Point"}
+}

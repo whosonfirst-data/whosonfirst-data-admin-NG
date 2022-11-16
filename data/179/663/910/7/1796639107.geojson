@@ -1,0 +1,75 @@
+{
+  "id": 1796639107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.4675,9.07056,7.4675,9.07056",
+    "geom:latitude":9.07056,
+    "geom:longitude":7.4675,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Wuse",
+    "gn:country_code":"NG",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2318558,
+    "gn:latitude":9.07056,
+    "gn:longitude":7.4675,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Wuse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.4475,9.05056,7.4875,9.09056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2318558
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6defb3ae85a3e9b4d149c7cb40909446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":-1,
+            "neighbourhood_id":1796639107,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796639107,
+    "wof:lastmodified":1668626969,
+    "wof:name":"Wuse",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309983449
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.4675,
+    9.07056,
+    7.4675,
+    9.07056
+],
+  "geometry": {"coordinates":[7.4675,9.07056],"type":"Point"}
+}

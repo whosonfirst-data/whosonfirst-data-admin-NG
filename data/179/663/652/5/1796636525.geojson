@@ -1,0 +1,79 @@
+{
+  "id": 1796636525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.259,7.2623,5.259,7.2623",
+    "geom:latitude":7.2623,
+    "geom:longitude":5.259,
+    "gn:admin1_code":"48.0",
+    "gn:admin2_code":"29005.0",
+    "gn:asciiname":"Oba-Ile",
+    "gn:country_code":"NG",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328366,
+    "gn:latitude":7.2623,
+    "gn:longitude":5.259,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oba-Ile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.239,7.2423,5.279,7.2823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Oba",
+        "Oba-Ile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108562983,
+        85675357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328366
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"57a0e36b42ca86548b80de9d12428230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562983,
+            "locality_id":-1,
+            "neighbourhood_id":1796636525,
+            "region_id":85675357
+        }
+    ],
+    "wof:id":1796636525,
+    "wof:lastmodified":1668627065,
+    "wof:name":"Oba-Ile",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327461349
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.259,
+    7.2623,
+    5.259,
+    7.2623
+],
+  "geometry": {"coordinates":[5.259,7.2623],"type":"Point"}
+}

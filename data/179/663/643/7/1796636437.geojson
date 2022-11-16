@@ -1,0 +1,75 @@
+{
+  "id": 1796636437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97806,7.40472,3.97806,7.40472",
+    "geom:latitude":7.40472,
+    "geom:longitude":3.97806,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31005.0",
+    "gn:asciiname":"Isebo",
+    "gn:country_code":"NG",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337208,
+    "gn:latitude":7.40472,
+    "gn:longitude":3.97806,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Isebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.95806,7.38472,3.99806,7.42472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563275,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337208
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d2c1bd4ba941926d354bd1472cbd05d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563275,
+            "locality_id":-1,
+            "neighbourhood_id":1796636437,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796636437,
+    "wof:lastmodified":1668626969,
+    "wof:name":"Isebo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326678735
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97806,
+    7.40472,
+    3.97806,
+    7.40472
+],
+  "geometry": {"coordinates":[3.97806,7.40472],"type":"Point"}
+}

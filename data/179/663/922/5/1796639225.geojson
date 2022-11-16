@@ -1,0 +1,86 @@
+{
+  "id": 1796639225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.18333,7.33333,4.18333,7.33333",
+    "geom:latitude":7.33333,
+    "geom:longitude":4.18333,
+    "iso:country":"NG",
+    "lbl:bbox":"4.16333,7.31333,4.20333,7.35333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":8.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2349558,
+    "qs:gn_pop":71656,
+    "qs:name":"Apomu",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Osun",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1035107,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1386052,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563683,
+        85675367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349558,
+        "gp:id":1386052,
+        "qs_pg:id":1035107
+    },
+    "wof:country":"NG",
+    "wof:created":1459008755,
+    "wof:geomhash":"ccb44a6360178824f24b86009691b46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563683,
+            "locality_id":-1,
+            "neighbourhood_id":1796639225,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1796639225,
+    "wof:lastmodified":1668626975,
+    "wof:name":"Apomu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":71656,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421168137
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.18333,
+    7.33333,
+    4.18333,
+    7.33333
+],
+  "geometry": {"coordinates":[4.18333,7.33333],"type":"Point"}
+}

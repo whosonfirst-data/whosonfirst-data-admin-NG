@@ -1,0 +1,75 @@
+{
+  "id": 1796639741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.96667,7.31222,3.96667,7.31222",
+    "geom:latitude":7.31222,
+    "geom:longitude":3.96667,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31026.0",
+    "gn:asciiname":"Ogundepo",
+    "gn:country_code":"NG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2592589,
+    "gn:latitude":7.31222,
+    "gn:longitude":3.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogundepo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.94667,7.29222,3.98667,7.33222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564183,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2592589
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0c727429fa8ef76740781e9dac71b804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564183,
+            "locality_id":-1,
+            "neighbourhood_id":1796639741,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796639741,
+    "wof:lastmodified":1668626959,
+    "wof:name":"Ogundepo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259643119
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.96667,
+    7.31222,
+    3.96667,
+    7.31222
+],
+  "geometry": {"coordinates":[3.96667,7.31222],"type":"Point"}
+}

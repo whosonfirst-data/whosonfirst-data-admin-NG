@@ -1,0 +1,75 @@
+{
+  "id": 1796636407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.56108,6.76421,3.56108,6.76421",
+    "geom:latitude":6.76421,
+    "geom:longitude":3.56108,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28020.0",
+    "gn:asciiname":"Gbodomo",
+    "gn:country_code":"NG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826362,
+    "gn:latitude":6.76421,
+    "gn:longitude":3.56108,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gbodomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.54108,6.74421,3.58108,6.78421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564341,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826362
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"955464d6f67a55edef9fb56dd31f10f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564341,
+            "locality_id":-1,
+            "neighbourhood_id":1796636407,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796636407,
+    "wof:lastmodified":1668627068,
+    "wof:name":"Gbodomo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326693901
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.56108,
+    6.76421,
+    3.56108,
+    6.76421
+],
+  "geometry": {"coordinates":[3.56108,6.76421],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1796639035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41482,6.83656,7.41482,6.83656",
+    "geom:latitude":6.83656,
+    "geom:longitude":7.41482,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14013",
+    "gn:asciiname":"Ihiagu",
+    "gn:country_code":"NG",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9189439,
+    "gn:latitude":6.83656,
+    "gn:longitude":7.41482,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ihiagu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.39482,6.81656,7.43482,6.85656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108564059,
+        85675395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9189439
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b5759505ed95741405f5e5ea9e5faf9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564059,
+            "locality_id":-1,
+            "neighbourhood_id":1796639035,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1796639035,
+    "wof:lastmodified":1668627117,
+    "wof:name":"Ihiagu",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360018581
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41482,
+    6.83656,
+    7.41482,
+    6.83656
+],
+  "geometry": {"coordinates":[7.41482,6.83656],"type":"Point"}
+}

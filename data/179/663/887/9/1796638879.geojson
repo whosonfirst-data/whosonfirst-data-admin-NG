@@ -1,0 +1,75 @@
+{
+  "id": 1796638879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.5891,7.70705,8.5891,7.70705",
+    "geom:latitude":7.70705,
+    "geom:longitude":8.5891,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013.0",
+    "gn:asciiname":"Ageva",
+    "gn:country_code":"NG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351913,
+    "gn:latitude":7.70705,
+    "gn:longitude":8.5891,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ageva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.5691,7.68705,8.6091,7.72705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563933,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351913
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2f808c1e36970d3bc3ae7b00ca47d1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":-1,
+            "neighbourhood_id":1796638879,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796638879,
+    "wof:lastmodified":1668626989,
+    "wof:name":"Ageva",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310352949
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.5891,
+    7.70705,
+    8.5891,
+    7.70705
+],
+  "geometry": {"coordinates":[8.5891,7.70705],"type":"Point"}
+}

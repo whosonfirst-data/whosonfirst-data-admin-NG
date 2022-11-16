@@ -1,0 +1,90 @@
+{
+  "id": 1796638359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.80028,7.44139,3.80028,7.44139",
+    "geom:latitude":7.44139,
+    "geom:longitude":3.80028,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Soso",
+    "gn:country_code":"NG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322857,
+    "gn:latitude":7.44139,
+    "gn:longitude":3.80028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Soso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.78028,7.42139,3.82028,7.46139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Soso"
+    ],
+    "name:fra_x_preferred":[
+        "Soso"
+    ],
+    "name:ita_x_preferred":[
+        "Soso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Soso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563529,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322857
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0691f23c131f57dac39b7cdb7b78cd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563529,
+            "locality_id":-1,
+            "neighbourhood_id":1796638359,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796638359,
+    "wof:lastmodified":1668627083,
+    "wof:name":"Soso",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193096715
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.80028,
+    7.44139,
+    3.80028,
+    7.44139
+],
+  "geometry": {"coordinates":[3.80028,7.44139],"type":"Point"}
+}

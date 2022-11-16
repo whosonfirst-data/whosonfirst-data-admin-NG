@@ -1,0 +1,75 @@
+{
+  "id": 1796638991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.3093,7.1026,6.3093,7.1026",
+    "geom:latitude":7.1026,
+    "geom:longitude":6.3093,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12009.0",
+    "gn:asciiname":"Alashio",
+    "gn:country_code":"NG",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6834167,
+    "gn:latitude":7.1026,
+    "gn:longitude":6.3093,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Alashio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.2893,7.0826,6.3293,7.1226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563347,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6834167
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a8ca9d563829f17b6fcd09b4d9d7997b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563347,
+            "locality_id":-1,
+            "neighbourhood_id":1796638991,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796638991,
+    "wof:lastmodified":1668627002,
+    "wof:name":"Alashio",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360136375
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.3093,
+    7.1026,
+    6.3093,
+    7.1026
+],
+  "geometry": {"coordinates":[6.3093,7.1026],"type":"Point"}
+}

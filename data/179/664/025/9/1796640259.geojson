@@ -1,0 +1,75 @@
+{
+  "id": 1796640259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.40584,6.65035,6.40584,6.65035",
+    "geom:latitude":6.65035,
+    "geom:longitude":6.40584,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12005",
+    "gn:asciiname":"Ukpaja",
+    "gn:country_code":"NG",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646635,
+    "gn:latitude":6.65035,
+    "gn:longitude":6.40584,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ukpaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.38584,6.63035,6.42584,6.67035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1108563319,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646635
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ac7589db3196c0d77e7c3379d42eadea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563319,
+            "locality_id":-1,
+            "neighbourhood_id":1796640259,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796640259,
+    "wof:lastmodified":1668627024,
+    "wof:name":"Ukpaja",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226485037
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.40584,
+    6.65035,
+    6.40584,
+    6.65035
+],
+  "geometry": {"coordinates":[6.40584,6.65035],"type":"Point"}
+}
