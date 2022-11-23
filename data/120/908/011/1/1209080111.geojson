@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675309,
+        1108564483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"5e5812cabdc38adfc63102e15a7f44c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209080111
+            "county_id":1108564483,
+            "locality_id":1209080111,
+            "region_id":85675309
         }
     ],
     "wof:id":1209080111,
-    "wof:lastmodified":1668627100,
+    "wof:lastmodified":1669184954,
     "wof:name":"Itiam Ikot Ebia",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108564483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

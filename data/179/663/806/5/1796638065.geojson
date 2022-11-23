@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        890440285,
+        1108564483,
+        85675309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"e1ec9add4adfc4e2f8dfe4684e4bfc86",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638065
+            "county_id":1108564483,
+            "locality_id":890440285,
+            "neighbourhood_id":1796638065,
+            "region_id":85675309
         }
     ],
     "wof:id":1796638065,
-    "wof:lastmodified":1668627044,
+    "wof:lastmodified":1669187279,
     "wof:name":"Ikot Obong",
-    "wof:parent_id":-1,
+    "wof:parent_id":890440285,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

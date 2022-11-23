@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        1141909213,
         1108564113,
         85675371
     ],
@@ -48,15 +49,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108564113,
-            "locality_id":-1,
+            "locality_id":1141909213,
             "neighbourhood_id":1796639883,
             "region_id":85675371
         }
     ],
     "wof:id":1796639883,
-    "wof:lastmodified":1668627039,
+    "wof:lastmodified":1669188001,
     "wof:name":"Orogun",
-    "wof:parent_id":-1,
+    "wof:parent_id":1141909213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

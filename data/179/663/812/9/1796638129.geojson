@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        1141909213,
+        1108564113,
+        85675371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"bce9dd0f5c92b37753d86d47728c3bbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638129
+            "county_id":1108564113,
+            "locality_id":1141909213,
+            "neighbourhood_id":1796638129,
+            "region_id":85675371
         }
     ],
     "wof:id":1796638129,
-    "wof:lastmodified":1668626967,
+    "wof:lastmodified":1669187305,
     "wof:name":"Onidundu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1141909213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

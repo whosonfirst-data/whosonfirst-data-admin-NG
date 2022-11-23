@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108564489,
+        890432227,
+        1108564373,
         85675433
     ],
     "wof:breaches":[],
@@ -52,16 +53,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108564489,
-            "locality_id":-1,
+            "county_id":1108564373,
+            "locality_id":890432227,
             "neighbourhood_id":1796637813,
             "region_id":85675433
         }
     ],
     "wof:id":1796637813,
-    "wof:lastmodified":1668627002,
+    "wof:lastmodified":1669187179,
     "wof:name":"Badon Baradi",
-    "wof:parent_id":-1,
+    "wof:parent_id":890432227,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

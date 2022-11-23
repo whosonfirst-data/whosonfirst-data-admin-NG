@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108562921,
+        421178817,
+        1108563549,
         85675353
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108562921,
-            "locality_id":-1,
+            "county_id":1108563549,
+            "locality_id":421178817,
             "neighbourhood_id":1796639169,
             "region_id":85675353
         }
     ],
     "wof:id":1796639169,
-    "wof:lastmodified":1668626976,
+    "wof:lastmodified":1669187715,
     "wof:name":"Igbogbo",
-    "wof:parent_id":-1,
+    "wof:parent_id":421178817,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

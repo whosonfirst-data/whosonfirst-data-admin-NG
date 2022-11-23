@@ -61,6 +61,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        421195913,
         421183191,
         85675335
     ],
@@ -75,15 +76,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":421183191,
-            "locality_id":-1,
+            "locality_id":421195913,
             "neighbourhood_id":1796639777,
             "region_id":85675335
         }
     ],
     "wof:id":1796639777,
-    "wof:lastmodified":1668627111,
+    "wof:lastmodified":1669187960,
     "wof:name":"Yali",
-    "wof:parent_id":-1,
+    "wof:parent_id":421195913,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

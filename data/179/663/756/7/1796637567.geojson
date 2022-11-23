@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        1276197559,
         421188931,
         85675353
     ],
@@ -48,15 +49,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":421188931,
-            "locality_id":-1,
+            "locality_id":1276197559,
             "neighbourhood_id":1796637567,
             "region_id":85675353
         }
     ],
     "wof:id":1796637567,
-    "wof:lastmodified":1668627081,
+    "wof:lastmodified":1669187082,
     "wof:name":"Abaren",
-    "wof:parent_id":-1,
+    "wof:parent_id":1276197559,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675315,
+        1108563965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"72297c914cb37fef5b4f039fb4e4c8be",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209666119
+            "county_id":1108563965,
+            "locality_id":1209666119,
+            "region_id":85675315
         }
     ],
     "wof:id":1209666119,
-    "wof:lastmodified":1668627010,
+    "wof:lastmodified":1669185041,
     "wof:name":"Ubomiri",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108563965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

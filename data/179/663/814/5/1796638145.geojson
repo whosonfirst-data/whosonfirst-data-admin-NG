@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        421189729,
+        1108563731,
+        85675411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"9277fd4105b67013332506087c386728",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638145
+            "county_id":1108563731,
+            "locality_id":421189729,
+            "neighbourhood_id":1796638145,
+            "region_id":85675411
         }
     ],
     "wof:id":1796638145,
-    "wof:lastmodified":1668626991,
+    "wof:lastmodified":1669187311,
     "wof:name":"Bar Jirg Summa",
-    "wof:parent_id":-1,
+    "wof:parent_id":421189729,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

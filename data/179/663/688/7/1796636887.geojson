@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563639,
+        890434619,
+        1108563635,
         85675339
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563639,
-            "locality_id":-1,
+            "county_id":1108563635,
+            "locality_id":890434619,
             "neighbourhood_id":1796636887,
             "region_id":85675339
         }
     ],
     "wof:id":1796636887,
-    "wof:lastmodified":1668626995,
+    "wof:lastmodified":1669186809,
     "wof:name":"Yemoja",
-    "wof:parent_id":-1,
+    "wof:parent_id":890434619,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

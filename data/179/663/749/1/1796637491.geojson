@@ -37,7 +37,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563733,
+        421189729,
+        1108563731,
         85675411
     ],
     "wof:breaches":[],
@@ -50,16 +51,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563733,
-            "locality_id":-1,
+            "county_id":1108563731,
+            "locality_id":421189729,
             "neighbourhood_id":1796637491,
             "region_id":85675411
         }
     ],
     "wof:id":1796637491,
-    "wof:lastmodified":1668627114,
+    "wof:lastmodified":1669187052,
     "wof:name":"Rayfield",
-    "wof:parent_id":-1,
+    "wof:parent_id":421189729,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

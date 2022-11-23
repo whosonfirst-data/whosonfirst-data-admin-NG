@@ -37,6 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        890437283,
         421178395,
         85675457
     ],
@@ -51,15 +52,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":421178395,
-            "locality_id":-1,
+            "locality_id":890437283,
             "neighbourhood_id":1796639063,
             "region_id":85675457
         }
     ],
     "wof:id":1796639063,
-    "wof:lastmodified":1668627076,
+    "wof:lastmodified":1669187674,
     "wof:name":"Jabi",
-    "wof:parent_id":-1,
+    "wof:parent_id":890437283,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

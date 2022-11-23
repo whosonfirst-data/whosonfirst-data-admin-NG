@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675353,
+        1108562921
+    ],
     "wof:breaches":[],
     "wof:country":"NG",
     "wof:geomhash":"c0eb80f58ac29effb510e5ac162c2617",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562921,
+            "locality_id":1796635847,
+            "region_id":85675353
+        }
+    ],
     "wof:id":1796635847,
-    "wof:lastmodified":1668555806,
+    "wof:lastmodified":1669184422,
     "wof:name":"Idain Isaga",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108562921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

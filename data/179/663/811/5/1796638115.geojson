@@ -37,7 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        1796635843,
+        1108562921,
+        85675353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"a535b093da827d62084d513a58a56fe7",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638115
+            "county_id":1108562921,
+            "locality_id":1796635843,
+            "neighbourhood_id":1796638115,
+            "region_id":85675353
         }
     ],
     "wof:id":1796638115,
-    "wof:lastmodified":1668627127,
+    "wof:lastmodified":1669187298,
     "wof:name":"Idain-Gbegodo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1796635843,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

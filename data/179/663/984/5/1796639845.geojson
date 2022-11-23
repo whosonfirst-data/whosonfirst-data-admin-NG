@@ -39,7 +39,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        421175165,
+        890437281,
+        1108562957,
         85675343
     ],
     "wof:breaches":[],
@@ -52,16 +53,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":421175165,
-            "locality_id":-1,
+            "county_id":1108562957,
+            "locality_id":890437281,
             "neighbourhood_id":1796639845,
             "region_id":85675343
         }
     ],
     "wof:id":1796639845,
-    "wof:lastmodified":1668627001,
+    "wof:lastmodified":1669187986,
     "wof:name":"Animshaun",
-    "wof:parent_id":-1,
+    "wof:parent_id":890437281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

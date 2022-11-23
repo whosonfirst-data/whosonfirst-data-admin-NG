@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        421189729,
+        1108563731,
+        85675411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"edf0384c5aebab292f531ad76ab4e863",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638183
+            "county_id":1108563731,
+            "locality_id":421189729,
+            "neighbourhood_id":1796638183,
+            "region_id":85675411
         }
     ],
     "wof:id":1796638183,
-    "wof:lastmodified":1668627028,
+    "wof:lastmodified":1669187326,
     "wof:name":"Barikin Maiadiko",
-    "wof:parent_id":-1,
+    "wof:parent_id":421189729,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

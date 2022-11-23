@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563843,
+        421195263,
+        1108562995,
         85675343
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563843,
-            "locality_id":-1,
+            "county_id":1108562995,
+            "locality_id":421195263,
             "neighbourhood_id":1796638861,
             "region_id":85675343
         }
     ],
     "wof:id":1796638861,
-    "wof:lastmodified":1668627105,
+    "wof:lastmodified":1669187593,
     "wof:name":"Isheri-Olofin",
-    "wof:parent_id":-1,
+    "wof:parent_id":421195263,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

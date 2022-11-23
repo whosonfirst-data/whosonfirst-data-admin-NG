@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675343,
+        421183285
+    ],
     "wof:breaches":[],
     "wof:country":"NG",
     "wof:geomhash":"f41efce6df2b45391c3306d4453428c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183285,
+            "locality_id":1796635851,
+            "region_id":85675343
+        }
+    ],
     "wof:id":1796635851,
-    "wof:lastmodified":1668555806,
+    "wof:lastmodified":1669184429,
     "wof:name":"Ajara Agamaden",
-    "wof:parent_id":-1,
+    "wof:parent_id":421183285,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

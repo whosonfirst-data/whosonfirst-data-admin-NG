@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        890432233,
         1108563997,
         85675451
     ],
@@ -48,15 +49,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563997,
-            "locality_id":-1,
+            "locality_id":890432233,
             "neighbourhood_id":1796638981,
             "region_id":85675451
         }
     ],
     "wof:id":1796638981,
-    "wof:lastmodified":1668627112,
+    "wof:lastmodified":1669187641,
     "wof:name":"Dazala",
-    "wof:parent_id":-1,
+    "wof:parent_id":890432233,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

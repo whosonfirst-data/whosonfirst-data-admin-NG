@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
     "wof:breaches":[],
     "wof:country":"NG",
     "wof:geomhash":"d484ce134993ffc777f98538ee1b6211",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796635801,
+            "region_id":85675343
+        }
+    ],
     "wof:id":1796635801,
-    "wof:lastmodified":1668555288,
+    "wof:lastmodified":1669184814,
     "wof:name":"Marina",
-    "wof:parent_id":-1,
+    "wof:parent_id":890437281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

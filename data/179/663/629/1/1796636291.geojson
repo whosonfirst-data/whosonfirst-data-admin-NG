@@ -35,7 +35,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        421197067,
+        1125880387,
+        421200123,
         85675405
     ],
     "wof:breaches":[],
@@ -48,16 +49,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":421197067,
-            "locality_id":-1,
+            "county_id":421200123,
+            "locality_id":1125880387,
             "neighbourhood_id":1796636291,
             "region_id":85675405
         }
     ],
     "wof:id":1796636291,
-    "wof:lastmodified":1668627124,
+    "wof:lastmodified":1669186573,
     "wof:name":"Kurmin Mashi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125880387,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

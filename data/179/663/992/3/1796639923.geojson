@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563181,
+        421189727,
+        421204119,
         85675331
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563181,
-            "locality_id":-1,
+            "county_id":421204119,
+            "locality_id":421189727,
             "neighbourhood_id":1796639923,
             "region_id":85675331
         }
     ],
     "wof:id":1796639923,
-    "wof:lastmodified":1668627008,
+    "wof:lastmodified":1669188017,
     "wof:name":"Obufa Esuk Orok",
-    "wof:parent_id":-1,
+    "wof:parent_id":421189727,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

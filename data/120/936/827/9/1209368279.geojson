@@ -35,7 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675451,
+        1108564543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +48,17 @@
     "wof:geomhash":"8b4effdd8e61e98eba766bd2fc92ea2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209368279
+            "county_id":1108564543,
+            "locality_id":1209368279,
+            "region_id":85675451
         }
     ],
     "wof:id":1209368279,
-    "wof:lastmodified":1668627131,
+    "wof:lastmodified":1669184993,
     "wof:name":"Demsawo",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108564543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

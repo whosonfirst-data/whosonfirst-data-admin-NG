@@ -33,6 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        890443111,
         1108563151,
         85675317
     ],
@@ -47,15 +48,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563151,
-            "locality_id":-1,
+            "locality_id":890443111,
             "neighbourhood_id":1796638873,
             "region_id":85675317
         }
     ],
     "wof:id":1796638873,
-    "wof:lastmodified":1668627056,
+    "wof:lastmodified":1669187598,
     "wof:name":"Eyamba Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":890443111,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

@@ -50,6 +50,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        421196753,
         1108563171,
         85675447
     ],
@@ -64,15 +65,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563171,
-            "locality_id":-1,
+            "locality_id":421196753,
             "neighbourhood_id":1796639457,
             "region_id":85675447
         }
     ],
     "wof:id":1796639457,
-    "wof:lastmodified":1668627085,
+    "wof:lastmodified":1669187829,
     "wof:name":"Bunza",
-    "wof:parent_id":-1,
+    "wof:parent_id":421196753,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

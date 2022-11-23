@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675371,
+        1108563881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"becd631c897394e85e7ad56bb134c8b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209374443
+            "county_id":1108563881,
+            "locality_id":1209374443,
+            "region_id":85675371
         }
     ],
     "wof:id":1209374443,
-    "wof:lastmodified":1668627088,
+    "wof:lastmodified":1669184996,
     "wof:name":"Egba",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108563881,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

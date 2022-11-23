@@ -60,7 +60,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675371,
+        1108563529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,14 +73,17 @@
     "wof:geomhash":"ea8aaadce2e5961536dbad52234040b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209173585
+            "county_id":1108563529,
+            "locality_id":1209173585,
+            "region_id":85675371
         }
     ],
     "wof:id":1209173585,
-    "wof:lastmodified":1668626990,
+    "wof:lastmodified":1669184967,
     "wof:name":"Lamini",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108563529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

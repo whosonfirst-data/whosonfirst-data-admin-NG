@@ -39,6 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        421189725,
         1108563609,
         85675391
     ],
@@ -53,15 +54,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563609,
-            "locality_id":-1,
+            "locality_id":421189725,
             "neighbourhood_id":1796637059,
             "region_id":85675391
         }
     ],
     "wof:id":1796637059,
-    "wof:lastmodified":1668627003,
+    "wof:lastmodified":1669186877,
     "wof:name":"Iguehan",
-    "wof:parent_id":-1,
+    "wof:parent_id":421189725,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

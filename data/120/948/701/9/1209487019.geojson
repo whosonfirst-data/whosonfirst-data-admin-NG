@@ -54,7 +54,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675353,
+        1108562921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +67,17 @@
     "wof:geomhash":"29ae9d0c4cfc8449eb6ae8da73821a2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209487019
+            "county_id":1108562921,
+            "locality_id":1209487019,
+            "region_id":85675353
         }
     ],
     "wof:id":1209487019,
-    "wof:lastmodified":1668627034,
+    "wof:lastmodified":1669185019,
     "wof:name":"Iroko",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108562921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        890437283,
+        421178395,
+        85675457
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"adcc17fcef01c3cae20e9b4658326be8",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638209
+            "county_id":421178395,
+            "locality_id":890437283,
+            "neighbourhood_id":1796638209,
+            "region_id":85675457
         }
     ],
     "wof:id":1796638209,
-    "wof:lastmodified":1668627137,
+    "wof:lastmodified":1669187336,
     "wof:name":"Dawliko",
-    "wof:parent_id":-1,
+    "wof:parent_id":890437283,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

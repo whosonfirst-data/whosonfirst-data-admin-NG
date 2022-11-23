@@ -41,6 +41,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        1125987989,
         1108563317,
         85675391
     ],
@@ -55,15 +56,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563317,
-            "locality_id":-1,
+            "locality_id":1125987989,
             "neighbourhood_id":1796638333,
             "region_id":85675391
         }
     ],
     "wof:id":1796638333,
-    "wof:lastmodified":1668626972,
+    "wof:lastmodified":1669187385,
     "wof:name":"Efandion",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125987989,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

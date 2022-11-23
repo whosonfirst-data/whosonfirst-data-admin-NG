@@ -97,6 +97,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        1309935401,
         1108563537,
         85675367
     ],
@@ -111,15 +112,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563537,
-            "locality_id":-1,
+            "locality_id":1309935401,
             "neighbourhood_id":1796636843,
             "region_id":85675367
         }
     ],
     "wof:id":1796636843,
-    "wof:lastmodified":1668627121,
+    "wof:lastmodified":1669186791,
     "wof:name":"Moro",
-    "wof:parent_id":-1,
+    "wof:parent_id":1309935401,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

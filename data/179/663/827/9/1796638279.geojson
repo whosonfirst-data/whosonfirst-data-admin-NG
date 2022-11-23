@@ -41,7 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        890435377,
+        1108562907,
+        85675353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,18 @@
     "wof:geomhash":"74f7238ebbadb3c1d305b1a7b6e22757",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638279
+            "county_id":1108562907,
+            "locality_id":890435377,
+            "neighbourhood_id":1796638279,
+            "region_id":85675353
         }
     ],
     "wof:id":1796638279,
-    "wof:lastmodified":1668626988,
+    "wof:lastmodified":1669187363,
     "wof:name":"Odo",
-    "wof:parent_id":-1,
+    "wof:parent_id":890435377,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675305,
+        1108562897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"33a17226086472eb3670825e351d8c7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209344075
+            "county_id":1108562897,
+            "locality_id":1209344075,
+            "region_id":85675305
         }
     ],
     "wof:id":1209344075,
-    "wof:lastmodified":1668626957,
+    "wof:lastmodified":1669184987,
     "wof:name":"Akoli",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108562897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

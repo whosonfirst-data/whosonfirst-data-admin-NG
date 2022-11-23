@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        421180033,
         1108563879,
         85675415
     ],
@@ -48,15 +49,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563879,
-            "locality_id":-1,
+            "locality_id":421180033,
             "neighbourhood_id":1796638751,
             "region_id":85675415
         }
     ],
     "wof:id":1796638751,
-    "wof:lastmodified":1668627015,
+    "wof:lastmodified":1669187550,
     "wof:name":"Bukar Saidi",
-    "wof:parent_id":-1,
+    "wof:parent_id":421180033,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

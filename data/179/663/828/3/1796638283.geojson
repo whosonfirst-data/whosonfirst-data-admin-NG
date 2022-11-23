@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        890435379,
+        1108562893,
+        85675305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"4a549ad946a0e41b6713db88224f0887",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638283
+            "county_id":1108562893,
+            "locality_id":890435379,
+            "neighbourhood_id":1796638283,
+            "region_id":85675305
         }
     ],
     "wof:id":1796638283,
-    "wof:lastmodified":1668627102,
+    "wof:lastmodified":1669187365,
     "wof:name":"Abayi Ohanze",
-    "wof:parent_id":-1,
+    "wof:parent_id":890435379,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

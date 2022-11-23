@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        421169331,
+        890432249,
+        1108563193,
         85675425
     ],
     "wof:breaches":[],
@@ -57,16 +58,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":421169331,
-            "locality_id":-1,
+            "county_id":1108563193,
+            "locality_id":890432249,
             "neighbourhood_id":1796639281,
             "region_id":85675425
         }
     ],
     "wof:id":1796639281,
-    "wof:lastmodified":1668627080,
+    "wof:lastmodified":1669187760,
     "wof:name":"Waje",
-    "wof:parent_id":-1,
+    "wof:parent_id":890432249,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

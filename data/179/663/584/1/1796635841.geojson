@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675407,
+        1108562917
+    ],
     "wof:breaches":[],
     "wof:country":"NG",
     "wof:geomhash":"34556d219aa43e0bde844ca3735c82fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562917,
+            "locality_id":1796635841,
+            "region_id":85675407
+        }
+    ],
     "wof:id":1796635841,
-    "wof:lastmodified":1668555806,
+    "wof:lastmodified":1669184419,
     "wof:name":"Otokiti",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108562917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

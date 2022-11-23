@@ -55,6 +55,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        421196755,
         1108563283,
         85675367
     ],
@@ -69,15 +70,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563283,
-            "locality_id":-1,
+            "locality_id":421196755,
             "neighbourhood_id":1796640177,
             "region_id":85675367
         }
     ],
     "wof:id":1796640177,
-    "wof:lastmodified":1668627034,
+    "wof:lastmodified":1669188118,
     "wof:name":"Ika",
-    "wof:parent_id":-1,
+    "wof:parent_id":421196755,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

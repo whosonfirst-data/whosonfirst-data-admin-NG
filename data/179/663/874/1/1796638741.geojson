@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108564241,
+        421189725,
+        1108563609,
         85675391
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108564241,
-            "locality_id":-1,
+            "county_id":1108563609,
+            "locality_id":421189725,
             "neighbourhood_id":1796638741,
             "region_id":85675391
         }
     ],
     "wof:id":1796638741,
-    "wof:lastmodified":1668627044,
+    "wof:lastmodified":1669187546,
     "wof:name":"Obagie",
-    "wof:parent_id":-1,
+    "wof:parent_id":421189725,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

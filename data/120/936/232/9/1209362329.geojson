@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675325,
+        1108563411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"649d6a8c458a7bd7a6ea1f9fd3483581",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209362329
+            "county_id":1108563411,
+            "locality_id":1209362329,
+            "region_id":85675325
         }
     ],
     "wof:id":1209362329,
-    "wof:lastmodified":1668626996,
+    "wof:lastmodified":1669184991,
     "wof:name":"Ansha",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108563411,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

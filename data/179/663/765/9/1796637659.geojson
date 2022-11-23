@@ -34,6 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        890436687,
         1108563333,
         85675387
     ],
@@ -48,15 +49,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563333,
-            "locality_id":-1,
+            "locality_id":890436687,
             "neighbourhood_id":1796637659,
             "region_id":85675387
         }
     ],
     "wof:id":1796637659,
-    "wof:lastmodified":1668626984,
+    "wof:lastmodified":1669187119,
     "wof:name":"Sovie",
-    "wof:parent_id":-1,
+    "wof:parent_id":890436687,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

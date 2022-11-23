@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        421195913,
+        421183191,
+        85675335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,18 @@
     "wof:geomhash":"8af0cb3e691dbae305b0f3810c3ef451",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638191
+            "county_id":421183191,
+            "locality_id":421195913,
+            "neighbourhood_id":1796638191,
+            "region_id":85675335
         }
     ],
     "wof:id":1796638191,
-    "wof:lastmodified":1668627113,
+    "wof:lastmodified":1669187329,
     "wof:name":"Yelwa",
-    "wof:parent_id":-1,
+    "wof:parent_id":421195913,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

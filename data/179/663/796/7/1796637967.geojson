@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        890445491,
+        1108563061,
+        85675375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"739922afc448dab8273c1aeda9c55ed0",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796637967
+            "county_id":1108563061,
+            "locality_id":890445491,
+            "neighbourhood_id":1796637967,
+            "region_id":85675375
         }
     ],
     "wof:id":1796637967,
-    "wof:lastmodified":1668627020,
+    "wof:lastmodified":1669187241,
     "wof:name":"Okpuno-Awka",
-    "wof:parent_id":-1,
+    "wof:parent_id":890445491,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

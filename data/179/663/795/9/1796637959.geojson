@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,18 @@
     "wof:geomhash":"dc1547959bc9379985ff175020b49b0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796637959
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796637959,
+            "region_id":85675371
         }
     ],
     "wof:id":1796637959,
-    "wof:lastmodified":1668627022,
+    "wof:lastmodified":1669187237,
     "wof:name":"Sinko",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125988111,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

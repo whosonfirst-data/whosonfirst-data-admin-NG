@@ -37,6 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        421195261,
         1108563603,
         85675343
     ],
@@ -51,15 +52,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563603,
-            "locality_id":-1,
+            "locality_id":421195261,
             "neighbourhood_id":1796639939,
             "region_id":85675343
         }
     ],
     "wof:id":1796639939,
-    "wof:lastmodified":1668626967,
+    "wof:lastmodified":1669188024,
     "wof:name":"Falana",
-    "wof:parent_id":-1,
+    "wof:parent_id":421195261,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

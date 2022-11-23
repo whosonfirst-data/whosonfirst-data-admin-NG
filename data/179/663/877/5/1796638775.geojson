@@ -37,7 +37,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108564267,
+        890444297,
+        1108564269,
         85675371
     ],
     "wof:breaches":[],
@@ -50,16 +51,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108564267,
-            "locality_id":-1,
+            "county_id":1108564269,
+            "locality_id":890444297,
             "neighbourhood_id":1796638775,
             "region_id":85675371
         }
     ],
     "wof:id":1796638775,
-    "wof:lastmodified":1668627076,
+    "wof:lastmodified":1669187560,
     "wof:name":"Awe",
-    "wof:parent_id":-1,
+    "wof:parent_id":890444297,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

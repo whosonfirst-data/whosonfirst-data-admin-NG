@@ -77,7 +77,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        1193045891,
+        1108562927,
+        85675399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,15 +91,18 @@
     "wof:geomhash":"1b7014a9d7317a71a8d4cb87dee1e36e",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638047
+            "county_id":1108562927,
+            "locality_id":1193045891,
+            "neighbourhood_id":1796638047,
+            "region_id":85675399
         }
     ],
     "wof:id":1796638047,
-    "wof:lastmodified":1668627032,
+    "wof:lastmodified":1669187272,
     "wof:name":"Ora",
-    "wof:parent_id":-1,
+    "wof:parent_id":1193045891,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

@@ -38,6 +38,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        421166915,
         1108563377,
         85675429
     ],
@@ -52,15 +53,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563377,
-            "locality_id":-1,
+            "locality_id":421166915,
             "neighbourhood_id":1796640355,
             "region_id":85675429
         }
     ],
     "wof:id":1796640355,
-    "wof:lastmodified":1668626974,
+    "wof:lastmodified":1669188188,
     "wof:name":"Dabo",
-    "wof:parent_id":-1,
+    "wof:parent_id":421166915,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

@@ -38,7 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        890435377,
+        1108562907,
+        85675353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,18 @@
     "wof:geomhash":"93a236c04669b6827565f624725de86a",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638269
+            "county_id":1108562907,
+            "locality_id":890435377,
+            "neighbourhood_id":1796638269,
+            "region_id":85675353
         }
     ],
     "wof:id":1796638269,
-    "wof:lastmodified":1668627133,
+    "wof:lastmodified":1669187360,
     "wof:name":"Awo",
-    "wof:parent_id":-1,
+    "wof:parent_id":890435377,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

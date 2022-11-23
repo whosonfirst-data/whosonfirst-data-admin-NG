@@ -37,7 +37,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563259,
+        1125913289,
+        421186507,
         85675349
     ],
     "wof:breaches":[],
@@ -50,16 +51,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563259,
-            "locality_id":-1,
+            "county_id":421186507,
+            "locality_id":1125913289,
             "neighbourhood_id":1796637811,
             "region_id":85675349
         }
     ],
     "wof:id":1796637811,
-    "wof:lastmodified":1668627053,
+    "wof:lastmodified":1669187178,
     "wof:name":"Saci",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125913289,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

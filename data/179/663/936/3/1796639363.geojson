@@ -76,7 +76,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        421187947,
+        890435377,
+        1108562907,
         85675353
     ],
     "wof:breaches":[],
@@ -89,16 +90,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":421187947,
-            "locality_id":-1,
+            "county_id":1108562907,
+            "locality_id":890435377,
             "neighbourhood_id":1796639363,
             "region_id":85675353
         }
     ],
     "wof:id":1796639363,
-    "wof:lastmodified":1668627120,
+    "wof:lastmodified":1669187792,
     "wof:name":"Sabo",
-    "wof:parent_id":-1,
+    "wof:parent_id":890435377,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

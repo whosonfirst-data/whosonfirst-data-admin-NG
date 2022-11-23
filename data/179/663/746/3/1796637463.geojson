@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563699,
+        890440285,
+        1108564483,
         85675309
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563699,
-            "locality_id":-1,
+            "county_id":1108564483,
+            "locality_id":890440285,
             "neighbourhood_id":1796637463,
             "region_id":85675309
         }
     ],
     "wof:id":1796637463,
-    "wof:lastmodified":1668626998,
+    "wof:lastmodified":1669187042,
     "wof:name":"Ikot Okure",
-    "wof:parent_id":-1,
+    "wof:parent_id":890440285,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

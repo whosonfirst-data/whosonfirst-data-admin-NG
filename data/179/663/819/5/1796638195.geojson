@@ -36,7 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        1193014443,
+        421171305,
+        85675343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"ff6c9c766a3060418c4c264051cfab06",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638195
+            "county_id":421171305,
+            "locality_id":1193014443,
+            "neighbourhood_id":1796638195,
+            "region_id":85675343
         }
     ],
     "wof:id":1796638195,
-    "wof:lastmodified":1668627043,
+    "wof:lastmodified":1669187330,
     "wof:name":"Igando",
-    "wof:parent_id":-1,
+    "wof:parent_id":1193014443,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

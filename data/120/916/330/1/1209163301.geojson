@@ -38,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675371,
+        1108563495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +51,17 @@
     "wof:geomhash":"f1b98e6435eaa746c81f332db075f9b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209163301
+            "county_id":1108563495,
+            "locality_id":1209163301,
+            "region_id":85675371
         }
     ],
     "wof:id":1209163301,
-    "wof:lastmodified":1668627073,
+    "wof:lastmodified":1669184963,
     "wof:name":"Podo",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108563495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

@@ -21,15 +21,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        85675357,
+        1108563619
+    ],
     "wof:breaches":[],
     "wof:country":"NG",
     "wof:geomhash":"6490e2f1a5b82216cc9bb7a16f69ff48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563619,
+            "locality_id":1796635839,
+            "region_id":85675357
+        }
+    ],
     "wof:id":1796635839,
-    "wof:lastmodified":1668555806,
+    "wof:lastmodified":1669184418,
     "wof:name":"Logos",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108563619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

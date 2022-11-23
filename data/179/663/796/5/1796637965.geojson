@@ -32,7 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        890444301,
+        1108564255,
+        85675315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"c3c9818cad5d0e3781c8073cf842309c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796637965
+            "county_id":1108564255,
+            "locality_id":890444301,
+            "neighbourhood_id":1796637965,
+            "region_id":85675315
         }
     ],
     "wof:id":1796637965,
-    "wof:lastmodified":1668627125,
+    "wof:lastmodified":1669187240,
     "wof:name":"Oboku-Avu",
-    "wof:parent_id":-1,
+    "wof:parent_id":890444301,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

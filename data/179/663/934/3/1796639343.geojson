@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108562937,
+        421195263,
+        1108562995,
         85675343
     ],
     "wof:breaches":[],
@@ -48,16 +49,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108562937,
-            "locality_id":-1,
+            "county_id":1108562995,
+            "locality_id":421195263,
             "neighbourhood_id":1796639343,
             "region_id":85675343
         }
     ],
     "wof:id":1796639343,
-    "wof:lastmodified":1668627072,
+    "wof:lastmodified":1669187784,
     "wof:name":"Akowonjo",
-    "wof:parent_id":-1,
+    "wof:parent_id":421195263,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

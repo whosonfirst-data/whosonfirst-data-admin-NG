@@ -35,7 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        1125987989,
+        1108563317,
+        85675391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"b851cc78d8ad9b462d6a223f2fc232c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":-1,
-            "neighbourhood_id":1796638031
+            "county_id":1108563317,
+            "locality_id":1125987989,
+            "neighbourhood_id":1796638031,
+            "region_id":85675391
         }
     ],
     "wof:id":1796638031,
-    "wof:lastmodified":1668627132,
+    "wof:lastmodified":1669187266,
     "wof:name":"Ekomodda",
-    "wof:parent_id":-1,
+    "wof:parent_id":1125987989,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

@@ -47,6 +47,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        890432227,
         1108564373,
         85675433
     ],
@@ -61,15 +62,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108564373,
-            "locality_id":-1,
+            "locality_id":890432227,
             "neighbourhood_id":1796639305,
             "region_id":85675433
         }
     ],
     "wof:id":1796639305,
-    "wof:lastmodified":1668626982,
+    "wof:lastmodified":1669187769,
     "wof:name":"Gwiwa",
-    "wof:parent_id":-1,
+    "wof:parent_id":890432227,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

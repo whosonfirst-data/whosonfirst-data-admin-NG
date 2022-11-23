@@ -83,6 +83,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        421166915,
         1108563377,
         85675429
     ],
@@ -97,15 +98,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563377,
-            "locality_id":-1,
+            "locality_id":421166915,
             "neighbourhood_id":1796639127,
             "region_id":85675429
         }
     ],
     "wof:id":1796639127,
-    "wof:lastmodified":1668627051,
+    "wof:lastmodified":1669187698,
     "wof:name":"Barka",
-    "wof:parent_id":-1,
+    "wof:parent_id":421166915,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

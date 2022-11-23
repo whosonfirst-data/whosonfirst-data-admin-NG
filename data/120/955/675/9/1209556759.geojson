@@ -45,7 +45,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675371,
+        1108562963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +58,17 @@
     "wof:geomhash":"5a750f3069e3acc49f7bc96f1b1fa133",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209556759
+            "county_id":1108562963,
+            "locality_id":1209556759,
+            "region_id":85675371
         }
     ],
     "wof:id":1209556759,
-    "wof:lastmodified":1668626997,
+    "wof:lastmodified":1669185023,
     "wof:name":"Irepodun",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108562963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

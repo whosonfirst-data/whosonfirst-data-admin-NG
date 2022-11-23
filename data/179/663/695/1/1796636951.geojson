@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108562897,
+        890435379,
+        1108562893,
         85675305
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108562897,
-            "locality_id":-1,
+            "county_id":1108562893,
+            "locality_id":890435379,
             "neighbourhood_id":1796636951,
             "region_id":85675305
         }
     ],
     "wof:id":1796636951,
-    "wof:lastmodified":1668626995,
+    "wof:lastmodified":1669186834,
     "wof:name":"Asia Nnentu",
-    "wof:parent_id":-1,
+    "wof:parent_id":890435379,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

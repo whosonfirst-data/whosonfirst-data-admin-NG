@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563627,
+        890416417,
+        1108563629,
         85675367
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563627,
-            "locality_id":-1,
+            "county_id":1108563629,
+            "locality_id":890416417,
             "neighbourhood_id":1796638235,
             "region_id":85675367
         }
     ],
     "wof:id":1796638235,
-    "wof:lastmodified":1668627019,
+    "wof:lastmodified":1669187346,
     "wof:name":"Ilerin",
-    "wof:parent_id":-1,
+    "wof:parent_id":890416417,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

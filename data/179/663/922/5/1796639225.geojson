@@ -40,7 +40,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563683,
+        421181293,
+        1108563661,
         85675367
     ],
     "wof:breaches":[],
@@ -56,16 +57,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563683,
-            "locality_id":-1,
+            "county_id":1108563661,
+            "locality_id":421181293,
             "neighbourhood_id":1796639225,
             "region_id":85675367
         }
     ],
     "wof:id":1796639225,
-    "wof:lastmodified":1668626975,
+    "wof:lastmodified":1669187738,
     "wof:name":"Apomu",
-    "wof:parent_id":-1,
+    "wof:parent_id":421181293,
     "wof:placetype":"neighbourhood",
     "wof:population":71656,
     "wof:population_rank":8,

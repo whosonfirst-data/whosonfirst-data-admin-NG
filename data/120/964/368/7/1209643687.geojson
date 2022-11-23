@@ -45,7 +45,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675367,
+        1108563155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +61,17 @@
     "wof:geomhash":"a97a5f996842a9bab3201fa225de9f38",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209643687
+            "county_id":1108563155,
+            "locality_id":1209643687,
+            "region_id":85675367
         }
     ],
     "wof:id":1209643687,
-    "wof:lastmodified":1668556268,
+    "wof:lastmodified":1669184555,
     "wof:name":"Ire",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108563155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

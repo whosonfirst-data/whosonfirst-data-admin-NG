@@ -37,7 +37,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108564233,
+        890444357,
+        1108564231,
         85675387
     ],
     "wof:breaches":[],
@@ -50,16 +51,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108564233,
-            "locality_id":-1,
+            "county_id":1108564231,
+            "locality_id":890444357,
             "neighbourhood_id":1796640261,
             "region_id":85675387
         }
     ],
     "wof:id":1796640261,
-    "wof:lastmodified":1668627095,
+    "wof:lastmodified":1669188151,
     "wof:name":"Iyiba",
-    "wof:parent_id":-1,
+    "wof:parent_id":890444357,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

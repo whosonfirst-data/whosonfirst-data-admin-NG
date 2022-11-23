@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108564253,
+        890444301,
+        1108564255,
         85675315
     ],
     "wof:breaches":[],
@@ -48,16 +49,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108564253,
-            "locality_id":-1,
+            "county_id":1108564255,
+            "locality_id":890444301,
             "neighbourhood_id":1796640335,
             "region_id":85675315
         }
     ],
     "wof:id":1796640335,
-    "wof:lastmodified":1668627057,
+    "wof:lastmodified":1669188180,
     "wof:name":"Nekede",
-    "wof:parent_id":-1,
+    "wof:parent_id":890444301,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

@@ -33,6 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
+        890432251,
         1108563647,
         85675353
     ],
@@ -47,15 +48,15 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108563647,
-            "locality_id":-1,
+            "locality_id":890432251,
             "neighbourhood_id":1796636389,
             "region_id":85675353
         }
     ],
     "wof:id":1796636389,
-    "wof:lastmodified":1668627021,
+    "wof:lastmodified":1669186611,
     "wof:name":"Asunora",
-    "wof:parent_id":-1,
+    "wof:parent_id":890432251,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

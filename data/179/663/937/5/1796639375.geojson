@@ -34,7 +34,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        421189639,
+        890437281,
+        1108562957,
         85675343
     ],
     "wof:breaches":[],
@@ -47,16 +48,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":421189639,
-            "locality_id":-1,
+            "county_id":1108562957,
+            "locality_id":890437281,
             "neighbourhood_id":1796639375,
             "region_id":85675343
         }
     ],
     "wof:id":1796639375,
-    "wof:lastmodified":1668627020,
+    "wof:lastmodified":1669187797,
     "wof:name":"Ikate",
-    "wof:parent_id":-1,
+    "wof:parent_id":890437281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

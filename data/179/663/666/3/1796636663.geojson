@@ -37,7 +37,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563583,
+        1226703065,
+        1108563585,
         85675387
     ],
     "wof:breaches":[],
@@ -50,16 +51,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563583,
-            "locality_id":-1,
+            "county_id":1108563585,
+            "locality_id":1226703065,
             "neighbourhood_id":1796636663,
             "region_id":85675387
         }
     ],
     "wof:id":1796636663,
-    "wof:lastmodified":1668627028,
+    "wof:lastmodified":1669186720,
     "wof:name":"Owa-Aliosimi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1226703065,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

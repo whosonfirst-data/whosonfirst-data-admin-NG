@@ -43,7 +43,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675371,
+        1108563703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"51fe5862690f141edcd60125793bb979",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209456401
+            "county_id":1108563703,
+            "locality_id":1209456401,
+            "region_id":85675371
         }
     ],
     "wof:id":1209456401,
-    "wof:lastmodified":1668556269,
+    "wof:lastmodified":1669184554,
     "wof:name":"Iwere-Ile",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108563703,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

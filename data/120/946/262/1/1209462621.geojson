@@ -33,7 +33,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675325,
+        1108563411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,14 +46,17 @@
     "wof:geomhash":"7d14dd8b823bfa9480a5519cf6bbe0fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209462621
+            "county_id":1108563411,
+            "locality_id":1209462621,
+            "region_id":85675325
         }
     ],
     "wof:id":1209462621,
-    "wof:lastmodified":1668626977,
+    "wof:lastmodified":1669185011,
     "wof:name":"Shemo",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108563411,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[

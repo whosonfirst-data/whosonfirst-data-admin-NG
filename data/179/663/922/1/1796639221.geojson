@@ -35,7 +35,8 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1108563097,
+        890444309,
+        1108563793,
         85675429
     ],
     "wof:breaches":[],
@@ -48,16 +49,16 @@
         {
             "continent_id":102191573,
             "country_id":85632735,
-            "county_id":1108563097,
-            "locality_id":-1,
+            "county_id":1108563793,
+            "locality_id":890444309,
             "neighbourhood_id":1796639221,
             "region_id":85675429
         }
     ],
     "wof:id":1796639221,
-    "wof:lastmodified":1668626985,
+    "wof:lastmodified":1669187736,
     "wof:name":"Mukaurali",
-    "wof:parent_id":-1,
+    "wof:parent_id":890444309,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],

@@ -21,15 +21,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
     "wof:breaches":[],
     "wof:country":"NG",
     "wof:geomhash":"1bee31d527bd3ab64c9e466c80698354",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796635821,
+            "region_id":85675343
+        }
+    ],
     "wof:id":1796635821,
-    "wof:lastmodified":1668555289,
+    "wof:lastmodified":1669184815,
     "wof:name":"Okun-Ibese",
-    "wof:parent_id":-1,
+    "wof:parent_id":890437281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
