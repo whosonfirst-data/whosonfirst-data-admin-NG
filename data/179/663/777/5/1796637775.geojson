@@ -1,0 +1,80 @@
+{
+  "id": 1796637775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.51214,7.80634,5.51214,7.80634",
+    "geom:latitude":7.80634,
+    "geom:longitude":5.51214,
+    "gn:admin1_code":"54.0",
+    "gn:admin2_code":"13011.0",
+    "gn:asciiname":"Odo Oro",
+    "gn:country_code":"NG",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327960,
+    "gn:latitude":7.80634,
+    "gn:longitude":5.51214,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Odo Oro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.49214,7.78634,5.53214,7.82634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Odo Ara",
+        "Odo Oro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1293230105,
+        1108563595,
+        85675361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327960
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0fe464e15fff59c8b8a4a555b99f3642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563595,
+            "locality_id":1293230105,
+            "neighbourhood_id":1796637775,
+            "region_id":85675361
+        }
+    ],
+    "wof:id":1796637775,
+    "wof:lastmodified":1669187164,
+    "wof:name":"Odo Oro",
+    "wof:parent_id":1293230105,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276471015
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.51214,
+    7.80634,
+    5.51214,
+    7.80634
+],
+  "geometry": {"coordinates":[5.51214,7.80634],"type":"Point"}
+}

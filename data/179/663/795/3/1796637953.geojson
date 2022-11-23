@@ -1,0 +1,76 @@
+{
+  "id": 1796637953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.97269,4.98638,7.97269,4.98638",
+    "geom:latitude":4.98638,
+    "geom:longitude":7.97269,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3031.0",
+    "gn:asciiname":"Mbiabong Etoi",
+    "gn:country_code":"NG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330356,
+    "gn:latitude":4.98638,
+    "gn:longitude":7.97269,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbiabong Etoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.95269,4.96638,7.99269,5.00638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440285,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330356
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b9dc89d0aa8f1fff3a5b6e78dc145c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":890440285,
+            "neighbourhood_id":1796637953,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796637953,
+    "wof:lastmodified":1669187234,
+    "wof:name":"Mbiabong Etoi",
+    "wof:parent_id":890440285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209065021
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.97269,
+    4.98638,
+    7.97269,
+    4.98638
+],
+  "geometry": {"coordinates":[7.97269,4.98638],"type":"Point"}
+}

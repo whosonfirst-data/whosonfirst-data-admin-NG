@@ -1,0 +1,80 @@
+{
+  "id": 1796637737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41528,6.44694,3.41528,6.44694",
+    "geom:latitude":6.44694,
+    "geom:longitude":3.41528,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25008.0",
+    "gn:asciiname":"Obalende",
+    "gn:country_code":"NG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566633,
+    "gn:latitude":6.44694,
+    "gn:longitude":3.41528,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obalende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.39528,6.42694,3.43528,6.46694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:por_x_preferred":[
+        "Obalende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566633,
+        "wk:page":"Obalende"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"42b9e015a578609edd3ae87eccc5845d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796637737,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796637737,
+    "wof:lastmodified":1669187149,
+    "wof:name":"Obalende",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276767239
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41528,
+    6.44694,
+    3.41528,
+    6.44694
+],
+  "geometry": {"coordinates":[3.41528,6.44694],"type":"Point"}
+}

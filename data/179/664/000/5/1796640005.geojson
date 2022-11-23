@@ -1,0 +1,75 @@
+{
+  "id": 1796640005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56806,8.9025,7.56806,8.9025",
+    "geom:latitude":8.9025,
+    "geom:longitude":7.56806,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Ashata",
+    "gn:country_code":"NG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591012,
+    "gn:latitude":8.9025,
+    "gn:longitude":7.56806,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Ashata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.54806,8.8825,7.58806,8.9225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437283,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591012
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"23a46d1cf4777680433117b79beb8175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":890437283,
+            "neighbourhood_id":1796640005,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796640005,
+    "wof:lastmodified":1669188049,
+    "wof:name":"Ashata",
+    "wof:parent_id":890437283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226271001
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56806,
+    8.9025,
+    7.56806,
+    8.9025
+],
+  "geometry": {"coordinates":[7.56806,8.9025],"type":"Point"}
+}

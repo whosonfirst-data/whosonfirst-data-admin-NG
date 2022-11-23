@@ -1,0 +1,76 @@
+{
+  "id": 1796640113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.33778,4.94667,6.33778,4.94667",
+    "geom:latitude":4.94667,
+    "geom:longitude":6.33778,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6008.0",
+    "gn:asciiname":"Opolo",
+    "gn:country_code":"NG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593271,
+    "gn:latitude":4.94667,
+    "gn:longitude":6.33778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Opolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.31778,4.92667,6.35778,4.96667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890429561,
+        1108564539,
+        85675321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593271
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bcece8e34355920146ae2273c5cab20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564539,
+            "locality_id":890429561,
+            "neighbourhood_id":1796640113,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1796640113,
+    "wof:lastmodified":1669188092,
+    "wof:name":"Opolo",
+    "wof:parent_id":890429561,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226574263
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.33778,
+    4.94667,
+    6.33778,
+    4.94667
+],
+  "geometry": {"coordinates":[6.33778,4.94667],"type":"Point"}
+}

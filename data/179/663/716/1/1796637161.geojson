@@ -1,0 +1,76 @@
+{
+  "id": 1796637161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.24726,6.61309,6.24726,6.61309",
+    "geom:latitude":6.61309,
+    "geom:longitude":6.24726,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12010",
+    "gn:asciiname":"Eguare",
+    "gn:country_code":"NG",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646003,
+    "gn:latitude":6.61309,
+    "gn:longitude":6.24726,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eguare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.22726,6.59309,6.26726,6.63309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1293532325,
+        1108563563,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646003
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c15e05efca980f372baeb07c4c4c5e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563563,
+            "locality_id":1293532325,
+            "neighbourhood_id":1796637161,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796637161,
+    "wof:lastmodified":1669186917,
+    "wof:name":"Eguare",
+    "wof:parent_id":1293532325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293532327
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.24726,
+    6.61309,
+    6.24726,
+    6.61309
+],
+  "geometry": {"coordinates":[6.24726,6.61309],"type":"Point"}
+}

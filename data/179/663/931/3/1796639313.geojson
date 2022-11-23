@@ -1,0 +1,77 @@
+{
+  "id": 1796639313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.19931,13.07056,5.19931,13.07056",
+    "geom:latitude":13.07056,
+    "geom:longitude":5.19931,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"616.0",
+    "gn:admin3_code":"61602",
+    "gn:asciiname":"Rumgee",
+    "gn:country_code":"NG",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7017638,
+    "gn:latitude":13.07056,
+    "gn:longitude":5.19931,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rumgee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.17931,13.05056,5.21931,13.09056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890432227,
+        1108564373,
+        85675433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7017638
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5cd4ddd0764d0e576fb6e34901b7a564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564373,
+            "locality_id":890432227,
+            "neighbourhood_id":1796639313,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1796639313,
+    "wof:lastmodified":1669187773,
+    "wof:name":"Rumgee",
+    "wof:parent_id":890432227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242806231
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.19931,
+    13.07056,
+    5.19931,
+    13.07056
+],
+  "geometry": {"coordinates":[5.19931,13.07056],"type":"Point"}
+}

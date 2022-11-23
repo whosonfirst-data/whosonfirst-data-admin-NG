@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-11-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,14 +28,17 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rumnde Doma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675451,
+        1108564543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,22 @@
     "wof:geomhash":"ba5cbf7feb12f1e8a1c6e06d928d034f",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209167709
+            "county_id":1108564543,
+            "locality_id":1209167709,
+            "region_id":85675451
         }
     ],
     "wof:id":1209167709,
-    "wof:lastmodified":1566652752,
+    "wof:lastmodified":1669184964,
     "wof:name":"Rumnde Doma",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108564543,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796638205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

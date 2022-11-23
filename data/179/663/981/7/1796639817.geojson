@@ -1,0 +1,85 @@
+{
+  "id": 1796639817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.33777,5.13979,7.33777,5.13979",
+    "geom:latitude":5.13979,
+    "geom:longitude":7.33777,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Abayi",
+    "gn:country_code":"NG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2353001,
+    "gn:latitude":5.13979,
+    "gn:longitude":7.33777,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.31777,5.11979,7.35777,5.15979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:aze_x_preferred":[
+        "Abay\u0131"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0642\u0635 \u0622\u0628\u0627\u06cc\u06cc"
+    ],
+    "name:tur_x_preferred":[
+        "Abay\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890435379,
+        1108562893,
+        85675305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2353001
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2930b47022a019b97f9b63869d5c1904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562893,
+            "locality_id":890435379,
+            "neighbourhood_id":1796639817,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1796639817,
+    "wof:lastmodified":1669187976,
+    "wof:name":"Abayi",
+    "wof:parent_id":890435379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259611861
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.33777,
+    5.13979,
+    7.33777,
+    5.13979
+],
+  "geometry": {"coordinates":[7.33777,5.13979],"type":"Point"}
+}

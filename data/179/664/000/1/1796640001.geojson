@@ -1,0 +1,75 @@
+{
+  "id": 1796640001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.52667,8.74028,7.52667,8.74028",
+    "geom:latitude":8.74028,
+    "geom:longitude":7.52667,
+    "gn:admin1_code":"56.0",
+    "gn:asciiname":"Tunga Jankua",
+    "gn:country_code":"NG",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321455,
+    "gn:latitude":8.74028,
+    "gn:longitude":7.52667,
+    "gn:modification_date":"2009-06-17",
+    "gn:name":"Tunga Jankua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.50667,8.72028,7.54667,8.76028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437283,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321455
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0eda83cab2895d97aa7c9f29442994de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":890437283,
+            "neighbourhood_id":1796640001,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796640001,
+    "wof:lastmodified":1669188049,
+    "wof:name":"Tunga Jankua",
+    "wof:parent_id":890437283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226272215
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.52667,
+    8.74028,
+    7.52667,
+    8.74028
+],
+  "geometry": {"coordinates":[7.52667,8.74028],"type":"Point"}
+}

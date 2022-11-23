@@ -1,0 +1,85 @@
+{
+  "id": 1796636617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.61667,8.41667,4.61667,8.41667",
+    "geom:latitude":8.41667,
+    "geom:longitude":4.61667,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24007.0",
+    "gn:asciiname":"Gamo",
+    "gn:country_code":"NG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2342165,
+    "gn:latitude":8.41667,
+    "gn:longitude":4.61667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"4.59667,8.39667,4.63667,8.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Gamo"
+    ],
+    "name:fra_x_preferred":[
+        "Gamo"
+    ],
+    "name:por_x_preferred":[
+        "Gamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890434619,
+        1108563635,
+        85675339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2342165
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"14a998fa77efd3cd574aa6989bb2913f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563635,
+            "locality_id":890434619,
+            "neighbourhood_id":1796636617,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1796636617,
+    "wof:lastmodified":1669186702,
+    "wof:name":"Gamo",
+    "wof:parent_id":890434619,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326975787
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.61667,
+    8.41667,
+    4.61667,
+    8.41667
+],
+  "geometry": {"coordinates":[4.61667,8.41667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1796639495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.98982,5.51915,6.98982,5.51915",
+    "geom:latitude":5.51915,
+    "geom:longitude":6.98982,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"17026.0",
+    "gn:asciiname":"Irete",
+    "gn:country_code":"NG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337314,
+    "gn:latitude":5.51915,
+    "gn:longitude":6.98982,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Irete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.96982,5.49915,7.00982,5.53915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890444301,
+        1108564255,
+        85675315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337314,
+        "wk:page":"Irete"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"73776171d76dab8917802fb65d9abb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564255,
+            "locality_id":890444301,
+            "neighbourhood_id":1796639495,
+            "region_id":85675315
+        }
+    ],
+    "wof:id":1796639495,
+    "wof:lastmodified":1669187845,
+    "wof:name":"Irete",
+    "wof:parent_id":890444301,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243515759
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.98982,
+    5.51915,
+    6.98982,
+    5.51915
+],
+  "geometry": {"coordinates":[6.98982,5.51915],"type":"Point"}
+}

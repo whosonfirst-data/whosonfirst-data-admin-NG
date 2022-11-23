@@ -1,0 +1,76 @@
+{
+  "id": 1796636809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.93222,7.57889,3.93222,7.57889",
+    "geom:latitude":7.57889,
+    "geom:longitude":3.93222,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Tonode",
+    "gn:country_code":"NG",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321971,
+    "gn:latitude":7.57889,
+    "gn:longitude":3.93222,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tonode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.91222,7.55889,3.95222,7.59889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321971
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9527efbb30b0dcb2b8dba7bafc108dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796636809,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796636809,
+    "wof:lastmodified":1669186777,
+    "wof:name":"Tonode",
+    "wof:parent_id":1125988111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344017713
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.93222,
+    7.57889,
+    3.93222,
+    7.57889
+],
+  "geometry": {"coordinates":[3.93222,7.57889],"type":"Point"}
+}

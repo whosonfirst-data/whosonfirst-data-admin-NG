@@ -1,0 +1,83 @@
+{
+  "id": 1796638767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.28389,6.41472,3.28389,6.41472",
+    "geom:latitude":6.41472,
+    "geom:longitude":3.28389,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25004.0",
+    "gn:asciiname":"Ilasa",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337756,
+    "gn:latitude":6.41472,
+    "gn:longitude":3.28389,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ilasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.26389,6.39472,3.30389,6.43472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Elachi",
+        "Lashe",
+        "Ilashe",
+        "Ilasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337756
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0612f8479196717573e4876d23f8b3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796638767,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796638767,
+    "wof:lastmodified":1669187556,
+    "wof:name":"Ilasa",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310098571
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28389,
+    6.41472,
+    3.28389,
+    6.41472
+],
+  "geometry": {"coordinates":[3.28389,6.41472],"type":"Point"}
+}

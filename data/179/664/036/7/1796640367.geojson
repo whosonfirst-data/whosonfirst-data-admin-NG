@@ -1,0 +1,76 @@
+{
+  "id": 1796640367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76667,6.4,5.76667,6.4",
+    "geom:latitude":6.4,
+    "geom:longitude":5.76667,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12018.0",
+    "gn:asciiname":"Idumwunha",
+    "gn:country_code":"NG",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338925,
+    "gn:latitude":6.4,
+    "gn:longitude":5.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idumwunha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.74667,6.38,5.78667,6.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189725,
+        1108563609,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338925
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"603518e3d7600ca414f42a5b911a3a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563609,
+            "locality_id":421189725,
+            "neighbourhood_id":1796640367,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796640367,
+    "wof:lastmodified":1669188193,
+    "wof:name":"Idumwunha",
+    "wof:parent_id":421189725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226093723
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76667,
+    6.4,
+    5.76667,
+    6.4
+],
+  "geometry": {"coordinates":[5.76667,6.4],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1796637895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.99214,4.79883,6.99214,4.79883",
+    "geom:latitude":4.79883,
+    "geom:longitude":6.99214,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33022.0",
+    "gn:asciiname":"Diobu",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344782,
+    "gn:latitude":4.79883,
+    "gn:longitude":6.99214,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Diobu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.97214,4.77883,7.01214,4.81883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Dobu",
+        "Diobu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421180027,
+        1108564283,
+        85675317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344782
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8ee20f5399a479fe56837e81e179bb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564283,
+            "locality_id":421180027,
+            "neighbourhood_id":1796637895,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1796637895,
+    "wof:lastmodified":1669187212,
+    "wof:name":"Diobu",
+    "wof:parent_id":421180027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276364609
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.99214,
+    4.79883,
+    6.99214,
+    4.79883
+],
+  "geometry": {"coordinates":[6.99214,4.79883],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796638475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25788,10.29498,13.25788,10.29498",
+    "geom:latitude":10.29498,
+    "geom:longitude":13.25788,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Yaza",
+    "gn:country_code":"NG",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6760442,
+    "gn:latitude":10.29498,
+    "gn:longitude":13.25788,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"13.23788,10.27498,13.27788,10.31498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890432233,
+        1108563997,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6760442
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e6b0ef4a5cffbdd9b07db70264b8fe69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":890432233,
+            "neighbourhood_id":1796638475,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796638475,
+    "wof:lastmodified":1669187441,
+    "wof:name":"Yaza",
+    "wof:parent_id":890432233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193195931
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25788,
+    10.29498,
+    13.25788,
+    10.29498
+],
+  "geometry": {"coordinates":[13.25788,10.29498],"type":"Point"}
+}

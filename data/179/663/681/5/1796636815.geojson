@@ -1,0 +1,76 @@
+{
+  "id": 1796636815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.35056,8.90691,11.35056,8.90691",
+    "geom:latitude":8.90691,
+    "geom:longitude":11.35056,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007",
+    "gn:asciiname":"Ungwa Koto",
+    "gn:country_code":"NG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871343,
+    "gn:latitude":8.90691,
+    "gn:longitude":11.35056,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ungwa Koto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"11.33056,8.88691,11.37056,8.92691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195913,
+        421183191,
+        85675335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871343
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ae53d6c358a849b7378132308f94767f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183191,
+            "locality_id":421195913,
+            "neighbourhood_id":1796636815,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1796636815,
+    "wof:lastmodified":1669186780,
+    "wof:name":"Ungwa Koto",
+    "wof:parent_id":421195913,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344089639
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.35056,
+    8.90691,
+    11.35056,
+    8.90691
+],
+  "geometry": {"coordinates":[11.35056,8.90691],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1796635749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00078,
+    "geom:bbox":"3.233799,6.455248,3.267966,6.485912",
+    "geom:latitude":6.469964,
+    "geom:longitude":3.251888,
+    "iso:country":"NG",
+    "lbl:latitude":6.4669,
+    "lbl:longitude":3.251888,
+    "mps:latitude":6.4669,
+    "mps:longitude":3.251888,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Trade Fair Complex"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:country":"NG",
+    "wof:geomhash":"d9b3ac463c7de2ecbb9c70b8a26f1bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796635749,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796635749,
+    "wof:lastmodified":1669184811,
+    "wof:name":"Trade Fair Complex",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.233799,
+    6.455248,
+    3.267966,
+    6.485912
+],
+  "geometry": {"coordinates":[[[3.267966,6.482771],[3.267966,6.482771],[3.266978,6.473301],[3.266894,6.465744],[3.267155,6.457241],[3.263373,6.456774],[3.257585,6.456047],[3.253835,6.455601],[3.251181,6.45529],[3.249854,6.455248],[3.248235,6.455362],[3.246594,6.455643],[3.24323,6.456556],[3.238411,6.458148],[3.238411,6.458148],[3.238411,6.458148],[3.238866,6.471971],[3.233799,6.482091],[3.236326,6.485366],[3.245336,6.485912],[3.24572,6.482965],[3.247204,6.482856],[3.248716,6.482725],[3.250466,6.478371],[3.252966,6.478471],[3.260443,6.482201],[3.264508,6.483401],[3.267966,6.482771]]],"type":"Polygon"}
+}

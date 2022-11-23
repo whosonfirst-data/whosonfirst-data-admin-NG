@@ -1,0 +1,76 @@
+{
+  "id": 1796639189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.88153,9.95535,8.88153,9.95535",
+    "geom:latitude":9.95535,
+    "geom:longitude":8.88153,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005.0",
+    "gn:asciiname":"Layi Russo",
+    "gn:country_code":"NG",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332166,
+    "gn:latitude":9.95535,
+    "gn:longitude":8.88153,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Layi Russo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.86153,9.93535,8.90153,9.97535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189729,
+        1108563731,
+        85675411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332166
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d198436793f4ab8c665b34951e55a88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563731,
+            "locality_id":421189729,
+            "neighbourhood_id":1796639189,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1796639189,
+    "wof:lastmodified":1669187723,
+    "wof:name":"Layi Russo",
+    "wof:parent_id":421189729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309743107
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.88153,
+    9.95535,
+    8.88153,
+    9.95535
+],
+  "geometry": {"coordinates":[8.88153,9.95535],"type":"Point"}
+}

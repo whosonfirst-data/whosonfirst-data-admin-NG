@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.004918,
     "geom:area_square_m":0.0,
-    "geom:bbox":"6.91478,6.01986,6.91478,6.01986",
-    "geom:latitude":6.01986,
-    "geom:longitude":6.91478,
+    "geom:bbox":"6.870601,5.975144,6.965088,6.0461",
+    "geom:latitude":6.011514,
+    "geom:longitude":6.920358,
     "gn:country":"NG",
     "gn:fcode":"PPL",
     "gn:population":193987,
     "iso:country":"NG",
-    "lbl:bbox":"6.89478,5.99986,6.93478,6.03986",
+    "lbl:latitude":6.010693,
+    "lbl:longitude":6.919458,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
@@ -65,6 +66,13 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"9",
+    "reversegeo:latitude":6.010693,
+    "reversegeo:longitude":6.919458,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":5029,
     "wof:belongsto":[
@@ -83,7 +91,10 @@
     },
     "wof:country":"NG",
     "wof:created":1469052828,
-    "wof:geomhash":"d6e240f38e7d09b020c18e7dc02c385b",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"43b1f9afbfa9627aa8d4f49202223c04",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +105,7 @@
         }
     ],
     "wof:id":890452743,
-    "wof:lastmodified":1566654472,
+    "wof:lastmodified":1669184858,
     "wof:name":"Nnewi",
     "wof:parent_id":1108564049,
     "wof:placetype":"locality",
@@ -106,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.91478,
-    6.01986,
-    6.91478,
-    6.01986
+    6.870601,
+    5.975144,
+    6.965088,
+    6.0461
 ],
-  "geometry": {"coordinates":[6.91478,6.01986],"type":"Point"}
+  "geometry": {"coordinates":[[[6.951264,6.036896],[6.960168,6.028042],[6.961339,6.015225],[6.965088,6.00439],[6.962394,5.992622],[6.957825,5.98901],[6.948452,5.98062],[6.935448,5.982601],[6.923615,5.976425],[6.908384,5.975144],[6.893974,5.97794],[6.891748,5.991456],[6.890225,5.995068],[6.884308,6.001419],[6.879973,6.006429],[6.870718,6.013536],[6.870601,6.021109],[6.874467,6.029032],[6.884191,6.033692],[6.902702,6.042197],[6.922297,6.045838],[6.930761,6.0461],[6.945992,6.043188],[6.951264,6.036896]]],"type":"Polygon"}
 }

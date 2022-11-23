@@ -1,0 +1,76 @@
+{
+  "id": 1796639509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49035,6.38227,7.49035,6.38227",
+    "geom:latitude":6.38227,
+    "geom:longitude":7.49035,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14005.0",
+    "gn:asciiname":"Okinano",
+    "gn:country_code":"NG",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327138,
+    "gn:latitude":6.38227,
+    "gn:longitude":7.49035,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okinano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.47035,6.36227,7.51035,6.40227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890453179,
+        421186467,
+        85675395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327138
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9dcc8b3fc976da4a90b37a8438250ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421186467,
+            "locality_id":890453179,
+            "neighbourhood_id":1796639509,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1796639509,
+    "wof:lastmodified":1669187850,
+    "wof:name":"Okinano",
+    "wof:parent_id":890453179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243582377
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49035,
+    6.38227,
+    7.49035,
+    6.38227
+],
+  "geometry": {"coordinates":[7.49035,6.38227],"type":"Point"}
+}

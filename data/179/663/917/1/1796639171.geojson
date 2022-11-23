@@ -1,0 +1,76 @@
+{
+  "id": 1796639171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.49774,7.74083,8.49774,7.74083",
+    "geom:latitude":7.74083,
+    "geom:longitude":8.49774,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013.0",
+    "gn:asciiname":"Asuir",
+    "gn:country_code":"NG",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852844,
+    "gn:latitude":7.74083,
+    "gn:longitude":8.49774,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Asuir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.47774,7.72083,8.51774,7.76083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195911,
+        1108563933,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852844
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bc1c180201330f173730b82a45e79e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":421195911,
+            "neighbourhood_id":1796639171,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796639171,
+    "wof:lastmodified":1669187716,
+    "wof:name":"Asuir",
+    "wof:parent_id":421195911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309679107
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.49774,
+    7.74083,
+    8.49774,
+    7.74083
+],
+  "geometry": {"coordinates":[8.49774,7.74083],"type":"Point"}
+}

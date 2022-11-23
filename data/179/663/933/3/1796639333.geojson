@@ -1,0 +1,78 @@
+{
+  "id": 1796639333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.43926,9.25349,12.43926,9.25349",
+    "geom:latitude":9.25349,
+    "geom:longitude":12.43926,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Yoldere",
+    "gn:country_code":"NG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189710,
+    "gn:latitude":9.25349,
+    "gn:longitude":12.43926,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Yoldere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"12.41926,9.23349,12.45926,9.27349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yoldere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440215,
+        1108564543,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189710
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7aa3624a6469100637f4333ee0e7a77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564543,
+            "locality_id":890440215,
+            "neighbourhood_id":1796639333,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796639333,
+    "wof:lastmodified":1669187780,
+    "wof:name":"Yoldere",
+    "wof:parent_id":890440215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242722369
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.43926,
+    9.25349,
+    12.43926,
+    9.25349
+],
+  "geometry": {"coordinates":[12.43926,9.25349],"type":"Point"}
+}

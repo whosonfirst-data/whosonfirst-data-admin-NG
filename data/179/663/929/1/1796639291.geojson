@@ -1,0 +1,90 @@
+{
+  "id": 1796639291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78728,5.53402,5.78728,5.53402",
+    "geom:latitude":5.53402,
+    "geom:longitude":5.78728,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"John Holt",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329845,
+    "gn:latitude":5.53402,
+    "gn:longitude":5.78728,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"John Holt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.76728,5.51402,5.80728,5.55402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "John Holt"
+    ],
+    "name:eng_x_preferred":[
+        "John Holt"
+    ],
+    "name:fra_x_preferred":[
+        "John Holt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e7\u30f3\u30fb\u30db\u30eb\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc874 \ud640\ud2b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421199457,
+        1108564503,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329845
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d6b0a74f956acc56cc5cbb02a4a641b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":421199457,
+            "neighbourhood_id":1796639291,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796639291,
+    "wof:lastmodified":1669187763,
+    "wof:name":"John Holt",
+    "wof:parent_id":421199457,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243306789
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78728,
+    5.53402,
+    5.78728,
+    5.53402
+],
+  "geometry": {"coordinates":[5.78728,5.53402],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796636365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.80719,6.48216,3.80719,6.48216",
+    "geom:latitude":6.48216,
+    "geom:longitude":3.80719,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25009.0",
+    "gn:asciiname":"Efiran",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343978,
+    "gn:latitude":6.48216,
+    "gn:longitude":3.80719,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Efiran",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.78719,6.46216,3.82719,6.50216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1193014443,
+        421171305,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343978
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e3047f2f75b7009537c69aa93795ad1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421171305,
+            "locality_id":1193014443,
+            "neighbourhood_id":1796636365,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796636365,
+    "wof:lastmodified":1669186602,
+    "wof:name":"Efiran",
+    "wof:parent_id":1193014443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326728917
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.80719,
+    6.48216,
+    3.80719,
+    6.48216
+],
+  "geometry": {"coordinates":[3.80719,6.48216],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1796636411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.42206,9.27241,12.42206,9.27241",
+    "geom:latitude":9.27241,
+    "geom:longitude":12.42206,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Damilu",
+    "gn:country_code":"NG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189705,
+    "gn:latitude":9.27241,
+    "gn:longitude":12.42206,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Damilu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"12.40206,9.25241,12.44206,9.29241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Damilu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440215,
+        1108564543,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189705
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6481d4d39e894acc3dc1c4c994530127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564543,
+            "locality_id":890440215,
+            "neighbourhood_id":1796636411,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796636411,
+    "wof:lastmodified":1669186620,
+    "wof:name":"Damilu",
+    "wof:parent_id":890440215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326569935
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.42206,
+    9.27241,
+    12.42206,
+    9.27241
+],
+  "geometry": {"coordinates":[12.42206,9.27241],"type":"Point"}
+}

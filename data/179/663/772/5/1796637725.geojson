@@ -1,0 +1,80 @@
+{
+  "id": 1796637725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.91807,5.06374,7.91807,5.06374",
+    "geom:latitude":5.06374,
+    "geom:longitude":7.91807,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3016.0",
+    "gn:asciiname":"Ikot Mbonde",
+    "gn:country_code":"NG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2338024,
+    "gn:latitude":5.06374,
+    "gn:longitude":7.91807,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Mbonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.89807,5.04374,7.93807,5.08374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ikot Mbonde Itam",
+        "Ikot Mbonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440285,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2338024
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d0b7f613f4bfce68e9b63658197385ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":890440285,
+            "neighbourhood_id":1796637725,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796637725,
+    "wof:lastmodified":1669187145,
+    "wof:name":"Ikot Mbonde",
+    "wof:parent_id":890440285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277033287
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.91807,
+    5.06374,
+    7.91807,
+    5.06374
+],
+  "geometry": {"coordinates":[7.91807,5.06374],"type":"Point"}
+}

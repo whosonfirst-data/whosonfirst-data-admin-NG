@@ -1,0 +1,81 @@
+{
+  "id": 1796636357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.86352,5.59169,5.86352,5.59169",
+    "geom:latitude":5.59169,
+    "geom:longitude":5.86352,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10019.0",
+    "gn:asciiname":"Orho-Agbarho",
+    "gn:country_code":"NG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325791,
+    "gn:latitude":5.59169,
+    "gn:longitude":5.86352,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Orho-Agbarho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.84352,5.57169,5.88352,5.61169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Agbadu",
+        "Agbarho",
+        "Orho-Agbarho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1243407185,
+        1108564439,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325791
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"92445078b484aca0ebfbd239bd188611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564439,
+            "locality_id":1243407185,
+            "neighbourhood_id":1796636357,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796636357,
+    "wof:lastmodified":1669186599,
+    "wof:name":"Orho-Agbarho",
+    "wof:parent_id":1243407185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326869087
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.86352,
+    5.59169,
+    5.86352,
+    5.59169
+],
+  "geometry": {"coordinates":[5.86352,5.59169],"type":"Point"}
+}

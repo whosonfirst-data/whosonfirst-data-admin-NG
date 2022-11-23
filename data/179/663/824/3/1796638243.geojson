@@ -1,0 +1,76 @@
+{
+  "id": 1796638243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.55687,9.10957,7.55687,9.10957",
+    "geom:latitude":9.10957,
+    "geom:longitude":7.55687,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Jikakuchi",
+    "gn:country_code":"NG",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590308,
+    "gn:latitude":9.10957,
+    "gn:longitude":7.55687,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jikakuchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.53687,9.08957,7.57687,9.12957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437283,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590308
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"66b397f50a077731a9b8bdc984b6b298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":890437283,
+            "neighbourhood_id":1796638243,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796638243,
+    "wof:lastmodified":1669187349,
+    "wof:name":"Jikakuchi",
+    "wof:parent_id":890437283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209803199
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.55687,
+    9.10957,
+    7.55687,
+    9.10957
+],
+  "geometry": {"coordinates":[7.55687,9.10957],"type":"Point"}
+}

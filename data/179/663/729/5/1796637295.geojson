@@ -1,0 +1,76 @@
+{
+  "id": 1796637295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.93472,7.59278,3.93472,7.59278",
+    "geom:latitude":7.59278,
+    "geom:longitude":3.93472,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Adeogun",
+    "gn:country_code":"NG",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591617,
+    "gn:latitude":7.59278,
+    "gn:longitude":3.93472,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adeogun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.91472,7.57278,3.95472,7.61278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591617
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7805498d54ef87d968dfa57125bfa1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796637295,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796637295,
+    "wof:lastmodified":1669186973,
+    "wof:name":"Adeogun",
+    "wof:parent_id":1125988111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293142115
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.93472,
+    7.59278,
+    3.93472,
+    7.59278
+],
+  "geometry": {"coordinates":[3.93472,7.59278],"type":"Point"}
+}

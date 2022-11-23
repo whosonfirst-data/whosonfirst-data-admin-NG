@@ -1,0 +1,87 @@
+{
+  "id": 1796639237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.52237,12.02182,8.52237,12.02182",
+    "geom:latitude":12.02182,
+    "geom:longitude":8.52237,
+    "iso:country":"NG",
+    "lbl:bbox":"8.51737,12.01682,8.52737,12.02682",
+    "lbl:max_zoom":18.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":15.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:pol_x_preferred":[
+        "Sabon Gari"
+    ],
+    "qs:gn_country":"NG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2324138,
+    "qs:gn_pop":0,
+    "qs:name":"Sabon Gari",
+    "qs:name_adm0":"Nigeria",
+    "qs:name_adm1":"Kano",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":40446,
+    "qs:woe_adm0":23424908,
+    "qs:woe_id":1404886,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":642,
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890432249,
+        1108563193,
+        85675425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324138,
+        "gp:id":1404886,
+        "qs_pg:id":40446
+    },
+    "wof:country":"NG",
+    "wof:created":1459009621,
+    "wof:geomhash":"200d30c39d55d5e14941faaac52b129e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563193,
+            "locality_id":890432249,
+            "neighbourhood_id":1796639237,
+            "region_id":85675425
+        }
+    ],
+    "wof:id":1796639237,
+    "wof:lastmodified":1669187742,
+    "wof:name":"Sabon Gari",
+    "wof:parent_id":890432249,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421189337
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.52237,
+    12.02182,
+    8.52237,
+    12.02182
+],
+  "geometry": {"coordinates":[8.52237,12.02182],"type":"Point"}
+}

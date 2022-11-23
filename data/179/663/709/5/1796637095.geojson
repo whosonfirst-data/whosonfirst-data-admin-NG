@@ -1,0 +1,76 @@
+{
+  "id": 1796637095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.01331,6.51928,3.01331,6.51928",
+    "geom:latitude":6.51928,
+    "geom:longitude":3.01331,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Eruku",
+    "gn:country_code":"NG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343159,
+    "gn:latitude":6.51928,
+    "gn:longitude":3.01331,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eruku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"2.99331,6.49928,3.03331,6.53928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1242975293,
+        421183285,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343159
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f4aa531ebaf286ceb6f0a25749e9000c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183285,
+            "locality_id":1242975293,
+            "neighbourhood_id":1796637095,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796637095,
+    "wof:lastmodified":1669186891,
+    "wof:name":"Eruku",
+    "wof:parent_id":1242975293,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343442919
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.01331,
+    6.51928,
+    3.01331,
+    6.51928
+],
+  "geometry": {"coordinates":[3.01331,6.51928],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 1796639777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34927,8.91545,11.34927,8.91545",
+    "geom:latitude":8.91545,
+    "geom:longitude":11.34927,
+    "gn:admin1_code":"43.0",
+    "gn:admin2_code":"35007",
+    "gn:asciiname":"Yali",
+    "gn:country_code":"NG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10871339,
+    "gn:latitude":8.91545,
+    "gn:longitude":11.34927,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"11.32927,8.89545,11.36927,8.93545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Yali"
+    ],
+    "name:deu_x_preferred":[
+        "Yali"
+    ],
+    "name:ita_x_preferred":[
+        "Yali"
+    ],
+    "name:nld_x_preferred":[
+        "Yali"
+    ],
+    "name:nor_x_preferred":[
+        "Yali"
+    ],
+    "name:pol_x_preferred":[
+        "Yali"
+    ],
+    "name:slk_x_preferred":[
+        "Yali"
+    ],
+    "name:swe_x_preferred":[
+        "Yali"
+    ],
+    "name:tur_x_preferred":[
+        "Yal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195913,
+        421183191,
+        85675335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10871339
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e16c31cf2e83f413b64005b442f0ae9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421183191,
+            "locality_id":421195913,
+            "neighbourhood_id":1796639777,
+            "region_id":85675335
+        }
+    ],
+    "wof:id":1796639777,
+    "wof:lastmodified":1669187960,
+    "wof:name":"Yali",
+    "wof:parent_id":421195913,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259409569
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34927,
+    8.91545,
+    11.34927,
+    8.91545
+],
+  "geometry": {"coordinates":[11.34927,8.91545],"type":"Point"}
+}

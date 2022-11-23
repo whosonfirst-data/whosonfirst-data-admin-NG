@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000053,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.49312,11.65294,4.49312,11.65294",
-    "geom:latitude":11.65294,
-    "geom:longitude":4.49312,
+    "geom:bbox":"4.491065,11.647794,4.499591,11.656334",
+    "geom:latitude":11.651937,
+    "geom:longitude":4.495221,
     "gn:admin1_code":"51.0",
     "gn:admin2_code":"610.0",
     "gn:admin3_code":"61001",
@@ -25,13 +25,20 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
-    "lbl:bbox":"4.47312,11.63294,4.51312,11.67294",
+    "lbl:latitude":11.651668,
+    "lbl:longitude":4.495302,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "reversegeo:latitude":11.651668,
+    "reversegeo:longitude":4.495302,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632735,
@@ -43,7 +50,10 @@
         "gn:id":2342571
     },
     "wof:country":"NG",
-    "wof:geomhash":"71b1ac4f80795a7419b822d0778b04ed",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2878a4e4aefa91658eb0225c5f34dd91",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1310434963,
-    "wof:lastmodified":1566653871,
+    "wof:lastmodified":1669184619,
     "wof:name":"Fokku",
     "wof:parent_id":1108563809,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.49312,
-    11.65294,
-    4.49312,
-    11.65294
+    4.491065,
+    11.647794,
+    4.499591,
+    11.656334
 ],
-  "geometry": {"coordinates":[4.49312,11.65294],"type":"Point"}
+  "geometry": {"coordinates":[[[4.49947,11.649687],[4.497659,11.647912],[4.495871,11.647794],[4.493601,11.648244],[4.492876,11.648173],[4.492683,11.648551],[4.491693,11.652147],[4.491065,11.654442],[4.49121,11.655009],[4.492103,11.656168],[4.492369,11.656287],[4.494664,11.656334],[4.495195,11.656027],[4.496185,11.655009],[4.496934,11.654773],[4.497659,11.654513],[4.498311,11.653756],[4.498842,11.653093],[4.499108,11.652715],[4.499591,11.651177],[4.49947,11.649687]]],"type":"Polygon"}
 }

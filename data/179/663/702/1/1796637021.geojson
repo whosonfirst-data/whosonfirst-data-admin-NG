@@ -1,0 +1,76 @@
+{
+  "id": 1796637021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4366,6.81072,3.4366,6.81072",
+    "geom:latitude":6.81072,
+    "geom:longitude":3.4366,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Mowe",
+    "gn:country_code":"NG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329863,
+    "gn:latitude":6.81072,
+    "gn:longitude":3.4366,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.4166,6.79072,3.4566,6.83072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1276197559,
+        421188931,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329863
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"74eb9b326a207567363247172643547f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188931,
+            "locality_id":1276197559,
+            "neighbourhood_id":1796637021,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796637021,
+    "wof:lastmodified":1669186862,
+    "wof:name":"Mowe",
+    "wof:parent_id":1276197559,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344021745
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4366,
+    6.81072,
+    3.4366,
+    6.81072
+],
+  "geometry": {"coordinates":[3.4366,6.81072],"type":"Point"}
+}

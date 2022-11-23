@@ -1,0 +1,76 @@
+{
+  "id": 1796638081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.03333,7.36667,4.03333,7.36667",
+    "geom:latitude":7.36667,
+    "geom:longitude":4.03333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31005.0",
+    "gn:asciiname":"Edun",
+    "gn:country_code":"NG",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344005,
+    "gn:latitude":7.36667,
+    "gn:longitude":4.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Edun",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"4.01333,7.34667,4.05333,7.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344005
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"87aa4b9871e9e598aaa3b429d119cb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796638081,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796638081,
+    "wof:lastmodified":1669187285,
+    "wof:name":"Edun",
+    "wof:parent_id":1125988111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209857109
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03333,
+    7.36667,
+    4.03333,
+    7.36667
+],
+  "geometry": {"coordinates":[4.03333,7.36667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796638411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.65,6.41667,5.65,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":5.65,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12011.0",
+    "gn:asciiname":"Edosowan",
+    "gn:country_code":"NG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2344010,
+    "gn:latitude":6.41667,
+    "gn:longitude":5.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Edosowan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.63,6.39667,5.67,6.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189725,
+        1108563609,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344010
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"16a6d3c566e43c8c267a7a48e7f17e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563609,
+            "locality_id":421189725,
+            "neighbourhood_id":1796638411,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796638411,
+    "wof:lastmodified":1669187416,
+    "wof:name":"Edosowan",
+    "wof:parent_id":421189725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193220977
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65,
+    6.41667,
+    5.65,
+    6.41667
+],
+  "geometry": {"coordinates":[5.65,6.41667],"type":"Point"}
+}

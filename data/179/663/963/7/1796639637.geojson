@@ -1,0 +1,82 @@
+{
+  "id": 1796639637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12179,6.72892,6.12179,6.72892",
+    "geom:latitude":6.72892,
+    "geom:longitude":6.12179,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006.0",
+    "gn:asciiname":"Ukpenu",
+    "gn:country_code":"NG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081177,
+    "gn:latitude":6.72892,
+    "gn:longitude":6.12179,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ukpenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.10179,6.70892,6.14179,6.74892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Urpene"
+    ],
+    "name:und_x_variant":[
+        "Urpeno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421178833,
+        1108563321,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081177
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f74f216f74501753ae4608fda6b89a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563321,
+            "locality_id":421178833,
+            "neighbourhood_id":1796639637,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796639637,
+    "wof:lastmodified":1669187902,
+    "wof:name":"Ukpenu",
+    "wof:parent_id":421178833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243106177
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12179,
+    6.72892,
+    6.12179,
+    6.72892
+],
+  "geometry": {"coordinates":[6.12179,6.72892],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1796636539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26444,6.60667,3.26444,6.60667",
+    "geom:latitude":6.60667,
+    "geom:longitude":3.26444,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25003.0",
+    "gn:asciiname":"Akinyele",
+    "gn:country_code":"NG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566671,
+    "gn:latitude":6.60667,
+    "gn:longitude":3.26444,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akinyele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.24444,6.58667,3.28444,6.62667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:azb_x_preferred":[
+        "\u0627\u06a9\u06cc\u0646\u06cc\u0644"
+    ],
+    "name:ceb_x_preferred":[
+        "Akinyele"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u06cc\u0646\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Akinyele"
+    ],
+    "name:hau_x_preferred":[
+        "Akinyele"
+    ],
+    "name:ita_x_preferred":[
+        "Akinyele"
+    ],
+    "name:spa_x_preferred":[
+        "Akinyele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195263,
+        1108562995,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566671
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b648bf0e128dcf9230f39256421b0e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562995,
+            "locality_id":421195263,
+            "neighbourhood_id":1796636539,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796636539,
+    "wof:lastmodified":1669186671,
+    "wof:name":"Akinyele",
+    "wof:parent_id":421195263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327332137
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26444,
+    6.60667,
+    3.26444,
+    6.60667
+],
+  "geometry": {"coordinates":[3.26444,6.60667],"type":"Point"}
+}

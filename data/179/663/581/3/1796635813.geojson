@@ -1,0 +1,61 @@
+{
+  "id": 1796635813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000822,
+    "geom:bbox":"3.30958,6.396388,3.373309,6.419287",
+    "geom:latitude":6.406124,
+    "geom:longitude":3.338711,
+    "iso:country":"NG",
+    "lbl:latitude":6.408407,
+    "lbl:longitude":3.333883,
+    "mps:latitude":6.408407,
+    "mps:longitude":3.333883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Badagri Creek"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:country":"NG",
+    "wof:geomhash":"8226118baaf43899e4c4f7424c6ee4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796635813,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796635813,
+    "wof:lastmodified":1669184815,
+    "wof:name":"Badagri Creek",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.30958,
+    6.396388,
+    3.373309,
+    6.419287
+],
+  "geometry": {"coordinates":[[[3.30958,6.40111],[3.30958,6.40111],[3.310561,6.415466],[3.313976,6.415059],[3.318433,6.413922],[3.32146,6.413515],[3.324383,6.413881],[3.327962,6.414511],[3.330722,6.415689],[3.337918,6.419287],[3.33864,6.416776],[3.339305,6.415283],[3.340368,6.413779],[3.342863,6.412438],[3.349324,6.41067],[3.353913,6.409473],[3.361593,6.408334],[3.367911,6.408578],[3.373309,6.409146],[3.366495,6.396388],[3.342213,6.399008],[3.30958,6.40111]]],"type":"Polygon"}
+}

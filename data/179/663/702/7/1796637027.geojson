@@ -1,0 +1,76 @@
+{
+  "id": 1796637027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.89552,5.06725,7.89552,5.06725",
+    "geom:latitude":5.06725,
+    "geom:longitude":7.89552,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3016.0",
+    "gn:asciiname":"Ikot Ebom",
+    "gn:country_code":"NG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7073060,
+    "gn:latitude":5.06725,
+    "gn:longitude":7.89552,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Ebom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.87552,5.04725,7.91552,5.08725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440285,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7073060
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"51baf232f12f332ea741108166bce97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":890440285,
+            "neighbourhood_id":1796637027,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796637027,
+    "wof:lastmodified":1669186864,
+    "wof:name":"Ikot Ebom",
+    "wof:parent_id":890440285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343425099
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.89552,
+    5.06725,
+    7.89552,
+    5.06725
+],
+  "geometry": {"coordinates":[7.89552,5.06725],"type":"Point"}
+}

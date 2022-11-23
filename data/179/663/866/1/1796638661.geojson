@@ -1,0 +1,76 @@
+{
+  "id": 1796638661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.48674,7.72848,8.48674,7.72848",
+    "geom:latitude":7.72848,
+    "geom:longitude":8.48674,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013",
+    "gn:asciiname":"Hench",
+    "gn:country_code":"NG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9507362,
+    "gn:latitude":7.72848,
+    "gn:longitude":8.48674,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hench",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.46674,7.70848,8.50674,7.74848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195911,
+        1108563933,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9507362
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"58566f50536b5e745a4d009c3cbf3f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":421195911,
+            "neighbourhood_id":1796638661,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796638661,
+    "wof:lastmodified":1669187514,
+    "wof:name":"Hench",
+    "wof:parent_id":421195911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260027511
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.48674,
+    7.72848,
+    8.48674,
+    7.72848
+],
+  "geometry": {"coordinates":[8.48674,7.72848],"type":"Point"}
+}

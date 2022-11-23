@@ -1,0 +1,76 @@
+{
+  "id": 1796636939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.2243,4.80432,8.2243,4.80432",
+    "geom:latitude":4.80432,
+    "geom:longitude":8.2243,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3025.0",
+    "gn:asciiname":"Iquita",
+    "gn:country_code":"NG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337348,
+    "gn:latitude":4.80432,
+    "gn:longitude":8.2243,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Iquita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.2043,4.78432,8.2443,4.82432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1243041819,
+        1108564213,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337348
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"c6d09a0c9ad1818435c64d281825fe14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564213,
+            "locality_id":1243041819,
+            "neighbourhood_id":1796636939,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796636939,
+    "wof:lastmodified":1669186829,
+    "wof:name":"Iquita",
+    "wof:parent_id":1243041819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343320633
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.2243,
+    4.80432,
+    8.2243,
+    4.80432
+],
+  "geometry": {"coordinates":[8.2243,4.80432],"type":"Point"}
+}

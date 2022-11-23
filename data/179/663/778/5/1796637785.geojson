@@ -1,0 +1,76 @@
+{
+  "id": 1796637785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26778,6.59806,3.26778,6.59806",
+    "geom:latitude":6.59806,
+    "geom:longitude":3.26778,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25003.0",
+    "gn:asciiname":"Fatade",
+    "gn:country_code":"NG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566669,
+    "gn:latitude":6.59806,
+    "gn:longitude":3.26778,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fatade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.24778,6.57806,3.28778,6.61806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195263,
+        1108562995,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566669
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"12d9f0fe25c12de2757635ba20872cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562995,
+            "locality_id":421195263,
+            "neighbourhood_id":1796637785,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796637785,
+    "wof:lastmodified":1669187169,
+    "wof:name":"Fatade",
+    "wof:parent_id":421195263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276122607
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26778,
+    6.59806,
+    3.26778,
+    6.59806
+],
+  "geometry": {"coordinates":[3.26778,6.59806],"type":"Point"}
+}

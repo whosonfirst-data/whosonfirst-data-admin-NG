@@ -1,0 +1,76 @@
+{
+  "id": 1796639909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.85383,5.06394,7.85383,5.06394",
+    "geom:latitude":5.06394,
+    "geom:longitude":7.85383,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3010.0",
+    "gn:asciiname":"Ibiaku Ikot Ukpong",
+    "gn:country_code":"NG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339273,
+    "gn:latitude":5.06394,
+    "gn:longitude":7.85383,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibiaku Ikot Ukpong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.83383,5.04394,7.87383,5.08394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440285,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339273
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d8efd0e1d4dcf891eb494e4879c1ecce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":890440285,
+            "neighbourhood_id":1796639909,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796639909,
+    "wof:lastmodified":1669188012,
+    "wof:name":"Ibiaku Ikot Ukpong",
+    "wof:parent_id":890440285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259447109
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.85383,
+    5.06394,
+    7.85383,
+    5.06394
+],
+  "geometry": {"coordinates":[7.85383,5.06394],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1796638789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38166,6.48799,3.38166,6.48799",
+    "geom:latitude":6.48799,
+    "geom:longitude":3.38166,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"9485474.0",
+    "gn:asciiname":"Ebute-Metta",
+    "gn:country_code":"NG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2344078,
+    "gn:latitude":6.48799,
+    "gn:longitude":3.38166,
+    "gn:modification_date":"2016-05-23",
+    "gn:name":"Ebute-Metta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.36166,6.46799,3.40166,6.50799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ebute Meta",
+        "Ebute-Metta"
+    ],
+    "name:yor_x_preferred":[
+        "Ebute Metta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2344078,
+        "wk:page":"Ebute_Metta"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"105d5d590fa791a3a86b095dc1ece328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796638789,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796638789,
+    "wof:lastmodified":1669187565,
+    "wof:name":"Ebute-Metta",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310309509
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.38166,
+    6.48799,
+    3.38166,
+    6.48799
+],
+  "geometry": {"coordinates":[3.38166,6.48799],"type":"Point"}
+}

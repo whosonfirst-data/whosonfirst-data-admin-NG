@@ -1,0 +1,76 @@
+{
+  "id": 1796637991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.53061,6.36797,7.53061,6.36797",
+    "geom:latitude":6.36797,
+    "geom:longitude":7.53061,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14012.0",
+    "gn:asciiname":"Ngine",
+    "gn:country_code":"NG",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329014,
+    "gn:latitude":6.36797,
+    "gn:longitude":7.53061,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ngine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.51061,6.34797,7.55061,6.38797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890453179,
+        421186467,
+        85675395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329014
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7d2ff8e9c05fc7bff82aba64aab64144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421186467,
+            "locality_id":890453179,
+            "neighbourhood_id":1796637991,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1796637991,
+    "wof:lastmodified":1669187250,
+    "wof:name":"Ngine",
+    "wof:parent_id":890453179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209644727
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.53061,
+    6.36797,
+    7.53061,
+    6.36797
+],
+  "geometry": {"coordinates":[7.53061,6.36797],"type":"Point"}
+}

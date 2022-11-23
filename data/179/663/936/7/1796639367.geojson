@@ -1,0 +1,76 @@
+{
+  "id": 1796639367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.56013,9.59816,6.56013,9.59816",
+    "geom:latitude":9.59816,
+    "geom:longitude":6.56013,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"27006",
+    "gn:asciiname":"Tudunwada",
+    "gn:country_code":"NG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10410185,
+    "gn:latitude":9.59816,
+    "gn:longitude":6.56013,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tudunwada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.54013,9.57816,6.58013,9.61816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890444305,
+        1108563185,
+        85675349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10410185
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"866f5c88b251e7fcfca4ff8014a1b42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563185,
+            "locality_id":890444305,
+            "neighbourhood_id":1796639367,
+            "region_id":85675349
+        }
+    ],
+    "wof:id":1796639367,
+    "wof:lastmodified":1669187794,
+    "wof:name":"Tudunwada",
+    "wof:parent_id":890444305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242605967
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.56013,
+    9.59816,
+    6.56013,
+    9.59816
+],
+  "geometry": {"coordinates":[6.56013,9.59816],"type":"Point"}
+}

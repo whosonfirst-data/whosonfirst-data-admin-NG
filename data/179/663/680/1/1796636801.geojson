@@ -1,0 +1,76 @@
+{
+  "id": 1796636801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.96924,7.30637,8.96924,7.30637",
+    "geom:latitude":7.30637,
+    "geom:longitude":8.96924,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7005",
+    "gn:asciiname":"Aoghol",
+    "gn:country_code":"NG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9974540,
+    "gn:latitude":7.30637,
+    "gn:longitude":8.96924,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aoghol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.94924,7.28637,8.98924,7.32637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195961,
+        1108563411,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9974540
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8bc482d54e7402b02d864aaa9b4fd7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563411,
+            "locality_id":421195961,
+            "neighbourhood_id":1796636801,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796636801,
+    "wof:lastmodified":1669186774,
+    "wof:name":"Aoghol",
+    "wof:parent_id":421195961,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344123997
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.96924,
+    7.30637,
+    8.96924,
+    7.30637
+],
+  "geometry": {"coordinates":[8.96924,7.30637],"type":"Point"}
+}

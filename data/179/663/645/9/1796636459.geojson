@@ -1,0 +1,81 @@
+{
+  "id": 1796636459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.971,4.78954,6.971,4.78954",
+    "geom:latitude":4.78954,
+    "geom:longitude":6.971,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33022.0",
+    "gn:asciiname":"Eremogbogoro",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343223,
+    "gn:latitude":4.78954,
+    "gn:longitude":6.971,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Eremogbogoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.951,4.76954,6.991,4.80954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Eremo Ogbogoro",
+        "Eremo Ogbagoro",
+        "Eremogbogoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421180027,
+        1108564283,
+        85675317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343223
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3763afabd93d7598862ca7ad4b093f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564283,
+            "locality_id":421180027,
+            "neighbourhood_id":1796636459,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1796636459,
+    "wof:lastmodified":1669186639,
+    "wof:name":"Eremogbogoro",
+    "wof:parent_id":421180027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326956853
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.971,
+    4.78954,
+    6.971,
+    4.78954
+],
+  "geometry": {"coordinates":[6.971,4.78954],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796637065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.89281,6.48701,3.89281,6.48701",
+    "geom:latitude":6.48701,
+    "geom:longitude":3.89281,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25009.0",
+    "gn:asciiname":"Ibeju",
+    "gn:country_code":"NG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339314,
+    "gn:latitude":6.48701,
+    "gn:longitude":3.89281,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ibeju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.87281,6.46701,3.91281,6.50701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1193014443,
+        421171305,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339314
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"76664d8388c6d56a72b91251d1926a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421171305,
+            "locality_id":1193014443,
+            "neighbourhood_id":1796637065,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796637065,
+    "wof:lastmodified":1669186880,
+    "wof:name":"Ibeju",
+    "wof:parent_id":1193014443,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343260381
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.89281,
+    6.48701,
+    3.89281,
+    6.48701
+],
+  "geometry": {"coordinates":[3.89281,6.48701],"type":"Point"}
+}

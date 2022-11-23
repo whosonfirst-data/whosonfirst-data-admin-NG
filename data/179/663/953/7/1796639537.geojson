@@ -1,0 +1,76 @@
+{
+  "id": 1796639537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.15552,9.00418,7.15552,9.00418",
+    "geom:latitude":9.00418,
+    "geom:longitude":7.15552,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Pasere",
+    "gn:country_code":"NG",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2324978,
+    "gn:latitude":9.00418,
+    "gn:longitude":7.15552,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pasere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.13552,8.98418,7.17552,9.02418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437283,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2324978
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"bbf024a78be1395eea66917e704bd0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":890437283,
+            "neighbourhood_id":1796639537,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796639537,
+    "wof:lastmodified":1669187860,
+    "wof:name":"Pasere",
+    "wof:parent_id":890437283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243055743
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.15552,
+    9.00418,
+    7.15552,
+    9.00418
+],
+  "geometry": {"coordinates":[7.15552,9.00418],"type":"Point"}
+}

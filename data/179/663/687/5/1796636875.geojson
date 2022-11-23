@@ -1,0 +1,76 @@
+{
+  "id": 1796636875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.94917,7.53389,3.94917,7.53389",
+    "geom:latitude":7.53389,
+    "geom:longitude":3.94917,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Adeoye",
+    "gn:country_code":"NG",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591658,
+    "gn:latitude":7.53389,
+    "gn:longitude":3.94917,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adeoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.92917,7.51389,3.96917,7.55389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591658
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"11a7a81a4203ba492de34b1c29c86f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796636875,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796636875,
+    "wof:lastmodified":1669186803,
+    "wof:name":"Adeoye",
+    "wof:parent_id":1125988111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343710543
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.94917,
+    7.53389,
+    3.94917,
+    7.53389
+],
+  "geometry": {"coordinates":[3.94917,7.53389],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796636749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.39516,5.10817,7.39516,5.10817",
+    "geom:latitude":5.10817,
+    "geom:longitude":7.39516,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1001.0",
+    "gn:asciiname":"Ehere",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343820,
+    "gn:latitude":5.10817,
+    "gn:longitude":7.39516,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ehere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.37516,5.08817,7.41516,5.12817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890435379,
+        1108562893,
+        85675305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343820
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e64922cce9f3662bfd3aa03a12eb630c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562893,
+            "locality_id":890435379,
+            "neighbourhood_id":1796636749,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1796636749,
+    "wof:lastmodified":1669186753,
+    "wof:name":"Ehere",
+    "wof:parent_id":890435379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343990999
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.39516,
+    5.10817,
+    7.39516,
+    5.10817
+],
+  "geometry": {"coordinates":[7.39516,5.10817],"type":"Point"}
+}

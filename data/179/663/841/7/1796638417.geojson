@@ -1,0 +1,76 @@
+{
+  "id": 1796638417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.93773,5.88674,7.93773,5.88674",
+    "geom:latitude":5.88674,
+    "geom:longitude":7.93773,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11002.0",
+    "gn:asciiname":"Mgbom",
+    "gn:country_code":"NG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2330171,
+    "gn:latitude":5.88674,
+    "gn:longitude":7.93773,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mgbom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.91773,5.86674,7.95773,5.90674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1193045891,
+        1108562927,
+        85675399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2330171
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dbf82314cd63585d51ee1c304805866e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562927,
+            "locality_id":1193045891,
+            "neighbourhood_id":1796638417,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1796638417,
+    "wof:lastmodified":1669187419,
+    "wof:name":"Mgbom",
+    "wof:parent_id":1193045891,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193045749
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.93773,
+    5.88674,
+    7.93773,
+    5.88674
+],
+  "geometry": {"coordinates":[7.93773,5.88674],"type":"Point"}
+}

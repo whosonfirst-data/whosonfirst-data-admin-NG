@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-11-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -29,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Akali",
@@ -37,7 +38,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632735
+        102191573,
+        85632735,
+        85675305,
+        1108562897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,22 @@
     "wof:geomhash":"33a17226086472eb3670825e351d8c7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191573,
             "country_id":85632735,
-            "locality_id":1209344075
+            "county_id":1108562897,
+            "locality_id":1209344075,
+            "region_id":85675305
         }
     ],
     "wof:id":1209344075,
-    "wof:lastmodified":1566652726,
+    "wof:lastmodified":1669184987,
     "wof:name":"Akoli",
-    "wof:parent_id":85632735,
+    "wof:parent_id":1108562897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796638187
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

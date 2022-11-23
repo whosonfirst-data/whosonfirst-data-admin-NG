@@ -1,0 +1,80 @@
+{
+  "id": 1796639195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.94035,6.96307,3.94035,6.96307",
+    "geom:latitude":6.96307,
+    "geom:longitude":3.94035,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28009.0",
+    "gn:asciiname":"Awa",
+    "gn:country_code":"NG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348833,
+    "gn:latitude":6.96307,
+    "gn:longitude":3.94035,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Awa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.92035,6.94307,3.96035,6.98307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Aha",
+        "Awa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1327297543,
+        1108563573,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348833
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a4bf91f86e811f9c0f33f5fc00ad7f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563573,
+            "locality_id":1327297543,
+            "neighbourhood_id":1796639195,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796639195,
+    "wof:lastmodified":1669187725,
+    "wof:name":"Awa",
+    "wof:parent_id":1327297543,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309887715
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.94035,
+    6.96307,
+    3.94035,
+    6.96307
+],
+  "geometry": {"coordinates":[3.94035,6.96307],"type":"Point"}
+}

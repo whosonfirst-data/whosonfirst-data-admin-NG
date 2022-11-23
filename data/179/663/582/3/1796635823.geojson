@@ -1,0 +1,61 @@
+{
+  "id": 1796635823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:bbox":"3.246603,6.402347,3.256338,6.412072",
+    "geom:latitude":6.406523,
+    "geom:longitude":3.251362,
+    "iso:country":"NG",
+    "lbl:latitude":6.406499,
+    "lbl:longitude":3.251362,
+    "mps:latitude":6.406499,
+    "mps:longitude":3.251362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Ibeshe"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:country":"NG",
+    "wof:geomhash":"ed151f3d553f15588048d86d75cf26e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796635823,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796635823,
+    "wof:lastmodified":1669184816,
+    "wof:name":"Ibeshe",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.246603,
+    6.402347,
+    3.256338,
+    6.412072
+],
+  "geometry": {"coordinates":[[[3.246603,6.402365],[3.246603,6.402365],[3.246766,6.406534],[3.247348,6.412072],[3.252419,6.410264],[3.254791,6.41002],[3.256338,6.41007],[3.256213,6.405193],[3.256295,6.402347],[3.256295,6.402347],[3.246603,6.402365]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796639947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28229,10.24939,13.28229,10.24939",
+    "geom:latitude":10.24939,
+    "geom:longitude":13.28229,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Sebbore",
+    "gn:country_code":"NG",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323553,
+    "gn:latitude":10.24939,
+    "gn:longitude":13.28229,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sebbore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"13.26229,10.22939,13.30229,10.26939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890432233,
+        1108563997,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323553
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f5a75120b6ac5b34f212f8def8453b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":890432233,
+            "neighbourhood_id":1796639947,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796639947,
+    "wof:lastmodified":1669188027,
+    "wof:name":"Sebbore",
+    "wof:parent_id":890432233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226286861
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28229,
+    10.24939,
+    13.28229,
+    10.24939
+],
+  "geometry": {"coordinates":[13.28229,10.24939],"type":"Point"}
+}

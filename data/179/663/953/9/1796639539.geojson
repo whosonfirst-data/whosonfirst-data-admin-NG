@@ -1,0 +1,76 @@
+{
+  "id": 1796639539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.02642,5.00906,8.02642,5.00906",
+    "geom:latitude":5.00906,
+    "geom:longitude":8.02642,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3031.0",
+    "gn:asciiname":"Obot Obom",
+    "gn:country_code":"NG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6854650,
+    "gn:latitude":5.00906,
+    "gn:longitude":8.02642,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obot Obom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.00642,4.98906,8.04642,5.02906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440285,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6854650
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ff58467eaa88b0a1b82d036b28b899e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":890440285,
+            "neighbourhood_id":1796639539,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796639539,
+    "wof:lastmodified":1669187861,
+    "wof:name":"Obot Obom",
+    "wof:parent_id":890440285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243026841
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.02642,
+    5.00906,
+    8.02642,
+    5.00906
+],
+  "geometry": {"coordinates":[8.02642,5.00906],"type":"Point"}
+}

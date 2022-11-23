@@ -1,0 +1,76 @@
+{
+  "id": 1796639403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.31192,5.16969,7.31192,5.16969",
+    "geom:latitude":5.16969,
+    "geom:longitude":7.31192,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Umu Akpara",
+    "gn:country_code":"NG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2320567,
+    "gn:latitude":5.16969,
+    "gn:longitude":7.31192,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Umu Akpara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.29192,5.14969,7.33192,5.18969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890435379,
+        1108562893,
+        85675305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2320567
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"50e363fb92d1ae051d53499e2cb9bed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562893,
+            "locality_id":890435379,
+            "neighbourhood_id":1796639403,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1796639403,
+    "wof:lastmodified":1669187808,
+    "wof:name":"Umu Akpara",
+    "wof:parent_id":890435379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243487417
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.31192,
+    5.16969,
+    7.31192,
+    5.16969
+],
+  "geometry": {"coordinates":[7.31192,5.16969],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796639929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.37946,6.72572,6.37946,6.72572",
+    "geom:latitude":6.72572,
+    "geom:longitude":6.37946,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003",
+    "gn:asciiname":"Irue",
+    "gn:country_code":"NG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646618,
+    "gn:latitude":6.72572,
+    "gn:longitude":6.37946,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Irue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.35946,6.70572,6.39946,6.74572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125987989,
+        1108563317,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646618
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d59847cd41a08901d97d58448a726a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1125987989,
+            "neighbourhood_id":1796639929,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796639929,
+    "wof:lastmodified":1669188020,
+    "wof:name":"Irue",
+    "wof:parent_id":1125987989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259722289
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.37946,
+    6.72572,
+    6.37946,
+    6.72572
+],
+  "geometry": {"coordinates":[6.37946,6.72572],"type":"Point"}
+}

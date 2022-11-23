@@ -1,0 +1,80 @@
+{
+  "id": 1796636783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.18208,6.74104,3.18208,6.74104",
+    "geom:latitude":6.74104,
+    "geom:longitude":3.18208,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Tigbo",
+    "gn:country_code":"NG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2322163,
+    "gn:latitude":6.74104,
+    "gn:longitude":3.18208,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tigbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.16208,6.72104,3.20208,6.76104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Tigbo Ogan",
+        "Tigbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421178817,
+        1108563549,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2322163
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d1ea1216e5c93271fcf059feabcebd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563549,
+            "locality_id":421178817,
+            "neighbourhood_id":1796636783,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796636783,
+    "wof:lastmodified":1669186767,
+    "wof:name":"Tigbo",
+    "wof:parent_id":421178817,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344220733
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.18208,
+    6.74104,
+    3.18208,
+    6.74104
+],
+  "geometry": {"coordinates":[3.18208,6.74104],"type":"Point"}
+}

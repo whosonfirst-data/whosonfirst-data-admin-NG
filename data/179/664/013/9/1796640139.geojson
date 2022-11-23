@@ -1,0 +1,76 @@
+{
+  "id": 1796640139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61667,6.41667,5.61667,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":5.61667,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12014.0",
+    "gn:asciiname":"Kosodi",
+    "gn:country_code":"NG",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2333899,
+    "gn:latitude":6.41667,
+    "gn:longitude":5.61667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Kosodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.59667,6.39667,5.63667,6.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189725,
+        1108563609,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2333899
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3d4900634d2835be362980cf02db0005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563609,
+            "locality_id":421189725,
+            "neighbourhood_id":1796640139,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796640139,
+    "wof:lastmodified":1669188103,
+    "wof:name":"Kosodi",
+    "wof:parent_id":421189725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225896067
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61667,
+    6.41667,
+    5.61667,
+    6.41667
+],
+  "geometry": {"coordinates":[5.61667,6.41667],"type":"Point"}
+}

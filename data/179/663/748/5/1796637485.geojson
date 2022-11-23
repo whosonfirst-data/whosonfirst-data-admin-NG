@@ -1,0 +1,76 @@
+{
+  "id": 1796637485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.48497,6.72495,3.48497,6.72495",
+    "geom:latitude":6.72495,
+    "geom:longitude":3.48497,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28020.0",
+    "gn:asciiname":"Erefu",
+    "gn:country_code":"NG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334571,
+    "gn:latitude":6.72495,
+    "gn:longitude":3.48497,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Erefu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.46497,6.70495,3.50497,6.74495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195261,
+        1108563603,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334571
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"866b40332dddcf2c5bd0f2d51dcf41d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563603,
+            "locality_id":421195261,
+            "neighbourhood_id":1796637485,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796637485,
+    "wof:lastmodified":1669187050,
+    "wof:name":"Erefu",
+    "wof:parent_id":421195261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293865831
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.48497,
+    6.72495,
+    3.48497,
+    6.72495
+],
+  "geometry": {"coordinates":[3.48497,6.72495],"type":"Point"}
+}

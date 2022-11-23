@@ -1,0 +1,61 @@
+{
+  "id": 1796635807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:bbox":"3.353204,6.419301,3.369464,6.430777",
+    "geom:latitude":6.425745,
+    "geom:longitude":3.361703,
+    "iso:country":"NG",
+    "lbl:latitude":6.425649,
+    "lbl:longitude":3.361858,
+    "mps:latitude":6.425649,
+    "mps:longitude":3.361858,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Oluwa"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:country":"NG",
+    "wof:geomhash":"dbcdd77c988d724e21d4fc40794a8b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796635807,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796635807,
+    "wof:lastmodified":1669184815,
+    "wof:name":"Oluwa",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.353204,
+    6.419301,
+    3.369464,
+    6.430777
+],
+  "geometry": {"coordinates":[[[3.36122,6.419301],[3.357939,6.422007],[3.354851,6.425665],[3.353204,6.42845],[3.353695,6.429019],[3.353834,6.430311],[3.358529,6.429946],[3.36183,6.429988],[3.366761,6.430777],[3.369464,6.421849],[3.367252,6.421668],[3.366556,6.421455],[3.366107,6.421211],[3.365682,6.420911],[3.365253,6.420665],[3.364961,6.420439],[3.364646,6.420326],[3.364328,6.420358],[3.363837,6.420561],[3.36353,6.420744],[3.363121,6.421008],[3.36259,6.421292],[3.362324,6.421353],[3.361976,6.421353],[3.361772,6.421272],[3.361424,6.420927],[3.361301,6.42052],[3.361383,6.420236],[3.361342,6.419667],[3.36122,6.419301]]],"type":"Polygon"}
+}

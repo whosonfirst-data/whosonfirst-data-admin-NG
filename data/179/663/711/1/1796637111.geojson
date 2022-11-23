@@ -1,0 +1,76 @@
+{
+  "id": 1796637111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.19894,6.79077,3.19894,6.79077",
+    "geom:latitude":6.79077,
+    "geom:longitude":3.19894,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28007.0",
+    "gn:asciiname":"Pakoto",
+    "gn:country_code":"NG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325110,
+    "gn:latitude":6.79077,
+    "gn:longitude":3.19894,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pakoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.17894,6.77077,3.21894,6.81077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421178817,
+        1108563549,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325110
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"98e9c6f6243a4573678094ac3b368c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563549,
+            "locality_id":421178817,
+            "neighbourhood_id":1796637111,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796637111,
+    "wof:lastmodified":1669186897,
+    "wof:name":"Pakoto",
+    "wof:parent_id":421178817,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293072689
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.19894,
+    6.79077,
+    3.19894,
+    6.79077
+],
+  "geometry": {"coordinates":[3.19894,6.79077],"type":"Point"}
+}

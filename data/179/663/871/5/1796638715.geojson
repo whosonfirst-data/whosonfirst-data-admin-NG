@@ -1,0 +1,79 @@
+{
+  "id": 1796638715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25424,10.2785,13.25424,10.2785",
+    "geom:latitude":10.2785,
+    "geom:longitude":13.25424,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2014",
+    "gn:asciiname":"Yaguda",
+    "gn:country_code":"NG",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742777,
+    "gn:latitude":10.2785,
+    "gn:longitude":13.25424,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Yaguda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"13.23424,10.2585,13.27424,10.2985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yaguda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890432233,
+        1108563997,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742777
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a39368e4c94dac522fb8053d76d0a1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563997,
+            "locality_id":890432233,
+            "neighbourhood_id":1796638715,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796638715,
+    "wof:lastmodified":1669187536,
+    "wof:name":"Yaguda",
+    "wof:parent_id":890432233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310258131
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25424,
+    10.2785,
+    13.25424,
+    10.2785
+],
+  "geometry": {"coordinates":[13.25424,10.2785],"type":"Point"}
+}

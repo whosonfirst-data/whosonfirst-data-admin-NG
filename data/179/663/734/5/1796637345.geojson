@@ -1,0 +1,76 @@
+{
+  "id": 1796637345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.33696,9.12483,7.33696,9.12483",
+    "geom:latitude":9.12483,
+    "geom:longitude":7.33696,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Karsana",
+    "gn:country_code":"NG",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2334966,
+    "gn:latitude":9.12483,
+    "gn:longitude":7.33696,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Karsana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.31696,9.10483,7.35696,9.14483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437283,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2334966
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"e20d6652e4883e793458953aedb4e7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":890437283,
+            "neighbourhood_id":1796637345,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796637345,
+    "wof:lastmodified":1669186994,
+    "wof:name":"Karsana",
+    "wof:parent_id":890437283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293669451
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.33696,
+    9.12483,
+    7.33696,
+    9.12483
+],
+  "geometry": {"coordinates":[7.33696,9.12483],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796638237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.38333,5.1,7.38333,5.1",
+    "geom:latitude":5.1,
+    "geom:longitude":7.38333,
+    "gn:admin1_code":"45.0",
+    "gn:admin2_code":"1002.0",
+    "gn:asciiname":"Ndi Eguru",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2329278,
+    "gn:latitude":5.1,
+    "gn:longitude":7.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ndi Eguru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.36333,5.08,7.40333,5.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890435379,
+        1108562893,
+        85675305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2329278
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4ed4399f3c31ec899b321c68a92b0163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562893,
+            "locality_id":890435379,
+            "neighbourhood_id":1796638237,
+            "region_id":85675305
+        }
+    ],
+    "wof:id":1796638237,
+    "wof:lastmodified":1669187347,
+    "wof:name":"Ndi Eguru",
+    "wof:parent_id":890435379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209748543
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.38333,
+    5.1,
+    7.38333,
+    5.1
+],
+  "geometry": {"coordinates":[7.38333,5.1],"type":"Point"}
+}

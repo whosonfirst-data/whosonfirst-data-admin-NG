@@ -1,0 +1,75 @@
+{
+  "id": 1796639611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.24296,4.31583,6.24296,4.31583",
+    "geom:latitude":4.31583,
+    "geom:longitude":6.24296,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Twon",
+    "gn:country_code":"NG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2321137,
+    "gn:latitude":4.31583,
+    "gn:longitude":6.24296,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Twon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.22296,4.29583,6.26296,4.33583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890422077,
+        1108563159,
+        85675321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2321137
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"30c928d5f3d9f3fd1044aeed99df42b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563159,
+            "locality_id":890422077,
+            "neighbourhood_id":1796639611,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1796639611,
+    "wof:lastmodified":1669187891,
+    "wof:name":"Twon",
+    "wof:parent_id":890422077,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243291561
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.24296,
+    4.31583,
+    6.24296,
+    4.31583
+],
+  "geometry": {"coordinates":[6.24296,4.31583],"type":"Point"}
+}

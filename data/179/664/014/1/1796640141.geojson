@@ -1,0 +1,76 @@
+{
+  "id": 1796640141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.11421,7.22125,8.11421,7.22125",
+    "geom:latitude":7.22125,
+    "geom:longitude":8.11421,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7019.0",
+    "gn:asciiname":"Ugana",
+    "gn:country_code":"NG",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852303,
+    "gn:latitude":7.22125,
+    "gn:longitude":8.11421,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.09421,7.20125,8.13421,7.24125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1141907407,
+        1108564239,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852303
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"03890b5b8dffafce22c228f14aabd549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564239,
+            "locality_id":1141907407,
+            "neighbourhood_id":1796640141,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796640141,
+    "wof:lastmodified":1669188104,
+    "wof:name":"Ugana",
+    "wof:parent_id":1141907407,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225892083
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.11421,
+    7.22125,
+    8.11421,
+    7.22125
+],
+  "geometry": {"coordinates":[8.11421,7.22125],"type":"Point"}
+}

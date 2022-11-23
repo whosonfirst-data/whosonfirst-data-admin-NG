@@ -1,0 +1,76 @@
+{
+  "id": 1796638287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41806,6.88396,7.41806,6.88396",
+    "geom:latitude":6.88396,
+    "geom:longitude":7.41806,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14013",
+    "gn:asciiname":"Amokwue-Obukpa",
+    "gn:country_code":"NG",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9189438,
+    "gn:latitude":6.88396,
+    "gn:longitude":7.41806,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amokwue-Obukpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.39806,6.86396,7.43806,6.90396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421191699,
+        1108564059,
+        85675395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9189438
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"8c67218e7a77fd34035db324ad7a015d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564059,
+            "locality_id":421191699,
+            "neighbourhood_id":1796638287,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1796638287,
+    "wof:lastmodified":1669187367,
+    "wof:name":"Amokwue-Obukpa",
+    "wof:parent_id":421191699,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209448157
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41806,
+    6.88396,
+    7.41806,
+    6.88396
+],
+  "geometry": {"coordinates":[7.41806,6.88396],"type":"Point"}
+}

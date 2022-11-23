@@ -1,0 +1,88 @@
+{
+  "id": 1796639713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.4875,7.71484,8.4875,7.71484",
+    "geom:latitude":7.71484,
+    "geom:longitude":8.4875,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013.0",
+    "gn:asciiname":"Akil",
+    "gn:country_code":"NG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6852810,
+    "gn:latitude":7.71484,
+    "gn:longitude":8.4875,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.4675,7.69484,8.5075,7.73484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Akil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0438\u043b"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043a\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Akil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195911,
+        1108563933,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6852810
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"9b1e2f7605e7e547e756249ba786400f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":421195911,
+            "neighbourhood_id":1796639713,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796639713,
+    "wof:lastmodified":1669187934,
+    "wof:name":"Akil",
+    "wof:parent_id":421195911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259631053
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.4875,
+    7.71484,
+    8.4875,
+    7.71484
+],
+  "geometry": {"coordinates":[8.4875,7.71484],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796638597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.06904,6.3447,8.06904,6.3447",
+    "geom:latitude":6.3447,
+    "geom:longitude":8.06904,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11004",
+    "gn:asciiname":"Achara-Ida",
+    "gn:country_code":"NG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9271109,
+    "gn:latitude":6.3447,
+    "gn:longitude":8.06904,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Achara-Ida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.04904,6.3247,8.08904,6.3647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440473,
+        1108562905,
+        85675399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9271109
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b54173786375be586a9b16a24c9d4d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562905,
+            "locality_id":890440473,
+            "neighbourhood_id":1796638597,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1796638597,
+    "wof:lastmodified":1669187489,
+    "wof:name":"Achara-Ida",
+    "wof:parent_id":890440473,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260216987
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.06904,
+    6.3447,
+    8.06904,
+    6.3447
+],
+  "geometry": {"coordinates":[8.06904,6.3447],"type":"Point"}
+}

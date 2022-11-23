@@ -1,0 +1,77 @@
+{
+  "id": 1796638217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.41622,10.54907,7.41622,10.54907",
+    "geom:latitude":10.54907,
+    "geom:longitude":7.41622,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"19010.0",
+    "gn:admin3_code":"KD1001",
+    "gn:asciiname":"Abakpa",
+    "gn:country_code":"NG",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591194,
+    "gn:latitude":10.54907,
+    "gn:longitude":7.41622,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abakpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.39622,10.52907,7.43622,10.56907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125880387,
+        421200123,
+        85675405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591194
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"71da31f598c4e1f4a29c7315f41e0443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421200123,
+            "locality_id":1125880387,
+            "neighbourhood_id":1796638217,
+            "region_id":85675405
+        }
+    ],
+    "wof:id":1796638217,
+    "wof:lastmodified":1669187339,
+    "wof:name":"Abakpa",
+    "wof:parent_id":1125880387,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209182609
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.41622,
+    10.54907,
+    7.41622,
+    10.54907
+],
+  "geometry": {"coordinates":[7.41622,10.54907],"type":"Point"}
+}

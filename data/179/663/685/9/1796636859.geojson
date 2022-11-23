@@ -1,0 +1,76 @@
+{
+  "id": 1796636859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.10739,6.3076,8.10739,6.3076",
+    "geom:latitude":6.3076,
+    "geom:longitude":8.10739,
+    "gn:admin1_code":"53.0",
+    "gn:admin2_code":"11001.0",
+    "gn:asciiname":"Ofe-Iyiokwu",
+    "gn:country_code":"NG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327885,
+    "gn:latitude":6.3076,
+    "gn:longitude":8.10739,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ofe-Iyiokwu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.08739,6.2876,8.12739,6.3276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440473,
+        1108562905,
+        85675399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327885
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"364173f00812f97c49314b8c6d2b1262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562905,
+            "locality_id":890440473,
+            "neighbourhood_id":1796636859,
+            "region_id":85675399
+        }
+    ],
+    "wof:id":1796636859,
+    "wof:lastmodified":1669186797,
+    "wof:name":"Ofe-Iyiokwu",
+    "wof:parent_id":890440473,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343489113
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.10739,
+    6.3076,
+    8.10739,
+    6.3076
+],
+  "geometry": {"coordinates":[8.10739,6.3076],"type":"Point"}
+}

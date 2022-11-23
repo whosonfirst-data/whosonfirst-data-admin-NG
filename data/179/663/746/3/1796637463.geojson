@@ -1,0 +1,76 @@
+{
+  "id": 1796637463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.90393,5.05996,7.90393,5.05996",
+    "geom:latitude":5.05996,
+    "geom:longitude":7.90393,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3016.0",
+    "gn:asciiname":"Ikot Okure",
+    "gn:country_code":"NG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074914,
+    "gn:latitude":5.05996,
+    "gn:longitude":7.90393,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ikot Okure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.88393,5.03996,7.92393,5.07996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440285,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074914
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b0144c047c6b6f5ac02fb9489aa24d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":890440285,
+            "neighbourhood_id":1796637463,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796637463,
+    "wof:lastmodified":1669187042,
+    "wof:name":"Ikot Okure",
+    "wof:parent_id":890440285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293174785
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.90393,
+    5.05996,
+    7.90393,
+    5.05996
+],
+  "geometry": {"coordinates":[7.90393,5.05996],"type":"Point"}
+}

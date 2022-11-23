@@ -1,0 +1,76 @@
+{
+  "id": 1796640099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64247,6.40876,5.64247,6.40876",
+    "geom:latitude":6.40876,
+    "geom:longitude":5.64247,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12011.0",
+    "gn:asciiname":"Akiuwa",
+    "gn:country_code":"NG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6965439,
+    "gn:latitude":6.40876,
+    "gn:longitude":5.64247,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Akiuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.62247,6.38876,5.66247,6.42876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189725,
+        1108563609,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6965439
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"b9a854de2d2716e6b9b2231d67340c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563609,
+            "locality_id":421189725,
+            "neighbourhood_id":1796640099,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796640099,
+    "wof:lastmodified":1669188087,
+    "wof:name":"Akiuwa",
+    "wof:parent_id":421189725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226688761
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64247,
+    6.40876,
+    5.64247,
+    6.40876
+],
+  "geometry": {"coordinates":[5.64247,6.40876],"type":"Point"}
+}

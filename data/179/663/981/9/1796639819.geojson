@@ -1,0 +1,80 @@
+{
+  "id": 1796639819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.20334,13.07324,5.20334,13.07324",
+    "geom:latitude":13.07324,
+    "geom:longitude":5.20334,
+    "gn:admin1_code":"51.0",
+    "gn:admin2_code":"616.0",
+    "gn:admin3_code":"61602",
+    "gn:asciiname":"Sabon Gari",
+    "gn:country_code":"NG",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7017641,
+    "gn:latitude":13.07324,
+    "gn:longitude":5.20334,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sabon Gari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.18334,13.05324,5.22334,13.09324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:pol_x_preferred":[
+        "Sabon Gari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890432227,
+        1108564373,
+        85675433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7017641
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"71f89239377ca3a107f04dd822456a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564373,
+            "locality_id":890432227,
+            "neighbourhood_id":1796639819,
+            "region_id":85675433
+        }
+    ],
+    "wof:id":1796639819,
+    "wof:lastmodified":1669187977,
+    "wof:name":"Sabon Gari",
+    "wof:parent_id":890432227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259612859
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.20334,
+    13.07324,
+    5.20334,
+    13.07324
+],
+  "geometry": {"coordinates":[5.20334,13.07324],"type":"Point"}
+}

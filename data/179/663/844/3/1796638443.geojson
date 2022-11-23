@@ -1,0 +1,76 @@
+{
+  "id": 1796638443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64248,6.31167,5.64248,6.31167",
+    "geom:latitude":6.31167,
+    "geom:longitude":5.64248,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12011.0",
+    "gn:asciiname":"Ugbeku",
+    "gn:country_code":"NG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6965388,
+    "gn:latitude":6.31167,
+    "gn:longitude":5.64248,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ugbeku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.62248,6.29167,5.66248,6.33167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189725,
+        1108563609,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6965388
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a39085d2b1441d50cddb507af40643de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563609,
+            "locality_id":421189725,
+            "neighbourhood_id":1796638443,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796638443,
+    "wof:lastmodified":1669187428,
+    "wof:name":"Ugbeku",
+    "wof:parent_id":421189725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193206841
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64248,
+    6.31167,
+    5.64248,
+    6.31167
+],
+  "geometry": {"coordinates":[5.64248,6.31167],"type":"Point"}
+}

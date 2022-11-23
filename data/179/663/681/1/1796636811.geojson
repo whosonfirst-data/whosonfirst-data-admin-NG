@@ -1,0 +1,76 @@
+{
+  "id": 1796636811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.89694,7.57694,3.89694,7.57694",
+    "geom:latitude":7.57694,
+    "geom:longitude":3.89694,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Adamaro",
+    "gn:country_code":"NG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591606,
+    "gn:latitude":7.57694,
+    "gn:longitude":3.89694,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Adamaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.87694,7.55694,3.91694,7.59694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591606
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d2bd1d1452bfe5e158702834e0db995c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796636811,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796636811,
+    "wof:lastmodified":1669186778,
+    "wof:name":"Adamaro",
+    "wof:parent_id":1125988111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344017715
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.89694,
+    7.57694,
+    3.89694,
+    7.57694
+],
+  "geometry": {"coordinates":[3.89694,7.57694],"type":"Point"}
+}

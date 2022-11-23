@@ -1,0 +1,81 @@
+{
+  "id": 1796639627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.41667,6.41667,3.41667,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":3.41667,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25008.0",
+    "gn:asciiname":"Inupa",
+    "gn:cc2":"NG",
+    "gn:country_code":"NG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2337473,
+    "gn:latitude":6.41667,
+    "gn:longitude":3.41667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Inupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.39667,6.39667,3.43667,6.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Inupa Kekere",
+        "Inupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2337473
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"cb54fd4241387764a6f8129c283c0638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796639627,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796639627,
+    "wof:lastmodified":1669187897,
+    "wof:name":"Inupa",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243459021
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.41667,
+    6.41667,
+    3.41667,
+    6.41667
+],
+  "geometry": {"coordinates":[3.41667,6.41667],"type":"Point"}
+}

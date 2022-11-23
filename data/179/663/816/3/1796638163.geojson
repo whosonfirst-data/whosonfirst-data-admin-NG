@@ -1,0 +1,76 @@
+{
+  "id": 1796638163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.40729,6.43005,3.40729,6.43005",
+    "geom:latitude":6.43005,
+    "geom:longitude":3.40729,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25008.0",
+    "gn:asciiname":"Alasia",
+    "gn:country_code":"NG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350523,
+    "gn:latitude":6.43005,
+    "gn:longitude":3.40729,
+    "gn:modification_date":"2018-01-24",
+    "gn:name":"Alasia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.38729,6.41005,3.42729,6.45005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350523
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1b12761bec3ef603904806fb547b6d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796638163,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796638163,
+    "wof:lastmodified":1669187318,
+    "wof:name":"Alasia",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209608191
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.40729,
+    6.43005,
+    3.40729,
+    6.43005
+],
+  "geometry": {"coordinates":[3.40729,6.43005],"type":"Point"}
+}

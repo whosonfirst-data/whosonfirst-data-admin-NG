@@ -1,0 +1,76 @@
+{
+  "id": 1796638157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.95637,5.99562,6.95637,5.99562",
+    "geom:latitude":5.99562,
+    "geom:longitude":6.95637,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4015.0",
+    "gn:asciiname":"Otolo",
+    "gn:country_code":"NG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098528,
+    "gn:latitude":5.99562,
+    "gn:longitude":6.95637,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Otolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.93637,5.97562,6.97637,6.01562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890452743,
+        1108564049,
+        85675375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098528
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0346393e83cd5cf6d58adc189aae13b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564049,
+            "locality_id":890452743,
+            "neighbourhood_id":1796638157,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1796638157,
+    "wof:lastmodified":1669187315,
+    "wof:name":"Otolo",
+    "wof:parent_id":890452743,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209670255
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.95637,
+    5.99562,
+    6.95637,
+    5.99562
+],
+  "geometry": {"coordinates":[6.95637,5.99562],"type":"Point"}
+}

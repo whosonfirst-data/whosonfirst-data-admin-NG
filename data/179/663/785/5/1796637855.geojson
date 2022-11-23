@@ -1,0 +1,76 @@
+{
+  "id": 1796637855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.06015,4.78525,7.06015,4.78525",
+    "geom:latitude":4.78525,
+    "geom:longitude":7.06015,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33022.0",
+    "gn:asciiname":"Okoro",
+    "gn:country_code":"NG",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327035,
+    "gn:latitude":4.78525,
+    "gn:longitude":7.06015,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.04015,4.76525,7.08015,4.80525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421180027,
+        1108564283,
+        85675317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327035
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1307636707bbdc5976388ff90f2bfb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564283,
+            "locality_id":421180027,
+            "neighbourhood_id":1796637855,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1796637855,
+    "wof:lastmodified":1669187196,
+    "wof:name":"Okoro",
+    "wof:parent_id":421180027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276904299
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.06015,
+    4.78525,
+    7.06015,
+    4.78525
+],
+  "geometry": {"coordinates":[7.06015,4.78525],"type":"Point"}
+}

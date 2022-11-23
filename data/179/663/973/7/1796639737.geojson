@@ -1,0 +1,75 @@
+{
+  "id": 1796639737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.27083,6.675,3.27083,6.675",
+    "geom:latitude":6.675,
+    "geom:longitude":3.27083,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Alagbado-Ile",
+    "gn:country_code":"NG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2350705,
+    "gn:latitude":6.675,
+    "gn:longitude":3.27083,
+    "gn:modification_date":"1995-06-14",
+    "gn:name":"Alagbado-Ile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.25083,6.655,3.29083,6.695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195263,
+        1108562995,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2350705
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f54e94d2863f521d42650f808b27d137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562995,
+            "locality_id":421195263,
+            "neighbourhood_id":1796639737,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796639737,
+    "wof:lastmodified":1669187943,
+    "wof:name":"Alagbado-Ile",
+    "wof:parent_id":421195263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259647397
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.27083,
+    6.675,
+    3.27083,
+    6.675
+],
+  "geometry": {"coordinates":[3.27083,6.675],"type":"Point"}
+}

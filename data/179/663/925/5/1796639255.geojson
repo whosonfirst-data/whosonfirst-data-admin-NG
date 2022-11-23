@@ -1,0 +1,76 @@
+{
+  "id": 1796639255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.18333,7.6,4.18333,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":4.18333,
+    "gn:country":"NG",
+    "gn:fcode":"PPL",
+    "gn:population":95002,
+    "iso:country":"NG",
+    "lbl:bbox":"4.16333,7.58,4.20333,7.62",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
+        "Olupono"
+    ],
+    "qs:name":"Olupona",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195915,
+        1108563707,
+        85675367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326302,
+        "qs_pg:id":91252
+    },
+    "wof:country":"NG",
+    "wof:created":1469052781,
+    "wof:geomhash":"ea07ae8083e5ebe2b1ff4bbd52398f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563707,
+            "locality_id":421195915,
+            "neighbourhood_id":1796639255,
+            "region_id":85675367
+        }
+    ],
+    "wof:id":1796639255,
+    "wof:lastmodified":1669187749,
+    "wof:name":"Olupona",
+    "wof:parent_id":421195915,
+    "wof:placetype":"neighbourhood",
+    "wof:population":95002,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890451473
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.18333,
+    7.6,
+    4.18333,
+    7.6
+],
+  "geometry": {"coordinates":[4.18333,7.6],"type":"Point"}
+}

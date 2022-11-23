@@ -1,0 +1,80 @@
+{
+  "id": 1796638703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.87081,9.87503,8.87081,9.87503",
+    "geom:latitude":9.87503,
+    "geom:longitude":8.87081,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005.0",
+    "gn:asciiname":"Anglo-Jos",
+    "gn:country_code":"NG",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349898,
+    "gn:latitude":9.87503,
+    "gn:longitude":8.87081,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anglo-Jos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.85081,9.85503,8.89081,9.89503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Anglo Jos",
+        "Anglojos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189729,
+        1108563731,
+        85675411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349898
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7f01b78486f2ffc47286a90d71664597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563731,
+            "locality_id":421189729,
+            "neighbourhood_id":1796638703,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1796638703,
+    "wof:lastmodified":1669187531,
+    "wof:name":"Anglo-Jos",
+    "wof:parent_id":421189729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310138851
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.87081,
+    9.87503,
+    8.87081,
+    9.87503
+],
+  "geometry": {"coordinates":[8.87081,9.87503],"type":"Point"}
+}

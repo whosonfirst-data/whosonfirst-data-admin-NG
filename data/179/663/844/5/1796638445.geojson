@@ -1,0 +1,82 @@
+{
+  "id": 1796638445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7397,5.56912,5.7397,5.56912",
+    "geom:latitude":5.56912,
+    "geom:longitude":5.7397,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10022.0",
+    "gn:asciiname":"Ekpan",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028002,
+    "gn:latitude":5.56912,
+    "gn:longitude":5.7397,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ekpan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.7197,5.54912,5.7597,5.58912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ekpan"
+    ],
+    "name:eng_x_variant":[
+        "Tori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421199457,
+        1108564503,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028002
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d68fa4af3b722cf51a9afe255d3e7c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":421199457,
+            "neighbourhood_id":1796638445,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796638445,
+    "wof:lastmodified":1669187429,
+    "wof:name":"Ekpan",
+    "wof:parent_id":421199457,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193180249
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7397,
+    5.56912,
+    5.7397,
+    5.56912
+],
+  "geometry": {"coordinates":[5.7397,5.56912],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796639609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.49159,6.35827,7.49159,6.35827",
+    "geom:latitude":6.35827,
+    "geom:longitude":7.49159,
+    "gn:admin1_code":"47.0",
+    "gn:admin2_code":"14012.0",
+    "gn:asciiname":"Atugbuoma",
+    "gn:country_code":"NG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2348913,
+    "gn:latitude":6.35827,
+    "gn:longitude":7.49159,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Atugbuoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.47159,6.33827,7.51159,6.37827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890453179,
+        421186467,
+        85675395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2348913
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5a1aaf1a8fb0eff274f7b49e86527e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421186467,
+            "locality_id":890453179,
+            "neighbourhood_id":1796639609,
+            "region_id":85675395
+        }
+    ],
+    "wof:id":1796639609,
+    "wof:lastmodified":1669187890,
+    "wof:name":"Atugbuoma",
+    "wof:parent_id":890453179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243291515
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.49159,
+    6.35827,
+    7.49159,
+    6.35827
+],
+  "geometry": {"coordinates":[7.49159,6.35827],"type":"Point"}
+}

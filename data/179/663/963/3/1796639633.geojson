@@ -1,0 +1,82 @@
+{
+  "id": 1796639633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3572,6.63769,3.3572,6.63769",
+    "geom:latitude":6.63769,
+    "geom:longitude":3.3572,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25011.0",
+    "gn:asciiname":"Omole",
+    "gn:country_code":"NG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566692,
+    "gn:latitude":6.63769,
+    "gn:longitude":3.3572,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Omole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.3372,6.61769,3.3772,6.65769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ojodu"
+    ],
+    "name:eng_x_variant":[
+        "Omole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195263,
+        1108562995,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566692
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"79bd42a2aab49e7ad1ad6850e64d3487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562995,
+            "locality_id":421195263,
+            "neighbourhood_id":1796639633,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796639633,
+    "wof:lastmodified":1669187900,
+    "wof:name":"Ojodu",
+    "wof:parent_id":421195263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243176611
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3572,
+    6.63769,
+    3.3572,
+    6.63769
+],
+  "geometry": {"coordinates":[3.3572,6.63769],"type":"Point"}
+}

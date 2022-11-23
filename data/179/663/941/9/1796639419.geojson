@@ -1,0 +1,76 @@
+{
+  "id": 1796639419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.42909,6.79898,3.42909,6.79898",
+    "geom:latitude":6.79898,
+    "geom:longitude":3.42909,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28015.0",
+    "gn:asciiname":"Ogunrun-Ori",
+    "gn:country_code":"NG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826330,
+    "gn:latitude":6.79898,
+    "gn:longitude":3.42909,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogunrun-Ori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.40909,6.77898,3.44909,6.81898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1276197559,
+        421188931,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826330
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"28cc94e08bb5775af6287b24bc4c3a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421188931,
+            "locality_id":1276197559,
+            "neighbourhood_id":1796639419,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796639419,
+    "wof:lastmodified":1669187814,
+    "wof:name":"Ogunrun-Ori",
+    "wof:parent_id":1276197559,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243154041
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.42909,
+    6.79898,
+    3.42909,
+    6.79898
+],
+  "geometry": {"coordinates":[3.42909,6.79898],"type":"Point"}
+}

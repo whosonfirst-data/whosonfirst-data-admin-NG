@@ -1,0 +1,61 @@
+{
+  "id": 1796635801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000442,
+    "geom:bbox":"3.366761,6.409146,3.394135,6.43547",
+    "geom:latitude":6.424475,
+    "geom:longitude":3.379746,
+    "iso:country":"NG",
+    "lbl:latitude":6.424473,
+    "lbl:longitude":3.379485,
+    "mps:latitude":6.424473,
+    "mps:longitude":3.379485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Marina"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:country":"NG",
+    "wof:geomhash":"d484ce134993ffc777f98538ee1b6211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796635801,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796635801,
+    "wof:lastmodified":1669184814,
+    "wof:name":"Marina",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.366761,
+    6.409146,
+    3.394135,
+    6.43547
+],
+  "geometry": {"coordinates":[[[3.373309,6.409146],[3.369464,6.421849],[3.366761,6.430777],[3.372947,6.432978],[3.378839,6.434971],[3.381472,6.43547],[3.384815,6.435179],[3.394135,6.432147],[3.392489,6.427515],[3.391507,6.423695],[3.389585,6.421094],[3.383656,6.415567],[3.377971,6.411097],[3.373309,6.409146]]],"type":"Polygon"}
+}

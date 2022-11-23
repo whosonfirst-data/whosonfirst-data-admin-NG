@@ -1,0 +1,76 @@
+{
+  "id": 1796637873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.90083,4.99735,7.90083,4.99735",
+    "geom:latitude":4.99735,
+    "geom:longitude":7.90083,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"3009.0",
+    "gn:asciiname":"Mbiere Ebe",
+    "gn:country_code":"NG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7055431,
+    "gn:latitude":4.99735,
+    "gn:longitude":7.90083,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mbiere Ebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.88083,4.97735,7.92083,5.01735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890440285,
+        1108564483,
+        85675309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7055431
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"286f86e731c97486ae1ee0d9ffb373f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564483,
+            "locality_id":890440285,
+            "neighbourhood_id":1796637873,
+            "region_id":85675309
+        }
+    ],
+    "wof:id":1796637873,
+    "wof:lastmodified":1669187203,
+    "wof:name":"Mbiere Ebe",
+    "wof:parent_id":890440285,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276628889
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.90083,
+    4.99735,
+    7.90083,
+    4.99735
+],
+  "geometry": {"coordinates":[7.90083,4.99735],"type":"Point"}
+}

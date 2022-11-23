@@ -1,0 +1,81 @@
+{
+  "id": 1796640071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.40976,6.57667,3.40976,6.57667",
+    "geom:latitude":6.57667,
+    "geom:longitude":3.40976,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25013.0",
+    "gn:asciiname":"Oruba",
+    "gn:country_code":"NG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2325655,
+    "gn:latitude":6.57667,
+    "gn:longitude":3.40976,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oruba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.38976,6.55667,3.42976,6.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Agboyi",
+        "Oruba Agboyi",
+        "Oruba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195263,
+        1108562995,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2325655
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"62f6a1a3aac73b1e043b29d3c192229e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562995,
+            "locality_id":421195263,
+            "neighbourhood_id":1796640071,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796640071,
+    "wof:lastmodified":1669188076,
+    "wof:name":"Oruba",
+    "wof:parent_id":421195263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226038121
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.40976,
+    6.57667,
+    3.40976,
+    6.57667
+],
+  "geometry": {"coordinates":[3.40976,6.57667],"type":"Point"}
+}

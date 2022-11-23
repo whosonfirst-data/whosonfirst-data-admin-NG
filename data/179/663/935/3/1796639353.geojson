@@ -1,0 +1,77 @@
+{
+  "id": 1796639353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08943,11.88287,13.08943,11.88287",
+    "geom:latitude":11.88287,
+    "geom:longitude":13.08943,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"124.0",
+    "gn:admin3_code":"12401",
+    "gn:asciiname":"Bolori",
+    "gn:country_code":"NG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2346853,
+    "gn:latitude":11.88287,
+    "gn:longitude":13.08943,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bolori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"13.06943,11.86287,13.10943,11.90287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421168975,
+        1108563923,
+        85675301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2346853
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"85a297ca842257d5080bfcec6c86f679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563923,
+            "locality_id":421168975,
+            "neighbourhood_id":1796639353,
+            "region_id":85675301
+        }
+    ],
+    "wof:id":1796639353,
+    "wof:lastmodified":1669187788,
+    "wof:name":"Bolori",
+    "wof:parent_id":421168975,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242920923
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08943,
+    11.88287,
+    13.08943,
+    11.88287
+],
+  "geometry": {"coordinates":[13.08943,11.88287],"type":"Point"}
+}

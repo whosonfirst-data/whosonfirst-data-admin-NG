@@ -1,0 +1,79 @@
+{
+  "id": 1796640157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73506,5.54192,5.73506,5.54192",
+    "geom:latitude":5.54192,
+    "geom:longitude":5.73506,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Ejeba",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028003,
+    "gn:latitude":5.54192,
+    "gn:longitude":5.73506,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ejeba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.71506,5.52192,5.75506,5.56192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ejeba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421199457,
+        1108564503,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028003
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"380b50288cdc02316a260f87f3f0e979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":421199457,
+            "neighbourhood_id":1796640157,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796640157,
+    "wof:lastmodified":1669188110,
+    "wof:name":"Ejeba",
+    "wof:parent_id":421199457,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225997607
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73506,
+    5.54192,
+    5.73506,
+    5.54192
+],
+  "geometry": {"coordinates":[5.73506,5.54192],"type":"Point"}
+}

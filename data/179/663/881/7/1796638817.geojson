@@ -1,0 +1,86 @@
+{
+  "id": 1796638817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.86343,6.15209,6.86343,6.15209",
+    "geom:latitude":6.15209,
+    "geom:longitude":6.86343,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"4010.0",
+    "gn:asciiname":"Ogidi",
+    "gn:country_code":"NG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2327689,
+    "gn:latitude":6.15209,
+    "gn:longitude":6.86343,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ogidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.84343,6.13209,6.88343,6.17209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ogid"
+    ],
+    "name:eng_x_variant":[
+        "Ogidi"
+    ],
+    "name:por_x_preferred":[
+        "Ogidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890429919,
+        1108564193,
+        85675375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327689,
+        "wk:page":"Ogidi%2C_Anambra"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"61db944146c3b9d754ddc6dacbf355a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564193,
+            "locality_id":890429919,
+            "neighbourhood_id":1796638817,
+            "region_id":85675375
+        }
+    ],
+    "wof:id":1796638817,
+    "wof:lastmodified":1669187576,
+    "wof:name":"Ogidi",
+    "wof:parent_id":890429919,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310456927
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.86343,
+    6.15209,
+    6.86343,
+    6.15209
+],
+  "geometry": {"coordinates":[6.86343,6.15209],"type":"Point"}
+}

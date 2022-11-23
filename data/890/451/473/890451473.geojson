@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2022-11-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "name:und_x_variant":[
         "Olupono"
@@ -51,14 +52,16 @@
         }
     ],
     "wof:id":890451473,
-    "wof:lastmodified":1566654482,
+    "wof:lastmodified":1669188216,
     "wof:name":"Olupona",
     "wof:parent_id":1108562953,
     "wof:placetype":"locality",
     "wof:population":95002,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ng",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1796639255
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

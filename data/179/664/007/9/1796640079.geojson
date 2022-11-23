@@ -1,0 +1,79 @@
+{
+  "id": 1796640079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48295,9.17196,12.48295,9.17196",
+    "geom:latitude":9.17196,
+    "geom:longitude":12.48295,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"2020.0",
+    "gn:asciiname":"Lakare",
+    "gn:country_code":"NG",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332407,
+    "gn:latitude":9.17196,
+    "gn:longitude":12.48295,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Lakare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"12.46295,9.15196,12.50295,9.19196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Lakare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1141908897,
+        1108564541,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332407
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"3f942a6be040258118f2008516dff8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1141908897,
+            "neighbourhood_id":1796640079,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796640079,
+    "wof:lastmodified":1669188079,
+    "wof:name":"Lakare",
+    "wof:parent_id":1141908897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226597795
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48295,
+    9.17196,
+    12.48295,
+    9.17196
+],
+  "geometry": {"coordinates":[12.48295,9.17196],"type":"Point"}
+}

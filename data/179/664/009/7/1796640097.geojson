@@ -1,0 +1,91 @@
+{
+  "id": 1796640097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.32426,6.68728,6.32426,6.68728",
+    "geom:latitude":6.68728,
+    "geom:longitude":6.32426,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12003",
+    "gn:asciiname":"Idi",
+    "gn:country_code":"NG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646616,
+    "gn:latitude":6.68728,
+    "gn:longitude":6.32426,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.30426,6.66728,6.34426,6.70728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Idi"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03b4\u03b7"
+    ],
+    "name:fin_x_preferred":[
+        "Idi"
+    ],
+    "name:fra_x_preferred":[
+        "Idi"
+    ],
+    "name:swe_x_preferred":[
+        "Idi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125987989,
+        1108563317,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646616
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4a01a60fcd6ff6daec0566434f468282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563317,
+            "locality_id":1125987989,
+            "neighbourhood_id":1796640097,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796640097,
+    "wof:lastmodified":1669188086,
+    "wof:name":"Idi",
+    "wof:parent_id":1125987989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226685111
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.32426,
+    6.68728,
+    6.32426,
+    6.68728
+],
+  "geometry": {"coordinates":[6.32426,6.68728],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1796638801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.63558,6.47102,3.63558,6.47102",
+    "geom:latitude":6.47102,
+    "geom:longitude":3.63558,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25008.0",
+    "gn:asciiname":"Sangotedo",
+    "gn:country_code":"NG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2323727,
+    "gn:latitude":6.47102,
+    "gn:longitude":3.63558,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sangotedo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.61558,6.45102,3.65558,6.49102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Shangotedo",
+        "Sangotedo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2323727
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"69b396c22914f03e291aafcf66e30c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796638801,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796638801,
+    "wof:lastmodified":1669187570,
+    "wof:name":"Sangotedo",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310398653
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.63558,
+    6.47102,
+    3.63558,
+    6.47102
+],
+  "geometry": {"coordinates":[3.63558,6.47102],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796638551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.29721,4.92866,6.29721,4.92866",
+    "geom:latitude":4.92866,
+    "geom:longitude":6.29721,
+    "gn:admin1_code":"52.0",
+    "gn:admin2_code":"6008.0",
+    "gn:asciiname":"Ekeke",
+    "gn:country_code":"NG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343734,
+    "gn:latitude":4.92866,
+    "gn:longitude":6.29721,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ekeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.27721,4.90866,6.31721,4.94866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890429561,
+        1108564539,
+        85675321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343734
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4084cb9879b45a8540443cfaded4b3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564539,
+            "locality_id":890429561,
+            "neighbourhood_id":1796638551,
+            "region_id":85675321
+        }
+    ],
+    "wof:id":1796638551,
+    "wof:lastmodified":1669187471,
+    "wof:name":"Ekeke",
+    "wof:parent_id":890429561,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260007941
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.29721,
+    4.92866,
+    6.29721,
+    4.92866
+],
+  "geometry": {"coordinates":[6.29721,4.92866],"type":"Point"}
+}

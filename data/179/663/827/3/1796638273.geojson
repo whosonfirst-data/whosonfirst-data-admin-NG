@@ -1,0 +1,103 @@
+{
+  "id": 1796638273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.82556,7.505,3.82556,7.505",
+    "geom:latitude":7.505,
+    "geom:longitude":3.82556,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Lamini",
+    "gn:country_code":"NG",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2332331,
+    "gn:latitude":7.505,
+    "gn:longitude":3.82556,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Lamini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.80556,7.485,3.84556,7.525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0645\u0627\u0648\u064a\u0629"
+    ],
+    "name:fry_x_preferred":[
+        "Lama-eftigen"
+    ],
+    "name:hun_x_preferred":[
+        "Lamini"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub9c8\uc871"
+    ],
+    "name:lav_x_preferred":[
+        "Lamu cilts"
+    ],
+    "name:nno_x_preferred":[
+        "Lamadyr"
+    ],
+    "name:nor_x_preferred":[
+        "Lamadyr"
+    ],
+    "name:spa_x_preferred":[
+        "Lamini"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u6d32\u9a7c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2332331
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ea8aaadce2e5961536dbad52234040b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796638273,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796638273,
+    "wof:lastmodified":1669187362,
+    "wof:name":"Lamini",
+    "wof:parent_id":1125988111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209173585
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.82556,
+    7.505,
+    3.82556,
+    7.505
+],
+  "geometry": {"coordinates":[3.82556,7.505],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1796635829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000252,
+    "geom:bbox":"3.224131,6.402365,3.247348,6.41647",
+    "geom:latitude":6.408388,
+    "geom:longitude":3.237037,
+    "iso:country":"NG",
+    "lbl:latitude":6.409205,
+    "lbl:longitude":3.237977,
+    "mps:latitude":6.409205,
+    "mps:longitude":3.237977,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "name:eng_x_preferred":[
+        "Beshi"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437281,
+        1108562957,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:country":"NG",
+    "wof:geomhash":"f06c9acbbae3046fbb4b4554d5e22ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562957,
+            "locality_id":890437281,
+            "neighbourhood_id":1796635829,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796635829,
+    "wof:lastmodified":1669184816,
+    "wof:name":"Beshi",
+    "wof:parent_id":890437281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.224131,
+    6.402365,
+    3.247348,
+    6.41647
+],
+  "geometry": {"coordinates":[[[3.224489,6.402393],[3.224458,6.404421],[3.224417,6.406443],[3.224131,6.40757],[3.224131,6.40757],[3.226053,6.407977],[3.226666,6.408343],[3.227852,6.40944],[3.23096,6.412691],[3.234027,6.414601],[3.237299,6.415901],[3.240325,6.41647],[3.244894,6.416025],[3.245957,6.413505],[3.247348,6.412072],[3.246766,6.406534],[3.246603,6.402365],[3.246603,6.402365],[3.231025,6.402393],[3.224489,6.402393]]],"type":"Polygon"}
+}

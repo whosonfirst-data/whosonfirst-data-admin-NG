@@ -1,0 +1,79 @@
+{
+  "id": 1796640265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.75264,5.54147,5.75264,5.54147",
+    "geom:latitude":5.54147,
+    "geom:longitude":5.75264,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10024.0",
+    "gn:asciiname":"Ugboroke",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028001,
+    "gn:latitude":5.54147,
+    "gn:longitude":5.75264,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ugboroke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.73264,5.52147,5.77264,5.56147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ugboroke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421199457,
+        1108564503,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028001
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"a383b5ad0108e3416dd6086a5eaa2ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564503,
+            "locality_id":421199457,
+            "neighbourhood_id":1796640265,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796640265,
+    "wof:lastmodified":1669188153,
+    "wof:name":"Ugboroke",
+    "wof:parent_id":421199457,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226485245
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.75264,
+    5.54147,
+    5.75264,
+    5.54147
+],
+  "geometry": {"coordinates":[5.75264,5.54147],"type":"Point"}
+}

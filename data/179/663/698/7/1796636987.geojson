@@ -1,0 +1,76 @@
+{
+  "id": 1796636987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.38333,7.21667,3.38333,7.21667",
+    "geom:latitude":7.21667,
+    "geom:longitude":3.38333,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28016.0",
+    "gn:asciiname":"Apete",
+    "gn:country_code":"NG",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2349585,
+    "gn:latitude":7.21667,
+    "gn:longitude":3.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Apete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.36333,7.19667,3.40333,7.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890435377,
+        1108562907,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2349585
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"0c732b5fd3ef6a7b1c7abd5fe814b913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562907,
+            "locality_id":890435377,
+            "neighbourhood_id":1796636987,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796636987,
+    "wof:lastmodified":1669186848,
+    "wof:name":"Apete",
+    "wof:parent_id":890435377,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343343385
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.38333,
+    7.21667,
+    3.38333,
+    7.21667
+],
+  "geometry": {"coordinates":[3.38333,7.21667],"type":"Point"}
+}

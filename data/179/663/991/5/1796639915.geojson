@@ -1,0 +1,78 @@
+{
+  "id": 1796639915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48356,9.18454,12.48356,9.18454",
+    "geom:latitude":9.18454,
+    "geom:longitude":12.48356,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Lelewalje",
+    "gn:country_code":"NG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189726,
+    "gn:latitude":9.18454,
+    "gn:longitude":12.48356,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Lelewalje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"12.46356,9.16454,12.50356,9.20454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Lelewalje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1141908897,
+        1108564541,
+        85675451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189726
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"67053774b2d67dbee4330ad1a003018c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564541,
+            "locality_id":1141908897,
+            "neighbourhood_id":1796639915,
+            "region_id":85675451
+        }
+    ],
+    "wof:id":1796639915,
+    "wof:lastmodified":1669188014,
+    "wof:name":"Lelewalje",
+    "wof:parent_id":1141908897,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259436209
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48356,
+    9.18454,
+    12.48356,
+    9.18454
+],
+  "geometry": {"coordinates":[12.48356,9.18454],"type":"Point"}
+}

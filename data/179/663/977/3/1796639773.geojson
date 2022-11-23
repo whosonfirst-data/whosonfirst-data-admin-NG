@@ -1,0 +1,80 @@
+{
+  "id": 1796639773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.37474,6.68146,3.37474,6.68146",
+    "geom:latitude":6.68146,
+    "geom:longitude":3.37474,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28007.0",
+    "gn:asciiname":"Aketu-Oja",
+    "gn:country_code":"NG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566715,
+    "gn:latitude":6.68146,
+    "gn:longitude":3.37474,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Aketu-Oja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.35474,6.66146,3.39474,6.70146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Akute-Oja",
+        "Aketu-Oja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1796635849,
+        1108562921,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566715
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2ff9357bbd54245f3b32a8bf1e24e34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562921,
+            "locality_id":1796635849,
+            "neighbourhood_id":1796639773,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796639773,
+    "wof:lastmodified":1669187958,
+    "wof:name":"Aketu-Oja",
+    "wof:parent_id":1796635849,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259465003
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.37474,
+    6.68146,
+    3.37474,
+    6.68146
+],
+  "geometry": {"coordinates":[3.37474,6.68146],"type":"Point"}
+}

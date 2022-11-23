@@ -1,0 +1,76 @@
+{
+  "id": 1796636573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.84905,9.88574,8.84905,9.88574",
+    "geom:latitude":9.88574,
+    "geom:longitude":8.84905,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005",
+    "gn:asciiname":"Honeymoon Cottage",
+    "gn:country_code":"NG",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9085300,
+    "gn:latitude":9.88574,
+    "gn:longitude":8.84905,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Honeymoon Cottage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.82905,9.86574,8.86905,9.90574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189729,
+        1108563731,
+        85675411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9085300
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"f76eb396e02c6c6d11fe5641b9805933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563731,
+            "locality_id":421189729,
+            "neighbourhood_id":1796636573,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1796636573,
+    "wof:lastmodified":1669186684,
+    "wof:name":"Honeymoon Cottage",
+    "wof:parent_id":421189729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326461503
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.84905,
+    9.88574,
+    8.84905,
+    9.88574
+],
+  "geometry": {"coordinates":[8.84905,9.88574],"type":"Point"}
+}

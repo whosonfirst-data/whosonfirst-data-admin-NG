@@ -1,0 +1,76 @@
+{
+  "id": 1796640091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.63323,6.29285,5.63323,6.29285",
+    "geom:latitude":6.29285,
+    "geom:longitude":5.63323,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12011.0",
+    "gn:asciiname":"Etete",
+    "gn:country_code":"NG",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2343063,
+    "gn:latitude":6.29285,
+    "gn:longitude":5.63323,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Etete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"5.61323,6.27285,5.65323,6.31285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189725,
+        1108563609,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2343063
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"6c93e3224f742086759c33ee46ee8519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563609,
+            "locality_id":421189725,
+            "neighbourhood_id":1796640091,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796640091,
+    "wof:lastmodified":1669188084,
+    "wof:name":"Etete",
+    "wof:parent_id":421189725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226688753
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.63323,
+    6.29285,
+    5.63323,
+    6.29285
+],
+  "geometry": {"coordinates":[5.63323,6.29285],"type":"Point"}
+}

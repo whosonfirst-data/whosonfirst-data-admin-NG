@@ -1,0 +1,79 @@
+{
+  "id": 1796636419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.0822,6.75097,6.0822,6.75097",
+    "geom:latitude":6.75097,
+    "geom:longitude":6.0822,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"12006.0",
+    "gn:asciiname":"Ujemem",
+    "gn:country_code":"NG",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081147,
+    "gn:latitude":6.75097,
+    "gn:longitude":6.0822,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ujemem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.0622,6.73097,6.1022,6.77097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ujemem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421178833,
+        1108563321,
+        85675391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081147
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"4008c613c40ba13c7c9e58f33ff95831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563321,
+            "locality_id":421178833,
+            "neighbourhood_id":1796636419,
+            "region_id":85675391
+        }
+    ],
+    "wof:id":1796636419,
+    "wof:lastmodified":1669186624,
+    "wof:name":"Ujemem",
+    "wof:parent_id":421178833,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326581283
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0822,
+    6.75097,
+    6.0822,
+    6.75097
+],
+  "geometry": {"coordinates":[6.0822,6.75097],"type":"Point"}
+}

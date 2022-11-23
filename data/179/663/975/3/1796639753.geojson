@@ -1,0 +1,76 @@
+{
+  "id": 1796639753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.28583,6.59528,3.28583,6.59528",
+    "geom:latitude":6.59528,
+    "geom:longitude":3.28583,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25003.0",
+    "gn:asciiname":"Okunola",
+    "gn:country_code":"NG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326838,
+    "gn:latitude":6.59528,
+    "gn:longitude":3.28583,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okunola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.26583,6.57528,3.30583,6.61528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195263,
+        1108562995,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326838
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"21040e746fd9251ecc66a4de97cccc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562995,
+            "locality_id":421195263,
+            "neighbourhood_id":1796639753,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796639753,
+    "wof:lastmodified":1669187950,
+    "wof:name":"Okunola",
+    "wof:parent_id":421195263,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259481725
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28583,
+    6.59528,
+    3.28583,
+    6.59528
+],
+  "geometry": {"coordinates":[3.28583,6.59528],"type":"Point"}
+}

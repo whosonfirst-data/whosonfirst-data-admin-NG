@@ -1,0 +1,103 @@
+{
+  "id": 1796637703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.56167,9.01167,7.56167,9.01167",
+    "geom:latitude":9.01167,
+    "geom:longitude":7.56167,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"15006.0",
+    "gn:asciiname":"Boi",
+    "gn:country_code":"NG",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2590357,
+    "gn:latitude":9.01167,
+    "gn:longitude":7.56167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Boi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"7.54167,8.99167,7.58167,9.03167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Boi"
+    ],
+    "name:deu_x_preferred":[
+        "Boi"
+    ],
+    "name:fin_x_preferred":[
+        "Boi"
+    ],
+    "name:glg_x_preferred":[
+        "Boi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d9"
+    ],
+    "name:ind_x_preferred":[
+        "Boi"
+    ],
+    "name:por_x_preferred":[
+        "Boi"
+    ],
+    "name:ron_x_preferred":[
+        "Boi"
+    ],
+    "name:swe_x_preferred":[
+        "Boi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890437283,
+        421178395,
+        85675457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2590357
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"30fc915d30bb1327dc64644440a3c620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":421178395,
+            "locality_id":890437283,
+            "neighbourhood_id":1796637703,
+            "region_id":85675457
+        }
+    ],
+    "wof:id":1796637703,
+    "wof:lastmodified":1669187136,
+    "wof:name":"Boi",
+    "wof:parent_id":890437283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277157535
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.56167,
+    9.01167,
+    7.56167,
+    9.01167
+],
+  "geometry": {"coordinates":[7.56167,9.01167],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1796638721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0936,6.68716,3.0936,6.68716",
+    "geom:latitude":6.68716,
+    "geom:longitude":3.0936,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"28003.0",
+    "gn:asciiname":"Ilewo-Wasimi",
+    "gn:country_code":"NG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826285,
+    "gn:latitude":6.68716,
+    "gn:longitude":3.0936,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ilewo-Wasimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.0736,6.66716,3.1136,6.70716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1193100863,
+        1108562921,
+        85675353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826285
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5d2d55fba9a718ee0fa8c72e4ec1fa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108562921,
+            "locality_id":1193100863,
+            "neighbourhood_id":1796638721,
+            "region_id":85675353
+        }
+    ],
+    "wof:id":1796638721,
+    "wof:lastmodified":1669187538,
+    "wof:name":"Ilewo-Wasimi",
+    "wof:parent_id":1193100863,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310473571
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0936,
+    6.68716,
+    3.0936,
+    6.68716
+],
+  "geometry": {"coordinates":[3.0936,6.68716],"type":"Point"}
+}

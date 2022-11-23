@@ -1,0 +1,76 @@
+{
+  "id": 1796638101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01174,4.79071,7.01174,4.79071",
+    "geom:latitude":4.79071,
+    "geom:longitude":7.01174,
+    "gn:admin1_code":"50.0",
+    "gn:admin2_code":"33022.0",
+    "gn:asciiname":"Orogbum",
+    "gn:country_code":"NG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591746,
+    "gn:latitude":4.79071,
+    "gn:longitude":7.01174,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Orogbum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.99174,4.77071,7.03174,4.81071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421180027,
+        1108564283,
+        85675317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591746
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"ee235b8a60ac2864322b8468261e52ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564283,
+            "locality_id":421180027,
+            "neighbourhood_id":1796638101,
+            "region_id":85675317
+        }
+    ],
+    "wof:id":1796638101,
+    "wof:lastmodified":1669187293,
+    "wof:name":"Orogbum",
+    "wof:parent_id":421180027,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209138847
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01174,
+    4.79071,
+    7.01174,
+    4.79071
+],
+  "geometry": {"coordinates":[7.01174,4.79071],"type":"Point"}
+}

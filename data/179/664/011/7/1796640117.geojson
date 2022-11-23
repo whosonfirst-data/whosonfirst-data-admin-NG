@@ -1,0 +1,79 @@
+{
+  "id": 1796640117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.96,7.53056,3.96,7.53056",
+    "geom:latitude":7.53056,
+    "geom:longitude":3.96,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31002.0",
+    "gn:asciiname":"Salako",
+    "gn:country_code":"NG",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591659,
+    "gn:latitude":7.53056,
+    "gn:longitude":3.96,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Salako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.94,7.51056,3.98,7.55056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:fra_x_preferred":[
+        "Salako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591659
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"1458bcdce5595f747a15ea3e860b6fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796640117,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796640117,
+    "wof:lastmodified":1669188094,
+    "wof:name":"Salako",
+    "wof:parent_id":1125988111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226502059
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.96,
+    7.53056,
+    3.96,
+    7.53056
+],
+  "geometry": {"coordinates":[3.96,7.53056],"type":"Point"}
+}

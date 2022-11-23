@@ -1,0 +1,76 @@
+{
+  "id": 1796638947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.82889,7.43556,3.82889,7.43556",
+    "geom:latitude":7.43556,
+    "geom:longitude":3.82889,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"31014.0",
+    "gn:asciiname":"Idioro",
+    "gn:country_code":"NG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2339023,
+    "gn:latitude":7.43556,
+    "gn:longitude":3.82889,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Idioro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.80889,7.41556,3.84889,7.45556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1125988111,
+        1108563491,
+        85675371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2339023
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"72e4248178a96c860eb0fe7165e8567b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563491,
+            "locality_id":1125988111,
+            "neighbourhood_id":1796638947,
+            "region_id":85675371
+        }
+    ],
+    "wof:id":1796638947,
+    "wof:lastmodified":1669187627,
+    "wof:name":"Idioro",
+    "wof:parent_id":1125988111,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310561111
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.82889,
+    7.43556,
+    3.82889,
+    7.43556
+],
+  "geometry": {"coordinates":[3.82889,7.43556],"type":"Point"}
+}

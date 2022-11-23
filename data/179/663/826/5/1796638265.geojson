@@ -1,0 +1,79 @@
+{
+  "id": 1796638265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.64743,6.23712,6.64743,6.23712",
+    "geom:latitude":6.23712,
+    "geom:longitude":6.64743,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"10014.0",
+    "gn:asciiname":"Okpanam",
+    "gn:country_code":"NG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2326994,
+    "gn:latitude":6.23712,
+    "gn:longitude":6.64743,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Okpanam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"6.62743,6.21712,6.66743,6.25712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Okpanam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890444357,
+        1108564231,
+        85675387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2326994
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"d813cbb881139fa75dc7affe6f56cc06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564231,
+            "locality_id":890444357,
+            "neighbourhood_id":1796638265,
+            "region_id":85675387
+        }
+    ],
+    "wof:id":1796638265,
+    "wof:lastmodified":1669187358,
+    "wof:name":"Okpanam",
+    "wof:parent_id":890444357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209267447
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.64743,
+    6.23712,
+    6.64743,
+    6.23712
+],
+  "geometry": {"coordinates":[6.64743,6.23712],"type":"Point"}
+}

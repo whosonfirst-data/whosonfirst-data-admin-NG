@@ -1,0 +1,82 @@
+{
+  "id": 1796638799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.18329,6.46841,3.18329,6.46841",
+    "geom:latitude":6.46841,
+    "geom:longitude":3.18329,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25015.0",
+    "gn:asciiname":"Ojo",
+    "gn:country_code":"NG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2327384,
+    "gn:latitude":6.46841,
+    "gn:longitude":3.18329,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ojo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"3.16329,6.44841,3.20329,6.48841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Awjaw",
+        "Ojoh",
+        "Ojo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        1309938893,
+        1108564145,
+        85675343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2327384,
+        "wk:page":"Ojo%2C_Nigeria"
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"2f2fa6a8ed06b9f37e837c73a4deae4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108564145,
+            "locality_id":1309938893,
+            "neighbourhood_id":1796638799,
+            "region_id":85675343
+        }
+    ],
+    "wof:id":1796638799,
+    "wof:lastmodified":1669187569,
+    "wof:name":"Ojo",
+    "wof:parent_id":1309938893,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310398663
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.18329,
+    6.46841,
+    3.18329,
+    6.46841
+],
+  "geometry": {"coordinates":[3.18329,6.46841],"type":"Point"}
+}

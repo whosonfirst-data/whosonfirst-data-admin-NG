@@ -1,0 +1,76 @@
+{
+  "id": 1796639083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48333,8.43333,4.48333,8.43333",
+    "geom:latitude":8.43333,
+    "geom:longitude":4.48333,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"24001.0",
+    "gn:asciiname":"Obansunwa",
+    "gn:country_code":"NG",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2328344,
+    "gn:latitude":8.43333,
+    "gn:longitude":4.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obansunwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"4.46333,8.41333,4.50333,8.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        890434619,
+        1108563635,
+        85675339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2328344
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"afb4db1d3567181fede32b1dc6252c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563635,
+            "locality_id":890434619,
+            "neighbourhood_id":1796639083,
+            "region_id":85675339
+        }
+    ],
+    "wof:id":1796639083,
+    "wof:lastmodified":1669187681,
+    "wof:name":"Obansunwa",
+    "wof:parent_id":890434619,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360031119
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48333,
+    8.43333,
+    4.48333,
+    8.43333
+],
+  "geometry": {"coordinates":[4.48333,8.43333],"type":"Point"}
+}

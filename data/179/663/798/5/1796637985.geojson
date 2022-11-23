@@ -1,0 +1,76 @@
+{
+  "id": 1796637985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.90168,9.92764,8.90168,9.92764",
+    "geom:latitude":9.92764,
+    "geom:longitude":8.90168,
+    "gn:admin1_code":"49.0",
+    "gn:admin2_code":"32005",
+    "gn:asciiname":"Sabon Gwong",
+    "gn:country_code":"NG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9113211,
+    "gn:latitude":9.92764,
+    "gn:longitude":8.90168,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Sabon Gwong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.88168,9.90764,8.92168,9.94764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421189729,
+        1108563731,
+        85675411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9113211
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"5ac51f0bc2f21d4f2a5979990450dbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563731,
+            "locality_id":421189729,
+            "neighbourhood_id":1796637985,
+            "region_id":85675411
+        }
+    ],
+    "wof:id":1796637985,
+    "wof:lastmodified":1669187248,
+    "wof:name":"Sabon Gwong",
+    "wof:parent_id":421189729,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209644769
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.90168,
+    9.92764,
+    8.90168,
+    9.92764
+],
+  "geometry": {"coordinates":[8.90168,9.92764],"type":"Point"}
+}

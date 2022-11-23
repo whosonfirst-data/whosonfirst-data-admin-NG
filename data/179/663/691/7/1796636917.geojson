@@ -1,0 +1,76 @@
+{
+  "id": 1796636917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"8.54112,7.67417,8.54112,7.67417",
+    "geom:latitude":7.67417,
+    "geom:longitude":8.54112,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"7013.0",
+    "gn:asciiname":"Ajibaji",
+    "gn:country_code":"NG",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2351362,
+    "gn:latitude":7.67417,
+    "gn:longitude":8.54112,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ajibaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
+    "iso:country":"NG",
+    "lbl:bbox":"8.52112,7.65417,8.56112,7.69417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632735,
+        421195911,
+        1108563933,
+        85675325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2351362
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"7e5575c4da0b600b6a6192f8cb69efdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563933,
+            "locality_id":421195911,
+            "neighbourhood_id":1796636917,
+            "region_id":85675325
+        }
+    ],
+    "wof:id":1796636917,
+    "wof:lastmodified":1669186820,
+    "wof:name":"Ajibaji",
+    "wof:parent_id":421195911,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343615821
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    8.54112,
+    7.67417,
+    8.54112,
+    7.67417
+],
+  "geometry": {"coordinates":[8.54112,7.67417],"type":"Point"}
+}
