@@ -46,6 +46,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0997\u09cb\u09b8"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09c7\u0997\u09cb\u09b8"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
     ],
@@ -73,6 +76,9 @@
     "name:est_x_preferred":[
         "Lagose osariik"
     ],
+    "name:eus_x_preferred":[
+        "Lagos Estatua"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0644\u0627\u06af\u0648\u0633"
     ],
@@ -83,6 +89,15 @@
         "\u00c9tat de Lagos"
     ],
     "name:fra_x_variant":[
+        "Lagos"
+    ],
+    "name:frr_x_preferred":[
+        "Lagos"
+    ],
+    "name:ful_x_preferred":[
+        "Lagos"
+    ],
+    "name:gle_x_preferred":[
         "Lagos"
     ],
     "name:glg_x_preferred":[
@@ -116,10 +131,14 @@
         "\u30e9\u30b4\u30b9"
     ],
     "name:jpn_x_variant":[
-        "\u30ec\u30b4\u30b9\u5dde"
+        "\u30ec\u30b4\u30b9\u5dde",
+        "\u30e9\u30b4\u30b9\u5dde"
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0\u10d2\u10dd\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kcg_x_preferred":[
+        "Si\u0331tet Legwot"
     ],
     "name:kor_x_preferred":[
         "\ub77c\uace0\uc2a4"
@@ -129,6 +148,9 @@
     ],
     "name:lav_x_preferred":[
         "Lagosa"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0433\u043e\u0441"
     ],
     "name:mrj_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
@@ -142,6 +164,9 @@
     "name:nob_x_preferred":[
         "Lagos"
     ],
+    "name:pcm_x_preferred":[
+        "Lagos State"
+    ],
     "name:pol_x_preferred":[
         "Lagos"
     ],
@@ -153,6 +178,15 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u0433\u043e\u0441"
+    ],
+    "name:sme_x_preferred":[
+        "Lagos oassest\u00e1hta"
+    ],
+    "name:smn_x_preferred":[
+        "Lagos u\u00e1sistaat\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "Lagoozz vue\u02b9ssvaldia"
     ],
     "name:spa_x_preferred":[
         "Estado de Lagos"
@@ -184,8 +218,14 @@
     "name:vie_x_preferred":[
         "Lagos"
     ],
+    "name:war_x_preferred":[
+        "Lagos"
+    ],
     "name:yor_x_preferred":[
         "\u00c8k\u00f3"
+    ],
+    "name:yor_x_variant":[
+        "Lagos State"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5404\u65af"
@@ -321,7 +361,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1636502885,
+    "wof:lastmodified":1690848340,
     "wof:name":"Lagos",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

@@ -51,6 +51,9 @@
     "name:ces_x_variant":[
         "ruda"
     ],
+    "name:chv_x_preferred":[
+        "\u0422\u0103\u043f\u0440\u0430\u0432"
+    ],
     "name:dan_x_preferred":[
         "Malm"
     ],
@@ -84,6 +87,9 @@
     "name:fin_x_preferred":[
         "Malmi"
     ],
+    "name:fin_x_variant":[
+        "malmi"
+    ],
     "name:fra_x_preferred":[
         "Minerai"
     ],
@@ -108,8 +114,14 @@
     "name:hun_x_preferred":[
         "\u00c9rc"
     ],
+    "name:hun_x_variant":[
+        "\u00e9rc"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0576\u0584\u0561\u0576\u0575\u0578\u0582\u0569"
+    ],
+    "name:hye_x_variant":[
+        "\u0570\u0561\u0576\u0584\u0561\u0576\u0575\u0578\u0582\u0569"
     ],
     "name:ido_x_preferred":[
         "Erco"
@@ -129,8 +141,14 @@
     "name:ita_x_preferred":[
         "Minerale grezzo"
     ],
+    "name:ita_x_variant":[
+        "minerale grezzo"
+    ],
     "name:jpn_x_preferred":[
         "\u9271\u77f3"
+    ],
+    "name:kab_x_preferred":[
+        "Azara"
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0ca6\u0cbf\u0cb0\u0cc1"
@@ -167,6 +185,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0410\u0448\u0438\u0433\u0442 \u043c\u0430\u043b\u0442\u043c\u0430\u043b\u044b\u043d \u043e\u0440\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Bijih"
     ],
     "name:mya_x_preferred":[
         "\u101e\u1010\u1039\u1010\u102f\u1000\u103b\u1031\u102c\u1000\u103a\u101b\u102d\u102f\u1004\u103a\u1038"
@@ -225,17 +246,41 @@
     "name:slv_x_preferred":[
         "Ruda"
     ],
+    "name:slv_x_variant":[
+        "ruda"
+    ],
+    "name:sma_x_preferred":[
+        "maalme"
+    ],
+    "name:sme_x_preferred":[
+        "m\u00e1lbma"
+    ],
+    "name:smj_x_preferred":[
+        "m\u00e1lmma"
+    ],
+    "name:smn_x_preferred":[
+        "malm\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "malmm"
+    ],
     "name:sna_x_preferred":[
         "Chitofu"
     ],
     "name:spa_x_preferred":[
         "Mena"
     ],
+    "name:spa_x_variant":[
+        "mena"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0443\u0434\u0430"
     ],
     "name:srp_x_variant":[
         "\u0440\u0443\u0434\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Mtapo"
     ],
     "name:swe_x_preferred":[
         "Malm"
@@ -260,6 +305,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0434\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0440\u0443\u0434\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Ruda"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eb7ng"
@@ -335,7 +386,7 @@
         }
     ],
     "wof:id":421175909,
-    "wof:lastmodified":1669184655,
+    "wof:lastmodified":1690848386,
     "wof:name":"Ore",
     "wof:parent_id":1108564091,
     "wof:placetype":"locality",
