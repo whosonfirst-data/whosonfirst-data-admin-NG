@@ -36,6 +36,9 @@
     "name:azb_x_preferred":[
         "\u06cc\u0648\u0628\u0647 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Yobe \u015ftat\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09ac \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -90,6 +93,12 @@
     "name:fra_x_variant":[
         "Yobe"
     ],
+    "name:frr_x_preferred":[
+        "Yobe"
+    ],
+    "name:ful_x_preferred":[
+        "Diiwal Yobe"
+    ],
     "name:glg_x_preferred":[
         "Yobe"
     ],
@@ -100,7 +109,8 @@
         "Ybe"
     ],
     "name:hau_x_variant":[
-        "Yobe"
+        "Yobe",
+        "Jihar Yobe"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05d5\u05d1\u05d4"
@@ -113,6 +123,9 @@
     ],
     "name:ibo_x_preferred":[
         "\u022era Yobe"
+    ],
+    "name:ibo_x_variant":[
+        "Yobe steeti"
     ],
     "name:ind_x_preferred":[
         "Yobe"
@@ -153,6 +166,9 @@
     "name:nan_x_preferred":[
         "Yobe Chiu"
     ],
+    "name:nep_x_preferred":[
+        "\u092f\u094b\u092c\u0947 \u0930\u093e\u091c\u094d\u092f"
+    ],
     "name:nld_x_preferred":[
         "Yobe"
     ],
@@ -161,6 +177,9 @@
     ],
     "name:nor_x_preferred":[
         "Yobe"
+    ],
+    "name:pcm_x_preferred":[
+        "Yobe state"
     ],
     "name:pol_x_preferred":[
         "Yobe"
@@ -198,6 +217,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e22\u0e1a\u0e35"
     ],
+    "name:tum_x_preferred":[
+        "Yobe State"
+    ],
     "name:tur_x_preferred":[
         "Yobe Eyaleti"
     ],
@@ -210,8 +232,14 @@
     "name:vie_x_preferred":[
         "Bang Yobe"
     ],
+    "name:war_x_preferred":[
+        "Yobe"
+    ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 Y\u00f2b\u00e8"
+    ],
+    "name:yor_x_variant":[
+        "Yobe State"
     ],
     "name:zho_min_nan_x_preferred":[
         "Yobe Chiu"
@@ -345,7 +373,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1636502882,
+    "wof:lastmodified":1690848334,
     "wof:name":"Yobe",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Okrika"
+    ],
     "name:cat_x_preferred":[
         "Okrika"
     ],
     "name:ceb_x_preferred":[
         "Okrika"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03ba\u03c1\u03af\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Okrika"
@@ -37,10 +43,25 @@
     "name:hau_x_preferred":[
         "Okrika"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e7\u05e8\u05d9\u05e7\u05d4"
+    ],
+    "name:ibo_x_preferred":[
+        "Okrika"
+    ],
     "name:ita_x_preferred":[
         "Okrika"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30af\u30ea\u30ab\u6e2f"
+    ],
+    "name:mlg_x_preferred":[
+        "Okrika"
+    ],
     "name:nan_x_preferred":[
+        "Okrika"
+    ],
+    "name:pol_x_preferred":[
         "Okrika"
     ],
     "name:por_x_preferred":[
@@ -51,6 +72,9 @@
     ],
     "name:yor_x_preferred":[
         "Agb\u00e8gb\u00e8 \u00ccj\u1ecdba \u00ccb\u00edl\u1eb9\u0300 Okrika"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u514b\u91cc\u5361"
     ],
     "qs_pg:aaroncc":"NG",
     "qs_pg:gn_country":"NG",
@@ -91,7 +115,7 @@
         }
     ],
     "wof:id":1125913233,
-    "wof:lastmodified":1566654494,
+    "wof:lastmodified":1690848430,
     "wof:name":"Okrika",
     "wof:parent_id":1108564165,
     "wof:placetype":"locality",

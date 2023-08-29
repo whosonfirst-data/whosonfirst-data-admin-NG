@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0648\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Awka"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u06a9\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Avka"
     ],
     "name:ben_x_preferred":[
         "\u0986\u0993\u0995\u09be"
@@ -43,6 +52,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03cc\u03ba\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b2\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Awka"
@@ -80,6 +92,9 @@
     "name:ibo_x_preferred":[
         "\u00d3k\u00e1"
     ],
+    "name:ibo_x_variant":[
+        "\u1ecck\u00e1"
+    ],
     "name:ind_x_preferred":[
         "Awka"
     ],
@@ -103,6 +118,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0905\u0935\u0915\u093e"
+    ],
+    "name:mlg_x_preferred":[
+        "Awka"
     ],
     "name:msa_x_preferred":[
         "Awka"
@@ -301,7 +319,7 @@
         }
     ],
     "wof:id":890445491,
-    "wof:lastmodified":1669184854,
+    "wof:lastmodified":1690848421,
     "wof:name":"Awka",
     "wof:parent_id":1108563061,
     "wof:placetype":"locality",

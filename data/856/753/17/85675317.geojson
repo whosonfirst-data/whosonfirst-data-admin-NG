@@ -36,6 +36,9 @@
     "name:azb_x_preferred":[
         "\u0631\u06cc\u0648\u0631\u0632 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Rivers \u015ftat\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09ad\u09be\u09b0 \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03af\u03b2\u03b5\u03c1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1 \u03a1\u03af\u03b2\u03b5\u03c1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Rivers"
@@ -87,6 +93,9 @@
     "name:fre_x_variant":[
         "Rivi\u00e8res"
     ],
+    "name:frr_x_preferred":[
+        "Rivers"
+    ],
     "name:glg_x_preferred":[
         "Rivers"
     ],
@@ -95,6 +104,9 @@
     ],
     "name:hau_x_preferred":[
         "Rivers"
+    ],
+    "name:hau_x_variant":[
+        "Jihar rivers"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d4\u05e8\u05d5\u05ea"
@@ -126,6 +138,9 @@
     "name:kat_x_preferred":[
         "\u10e0\u10d8\u10d5\u10d4\u10e0\u10e1\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
     ],
+    "name:kcg_x_preferred":[
+        "Si\u0331tet Rivat"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\ubc84\uc2a4 \uc8fc"
     ],
@@ -147,6 +162,9 @@
     "name:msa_x_preferred":[
         "Rivers State"
     ],
+    "name:msa_x_variant":[
+        "Negeri Rivers"
+    ],
     "name:nan_x_preferred":[
         "Rivers Chiu"
     ],
@@ -155,6 +173,9 @@
     ],
     "name:nob_x_preferred":[
         "Rivers"
+    ],
+    "name:pcm_x_preferred":[
+        "Rivers state"
     ],
     "name:pol_x_preferred":[
         "Rivers"
@@ -195,6 +216,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e34\u0e40\u0e27\u0e2d\u0e2a\u0e4c"
     ],
+    "name:tum_x_preferred":[
+        "Rivers State,Nigeria"
+    ],
     "name:tur_x_preferred":[
         "Rivers Eyaleti"
     ],
@@ -210,8 +234,14 @@
     "name:vie_x_preferred":[
         "Bang Rivers"
     ],
+    "name:war_x_preferred":[
+        "Rivers"
+    ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 Rivers"
+    ],
+    "name:yor_x_variant":[
+        "Rivers State"
     ],
     "name:zho_x_preferred":[
         "\u6cb3\u6d41\u5dde"
@@ -342,7 +372,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1636502884,
+    "wof:lastmodified":1690848338,
     "wof:name":"Rivers",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

@@ -37,6 +37,9 @@
     "name:azb_x_preferred":[
         "\u0642\u0648\u0645\u0628\u0647 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Qombe \u015ftat\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09ae\u09cd\u09ac\u09c7 \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -85,6 +88,12 @@
     "name:fra_x_variant":[
         "Gombe"
     ],
+    "name:frr_x_preferred":[
+        "Gombe"
+    ],
+    "name:ful_x_preferred":[
+        "Diiwal Gombe"
+    ],
     "name:glg_x_preferred":[
         "Estado de Gombe"
     ],
@@ -93,6 +102,9 @@
     ],
     "name:hau_x_preferred":[
         "Gombe"
+    ],
+    "name:hau_x_variant":[
+        "Jihar Gombe"
     ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u092e\u094d\u092c\u0947 \u0930\u093e\u091c\u094d\u092f"
@@ -117,6 +129,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10db\u10d1\u10d4\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kcg_x_preferred":[
+        "Si\u0331tet Gwombe"
     ],
     "name:kor_x_preferred":[
         "\uacf0\ubca0 \uc8fc"
@@ -156,6 +171,9 @@
     ],
     "name:nor_x_preferred":[
         "Gombe"
+    ],
+    "name:pcm_x_preferred":[
+        "Gombe State"
     ],
     "name:pol_x_preferred":[
         "Gombe"
@@ -208,8 +226,14 @@
     "name:vie_x_variant":[
         "Bang Gombe"
     ],
+    "name:war_x_preferred":[
+        "Gombe"
+    ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 G\u00f2mb\u00e8"
+    ],
+    "name:yor_x_variant":[
+        "Gombe State"
     ],
     "name:zho_cn_x_preferred":[
         "\u8d21\u8d1d\u6cb3"
@@ -350,7 +374,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1636502884,
+    "wof:lastmodified":1690848339,
     "wof:name":"Gombe",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

@@ -39,6 +39,9 @@
     "name:aze_x_preferred":[
         "Kross River \u015ftat\u0131"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u043e\u0441-\u0420\u044b\u0432\u0435\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09b0\u09b8 \u09b0\u09bf\u09ad\u09be\u09b0 \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -87,6 +90,9 @@
     "name:fra_x_variant":[
         "Cross River"
     ],
+    "name:frr_x_preferred":[
+        "Cross River"
+    ],
     "name:glg_x_preferred":[
         "Cross River"
     ],
@@ -123,6 +129,9 @@
     "name:kat_x_preferred":[
         "\u10d9\u10e0\u10dd\u10e1-\u10e0\u10d8\u10d5\u10d4\u10e0\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
     ],
+    "name:kcg_x_preferred":[
+        "Si\u0331tet Ki\u0331rosi\u0331riva"
+    ],
     "name:kor_x_preferred":[
         "\ud06c\ub85c\uc2a4\ub9ac\ubc84 \uc8fc"
     ],
@@ -158,6 +167,9 @@
     ],
     "name:nor_x_preferred":[
         "Cross River"
+    ],
+    "name:pcm_x_preferred":[
+        "Cross River State"
     ],
     "name:pol_x_preferred":[
         "Cross River"
@@ -210,14 +222,23 @@
     "name:vie_x_preferred":[
         "Bang Cross River"
     ],
+    "name:war_x_preferred":[
+        "Cross River"
+    ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 Cross River"
+    ],
+    "name:yor_x_variant":[
+        "Cross River State"
     ],
     "name:zho_min_nan_x_preferred":[
         "Cross River Chiu"
     ],
     "name:zho_x_preferred":[
         "\u514b\u91cc\u65af\u6cb3\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u7f57\u65af\u6cb3\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NGA",
@@ -345,7 +366,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1642551807,
+    "wof:lastmodified":1690848340,
     "wof:name":"Cross River",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

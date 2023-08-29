@@ -17,16 +17,28 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Mushin"
+    ],
+    "name:ceb_x_preferred":[
+        "Mushin"
+    ],
     "name:deu_x_preferred":[
         "Mushin"
     ],
     "name:eng_x_preferred":[
         "Mushin"
     ],
+    "name:epo_x_preferred":[
+        "Mu\u015din"
+    ],
     "name:fra_x_preferred":[
         "Mushin"
     ],
     "name:hau_x_preferred":[
+        "Mushin"
+    ],
+    "name:ibo_x_preferred":[
         "Mushin"
     ],
     "name:ita_x_preferred":[
@@ -38,11 +50,17 @@
     "name:nan_x_preferred":[
         "Mushin"
     ],
+    "name:pcm_x_preferred":[
+        "Mushin"
+    ],
     "name:pol_x_preferred":[
         "Mushin"
     ],
     "name:por_x_preferred":[
         "Mushin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0448\u0438\u043d"
     ],
     "name:spa_x_preferred":[
         "Mushin"
@@ -83,11 +101,11 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":294,
     "wof:belongsto":[
+        85675343,
         102191573,
         85632735,
         421195263,
-        1108562995,
-        85675343
+        1108562995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":1796639241,
-    "wof:lastmodified":1669187744,
+    "wof:lastmodified":1690848436,
     "wof:name":"Mushin",
     "wof:parent_id":421195263,
     "wof:placetype":"neighbourhood",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ikere-Ekiti"
+    ],
     "name:cat_x_preferred":[
         "Ikere"
     ],
@@ -25,6 +28,12 @@
     ],
     "name:eng_x_preferred":[
         "Ikere-Ekiti"
+    ],
+    "name:eng_x_variant":[
+        "Ikere"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u0631\u0647-\u0627\u06a9\u06cc\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Ikere"
@@ -38,7 +47,13 @@
     "name:lit_x_preferred":[
         "Ikere Ekitis"
     ],
+    "name:mlg_x_preferred":[
+        "Ikere-Ekiti"
+    ],
     "name:nan_x_preferred":[
+        "Ikere-Ekiti"
+    ],
+    "name:pcm_x_preferred":[
         "Ikere-Ekiti"
     ],
     "name:pol_x_preferred":[
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":421174587,
-    "wof:lastmodified":1566654446,
+    "wof:lastmodified":1690848378,
     "wof:name":"Ikerre",
     "wof:parent_id":421204687,
     "wof:placetype":"locality",

@@ -87,6 +87,12 @@
     "name:fra_x_variant":[
         "Bauchi"
     ],
+    "name:frr_x_preferred":[
+        "Bauchi"
+    ],
+    "name:ful_x_preferred":[
+        "Diiwal Bawci"
+    ],
     "name:glg_x_preferred":[
         "Estado de Bauchi"
     ],
@@ -95,6 +101,9 @@
     ],
     "name:hau_x_preferred":[
         "Bauchi"
+    ],
+    "name:hau_x_variant":[
+        "Jihar Bauchi"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05d5\u05e6'\u05d9"
@@ -105,8 +114,14 @@
     "name:hun_x_preferred":[
         "Bauchi"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0578\u0582\u0579\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
+    ],
     "name:ibo_x_preferred":[
         "\u022era Bauchi"
+    ],
+    "name:ibo_x_variant":[
+        "\u022era Bawuchi"
     ],
     "name:ind_x_preferred":[
         "Bauchi"
@@ -125,6 +140,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e3\u10e9\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kcg_x_preferred":[
+        "Si\u0331tet Ba\u0331uci"
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc6b0\uce58 \uc8fc"
@@ -158,6 +176,9 @@
     ],
     "name:nob_x_preferred":[
         "Bauchi"
+    ],
+    "name:pcm_x_preferred":[
+        "Bauchi state"
     ],
     "name:pol_x_preferred":[
         "Bauczi"
@@ -207,8 +228,17 @@
     "name:vie_x_preferred":[
         "Bang Bauchi"
     ],
+    "name:war_x_preferred":[
+        "Bauchi"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5305\u5947\u5dde"
+    ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 Bauchi"
+    ],
+    "name:yor_x_variant":[
+        "Bauchi State"
     ],
     "name:zho_x_preferred":[
         "\u5305\u5947\u5dde"
@@ -338,7 +368,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1636502886,
+    "wof:lastmodified":1690848342,
     "wof:name":"Bauchi",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

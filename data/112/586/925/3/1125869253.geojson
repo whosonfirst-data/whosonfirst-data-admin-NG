@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0641\u0627\u0646\u062a\u0634\u0627\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0444\u0430\u043d\u0447\u0430\u043d"
     ],
     "name:ceb_x_preferred":[
         "Kafanchan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c6\u03b1\u03bd\u03c4\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kafanchan"
@@ -37,7 +43,16 @@
     "name:hau_x_preferred":[
         "Kafancan"
     ],
+    "name:kcg_x_preferred":[
+        "Fantswam"
+    ],
+    "name:mlg_x_preferred":[
+        "Kafanchan"
+    ],
     "name:nld_x_preferred":[
+        "Kafanchan"
+    ],
+    "name:pcm_x_preferred":[
         "Kafanchan"
     ],
     "name:pol_x_preferred":[
@@ -49,8 +64,14 @@
     "name:ron_x_preferred":[
         "Kafanchan"
     ],
+    "name:swe_x_preferred":[
+        "Kafanchan"
+    ],
     "name:und_x_variant":[
         "Kafanchan Junction"
+    ],
+    "name:yor_x_preferred":[
+        "Kafanchan"
     ],
     "name:zho_x_preferred":[
         "\u5361\u51e1\u94b1"
@@ -94,7 +115,7 @@
         }
     ],
     "wof:id":1125869253,
-    "wof:lastmodified":1566654490,
+    "wof:lastmodified":1690848428,
     "wof:name":"Kafachan",
     "wof:parent_id":1108563721,
     "wof:placetype":"locality",

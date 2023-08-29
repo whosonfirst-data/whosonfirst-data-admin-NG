@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0625\u062f\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0627\u062f\u0648"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u062f\u0648 \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:cat_x_preferred":[
         "Estat Edo"
+    ],
+    "name:cat_x_variant":[
+        "Edo"
     ],
     "name:ceb_x_preferred":[
         "Edo"
@@ -75,6 +81,9 @@
     "name:est_x_preferred":[
         "Edo osariik"
     ],
+    "name:eus_x_preferred":[
+        "Edo"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0627\u0644\u062a \u0627\u062f\u0648"
     ],
@@ -86,6 +95,12 @@
     ],
     "name:fra_x_variant":[
         "Edo"
+    ],
+    "name:frr_x_preferred":[
+        "Edo"
+    ],
+    "name:gle_x_preferred":[
+        "St\u00e1t Edo"
     ],
     "name:glg_x_preferred":[
         "Estado de Edo"
@@ -102,11 +117,17 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d3\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d3\u05d9\u05e0\u05ea \u05d0\u05d3\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u0921\u094b \u0930\u093e\u091c\u094d\u092f"
     ],
     "name:hun_x_preferred":[
         "Edo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0564\u0578 \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ibo_x_preferred":[
         "\u022era Edo"
@@ -129,6 +150,9 @@
     "name:kat_x_preferred":[
         "\u10d4\u10d3\u10dd\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
     ],
+    "name:kcg_x_preferred":[
+        "Si\u0331tet A\u0331do"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\ub3c4 \uc8fc"
     ],
@@ -144,6 +168,9 @@
     "name:mar_x_preferred":[
         "\u0908\u0926\u094b \u0930\u093e\u091c\u094d\u092f"
     ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0434\u043e"
+    ],
     "name:mrj_x_preferred":[
         "\u042d\u0434\u043e"
     ],
@@ -158,6 +185,9 @@
     ],
     "name:nob_x_preferred":[
         "Edo"
+    ],
+    "name:pcm_x_preferred":[
+        "Edo State"
     ],
     "name:pol_x_preferred":[
         "Edo"
@@ -207,8 +237,14 @@
     "name:vie_x_preferred":[
         "Bang Edo"
     ],
+    "name:war_x_preferred":[
+        "Edo"
+    ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 \u1eb8d\u00f3"
+    ],
+    "name:yor_x_variant":[
+        "Edo State"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u591a\u5dde"
@@ -338,7 +374,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1636502885,
+    "wof:lastmodified":1690848341,
     "wof:name":"Edo",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

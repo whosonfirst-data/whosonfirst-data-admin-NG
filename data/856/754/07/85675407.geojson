@@ -36,6 +36,9 @@
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0642\u06cc \u0627\u06cc\u0627\u0644\u062a\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Kogi \u015ftat\u0131"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u099c\u09bf \u0985\u0999\u09cd\u0997\u09b0\u09be\u099c\u09cd\u09af"
     ],
@@ -81,6 +84,12 @@
     "name:fra_x_variant":[
         "Kogi"
     ],
+    "name:frr_x_preferred":[
+        "Kogi"
+    ],
+    "name:ful_x_preferred":[
+        "Diiwal Kogi"
+    ],
     "name:glg_x_preferred":[
         "Estado de Kogi"
     ],
@@ -90,8 +99,14 @@
     "name:hau_x_preferred":[
         "Kogi"
     ],
+    "name:hau_x_variant":[
+        "Jihar Kogi"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d2\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d3\u05d9\u05e0\u05ea \u05e7\u05d5\u05d2\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0917\u0940 \u0930\u093e\u091c\u094d\u092f"
@@ -116,6 +131,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10d2\u10d8\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kcg_x_preferred":[
+        "Si\u0331tet Kogi"
     ],
     "name:kor_x_preferred":[
         "\ucf54\uae30 \uc8fc"
@@ -198,8 +216,14 @@
     "name:vie_x_preferred":[
         "Bang Kogi"
     ],
+    "name:war_x_preferred":[
+        "Kogi"
+    ],
     "name:yor_x_preferred":[
         "\u00ccp\u00ednl\u1eb9\u0300 Kog\u00ed"
+    ],
+    "name:yor_x_variant":[
+        "Kogi State"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u5409\u5dde"
@@ -329,7 +353,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1636502882,
+    "wof:lastmodified":1690848334,
     "wof:name":"Kogi",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
