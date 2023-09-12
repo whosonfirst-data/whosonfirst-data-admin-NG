@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024813,
-    "geom:area_square_m":301143661.002837,
+    "geom:area_square_m":301143661.002838,
     "geom:bbox":"7.60866633973,10.9619713683,7.80226633973,11.1365713683",
     "geom:latitude":11.037523,
     "geom:longitude":7.705614,
@@ -175,10 +175,12 @@
         85675405
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NG.KD.ZA"
+    },
     "wof:country":"NG",
     "wof:created":1474058194,
-    "wof:geomhash":"d2bf87bf42408906557d70c1b1ebcff0",
+    "wof:geomhash":"062e20c394d58a146a6fdeb628701b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":1108564559,
-    "wof:lastmodified":1566653477,
+    "wof:lastmodified":1694492410,
     "wof:name":"Zaria",
     "wof:parent_id":85675405,
     "wof:placetype":"county",

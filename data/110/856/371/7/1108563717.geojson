@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040856,
-    "geom:area_square_m":494664281.422171,
+    "geom:area_square_m":494664281.422158,
     "geom:bbox":"9.73516633973,11.5850713683,10.0870663397,11.8025713683",
     "geom:latitude":11.717386,
     "geom:longitude":9.914254,
@@ -78,10 +78,12 @@
         85675379
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NG.BA.JA"
+    },
     "wof:country":"NG",
     "wof:created":1474057766,
-    "wof:geomhash":"9d187d4717026ab8892020cdc43ba4c9",
+    "wof:geomhash":"9a6bd8e541f63d3fa03bb9dc78c6936a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1108563717,
-    "wof:lastmodified":1566653493,
+    "wof:lastmodified":1694492410,
     "wof:name":"Jama'are",
     "wof:parent_id":85675379,
     "wof:placetype":"county",

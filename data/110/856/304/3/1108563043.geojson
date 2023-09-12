@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047092,
-    "geom:area_square_m":577291002.351762,
+    "geom:area_square_m":577291002.841449,
     "geom:bbox":"4.527366,7.231271,4.780866,7.740471",
     "geom:latitude":7.517329,
     "geom:longitude":4.667369,
@@ -64,10 +64,12 @@
         85675367
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NG.OS.AW"
+    },
     "wof:country":"NG",
     "wof:created":1474057421,
-    "wof:geomhash":"7b91e846ab26bc3d1364869e28e3c349",
+    "wof:geomhash":"d6067f030c0e8c41f988ab9699333506",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1108563043,
-    "wof:lastmodified":1627522465,
+    "wof:lastmodified":1694492707,
     "wof:name":"Atakumosa West",
     "wof:parent_id":85675367,
     "wof:placetype":"county",
