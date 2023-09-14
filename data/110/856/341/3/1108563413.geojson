@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03199,
-    "geom:area_square_m":392081601.544467,
+    "geom:area_square_m":392081601.881138,
     "geom:bbox":"5.360966,7.518671,5.642566,7.716471",
     "geom:latitude":7.609259,
     "geom:longitude":5.496371,
@@ -64,10 +64,12 @@
         85675361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NG.EK.AI"
+    },
     "wof:country":"NG",
     "wof:created":1474057610,
-    "wof:geomhash":"2ecb2767cbcb86289311cb30da9d5c97",
+    "wof:geomhash":"01bae5ac11d0c6c099f774d186ae25e7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1108563413,
-    "wof:lastmodified":1627522467,
+    "wof:lastmodified":1694492707,
     "wof:name":"Gboyin",
     "wof:parent_id":85675361,
     "wof:placetype":"county",

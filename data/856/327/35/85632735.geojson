@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":74.929712,
-    "geom:area_square_m":912829885741.875488,
+    "geom:area_square_m":912829885741.86731,
     "geom:bbox":"2.676932,4.275389,14.677982,13.885645",
     "geom:latitude":9.591652,
     "geom:longitude":8.101818,
@@ -14,6 +14,9 @@
     "iso:country":"NG",
     "itu:country_code":[
         "234"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "NG"
@@ -1155,7 +1158,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"234",
     "statoids:ds":"WAN",
     "statoids:fifa":"NGA",
@@ -1215,7 +1219,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"29fe0d7648db1e8ab3609f348927ecdc",
+    "wof:geomhash":"1ee4e904524916e6ed54b919d13f29b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1231,12 +1235,12 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848345,
+    "wof:lastmodified":1694639557,
     "wof:name":"Nigeria",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":173615345,
-    "wof:population_rank":17,
+    "wof:population":200963599,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:shortcode":"NG",
     "wof:superseded_by":[],
