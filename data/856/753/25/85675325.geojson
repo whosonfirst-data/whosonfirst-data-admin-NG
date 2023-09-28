@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.519775,
-    "geom:area_square_m":30901895424.216133,
+    "geom:area_square_m":30901895449.785595,
     "geom:bbox":"7.530466,6.442771,9.888566,8.158171",
     "geom:latitude":7.334731,
     "geom:longitude":8.740081,
@@ -336,17 +336,19 @@
         "gn:id":2347266,
         "gp:id":2346354,
         "hasc:id":"NG.BE",
+        "iso:code":"NG-BE",
         "iso:id":"NG-BE",
         "qs_pg:id":1097045,
         "unlc:id":"NG-BE",
         "wd:id":"Q429908",
         "wk:page":"Benue State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f46b77f4c3208070461716e4d776786",
+    "wof:geomhash":"9922a824688405e67fd14216af114ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -363,7 +365,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848344,
+    "wof:lastmodified":1695884946,
     "wof:name":"Benue",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

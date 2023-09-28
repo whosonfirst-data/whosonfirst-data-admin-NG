@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.999713,
-    "geom:area_square_m":72588079547.808014,
+    "geom:area_square_m":72588085769.804825,
     "geom:bbox":"11.533066,10.022871,14.680066,13.714478",
     "geom:latitude":11.887783,
     "geom:longitude":13.147144,
@@ -359,17 +359,19 @@
         "gn:id":2346794,
         "gp:id":2346355,
         "hasc:id":"NG.BO",
+        "iso:code":"NG-BO",
         "iso:id":"NG-BO",
         "qs_pg:id":1222674,
         "unlc:id":"NG-BO",
         "wd:id":"Q130626",
         "wk:page":"Borno State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ca63525727faa16970ca7b8e2545b79",
+    "wof:geomhash":"8de368498369290731af882c1561f80f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -386,7 +388,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848341,
+    "wof:lastmodified":1695884945,
     "wof:name":"Borno",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

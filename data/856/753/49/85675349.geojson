@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.928849,
-    "geom:area_square_m":72206974161.736206,
+    "geom:area_square_m":72206974243.056747,
     "geom:bbox":"3.584166,8.182971,7.388166,11.373271",
     "geom:latitude":9.937427,
     "geom:longitude":5.586203,
@@ -332,17 +332,19 @@
         "gn:id":2328925,
         "gp:id":2346359,
         "hasc:id":"NG.NI",
+        "iso:code":"NG-NI",
         "iso:id":"NG-NI",
         "qs_pg:id":235616,
         "unlc:id":"NG-NI",
         "wd:id":"Q503932",
         "wk:page":"Niger State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da42c602a8a568ea25da270d48ff0950",
+    "wof:geomhash":"9504fd7deb5e9e0b5c6976f790d9a070",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -359,7 +361,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848343,
+    "wof:lastmodified":1695884945,
     "wof:name":"Niger",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

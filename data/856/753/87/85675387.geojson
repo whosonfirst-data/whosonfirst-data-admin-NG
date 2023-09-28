@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.398123,
-    "geom:area_square_m":17202141790.823933,
+    "geom:area_square_m":17202141801.572464,
     "geom:bbox":"4.972366,5.011771,6.769366,6.501271",
     "geom:latitude":5.704934,
     "geom:longitude":5.933806,
@@ -336,17 +336,19 @@
         "gn:id":2565341,
         "gp:id":2346364,
         "hasc:id":"NG.DE",
+        "iso:code":"NG-DE",
         "iso:id":"NG-DE",
         "qs_pg:id":244506,
         "unlc:id":"NG-DE",
         "wd:id":"Q503910",
         "wk:page":"Delta State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9000b13f6cd40b6eadd0016e2579c67a",
+    "wof:geomhash":"1d8afcd603e773dee5e4b7119ce23cff",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -363,7 +365,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848338,
+    "wof:lastmodified":1695885131,
     "wof:name":"Delta",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

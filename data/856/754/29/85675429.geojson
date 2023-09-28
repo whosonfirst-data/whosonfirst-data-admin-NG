@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.985989,
-    "geom:area_square_m":23984853273.036839,
+    "geom:area_square_m":23984853306.882236,
     "geom:bbox":"6.851966,11.138171,9.049666,13.339571",
     "geom:latitude":12.38092,
     "geom:longitude":7.627185,
@@ -322,17 +322,19 @@
         "gn:id":2334797,
         "gp:id":2346352,
         "hasc:id":"NG.KT",
+        "iso:code":"NG-KT",
         "iso:id":"NG-KT",
         "qs_pg:id":1024634,
         "unlc:id":"NG-KT",
         "wd:id":"Q657821",
         "wk:page":"Katsina State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e9a45170cef7eaa1473936178de8639",
+    "wof:geomhash":"fc7d0b5ebb31cc9dc854581a2917bb7d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -349,7 +351,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848333,
+    "wof:lastmodified":1695884944,
     "wof:name":"Katsina",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

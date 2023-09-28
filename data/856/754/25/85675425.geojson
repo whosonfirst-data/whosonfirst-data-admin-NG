@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.691842,
-    "geom:area_square_m":20481265071.653893,
+    "geom:area_square_m":20481265099.030796,
     "geom:bbox":"7.685866,10.548971,9.365166,12.599971",
     "geom:latitude":11.746575,
     "geom:longitude":8.526707,
@@ -351,17 +351,19 @@
         "gn:id":2335196,
         "gp:id":2346357,
         "hasc:id":"NG.KN",
+        "iso:code":"NG-KN",
         "iso:id":"NG-KN",
         "qs_pg:id":235615,
         "unlc:id":"NG-KN",
         "wd:id":"Q682571",
         "wk:page":"Kano State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f03bb35c575cd970cc40a1f8d8064d6b",
+    "wof:geomhash":"5d6ce54d5590af8c3f5b743d36bf6ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -378,7 +380,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848336,
+    "wof:lastmodified":1695884945,
     "wof:name":"Kano",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

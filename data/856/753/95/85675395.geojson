@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.618238,
-    "geom:area_square_m":7594908746.524093,
+    "geom:area_square_m":7594908752.114979,
     "geom:bbox":"6.931666,5.924671,7.903366,7.103671",
     "geom:latitude":6.532744,
     "geom:longitude":7.439061,
@@ -329,17 +329,19 @@
         "gn:id":2565344,
         "gp:id":2346366,
         "hasc:id":"NG.EN",
+        "iso:code":"NG-EN",
         "iso:id":"NG-EN",
         "qs_pg:id":891331,
         "unlc:id":"NG-EN",
         "wd:id":"Q3817714",
         "wk:page":"Enugu State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8fd0fd1ab6c2e3bfcaaf5a214f95a054",
+    "wof:geomhash":"aba9cc1b6565ee4d05a79fb618d2b6df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -356,7 +358,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848336,
+    "wof:lastmodified":1695884945,
     "wof:name":"Enugu",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.839397,
-    "geom:area_square_m":10342143249.012697,
+    "geom:area_square_m":10342143254.643988,
     "geom:bbox":"6.398366,4.322371,7.591566,5.730071",
     "geom:latitude":4.841736,
     "geom:longitude":6.910532,
@@ -344,6 +344,7 @@
         "gn:id":2324433,
         "gp:id":2346344,
         "hasc:id":"NG.RI",
+        "iso:code":"NG-RI",
         "iso:id":"NG-RI",
         "loc:id":"n80049671",
         "qs_pg:id":1168699,
@@ -351,11 +352,12 @@
         "wd:id":"Q503923",
         "wk:page":"Rivers State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"04549e5c800ff1c232ff2dbea13f0b45",
+    "wof:geomhash":"aadaaed9c83f78b9d328996b771ec230",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -372,7 +374,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848338,
+    "wof:lastmodified":1695884945,
     "wof:name":"Rivers",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

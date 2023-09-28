@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.700538,
-    "geom:area_square_m":8586859664.62781,
+    "geom:area_square_m":8586859671.955768,
     "geom:bbox":"4.052966,6.980771,5.057666,8.095471",
     "geom:latitude":7.562147,
     "geom:longitude":4.520819,
@@ -320,17 +320,19 @@
         "gn:id":2597365,
         "gp:id":2346370,
         "hasc:id":"NG.OS",
+        "iso:code":"NG-OS",
         "iso:id":"NG-OS",
         "qs_pg:id":229382,
         "unlc:id":"NG-OS",
         "wd:id":"Q682721",
         "wk:page":"Osun State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6cbf787ba284dfde04133786ac8ac854",
+    "wof:geomhash":"a6ccba445747449cd83030c1841143ed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -347,7 +349,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848337,
+    "wof:lastmodified":1695884945,
     "wof:name":"Osun",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

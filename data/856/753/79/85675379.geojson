@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.983721,
-    "geom:area_square_m":48385393464.866203,
+    "geom:area_square_m":48385393524.113892,
     "geom:bbox":"8.729066,9.498171,11.023266,12.521471",
     "geom:latitude":10.784803,
     "geom:longitude":9.985475,
@@ -341,17 +341,19 @@
         "gn:id":2347468,
         "gp:id":2346343,
         "hasc:id":"NG.BA",
+        "iso:code":"NG-BA",
         "iso:id":"NG-BA",
         "qs_pg:id":219580,
         "unlc:id":"NG-BA",
         "wd:id":"Q503936",
         "wk:page":"Bauchi State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a9352734d2e4a0171de1fa2354c4ffdb",
+    "wof:geomhash":"94eb06e5e1f6c66992ffec82e665fec8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -368,7 +370,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848342,
+    "wof:lastmodified":1695884945,
     "wof:name":"Bauchi",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

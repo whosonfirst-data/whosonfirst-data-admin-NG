@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.751128,
-    "geom:area_square_m":21539540080.4599,
+    "geom:area_square_m":21539540095.426899,
     "geom:bbox":"7.840866,4.479271,9.474366,6.896371",
     "geom:latitude":5.840943,
     "geom:longitude":8.597,
@@ -339,17 +339,19 @@
         "gn:id":2345891,
         "gp:id":2346350,
         "hasc:id":"NG.CR",
+        "iso:code":"NG-CR",
         "iso:id":"NG-CR",
         "qs_pg:id":1168701,
         "unlc:id":"NG-CR",
         "wd:id":"Q739676",
         "wk:page":"Cross River State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f783d2d86a3d83e239826e4084ee87a",
+    "wof:geomhash":"43d6d3fded314d5fd181af67d23de84d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -366,7 +368,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848340,
+    "wof:lastmodified":1695885133,
     "wof:name":"Cross River",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

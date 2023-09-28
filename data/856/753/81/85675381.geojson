@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.436556,
-    "geom:area_square_m":17471789858.409523,
+    "geom:area_square_m":17471789878.99102,
     "geom:bbox":"10.473166,9.544471,11.857866,11.312471",
     "geom:latitude":10.38435,
     "geom:longitude":11.19031,
@@ -347,17 +347,19 @@
         "gn:id":2595347,
         "gp:id":20070155,
         "hasc:id":"NG.GO",
+        "iso:code":"NG-GO",
         "iso:id":"NG-GO",
         "qs_pg:id":1228175,
         "unlc:id":"NG-GO",
         "wd:id":"Q376241",
         "wk:page":"Gombe State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"93ff6bddc2c1e75838cf82fc305741e1",
+    "wof:geomhash":"46290c631dc04ca8c124d2ab098f9a9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -374,7 +376,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848339,
+    "wof:lastmodified":1695884945,
     "wof:name":"Gombe",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
