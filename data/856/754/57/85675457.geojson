@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622211,
-    "geom:area_square_m":7600911363.302448,
+    "geom:area_square_m":7600911370.960169,
     "geom:bbox":"6.778566,8.457571,7.730066,9.431571",
     "geom:latitude":8.906242,
     "geom:longitude":7.18905,
@@ -326,17 +326,19 @@
         "gn:id":2352776,
         "gp:id":2346345,
         "hasc:id":"NG.FC",
+        "iso:code":"NG-FC",
         "iso:id":"NG-FC",
         "qs_pg:id":1135178,
         "unlc:id":"NG-FC",
         "wd:id":"Q509300",
         "wk:page":"Federal Capital Territory, Nigeria"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bbb4e0a980a3f5d81db8895b909a56da",
+    "wof:geomhash":"1eac5e864038f7233121e407050ccc2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -353,7 +355,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848332,
+    "wof:lastmodified":1695884944,
     "wof:name":"Federal Capital Territory",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

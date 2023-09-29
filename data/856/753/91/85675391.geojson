@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.599176,
-    "geom:area_square_m":19641222824.414703,
+    "geom:area_square_m":19641222839.100685,
     "geom:bbox":"5.012866,5.746371,6.715766,7.591371",
     "geom:latitude":6.634531,
     "geom:longitude":5.93057,
@@ -347,17 +347,19 @@
         "gn:id":2565343,
         "gp:id":2346365,
         "hasc:id":"NG.ED",
+        "iso:code":"NG-ED",
         "iso:id":"NG-ED",
         "qs_pg:id":1053950,
         "unlc:id":"NG-ED",
         "wd:id":"Q682704",
         "wk:page":"Edo State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"39d870d7b62e2bbf15fbbeda28e2a49b",
+    "wof:geomhash":"8b2c75f12d9f16be09adf6366bdef7a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -374,7 +376,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848341,
+    "wof:lastmodified":1695884945,
     "wof:name":"Edo",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

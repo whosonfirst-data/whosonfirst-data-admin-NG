@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.669442,
-    "geom:area_square_m":32156079365.361172,
+    "geom:area_square_m":32156079413.222878,
     "geom:bbox":"4.127566,11.581771,6.791566,13.891971",
     "geom:latitude":13.036639,
     "geom:longitude":5.318685,
@@ -342,17 +342,19 @@
         "gn:id":2322907,
         "gp:id":2346361,
         "hasc:id":"NG.SO",
+        "iso:code":"NG-SO",
         "iso:id":"NG-SO",
         "qs_pg:id":318536,
         "unlc:id":"NG-SO",
         "wd:id":"Q503941",
         "wk:page":"Sokoto State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eedbdb3a412807a3ab3ceeaa50f489b7",
+    "wof:geomhash":"3034d6b72c6cb843b2db928314f820b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -369,7 +371,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848332,
+    "wof:lastmodified":1695884944,
     "wof:name":"Sokoto",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

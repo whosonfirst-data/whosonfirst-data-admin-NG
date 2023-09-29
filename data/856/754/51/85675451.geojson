@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.111253,
-    "geom:area_square_m":37959155438.306641,
+    "geom:area_square_m":37959155465.589783,
     "geom:bbox":"11.341566,7.378471,13.692566,10.949471",
     "geom:latitude":9.324366,
     "geom:longitude":12.400753,
@@ -332,17 +332,19 @@
         "gn:id":2565342,
         "gp:id":2346363,
         "hasc:id":"NG.AD",
+        "iso:code":"NG-AD",
         "iso:id":"NG-AD",
         "qs_pg:id":894940,
         "unlc:id":"NG-AD",
         "wd:id":"Q337514",
         "wk:page":"Adamawa State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10506940dcd1ccf933a94364fc161a35",
+    "wof:geomhash":"eb8a6fb1d1c6c65f7b4318f7f3e50a78",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -359,7 +361,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848332,
+    "wof:lastmodified":1695884944,
     "wof:name":"Adamawa",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

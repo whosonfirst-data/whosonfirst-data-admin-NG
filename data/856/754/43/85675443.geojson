@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.721256,
-    "geom:area_square_m":44954940605.951599,
+    "geom:area_square_m":44954940668.954193,
     "geom:bbox":"9.657966,10.567671,12.487166,13.376171",
     "geom:latitude":12.298759,
     "geom:longitude":11.430432,
@@ -346,17 +346,19 @@
         "gn:id":2597367,
         "gp:id":2346372,
         "hasc:id":"NG.YO",
+        "iso:code":"NG-YO",
         "iso:id":"NG-YO",
         "qs_pg:id":984091,
         "unlc:id":"NG-YO",
         "wd:id":"Q682777",
         "wk:page":"Yobe State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf9c73b36cc78cf694783c804e7b33b4",
+    "wof:geomhash":"9c29ea05430175a1cc015a0398c19d77",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -373,7 +375,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848334,
+    "wof:lastmodified":1695884944,
     "wof:name":"Yobe",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

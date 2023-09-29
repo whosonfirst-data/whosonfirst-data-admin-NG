@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.418964,
-    "geom:area_square_m":5156072076.882155,
+    "geom:area_square_m":5156072080.115602,
     "geom:bbox":"6.639066,5.194671,7.432266,5.938971",
     "geom:latitude":5.572067,
     "geom:longitude":7.058902,
@@ -320,17 +320,19 @@
         "gn:id":2337542,
         "gp:id":2346356,
         "hasc:id":"NG.IM",
+        "iso:code":"NG-IM",
         "iso:id":"NG-IM",
         "qs_pg:id":1168696,
         "unlc:id":"NG-IM",
         "wd:id":"Q842939",
         "wk:page":"Imo State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0536ca0459567cba15763c4c2bc1e413",
+    "wof:geomhash":"c36256f81aea3a2f78ab713d02e90b0c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -347,7 +349,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848343,
+    "wof:lastmodified":1695884367,
     "wof:name":"Imo",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

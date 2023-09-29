@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.182006,
-    "geom:area_square_m":26630773850.465988,
+    "geom:area_square_m":26630773878.287643,
     "geom:bbox":"8.553666,8.367371,10.640066,10.394271",
     "geom:latitude":9.230912,
     "geom:longitude":9.509155,
@@ -348,17 +348,19 @@
         "gn:id":2324828,
         "gp:id":2346348,
         "hasc:id":"NG.PL",
+        "iso:code":"NG-PL",
         "iso:id":"NG-PL",
         "qs_pg:id":1168700,
         "unlc:id":"NG-PL",
         "wd:id":"Q503928",
         "wk:page":"Plateau State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d45cc710fb419e08730d675fde1cb1f5",
+    "wof:geomhash":"5b74fbc8ae3d7e1e3c1796e441d30587",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -375,7 +377,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1690848333,
+    "wof:lastmodified":1695884944,
     "wof:name":"Plateau",
     "wof:parent_id":85632735,
     "wof:placetype":"region",
