@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ugbosien Waterside"
+    ],
+    "name:eng_x_variant":[
+        "Ikeresa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7027896
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2338289
+        ]
     },
     "wof:country":"NG",
     "wof:geomhash":"3628d3511b5c8c1e70190141be6939dd",
@@ -53,13 +64,15 @@
         }
     ],
     "wof:id":1210055413,
-    "wof:lastmodified":1566652943,
+    "wof:lastmodified":1706240537,
     "wof:name":"Ugbosien Waterside",
     "wof:parent_id":1108564337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226703077
+    ],
     "wof:tags":[]
 },
   "bbox": [

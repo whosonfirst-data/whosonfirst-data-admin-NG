@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":2344869
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6826205
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"a24dcf680500ef02c1e2364972fdac3b",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1226674471,
-    "wof:lastmodified":1566656220,
+    "wof:lastmodified":1706240537,
     "wof:name":"Digriga",
     "wof:parent_id":1108562915,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327261513
+    ],
     "wof:tags":[]
 },
   "bbox": [

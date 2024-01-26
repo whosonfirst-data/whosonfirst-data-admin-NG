@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":2328786
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6856250
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"8bdfe561091a53d0584f81df758dac7f",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1276472165,
-    "wof:lastmodified":1566651977,
+    "wof:lastmodified":1706240538,
     "wof:name":"Nkwoida",
     "wof:parent_id":1108563557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276475973
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":2319839
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7040325
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"a786d27309040e33c656e18fb07f5ccd",
     "wof:hierarchy":[
@@ -54,13 +59,15 @@
         }
     ],
     "wof:id":1193075075,
-    "wof:lastmodified":1566652950,
+    "wof:lastmodified":1706240537,
     "wof:name":"Ungwan Naraba",
     "wof:parent_id":1108563127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293627323
+    ],
     "wof:tags":[]
 },
   "bbox": [

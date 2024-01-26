@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2343724
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7027895
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"d920a03bb45ccd8d261286de03b6c06d",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1276391645,
-    "wof:lastmodified":1566652124,
+    "wof:lastmodified":1706240538,
     "wof:name":"Ajasolo",
     "wof:parent_id":1108564337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310348355
+    ],
     "wof:tags":[]
 },
   "bbox": [

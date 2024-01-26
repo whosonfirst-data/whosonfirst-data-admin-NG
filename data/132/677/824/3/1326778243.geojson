@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ajai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6852225
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2351506
+        ]
     },
     "wof:country":"NG",
     "wof:geomhash":"28c7d874df51f46d7f52337273e72173",
@@ -53,13 +61,15 @@
         }
     ],
     "wof:id":1326778243,
-    "wof:lastmodified":1566649925,
+    "wof:lastmodified":1706240539,
     "wof:name":"Ajav",
     "wof:parent_id":1108563839,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327388361
+    ],
     "wof:tags":[]
 },
   "bbox": [

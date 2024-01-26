@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2326856
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7027951
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"86810c40b1b5555ef5bb7ba88238b988",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1343901185,
-    "wof:lastmodified":1566650286,
+    "wof:lastmodified":1706240539,
     "wof:name":"Okuno",
     "wof:parent_id":1108564161,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360227775
+    ],
     "wof:tags":[]
 },
   "bbox": [

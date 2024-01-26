@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":8675666
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8672558
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"8428e0986552b52a240068ed1ac113dd",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1243498609,
-    "wof:lastmodified":1566654889,
+    "wof:lastmodified":1706240538,
     "wof:name":"Tongo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259462415
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":2332527
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6983049
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"705a0f85bb52e4cc56f10ed27ce68ce2",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1242621733,
-    "wof:lastmodified":1566655189,
+    "wof:lastmodified":1706240538,
     "wof:name":"Lading",
     "wof:parent_id":1108563485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343701859
+    ],
     "wof:tags":[]
 },
   "bbox": [
