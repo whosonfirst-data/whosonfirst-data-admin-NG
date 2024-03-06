@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Dariama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6826128
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2345143
+        ]
     },
     "wof:country":"NG",
     "wof:geomhash":"083b7176e3c64f111f7dc89201641d5a",
@@ -53,13 +61,15 @@
         }
     ],
     "wof:id":1276903155,
-    "wof:lastmodified":1566652095,
+    "wof:lastmodified":1706240538,
     "wof:name":"Singiokolo",
     "wof:parent_id":1108563227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293716813
+    ],
     "wof:tags":[]
 },
   "bbox": [

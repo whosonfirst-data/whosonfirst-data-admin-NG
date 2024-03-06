@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":2338926
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7505009
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"e4af802b3825e03bb018e8174ff0ebed",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1259425607,
-    "wof:lastmodified":1566655839,
+    "wof:lastmodified":1706240538,
     "wof:name":"Idumuodi",
     "wof:parent_id":1108564203,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327086041
+    ],
     "wof:tags":[]
 },
   "bbox": [

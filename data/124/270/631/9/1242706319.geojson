@@ -57,6 +57,11 @@
     "wof:concordances":{
         "gn:id":6837263
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2333510
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"39a879aa42f665ef52a9c93e6cd92971",
     "wof:hierarchy":[
@@ -69,13 +74,15 @@
         }
     ],
     "wof:id":1242706319,
-    "wof:lastmodified":1566655118,
+    "wof:lastmodified":1706240538,
     "wof:name":"Kuli",
     "wof:parent_id":1108563369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327063003
+    ],
     "wof:tags":[]
 },
   "bbox": [

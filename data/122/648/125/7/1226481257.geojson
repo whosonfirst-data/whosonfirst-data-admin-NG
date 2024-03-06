@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Emaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7027949
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2343376
+        ]
     },
     "wof:country":"NG",
     "wof:geomhash":"eb08e279010ec1accf846dbe17c35d60",
@@ -53,13 +61,15 @@
         }
     ],
     "wof:id":1226481257,
-    "wof:lastmodified":1566656607,
+    "wof:lastmodified":1706240537,
     "wof:name":"Emaka",
     "wof:parent_id":1108563333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259636415
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -5,30 +5,57 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.353204,6.419301,3.369464,6.430777",
     "geom:latitude":6.425745,
     "geom:longitude":3.361703,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25005.0",
+    "gn:asciiname":"Oluwa",
+    "gn:country_code":"NG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566580,
+    "gn:latitude":6.42639,
+    "gn:longitude":3.35833,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Oluwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.33833,6.40639,3.37833,6.44639",
     "lbl:latitude":6.425649,
     "lbl:longitude":3.361858,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.425649,
     "mps:longitude":3.361858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oluwa"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85675343,
         102191573,
         85632735,
         890437281,
-        1108562957,
-        85675343
+        1108562957
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566580
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2566580
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"dbcdd77c988d724e21d4fc40794a8b20",
     "wof:hierarchy":[
@@ -42,13 +69,15 @@
         }
     ],
     "wof:id":1796635807,
-    "wof:lastmodified":1669184815,
+    "wof:lastmodified":1706240539,
     "wof:name":"Oluwa",
     "wof:parent_id":890437281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1796637841
+    ],
     "wof:tags":[]
 },
   "bbox": [

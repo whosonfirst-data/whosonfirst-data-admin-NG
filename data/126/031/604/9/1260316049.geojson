@@ -30,6 +30,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Amawda",
+        "Amoda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9182359
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2350153
+        ]
     },
     "wof:country":"NG",
     "wof:geomhash":"c61dc57c14ff3d4b4327ae41d5aa6fa6",
@@ -53,13 +62,15 @@
         }
     ],
     "wof:id":1260316049,
-    "wof:lastmodified":1566653270,
+    "wof:lastmodified":1706240538,
     "wof:name":"Isuochi",
     "wof:parent_id":1108564459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293517167
+    ],
     "wof:tags":[]
 },
   "bbox": [

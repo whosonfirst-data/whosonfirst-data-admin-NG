@@ -5,30 +5,57 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.326128,6.465077,3.355556,6.479063",
     "geom:latitude":6.471304,
     "geom:longitude":3.343875,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"25002",
+    "gn:asciiname":"Amukoko",
+    "gn:country_code":"NG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9179526,
+    "gn:latitude":6.46509,
+    "gn:longitude":3.34293,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Amukoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lagos",
     "iso:country":"NG",
+    "lbl:bbox":"3.32293,6.44509,3.36293,6.48509",
     "lbl:latitude":6.472757,
     "lbl:longitude":3.347776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":6.472757,
     "mps:longitude":3.347776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Amukoko"
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85675343,
         102191573,
         85632735,
         890437281,
-        1108562957,
-        85675343
+        1108562957
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9179526
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9179526
+        ]
+    },
     "wof:country":"NG",
     "wof:geomhash":"7d37311e59d8c10349164965b40d0b3a",
     "wof:hierarchy":[
@@ -42,13 +69,15 @@
         }
     ],
     "wof:id":1796635789,
-    "wof:lastmodified":1669184814,
+    "wof:lastmodified":1706240539,
     "wof:name":"Amukoko",
     "wof:parent_id":890437281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1796638299
+    ],
     "wof:tags":[]
 },
   "bbox": [

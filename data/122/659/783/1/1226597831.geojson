@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Mabelen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6760201
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2331770
+        ]
     },
     "wof:country":"NG",
     "wof:geomhash":"fe997e852263adb3b3f78aab39cb00d0",
@@ -53,13 +61,15 @@
         }
     ],
     "wof:id":1226597831,
-    "wof:lastmodified":1566656263,
+    "wof:lastmodified":1706240537,
     "wof:name":"Mabeleri",
     "wof:parent_id":1108563485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293529657
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -37,6 +37,10 @@
         "Tuinpega",
         "Dugbagbene"
     ],
+    "name:und_x_variant":[
+        "Dugbagbene",
+        "Tipama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2321595
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7040430
+        ]
     },
     "wof:country":"NG",
     "wof:geomhash":"dfa04cf3567d06805cc700fdd631f5f4",
@@ -60,13 +69,15 @@
         }
     ],
     "wof:id":1259713301,
-    "wof:lastmodified":1566655632,
+    "wof:lastmodified":1706240538,
     "wof:name":"Tipama",
     "wof:parent_id":1108564377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326658659
+    ],
     "wof:tags":[]
 },
   "bbox": [

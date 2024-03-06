@@ -30,6 +30,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ojiguo"
+    ],
+    "name:und_x_variant":[
+        "Jikwa",
+        "Ojikwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7027848
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2327394
+        ]
     },
     "wof:country":"NG",
     "wof:geomhash":"d01ce6b9e32cba8aca51e8c066054548",
@@ -53,13 +65,15 @@
         }
     ],
     "wof:id":1343996895,
-    "wof:lastmodified":1566650258,
+    "wof:lastmodified":1706240539,
     "wof:name":"Ojiguo",
     "wof:parent_id":1108564337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360137617
+    ],
     "wof:tags":[]
 },
   "bbox": [
